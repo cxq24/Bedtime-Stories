@@ -52,14 +52,29 @@
     "archives_in_current_tree": false,
     "loose_sources_included": true,
     "historical_commits_rewritten": false,
-    "status": "ep010_v001_synced_to_github_main",
-    "video_sync_exception": "Per user request, ep006-v002, ep007-v002, ep008-v002, ep009-v002 and ep010-v001 main/clean videos are included; ep009-v001 source materials remain without video.",
+    "status": "ep011_v001_synced_to_github_main",
+    "video_sync_exception": "Per user request, ep006-v002, ep007-v002, ep008-v002, ep009-v002 and ep010-v001 main/clean videos are included; ep009-v001 source materials remain without video. Per user request, ep011-v001 main/clean videos are also included.",
     "verified_source_commit": "a9ea5b2b87c5faa33c1f1ec2e82cf2c68ca9512b",
-    "record": "docs/production/维护记录/2026-11-13_第010集仓库同步/RECORD.md",
+    "record": "docs/production/维护记录/2026-11-13_第011集仓库同步/RECORD.md",
     "verified_sync_commit": "2645639d42e2c7e0f0cbb514d772bcc659c4ffa5"
   },
   "publication": "not_published",
   "latest_production": {
+    "id": "ep011",
+    "version": "v001",
+    "title": "小刺猬的软座位",
+    "script_version": "v5",
+    "duration_s": 297.72,
+    "shots": 44,
+    "hanzi": 811,
+    "subtitle_cues": 143,
+    "status": "technical_passed_human_watch_pending",
+    "record": "episodes/ep011/v001/RECORD.md",
+    "delivery": "Outputs/2026-11-12/ep011-v001/README.md",
+    "published": false,
+    "user_acceptance": "pending"
+  },
+  "previous_production": {
     "id": "ep010",
     "version": "v001",
     "title": "晚安小书签",
@@ -73,35 +88,23 @@
     "published": false,
     "user_acceptance": "pending"
   },
-  "previous_production": {
-    "id": "ep009",
-    "version": "v002",
-    "title": "拖鞋排排坐",
-    "script_version": "v5",
-    "duration_s": 264.68,
-    "shots": 38,
-    "subtitle_cues": 127,
-    "status": "technical_passed_human_watch_pending",
-    "record": "episodes/ep009/v002/RECORD.md",
-    "delivery": "Outputs/2026-11-12/ep009-v002/README.md",
-    "published": false,
-    "user_acceptance": "pending"
-  },
   "current_production": {
-    "id": "ep010",
+    "id": "ep011",
     "version": "v001",
-    "status": "technical_checks_passed_waiting_human_review",
-    "duration_s": 274.04,
-    "shots": 36,
-    "hanzi": 761,
-    "subtitle_cues": 130,
-    "technical_checks": "passed",
-    "user_acceptance": "pending",
-    "publication": "not_published",
+    "title": "小刺猬的软座位",
     "script_version": "v5",
-    "record": "episodes/ep010/v001/RECORD.md",
-    "delivery": "Outputs/2026-11-12/ep010-v001",
-    "acceptance_date": null
+    "duration_s": 297.72,
+    "shots": 44,
+    "hanzi": 811,
+    "subtitle_cues": 143,
+    "status": "technical_passed_human_watch_pending",
+    "record": "episodes/ep011/v001/RECORD.md",
+    "delivery": "Outputs/2026-11-12/ep011-v001/README.md",
+    "published": false,
+    "user_acceptance": "pending",
+    "technical_checks": "passed",
+    "human_watch": "pending",
+    "publication": "not_published"
   },
   "previous_script_version": "v4",
   "script_revision": {
@@ -130,6 +133,13 @@
     "opening_requires_standalone_illustration": true
   },
   "recent_productions": [
+    {
+      "id": "ep011",
+      "version": "v001",
+      "status": "technical_checks_passed_waiting_human_review",
+      "record": "episodes/ep011/v001/RECORD.md",
+      "delivery": "Outputs/2026-11-12/ep011-v001"
+    },
     {
       "id": "ep010",
       "version": "v001",
