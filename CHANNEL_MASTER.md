@@ -20,7 +20,7 @@
 | 类别 | 当前要求 | 规范 |
 | --- | --- | --- |
 | 声音 | 晓晓`zh-CN-XiaoxiaoNeural`，rate `-35%`、pitch `-2Hz`、volume `+0%`、48kHz；完整读完，不限五分钟，不删正文、不拉伸音频 | [声音规范](docs/production/VOICE_PROFILE.md) |
-| 分镜与画面 | 全文覆盖、镜数可变，通常8–10秒、尽量不超过15秒；按实测配音校准；每镜独立静态水彩图，镜间0.96秒叠化，25fps | [视频规范](docs/production/VIDEO_SPEC.md) · [分镜规范](docs/production/STORYBOARD_SPEC.md) |
+| 分镜、画面与表演 | 全文覆盖，按实测配音校准；身份造型稳定，逐镜表情、视线和姿态按当前情节变化；不套用全片忧郁默认脸。镜长通常8–10秒、尽量不超过15秒；固定图、0.96秒叠化、25fps | [视频规范](docs/production/VIDEO_SPEC.md) · [分镜规范](docs/production/STORYBOARD_SPEC.md) |
 | 片头 | v5的p000必须进入配音、字幕和时间轴，与正文分开规划一镜或多镜，并为每镜生成独立片头插画 | [v5说明](02_100集剧本/用户长稿v5/README.md) |
 | 字幕 | 每个汉字上方对应带调拼音；汉字76px、拼音48px，按语音停顿拆短语并核对读音 | [字幕规范](docs/production/SUBTITLE_SPEC.md) |
 | 封面 | 独立1080×1920 PNG；框内只放主题短标题，默认四字，必要时五或六字 | [封面规范](docs/production/COVER_SPEC.md) |
