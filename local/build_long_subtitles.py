@@ -11,6 +11,14 @@ from pypinyin import Style, pinyin
 
 ROOT = Path(__file__).resolve().parents[1]
 FIX = {
+    '教大家': ['jiāo', 'dà', 'jiā'],
+    '蒲公英': ['pú', 'gōng', 'yīng'], '榕树': ['róng', 'shù'],
+    '拖鞋': ['tuō', 'xié'], '小窝': ['xiǎo', 'wō'],
+    '掉队': ['diào', 'duì'], '鞋尖': ['xié', 'jiān'],
+    '毛绒绒': ['máo', 'róng', 'róng'], '并排': ['bìng', 'pái'],
+    '画册': ['huà', 'cè'], '鞋子': ['xié', 'zi'],
+    '脚步声': ['jiǎo', 'bù', 'shēng'], '腾出': ['téng', 'chū'],
+    '东倒西歪': ['dōng', 'dǎo', 'xī', 'wāi'],
     '白桦': ['bái', 'huà'], '吊床': ['diào', 'chuáng'],
     '绒绒': ['róng', 'róng'], '窗框': ['chuāng', 'kuàng'],
     '晃得': ['huàng', 'de'], '晃了': ['huàng', 'le'],
