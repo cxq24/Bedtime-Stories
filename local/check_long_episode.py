@@ -58,10 +58,18 @@ def main():
         assert refs
     assert len(set(hashes)) == len(plan['shots']) == plan['shot_count']
     root = Path(__file__).resolve().parents[1]
-    old = [p for p in (root / 'episodes').glob('ep*/v*/images/*.png') if p.parent.parent.resolve() != out]
+    # A revision of the same episode may intentionally reuse its unchanged
+    # plot illustrations. Other episodes' plot images remain disallowed.
+    previous_same_episode = [p for p in (root / 'episodes').glob('ep*/v*/images/*.png')
+                             if len(p.parents) > 2 and p.parents[2].name == episode and p.parent.parent.resolve() != out]
+    old = [p for p in (root / 'episodes').glob('ep*/v*/images/*.png')
+           if p.parent.parent.resolve() != out and not (len(p.parents) > 2 and p.parents[2].name == episode)]
     old_hashes = {hashlib.sha256(p.read_bytes()).hexdigest() for p in old}
     assert not (set(hashes) & old_hashes)
-    montage = Image.new('RGB', (162*7, 314*5), '#f7f1e6')
+    previous_hashes = {hashlib.sha256(p.read_bytes()).hexdigest() for p in previous_same_episode}
+    reused_previous_images = [shot['id'] for shot, sha in zip(plan['shots'], hashes) if sha in previous_hashes]
+    montage_rows = (len(images) + 6) // 7
+    montage = Image.new('RGB', (162*7, 314*montage_rows), '#f7f1e6')
     draw = ImageDraw.Draw(montage)
     for i, im in enumerate(images):
         x, y = i % 7 * 162, i // 7 * 314
@@ -105,6 +113,8 @@ def main():
               'word_boundary_text_coverage': 1.0, 'subtitle_hanzi_coverage': 1.0, 'cues': len(cues),
               'shots': len(hashes), 'unique_active_plot_images': len(set(hashes)),
               'historical_images_compared': len(old), 'historical_plot_reuse': False,
+              'same_episode_previous_version_images_available': len(previous_same_episode),
+              'same_episode_previous_version_images_reused': reused_previous_images,
               'current_episode_cover_base_reuse': [s['id'] for s, h in zip(plan['shots'], hashes) if h == hashlib.sha256((out/'cover_base.png').read_bytes()).hexdigest()],
               'max_image_visible_s': max(s['visible_duration_s'] for s in plan['shots']),
               'audio': audio, 'videos': videos, 'full_human_listen_watch': 'not_certified',
