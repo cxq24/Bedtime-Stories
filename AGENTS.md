@@ -1,6 +1,6 @@
 # 接手AI执行约定
 
-1. 每次接手先读`CHANNEL_MASTER.md`、`云端接手.md`、`PROJECT_STATE.json`、`02_100集剧本/00_总目录.md`和`docs/production/EPISODE_STATUS.md`，再读目标集JSON及专项规范；不靠聊天记忆判断进度。
+1. 每次接手先读`01_制作手册/制作总手册.md`作为入口，再按其顺序读`CHANNEL_MASTER.md`、`云端接手.md`、`PROJECT_STATE.json`、稿库索引和状态台账；不靠聊天记忆判断进度。
 2. **唯一有效剧本版本为v5**。新制作、补录、重剪和改稿只读取`02_100集剧本/用户长稿v5/结构化JSON/epNNN.json`。旧版替代稿已移出当前树；历史工程内的快照只记录旧媒体来源，不能用作新任务稿源。
 3. JSON是唯一可编辑剧本源；Markdown是导出阅读视图。改稿后重新导出并运行`python3 local/export_opening_scripts.py --validate-only`，保持JSON、阅读合集和100份单集Markdown一致。
 4. v5每集的`p000`必须进入配音、字幕和时间轴，单独规划开场镜并生成专属插画；不复用封面或第一张剧情图。

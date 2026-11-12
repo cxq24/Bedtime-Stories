@@ -2,9 +2,9 @@
 
 儿童中文睡前故事视频项目。新会话和云端任务从这些文件恢复当前规则与进度：
 
-1. [制作主控与进度](CHANNEL_MASTER.md)
-2. [接手操作说明](云端接手.md) · [AI执行约定](AGENTS.md) · [机器状态](PROJECT_STATE.json)
-3. [剧本索引](02_100集剧本/00_总目录.md) · [单集媒体台账](docs/production/EPISODE_STATUS.md)
+1. [制作总手册与AI接手入口](01_制作手册/制作总手册.md)
+2. [制作主控与进度](CHANNEL_MASTER.md) · [机器状态](PROJECT_STATE.json) · [单集媒体台账](docs/production/EPISODE_STATUS.md)
+3. [接手操作说明](云端接手.md) · [AI执行约定](AGENTS.md) · [剧本索引](02_100集剧本/00_总目录.md)
 
 **后续所有新制作、补录、重剪统一使用v5。** 唯一可编辑稿源为`02_100集剧本/用户长稿v5/结构化JSON/epNNN.json`。旧替代版本已从当前工作树移除；历史工程快照仅供核验原媒体来源。
 
