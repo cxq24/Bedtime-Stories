@@ -1,0 +1,371 @@
+{
+  "text": "皮皮指了指软地垫，柔声说：“绒绒，你不用踮着脚尖那么累，你只要顺着垫子，把步子放慢一点点，从脚跟慢慢落到脚掌，试一试？”\n小熊绒绒走上软地垫，深吸一口气，不再急匆匆地迈步，而是像踩在厚厚的雪地上一样，慢慢地把大脚掌放稳。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "ca2558fb535d12f6202125f616258fe6d7297cf8dd6bf2b3c1037fc93d501a6c",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5577080,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7230830,
+      "duration": 1922910,
+      "text": "指"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9153750,
+      "duration": 1922910,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11077080,
+      "duration": 1922910,
+      "text": "指"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13384580,
+      "duration": 9230830,
+      "text": "软地垫"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26846250,
+      "duration": 5961250,
+      "text": "柔声"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32807500,
+      "duration": 5192500,
+      "text": "说"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43577080,
+      "duration": 3461250,
+      "text": "绒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47038330,
+      "duration": 4807500,
+      "text": "绒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55115410,
+      "duration": 1538330,
+      "text": "你"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56846250,
+      "duration": 4422910,
+      "text": "不用"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61461660,
+      "duration": 2884580,
+      "text": "踮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64346250,
+      "duration": 1346250,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 65884580,
+      "duration": 6153750,
+      "text": "脚尖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 72422910,
+      "duration": 3461660,
+      "text": "那么"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75884580,
+      "duration": 3461660,
+      "text": "累"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 83769160,
+      "duration": 1346250,
+      "text": "你"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 85307500,
+      "duration": 3846250,
+      "text": "只要"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 89538330,
+      "duration": 4615410,
+      "text": "顺着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 94346250,
+      "duration": 7500000,
+      "text": "垫子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 105769160,
+      "duration": 2307500,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 108269160,
+      "duration": 4615410,
+      "text": "步子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 113269160,
+      "duration": 5000000,
+      "text": "放慢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 118461660,
+      "duration": 9807500,
+      "text": "一点点"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 132500000,
+      "duration": 3077080,
+      "text": "从"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 135769160,
+      "duration": 5192500,
+      "text": "脚跟"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 141346250,
+      "duration": 5384580,
+      "text": "慢慢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 146922910,
+      "duration": 2115410,
+      "text": "落"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 149038330,
+      "duration": 2115410,
+      "text": "到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 151346250,
+      "duration": 7884580,
+      "text": "脚掌"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 163461660,
+      "duration": 3653750,
+      "text": "试"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 167115410,
+      "duration": 1922910,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 169038330,
+      "duration": 4615410,
+      "text": "试"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 182307500,
+      "duration": 3653750,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 185961660,
+      "duration": 8653750,
+      "text": "熊绒绒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 195000000,
+      "duration": 5192500,
+      "text": "走上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 200577080,
+      "duration": 9422910,
+      "text": "软地垫"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 213846250,
+      "duration": 3653750,
+      "text": "深"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 217500000,
+      "duration": 2692500,
+      "text": "吸"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 220384580,
+      "duration": 10384580,
+      "text": "一口气"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 235000000,
+      "duration": 4807500,
+      "text": "不再"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 240000000,
+      "duration": 8077080,
+      "text": "急匆匆"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 248077080,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 249615410,
+      "duration": 7692500,
+      "text": "迈步"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 262692500,
+      "duration": 4038330,
+      "text": "而是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 266922910,
+      "duration": 3269160,
+      "text": "像"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 270577080,
+      "duration": 2884580,
+      "text": "踩"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 273461660,
+      "duration": 2115410,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 275961660,
+      "duration": 3269160,
+      "text": "厚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 279230830,
+      "duration": 2500000,
+      "text": "厚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 281730830,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 283269160,
+      "duration": 5961660,
+      "text": "雪地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 289230830,
+      "duration": 2884580,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 292307500,
+      "duration": 5961660,
+      "text": "一样"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 301922910,
+      "duration": 6538330,
+      "text": "慢慢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 308461660,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 310192080,
+      "duration": 1922910,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 312307500,
+      "duration": 5384580,
+      "text": "大脚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 317692080,
+      "duration": 3461660,
+      "text": "掌"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 321153750,
+      "duration": 8077080,
+      "text": "放稳"
+    }
+  ]
+}

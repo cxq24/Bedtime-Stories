@@ -1,0 +1,389 @@
+{
+  "text": "忙活完的时候，天色已经渐渐暗了下来，森林里亮起了零星的萤火虫微光。\n小熊绒绒拍了拍爪子上的木屑，准备跟皮皮说晚安回家。可是，绒绒的脚掌又大又厚，当他迈步走过门廊的旧木地板时，木头便发出一声低低的“咯吱——”响。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "14af7f4a2dd8629ce0e21fc8354f36b3df588bcbec9bc355830227de57b43cdc",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5192500,
+      "text": "忙活"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6461660,
+      "duration": 3076660,
+      "text": "完"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9538330,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11269160,
+      "duration": 7307500,
+      "text": "时候"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22807500,
+      "duration": 7692500,
+      "text": "天色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30692500,
+      "duration": 4615410,
+      "text": "已经"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35500000,
+      "duration": 5384580,
+      "text": "渐渐"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41077080,
+      "duration": 2884580,
+      "text": "暗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43961660,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45500000,
+      "duration": 6922910,
+      "text": "下来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57807500,
+      "duration": 6153750,
+      "text": "森林"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63961660,
+      "duration": 4807500,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 69153750,
+      "duration": 3461660,
+      "text": "亮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 72615410,
+      "duration": 2115410,
+      "text": "起"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 74730830,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 76461660,
+      "duration": 5384580,
+      "text": "零星"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 81846250,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 83577080,
+      "duration": 8269160,
+      "text": "萤火虫"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 92038330,
+      "duration": 7115410,
+      "text": "微光"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 108269160,
+      "duration": 3846250,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 112115410,
+      "duration": 5769160,
+      "text": "熊绒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 117884580,
+      "duration": 3846250,
+      "text": "绒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 122115410,
+      "duration": 2884580,
+      "text": "拍"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 125000000,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 126346250,
+      "duration": 2884580,
+      "text": "拍"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 129615410,
+      "duration": 4807500,
+      "text": "爪子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 134422910,
+      "duration": 2884580,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 137307500,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 138653750,
+      "duration": 7692500,
+      "text": "木屑"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 151153750,
+      "duration": 4422910,
+      "text": "准备"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 155769160,
+      "duration": 2307500,
+      "text": "跟"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 158269160,
+      "duration": 5384580,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 163653750,
+      "duration": 5577080,
+      "text": "说"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 170769160,
+      "duration": 5769160,
+      "text": "晚安"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 176730830,
+      "duration": 8077080,
+      "text": "回家"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 193653750,
+      "duration": 8269160,
+      "text": "可是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 207500000,
+      "duration": 3077080,
+      "text": "绒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 210577080,
+      "duration": 1922910,
+      "text": "绒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 212500000,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 214230830,
+      "duration": 6346250,
+      "text": "脚掌"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 220961660,
+      "duration": 2884580,
+      "text": "又"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 223846250,
+      "duration": 2500000,
+      "text": "大"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 226538330,
+      "duration": 3269160,
+      "text": "又"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 229807500,
+      "duration": 4807500,
+      "text": "厚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 238846250,
+      "duration": 2500000,
+      "text": "当"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 241346250,
+      "duration": 2115410,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 243653750,
+      "duration": 5192500,
+      "text": "迈步"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 249038330,
+      "duration": 5000000,
+      "text": "走过"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 254422910,
+      "duration": 5769160,
+      "text": "门廊"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 260192500,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 262115410,
+      "duration": 2307500,
+      "text": "旧"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 264422910,
+      "duration": 1922910,
+      "text": "木"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 266538330,
+      "duration": 6153750,
+      "text": "地板"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 272692500,
+      "duration": 5577080,
+      "text": "时"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 281922910,
+      "duration": 7307500,
+      "text": "木头"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 289615410,
+      "duration": 2692500,
+      "text": "便"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 292500000,
+      "duration": 4422910,
+      "text": "发出"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 297115410,
+      "duration": 2115410,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 299230830,
+      "duration": 3653750,
+      "text": "声"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 303269160,
+      "duration": 5000000,
+      "text": "低低"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 308269160,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 310192080,
+      "duration": 6922910,
+      "text": "咯吱"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 321346250,
+      "duration": 4807500,
+      "text": "响"
+    }
+  ]
+}

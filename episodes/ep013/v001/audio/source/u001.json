@@ -1,0 +1,179 @@
+{
+  "text": "小朋友们，准备好听故事了吗？今天的故事叫《小熊的轻轻脚步》。门廊的木板修好了，皮皮和绒绒怎样轻轻走过它呢？",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "1b1e512516611111df831a2f22b2106f42fdf3e1e68dc263290ae3f97700fcbc",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 8846250,
+      "text": "小朋友"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10115410,
+      "duration": 3846250,
+      "text": "们"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17422910,
+      "duration": 3846250,
+      "text": "准备"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21461660,
+      "duration": 5769160,
+      "text": "好听"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27422910,
+      "duration": 5192500,
+      "text": "故事"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32615410,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33961660,
+      "duration": 4038330,
+      "text": "吗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46922910,
+      "duration": 5769160,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52692500,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54422910,
+      "duration": 5192500,
+      "text": "故事"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59807500,
+      "duration": 5000000,
+      "text": "叫"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 66346250,
+      "duration": 6346250,
+      "text": "小熊"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 72692500,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 74422910,
+      "duration": 5577080,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 80192500,
+      "duration": 7692500,
+      "text": "脚步"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 96730830,
+      "duration": 5576660,
+      "text": "门廊"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 102307500,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 103846250,
+      "duration": 5192500,
+      "text": "木板"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 109422910,
+      "duration": 6922910,
+      "text": "修好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 116346250,
+      "duration": 3269160,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 125000000,
+      "duration": 4807500,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 130192500,
+      "duration": 2115410,
+      "text": "和"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 132500000,
+      "duration": 8077080,
+      "text": "绒绒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 142115410,
+      "duration": 5769160,
+      "text": "怎样"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 148077080,
+      "duration": 5192500,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 153653750,
+      "duration": 4038330,
+      "text": "走过"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 157884580,
+      "duration": 2692500,
+      "text": "它"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 160577080,
+      "duration": 3653750,
+      "text": "呢"
+    }
+  ]
+}
