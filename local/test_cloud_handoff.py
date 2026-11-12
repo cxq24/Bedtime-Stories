@@ -16,7 +16,7 @@ class CloudHandoff(unittest.TestCase):
             repo = Path(folder).resolve()/'checkout'
             shutil.copytree(ROOT/'local', repo/'local', ignore=shutil.ignore_patterns('__pycache__'))
             shutil.copy2(ROOT/'PROJECT_STATE.json', repo/'PROJECT_STATE.json')
-            source = Path('02_100集剧本/用户长稿v4/结构化JSON')
+            source = Path(json.loads((ROOT/'PROJECT_STATE.json').read_text())['script_json_directory'])
             shutil.copytree(ROOT/source, repo/source)
             registry = Path('03_素材与参数/用户长稿v4角色图库.json')
             (repo/registry).parent.mkdir(parents=True, exist_ok=True)

@@ -27,3 +27,6 @@
 2026-11-12目录更新：以`docs/production/DIRECTORY_SPEC.md`为准。长稿渲染`--output-dir`指定episodes工程，新增`--delivery-dir`指定仅含最终文件的Outputs目录；检查器同样支持两目录分开。当前004用户已认可，片长278.72秒、35镜、完整口播与拼音样式继续沿用，封面优先四字。
 
 2026-11-12云端同步：`setup_cloud.sh`安装依赖后使用`cloud_preflight.py --require-no-videos`，不依赖不进Git的MP4；旧001 doctor清单不作为新云端素材检查入口。长稿渲染器/字幕/分镜和检查器已从本集JSON读取集号、字数、镜数和时长；新故事仍须完整策划分镜与校对拼音。`prepare_story_image.py`对新集只用显式environment_reference，不根据第N镜强套004卧室和动作。见根目录云端接手.md。
+
+
+2026-11-12新增用户长稿v5：001–100都有专属p000开场，v4原正文逐字保留。片头需单独配一张插画并作为独立镜头规划。使用`python3 local/export_opening_scripts.py --validate-only`核对；导出阅读视图时指定`--output-dir`为`02_100集剧本/阅读与审校/`下的新目录。已完成的v001媒体仍对应其记录中的v4源稿，不自动视作包含v5开场。

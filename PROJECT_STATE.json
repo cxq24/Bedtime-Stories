@@ -3,8 +3,8 @@
   "updated_on": "2026-11-12",
   "repository": "https://github.com/Carlosxiaoqing/Bedtime-Stories",
   "branch": "main",
-  "adopted_script_version": "v4",
-  "script_json_directory": "02_100集剧本/用户长稿v4/结构化JSON",
+  "adopted_script_version": "v5",
+  "script_json_directory": "02_100集剧本/用户长稿v5/结构化JSON",
   "script_count": 100,
   "adopted_long_range": [
     4,
@@ -97,5 +97,14 @@
     "publication": "not_published",
     "record": "episodes/ep008/v001/RECORD.md",
     "delivery": "Outputs/2026-11-12/ep008-v001"
+  },
+  "previous_script_version": "v4",
+  "script_revision": {
+    "date": "2026-11-12",
+    "change": "为001–100逐集增加专属p000开场，原正文逐字保留。",
+    "opening_illustration_required": true,
+    "export": "02_100集剧本/阅读与审校/用户长稿v5开场优化_v001/",
+    "validation": "local/export_opening_scripts.py",
+    "existing_media_source": "v4; existing deliveries are unchanged"
   }
 }

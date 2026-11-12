@@ -15,7 +15,7 @@
 ## 从这里开始
 
 1. [制作主控与当前进度](CHANNEL_MASTER.md)：固定标准、当前状态、下一步。
-2. [100集剧本索引](02_100集剧本/00_总目录.md)：选定集数后读取对应JSON与Markdown；JSON是唯一改稿源。
+2. [100集剧本索引](02_100集剧本/00_总目录.md)：当前制作稿为v5，选定集数后读取对应JSON；每集片头需单独配图。JSON是唯一改稿源。
 3. [接手约定](AGENTS.md) · [交接与缺失材料](HANDOFF.md)
 4. [声音与语速](docs/production/VOICE_PROFILE.md) · [视频要求](docs/production/VIDEO_SPEC.md)
 5. [统一封面](docs/production/COVER_SPEC.md) · [逐字拼音字幕](docs/production/SUBTITLE_SPEC.md)
@@ -35,3 +35,6 @@
 后续制作的新交付统一放在`Outputs/北京时间日期/独立任务目录/`，以主控与单集台账的实际状态为准。
 
 2026-11-12：004 v001已获用户认可。Outputs只放单集成片、封面与交付文本；共用剧本在02_100集剧本、角色图在03_素材与参数、制作源在episodes，均为根目录下的同级目录。入口见[目录规范](docs/production/DIRECTORY_SPEC.md)。封面默认四字，必要时五或六字，具体易懂且有吸引力。
+
+
+2026-11-12：100集剧本已增加v5逐集开场；既有v001成片仍对应各自记录的v4稿源。后续剪辑须将开场单独配图，详见[用户长稿v5](02_100集剧本/用户长稿v5/README.md)与[分镜规范](docs/production/STORYBOARD_SPEC.md)。
