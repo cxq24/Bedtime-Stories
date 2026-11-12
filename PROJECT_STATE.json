@@ -56,7 +56,7 @@
     "video_sync_exception": "Per user request, ep006-v002, ep007-v002, ep008-v002, ep009-v002 and ep010-v001 main/clean videos are included; ep009-v001 source materials remain without video.",
     "verified_source_commit": "a9ea5b2b87c5faa33c1f1ec2e82cf2c68ca9512b",
     "record": "docs/production/维护记录/2026-11-13_第010集仓库同步/RECORD.md",
-    "verified_sync_commit": "8290787"
+    "verified_sync_commit": "2645639d42e2c7e0f0cbb514d772bcc659c4ffa5"
   },
   "publication": "not_published",
   "latest_production": {
