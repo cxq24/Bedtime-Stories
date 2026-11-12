@@ -3,8 +3,9 @@
   "episode_count": 100,
   "checks": {
     "json_markdown_equal": true,
-    "v4_body_preserved": true,
-    "opening_illustration_marked_for_all_episodes": true
+    "opening_illustration_marked_for_all_episodes": true,
+    "v5_body_sha256_valid": true,
+    "single_active_script_version": "v5"
   },
   "episodes": [
     {

@@ -96,5 +96,6 @@
     "human_watch": "not_started",
     "user_acceptance": "not_recorded"
   },
-  "previous_script_version": "v4"
+  "previous_script_version": "v4",
+  "v5_body_sha256": "7097ae45fad1b8497aded9af9d6cc58b802aa15da9ac50580bc24abd74bb91a4"
 }

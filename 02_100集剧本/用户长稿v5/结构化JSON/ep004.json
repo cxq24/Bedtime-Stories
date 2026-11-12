@@ -131,5 +131,6 @@
     "scope": "本集视频与现有封面认可，作为后续制作标准；未授权开始005或发布"
   },
   "delivery_directory": "Outputs/2026-11-11/ep004-v001",
-  "previous_script_version": "v4"
+  "previous_script_version": "v4",
+  "v5_body_sha256": "3ee59a09aef621bed816cbbf8214455b28ac36c7e0bd8af92071ee850cd50624"
 }

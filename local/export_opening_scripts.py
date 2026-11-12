@@ -8,7 +8,6 @@ import re
 
 ROOT = Path(__file__).resolve().parents[1]
 LIBRARY = ROOT / '02_100集剧本/用户长稿v5/结构化JSON'
-PREVIOUS = ROOT / '02_100集剧本/用户长稿v4/结构化JSON'
 
 
 def digest(text):
@@ -48,9 +47,9 @@ def load_episodes():
             raise ValueError(f'不得设置固定片长上限：{path}')
         if e['actual_duration_s'] is not None:
             raise ValueError(f'新口播版不能沿用旧版时长：{path}')
-        previous = json.loads((PREVIOUS / path.name).read_text(encoding='utf-8'))
-        if paragraphs[1:] != previous['narration_paragraphs']:
-            raise ValueError(f'原正文未逐字保留：{path}')
+        body = '\n\n'.join(p['text'] for p in paragraphs[1:])
+        if digest(body) != e.get('v5_body_sha256'):
+            raise ValueError(f'正文摘要不一致：{path}')
         episodes.append(e)
     return episodes
 
@@ -99,7 +98,8 @@ def export(output):
                             e['narration_paragraphs'][0]['text'], '']
     opening_path.write_text('\n'.join(opening_catalog).rstrip() + '\n', encoding='utf-8')
     validation = {'script_version': 'v5', 'episode_count': 100,
-                  'checks': {'json_markdown_equal': True, 'v4_body_preserved': True,
+                  'checks': {'json_markdown_equal': True, 'v5_body_sha256_valid': True,
+                             'single_active_script_version': 'v5',
                              'opening_illustration_marked_for_all_episodes': True},
                   'episodes': evidence}
     (output / '脚本一致性校验.json').write_text(json.dumps(validation, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')

@@ -4,7 +4,7 @@
 
 ## 剧本与声音
 
-采用用户长稿v4完整703字、10段口播，源稿 `02_100集剧本/用户长稿v4/结构化JSON/ep006.json`，快照 `script.snapshot.json`。拆为26个配音单元，晓晓zh-CN-XiaoxiaoNeural，rate=-35%、pitch=-2Hz、volume=+0%，48kHz。按实际录音测得259.76秒；未删文、未拉伸。TTS文本授权记录见 `TTS授权记录.json`。
+历史v001采用当时长稿703字、10段口播，快照为`script.snapshot.json`。新制作统一读v5。拆为26个配音单元，晓晓zh-CN-XiaoxiaoNeural，rate=-35%、pitch=-2Hz、volume=+0%，48kHz。按实际录音测得259.76秒；未删文、未拉伸。TTS文本授权记录见 `TTS授权记录.json`。
 
 ## 分镜、插画与字幕
 

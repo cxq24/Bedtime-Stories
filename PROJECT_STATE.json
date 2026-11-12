@@ -11,19 +11,17 @@
     100
   ],
   "latest_accepted_episode": {
-    "id": "ep004",
-    "version": "v001",
-    "title": "被角的小山坡",
-    "hanzi": 742,
-    "duration_s": 278.72,
-    "shots": 35,
-    "subtitle_cues": 128,
-    "cover_title": "半坡歇歇",
+    "id": "ep006",
+    "version": "v002",
+    "title": "毛线团找到了小窝",
+    "script_version": "v5",
     "accepted_on": "2026-11-12",
-    "record": "episodes/ep004/v001/用户验收记录.json"
+    "acceptance_note": "用户表示“我觉得没问题”，确认第006集v002无须修改。",
+    "record": "episodes/ep006/v002/用户验收记录.json"
   },
   "next_candidate": {
     "id": "ep010",
+    "title": "晚安小书签",
     "authorized": false,
     "media_status": "not_started"
   },
@@ -54,10 +52,10 @@
     "archives_in_current_tree": false,
     "loose_sources_included": true,
     "historical_commits_rewritten": false,
-    "status": "ep007_v002_video_and_sources_synced_ep009_v001_sources_synced",
-    "video_sync_exception": "Per user request, the ep007-v002 publish video and clean master are included; the historical ep006 video exception remains. Other generated videos and archives remain excluded.",
+    "status": "v5_script_cleanup_pending_push",
+    "video_sync_exception": "Per user request, ep006-v002 and ep007-v002 main/clean videos are included; ep009-v001 source materials are synced without video. Other videos remain excluded by default.",
     "verified_source_commit": "a9ea5b2b87c5faa33c1f1ec2e82cf2c68ca9512b",
-    "record": "docs/production/维护记录/2026-11-12_GitHub同步_第007集视频/RECORD.md"
+    "record": "docs/production/维护记录/2026-11-12_v5剧本统一/RECORD.md"
   },
   "publication": "not_published",
   "latest_production": {
@@ -71,7 +69,8 @@
     "status": "technical_passed_human_watch_pending",
     "record": "episodes/ep007/v002/RECORD.md",
     "delivery": "Outputs/2026-11-12/ep007-v002/README.md",
-    "published": false
+    "published": false,
+    "user_acceptance": "pending"
   },
   "previous_production": {
     "id": "ep009",
@@ -92,6 +91,7 @@
     "title": "窗帘的小摇篮",
     "status": "technical_checks_passed_waiting_human_review",
     "duration_s": 274.52,
+    "shots": 33,
     "hanzi": 723,
     "subtitle_cues": 126,
     "technical_checks": "passed",
@@ -101,15 +101,33 @@
     "opening_shots": 2,
     "body_unchanged_from": "v001",
     "record": "episodes/ep007/v002/RECORD.md",
-    "delivery": "Outputs/2026-11-12/ep007-v002"
+    "delivery": "Outputs/2026-11-12/ep007-v002",
+    "acceptance_date": null
   },
   "previous_script_version": "v4",
   "script_revision": {
     "date": "2026-11-12",
-    "change": "为001–100逐集增加专属p000开场，原正文逐字保留。",
+    "change": "v5 is the sole active script version for all new production and rework; every episode has a dedicated p000 opening with a standalone illustration requirement.",
     "opening_illustration_required": true,
-    "export": "02_100集剧本/阅读与审校/用户长稿v5开场优化_v001/",
-    "validation": "local/export_opening_scripts.py",
-    "existing_media_source": "v4; existing deliveries are unchanged"
+    "source": "02_100集剧本/用户长稿v5/结构化JSON",
+    "validation": "local/export_opening_scripts.py --validate-only",
+    "existing_media_policy": "Historical media retains its original per-episode snapshot and is not relabeled as v5."
+  },
+  "previously_accepted_episode": {
+    "id": "ep004",
+    "version": "v001",
+    "title": "被角的小山坡",
+    "accepted_on": "2026-11-12",
+    "record": "episodes/ep004/v001/用户验收记录.json"
+  },
+  "script_policy": {
+    "active_version": "v5",
+    "single_active_source": true,
+    "source_directory": "02_100集剧本/用户长稿v5/结构化JSON",
+    "source_pattern": "epNNN.json",
+    "old_alternative_script_directories_removed": true,
+    "historical_media_snapshots_preserved": true,
+    "opening_paragraph_id": "p000",
+    "opening_requires_standalone_illustration": true
   }
 }
