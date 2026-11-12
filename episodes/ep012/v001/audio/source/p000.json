@@ -1,0 +1,173 @@
+{
+  "text": "小朋友们，准备好听故事了吗？今天的故事叫《小松鼠的空篮子》。团团带着空篮子出发寻宝，今天不装满也可以吗？",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "c26e7031b3df654d8d106b7c7bfbab44dacd6d8abbd5247036647c15f32abdee",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 8846250,
+      "text": "小朋友"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10115410,
+      "duration": 3846250,
+      "text": "们"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17422910,
+      "duration": 3846250,
+      "text": "准备"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21461660,
+      "duration": 5769160,
+      "text": "好听"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27422910,
+      "duration": 5192500,
+      "text": "故事"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32615410,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33961660,
+      "duration": 4038330,
+      "text": "吗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46922910,
+      "duration": 5769160,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52692500,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54422910,
+      "duration": 5000000,
+      "text": "故事"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59615410,
+      "duration": 5000000,
+      "text": "叫"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 66153750,
+      "duration": 3653750,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 69807500,
+      "duration": 5577080,
+      "text": "松鼠"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75384580,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 76922910,
+      "duration": 10577080,
+      "text": "空篮子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 96346250,
+      "duration": 7884580,
+      "text": "团团"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 104422910,
+      "duration": 2500000,
+      "text": "带"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 106922910,
+      "duration": 1538330,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 108653750,
+      "duration": 7500000,
+      "text": "空篮子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 116538330,
+      "duration": 4615410,
+      "text": "出发"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 121346250,
+      "duration": 8077080,
+      "text": "寻宝"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 134038330,
+      "duration": 5000000,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 139230830,
+      "duration": 1538330,
+      "text": "不"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 140769160,
+      "duration": 6346250,
+      "text": "装满"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 147500000,
+      "duration": 1730830,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 149230830,
+      "duration": 4230830,
+      "text": "可以"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 153461660,
+      "duration": 4038330,
+      "text": "吗"
+    }
+  ]
+}

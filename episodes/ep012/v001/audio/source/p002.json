@@ -1,0 +1,329 @@
+{
+  "text": "可是，前两天森林里刚刮过一阵大风，大部分成熟的松果已经被大松鼠们收进树洞仓库里了。\n皮皮和团团在厚厚的草丛里找呀找，找了整整半个下午，团团的小篮子里也只放着两枚圆圆的松果。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "f6583d1147b93eaad2b7ec6d1b82e189ec5f58d5dc140f9b2291f5facf50695a",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 8077080,
+      "text": "可是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14538330,
+      "duration": 3077080,
+      "text": "前"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17615410,
+      "duration": 2692080,
+      "text": "两"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20307500,
+      "duration": 2884580,
+      "text": "天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23577080,
+      "duration": 5769160,
+      "text": "森林"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29346250,
+      "duration": 4038330,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33769160,
+      "duration": 3077080,
+      "text": "刚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36846250,
+      "duration": 2500000,
+      "text": "刮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39346250,
+      "duration": 1730830,
+      "text": "过"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41269160,
+      "duration": 4807500,
+      "text": "一阵"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46269160,
+      "duration": 7307500,
+      "text": "大风"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57115410,
+      "duration": 7500000,
+      "text": "大部分"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 65000000,
+      "duration": 5384580,
+      "text": "成熟"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 70384580,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 71922910,
+      "duration": 8269160,
+      "text": "松果"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 81730830,
+      "duration": 4422910,
+      "text": "已经"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 86153750,
+      "duration": 2115410,
+      "text": "被"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 88653750,
+      "duration": 9038330,
+      "text": "大松鼠"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 97692500,
+      "duration": 3846250,
+      "text": "们"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 102884580,
+      "duration": 6153750,
+      "text": "收进"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 109422910,
+      "duration": 5384580,
+      "text": "树洞"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 115000000,
+      "duration": 7115410,
+      "text": "仓库"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 122115410,
+      "duration": 2500000,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 124615410,
+      "duration": 3077080,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 136346250,
+      "duration": 5192500,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 141922910,
+      "duration": 1730830,
+      "text": "和"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 143846250,
+      "duration": 9615410,
+      "text": "团团"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 154807500,
+      "duration": 2500000,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 157500000,
+      "duration": 3461660,
+      "text": "厚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 160961660,
+      "duration": 2307500,
+      "text": "厚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 163269160,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 164807500,
+      "duration": 6538330,
+      "text": "草丛"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 171346250,
+      "duration": 1730830,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 173461660,
+      "duration": 2884580,
+      "text": "找"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 176346250,
+      "duration": 2500000,
+      "text": "呀"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 178846250,
+      "duration": 4807500,
+      "text": "找"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 187884580,
+      "duration": 2884580,
+      "text": "找"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 190769160,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 192115410,
+      "duration": 5769160,
+      "text": "整整"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 198269160,
+      "duration": 3461660,
+      "text": "半个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 201922910,
+      "duration": 8077080,
+      "text": "下午"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 213269160,
+      "duration": 6346250,
+      "text": "团团"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 219615410,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 220961660,
+      "duration": 8653750,
+      "text": "小篮子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 229615410,
+      "duration": 4615410,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 235769160,
+      "duration": 2307500,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 238077080,
+      "duration": 2500000,
+      "text": "只"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 240769160,
+      "duration": 3077080,
+      "text": "放"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 243846250,
+      "duration": 1346250,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 245384580,
+      "duration": 3077080,
+      "text": "两"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 248461660,
+      "duration": 2692500,
+      "text": "枚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 251538330,
+      "duration": 6730830,
+      "text": "圆圆的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 258461660,
+      "duration": 8846250,
+      "text": "松果"
+    }
+  ]
+}

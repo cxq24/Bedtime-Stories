@@ -1,0 +1,21 @@
+{
+  "characters": [
+    {
+      "character_id": "tuantuan",
+      "path": "references/tuantuan_identity_v001.png",
+      "identity_version": "v001",
+      "sha256": "27a34b5b38a1e7897039a3d3cffa4bbcc3617ddb47432b3d1e8c4f80a88e11ef"
+    },
+    {
+      "character_id": "goat_teacher",
+      "path": "../../../03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/goat_teacher_identity_v001.png",
+      "identity_version": "v001",
+      "sha256": "88bf3c92e0e316fa0219f48ef4ef6364f5b17bce4f63ddf66a712049a4e9b1c9"
+    }
+  ],
+  "image_dimensions": [
+    941,
+    1672
+  ],
+  "image_sha256": "dd769cbcce45db51d2f1993a1b18b77655d8a4aabde769639b15279ef65b5f54"
+}

@@ -1,0 +1,353 @@
+{
+  "text": "一阵晚风从门廊经过，篮子里的叶尖轻轻晃了一下。\n皮皮温和地说：“团团你看，现在的篮子一点儿也不空呀。这两枚松果今天有软布坐着，还有一片漂亮的叶子陪着，要是装得太满，它们反而要挤得透不过气啦。”",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "55c4c5166623c46a45934e955f80abcabdf581a84f86cdcd92fcc2282d583468",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5000000,
+      "text": "一阵"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6461660,
+      "duration": 8269160,
+      "text": "晚风"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15115410,
+      "duration": 2500000,
+      "text": "从"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17807500,
+      "duration": 5384580,
+      "text": "门廊"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23384580,
+      "duration": 7307500,
+      "text": "经过"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35884580,
+      "duration": 5000000,
+      "text": "篮子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40884580,
+      "duration": 1730830,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42615410,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43961660,
+      "duration": 8461660,
+      "text": "叶尖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53961660,
+      "duration": 5961660,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60115410,
+      "duration": 3846250,
+      "text": "晃"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63961660,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 65307500,
+      "duration": 6346250,
+      "text": "一下"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 80769160,
+      "duration": 4807500,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 85961660,
+      "duration": 5576660,
+      "text": "温和"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 91538330,
+      "duration": 1538330,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 93077080,
+      "duration": 5000000,
+      "text": "说"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 101922910,
+      "duration": 5769160,
+      "text": "团团"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 107884580,
+      "duration": 1922910,
+      "text": "你"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 109807500,
+      "duration": 4422910,
+      "text": "看"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 119422910,
+      "duration": 5384580,
+      "text": "现在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 124807500,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 126153750,
+      "duration": 8269160,
+      "text": "篮子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 135961660,
+      "duration": 5577080,
+      "text": "一点儿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 141730830,
+      "duration": 2307500,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 144038330,
+      "duration": 1730830,
+      "text": "不"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 145769160,
+      "duration": 3461660,
+      "text": "空"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 149230830,
+      "duration": 3846250,
+      "text": "呀"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 161730830,
+      "duration": 2692080,
+      "text": "这"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 164422910,
+      "duration": 4422910,
+      "text": "两枚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 169038330,
+      "duration": 8653750,
+      "text": "松果"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 179230830,
+      "duration": 5192500,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 184615410,
+      "duration": 2500000,
+      "text": "有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 187115410,
+      "duration": 5384580,
+      "text": "软布"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 192692500,
+      "duration": 3845830,
+      "text": "坐"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 196538330,
+      "duration": 3653750,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 205000000,
+      "duration": 3653750,
+      "text": "还有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 208846250,
+      "duration": 5192500,
+      "text": "一片"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 214422910,
+      "duration": 5384580,
+      "text": "漂亮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 219807500,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 221153750,
+      "duration": 4615410,
+      "text": "叶子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 225961660,
+      "duration": 4230830,
+      "text": "陪"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 230192500,
+      "duration": 3653750,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 238269160,
+      "duration": 4422910,
+      "text": "要是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 242884580,
+      "duration": 2692500,
+      "text": "装"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 245577080,
+      "duration": 1346250,
+      "text": "得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 247115410,
+      "duration": 4038330,
+      "text": "太"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 251153750,
+      "duration": 4422910,
+      "text": "满"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 259038330,
+      "duration": 4230830,
+      "text": "它们"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 263461660,
+      "duration": 3269160,
+      "text": "反而"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 266922910,
+      "duration": 2692500,
+      "text": "要"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 269615410,
+      "duration": 1922910,
+      "text": "挤"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 271538330,
+      "duration": 1346250,
+      "text": "得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 273269160,
+      "duration": 2692500,
+      "text": "透"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 275961660,
+      "duration": 1538330,
+      "text": "不"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 277500000,
+      "duration": 6922910,
+      "text": "过气"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 284422910,
+      "duration": 3653750,
+      "text": "啦"
+    }
+  ]
+}

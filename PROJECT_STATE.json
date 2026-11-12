@@ -20,8 +20,8 @@
     "record": "episodes/ep006/v002/用户验收记录.json"
   },
   "next_candidate": {
-    "id": "ep012",
-    "title": "小松鼠的空篮子",
+    "id": "ep014",
+    "title": "小鼹鼠画的窗户",
     "authorized": false,
     "media_status": "not_started"
   },
@@ -53,10 +53,10 @@
     "loose_sources_included": true,
     "historical_commits_rewritten": false,
     "status": "ep013_v001_synced_to_github_main",
-    "video_sync_exception": "Per user request, ep006-v002, ep007-v002, ep008-v002, ep009-v002, ep010-v001, ep011-v001, and ep013-v001 main/clean videos are included; ep009-v001 source materials remain without video.",
-    "verified_source_commit": "a9ea5b2b87c5faa33c1f1ec2e82cf2c68ca9512b",
+    "video_sync_exception": "Per user request, ep006-v002, ep007-v002, ep008-v002, ep009-v002, ep010-v001, ep011-v001, ep012-v001, and ep013-v001 main/clean videos are included; ep009-v001 source materials remain without video.",
+    "verified_source_commit": "fb496a2f069cf87b8af9cb00fbe01295b7a58c50",
     "record": "docs/production/维护记录/2026-11-13_第013集仓库同步/RECORD.md",
-    "verified_sync_commit": "2645639d42e2c7e0f0cbb514d772bcc659c4ffa5"
+    "verified_sync_commit": "fb496a2f069cf87b8af9cb00fbe01295b7a58c50"
   },
   "publication": "not_published",
   "latest_production": {
@@ -76,19 +76,20 @@
     "github_sync": "synced_to_main"
   },
   "previous_production": {
-    "id": "ep011",
+    "id": "ep012",
     "version": "v001",
-    "title": "小刺猬的软座位",
+    "title": "小松鼠的空篮子",
     "script_version": "v5",
-    "duration_s": 297.72,
-    "shots": 44,
-    "hanzi": 811,
-    "subtitle_cues": 143,
-    "status": "technical_passed_human_watch_pending",
-    "record": "episodes/ep011/v001/RECORD.md",
-    "delivery": "Outputs/2026-11-12/ep011-v001/README.md",
+    "duration_s": 293.76,
+    "shots": 37,
+    "hanzi": 814,
+    "subtitle_cues": 139,
+    "status": "technical_passed_human_review_pending",
+    "record": "episodes/ep012/v001/RECORD.md",
+    "delivery": "Outputs/2026-11-13/ep012-v001/README.md",
     "published": false,
-    "user_acceptance": "pending"
+    "user_acceptance": "pending",
+    "github_sync": "synced_to_main"
   },
   "current_production": {
     "id": "ep013",
@@ -104,10 +105,10 @@
     "delivery": "Outputs/2026-11-13/ep013-v001/README.md",
     "published": false,
     "user_acceptance": "pending",
+    "github_sync": "synced_to_main",
     "technical_checks": "passed",
     "human_watch": "pending",
-    "publication": "not_published",
-    "github_sync": "synced_to_main"
+    "publication": "not_published"
   },
   "previous_script_version": "v4",
   "script_revision": {
@@ -144,18 +145,18 @@
       "delivery": "Outputs/2026-11-13/ep013-v001"
     },
     {
+      "id": "ep012",
+      "version": "v001",
+      "status": "technical_checks_passed_waiting_human_review",
+      "record": "episodes/ep012/v001/RECORD.md",
+      "delivery": "Outputs/2026-11-13/ep012-v001"
+    },
+    {
       "id": "ep011",
       "version": "v001",
       "status": "technical_checks_passed_waiting_human_review",
       "record": "episodes/ep011/v001/RECORD.md",
       "delivery": "Outputs/2026-11-12/ep011-v001"
-    },
-    {
-      "id": "ep010",
-      "version": "v001",
-      "status": "technical_checks_passed_waiting_human_review",
-      "record": "episodes/ep010/v001/RECORD.md",
-      "delivery": "Outputs/2026-11-12/ep010-v001"
     }
   ]
 }

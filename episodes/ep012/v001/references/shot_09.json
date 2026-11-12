@@ -1,0 +1,15 @@
+{
+  "characters": [
+    {
+      "character_id": "tuantuan",
+      "path": "references/tuantuan_identity_v001.png",
+      "identity_version": "v001",
+      "sha256": "27a34b5b38a1e7897039a3d3cffa4bbcc3617ddb47432b3d1e8c4f80a88e11ef"
+    }
+  ],
+  "image_dimensions": [
+    1086,
+    1448
+  ],
+  "image_sha256": "83145e8c0e681f47a3b24c1b4a200680bad85d0535b64b6b0831a3509e9c3b93"
+}
