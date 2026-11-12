@@ -1,0 +1,21 @@
+{
+  "characters": [
+    {
+      "character_id": "pipi",
+      "path": "references/pipi_identity_v001.png",
+      "identity_version": "v001",
+      "sha256": "6f754c72b9fa7281790bb1fce42bb18701ea055446fda2cdec7ae58b92232674"
+    },
+    {
+      "character_id": "tuantuan",
+      "path": "references/tuantuan_identity_v001.png",
+      "identity_version": "v001",
+      "sha256": "27a34b5b38a1e7897039a3d3cffa4bbcc3617ddb47432b3d1e8c4f80a88e11ef"
+    }
+  ],
+  "image_dimensions": [
+    941,
+    1672
+  ],
+  "image_sha256": "4c200e5f55c4412f6088257da70c69e9cb0086c71fc45d98d31341b36c85e095"
+}

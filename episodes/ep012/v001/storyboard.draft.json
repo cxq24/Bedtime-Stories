@@ -1,0 +1,1137 @@
+{
+  "episode": "ep012",
+  "version": "v001",
+  "script_version": "v5",
+  "status": "draft_not_audio_locked",
+  "narration_complete": true,
+  "shot_count": 37,
+  "total_duration_s": null,
+  "cover_title": "两枚松果",
+  "shots": [
+    {
+      "id": 0,
+      "title": "小朋友们，准备好听故事了吗？今天",
+      "text": "小朋友们，准备好听故事了吗？今天的故事叫《小松鼠的空篮子》。",
+      "source_ranges": [
+        {
+          "unit_id": "p000",
+          "paragraph_id": "p000",
+          "start_char": 0,
+          "end_char": 30
+        }
+      ],
+      "characters": [
+        "pipi",
+        "tuantuan"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "独立片头：森林寻宝出发前的明亮林间，团团手持空藤篮；与正文分镜分别设计。",
+      "action": "依据本镜口播呈现具体动作：小朋友们，准备好听故事了吗？今天的故事叫《小松鼠的空篮子》。；表情和视线反映专注而温和，动作自然克制，保持前后场景物件连续。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_00.png",
+      "reference_manifest": "references/shot_00.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "opening_introduction",
+      "illustration_requirement": "standalone"
+    },
+    {
+      "id": 1,
+      "title": "团团带着空篮子出发寻宝，今天不装",
+      "text": "团团带着空篮子出发寻宝，今天不装满也可以吗？",
+      "source_ranges": [
+        {
+          "unit_id": "p000",
+          "paragraph_id": "p000",
+          "start_char": 30,
+          "end_char": 52
+        }
+      ],
+      "characters": [
+        "pipi",
+        "tuantuan"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "独立片头：森林寻宝出发前的明亮林间，团团手持空藤篮；与正文分镜分别设计。",
+      "action": "依据本镜口播呈现具体动作：团团带着空篮子出发寻宝，今天不装满也可以吗？；表情和视线反映专注而温和，动作自然克制，保持前后场景物件连续。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_01.png",
+      "reference_manifest": "references/shot_01.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "opening_introduction",
+      "illustration_requirement": "standalone"
+    },
+    {
+      "id": 2,
+      "title": "今天下午，树洞教室上了一节有趣的",
+      "text": "今天下午，树洞教室上了一节有趣的“森林寻宝课”。",
+      "source_ranges": [
+        {
+          "unit_id": "p001",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 24
+        }
+      ],
+      "characters": [
+        "tuantuan",
+        "goat_teacher"
+      ],
+      "outfits": {
+        "tuantuan": "default_v001"
+      },
+      "setting": "下午的树洞教室与橡树林入口；山羊老师分发藤篮，团团随后自信出发。",
+      "action": "依据本镜口播呈现具体动作：今天下午，树洞教室上了一节有趣的“森林寻宝课”。；表情和视线反映专注而温和，动作自然克制，保持前后场景物件连续。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_02.png",
+      "reference_manifest": "references/shot_02.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 3,
+      "title": "山羊老师给每个小朋友发了一只小巧",
+      "text": "山羊老师给每个小朋友发了一只小巧的藤编篮子，",
+      "source_ranges": [
+        {
+          "unit_id": "p001",
+          "paragraph_id": "p001",
+          "start_char": 24,
+          "end_char": 46
+        }
+      ],
+      "characters": [
+        "tuantuan",
+        "goat_teacher"
+      ],
+      "outfits": {
+        "tuantuan": "default_v001"
+      },
+      "setting": "下午的树洞教室与橡树林入口；山羊老师分发藤篮，团团随后自信出发。",
+      "action": "依据本镜口播呈现具体动作：山羊老师给每个小朋友发了一只小巧的藤编篮子，；表情和视线反映专注而温和，动作自然克制，保持前后场景物件连续。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_03.png",
+      "reference_manifest": "references/shot_03.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 4,
+      "title": "让大家去橡树林里捡掉落的果实。 ",
+      "text": "让大家去橡树林里捡掉落的果实。\n小松鼠团团最擅长找坚果了，",
+      "source_ranges": [
+        {
+          "unit_id": "p001",
+          "paragraph_id": "p001",
+          "start_char": 46,
+          "end_char": 75
+        }
+      ],
+      "characters": [
+        "tuantuan",
+        "goat_teacher"
+      ],
+      "outfits": {
+        "tuantuan": "default_v001"
+      },
+      "setting": "下午的树洞教室与橡树林入口；山羊老师分发藤篮，团团随后自信出发。",
+      "action": "依据本镜口播呈现具体动作：让大家去橡树林里捡掉落的果实。 小松鼠团团最擅长找坚果了，；表情和视线反映专注而温和，动作自然克制，保持前后场景物件连续。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_04.png",
+      "reference_manifest": "references/shot_04.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 5,
+      "title": "他还在出发前跟皮皮拍着胸脯说：“",
+      "text": "他还在出发前跟皮皮拍着胸脯说：“今天我一定要把篮子装得像小山一样满！”",
+      "source_ranges": [
+        {
+          "unit_id": "p001",
+          "paragraph_id": "p001",
+          "start_char": 75,
+          "end_char": 110
+        }
+      ],
+      "characters": [
+        "tuantuan",
+        "goat_teacher"
+      ],
+      "outfits": {
+        "tuantuan": "default_v001"
+      },
+      "setting": "下午的树洞教室与橡树林入口；山羊老师分发藤篮，团团随后自信出发。",
+      "action": "依据本镜口播呈现具体动作：他还在出发前跟皮皮拍着胸脯说：“今天我一定要把篮子装得像小山一样满！”；表情和视线反映专注而温和，动作自然克制，保持前后场景物件连续。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_05.png",
+      "reference_manifest": "references/shot_05.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 6,
+      "title": "可是，前两天森林里刚刮过一阵大风",
+      "text": "可是，前两天森林里刚刮过一阵大风，大部分成熟的松果已经被大松鼠们收进树洞仓库里了。\n",
+      "source_ranges": [
+        {
+          "unit_id": "p002",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 42
+        }
+      ],
+      "characters": [
+        "pipi",
+        "tuantuan"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "有大风经过的橡树林与厚草丛；松果少、篮子里只有两枚，保持角色服装连续。",
+      "action": "依据本镜口播呈现具体动作：可是，前两天森林里刚刮过一阵大风，大部分成熟的松果已经被大松鼠们收进树洞仓库里了。 ；表情和视线反映先认真寻找，发现果实少时显出失望但不夸张，动作自然克制，保持前后场景物件连续。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_06.png",
+      "reference_manifest": "references/shot_06.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 7,
+      "title": "皮皮和团团在厚厚的草丛里找呀找，",
+      "text": "皮皮和团团在厚厚的草丛里找呀找，找了整整半个下午，",
+      "source_ranges": [
+        {
+          "unit_id": "p002",
+          "paragraph_id": "p002",
+          "start_char": 42,
+          "end_char": 67
+        }
+      ],
+      "characters": [
+        "pipi",
+        "tuantuan"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "有大风经过的橡树林与厚草丛；松果少、篮子里只有两枚，保持角色服装连续。",
+      "action": "依据本镜口播呈现具体动作：皮皮和团团在厚厚的草丛里找呀找，找了整整半个下午，；表情和视线反映先认真寻找，发现果实少时显出失望但不夸张，动作自然克制，保持前后场景物件连续。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_07.png",
+      "reference_manifest": "references/shot_07.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 8,
+      "title": "团团的小篮子里也只放着两枚圆圆的",
+      "text": "团团的小篮子里也只放着两枚圆圆的松果。",
+      "source_ranges": [
+        {
+          "unit_id": "p002",
+          "paragraph_id": "p002",
+          "start_char": 67,
+          "end_char": 86
+        }
+      ],
+      "characters": [
+        "pipi",
+        "tuantuan"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "有大风经过的橡树林与厚草丛；松果少、篮子里只有两枚，保持角色服装连续。",
+      "action": "依据本镜口播呈现具体动作：团团的小篮子里也只放着两枚圆圆的松果。；表情和视线反映先认真寻找，发现果实少时显出失望但不夸张，动作自然克制，保持前后场景物件连续。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_08.png",
+      "reference_manifest": "references/shot_08.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 9,
+      "title": "眼看太阳就要落到山坡后面了，集合",
+      "text": "眼看太阳就要落到山坡后面了，集合的铃声已经轻轻响起。\n",
+      "source_ranges": [
+        {
+          "unit_id": "p003",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 27
+        }
+      ],
+      "characters": [
+        "tuantuan"
+      ],
+      "outfits": {
+        "tuantuan": "default_v001"
+      },
+      "setting": "太阳落向山坡的返家林路；团团拎着大藤篮低头走，两枚松果在篮底轻轻滚动。",
+      "action": "依据本镜口播呈现具体动作：眼看太阳就要落到山坡后面了，集合的铃声已经轻轻响起。 ；表情和视线反映随情节自然变化，动作自然克制，保持前后场景物件连续。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_09.png",
+      "reference_manifest": "references/shot_09.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 10,
+      "title": "回家的路上，团团拎着那只大大的藤",
+      "text": "回家的路上，团团拎着那只大大的藤篮，低头看着篮底孤零零的两枚松果，",
+      "source_ranges": [
+        {
+          "unit_id": "p003",
+          "paragraph_id": "p003",
+          "start_char": 27,
+          "end_char": 60
+        }
+      ],
+      "characters": [
+        "tuantuan"
+      ],
+      "outfits": {
+        "tuantuan": "default_v001"
+      },
+      "setting": "太阳落向山坡的返家林路；团团拎着大藤篮低头走，两枚松果在篮底轻轻滚动。",
+      "action": "依据本镜口播呈现具体动作：回家的路上，团团拎着那只大大的藤篮，低头看着篮底孤零零的两枚松果，；表情和视线反映随情节自然变化，动作自然克制，保持前后场景物件连续。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_10.png",
+      "reference_manifest": "references/shot_10.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 11,
+      "title": "它们在空荡荡的篮子里滚来滚去，撞",
+      "text": "它们在空荡荡的篮子里滚来滚去，撞得竹编壁“啪嗒、啪嗒”地响。",
+      "source_ranges": [
+        {
+          "unit_id": "p003",
+          "paragraph_id": "p003",
+          "start_char": 60,
+          "end_char": 90
+        }
+      ],
+      "characters": [
+        "tuantuan"
+      ],
+      "outfits": {
+        "tuantuan": "default_v001"
+      },
+      "setting": "太阳落向山坡的返家林路；团团拎着大藤篮低头走，两枚松果在篮底轻轻滚动。",
+      "action": "依据本镜口播呈现具体动作：它们在空荡荡的篮子里滚来滚去，撞得竹编壁“啪嗒、啪嗒”地响。；表情和视线反映随情节自然变化，动作自然克制，保持前后场景物件连续。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_11.png",
+      "reference_manifest": "references/shot_11.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 12,
+      "title": "团团停在皮皮家门廊前，扁着嘴巴说",
+      "text": "团团停在皮皮家门廊前，扁着嘴巴说：“皮皮，",
+      "source_ranges": [
+        {
+          "unit_id": "p004",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 21
+        }
+      ],
+      "characters": [
+        "pipi",
+        "tuantuan"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "皮皮家门廊与屋内门边；天色转暗，团团表达失落，皮皮温和劝阻并取来米色软布。",
+      "action": "依据本镜口播呈现具体动作：团团停在皮皮家门廊前，扁着嘴巴说：“皮皮，；表情和视线反映团团失落着急，皮皮平静关心并以手势劝他别摸黑回森林，动作自然克制，保持前后场景物件连续。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_12.png",
+      "reference_manifest": "references/shot_12.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 13,
+      "title": "我的篮子还有一大半是空的，我想再",
+      "text": "我的篮子还有一大半是空的，我想再回林子里找一找，",
+      "source_ranges": [
+        {
+          "unit_id": "p004",
+          "paragraph_id": "p004",
+          "start_char": 21,
+          "end_char": 45
+        }
+      ],
+      "characters": [
+        "pipi",
+        "tuantuan"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "皮皮家门廊与屋内门边；天色转暗，团团表达失落，皮皮温和劝阻并取来米色软布。",
+      "action": "依据本镜口播呈现具体动作：我的篮子还有一大半是空的，我想再回林子里找一找，；表情和视线反映团团失落着急，皮皮平静关心并以手势劝他别摸黑回森林，动作自然克制，保持前后场景物件连续。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_13.png",
+      "reference_manifest": "references/shot_13.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 14,
+      "title": "不装满它，我觉得今天像没完成任务",
+      "text": "不装满它，我觉得今天像没完成任务一样。”\n",
+      "source_ranges": [
+        {
+          "unit_id": "p004",
+          "paragraph_id": "p004",
+          "start_char": 45,
+          "end_char": 66
+        }
+      ],
+      "characters": [
+        "pipi",
+        "tuantuan"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "皮皮家门廊与屋内门边；天色转暗，团团表达失落，皮皮温和劝阻并取来米色软布。",
+      "action": "依据本镜口播呈现具体动作：不装满它，我觉得今天像没完成任务一样。” ；表情和视线反映团团失落着急，皮皮平静关心并以手势劝他别摸黑回森林，动作自然克制，保持前后场景物件连续。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_14.png",
+      "reference_manifest": "references/shot_14.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 15,
+      "title": "皮皮看了看天边已经变暗的云彩，没",
+      "text": "皮皮看了看天边已经变暗的云彩，没有让团团再摸黑跑回森林。",
+      "source_ranges": [
+        {
+          "unit_id": "p004",
+          "paragraph_id": "p004",
+          "start_char": 66,
+          "end_char": 94
+        }
+      ],
+      "characters": [
+        "pipi",
+        "tuantuan"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "皮皮家门廊与屋内门边；天色转暗，团团表达失落，皮皮温和劝阻并取来米色软布。",
+      "action": "依据本镜口播呈现具体动作：皮皮看了看天边已经变暗的云彩，没有让团团再摸黑跑回森林。；表情和视线反映团团失落着急，皮皮平静关心并以手势劝他别摸黑回森林，动作自然克制，保持前后场景物件连续。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_15.png",
+      "reference_manifest": "references/shot_15.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 16,
+      "title": "他转身进屋，拿出一块折得厚厚的米",
+      "text": "他转身进屋，拿出一块折得厚厚的米色软布，",
+      "source_ranges": [
+        {
+          "unit_id": "p004",
+          "paragraph_id": "p004",
+          "start_char": 94,
+          "end_char": 114
+        }
+      ],
+      "characters": [
+        "pipi",
+        "tuantuan"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "皮皮家门廊与屋内门边；天色转暗，团团表达失落，皮皮温和劝阻并取来米色软布。",
+      "action": "依据本镜口播呈现具体动作：他转身进屋，拿出一块折得厚厚的米色软布，；表情和视线反映团团失落着急，皮皮平静关心并以手势劝他别摸黑回森林，动作自然克制，保持前后场景物件连续。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_16.png",
+      "reference_manifest": "references/shot_16.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 17,
+      "title": "垫在了团团的篮子底下。",
+      "text": "垫在了团团的篮子底下。",
+      "source_ranges": [
+        {
+          "unit_id": "p004",
+          "paragraph_id": "p004",
+          "start_char": 114,
+          "end_char": 125
+        }
+      ],
+      "characters": [
+        "pipi",
+        "tuantuan"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "皮皮家门廊与屋内门边；天色转暗，团团表达失落，皮皮温和劝阻并取来米色软布。",
+      "action": "依据本镜口播呈现具体动作：垫在了团团的篮子底下。；表情和视线反映团团失落着急，皮皮平静关心并以手势劝他别摸黑回森林，动作自然克制，保持前后场景物件连续。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_17.png",
+      "reference_manifest": "references/shot_17.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 18,
+      "title": "软布一铺上去，那两枚松果立刻乖乖",
+      "text": "软布一铺上去，那两枚松果立刻乖乖地靠在了一起，",
+      "source_ranges": [
+        {
+          "unit_id": "p005",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 23
+        }
+      ],
+      "characters": [
+        "pipi",
+        "tuantuan"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "同一门廊近景；软布铺在藤篮底，两枚松果靠在一起，皮皮捡起扇形金黄落叶。",
+      "action": "依据本镜口播呈现具体动作：软布一铺上去，那两枚松果立刻乖乖地靠在了一起，；表情和视线反映专注而温和，动作自然克制，保持前后场景物件连续。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_18.png",
+      "reference_manifest": "references/shot_18.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 19,
+      "title": "不再冷清地滚来滚去了。 接着，皮",
+      "text": "不再冷清地滚来滚去了。\n接着，皮皮指了指篮子旁边空出来的一半地方，",
+      "source_ranges": [
+        {
+          "unit_id": "p005",
+          "paragraph_id": "p005",
+          "start_char": 23,
+          "end_char": 56
+        }
+      ],
+      "characters": [
+        "pipi",
+        "tuantuan"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "同一门廊近景；软布铺在藤篮底，两枚松果靠在一起，皮皮捡起扇形金黄落叶。",
+      "action": "依据本镜口播呈现具体动作：不再冷清地滚来滚去了。 接着，皮皮指了指篮子旁边空出来的一半地方，；表情和视线反映专注而温和，动作自然克制，保持前后场景物件连续。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_19.png",
+      "reference_manifest": "references/shot_19.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 20,
+      "title": "又捡起门廊台阶上一片金黄色的、像",
+      "text": "又捡起门廊台阶上一片金黄色的、像小扇子一样的落叶，",
+      "source_ranges": [
+        {
+          "unit_id": "p005",
+          "paragraph_id": "p005",
+          "start_char": 56,
+          "end_char": 81
+        }
+      ],
+      "characters": [
+        "pipi",
+        "tuantuan"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "同一门廊近景；软布铺在藤篮底，两枚松果靠在一起，皮皮捡起扇形金黄落叶。",
+      "action": "依据本镜口播呈现具体动作：又捡起门廊台阶上一片金黄色的、像小扇子一样的落叶，；表情和视线反映专注而温和，动作自然克制，保持前后场景物件连续。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_20.png",
+      "reference_manifest": "references/shot_20.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 21,
+      "title": "轻轻放了进去。",
+      "text": "轻轻放了进去。",
+      "source_ranges": [
+        {
+          "unit_id": "p005",
+          "paragraph_id": "p005",
+          "start_char": 81,
+          "end_char": 88
+        }
+      ],
+      "characters": [
+        "pipi",
+        "tuantuan"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "同一门廊近景；软布铺在藤篮底，两枚松果靠在一起，皮皮捡起扇形金黄落叶。",
+      "action": "依据本镜口播呈现具体动作：轻轻放了进去。；表情和视线反映专注而温和，动作自然克制，保持前后场景物件连续。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_21.png",
+      "reference_manifest": "references/shot_21.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 22,
+      "title": "一阵晚风从门廊经过，篮子里的叶尖",
+      "text": "一阵晚风从门廊经过，篮子里的叶尖轻轻晃了一下。\n",
+      "source_ranges": [
+        {
+          "unit_id": "p006",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 24
+        }
+      ],
+      "characters": [
+        "pipi",
+        "tuantuan"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "门廊晚风吹动篮中落叶；皮皮安慰团团，团团从失落转为专注倾听。",
+      "action": "依据本镜口播呈现具体动作：一阵晚风从门廊经过，篮子里的叶尖轻轻晃了一下。 ；表情和视线反映专注而温和，动作自然克制，保持前后场景物件连续。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_22.png",
+      "reference_manifest": "references/shot_22.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 23,
+      "title": "皮皮温和地说：“团团你看，现在的",
+      "text": "皮皮温和地说：“团团你看，现在的篮子一点儿也不空呀。",
+      "source_ranges": [
+        {
+          "unit_id": "p006",
+          "paragraph_id": "p006",
+          "start_char": 24,
+          "end_char": 50
+        }
+      ],
+      "characters": [
+        "pipi",
+        "tuantuan"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "门廊晚风吹动篮中落叶；皮皮安慰团团，团团从失落转为专注倾听。",
+      "action": "依据本镜口播呈现具体动作：皮皮温和地说：“团团你看，现在的篮子一点儿也不空呀。；表情和视线反映专注而温和，动作自然克制，保持前后场景物件连续。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_23.png",
+      "reference_manifest": "references/shot_23.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 24,
+      "title": "这两枚松果今天有软布坐着，还有一",
+      "text": "这两枚松果今天有软布坐着，还有一片漂亮的叶子陪着，",
+      "source_ranges": [
+        {
+          "unit_id": "p006",
+          "paragraph_id": "p006",
+          "start_char": 50,
+          "end_char": 75
+        }
+      ],
+      "characters": [
+        "pipi",
+        "tuantuan"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "门廊晚风吹动篮中落叶；皮皮安慰团团，团团从失落转为专注倾听。",
+      "action": "依据本镜口播呈现具体动作：这两枚松果今天有软布坐着，还有一片漂亮的叶子陪着，；表情和视线反映专注而温和，动作自然克制，保持前后场景物件连续。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_24.png",
+      "reference_manifest": "references/shot_24.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 25,
+      "title": "要是装得太满，它们反而要挤得透不",
+      "text": "要是装得太满，它们反而要挤得透不过气啦。”",
+      "source_ranges": [
+        {
+          "unit_id": "p006",
+          "paragraph_id": "p006",
+          "start_char": 75,
+          "end_char": 96
+        }
+      ],
+      "characters": [
+        "pipi",
+        "tuantuan"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "门廊晚风吹动篮中落叶；皮皮安慰团团，团团从失落转为专注倾听。",
+      "action": "依据本镜口播呈现具体动作：要是装得太满，它们反而要挤得透不过气啦。”；表情和视线反映专注而温和，动作自然克制，保持前后场景物件连续。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_25.png",
+      "reference_manifest": "references/shot_25.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 26,
+      "title": "团团凑过去仔细看了看。真的耶！两",
+      "text": "团团凑过去仔细看了看。真的耶！两枚松果挨着金黄的树叶，",
+      "source_ranges": [
+        {
+          "unit_id": "p007",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 27
+        }
+      ],
+      "characters": [
+        "pipi",
+        "tuantuan"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "门廊晚间暖光；团团看见篮中小风景后开心合盖，随后沿熟悉小路轻快回家。",
+      "action": "依据本镜口播呈现具体动作：团团凑过去仔细看了看。真的耶！两枚松果挨着金黄的树叶，；表情和视线反映团团发现小风景后眼睛明亮、神情轻松，告别时脚步轻快，动作自然克制，保持前后场景物件连续。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_26.png",
+      "reference_manifest": "references/shot_26.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 27,
+      "title": "在米色软布上像一幅安静的小画，虽",
+      "text": "在米色软布上像一幅安静的小画，虽然不满，",
+      "source_ranges": [
+        {
+          "unit_id": "p007",
+          "paragraph_id": "p007",
+          "start_char": 27,
+          "end_char": 47
+        }
+      ],
+      "characters": [
+        "pipi",
+        "tuantuan"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "门廊晚间暖光；团团看见篮中小风景后开心合盖，随后沿熟悉小路轻快回家。",
+      "action": "依据本镜口播呈现具体动作：在米色软布上像一幅安静的小画，虽然不满，；表情和视线反映团团发现小风景后眼睛明亮、神情轻松，告别时脚步轻快，动作自然克制，保持前后场景物件连续。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_27.png",
+      "reference_manifest": "references/shot_27.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 28,
+      "title": "却已经有了专属于自己的漂亮风景。",
+      "text": "却已经有了专属于自己的漂亮风景。\n团团一下子开心起来，",
+      "source_ranges": [
+        {
+          "unit_id": "p007",
+          "paragraph_id": "p007",
+          "start_char": 47,
+          "end_char": 74
+        }
+      ],
+      "characters": [
+        "pipi",
+        "tuantuan"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "门廊晚间暖光；团团看见篮中小风景后开心合盖，随后沿熟悉小路轻快回家。",
+      "action": "依据本镜口播呈现具体动作：却已经有了专属于自己的漂亮风景。 团团一下子开心起来，；表情和视线反映团团发现小风景后眼睛明亮、神情轻松，告别时脚步轻快，动作自然克制，保持前后场景物件连续。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_28.png",
+      "reference_manifest": "references/shot_28.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 29,
+      "title": "他笑着合上小布盖，跟皮皮道了晚安",
+      "text": "他笑着合上小布盖，跟皮皮道了晚安，沿着熟悉的小路回家去了，",
+      "source_ranges": [
+        {
+          "unit_id": "p007",
+          "paragraph_id": "p007",
+          "start_char": 74,
+          "end_char": 103
+        }
+      ],
+      "characters": [
+        "pipi",
+        "tuantuan"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "门廊晚间暖光；团团看见篮中小风景后开心合盖，随后沿熟悉小路轻快回家。",
+      "action": "依据本镜口播呈现具体动作：他笑着合上小布盖，跟皮皮道了晚安，沿着熟悉的小路回家去了，；表情和视线反映团团发现小风景后眼睛明亮、神情轻松，告别时脚步轻快，动作自然克制，保持前后场景物件连续。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_29.png",
+      "reference_manifest": "references/shot_29.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 30,
+      "title": "脚步轻快，一点儿也不着急。",
+      "text": "脚步轻快，一点儿也不着急。",
+      "source_ranges": [
+        {
+          "unit_id": "p007",
+          "paragraph_id": "p007",
+          "start_char": 103,
+          "end_char": 116
+        }
+      ],
+      "characters": [
+        "pipi",
+        "tuantuan"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "门廊晚间暖光；团团看见篮中小风景后开心合盖，随后沿熟悉小路轻快回家。",
+      "action": "依据本镜口播呈现具体动作：脚步轻快，一点儿也不着急。；表情和视线反映团团发现小风景后眼睛明亮、神情轻松，告别时脚步轻快，动作自然克制，保持前后场景物件连续。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_30.png",
+      "reference_manifest": "references/shot_30.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 31,
+      "title": "皮皮把小木门轻轻关好，回到自己的",
+      "text": "皮皮把小木门轻轻关好，回到自己的床边。",
+      "source_ranges": [
+        {
+          "unit_id": "p008",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 19
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "皮皮家门口与夜晚卧室；皮皮关门回屋、上床；林地松果留在泥土中休息，月光留白。",
+      "action": "依据本镜口播呈现具体动作：皮皮把小木门轻轻关好，回到自己的床边。；表情和视线反映随情节自然变化，动作自然克制，保持前后场景物件连续。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_31.png",
+      "reference_manifest": "references/shot_31.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 32,
+      "title": "今天没装进篮子里的那些松果，此时",
+      "text": "今天没装进篮子里的那些松果，此时也正好好地留在森林的泥土上休息呢。\n",
+      "source_ranges": [
+        {
+          "unit_id": "p008",
+          "paragraph_id": "p008",
+          "start_char": 19,
+          "end_char": 53
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "皮皮家门口与夜晚卧室；皮皮关门回屋、上床；林地松果留在泥土中休息，月光留白。",
+      "action": "依据本镜口播呈现具体动作：今天没装进篮子里的那些松果，此时也正好好地留在森林的泥土上休息呢。 ；表情和视线反映随情节自然变化，动作自然克制，保持前后场景物件连续。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_32.png",
+      "reference_manifest": "references/shot_32.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 33,
+      "title": "他盖好毛毯，把小爪子松开。看呐，",
+      "text": "他盖好毛毯，把小爪子松开。看呐，窗边的月光也没有把整个房间填满，",
+      "source_ranges": [
+        {
+          "unit_id": "p008",
+          "paragraph_id": "p008",
+          "start_char": 53,
+          "end_char": 85
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "皮皮家门口与夜晚卧室；皮皮关门回屋、上床；林地松果留在泥土中休息，月光留白。",
+      "action": "依据本镜口播呈现具体动作：他盖好毛毯，把小爪子松开。看呐，窗边的月光也没有把整个房间填满，；表情和视线反映随情节自然变化，动作自然克制，保持前后场景物件连续。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_33.png",
+      "reference_manifest": "references/shot_33.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 34,
+      "title": "而是留着一大块安静又温柔的空白。",
+      "text": "而是留着一大块安静又温柔的空白。",
+      "source_ranges": [
+        {
+          "unit_id": "p008",
+          "paragraph_id": "p008",
+          "start_char": 85,
+          "end_char": 101
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "皮皮家门口与夜晚卧室；皮皮关门回屋、上床；林地松果留在泥土中休息，月光留白。",
+      "action": "依据本镜口播呈现具体动作：而是留着一大块安静又温柔的空白。；表情和视线反映随情节自然变化，动作自然克制，保持前后场景物件连续。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_34.png",
+      "reference_manifest": "references/shot_34.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 35,
+      "title": "小朋友，今天不用事事都做得满满当",
+      "text": "小朋友，今天不用事事都做得满满当当。给心里的篮子留一点空地方，",
+      "source_ranges": [
+        {
+          "unit_id": "p009",
+          "paragraph_id": "p009",
+          "start_char": 0,
+          "end_char": 31
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "安静的睡前收尾画面：皮皮安顿休息，窗边月光留出一块柔和空白，传达篮子留白的主题。",
+      "action": "依据本镜口播呈现具体动作：小朋友，今天不用事事都做得满满当当。给心里的篮子留一点空地方，；表情和视线反映专注而温和，动作自然克制，保持前后场景物件连续。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_35.png",
+      "reference_manifest": "references/shot_35.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 36,
+      "title": "用来盛放休息和美梦吧。晚安，愿你",
+      "text": "用来盛放休息和美梦吧。晚安，愿你睡得舒服。",
+      "source_ranges": [
+        {
+          "unit_id": "p009",
+          "paragraph_id": "p009",
+          "start_char": 31,
+          "end_char": 52
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "安静的睡前收尾画面：皮皮安顿休息，窗边月光留出一块柔和空白，传达篮子留白的主题。",
+      "action": "依据本镜口播呈现具体动作：用来盛放休息和美梦吧。晚安，愿你睡得舒服。；表情和视线反映专注而温和，动作自然克制，保持前后场景物件连续。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_36.png",
+      "reference_manifest": "references/shot_36.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    }
+  ]
+}

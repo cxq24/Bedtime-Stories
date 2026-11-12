@@ -1,0 +1,311 @@
+{
+  "text": "眼看太阳就要落到山坡后面了，集合的铃声已经轻轻响起。\n回家的路上，团团拎着那只大大的藤篮，低头看着篮底孤零零的两枚松果，它们在空荡荡的篮子里滚来滚去，撞得竹编壁“啪嗒、啪嗒”地响。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "ca15fbf86f0e5a94b72d3ac41f0bd1205e3cc60c3576566169a0881153fe09e4",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5961660,
+      "text": "眼看"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7422910,
+      "duration": 8461660,
+      "text": "太阳"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16269160,
+      "duration": 1730830,
+      "text": "就"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18000000,
+      "duration": 1730830,
+      "text": "要"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19922910,
+      "duration": 2115410,
+      "text": "落"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22038330,
+      "duration": 2115410,
+      "text": "到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24538330,
+      "duration": 5384580,
+      "text": "山坡"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30115410,
+      "duration": 6730830,
+      "text": "后面"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36846250,
+      "duration": 2692500,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45115410,
+      "duration": 5577080,
+      "text": "集合"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50692500,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52230830,
+      "duration": 7884580,
+      "text": "铃声"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61653750,
+      "duration": 4422910,
+      "text": "已经"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 66461660,
+      "duration": 5384580,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 72038330,
+      "duration": 8653750,
+      "text": "响起"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 89807500,
+      "duration": 6153750,
+      "text": "回家"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 95961660,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 97500000,
+      "duration": 7500000,
+      "text": "路上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 109422910,
+      "duration": 6538330,
+      "text": "团团"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 116153750,
+      "duration": 3269160,
+      "text": "拎"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 119422910,
+      "duration": 4615410,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 125577080,
+      "duration": 2115410,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 127692500,
+      "duration": 2115410,
+      "text": "只"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 130192500,
+      "duration": 5576660,
+      "text": "大大"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 135769160,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 137307500,
+      "duration": 7884580,
+      "text": "藤篮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 150192500,
+      "duration": 7500000,
+      "text": "低头"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 157884580,
+      "duration": 2884580,
+      "text": "看"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 160769160,
+      "duration": 1538330,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 162500000,
+      "duration": 5577080,
+      "text": "篮底"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 168461660,
+      "duration": 7115410,
+      "text": "孤零零"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 175577080,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 177500000,
+      "duration": 2884580,
+      "text": "两"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 180384580,
+      "duration": 2307500,
+      "text": "枚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 182884580,
+      "duration": 8653750,
+      "text": "松果"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 195192500,
+      "duration": 3846250,
+      "text": "它们"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 199230830,
+      "duration": 2884580,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 202500000,
+      "duration": 8461660,
+      "text": "空荡荡"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 210961660,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 212500000,
+      "duration": 5192500,
+      "text": "篮子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 217692500,
+      "duration": 2692500,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 220769160,
+      "duration": 13653750,
+      "text": "滚来滚去"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 239422910,
+      "duration": 3077080,
+      "text": "撞"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 242500000,
+      "duration": 1346250,
+      "text": "得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 244038330,
+      "duration": 3077080,
+      "text": "竹"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 247115410,
+      "duration": 5769160,
+      "text": "编壁"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 253269160,
+      "duration": 7307500,
+      "text": "啪嗒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 263846250,
+      "duration": 5961660,
+      "text": "啪嗒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 270192500,
+      "duration": 1345830,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 271538330,
+      "duration": 5192500,
+      "text": "响"
+    }
+  ]
+}

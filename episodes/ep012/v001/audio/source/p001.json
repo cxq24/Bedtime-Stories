@@ -1,0 +1,413 @@
+{
+  "text": "今天下午，树洞教室上了一节有趣的“森林寻宝课”。山羊老师给每个小朋友发了一只小巧的藤编篮子，让大家去橡树林里捡掉落的果实。\n小松鼠团团最擅长找坚果了，他还在出发前跟皮皮拍着胸脯说：“今天我一定要把篮子装得像小山一样满！”",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "4a2cb6cabf124b23dae9fdb3274bde27b5fd1c6c46bf119361bc36899d543c8e",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5384580,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 7884580,
+      "text": "下午"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19730830,
+      "duration": 5192500,
+      "text": "树洞"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25115410,
+      "duration": 5384580,
+      "text": "教室"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30500000,
+      "duration": 2884580,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33384580,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34730830,
+      "duration": 2500000,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37230830,
+      "duration": 3461660,
+      "text": "节"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41077080,
+      "duration": 5961250,
+      "text": "有趣"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47038330,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48769160,
+      "duration": 5384580,
+      "text": "森林"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54346250,
+      "duration": 5769160,
+      "text": "寻宝"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60115410,
+      "duration": 4807500,
+      "text": "课"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 73846250,
+      "duration": 6538330,
+      "text": "山羊"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 80577080,
+      "duration": 8461660,
+      "text": "老师"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 89422910,
+      "duration": 2307500,
+      "text": "给"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 91922910,
+      "duration": 4230830,
+      "text": "每个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 96346250,
+      "duration": 2884580,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 99230830,
+      "duration": 7692500,
+      "text": "朋友"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 108269160,
+      "duration": 2884580,
+      "text": "发"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 111153750,
+      "duration": 961660,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 112307500,
+      "duration": 1922910,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 114230830,
+      "duration": 2115410,
+      "text": "只"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 116730830,
+      "duration": 6153750,
+      "text": "小巧"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 122884580,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 124615410,
+      "duration": 5577080,
+      "text": "藤编"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 130384580,
+      "duration": 7692500,
+      "text": "篮子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 143461660,
+      "duration": 2307500,
+      "text": "让"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 145961660,
+      "duration": 5192500,
+      "text": "大家"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 151346250,
+      "duration": 2307500,
+      "text": "去"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 153653750,
+      "duration": 5577080,
+      "text": "橡树"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 159422910,
+      "duration": 7692500,
+      "text": "林里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 168653750,
+      "duration": 4230830,
+      "text": "捡"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 172884580,
+      "duration": 5384580,
+      "text": "掉落"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 178269160,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 179807500,
+      "duration": 8846250,
+      "text": "果实"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 197500000,
+      "duration": 3461660,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 200961660,
+      "duration": 5192500,
+      "text": "松鼠"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 206346250,
+      "duration": 8461660,
+      "text": "团团"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 215192500,
+      "duration": 3076660,
+      "text": "最"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 218269160,
+      "duration": 5577080,
+      "text": "擅长"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 224038330,
+      "duration": 2307500,
+      "text": "找"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 226538330,
+      "duration": 7500000,
+      "text": "坚果"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 234038330,
+      "duration": 3269160,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 243846250,
+      "duration": 1922910,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 245961660,
+      "duration": 2692080,
+      "text": "还"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 248653750,
+      "duration": 2115410,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 250961660,
+      "duration": 5961250,
+      "text": "出发"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 256922910,
+      "duration": 6153750,
+      "text": "前"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 264615410,
+      "duration": 2884580,
+      "text": "跟"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 267692500,
+      "duration": 5192500,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 273269160,
+      "duration": 2692500,
+      "text": "拍"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 275961660,
+      "duration": 1538330,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 277692500,
+      "duration": 6345830,
+      "text": "胸脯"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 284038330,
+      "duration": 5000000,
+      "text": "说"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 291922910,
+      "duration": 5577080,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 297500000,
+      "duration": 1153750,
+      "text": "我"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 298846250,
+      "duration": 4230830,
+      "text": "一定"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 303269160,
+      "duration": 2115410,
+      "text": "要"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 305384580,
+      "duration": 2307500,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 307884580,
+      "duration": 8077080,
+      "text": "篮子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 317500000,
+      "duration": 2692080,
+      "text": "装"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 320192080,
+      "duration": 1153750,
+      "text": "得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 321730830,
+      "duration": 2307500,
+      "text": "像"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 324230830,
+      "duration": 6346250,
+      "text": "小山"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 330769160,
+      "duration": 4230830,
+      "text": "一样"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 335000000,
+      "duration": 4422910,
+      "text": "满"
+    }
+  ]
+}

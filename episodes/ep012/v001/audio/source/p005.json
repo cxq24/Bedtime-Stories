@@ -1,0 +1,305 @@
+{
+  "text": "软布一铺上去，那两枚松果立刻乖乖地靠在了一起，不再冷清地滚来滚去了。\n接着，皮皮指了指篮子旁边空出来的一半地方，又捡起门廊台阶上一片金黄色的、像小扇子一样的落叶，轻轻放了进去。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "a46a9bffd5434faa588c6b3d2cf2e3a1f9b0bac5de510086f30a47352f9f9ee1",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5384580,
+      "text": "软布"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 2115410,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9153750,
+      "duration": 2115410,
+      "text": "铺"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11461660,
+      "duration": 8077080,
+      "text": "上去"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25115410,
+      "duration": 1730830,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26846250,
+      "duration": 4422910,
+      "text": "两枚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31461660,
+      "duration": 8461660,
+      "text": "松果"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41461660,
+      "duration": 5384580,
+      "text": "立刻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47038330,
+      "duration": 5961660,
+      "text": "乖乖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53000000,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54730830,
+      "duration": 2884580,
+      "text": "靠"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57615410,
+      "duration": 2500000,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60115410,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61461660,
+      "duration": 7884580,
+      "text": "一起"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 73384580,
+      "duration": 5000000,
+      "text": "不再"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78577080,
+      "duration": 5576660,
+      "text": "冷清"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 84153750,
+      "duration": 1538330,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 86077080,
+      "duration": 11922910,
+      "text": "滚来滚去"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 98000000,
+      "duration": 2884580,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 109807500,
+      "duration": 7500000,
+      "text": "接着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 122884580,
+      "duration": 5769160,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 128846250,
+      "duration": 2115410,
+      "text": "指"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 130961660,
+      "duration": 1922910,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 132884580,
+      "duration": 2307500,
+      "text": "指"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 135577080,
+      "duration": 4422910,
+      "text": "篮子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 140192500,
+      "duration": 7307500,
+      "text": "旁边"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 147884580,
+      "duration": 3077080,
+      "text": "空"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 150961660,
+      "duration": 4038330,
+      "text": "出来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 155000000,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 156538330,
+      "duration": 5577080,
+      "text": "一半"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 162307500,
+      "duration": 6922910,
+      "text": "地方"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 173846250,
+      "duration": 2307500,
+      "text": "又"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 176153750,
+      "duration": 5384580,
+      "text": "捡起"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 181922910,
+      "duration": 4230830,
+      "text": "门廊"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 186346250,
+      "duration": 6730830,
+      "text": "台阶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 193077080,
+      "duration": 5000000,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 199615410,
+      "duration": 5384580,
+      "text": "一片"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 205384580,
+      "duration": 10000000,
+      "text": "金黄色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 215384580,
+      "duration": 2692500,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 221538330,
+      "duration": 3653750,
+      "text": "像"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 225384580,
+      "duration": 2692500,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 228077080,
+      "duration": 5192500,
+      "text": "扇子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 233461660,
+      "duration": 4230830,
+      "text": "一样"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 237692500,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 239230830,
+      "duration": 6538330,
+      "text": "落叶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 249422910,
+      "duration": 5961660,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 255577080,
+      "duration": 2884580,
+      "text": "放"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 258461660,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 260000000,
+      "duration": 7115410,
+      "text": "进去"
+    }
+  ]
+}
