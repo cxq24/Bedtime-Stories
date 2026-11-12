@@ -23,8 +23,7 @@
     "record": "episodes/ep004/v001/用户验收记录.json"
   },
   "next_candidate": {
-    "id": "ep007",
-    "title": "窗帘的小摇篮",
+    "id": "ep008",
     "authorized": false,
     "media_status": "not_started"
   },
@@ -60,34 +59,20 @@
     "record": "docs/production/维护记录/2026-11-12_GitHub同步/RECORD.md"
   },
   "publication": "not_published",
-  "current_production": {
-    "id": "ep006",
+  "latest_production": {
+    "id": "ep007",
     "version": "v001",
-    "title": "毛线团找到了小窝",
-    "status": "technical_checks_passed_waiting_human_review",
-    "duration_s": 259.76,
-    "shots": 36,
-    "hanzi": 703,
-    "subtitle_cues": 125,
-    "technical_checks": "passed",
-    "user_acceptance": "pending",
-    "publication": "not_published",
-    "record": "episodes/ep006/v001/RECORD.md",
-    "delivery": "Outputs/2026-11-12/ep006-v001"
+    "title": "窗帘的小摇篮",
+    "duration_s": 258.2,
+    "shots": 31,
+    "subtitle_cues": 119,
+    "status": "technical_passed_human_watch_pending",
+    "record": "episodes/ep007/v001/RECORD.md",
+    "delivery": "Outputs/2026-11-12/ep007-v001/README.md",
+    "published": false
   },
-  "previous_production": {
-    "id": "ep005",
-    "version": "v001",
-    "title": "小灯也想歇一会儿",
-    "status": "technical_checks_passed_waiting_human_review",
-    "duration_s": 257.16,
-    "shots": 36,
-    "hanzi": 700,
-    "subtitle_cues": 124,
-    "technical_checks": "passed",
-    "user_acceptance": "pending",
-    "publication": "not_published",
-    "record": "episodes/ep005/v001/RECORD.md",
-    "delivery": "Outputs/2026-11-12/ep005-v001"
+  "in_progress_episode_006": {
+    "status": "in_progress",
+    "basis": "user_reported"
   }
 }
