@@ -54,10 +54,10 @@
     "archives_in_current_tree": false,
     "loose_sources_included": true,
     "historical_commits_rewritten": false,
-    "status": "ep007_v002_and_ep009_v001_sources_synced_video_excluded",
-    "video_sync_exception": "Existing historical ep006 video exception remains; this sync excludes all new video files and archives.",
+    "status": "ep007_v002_video_and_sources_synced_ep009_v001_sources_synced",
+    "video_sync_exception": "Per user request, the ep007-v002 publish video and clean master are included; the historical ep006 video exception remains. Other generated videos and archives remain excluded.",
     "verified_source_commit": "a9ea5b2b87c5faa33c1f1ec2e82cf2c68ca9512b",
-    "record": "docs/production/维护记录/2026-11-12_GitHub同步_第007与009集/RECORD.md"
+    "record": "docs/production/维护记录/2026-11-12_GitHub同步_第007集视频/RECORD.md"
   },
   "publication": "not_published",
   "latest_production": {
