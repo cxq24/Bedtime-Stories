@@ -56,7 +56,7 @@
     "video_sync_exception": "Per user request, ep006-v002, ep007-v002, ep008-v002, ep009-v002, ep010-v001, ep011-v001, ep012-v001, and ep013-v001 main/clean videos are included; ep009-v001 source materials remain without video.; ep015-v001 main and clean videos were explicitly requested and synced on 2026-11-14.",
     "verified_source_commit": "fb496a2f069cf87b8af9cb00fbe01295b7a58c50",
     "record": "docs/production/维护记录/2026-11-14_第015集GitHub同步/RECORD.md",
-    "verified_sync_commit": "fb496a2f069cf87b8af9cb00fbe01295b7a58c50",
+    "verified_sync_commit": "dfa891353f1142fecbf9db4d3b0aa717c7f330e1",
     "latest_sync_record": "docs/production/维护记录/2026-11-14_第015集GitHub同步/RECORD.md"
   },
   "publication": "not_published",
@@ -79,7 +79,8 @@
     "continuity_preflight": "passed",
     "continuity_image_review": "passed_full_33_shot_contact_sheet",
     "human_full_watch": "not_certified",
-    "github_sync_date": "2026-11-14"
+    "github_sync_date": "2026-11-14",
+    "github_sync_commit": "dfa891353f1142fecbf9db4d3b0aa717c7f330e1"
   },
   "previous_production": {
     "id": "ep014",
@@ -120,7 +121,8 @@
     "continuity_preflight": "passed",
     "continuity_image_review": "passed_full_33_shot_contact_sheet",
     "human_full_watch": "not_certified",
-    "github_sync_date": "2026-11-14"
+    "github_sync_date": "2026-11-14",
+    "github_sync_commit": "dfa891353f1142fecbf9db4d3b0aa717c7f330e1"
   },
   "previous_script_version": "v4",
   "script_revision": {
@@ -168,7 +170,8 @@
       "continuity_preflight": "passed",
       "continuity_image_review": "passed_full_33_shot_contact_sheet",
       "human_full_watch": "not_certified",
-      "github_sync_date": "2026-11-14"
+      "github_sync_date": "2026-11-14",
+      "github_sync_commit": "dfa891353f1142fecbf9db4d3b0aa717c7f330e1"
     },
     {
       "id": "ep014",
