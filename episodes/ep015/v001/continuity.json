@@ -1,0 +1,811 @@
+{
+  "schema_version": 1,
+  "episode": "ep015",
+  "version": "v001",
+  "script_version": "v5",
+  "source_script": "02_100集剧本/用户长稿v5/结构化JSON/ep015.json",
+  "status": "passed_after_full_contact_sheet_review",
+  "assets": {
+    "POT_01": {
+      "name": "大叶万年青陶盆",
+      "appearance": "同一盆中等大小的暖陶色圆筒陶盆，细窄口沿、无花纹，装深色土；抱得动，整集不换盆。",
+      "first_shot": 2,
+      "last_shot": 27,
+      "anchor_reference": "assets/evergreen_anchor.png",
+      "positions": "先在森林学堂自然角；周末由皮皮抱到门廊固定位置；第26镜整体移至同一门廊屋檐下；其后不进屋。"
+    },
+    "PLANT_01": {
+      "name": "大叶万年青",
+      "appearance": "同一株健康的大叶万年青，深浅绿色椭圆宽叶，叶脉清晰；在同一陶盆中，整集株形和叶片数/方向保持一致。",
+      "first_shot": 2,
+      "last_shot": 27,
+      "anchor_reference": "assets/evergreen_anchor.png",
+      "positions": "随POT_01从学堂移至门廊；只整体随盆移动一次。"
+    },
+    "LEAF_01": {
+      "name": "最低宽叶与卷叶尖",
+      "appearance": "PLANT_01最下方、朝前偏右的一片宽椭圆叶，叶柄连在主茎低位；叶尖初始向上卷起，皮皮扶后成为自然的浅绿色缓坡；不能替换为另一片叶。",
+      "first_shot": 4,
+      "last_shot": 27,
+      "anchor_reference": "assets/evergreen_anchor.png",
+      "states": {
+        "before_help": "叶尖轻微向上卷，形成小坎",
+        "after_help": "叶尖被轻扶向下，成为连续缓坡",
+        "during_path": "蜗牛从叶面沿该坡到叶背"
+      }
+    },
+    "SNAIL_01": {
+      "name": "第015集无名小蜗牛",
+      "character_id": "snail_ep015",
+      "appearance": "小小的软体浅奶油米色蜗牛，头部两根短短触角，端部为小黑眼点；背着固定的浅棕色圆形螺旋壳，壳面一圈清楚的深棕螺旋线，身体与壳比例小巧；无衣服、无配饰，不增加表情配件。",
+      "first_shot": 1,
+      "last_shot": 31,
+      "anchor_reference": "assets/snail_identity_anchor.png",
+      "positions": "片头第1镜只在独立讲述想象图中预告；正文第6镜出现于LEAF_01边缘，按第8–24镜连续探路，沿同叶坡到叶背湿润角落；第26镜随整盆移动；片尾第30镜回想同一安睡位置。不得无交代出现于卧室。"
+    },
+    "WATERING_CAN_01": {
+      "name": "小喷水壶",
+      "appearance": "小型哑光浅青绿色浇水壶，圆润椭圆壶身、细长向上弯嘴、短提把，不透明；同一壶不变形不换色。",
+      "first_shot": 3,
+      "last_shot": 26,
+      "anchor_reference": "assets/watering_can_anchor.png",
+      "positions": "门边被皮皮拿到花盆旁；第4镜用于喷水；第5镜放在花盆旁木地板并留在原处，皮皮最后搬花盆时水壶不跟着移动。"
+    },
+    "DEW_TRAIL_01": {
+      "name": "最低叶面露珠群",
+      "appearance": "同一片叶面上的约四颗透明圆润小露珠，大小略有差别；始终贴在LEAF_01表面，不能变成实体灯或悬浮珠。其后一颗可反射窗光。",
+      "first_shot": 5,
+      "last_shot": 23,
+      "anchor_reference": "images/shot_06.png",
+      "positions": "第5镜浇水后凝结在叶面，之后保留原位；第19–20镜其中一颗反射窗灯；不随蜗牛移动。",
+      "reference_sha256": "94dc602a1e97b697ab9c8aea7772e64c12223171c4b2ed81202ae7cd45cb6c08"
+    },
+    "PORCH_01": {
+      "name": "门廊固定布局",
+      "appearance": "皮皮小木屋同一门廊：门在画面后侧偏左，暖棕木墙；门廊边缘有低矮木栏；屋檐在上方；陶盆起初在门右侧靠墙处，后移至屋檐下靠里固定点。",
+      "first_shot": 3,
+      "last_shot": 31,
+      "anchor_reference": "assets/porch_layout_anchor.png",
+      "positions": "保持门、木栏、屋檐和窗户朝向不变；室外部分的空间关系贯穿暮色场景。"
+    },
+    "WINDOW_01": {
+      "name": "门廊旁小木屋窗灯",
+      "appearance": "门廊木墙同一扇小方窗，室内透出柔和暖黄色灯光，无可读文字。",
+      "first_shot": 19,
+      "last_shot": 23,
+      "anchor_reference": "assets/porch_layout_anchor.png",
+      "positions": "固定在木墙上，暖光从屋内照到LEAF_01露珠；露珠反射而非产生光源。"
+    },
+    "DOOR_01": {
+      "name": "小木屋门",
+      "appearance": "同一扇暖棕木门，门廊后墙偏左，单扇门，简洁圆木把手。",
+      "first_shot": 27,
+      "last_shot": 28,
+      "anchor_reference": "assets/porch_layout_anchor.png",
+      "positions": "皮皮第27镜从门廊进入，之后门廊无人；不出现反向出屋。"
+    },
+    "BED_01": {
+      "name": "皮皮卧室小木床",
+      "appearance": "一张适合小兔子的低矮暖木床，床头简洁；固定在卧室靠窗位置。",
+      "first_shot": 28,
+      "last_shot": 33,
+      "anchor_reference": "assets/bedroom_reference_ep011.png",
+      "positions": "皮皮第28镜洗漱后进入床边，之后一直在床上。"
+    },
+    "PILLOW_01": {
+      "name": "宽松枕头",
+      "appearance": "同一只浅米色柔软宽枕，尺寸足够让皮皮两只长耳自然摊开，不压耳朵。",
+      "first_shot": 28,
+      "last_shot": 33,
+      "anchor_reference": "assets/bedroom_reference_ep011.png",
+      "positions": "固定在BED_01床头，皮皮长耳放在两侧。"
+    },
+    "BLANKET_01": {
+      "name": "暖黄毛毯",
+      "appearance": "同一条柔软暖黄色毛毯，纯色无文字图案，厚度适中。",
+      "first_shot": 28,
+      "last_shot": 33,
+      "anchor_reference": "assets/bedroom_reference_ep011.png",
+      "positions": "床上折叠于皮皮旁，第29镜起盖至身体，后续状态稳定。"
+    },
+    "CARROT_01": {
+      "name": "橙色胡萝卜玩偶",
+      "appearance": "同一只橙色软布胡萝卜玩偶，圆润短叶冠，无衣物和字样。",
+      "first_shot": 28,
+      "last_shot": 33,
+      "anchor_reference": "assets/bedroom_reference_ep011.png",
+      "positions": "先在皮皮手边，第29镜抱入怀里，之后一直抱着。"
+    }
+  },
+  "shot_states": [
+    {
+      "shot_id": 0,
+      "paragraph_id": "p000",
+      "title": "片头问候：故事开始了",
+      "characters_present": [
+        "pipi"
+      ],
+      "location": "独立睡前讲述角",
+      "assets": [],
+      "state_before": "开场讲述角；皮皮刚准备讲故事。",
+      "action": "皮皮面向观众轻抬一只爪，眼睛明亮、眉眼舒展，露出自然欢迎的微笑；柔和邀请小朋友听故事。",
+      "state_after": "皮皮向小朋友打招呼，故事尚未进入现实剧情。",
+      "transition_from": null,
+      "review": "preflight_text_reviewed"
+    },
+    {
+      "shot_id": 1,
+      "paragraph_id": "p000",
+      "title": "片头悬念：露珠小路与蜗牛",
+      "characters_present": [
+        "pipi",
+        "snail_ep015"
+      ],
+      "location": "独立讲述象征画面",
+      "assets": [
+        "SNAIL_01",
+        "PLANT_01",
+        "LEAF_01",
+        "DEW_TRAIL_01"
+      ],
+      "state_before": "独立讲述象征画面；蜗牛与露珠小路以想象方式出现。",
+      "action": "皮皮带着好奇温和的神情望向一条由露珠点亮的叶片小路；小蜗牛在路边探出触角。此为独立开场想象画面，不是现实剧情位置。",
+      "state_after": "保持讲述角的象征构图；只预告故事意象，不改变正文中的现实地点和状态。",
+      "transition_from": 0,
+      "review": "preflight_text_reviewed"
+    },
+    {
+      "shot_id": 2,
+      "paragraph_id": "p001",
+      "title": "森林学堂领到照料任务",
+      "characters_present": [
+        "pipi"
+      ],
+      "location": "森林学堂自然角",
+      "assets": [
+        "PLANT_01"
+      ],
+      "state_before": "万年青仍在学堂自然角，皮皮在学堂。",
+      "action": "皮皮站在自然角旁仔细听任务，目光落在大叶万年青上，眉毛轻轻抬起、神情认真又有些期待；不加未提及的师生角色。",
+      "state_after": "皮皮领到照料这盆万年青的任务，植物尚未搬动。",
+      "transition_from": 1,
+      "review": "preflight_text_reviewed"
+    },
+    {
+      "shot_id": 3,
+      "paragraph_id": "p001",
+      "title": "周末把万年青抱回门廊",
+      "characters_present": [
+        "pipi"
+      ],
+      "location": "小木屋门廊",
+      "assets": [
+        "PLANT_01",
+        "PORCH_01"
+      ],
+      "state_before": "植物从学堂自然角启程，皮皮抱着它回家。",
+      "action": "周末，皮皮双爪稳稳抱着同一盆大叶万年青走上门廊，目光注意前方和花盆；神情专注、动作稳当。",
+      "state_after": "同一花盆落在门廊固定位置；皮皮仍在门廊。",
+      "transition_from": 2,
+      "review": "preflight_text_reviewed"
+    },
+    {
+      "shot_id": 4,
+      "paragraph_id": "p002",
+      "title": "傍晚提喷水壶来到花盆旁",
+      "characters_present": [
+        "pipi"
+      ],
+      "location": "门廊傍晚；太阳刚落到远山后",
+      "assets": [
+        "PLANT_01",
+        "WATERING_CAN_01",
+        "PORCH_01"
+      ],
+      "state_before": "花盆在门廊；小喷水壶在门边。",
+      "action": "皮皮拿起小喷水壶走到门廊同一盆万年青旁，神情专注平和；背景夕阳刚隐到远山后。",
+      "state_after": "皮皮来到花盆旁并拿着喷水壶；天色进入傍晚。",
+      "transition_from": 3,
+      "review": "preflight_text_reviewed"
+    },
+    {
+      "shot_id": 5,
+      "paragraph_id": "p002",
+      "title": "细雾落在宽叶上",
+      "characters_present": [
+        "pipi"
+      ],
+      "location": "门廊花盆旁",
+      "assets": [
+        "PLANT_01",
+        "LEAF_01",
+        "WATERING_CAN_01"
+      ],
+      "state_before": "叶片尚未出现本次新水珠；皮皮手持喷水壶。",
+      "action": "皮皮轻轻向同一盆万年青喷水，细雾落在几片宽绿叶上；目光跟着水雾，表情细致专注。",
+      "state_after": "叶面被细雾打湿，喷水壶仍在皮皮手中。",
+      "transition_from": 4,
+      "review": "preflight_text_reviewed"
+    },
+    {
+      "shot_id": 6,
+      "paragraph_id": "p002",
+      "title": "露珠凝成，放下喷水壶",
+      "characters_present": [
+        "pipi"
+      ],
+      "location": "门廊花盆旁",
+      "assets": [
+        "PLANT_01",
+        "LEAF_01",
+        "DEW_TRAIL_01",
+        "WATERING_CAN_01"
+      ],
+      "state_before": "叶片刚被水雾打湿，喷水壶在皮皮手中。",
+      "action": "宽叶上凝出数颗圆润露珠；皮皮把喷水壶轻放在花盆旁木地板，动作轻柔，目光留在叶片上。",
+      "state_after": "叶片上有几颗露珠；喷水壶放在花盆旁地板，未移动。",
+      "transition_from": 5,
+      "review": "preflight_text_reviewed"
+    },
+    {
+      "shot_id": 7,
+      "paragraph_id": "p002",
+      "title": "皮皮发现浅棕螺旋壳小蜗牛",
+      "characters_present": [
+        "pipi",
+        "snail_ep015"
+      ],
+      "location": "门廊花盆最低宽叶旁",
+      "assets": [
+        "PLANT_01",
+        "LEAF_01",
+        "DEW_TRAIL_01",
+        "SNAIL_01"
+      ],
+      "state_before": "蜗牛停在最低宽叶边缘；花盆与喷水壶位置不变。",
+      "action": "皮皮忽然发现一只背浅棕色螺旋壳的小蜗牛，眉眼微微亮起、嘴角轻扬，惊喜但不惊吓；目光落在叶缘。",
+      "state_after": "皮皮注意到蜗牛；蜗牛仍停在同一片叶缘。",
+      "transition_from": 6,
+      "review": "preflight_text_reviewed"
+    },
+    {
+      "shot_id": 8,
+      "paragraph_id": "p002",
+      "title": "蜗牛停在最低宽叶边缘",
+      "characters_present": [
+        "pipi",
+        "snail_ep015"
+      ],
+      "location": "门廊花盆最低宽叶旁",
+      "assets": [
+        "PLANT_01",
+        "LEAF_01",
+        "SNAIL_01",
+        "DEW_TRAIL_01"
+      ],
+      "state_before": "蜗牛在最低宽叶缘，皮皮刚发现它。",
+      "action": "清楚展示同一只小蜗牛伏在最低一片宽叶的边缘，背壳浅棕螺旋；皮皮在一旁俯身观察，神情柔和好奇。",
+      "state_after": "蜗牛位置仍是同一叶缘；皮皮没有触碰。",
+      "transition_from": 7,
+      "review": "preflight_text_reviewed"
+    },
+    {
+      "shot_id": 9,
+      "paragraph_id": "p003",
+      "title": "露珠旁的小蜗牛像刚回家",
+      "characters_present": [
+        "pipi",
+        "snail_ep015"
+      ],
+      "location": "门廊最低宽叶顶面",
+      "assets": [
+        "PLANT_01",
+        "LEAF_01",
+        "DEW_TRAIL_01",
+        "SNAIL_01"
+      ],
+      "state_before": "蜗牛停在叶缘，露珠在叶面；皮皮在花盆旁。",
+      "action": "叶面几颗晶莹露珠围绕蜗牛；小蜗牛背着固定浅棕螺旋壳，刚停在叶缘，皮皮安静陪看。",
+      "state_after": "蜗牛仍在叶面；没有新角色或位置变化。",
+      "transition_from": 8,
+      "review": "preflight_text_reviewed"
+    },
+    {
+      "shot_id": 10,
+      "paragraph_id": "p003",
+      "title": "蜗牛伸出两根触角探路",
+      "characters_present": [
+        "pipi",
+        "snail_ep015"
+      ],
+      "location": "门廊最低宽叶顶面",
+      "assets": [
+        "PLANT_01",
+        "LEAF_01",
+        "DEW_TRAIL_01",
+        "SNAIL_01"
+      ],
+      "state_before": "蜗牛刚停下；触角收拢。",
+      "action": "小蜗牛慢慢伸出两根触角，先向左再向右探；眼神专注好奇，身体和螺旋壳保持贴稳叶面。皮皮不靠近它。",
+      "state_after": "触角伸出探路，蜗牛位置仍在最低叶上。",
+      "transition_from": 9,
+      "review": "preflight_text_reviewed"
+    },
+    {
+      "shot_id": 11,
+      "paragraph_id": "p003",
+      "title": "蜗牛认真寻找不滑的方向",
+      "characters_present": [
+        "pipi",
+        "snail_ep015"
+      ],
+      "location": "门廊最低宽叶顶面",
+      "assets": [
+        "PLANT_01",
+        "LEAF_01",
+        "DEW_TRAIL_01",
+        "SNAIL_01"
+      ],
+      "state_before": "蜗牛触角正探路；皮皮在花盆旁。",
+      "action": "蜗牛触角左右探看叶面露珠和前路，神情认真谨慎；皮皮蹲在旁边安静观察，眼神专注而耐心。",
+      "state_after": "蜗牛仍在原处观察路线；皮皮维持安静陪伴。",
+      "transition_from": 10,
+      "review": "preflight_text_reviewed"
+    },
+    {
+      "shot_id": 12,
+      "paragraph_id": "p003",
+      "title": "皮皮不推壳也不催促",
+      "characters_present": [
+        "pipi",
+        "snail_ep015"
+      ],
+      "location": "门廊花盆旁",
+      "assets": [
+        "PLANT_01",
+        "LEAF_01",
+        "SNAIL_01"
+      ],
+      "state_before": "蜗牛停在叶面，皮皮在旁。",
+      "action": "皮皮的双爪收在自己身边，没有伸手碰壳；眉眼温和、身体稍向后留出空间。蜗牛按自己的速度观察叶面。",
+      "state_after": "皮皮明确没有触碰也没有催促；双方位置稳定。",
+      "transition_from": 11,
+      "review": "preflight_text_reviewed"
+    },
+    {
+      "shot_id": 13,
+      "paragraph_id": "p004",
+      "title": "皮皮蹲在花盆旁屏息观察",
+      "characters_present": [
+        "pipi",
+        "snail_ep015"
+      ],
+      "location": "门廊花盆旁",
+      "assets": [
+        "PLANT_01",
+        "LEAF_01",
+        "SNAIL_01"
+      ],
+      "state_before": "皮皮站在花盆旁，蜗牛在最低叶面。",
+      "action": "皮皮安静蹲下，身体微微前倾但不逼近，屏住呼吸看向蜗牛；表情克制、专注且温柔。",
+      "state_after": "皮皮蹲下并保持不打扰；蜗牛仍在叶上。",
+      "transition_from": 12,
+      "review": "preflight_text_reviewed"
+    },
+    {
+      "shot_id": 14,
+      "paragraph_id": "p004",
+      "title": "卷起的叶尖挡住蜗牛去路",
+      "characters_present": [
+        "pipi",
+        "snail_ep015"
+      ],
+      "location": "最低宽叶的弯曲叶尖",
+      "assets": [
+        "PLANT_01",
+        "LEAF_01",
+        "SNAIL_01"
+      ],
+      "state_before": "同一叶片尖端卷起；蜗牛尚未越过它。",
+      "action": "从侧上方看同一片最低宽叶：前方叶尖向上卷起，形成挡路的小坎；皮皮观察叶片形状，蜗牛在叶尖后方。",
+      "state_after": "确认卷起叶尖是前路障碍；叶片状态尚未改变。",
+      "transition_from": 13,
+      "review": "preflight_text_reviewed"
+    },
+    {
+      "shot_id": 15,
+      "paragraph_id": "p004",
+      "title": "看清叶尖像一道小坎",
+      "characters_present": [
+        "pipi",
+        "snail_ep015"
+      ],
+      "location": "最低宽叶的卷起叶尖",
+      "assets": [
+        "PLANT_01",
+        "LEAF_01",
+        "SNAIL_01"
+      ],
+      "state_before": "叶尖仍卷起，皮皮尚未动叶片。",
+      "action": "皮皮凝神看清叶尖高度，目光在蜗牛与叶尖间转移；一只爪停在叶片旁准备轻轻帮忙，尚未接触。",
+      "state_after": "皮皮准备扶平叶尖，蜗牛在安全距离外。",
+      "transition_from": 14,
+      "review": "preflight_text_reviewed"
+    },
+    {
+      "shot_id": 16,
+      "paragraph_id": "p004",
+      "title": "皮皮轻轻把卷起叶尖往下扶",
+      "characters_present": [
+        "pipi",
+        "snail_ep015"
+      ],
+      "location": "最低宽叶的叶尖",
+      "assets": [
+        "PLANT_01",
+        "LEAF_01",
+        "SNAIL_01"
+      ],
+      "state_before": "叶尖卷起；蜗牛在叶尖后方，皮皮手靠近叶片。",
+      "action": "皮皮只用一只爪轻扶同一片叶尖向下，动作极轻；蜗牛停在一旁观察，没有被推壳或搬动。",
+      "state_after": "叶尖被轻轻压低，成为斜面；蜗牛位置不变。",
+      "transition_from": 15,
+      "review": "preflight_text_reviewed"
+    },
+    {
+      "shot_id": 17,
+      "paragraph_id": "p004",
+      "title": "卷叶变成平缓绿色小斜坡",
+      "characters_present": [
+        "pipi",
+        "snail_ep015"
+      ],
+      "location": "最低宽叶的叶尖",
+      "assets": [
+        "PLANT_01",
+        "LEAF_01",
+        "SNAIL_01"
+      ],
+      "state_before": "叶尖刚被扶平；皮皮爪仍在附近。",
+      "action": "展示同一叶尖已向下伏平，形成连续、平缓的绿色小斜坡；皮皮收回爪子，蜗牛可以自行选择前进。",
+      "state_after": "斜坡保持向下平顺；皮皮爪收回，蜗牛未被移动。",
+      "transition_from": 16,
+      "review": "preflight_text_reviewed"
+    },
+    {
+      "shot_id": 18,
+      "paragraph_id": "p005",
+      "title": "蜗牛用触角试探斜坡",
+      "characters_present": [
+        "pipi",
+        "snail_ep015"
+      ],
+      "location": "最低宽叶平缓斜坡",
+      "assets": [
+        "PLANT_01",
+        "LEAF_01",
+        "SNAIL_01",
+        "DEW_TRAIL_01"
+      ],
+      "state_before": "斜坡已形成，蜗牛停在起点。",
+      "action": "蜗牛用触角触碰平缓叶面，确认后慢慢向前挪一点；表情放松、动作谨慎；皮皮耐心守在原处。",
+      "state_after": "蜗牛自己试探并向前移动一点；皮皮未碰它。",
+      "transition_from": 17,
+      "review": "preflight_text_reviewed"
+    },
+    {
+      "shot_id": 19,
+      "paragraph_id": "p005",
+      "title": "蜗牛一点一点稳稳前进",
+      "characters_present": [
+        "pipi",
+        "snail_ep015"
+      ],
+      "location": "最低宽叶平缓斜坡",
+      "assets": [
+        "PLANT_01",
+        "LEAF_01",
+        "SNAIL_01",
+        "DEW_TRAIL_01"
+      ],
+      "state_before": "蜗牛已向前挪一点，壳与身体相连。",
+      "action": "小蜗牛沿着同一片叶上的平缓坡挪动；背上固定浅棕螺旋壳自然随身体轻轻晃动，未脱落、未变形。皮皮在旁欣慰地看着。",
+      "state_after": "蜗牛继续前进，壳稳定随动；位置较前镜向前。",
+      "transition_from": 18,
+      "review": "preflight_text_reviewed"
+    },
+    {
+      "shot_id": 20,
+      "paragraph_id": "p005",
+      "title": "露珠映出屋内暖黄窗灯",
+      "characters_present": [
+        "pipi",
+        "snail_ep015"
+      ],
+      "location": "门廊最低宽叶与小木屋窗边",
+      "assets": [
+        "PLANT_01",
+        "LEAF_01",
+        "SNAIL_01",
+        "DEW_TRAIL_01",
+        "WINDOW_01"
+      ],
+      "state_before": "小屋窗灯已亮，露珠在叶片上；蜗牛在叶面。",
+      "action": "同一叶片上的一颗露珠反射小木屋窗内暖黄色灯光；蜗牛继续在露珠后方前进，皮皮安静看着，目光温柔惊叹。",
+      "state_after": "露珠只反射窗光，未变成实体灯；蜗牛沿叶面前行。",
+      "transition_from": 19,
+      "review": "preflight_text_reviewed"
+    },
+    {
+      "shot_id": 21,
+      "paragraph_id": "p005",
+      "title": "露珠像为蜗牛照亮的小路灯",
+      "characters_present": [
+        "pipi",
+        "snail_ep015"
+      ],
+      "location": "同一片最低宽叶",
+      "assets": [
+        "PLANT_01",
+        "LEAF_01",
+        "SNAIL_01",
+        "DEW_TRAIL_01",
+        "WINDOW_01"
+      ],
+      "state_before": "窗光照到露珠，蜗牛继续在叶面上。",
+      "action": "一颗小露珠在蜗牛身后柔柔反射暖光，像微小路灯；光只限于水珠表面，不出现实体灯具或魔法特效。蜗牛踏在同一叶路上。",
+      "state_after": "柔和反光维持，蜗牛向叶尖方向缓慢前行。",
+      "transition_from": 20,
+      "review": "preflight_text_reviewed"
+    },
+    {
+      "shot_id": 22,
+      "paragraph_id": "p006",
+      "title": "晚风轻缓，没人催蜗牛",
+      "characters_present": [
+        "pipi",
+        "snail_ep015"
+      ],
+      "location": "门廊暮色、同一花盆",
+      "assets": [
+        "PLANT_01",
+        "LEAF_01",
+        "SNAIL_01",
+        "WINDOW_01"
+      ],
+      "state_before": "蜗牛在叶面继续爬；皮皮蹲在花盆旁；窗光温暖。",
+      "action": "暮色门廊安静，叶片仅有极轻的自然微弯；皮皮保持安静，不催促蜗牛；蜗牛继续以自己的速度前行。",
+      "state_after": "时间稍后仍是同一门廊；叶片与角色位置连贯。",
+      "transition_from": 21,
+      "review": "preflight_text_reviewed"
+    },
+    {
+      "shot_id": 23,
+      "paragraph_id": "p006",
+      "title": "蜗牛爬到宽叶背面",
+      "characters_present": [
+        "pipi",
+        "snail_ep015"
+      ],
+      "location": "万年青最低宽叶背面",
+      "assets": [
+        "PLANT_01",
+        "LEAF_01",
+        "SNAIL_01",
+        "DEW_TRAIL_01"
+      ],
+      "state_before": "蜗牛已靠近叶尖，仍在叶片上表面。",
+      "action": "小蜗牛顺着露珠小路爬到同一宽叶的背面，位置从叶片上表面连续转到叶背；身体与壳完整。皮皮在盆旁看着，不改变蜗牛路径。",
+      "state_after": "蜗牛绕过叶缘到叶背；没有跳跃或瞬移。",
+      "transition_from": 22,
+      "review": "preflight_text_reviewed"
+    },
+    {
+      "shot_id": 24,
+      "paragraph_id": "p006",
+      "title": "蜗牛找到避风湿润角落并收起触角",
+      "characters_present": [
+        "pipi",
+        "snail_ep015"
+      ],
+      "location": "万年青宽叶背面的阴凉角落",
+      "assets": [
+        "PLANT_01",
+        "LEAF_01",
+        "SNAIL_01",
+        "DEW_TRAIL_01"
+      ],
+      "state_before": "蜗牛已到叶背，尚未找到最后角落；触角伸出。",
+      "action": "蜗牛沿叶背进入同一片叶子靠近茎部、湿润且背风的阴凉位置，安静收起触角准备睡觉。皮皮仍在花盆旁，神情欣慰。",
+      "state_after": "蜗牛停在叶背湿润角落，触角收回，进入安睡状态。",
+      "transition_from": 23,
+      "review": "preflight_text_reviewed"
+    },
+    {
+      "shot_id": 25,
+      "paragraph_id": "p007",
+      "title": "皮皮确认蜗牛安顿好",
+      "characters_present": [
+        "pipi",
+        "snail_ep015"
+      ],
+      "location": "门廊花盆旁",
+      "assets": [
+        "PLANT_01",
+        "LEAF_01",
+        "SNAIL_01"
+      ],
+      "state_before": "蜗牛在湿润角落准备睡；皮皮蹲在盆旁。",
+      "action": "皮皮看到蜗牛已安顿，肩膀放松、嘴角露出安心的小笑，随后轻轻站起；叶背角落里蜗牛仍睡着。",
+      "state_after": "皮皮站起；蜗牛继续安稳留在叶背角落。",
+      "transition_from": 24,
+      "review": "preflight_text_reviewed"
+    },
+    {
+      "shot_id": 26,
+      "paragraph_id": "p007",
+      "title": "皮皮把花盆移到屋檐下",
+      "characters_present": [
+        "pipi"
+      ],
+      "location": "门廊屋檐下",
+      "assets": [
+        "PLANT_01",
+        "PORCH_01",
+        "WATERING_CAN_01"
+      ],
+      "state_before": "花盆在门廊原位置，蜗牛在叶背睡着。",
+      "action": "皮皮双爪抱稳同一花盆，缓慢把它放到紧靠木屋屋檐的避雨位置；花盆中的叶片保持朝向和蜗牛所在面，喷水壶留在原处。",
+      "state_after": "花盆移动至屋檐下固定新位；蜗牛随整盆移动但仍在叶背角落；喷水壶未移动。",
+      "transition_from": 25,
+      "review": "preflight_text_reviewed"
+    },
+    {
+      "shot_id": 27,
+      "paragraph_id": "p007",
+      "title": "皮皮回屋时脚步慢下来",
+      "characters_present": [
+        "pipi"
+      ],
+      "location": "门廊通往小木屋的门口",
+      "assets": [
+        "PORCH_01",
+        "DOOR_01"
+      ],
+      "state_before": "皮皮仍在门廊；花盆已稳放屋檐下；蜗牛在盆内。",
+      "action": "皮皮推门走进小屋，步伐比平常慢而稳，神情从专注转为安静沉思；门口在固定门廊后侧。",
+      "state_after": "皮皮从门廊进入小屋，脚步慢而稳；离开后不再出现在户外镜头。",
+      "transition_from": 26,
+      "review": "preflight_text_reviewed"
+    },
+    {
+      "shot_id": 28,
+      "paragraph_id": "p007",
+      "title": "洗漱后爬上小床",
+      "characters_present": [
+        "pipi"
+      ],
+      "location": "皮皮的小卧室",
+      "assets": [
+        "BED_01",
+        "PILLOW_01",
+        "BLANKET_01",
+        "CARROT_01"
+      ],
+      "state_before": "皮皮已回屋，白天衣服；卧室床铺空着。",
+      "action": "洗漱后，皮皮换上睡前造型，慢慢爬上自己的小床；眼神柔和放松，动作不赶。",
+      "state_after": "皮皮在床边换成睡前装束并爬上床；户外花盆与蜗牛留在屋檐下。",
+      "transition_from": 27,
+      "review": "preflight_text_reviewed"
+    },
+    {
+      "shot_id": 29,
+      "paragraph_id": "p007",
+      "title": "长耳朵舒适地躺在枕头上",
+      "characters_present": [
+        "pipi"
+      ],
+      "location": "皮皮的小卧室床上",
+      "assets": [
+        "BED_01",
+        "PILLOW_01",
+        "BLANKET_01",
+        "CARROT_01"
+      ],
+      "state_before": "皮皮刚爬上床，耳朵尚未安放，玩偶在身边。",
+      "action": "皮皮把长耳朵自然摊开放到宽松枕头两侧，脸上有轻微满足笑意；手臂抱住橙色胡萝卜玩偶。",
+      "state_after": "耳朵舒适躺好，胡萝卜玩偶进入皮皮怀里。",
+      "transition_from": 28,
+      "review": "preflight_text_reviewed"
+    },
+    {
+      "shot_id": 30,
+      "paragraph_id": "p007",
+      "title": "皮皮放下明天的担心",
+      "characters_present": [
+        "pipi"
+      ],
+      "location": "皮皮的小卧室床上",
+      "assets": [
+        "BED_01",
+        "PILLOW_01",
+        "BLANKET_01",
+        "CARROT_01"
+      ],
+      "state_before": "皮皮躺好，耳朵舒展，玩偶在怀里。",
+      "action": "皮皮抱着同一只胡萝卜玩偶，身体安稳蜷在毛毯中，眉眼舒展、嘴角放松；画面传达不再惦记赶路的平静。",
+      "state_after": "皮皮保持安稳姿势，心情平静准备睡觉。",
+      "transition_from": 29,
+      "review": "preflight_text_reviewed"
+    },
+    {
+      "shot_id": 31,
+      "paragraph_id": "p008",
+      "title": "片尾回望：蜗牛慢慢到家",
+      "characters_present": [
+        "snail_ep015"
+      ],
+      "location": "明确的绘本回想：门廊屋檐下万年青叶背角落",
+      "assets": [
+        "PLANT_01",
+        "LEAF_01",
+        "SNAIL_01",
+        "POT_01"
+      ],
+      "state_before": "皮皮在卧室继续旁白；蜗牛仍随盆栽留在屋檐下叶背角落。",
+      "action": "画面只呈现同一只蜗牛在叶背湿润角落安睡；这是Pipi旁白回望刚才的故事，不把Pipi、花盆或蜗牛搬进卧室。",
+      "state_after": "以明确回想画面呈现蜗牛仍在屋檐下叶背安睡；不发生空间移动。",
+      "transition_from": 30,
+      "review": "preflight_text_reviewed"
+    },
+    {
+      "shot_id": 32,
+      "paragraph_id": "p008",
+      "title": "慢慢呼吸，安心晚安",
+      "characters_present": [
+        "pipi"
+      ],
+      "location": "皮皮的小卧室床上",
+      "assets": [
+        "BED_01",
+        "PILLOW_01",
+        "BLANKET_01",
+        "CARROT_01"
+      ],
+      "state_before": "皮皮已躺好，卧室安静温暖。",
+      "action": "皮皮舒适地躺在自己的小床里，目光柔软、身体放松，像在安慰小朋友慢下来；画面不额外添加未在故事中出现的孩子角色。",
+      "state_after": "皮皮闭眼安睡；片尾留白温暖静止。",
+      "transition_from": 31,
+      "review": "preflight_text_reviewed",
+      "text": "今晚我们也不必赶路，因为你已经到达自己温暖的小床啦。慢慢呼吸，安心休息，晚安。",
+      "continuity_refs": [
+        "BED_01",
+        "BLANKET_01",
+        "CARROT_01",
+        "PILLOW_01"
+      ]
+    }
+  ],
+  "preflight_review": {
+    "paragraph_coverage": "all p000-p008 text assigned to storyboard ranges in source order; verified concatenation exact",
+    "location_transitions": "school natural corner -> weekend porch -> porch at dusk -> Pipi enters home -> bedroom; no unexplained relocation",
+    "plant_causality": "same potted evergreen moves school to porch, watering creates persistent leaf droplets, lowest curled leaf is gently flattened, snail crosses it, pot later moved under eaves with snail still sheltered",
+    "character_presence": "Pipi remains in bedroom after shot 27; snail and plant stay under porch eaves. Shot 31 is an explicit visual recollection of the snail only, not a physical return or location merge.",
+    "opening": "p000 uses two dedicated independent illustrations and is not reused as cover or body art",
+    "expression_performance": "Pipi and snail receive beat-specific gaze/body/face descriptions; moods change only at script-supported discoveries, care, relief and rest",
+    "result": "passed_text_preflight"
+  },
+  "contact_sheet_review": {
+    "file": "checks/storyboard_contact_reviewed.jpg",
+    "shots_reviewed": 33,
+    "result": "passed",
+    "findings_resolved": [
+      "shot15 removed backpack and corrected attentive expression",
+      "shot16 snail stays on leaf and Pipi gently supports curled tip",
+      "shot21 Pipi watches dew without touching leaf",
+      "shots25-27 expression and snail sleep/whole-pot continuity corrected",
+      "shot31 recalled snail shown asleep with eye stalks retracted"
+    ],
+    "reviewed_at": "2026-11-13"
+  }
+}

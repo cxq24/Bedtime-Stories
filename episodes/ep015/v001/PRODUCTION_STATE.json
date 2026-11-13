@@ -1,0 +1,18 @@
+{
+  "episode": "ep015",
+  "version": "v001",
+  "title": "蜗牛的露珠小路",
+  "script_version": "v5",
+  "source_script_sha256": "379523f593b996988fa459bee35052bc34d532877134dd59f4daa32618a0d275",
+  "repository_instruction_commit": "f267affe7449e70f9250652061b55856bcf732ba",
+  "status": "rendered_technical_passed_human_watch_pending",
+  "publication": "not_published",
+  "github_video_sync": "synced_to_main",
+  "user_acceptance": "pending",
+  "continuity_preflight": "passed",
+  "continuity_contact_sheet_review": "passed_33_shots",
+  "human_full_watch": "not_certified",
+  "technical_checks": "passed",
+  "render": "complete",
+  "github_sync_date": "2026-11-14"
+}

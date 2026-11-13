@@ -1,0 +1,15 @@
+{
+  "paragraph_coverage": "all p000-p008 text assigned to storyboard ranges in source order; verified concatenation exact",
+  "location_transitions": "school natural corner -> weekend porch -> porch at dusk -> Pipi enters home -> bedroom; no unexplained relocation",
+  "plant_causality": "same potted evergreen moves school to porch, watering creates persistent leaf droplets, lowest curled leaf is gently flattened, snail crosses it, pot later moved under eaves with snail still sheltered",
+  "character_presence": "Pipi remains in bedroom after shot 27; snail and plant stay under porch eaves. Shot 31 is an explicit visual recollection of the snail only, not a physical return or location merge.",
+  "opening": "p000 uses two dedicated independent illustrations and is not reused as cover or body art",
+  "expression_performance": "Pipi and snail receive beat-specific gaze/body/face descriptions; moods change only at script-supported discoveries, care, relief and rest",
+  "result": "passed_text_and_full_contact_sheet_review",
+  "full_contact_sheet": {
+    "file": "checks/storyboard_contact_reviewed.jpg",
+    "shots": 33,
+    "reviewed": "2026-11-13",
+    "result": "passed"
+  }
+}

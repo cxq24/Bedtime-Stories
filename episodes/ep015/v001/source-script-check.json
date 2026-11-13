@@ -1,0 +1,10 @@
+{
+  "source": "02_100集剧本/用户长稿v5/结构化JSON/ep015.json",
+  "sha256": "379523f593b996988fa459bee35052bc34d532877134dd59f4daa32618a0d275",
+  "narration_sha256": "420953c59d4c6e05acdd1640d65d0e60e5b8ffa4edda55db0c41ff4ae4788d9b",
+  "hanzi": 733,
+  "paragraphs": 9,
+  "units": 34,
+  "opening_paragraph": "p000",
+  "opening_is_included": true
+}
