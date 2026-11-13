@@ -1,0 +1,383 @@
+{
+  "text": "前几天森林里下了一场大雨，皮皮家门廊最边上的一块旧木板有点松动了。\n小熊绒绒是皮皮的好朋友，虽然年纪不大，但他已经会跟着熊爸爸学做简单的小木工了。今天下午，绒绒特意抱来了一块修整好的新木板，帮皮皮把门廊铺得平平整整。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "260c672e9e56f650376988ef7a63a34e565d8467a241ec972db076fbcdb29472",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4230830,
+      "text": "前"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5500000,
+      "duration": 2115410,
+      "text": "几"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7615410,
+      "duration": 5192500,
+      "text": "天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14153750,
+      "duration": 5961660,
+      "text": "森林"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20115410,
+      "duration": 2692500,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23192500,
+      "duration": 2884580,
+      "text": "下"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26077080,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27422910,
+      "duration": 12884580,
+      "text": "一场大雨"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45500000,
+      "duration": 13077080,
+      "text": "皮皮家门廊"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58961660,
+      "duration": 5576660,
+      "text": "最边"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64538330,
+      "duration": 2692500,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 67230830,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 68577080,
+      "duration": 5192500,
+      "text": "一块"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 74153750,
+      "duration": 1730830,
+      "text": "旧"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75884580,
+      "duration": 7115410,
+      "text": "木板"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 84346250,
+      "duration": 4422910,
+      "text": "有点"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 88961660,
+      "duration": 7500000,
+      "text": "松动"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 96461660,
+      "duration": 2884580,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 108269160,
+      "duration": 3846250,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 112115410,
+      "duration": 6153750,
+      "text": "熊绒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 118269160,
+      "duration": 4230830,
+      "text": "绒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 122884580,
+      "duration": 2115410,
+      "text": "是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 125192500,
+      "duration": 6346250,
+      "text": "皮皮的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 131730830,
+      "duration": 3076660,
+      "text": "好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 134807500,
+      "duration": 8077080,
+      "text": "朋友"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 147692500,
+      "duration": 4615410,
+      "text": "虽然"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 152692500,
+      "duration": 4422910,
+      "text": "年纪"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 157307500,
+      "duration": 5961660,
+      "text": "不大"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 167884580,
+      "duration": 2307500,
+      "text": "但"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 170192500,
+      "duration": 2115410,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 172500000,
+      "duration": 4230830,
+      "text": "已经"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 176730830,
+      "duration": 2500000,
+      "text": "会"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 179615410,
+      "duration": 3461660,
+      "text": "跟着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 183269160,
+      "duration": 3846250,
+      "text": "熊"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 187115410,
+      "duration": 7500000,
+      "text": "爸爸"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 196153750,
+      "duration": 3269160,
+      "text": "学"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 199422910,
+      "duration": 2692500,
+      "text": "做"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 202500000,
+      "duration": 5769160,
+      "text": "简单"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 208269160,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 209615410,
+      "duration": 3077080,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 212692500,
+      "duration": 6153750,
+      "text": "木工"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 218846250,
+      "duration": 3269160,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 230769160,
+      "duration": 5384580,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 236346250,
+      "duration": 8077080,
+      "text": "下午"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 249615410,
+      "duration": 5577080,
+      "text": "绒绒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 255577080,
+      "duration": 4807500,
+      "text": "特意"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 260577080,
+      "duration": 2884580,
+      "text": "抱"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 263461660,
+      "duration": 2500000,
+      "text": "来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 265961660,
+      "duration": 961660,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 267115410,
+      "duration": 5769160,
+      "text": "一块"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 273269160,
+      "duration": 5577080,
+      "text": "修整"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 279038330,
+      "duration": 3077080,
+      "text": "好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 282115410,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 283846250,
+      "duration": 3076660,
+      "text": "新"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 286922910,
+      "duration": 6538330,
+      "text": "木板"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 299230830,
+      "duration": 3076660,
+      "text": "帮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 302307500,
+      "duration": 8077080,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 310769160,
+      "duration": 2692500,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 313653750,
+      "duration": 5384580,
+      "text": "门廊"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 319422910,
+      "duration": 2115410,
+      "text": "铺"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 321538330,
+      "duration": 1346250,
+      "text": "得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 323269160,
+      "duration": 13269160,
+      "text": "平平整整"
+    }
+  ]
+}

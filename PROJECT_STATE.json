@@ -20,8 +20,8 @@
     "record": "episodes/ep006/v002/用户验收记录.json"
   },
   "next_candidate": {
-    "id": "ep013",
-    "title": "小熊的轻轻脚步",
+    "id": "ep014",
+    "title": "小鼹鼠画的窗户",
     "authorized": false,
     "media_status": "not_started"
   },
@@ -52,43 +52,30 @@
     "archives_in_current_tree": false,
     "loose_sources_included": true,
     "historical_commits_rewritten": false,
-    "status": "ep012_v001_synced_to_github_main",
-    "video_sync_exception": "Per user request, ep006-v002, ep007-v002, ep008-v002, ep009-v002, ep010-v001, ep011-v001 and ep012-v001 main/clean videos are included; ep009-v001 source materials remain without video.",
-    "verified_source_commit": "325e11249e1fe461b153982fbff0dc5c2a08dde",
-    "record": "docs/production/维护记录/2026-11-13_第012集仓库同步/RECORD.md",
-    "verified_sync_commit": "325e11249e1fe461b153982fbff0dc5c2a08dde"
+    "status": "ep013_v001_synced_to_github_main",
+    "video_sync_exception": "Per user request, ep006-v002, ep007-v002, ep008-v002, ep009-v002, ep010-v001, ep011-v001, ep012-v001, and ep013-v001 main/clean videos are included; ep009-v001 source materials remain without video.",
+    "verified_source_commit": "fb496a2f069cf87b8af9cb00fbe01295b7a58c50",
+    "record": "docs/production/维护记录/2026-11-13_第013集仓库同步/RECORD.md",
+    "verified_sync_commit": "fb496a2f069cf87b8af9cb00fbe01295b7a58c50"
   },
   "publication": "not_published",
   "latest_production": {
-    "id": "ep012",
+    "id": "ep013",
     "version": "v001",
-    "title": "小松鼠的空篮子",
+    "title": "小熊的轻轻脚步",
     "script_version": "v5",
-    "duration_s": 293.76,
-    "shots": 37,
-    "subtitle_cues": 139,
-    "status": "technical_passed_human_review_pending",
-    "record": "episodes/ep012/v001/RECORD.md",
-    "delivery": "Outputs/2026-11-13/ep012-v001/README.md",
+    "duration_s": 297.88,
+    "shots": 48,
+    "hanzi": 787,
+    "subtitle_cues": 141,
+    "status": "technical_passed_human_watch_pending",
+    "record": "episodes/ep013/v001/RECORD.md",
+    "delivery": "Outputs/2026-11-13/ep013-v001/README.md",
     "published": false,
-    "user_acceptance": "pending"
+    "user_acceptance": "pending",
+    "github_sync": "synced_to_main"
   },
   "previous_production": {
-    "id": "ep011",
-    "version": "v001",
-    "title": "小刺猬的软座位",
-    "script_version": "v5",
-    "duration_s": 297.72,
-    "shots": 44,
-    "hanzi": 811,
-    "subtitle_cues": 143,
-    "status": "technical_passed_human_watch_pending",
-    "record": "episodes/ep011/v001/RECORD.md",
-    "delivery": "Outputs/2026-11-12/ep011-v001/README.md",
-    "published": false,
-    "user_acceptance": "pending"
-  },
-  "current_production": {
     "id": "ep012",
     "version": "v001",
     "title": "小松鼠的空篮子",
@@ -97,11 +84,28 @@
     "shots": 37,
     "hanzi": 814,
     "subtitle_cues": 139,
-    "status": "technical_checks_passed_waiting_human_review",
+    "status": "technical_passed_human_review_pending",
     "record": "episodes/ep012/v001/RECORD.md",
-    "delivery": "Outputs/2026-11-13/ep012-v001",
+    "delivery": "Outputs/2026-11-13/ep012-v001/README.md",
     "published": false,
     "user_acceptance": "pending",
+    "github_sync": "synced_to_main"
+  },
+  "current_production": {
+    "id": "ep013",
+    "version": "v001",
+    "title": "小熊的轻轻脚步",
+    "script_version": "v5",
+    "duration_s": 297.88,
+    "shots": 48,
+    "hanzi": 787,
+    "subtitle_cues": 141,
+    "status": "technical_passed_human_watch_pending",
+    "record": "episodes/ep013/v001/RECORD.md",
+    "delivery": "Outputs/2026-11-13/ep013-v001/README.md",
+    "published": false,
+    "user_acceptance": "pending",
+    "github_sync": "synced_to_main",
     "technical_checks": "passed",
     "human_watch": "pending",
     "publication": "not_published"
@@ -134,6 +138,13 @@
   },
   "recent_productions": [
     {
+      "id": "ep013",
+      "version": "v001",
+      "status": "synced_to_github_main_waiting_human_review",
+      "record": "episodes/ep013/v001/RECORD.md",
+      "delivery": "Outputs/2026-11-13/ep013-v001"
+    },
+    {
       "id": "ep012",
       "version": "v001",
       "status": "technical_checks_passed_waiting_human_review",
@@ -146,13 +157,6 @@
       "status": "technical_checks_passed_waiting_human_review",
       "record": "episodes/ep011/v001/RECORD.md",
       "delivery": "Outputs/2026-11-12/ep011-v001"
-    },
-    {
-      "id": "ep010",
-      "version": "v001",
-      "status": "technical_checks_passed_waiting_human_review",
-      "record": "episodes/ep010/v001/RECORD.md",
-      "delivery": "Outputs/2026-11-12/ep010-v001"
     }
   ]
 }

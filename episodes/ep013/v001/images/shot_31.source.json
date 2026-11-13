@@ -1,0 +1,8 @@
+{
+  "shot_id": 31,
+  "source": "image_gen",
+  "image": "images/shot_31.png",
+  "sha256": "dd6d6ff6b61878cd825bb9b5fbfafa880ac1a78d423de190398a844608b79d24",
+  "reference_manifest": "references/shot_31.json",
+  "human_review": "pending"
+}

@@ -1,0 +1,348 @@
+{
+  "episode": "ep013",
+  "duration_s": 24.4,
+  "fps": 25,
+  "frames": 610,
+  "preview": true,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "shot_count": 48,
+  "crossfade_s": 0.96,
+  "curve": "linear",
+  "within_shot_motion": "none",
+  "subtitles_after_picture_transitions": true,
+  "clean": "/workspace/Bedtime-Stories/episodes/ep013/v001/ep013_preview24.4_clean.mp4",
+  "publish": "/workspace/Bedtime-Stories/episodes/ep013/v001/ep013_preview24.4.mp4",
+  "delivery_directory": "/workspace/Bedtime-Stories/episodes/ep013/v001",
+  "shots": [
+    {
+      "id": 1,
+      "title": "片头问候",
+      "text": "小朋友们，准备好听故事了吗？",
+      "source_ranges": [
+        {
+          "unit_id": "u001",
+          "paragraph_id": "p000",
+          "start_char": 0,
+          "end_char": 14
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "木屋门廊与入口：门在后侧，桌在右，木栏沿前沿；白天下雨后转下午，随后进入傍晚与夜晚。",
+      "action": "片头问候：皮皮在木屋门廊向观众轻轻挥爪，神情清醒温和。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": true,
+      "image": "images/shot_01.png",
+      "reference_manifest": "references/shot_01.json",
+      "image_status": "not_generated",
+      "actual_start_s": 0.0,
+      "actual_end_s": 5.12,
+      "visible_duration_s": 5.6,
+      "visual_constraints": "片头问候：皮皮在木屋门廊向观众轻轻挥爪，神情清醒温和。 角色身份与服装按指定角色参考；情绪、眼神、耳姿与姿态符合该瞬间，避免默认困倦脸。竖屏水彩，关键内容置于字幕区上方，不绘文字、水印或拼贴。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "pipi",
+            "name": "皮皮",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ],
+            "identity_anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+            "outfit": {
+              "id": "day_v001",
+              "description": "换装表左：灰蓝短背带裤、米色上衣、蓝布鞋、小黄书包，无帽；仅画这套服装，不复制表中其他兔子。",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+                  "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+                  "size": [
+                    1536,
+                    1024
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      },
+      "visible_start_s": 0.0,
+      "visible_end_s": 5.6,
+      "speech_start_s": 1.0,
+      "speech_end_s": 4.6598115
+    },
+    {
+      "id": 2,
+      "title": "片头题名画面",
+      "text": "今天的故事叫《小熊的轻轻脚步》。",
+      "source_ranges": [
+        {
+          "unit_id": "u001",
+          "paragraph_id": "p000",
+          "start_char": 14,
+          "end_char": 30
+        }
+      ],
+      "characters": [
+        "rongrong"
+      ],
+      "outfits": {
+        "rongrong": "default_v001"
+      },
+      "setting": "木屋门廊与入口：门在后侧，桌在右，木栏沿前沿；白天下雨后转下午，随后进入傍晚与夜晚。",
+      "action": "片头题名画面：门廊木板和一双轻轻落下的大熊脚掌，呈现夜晚脚步主题；独立片头画面。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": true,
+      "image": "images/shot_02.png",
+      "reference_manifest": "references/shot_02.json",
+      "image_status": "not_generated",
+      "actual_start_s": 5.12,
+      "actual_end_s": 10.08,
+      "visible_duration_s": 5.92,
+      "visual_constraints": "片头题名画面：门廊木板和一双轻轻落下的大熊脚掌，呈现夜晚脚步主题；独立片头画面。 角色身份与服装按指定角色参考；情绪、眼神、耳姿与姿态符合该瞬间，避免默认困倦脸。竖屏水彩，关键内容置于字幕区上方，不绘文字、水印或拼贴。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/rongrong_identity_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "rongrong",
+            "name": "绒绒",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/rongrong_identity_v001.png"
+            ],
+            "identity_anchors": "浅棕绒毛、圆耳、米色口鼻。",
+            "outfit": {
+              "id": "default_v001",
+              "description": "暗绿小马甲",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/rongrong_identity_v001.png",
+                  "sha256": "9b52ba85b675e5186a9240b1dfc1e080d6fcaae214ad1011226b41ddcf7d2706",
+                  "size": [
+                    1216,
+                    1294
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/rongrong.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      },
+      "visible_start_s": 4.640000000000001,
+      "visible_end_s": 10.56,
+      "speech_start_s": 5.5521035,
+      "speech_end_s": 9.6483125
+    },
+    {
+      "id": 3,
+      "title": "片头提问",
+      "text": "门廊的木板修好了，皮皮和绒绒怎样轻轻走过它呢？",
+      "source_ranges": [
+        {
+          "unit_id": "u001",
+          "paragraph_id": "p000",
+          "start_char": 30,
+          "end_char": 53
+        }
+      ],
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "rongrong": "default_v001"
+      },
+      "setting": "木屋门廊与入口：门在后侧，桌在右，木栏沿前沿；白天下雨后转下午，随后进入傍晚与夜晚。",
+      "action": "片头提问：皮皮与绒绒站在修整好的门廊上，彼此看着脚下木板，带好奇的期待神情。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": true,
+      "image": "images/shot_03.png",
+      "reference_manifest": "references/shot_03.json",
+      "image_status": "not_generated",
+      "actual_start_s": 10.08,
+      "actual_end_s": 17.84,
+      "visible_duration_s": 8.72,
+      "visual_constraints": "片头提问：皮皮与绒绒站在修整好的门廊上，彼此看着脚下木板，带好奇的期待神情。 角色身份与服装按指定角色参考；情绪、眼神、耳姿与姿态符合该瞬间，避免默认困倦脸。竖屏水彩，关键内容置于字幕区上方，不绘文字、水印或拼贴。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/rongrong_identity_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "pipi",
+            "name": "皮皮",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ],
+            "identity_anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+            "outfit": {
+              "id": "day_v001",
+              "description": "换装表左：灰蓝短背带裤、米色上衣、蓝布鞋、小黄书包，无帽；仅画这套服装，不复制表中其他兔子。",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+                  "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+                  "size": [
+                    1536,
+                    1024
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "rongrong",
+            "name": "绒绒",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/rongrong_identity_v001.png"
+            ],
+            "identity_anchors": "浅棕绒毛、圆耳、米色口鼻。",
+            "outfit": {
+              "id": "default_v001",
+              "description": "暗绿小马甲",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/rongrong_identity_v001.png",
+                  "sha256": "9b52ba85b675e5186a9240b1dfc1e080d6fcaae214ad1011226b41ddcf7d2706",
+                  "size": [
+                    1216,
+                    1294
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/rongrong.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      },
+      "visible_start_s": 9.6,
+      "visible_end_s": 18.32,
+      "speech_start_s": 10.5328955,
+      "speech_end_s": 17.282895500000002
+    },
+    {
+      "id": 4,
+      "title": "雨后白天，皮皮门廊边缘一块旧木板微微翘起，地面有",
+      "text": "前几天森林里下了一场大雨，皮皮家门廊最边上的一块旧木板有点松动了。",
+      "source_ranges": [
+        {
+          "unit_id": "u002",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 33
+        }
+      ],
+      "characters": [],
+      "outfits": {},
+      "setting": "木屋门廊/森林环境镜头，夜间蓝灰色调与柔和暖灯；画面不出现任何角色。",
+      "action": "雨后白天，皮皮门廊边缘一块旧木板微微翘起，地面有雨水痕迹；无角色，建立问题。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_04.png",
+      "reference_manifest": "references/shot_04.json",
+      "image_status": "not_generated",
+      "actual_start_s": 17.84,
+      "actual_end_s": 28.64,
+      "visible_duration_s": 11.76,
+      "visual_constraints": "雨后白天，皮皮门廊边缘一块旧木板微微翘起，地面有雨水痕迹；无角色，建立问题。 角色身份与服装按指定角色参考；情绪、眼神、耳姿与姿态符合该瞬间，避免默认困倦脸。竖屏水彩，关键内容置于字幕区上方，不绘文字、水印或拼贴。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [],
+        "characters": [],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      },
+      "visible_start_s": 17.36,
+      "visible_end_s": 29.12,
+      "speech_start_s": 18.397979166666666,
+      "speech_end_s": 28.19901983333333
+    }
+  ],
+  "audio": "mix.wav",
+  "subtitles": "episode.ass",
+  "character_registry": "references/",
+  "fonts": [
+    {
+      "path": "fonts/Noto-CJK-copyright.txt",
+      "sha256": "849f4ea9c214fa4ac3593b770c699f387534b11ce671264c1b10d85bdcb5997b"
+    },
+    {
+      "path": "fonts/Noto-Sans-copyright.txt",
+      "sha256": "075f91382875da1c4b491f1facf2586f55448705133264d98ce15cab6211b125"
+    },
+    {
+      "path": "fonts/NotoSans-Regular.ttf",
+      "sha256": "89c3c497f618fdaa0b2d1e98fef93582f28c71debd2c4a8cdf41f190ced2909d"
+    },
+    {
+      "path": "fonts/NotoSansCJKsc-Regular.otf",
+      "sha256": "82e9bdfd176ce68c51f6ff89ca7e2abae7fdb82b4591aa7338638598ae3c91c8"
+    },
+    {
+      "path": "fonts/NotoSansCJKsc-Bold.otf",
+      "sha256": "85c969dbb2f927c8dbbe440d5755b7c9a714f13a7a58339459df43cfff3583b3"
+    }
+  ]
+}

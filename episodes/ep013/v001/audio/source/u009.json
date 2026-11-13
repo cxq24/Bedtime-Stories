@@ -1,0 +1,359 @@
+{
+  "text": "暖黄色的毛毯盖住脚尖，胡萝卜玩偶靠住手臂。皮皮闭上眼睛，让柔软的小木床稳稳地接住自己的身体。\n小朋友，白天的奔跑和忙碌都已经结束了，脚步可以停一停啦。让身体稳稳地躺好，今晚，我们用最慢、最轻的速度进入梦乡。晚安。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "113b6b55d93d7adf7632e1ceaded2a0bc43e5b236eb2044b2072d2d5460c1680",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3269160,
+      "text": "暖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4538330,
+      "duration": 6153750,
+      "text": "黄色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10692500,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12230830,
+      "duration": 7115410,
+      "text": "毛毯"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19730830,
+      "duration": 2692080,
+      "text": "盖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22422910,
+      "duration": 2115410,
+      "text": "住"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24730830,
+      "duration": 8077080,
+      "text": "脚尖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37615410,
+      "duration": 7115410,
+      "text": "胡萝卜"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44922910,
+      "duration": 6538330,
+      "text": "玩偶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51846250,
+      "duration": 3076660,
+      "text": "靠"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54922910,
+      "duration": 1922910,
+      "text": "住"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57038330,
+      "duration": 8269160,
+      "text": "手臂"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 74422910,
+      "duration": 5769160,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 80577080,
+      "duration": 13461660,
+      "text": "闭上眼睛"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 98269160,
+      "duration": 2692500,
+      "text": "让"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 101153750,
+      "duration": 5192500,
+      "text": "柔软"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 106346250,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 107692500,
+      "duration": 3076660,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 110769160,
+      "duration": 8461660,
+      "text": "木床"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 120769160,
+      "duration": 5769160,
+      "text": "稳稳"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 126538330,
+      "duration": 1538330,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 128269160,
+      "duration": 5192500,
+      "text": "接住"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 133846250,
+      "duration": 3653750,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 137500000,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 139038330,
+      "duration": 8269160,
+      "text": "身体"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 156153750,
+      "duration": 10961660,
+      "text": "小朋友"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 171346250,
+      "duration": 5192080,
+      "text": "白天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 176538330,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 177884580,
+      "duration": 5192500,
+      "text": "奔跑"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 183461660,
+      "duration": 1730830,
+      "text": "和"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 185384580,
+      "duration": 8077080,
+      "text": "忙碌"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 195000000,
+      "duration": 1922910,
+      "text": "都"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 197115410,
+      "duration": 4230830,
+      "text": "已经"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 201538330,
+      "duration": 7115410,
+      "text": "结束"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 208653750,
+      "duration": 2692500,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 216153750,
+      "duration": 4615410,
+      "text": "脚步"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 220961660,
+      "duration": 3077080,
+      "text": "可以"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 224230830,
+      "duration": 3076660,
+      "text": "停"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 227307500,
+      "duration": 1730830,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 229038330,
+      "duration": 3269160,
+      "text": "停"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 232307500,
+      "duration": 3461660,
+      "text": "啦"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 244422910,
+      "duration": 2884580,
+      "text": "让"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 247500000,
+      "duration": 5192500,
+      "text": "身体"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 253077080,
+      "duration": 4807500,
+      "text": "稳稳"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 257884580,
+      "duration": 1153750,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 259230830,
+      "duration": 8461660,
+      "text": "躺好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 271538330,
+      "duration": 7692500,
+      "text": "今晚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 283846250,
+      "duration": 3269160,
+      "text": "我们"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 287307500,
+      "duration": 2692500,
+      "text": "用"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 290384580,
+      "duration": 3461660,
+      "text": "最"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 293846250,
+      "duration": 4038330,
+      "text": "慢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 300769160,
+      "duration": 3461660,
+      "text": "最"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 304230830,
+      "duration": 3269160,
+      "text": "轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 307500000,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 309038330,
+      "duration": 7115410,
+      "text": "速度"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 317692080,
+      "duration": 4615410,
+      "text": "进入"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 322500000,
+      "duration": 7692500,
+      "text": "梦乡"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 339038330,
+      "duration": 7884580,
+      "text": "晚安"
+    }
+  ]
+}
