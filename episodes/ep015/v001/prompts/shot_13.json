@@ -1,0 +1,38 @@
+{
+  "episode": "ep015",
+  "version": "v001",
+  "shot_id": 13,
+  "script_version": "v5",
+  "paragraph_id": "p004",
+  "paragraph_ids": [
+    "p004"
+  ],
+  "characters": [
+    "pipi",
+    "snail_ep015"
+  ],
+  "outfits": {
+    "pipi": "day_v001"
+  },
+  "continuity_refs": [
+    "PLANT_01",
+    "LEAF_01",
+    "SNAIL_01"
+  ],
+  "state_before": "皮皮站在花盆旁，蜗牛在最低叶面。",
+  "state_after": "皮皮蹲下并保持不打扰；蜗牛仍在叶上。",
+  "transition_from": 12,
+  "identity_outfit_reference_paths": [
+    "episodes/ep015/v001/checks/replaced-initial/shot_13_initial.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "episodes/ep015/v001/assets/evergreen_anchor.png",
+    "episodes/ep015/v001/assets/snail_identity_anchor.png"
+  ],
+  "reference_role": "identity/outfit, stable prop and location anchors only; scene-specific expression and action follow narration",
+  "image_prompt": "Keep Pipi crouched beside the same potted plant and snail on the lowest broad leaf. Change Pipi's expression to quiet patient attention: open gently focused eyes, relaxed brows, soft caring mouth, ears naturally lowered without sadness. No half-lidded/tired eyes. Bare head, no backpack, no touching the snail.",
+  "expression_and_action_note": "皮皮安静蹲下，身体微微前倾但不逼近，屏住呼吸看向蜗牛；表情克制、专注且温柔。",
+  "visual_constraints": "Portrait 9:16; fixed image; subtitles clear in lower safe area; no visible text. Maintain fixed asset appearance and cross-shot states.",
+  "status": "regenerated_after_contact_sheet_review",
+  "edit_target": "checks/replaced-initial/shot_13_initial.png"
+}

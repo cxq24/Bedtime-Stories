@@ -1,0 +1,35 @@
+{
+  "episode": "ep015",
+  "version": "v001",
+  "shot_id": 29,
+  "script_version": "v5",
+  "paragraph_id": "p007",
+  "paragraph_ids": [
+    "p007"
+  ],
+  "characters": [
+    "pipi"
+  ],
+  "outfits": {
+    "pipi": "sleep_v001"
+  },
+  "continuity_refs": [
+    "BED_01",
+    "PILLOW_01",
+    "BLANKET_01",
+    "CARROT_01"
+  ],
+  "state_before": "皮皮刚爬上床，耳朵尚未安放，玩偶在身边。",
+  "state_after": "耳朵舒适躺好，胡萝卜玩偶进入皮皮怀里。",
+  "transition_from": 28,
+  "identity_outfit_reference_paths": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep015/v001/assets/bedroom_reference_ep011.png"
+  ],
+  "reference_role": "identity/outfit, stable prop and location anchors only; scene-specific expression and action follow narration",
+  "image_prompt": "Vertical 9:16 full-bleed watercolor illustration for a gentle Chinese children's bedtime picture book. Soft watercolor washes, fine paper grain, rounded plush character design, quiet natural lighting, muted warm colors and gentle contrast. Use attached character images only to preserve identity and the specified outfit; use attached object and location anchors to preserve the same asset appearance and placement. Do not reproduce a reference-sheet layout or copy a default expression. Pipi is the same small warm-gray lop-eared rabbit, round face, pink nose and long naturally drooping ears; Pipi wears the sleep outfit only: navy blue cap with small golden stars and yellow pom-pom, simple cream sleepwear, no daytime backpack or shoes. Preserve Pipi identity; do not copy the reference-sheet layout. Scene: 皮皮的小卧室床上 Maintain the stable porch layout from the supplied location reference wherever the shot shows the wider porch. Exact story beat and acting: 皮皮把长耳朵自然摊开放到宽松枕头两侧，脸上有轻微满足笑意；手臂抱住橙色胡萝卜玩偶。 Continuity anchors: BED_01: 一张适合小兔子的低矮暖木床，床头简洁；固定在卧室靠窗位置。 PILLOW_01: 同一只浅米色柔软宽枕，尺寸足够让皮皮两只长耳自然摊开，不压耳朵。 BLANKET_01: 同一条柔软暖黄色毛毯，纯色无文字图案，厚度适中。 CARROT_01: 同一只橙色软布胡萝卜玩偶，圆润短叶冠，无衣物和字样。 Place faces and essential action in the upper 68 percent; keep the bottom 24 percent visually quiet and low-detail for large subtitles. Fixed single frozen moment, coherent paws/ears/eyestalks/leaves, no extra characters, no duplicated objects, no text, letters, captions, watermark, borders, split panels, collage, plastic 3D, horror or exaggerated expression.",
+  "expression_and_action_note": "皮皮把长耳朵自然摊开放到宽松枕头两侧，脸上有轻微满足笑意；手臂抱住橙色胡萝卜玩偶。",
+  "visual_constraints": "Portrait 9:16; fixed image; subtitles clear in lower safe area; no visible text. Maintain fixed asset appearance and cross-shot states.",
+  "status": "pending_generation"
+}

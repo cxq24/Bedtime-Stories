@@ -1,0 +1,36 @@
+{
+  "episode": "ep015",
+  "version": "v001",
+  "shot_id": 3,
+  "script_version": "v5",
+  "paragraph_id": "p001",
+  "paragraph_ids": [
+    "p001"
+  ],
+  "characters": [
+    "pipi"
+  ],
+  "outfits": {
+    "pipi": "day_v001"
+  },
+  "continuity_refs": [
+    "PLANT_01",
+    "PORCH_01"
+  ],
+  "state_before": "植物从学堂自然角启程，皮皮抱着它回家。",
+  "state_after": "同一花盆落在门廊固定位置；皮皮仍在门廊。",
+  "transition_from": 2,
+  "identity_outfit_reference_paths": [
+    "/workspace/Bedtime-Stories/episodes/ep015/v001/checks/replaced-initial/shot_03_initial.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep015/v001/assets/evergreen_anchor.png",
+    "/workspace/Bedtime-Stories/episodes/ep015/v001/assets/porch_layout_anchor.png"
+  ],
+  "reference_role": "identity/outfit, stable prop and location anchors only; scene-specific expression and action follow narration",
+  "image_prompt": "Keep the same moment of Pipi carrying the potted evergreen onto the porch, but change Pipi's face to focused, pleasantly determined: bright attentive eyes, softly raised brows, faint encouraging smile. Bare head, no backpack. Preserve outfit, pot, porch layout. Do not water the plant yet.",
+  "expression_and_action_note": "周末，皮皮双爪稳稳抱着同一盆大叶万年青走上门廊，目光注意前方和花盆；神情专注、动作稳当。",
+  "visual_constraints": "Portrait 9:16; fixed image; subtitles clear in lower safe area; no visible text. Maintain fixed asset appearance and cross-shot states.",
+  "status": "regenerated_after_expression_or_story_beat_review",
+  "edit_target": "checks/replaced-initial/shot_03_initial.png"
+}

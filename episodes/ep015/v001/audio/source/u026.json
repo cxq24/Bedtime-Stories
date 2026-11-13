@@ -1,0 +1,83 @@
+{
+  "text": "当他推开门走回小屋时，他发现自己的脚步，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "91fe6de3ba4cb1116e0f5341b5c8def66a801c8570e0685cc74ebb4b2fe0431a",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2692500,
+      "text": "当"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3961660,
+      "duration": 1730830,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5884580,
+      "duration": 5000000,
+      "text": "推开"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10884580,
+      "duration": 2884580,
+      "text": "门"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14153750,
+      "duration": 4615410,
+      "text": "走回"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18961660,
+      "duration": 7115410,
+      "text": "小屋"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26077080,
+      "duration": 5384580,
+      "text": "时"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34922910,
+      "duration": 2307500,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37422910,
+      "duration": 5769160,
+      "text": "发现"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43577080,
+      "duration": 3461250,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47038330,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48769160,
+      "duration": 8269160,
+      "text": "脚步"
+    }
+  ]
+}

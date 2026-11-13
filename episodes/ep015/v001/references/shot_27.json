@@ -1,0 +1,25 @@
+{
+  "episode": "ep015",
+  "version": "v001",
+  "shot_id": 27,
+  "characters": [
+    "pipi"
+  ],
+  "outfits": {
+    "pipi": "day_v001"
+  },
+  "reference_paths": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep015/v001/assets/porch_layout_anchor.png"
+  ],
+  "reference_role": "identity/outfit, stable prop and location anchors only; scene-specific expression and action follow narration",
+  "prompt_file": "prompts/shot_27.json",
+  "prompt_sha256": "287bf177eded971a3c60a8294aa26328f82b7ee3decfe0972a406a43be4305c4",
+  "image": "images/shot_27.png",
+  "continuity_refs": [
+    "PORCH_01",
+    "DOOR_01"
+  ],
+  "status": "pending_generation"
+}

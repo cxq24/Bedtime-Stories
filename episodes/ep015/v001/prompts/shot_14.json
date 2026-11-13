@@ -1,0 +1,36 @@
+{
+  "episode": "ep015",
+  "version": "v001",
+  "shot_id": 14,
+  "script_version": "v5",
+  "paragraph_id": "p004",
+  "paragraph_ids": [
+    "p004"
+  ],
+  "characters": [
+    "pipi",
+    "snail_ep015"
+  ],
+  "outfits": {
+    "pipi": "day_v001"
+  },
+  "continuity_refs": [
+    "PLANT_01",
+    "LEAF_01",
+    "SNAIL_01"
+  ],
+  "state_before": "同一叶片尖端卷起；蜗牛尚未越过它。",
+  "state_after": "确认卷起叶尖是前路障碍；叶片状态尚未改变。",
+  "transition_from": 13,
+  "identity_outfit_reference_paths": [
+    "episodes/ep015/v001/checks/replaced-initial/shot_14_initial.png",
+    "episodes/ep015/v001/assets/evergreen_anchor.png",
+    "episodes/ep015/v001/assets/snail_identity_anchor.png"
+  ],
+  "reference_role": "identity/outfit, stable prop and location anchors only; scene-specific expression and action follow narration",
+  "image_prompt": "Retouch the supplied illustration while preserving the exact characters, expression, composition, plant, pot, porch, curled leaf tip, snail and lighting. Remove both dotted arrows completely. No arrows, dotted lines, motion trails, symbols, speech balloons or graphic overlays. Natural storybook scene only.",
+  "expression_and_action_note": "从侧上方看同一片最低宽叶：前方叶尖向上卷起，形成挡路的小坎；皮皮观察叶片形状，蜗牛在叶尖后方。",
+  "visual_constraints": "Portrait 9:16; fixed image; subtitles clear in lower safe area; no visible text. Maintain fixed asset appearance and cross-shot states.",
+  "status": "regenerated_to_remove_non_narrative_arrows",
+  "edit_target": "checks/replaced-initial/shot_14_initial.png"
+}

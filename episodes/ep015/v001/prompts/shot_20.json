@@ -1,0 +1,39 @@
+{
+  "episode": "ep015",
+  "version": "v001",
+  "shot_id": 20,
+  "script_version": "v5",
+  "paragraph_id": "p005",
+  "paragraph_ids": [
+    "p005"
+  ],
+  "characters": [
+    "pipi",
+    "snail_ep015"
+  ],
+  "outfits": {
+    "pipi": "day_v001"
+  },
+  "continuity_refs": [
+    "PLANT_01",
+    "LEAF_01",
+    "SNAIL_01",
+    "DEW_TRAIL_01",
+    "WINDOW_01"
+  ],
+  "state_before": "小屋窗灯已亮，露珠在叶片上；蜗牛在叶面。",
+  "state_after": "露珠只反射窗光，未变成实体灯；蜗牛沿叶面前行。",
+  "transition_from": 19,
+  "identity_outfit_reference_paths": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep015/v001/assets/snail_identity_anchor.png",
+    "/workspace/Bedtime-Stories/episodes/ep015/v001/assets/evergreen_anchor.png",
+    "/workspace/Bedtime-Stories/episodes/ep015/v001/images/shot_06.png"
+  ],
+  "reference_role": "identity/outfit, stable prop and location anchors only; scene-specific expression and action follow narration",
+  "image_prompt": "Vertical 9:16 full-bleed watercolor illustration for a gentle Chinese children's bedtime picture book. Soft watercolor washes, fine paper grain, rounded plush character design, quiet natural lighting, muted warm colors and gentle contrast. Use attached character images only to preserve identity and the specified outfit; use attached object and location anchors to preserve the same asset appearance and placement. Do not reproduce a reference-sheet layout or copy a default expression. Pipi is the same small warm-gray lop-eared rabbit, round face, pink nose and long naturally drooping ears; Pipi wears the one daytime outfit from the wardrobe reference: gray-blue short overalls, cream shirt, small blue cloth shoes, bare head. No star cap, no raincoat. In the school scene only, the small yellow school backpack is allowed; at home on the porch Pipi has no backpack. The snail is the exact same small pale cream-beige snail from its supplied identity anchor, with two short eye stalks and the same rounded light-caramel shell with one dark brown spiral; no clothes or accessories. Scene: 门廊最低宽叶与小木屋窗边 Maintain the stable porch layout from the supplied location reference wherever the shot shows the wider porch. Exact story beat and acting: 同一叶片上的一颗露珠反射小木屋窗内暖黄色灯光；蜗牛继续在露珠后方前进，皮皮安静看着，目光温柔惊叹。 Continuity anchors: PLANT_01: 同一株健康的大叶万年青，深浅绿色椭圆宽叶，叶脉清晰；在同一陶盆中，整集株形和叶片数/方向保持一致。 LEAF_01: PLANT_01最下方、朝前偏右的一片宽椭圆叶，叶柄连在主茎低位；叶尖初始向上卷起，皮皮扶后成为自然的浅绿色缓坡；不能替换为另一片叶。 SNAIL_01: 小小的软体浅奶油米色蜗牛，头部两根短短触角，端部为小黑眼点；背着固定的浅棕色圆形螺旋壳，壳面一圈清楚的深棕螺旋线，身体与壳比例小巧；无衣服、无配饰，不增加表情配件。 DEW_TRAIL_01: 同一片叶面上的约四颗透明圆润小露珠，大小略有差别；始终贴在LEAF_01表面，不能变成实体灯或悬浮珠。其后一颗可反射窗光。 WINDOW_01: 门廊木墙同一扇小方窗，室内透出柔和暖黄色灯光，无可读文字。 Place faces and essential action in the upper 68 percent; keep the bottom 24 percent visually quiet and low-detail for large subtitles. Fixed single frozen moment, coherent paws/ears/eyestalks/leaves, no extra characters, no duplicated objects, no text, letters, captions, watermark, borders, split panels, collage, plastic 3D, horror or exaggerated expression.",
+  "expression_and_action_note": "同一叶片上的一颗露珠反射小木屋窗内暖黄色灯光；蜗牛继续在露珠后方前进，皮皮安静看着，目光温柔惊叹。",
+  "visual_constraints": "Portrait 9:16; fixed image; subtitles clear in lower safe area; no visible text. Maintain fixed asset appearance and cross-shot states.",
+  "status": "generated"
+}

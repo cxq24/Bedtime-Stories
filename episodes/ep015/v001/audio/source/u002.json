@@ -1,0 +1,113 @@
+{
+  "text": "\n这个周末，皮皮把这盆万年青抱回了自己的小木屋门廊上照看。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "23997f3ffa65b33ce59cfecae253d5266869bd814c416a749d713e84dcaf4579",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4230830,
+      "text": "这个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5692500,
+      "duration": 7884580,
+      "text": "周末"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18384580,
+      "duration": 5192500,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23769160,
+      "duration": 1922910,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25884580,
+      "duration": 1922910,
+      "text": "这"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27807500,
+      "duration": 2307500,
+      "text": "盆"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30307500,
+      "duration": 11153750,
+      "text": "万年青"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43000000,
+      "duration": 3269160,
+      "text": "抱"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46269160,
+      "duration": 2692500,
+      "text": "回"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48961660,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50692500,
+      "duration": 4038330,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54730830,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56461660,
+      "duration": 3461250,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59922910,
+      "duration": 7692500,
+      "text": "木屋"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 69153750,
+      "duration": 5577080,
+      "text": "门廊"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 74922910,
+      "duration": 6153750,
+      "text": "上照"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 81077080,
+      "duration": 4615410,
+      "text": "看"
+    }
+  ]
+}

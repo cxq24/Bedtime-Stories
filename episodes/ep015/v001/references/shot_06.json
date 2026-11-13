@@ -1,0 +1,29 @@
+{
+  "episode": "ep015",
+  "version": "v001",
+  "shot_id": 6,
+  "characters": [
+    "pipi"
+  ],
+  "outfits": {
+    "pipi": "day_v001"
+  },
+  "reference_paths": [
+    "/workspace/Bedtime-Stories/episodes/ep015/v001/checks/replaced-initial/shot_06_initial.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep015/v001/assets/evergreen_anchor.png",
+    "/workspace/Bedtime-Stories/episodes/ep015/v001/assets/watering_can_anchor.png"
+  ],
+  "reference_role": "identity/outfit, stable prop and location anchors only; scene-specific expression and action follow narration",
+  "prompt_file": "prompts/shot_06.json",
+  "prompt_sha256": "8b40d0d52bcd1a9df7a0f98ee16d51f93080686c6e03a84fbf9d42a50b47f7b7",
+  "image": "images/shot_06.png",
+  "continuity_refs": [
+    "PLANT_01",
+    "LEAF_01",
+    "DEW_TRAIL_01",
+    "WATERING_CAN_01"
+  ],
+  "status": "generated_regenerated_after_review"
+}

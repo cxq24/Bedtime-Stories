@@ -1,0 +1,101 @@
+{
+  "text": "来到门廊给花盆添水。\n细细的水雾落在宽宽的绿叶子上，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "d9371e34b8360ac2319df1e47608847d8778608e7c0a515fb7d5d19ab9f51011",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5000000,
+      "text": "来到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6461660,
+      "duration": 7692500,
+      "text": "门廊"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15692500,
+      "duration": 2500000,
+      "text": "给"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18384580,
+      "duration": 5384580,
+      "text": "花盆"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23961660,
+      "duration": 3653750,
+      "text": "添"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27615410,
+      "duration": 5769160,
+      "text": "水"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42307500,
+      "duration": 6730830,
+      "text": "细细"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 49038330,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50577080,
+      "duration": 8653750,
+      "text": "水雾"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60769160,
+      "duration": 2307500,
+      "text": "落"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63077080,
+      "duration": 2500000,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 65961660,
+      "duration": 6345830,
+      "text": "宽宽"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 72307500,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 74038330,
+      "duration": 6730830,
+      "text": "绿叶子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 80769160,
+      "duration": 4807500,
+      "text": "上"
+    }
+  ]
+}

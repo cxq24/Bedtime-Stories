@@ -1,0 +1,23 @@
+{
+  "episode": "ep015",
+  "version": "v001",
+  "shot_id": 14,
+  "image": "images/shot_14.png",
+  "sha256": "bbd6c32cd4c67da2f2822639801b701015c848e4ddea826981f457e4454bb13d",
+  "bytes": 2571381,
+  "source": "image_gen_edit",
+  "prompt_file": "prompts/shot_14.json",
+  "prompt_sha256": "d354d416a4539ff8ceae99651b72aeed804d5460636a6b513f8fc51d812d7495",
+  "reference_paths": [
+    "episodes/ep015/v001/checks/replaced-initial/shot_14_initial.png",
+    "episodes/ep015/v001/assets/evergreen_anchor.png",
+    "episodes/ep015/v001/assets/snail_identity_anchor.png"
+  ],
+  "edit_target": "checks/replaced-initial/shot_14_initial.png",
+  "continuity_refs": [
+    "PLANT_01",
+    "LEAF_01",
+    "SNAIL_01"
+  ],
+  "status": "generated"
+}

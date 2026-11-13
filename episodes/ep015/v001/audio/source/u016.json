@@ -1,0 +1,71 @@
+{
+  "text": "让它变成了一条平缓的绿色小斜坡。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "41a7e801f0658499f2b8a241cea950fb881e1d47f528a24a28b75cb04fbc2194",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3077080,
+      "text": "让"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4346250,
+      "duration": 2115410,
+      "text": "它"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6653750,
+      "duration": 5384580,
+      "text": "变成"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12038330,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13384580,
+      "duration": 5192500,
+      "text": "一条"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18961660,
+      "duration": 7115410,
+      "text": "平缓"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26077080,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27807500,
+      "duration": 5192500,
+      "text": "绿色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33192500,
+      "duration": 2884580,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36077080,
+      "duration": 8653750,
+      "text": "斜坡"
+    }
+  ]
+}

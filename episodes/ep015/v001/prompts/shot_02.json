@@ -1,0 +1,34 @@
+{
+  "episode": "ep015",
+  "version": "v001",
+  "shot_id": 2,
+  "script_version": "v5",
+  "paragraph_id": "p001",
+  "paragraph_ids": [
+    "p001"
+  ],
+  "characters": [
+    "pipi"
+  ],
+  "outfits": {
+    "pipi": "day_v001"
+  },
+  "continuity_refs": [
+    "PLANT_01"
+  ],
+  "state_before": "万年青仍在学堂自然角，皮皮在学堂。",
+  "state_after": "皮皮领到照料这盆万年青的任务，植物尚未搬动。",
+  "transition_from": 1,
+  "identity_outfit_reference_paths": [
+    "/workspace/Bedtime-Stories/episodes/ep015/v001/checks/replaced-initial/shot_02_initial.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep015/v001/assets/evergreen_anchor.png"
+  ],
+  "reference_role": "identity/outfit, stable prop and location anchors only; scene-specific expression and action follow narration",
+  "image_prompt": "Change Pipi's expression only: attentive and pleasantly curious at the plant, eyes open and bright, brows gently lifted, a small hopeful smile, ears naturally raised. Keep the same forest classroom, plant, daytime clothes and yellow backpack. Do not use a droopy sad/tired look.",
+  "expression_and_action_note": "皮皮站在自然角旁仔细听任务，目光落在大叶万年青上，眉毛轻轻抬起、神情认真又有些期待；不加未提及的师生角色。",
+  "visual_constraints": "Portrait 9:16; fixed image; subtitles clear in lower safe area; no visible text. Maintain fixed asset appearance and cross-shot states.",
+  "status": "regenerated_after_expression_or_story_beat_review",
+  "edit_target": "checks/replaced-initial/shot_02_initial.png"
+}

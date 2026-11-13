@@ -1,0 +1,29 @@
+{
+  "text": "安心休息，晚安。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "2b8d980d2fc06cbb494dc5af4604c9ab463d54d41f994ef41f0b6e58c917f383",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5769160,
+      "text": "安心"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7230830,
+      "duration": 7884580,
+      "text": "休息"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19346250,
+      "duration": 6730830,
+      "text": "晚安"
+    }
+  ]
+}

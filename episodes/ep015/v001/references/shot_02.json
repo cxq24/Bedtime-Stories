@@ -1,0 +1,25 @@
+{
+  "episode": "ep015",
+  "version": "v001",
+  "shot_id": 2,
+  "characters": [
+    "pipi"
+  ],
+  "outfits": {
+    "pipi": "day_v001"
+  },
+  "reference_paths": [
+    "/workspace/Bedtime-Stories/episodes/ep015/v001/checks/replaced-initial/shot_02_initial.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep015/v001/assets/evergreen_anchor.png"
+  ],
+  "reference_role": "identity/outfit, stable prop and location anchors only; scene-specific expression and action follow narration",
+  "prompt_file": "prompts/shot_02.json",
+  "prompt_sha256": "9268385960d0df5d1112c6563257fa50eff3db00cb9c51be1478ad3e8824021e",
+  "image": "images/shot_02.png",
+  "continuity_refs": [
+    "PLANT_01"
+  ],
+  "status": "generated_regenerated_after_review"
+}

@@ -1,0 +1,31 @@
+{
+  "episode": "ep015",
+  "version": "v001",
+  "shot_id": 21,
+  "characters": [
+    "pipi",
+    "snail_ep015"
+  ],
+  "outfits": {
+    "pipi": "day_v001"
+  },
+  "reference_paths": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep015/v001/assets/snail_identity_anchor.png",
+    "/workspace/Bedtime-Stories/episodes/ep015/v001/assets/evergreen_anchor.png",
+    "/workspace/Bedtime-Stories/episodes/ep015/v001/images/shot_06.png"
+  ],
+  "reference_role": "identity/outfit, stable prop and location anchors only; scene-specific expression and action follow narration",
+  "prompt_file": "prompts/shot_21.json",
+  "prompt_sha256": "ecc1038e6220cfda0dbba605993ded29e80e2fe7b94e4b2d63ef61603c7e43ba",
+  "image": "images/shot_21.png",
+  "continuity_refs": [
+    "PLANT_01",
+    "LEAF_01",
+    "SNAIL_01",
+    "DEW_TRAIL_01",
+    "WINDOW_01"
+  ],
+  "status": "generated"
+}

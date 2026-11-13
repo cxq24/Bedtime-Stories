@@ -1,0 +1,29 @@
+{
+  "text": "准备睡觉了。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "861944ab637ee3ebf61d9ed6db0097ae0883f75d806a6972b5c82dc817ef4d62",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5192500,
+      "text": "准备"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6653750,
+      "duration": 7692500,
+      "text": "睡觉"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14346250,
+      "duration": 3461660,
+      "text": "了"
+    }
+  ]
+}

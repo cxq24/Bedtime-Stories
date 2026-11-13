@@ -1,0 +1,89 @@
+{
+  "text": "小蜗牛终于顺着露珠小路，爬到了宽叶子的背面，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "8c3887b3b1a33f55b18a19c09111cbb6857921cdbdb6fefa4aa5a1ce4c43c80e",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4038330,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5307500,
+      "duration": 7884580,
+      "text": "蜗牛"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13577080,
+      "duration": 5192500,
+      "text": "终于"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18961660,
+      "duration": 4807500,
+      "text": "顺着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24153750,
+      "duration": 4038330,
+      "text": "露珠"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28384580,
+      "duration": 7884580,
+      "text": "小路"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39922910,
+      "duration": 2884580,
+      "text": "爬"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42807500,
+      "duration": 2500000,
+      "text": "到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45307500,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46846250,
+      "duration": 3461250,
+      "text": "宽"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50307500,
+      "duration": 4422910,
+      "text": "叶子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54730830,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56269160,
+      "duration": 7500000,
+      "text": "背面"
+    }
+  ]
+}

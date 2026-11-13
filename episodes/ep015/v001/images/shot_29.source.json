@@ -1,0 +1,23 @@
+{
+  "episode": "ep015",
+  "version": "v001",
+  "shot_id": 29,
+  "image": "images/shot_29.png",
+  "sha256": "6286e630ab68447fcc149f9e517c8a77b0e6e739e39e22896381e84eb7cea66d",
+  "bytes": 2546783,
+  "source": "image_gen",
+  "prompt_file": "prompts/shot_29.json",
+  "prompt_sha256": "e8a24ec165b6b90de2a859a056ce5a244fc8a06fa9e8ad8cce5cee36aec58488",
+  "reference_paths": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep015/v001/assets/bedroom_reference_ep011.png"
+  ],
+  "continuity_refs": [
+    "BED_01",
+    "PILLOW_01",
+    "BLANKET_01",
+    "CARROT_01"
+  ],
+  "status": "generated"
+}

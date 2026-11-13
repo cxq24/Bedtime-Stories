@@ -1,0 +1,23 @@
+{
+  "episode": "ep015",
+  "version": "v001",
+  "shot_id": 25,
+  "image": "images/shot_25.png",
+  "sha256": "b84809bbb915739efc4bc056903744b0fdc75c0127b321fb6e2a78c59a38806b",
+  "bytes": 2401677,
+  "source": "image_gen_edited_after_continuity_review",
+  "prompt_file": "prompts/shot_25.json",
+  "prompt_sha256": "b433abe1f92cfe7ca4bfac6f0dc927bcf4ca0b901f35937409bbc676e9e871fc",
+  "reference_paths": [
+    "/workspace/Bedtime-Stories/episodes/ep015/v001/images/shot_25.png",
+    "/workspace/Bedtime-Stories/episodes/ep015/v001/assets/snail_identity_anchor.png",
+    "/workspace/Bedtime-Stories/episodes/ep015/v001/assets/evergreen_anchor.png"
+  ],
+  "continuity_refs": [
+    "PLANT_01",
+    "LEAF_01",
+    "SNAIL_01"
+  ],
+  "status": "continuity_reviewed",
+  "revised_image_source": "/workspace/generated_images/exec-11bf319c-1ad5-4941-91b9-a031fec42df4.png"
+}

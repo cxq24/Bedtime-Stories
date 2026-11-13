@@ -1,0 +1,84 @@
+{
+  "episode": "ep015",
+  "version": "v001",
+  "assets": {
+    "SNAIL_01": {
+      "reference": "assets/snail_identity_anchor.png",
+      "sha256": "574523bd61367316619463b51784b158f41edcbc588cb73eb4f5079fa6ce5c33",
+      "bytes": 2321534,
+      "source": "image_gen"
+    },
+    "POT_01": {
+      "reference": "assets/evergreen_anchor.png",
+      "sha256": "f8748e2703c0af343cc94cd6ce523f860a2426e307d1456e95932f2019dca3a0",
+      "bytes": 2693514,
+      "source": "image_gen"
+    },
+    "PLANT_01": {
+      "reference": "assets/evergreen_anchor.png",
+      "sha256": "f8748e2703c0af343cc94cd6ce523f860a2426e307d1456e95932f2019dca3a0",
+      "bytes": 2693514,
+      "source": "image_gen"
+    },
+    "LEAF_01": {
+      "reference": "assets/evergreen_anchor.png",
+      "sha256": "f8748e2703c0af343cc94cd6ce523f860a2426e307d1456e95932f2019dca3a0",
+      "bytes": 2693514,
+      "source": "image_gen"
+    },
+    "WATERING_CAN_01": {
+      "reference": "assets/watering_can_anchor.png",
+      "sha256": "a811af37eb5959fd7275edaa67f75cfd41deea9585bc73b9aa07e4be51279c97",
+      "bytes": 2459365,
+      "source": "image_gen"
+    },
+    "PORCH_01": {
+      "reference": "assets/porch_layout_anchor.png",
+      "sha256": "f823271949a6cde758884bc649d09058f62da83bbad59f4b032501441262d724",
+      "bytes": 3030193,
+      "source": "image_gen"
+    },
+    "WINDOW_01": {
+      "reference": "assets/porch_layout_anchor.png",
+      "sha256": "f823271949a6cde758884bc649d09058f62da83bbad59f4b032501441262d724",
+      "bytes": 3030193,
+      "source": "image_gen"
+    },
+    "DOOR_01": {
+      "reference": "assets/porch_layout_anchor.png",
+      "sha256": "f823271949a6cde758884bc649d09058f62da83bbad59f4b032501441262d724",
+      "bytes": 3030193,
+      "source": "image_gen"
+    },
+    "BED_01": {
+      "reference": "assets/bedroom_reference_ep011.png",
+      "sha256": "2c28f33b610c52f4882633aaa0cae813e4458f18e6770d1f61b89f6d3e4af4e5",
+      "bytes": 2554930,
+      "source": "existing_episode_reference"
+    },
+    "PILLOW_01": {
+      "reference": "assets/bedroom_reference_ep011.png",
+      "sha256": "2c28f33b610c52f4882633aaa0cae813e4458f18e6770d1f61b89f6d3e4af4e5",
+      "bytes": 2554930,
+      "source": "existing_episode_reference"
+    },
+    "BLANKET_01": {
+      "reference": "assets/bedroom_reference_ep011.png",
+      "sha256": "2c28f33b610c52f4882633aaa0cae813e4458f18e6770d1f61b89f6d3e4af4e5",
+      "bytes": 2554930,
+      "source": "existing_episode_reference"
+    },
+    "CARROT_01": {
+      "reference": "assets/bedroom_reference_ep011.png",
+      "sha256": "2c28f33b610c52f4882633aaa0cae813e4458f18e6770d1f61b89f6d3e4af4e5",
+      "bytes": 2554930,
+      "source": "existing_episode_reference"
+    },
+    "DEW_TRAIL_01": {
+      "reference": "images/shot_06.png",
+      "sha256": "94dc602a1e97b697ab9c8aea7772e64c12223171c4b2ed81202ae7cd45cb6c08",
+      "bytes": 2833607,
+      "source": "first_story_image_anchor"
+    }
+  }
+}

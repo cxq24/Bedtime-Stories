@@ -1,0 +1,38 @@
+{
+  "episode": "ep015",
+  "version": "v001",
+  "shot_id": 12,
+  "script_version": "v5",
+  "paragraph_id": "p003",
+  "paragraph_ids": [
+    "p003"
+  ],
+  "characters": [
+    "pipi",
+    "snail_ep015"
+  ],
+  "outfits": {
+    "pipi": "day_v001"
+  },
+  "continuity_refs": [
+    "PLANT_01",
+    "LEAF_01",
+    "SNAIL_01"
+  ],
+  "state_before": "蜗牛停在叶面，皮皮在旁。",
+  "state_after": "皮皮明确没有触碰也没有催促；双方位置稳定。",
+  "transition_from": 11,
+  "identity_outfit_reference_paths": [
+    "episodes/ep015/v001/checks/replaced-initial/shot_12_initial.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "episodes/ep015/v001/assets/evergreen_anchor.png",
+    "episodes/ep015/v001/assets/snail_identity_anchor.png"
+  ],
+  "reference_role": "identity/outfit, stable prop and location anchors only; scene-specific expression and action follow narration",
+  "image_prompt": "Remove Pipi's yellow backpack completely; Pipi is at home and carries no bag. Keep the gray-blue overalls, cream shirt and blue shoes, same potted plant, same snail, composition and watercolor style. Adjust Pipi's face to patient kindness: open attentive eyes looking at the snail, soft relaxed eyebrows and a small gentle smile, not sleepy or gloomy. Pipi's paws remain safely to their own chest, never touching or pushing the shell.",
+  "expression_and_action_note": "皮皮的双爪收在自己身边，没有伸手碰壳；眉眼温和、身体稍向后留出空间。蜗牛按自己的速度观察叶面。",
+  "visual_constraints": "Portrait 9:16; fixed image; subtitles clear in lower safe area; no visible text. Maintain fixed asset appearance and cross-shot states.",
+  "status": "regenerated_after_contact_sheet_review",
+  "edit_target": "checks/replaced-initial/shot_12_initial.png"
+}

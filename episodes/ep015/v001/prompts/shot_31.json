@@ -1,0 +1,32 @@
+{
+  "episode": "ep015",
+  "version": "v001",
+  "shot_id": 31,
+  "script_version": "v5",
+  "paragraph_id": "p008",
+  "paragraph_ids": [
+    "p008"
+  ],
+  "characters": [
+    "snail_ep015"
+  ],
+  "outfits": {},
+  "continuity_refs": [
+    "PLANT_01",
+    "LEAF_01",
+    "SNAIL_01",
+    "POT_01"
+  ],
+  "state_before": "皮皮在卧室继续旁白；蜗牛仍随盆栽留在屋檐下叶背角落。",
+  "state_after": "以明确回想画面呈现蜗牛仍在屋檐下叶背安睡；不发生空间移动。",
+  "transition_from": 30,
+  "identity_outfit_reference_paths": [
+    "/workspace/Bedtime-Stories/episodes/ep015/v001/assets/snail_identity_anchor.png",
+    "/workspace/Bedtime-Stories/episodes/ep015/v001/assets/evergreen_anchor.png"
+  ],
+  "reference_role": "identity/outfit, stable prop and location anchors only; scene-specific expression and action follow narration",
+  "image_prompt": "Vertical 9:16 full-bleed watercolor illustration for a gentle Chinese children's bedtime picture book. Soft watercolor washes, fine paper grain, rounded plush character design, quiet natural lighting, muted warm colors and gentle contrast. Use attached character images only to preserve identity and the specified outfit; use attached object and location anchors to preserve the same asset appearance and placement. Do not reproduce a reference-sheet layout or copy a default expression. The snail is the exact same small pale cream-beige snail from its supplied identity anchor, with two short eye stalks and the same rounded light-caramel shell with one dark brown spiral; no clothes or accessories. Scene: A clearly separate watercolor story-recollection image showing the porch-side evergreen and snail only; never blend the bedroom into the porch. Exact story beat and acting: 画面只呈现同一只蜗牛在叶背湿润角落安睡；这是Pipi旁白回望刚才的故事，不把Pipi、花盆或蜗牛搬进卧室。 Continuity anchors: PLANT_01: 同一株健康的大叶万年青，深浅绿色椭圆宽叶，叶脉清晰；在同一陶盆中，整集株形和叶片数/方向保持一致。 LEAF_01: PLANT_01最下方、朝前偏右的一片宽椭圆叶，叶柄连在主茎低位；叶尖初始向上卷起，皮皮扶后成为自然的浅绿色缓坡；不能替换为另一片叶。 SNAIL_01: 小小的软体浅奶油米色蜗牛，头部两根短短触角，端部为小黑眼点；背着固定的浅棕色圆形螺旋壳，壳面一圈清楚的深棕螺旋线，身体与壳比例小巧；无衣服、无配饰，不增加表情配件。 POT_01: 同一盆中等大小的暖陶色圆筒陶盆，细窄口沿、无花纹，装深色土；抱得动，整集不换盆。 Place faces and essential action in the upper 68 percent; keep the bottom 24 percent visually quiet and low-detail for large subtitles. Fixed single frozen moment, coherent paws/ears/eyestalks/leaves, no extra characters, no duplicated objects, no text, letters, captions, watermark, borders, split panels, collage, plastic 3D, horror or exaggerated expression.\n\nContinuity review revision applied: refreshed expression and preserved the snail on the same leaf through the porch move; ending flashback snail asleep with tentacles retracted.",
+  "expression_and_action_note": "画面只呈现同一只蜗牛在叶背湿润角落安睡；这是Pipi旁白回望刚才的故事，不把Pipi、花盆或蜗牛搬进卧室。",
+  "visual_constraints": "Portrait 9:16; fixed image; subtitles clear in lower safe area; no visible text. Maintain fixed asset appearance and cross-shot states.",
+  "status": "continuity_reviewed_revision"
+}

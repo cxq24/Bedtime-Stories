@@ -1,0 +1,23 @@
+{
+  "episode": "ep015",
+  "version": "v001",
+  "shot_id": 27,
+  "image": "images/shot_27.png",
+  "sha256": "2a876fb25ca85c0ffa0d335257f90ed4b09fd756113626efb19920423192630d",
+  "bytes": 2776090,
+  "source": "image_gen_edited_after_continuity_review",
+  "prompt_file": "prompts/shot_27.json",
+  "prompt_sha256": "065e5a9d60d0979844d3b2a1a1d2fd5c081962b4282e4c208ef689403b81a34f",
+  "reference_paths": [
+    "/workspace/Bedtime-Stories/episodes/ep015/v001/images/shot_27.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep015/v001/assets/porch_layout_anchor.png"
+  ],
+  "continuity_refs": [
+    "PORCH_01",
+    "DOOR_01"
+  ],
+  "status": "continuity_reviewed",
+  "revised_image_source": "/workspace/generated_images/exec-895f1997-5fc3-401b-bbe6-cbdbf98706e4.png"
+}

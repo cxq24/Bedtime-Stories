@@ -1,0 +1,71 @@
+{
+  "text": "脑海里不再想着明天还要赶去哪里。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "e4176c010734c59df8d8be828690a629fedfd3b699d89043bdb2db03194b81fb",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6153750,
+      "text": "脑海"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7422910,
+      "duration": 1730830,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9538330,
+      "duration": 4038330,
+      "text": "不再"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13769160,
+      "duration": 4230830,
+      "text": "想"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18000000,
+      "duration": 4615410,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24153750,
+      "duration": 4807500,
+      "text": "明天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29153750,
+      "duration": 4038330,
+      "text": "还要"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33384580,
+      "duration": 3077080,
+      "text": "赶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36461660,
+      "duration": 1922910,
+      "text": "去"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38577080,
+      "duration": 7115410,
+      "text": "哪里"
+    }
+  ]
+}

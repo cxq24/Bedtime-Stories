@@ -1,0 +1,143 @@
+{
+  "text": "映着皮皮屋里透出来的暖黄色窗灯，在小蜗牛身后闪出很淡很淡的暖光，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "fec6d26f5ad9d829931ebc51b3421fc7422b54073ca451ffa82d189c15e33d20",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3269160,
+      "text": "映"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4538330,
+      "duration": 1538330,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6461660,
+      "duration": 4422910,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11077080,
+      "duration": 7307500,
+      "text": "屋里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18769160,
+      "duration": 3653750,
+      "text": "透"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22422910,
+      "duration": 4230830,
+      "text": "出来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26653750,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28384580,
+      "duration": 8653750,
+      "text": "暖黄色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37038330,
+      "duration": 7500000,
+      "text": "窗灯"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50307500,
+      "duration": 2500000,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53000000,
+      "duration": 3077080,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56077080,
+      "duration": 4615410,
+      "text": "蜗牛"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60884580,
+      "duration": 8269160,
+      "text": "身后"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 70692500,
+      "duration": 3845830,
+      "text": "闪"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 74538330,
+      "duration": 2500000,
+      "text": "出"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 77422910,
+      "duration": 3077080,
+      "text": "很"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 80500000,
+      "duration": 2500000,
+      "text": "淡"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 83384580,
+      "duration": 3077080,
+      "text": "很"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 86461660,
+      "duration": 3076660,
+      "text": "淡"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 89538330,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 91077080,
+      "duration": 3461250,
+      "text": "暖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 94538330,
+      "duration": 4615410,
+      "text": "光"
+    }
+  ]
+}

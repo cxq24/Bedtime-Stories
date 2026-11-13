@@ -1,0 +1,36 @@
+{
+  "episode": "ep015",
+  "version": "v001",
+  "shot_id": 26,
+  "script_version": "v5",
+  "paragraph_id": "p007",
+  "paragraph_ids": [
+    "p007"
+  ],
+  "characters": [
+    "pipi"
+  ],
+  "outfits": {
+    "pipi": "day_v001"
+  },
+  "continuity_refs": [
+    "PLANT_01",
+    "PORCH_01",
+    "WATERING_CAN_01"
+  ],
+  "state_before": "花盆在门廊原位置，蜗牛在叶背睡着。",
+  "state_after": "花盆移动至屋檐下固定新位；蜗牛随整盆移动但仍在叶背角落；喷水壶未移动。",
+  "transition_from": 25,
+  "identity_outfit_reference_paths": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep015/v001/assets/evergreen_anchor.png",
+    "/workspace/Bedtime-Stories/episodes/ep015/v001/assets/watering_can_anchor.png",
+    "/workspace/Bedtime-Stories/episodes/ep015/v001/assets/porch_layout_anchor.png"
+  ],
+  "reference_role": "identity/outfit, stable prop and location anchors only; scene-specific expression and action follow narration",
+  "image_prompt": "Vertical 9:16 full-bleed watercolor illustration for a gentle Chinese children's bedtime picture book. Soft watercolor washes, fine paper grain, rounded plush character design, quiet natural lighting, muted warm colors and gentle contrast. Use attached character images only to preserve identity and the specified outfit; use attached object and location anchors to preserve the same asset appearance and placement. Do not reproduce a reference-sheet layout or copy a default expression. Pipi is the same small warm-gray lop-eared rabbit, round face, pink nose and long naturally drooping ears; Pipi wears the one daytime outfit from the wardrobe reference: gray-blue short overalls, cream shirt, small blue cloth shoes, bare head. No star cap, no raincoat. In the school scene only, the small yellow school backpack is allowed; at home on the porch Pipi has no backpack. Scene: 门廊屋檐下 Maintain the stable porch layout from the supplied location reference wherever the shot shows the wider porch. Exact story beat and acting: 皮皮双爪抱稳同一花盆，缓慢把它放到紧靠木屋屋檐的避雨位置；花盆中的叶片保持朝向和蜗牛所在面，喷水壶留在原处。 Continuity anchors: PLANT_01: 同一株健康的大叶万年青，深浅绿色椭圆宽叶，叶脉清晰；在同一陶盆中，整集株形和叶片数/方向保持一致。 PORCH_01: 皮皮小木屋同一门廊：门在画面后侧偏左，暖棕木墙；门廊边缘有低矮木栏；屋檐在上方；陶盆起初在门右侧靠墙处，后移至屋檐下靠里固定点。 WATERING_CAN_01: 小型哑光浅青绿色浇水壶，圆润椭圆壶身、细长向上弯嘴、短提把，不透明；同一壶不变形不换色。 Place faces and essential action in the upper 68 percent; keep the bottom 24 percent visually quiet and low-detail for large subtitles. Fixed single frozen moment, coherent paws/ears/eyestalks/leaves, no extra characters, no duplicated objects, no text, letters, captions, watermark, borders, split panels, collage, plastic 3D, horror or exaggerated expression.\n\nContinuity review revision applied: refreshed expression and preserved the snail on the same leaf through the porch move; ending flashback snail asleep with tentacles retracted.",
+  "expression_and_action_note": "皮皮双爪抱稳同一花盆，缓慢把它放到紧靠木屋屋檐的避雨位置；花盆中的叶片保持朝向和蜗牛所在面，喷水壶留在原处。",
+  "visual_constraints": "Portrait 9:16; fixed image; subtitles clear in lower safe area; no visible text. Maintain fixed asset appearance and cross-shot states.",
+  "status": "continuity_reviewed_revision"
+}

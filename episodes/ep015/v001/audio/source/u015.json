@@ -1,0 +1,77 @@
+{
+  "text": "极轻极轻地把那截卷起的叶尖往下扶了扶，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "e56dcada19f2e26498d32d7f732201cc56a19f545393889440c3aedd6d7a73a7",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 17307500,
+      "text": "极轻极轻地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20115410,
+      "duration": 1922910,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22230830,
+      "duration": 2115410,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24346250,
+      "duration": 6153750,
+      "text": "截卷"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30500000,
+      "duration": 1922910,
+      "text": "起"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32422910,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33769160,
+      "duration": 8461660,
+      "text": "叶尖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43769160,
+      "duration": 5961660,
+      "text": "往下"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 49922910,
+      "duration": 3077080,
+      "text": "扶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53000000,
+      "duration": 1730830,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54730830,
+      "duration": 5961660,
+      "text": "扶"
+    }
+  ]
+}

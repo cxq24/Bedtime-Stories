@@ -1,0 +1,101 @@
+{
+  "text": "也不由自主地比平时慢了一点、稳了一点。\n洗漱完爬上小床，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "8167d0dfebe8d4475ed1d127da175d5520876e6263298f66982869cf21baf8f4",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2500000,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3961660,
+      "duration": 10961250,
+      "text": "不由自主"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14922910,
+      "duration": 4615410,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21077080,
+      "duration": 2307500,
+      "text": "比"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23384580,
+      "duration": 5384580,
+      "text": "平时"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29153750,
+      "duration": 2884580,
+      "text": "慢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32038330,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33384580,
+      "duration": 7115410,
+      "text": "一点"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44538330,
+      "duration": 3269160,
+      "text": "稳"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47807500,
+      "duration": 1538330,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 49538330,
+      "duration": 6922910,
+      "text": "一点"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 65577080,
+      "duration": 6538330,
+      "text": "洗漱"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 72115410,
+      "duration": 3077080,
+      "text": "完"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75577080,
+      "duration": 5384580,
+      "text": "爬上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 81153750,
+      "duration": 9230830,
+      "text": "小床"
+    }
+  ]
+}

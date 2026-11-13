@@ -1,0 +1,29 @@
+{
+  "episode": "ep015",
+  "version": "v001",
+  "shot_id": 0,
+  "script_version": "v5",
+  "paragraph_id": "p000",
+  "paragraph_ids": [
+    "p000"
+  ],
+  "characters": [
+    "pipi"
+  ],
+  "outfits": {
+    "pipi": "sleep_v001"
+  },
+  "continuity_refs": [],
+  "state_before": "开场讲述角；皮皮刚准备讲故事。",
+  "state_after": "皮皮向小朋友打招呼，故事尚未进入现实剧情。",
+  "transition_from": null,
+  "identity_outfit_reference_paths": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+  ],
+  "reference_role": "identity/outfit, stable prop and location anchors only; scene-specific expression and action follow narration",
+  "image_prompt": "Vertical 9:16 full-bleed watercolor illustration for a gentle Chinese children's bedtime picture book. Soft watercolor washes, fine paper grain, rounded plush character design, quiet natural lighting, muted warm colors and gentle contrast. Use attached character images only to preserve identity and the specified outfit; use attached object and location anchors to preserve the same asset appearance and placement. Do not reproduce a reference-sheet layout or copy a default expression. Pipi is the same small warm-gray lop-eared rabbit, round face, pink nose and long naturally drooping ears; Pipi wears the sleep outfit only: navy blue cap with small golden stars and yellow pom-pom, simple cream sleepwear, no daytime backpack or shoes. Preserve Pipi identity; do not copy the reference-sheet layout. Scene: Standalone bedtime story-telling illustration, distinct from the later real porch story scene. Warm, quiet night-time reading corner with gentle amber lamp and blue evening window; no visible writing. Exact story beat and acting: 皮皮面向观众轻抬一只爪，眼睛明亮、眉眼舒展，露出自然欢迎的微笑；柔和邀请小朋友听故事。 Continuity anchors:  Place faces and essential action in the upper 68 percent; keep the bottom 24 percent visually quiet and low-detail for large subtitles. Fixed single frozen moment, coherent paws/ears/eyestalks/leaves, no extra characters, no duplicated objects, no text, letters, captions, watermark, borders, split panels, collage, plastic 3D, horror or exaggerated expression.",
+  "expression_and_action_note": "皮皮面向观众轻抬一只爪，眼睛明亮、眉眼舒展，露出自然欢迎的微笑；柔和邀请小朋友听故事。",
+  "visual_constraints": "Portrait 9:16; fixed image; subtitles clear in lower safe area; no visible text. Maintain fixed asset appearance and cross-shot states.",
+  "status": "generated"
+}

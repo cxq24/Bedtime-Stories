@@ -1,0 +1,37 @@
+{
+  "episode": "ep015",
+  "version": "v001",
+  "shot_id": 5,
+  "script_version": "v5",
+  "paragraph_id": "p002",
+  "paragraph_ids": [
+    "p002"
+  ],
+  "characters": [
+    "pipi"
+  ],
+  "outfits": {
+    "pipi": "day_v001"
+  },
+  "continuity_refs": [
+    "PLANT_01",
+    "LEAF_01",
+    "WATERING_CAN_01"
+  ],
+  "state_before": "叶片尚未出现本次新水珠；皮皮手持喷水壶。",
+  "state_after": "叶面被细雾打湿，喷水壶仍在皮皮手中。",
+  "transition_from": 4,
+  "identity_outfit_reference_paths": [
+    "/workspace/Bedtime-Stories/episodes/ep015/v001/checks/replaced-initial/shot_05_initial.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep015/v001/assets/evergreen_anchor.png",
+    "/workspace/Bedtime-Stories/episodes/ep015/v001/assets/watering_can_anchor.png"
+  ],
+  "reference_role": "identity/outfit, stable prop and location anchors only; scene-specific expression and action follow narration",
+  "image_prompt": "Keep the watering action and composition: Pipi gently sprays a fine mist from the same teal watering can onto the same leaves. Make Pipi look tender and attentive, eyes following the mist, brows relaxed, with a small content smile. Remove gloomy/tired half-lidded eyes. Preserve outfit, plant silhouette and porch.",
+  "expression_and_action_note": "皮皮轻轻向同一盆万年青喷水，细雾落在几片宽绿叶上；目光跟着水雾，表情细致专注。",
+  "visual_constraints": "Portrait 9:16; fixed image; subtitles clear in lower safe area; no visible text. Maintain fixed asset appearance and cross-shot states.",
+  "status": "regenerated_after_expression_or_story_beat_review",
+  "edit_target": "checks/replaced-initial/shot_05_initial.png"
+}

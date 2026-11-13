@@ -1,0 +1,37 @@
+{
+  "episode": "ep015",
+  "version": "v001",
+  "shot_id": 4,
+  "script_version": "v5",
+  "paragraph_id": "p002",
+  "paragraph_ids": [
+    "p002"
+  ],
+  "characters": [
+    "pipi"
+  ],
+  "outfits": {
+    "pipi": "day_v001"
+  },
+  "continuity_refs": [
+    "PLANT_01",
+    "WATERING_CAN_01",
+    "PORCH_01"
+  ],
+  "state_before": "花盆在门廊；小喷水壶在门边。",
+  "state_after": "皮皮来到花盆旁并拿着喷水壶；天色进入傍晚。",
+  "transition_from": 3,
+  "identity_outfit_reference_paths": [
+    "/workspace/Bedtime-Stories/episodes/ep015/v001/checks/replaced-initial/shot_04_initial.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep015/v001/assets/evergreen_anchor.png",
+    "/workspace/Bedtime-Stories/episodes/ep015/v001/assets/watering_can_anchor.png"
+  ],
+  "reference_role": "identity/outfit, stable prop and location anchors only; scene-specific expression and action follow narration",
+  "image_prompt": "Correct the narration beat before watering: Pipi carries the teal watering can in both paws while arriving beside the same potted plant. The spout points up/away; no water stream or mist, and the leaves are still dry. Give Pipi bright open attentive eyes, gently lifted brows and a small calm smile. Keep the porch, plant, outfit and watercolor style.",
+  "expression_and_action_note": "皮皮拿起小喷水壶走到门廊同一盆万年青旁，神情专注平和；背景夕阳刚隐到远山后。",
+  "visual_constraints": "Portrait 9:16; fixed image; subtitles clear in lower safe area; no visible text. Maintain fixed asset appearance and cross-shot states.",
+  "status": "regenerated_after_expression_or_story_beat_review",
+  "edit_target": "checks/replaced-initial/shot_04_initial.png"
+}

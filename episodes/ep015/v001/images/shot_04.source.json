@@ -1,0 +1,25 @@
+{
+  "episode": "ep015",
+  "version": "v001",
+  "shot_id": 4,
+  "image": "images/shot_04.png",
+  "sha256": "245f51587d45a2281bfa45a3b7b3b817ca2db6911d042a138c8b9e0c9d4ead8c",
+  "bytes": 2624446,
+  "source": "image_gen_edit",
+  "prompt_file": "prompts/shot_04.json",
+  "prompt_sha256": "0cd14352ee89817c2211041b011b2c1f64e6858fd0c339cb54f53bc23f3183f4",
+  "reference_paths": [
+    "/workspace/Bedtime-Stories/episodes/ep015/v001/checks/replaced-initial/shot_04_initial.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep015/v001/assets/evergreen_anchor.png",
+    "/workspace/Bedtime-Stories/episodes/ep015/v001/assets/watering_can_anchor.png"
+  ],
+  "edit_target": "checks/replaced-initial/shot_04_initial.png",
+  "continuity_refs": [
+    "PLANT_01",
+    "WATERING_CAN_01",
+    "PORCH_01"
+  ],
+  "status": "generated"
+}

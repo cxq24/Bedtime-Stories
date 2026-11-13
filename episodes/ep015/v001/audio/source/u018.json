@@ -1,0 +1,113 @@
+{
+  "text": "它背上的圆房子也稳稳当当地跟着晃动。\n叶片上的一颗小露珠，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "097cb23baedba6cf9cbefcfb78e82ab48155322b310b4ab4131c72ec67370d1d",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2500000,
+      "text": "它"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3769160,
+      "duration": 2884580,
+      "text": "背"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6653750,
+      "duration": 2500000,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9153750,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10500000,
+      "duration": 12307500,
+      "text": "圆房子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24346250,
+      "duration": 2115410,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26653750,
+      "duration": 11922910,
+      "text": "稳稳当当"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38577080,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40307500,
+      "duration": 3653750,
+      "text": "跟着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44153750,
+      "duration": 7884580,
+      "text": "晃动"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61153750,
+      "duration": 6730830,
+      "text": "叶片"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 67884580,
+      "duration": 2500000,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 70384580,
+      "duration": 961660,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 71538330,
+      "duration": 1922910,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 73461660,
+      "duration": 2884580,
+      "text": "颗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 76730830,
+      "duration": 3653750,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 80384580,
+      "duration": 7115410,
+      "text": "露珠"
+    }
+  ]
+}
