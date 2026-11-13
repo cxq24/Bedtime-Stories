@@ -92,23 +92,25 @@
     "github_sync": "synced_to_main"
   },
   "current_production": {
-    "id": "ep013",
-    "version": "v001",
-    "title": "小熊的轻轻脚步",
+    "id": "ep011",
+    "version": "v002",
+    "title": "小刺猬的软座位",
     "script_version": "v5",
-    "duration_s": 297.88,
-    "shots": 48,
-    "hanzi": 787,
-    "subtitle_cues": 141,
-    "status": "technical_passed_human_watch_pending",
-    "record": "episodes/ep013/v001/RECORD.md",
-    "delivery": "Outputs/2026-11-13/ep013-v001/README.md",
+    "duration_s": 297.72,
+    "shots": 44,
+    "hanzi": 811,
+    "subtitle_cues": 143,
+    "status": "rendered_technical_passed_human_review_pending",
+    "record": "episodes/ep011/v002/RECORD.md",
+    "delivery": "Outputs/2026-11-13/ep011-v002/README.md",
     "published": false,
     "user_acceptance": "pending",
-    "github_sync": "synced_to_main",
     "technical_checks": "passed",
-    "human_watch": "pending",
-    "publication": "not_published"
+    "continuity_preflight": "passed",
+    "continuity_image_review": "passed_full_44_shot_contact_sheet",
+    "render": "complete",
+    "publication": "not_published",
+    "github_sync": "synced_to_main"
   },
   "previous_script_version": "v4",
   "script_revision": {
@@ -138,11 +140,28 @@
   },
   "recent_productions": [
     {
+      "id": "ep011",
+      "version": "v002",
+      "status": "rendered_technical_passed_human_review_pending",
+      "record": "episodes/ep011/v002/RECORD.md",
+      "delivery": "Outputs/2026-11-13/ep011-v002/README.md",
+      "github_sync": "synced_to_main"
+    },
+    {
       "id": "ep013",
       "version": "v001",
-      "status": "synced_to_github_main_waiting_human_review",
+      "title": "小熊的轻轻脚步",
+      "script_version": "v5",
+      "duration_s": 297.88,
+      "shots": 48,
+      "hanzi": 787,
+      "subtitle_cues": 141,
+      "status": "technical_passed_human_watch_pending",
       "record": "episodes/ep013/v001/RECORD.md",
-      "delivery": "Outputs/2026-11-13/ep013-v001"
+      "delivery": "Outputs/2026-11-13/ep013-v001/README.md",
+      "published": false,
+      "user_acceptance": "pending",
+      "github_sync": "synced_to_main"
     },
     {
       "id": "ep012",
@@ -150,13 +169,6 @@
       "status": "technical_checks_passed_waiting_human_review",
       "record": "episodes/ep012/v001/RECORD.md",
       "delivery": "Outputs/2026-11-13/ep012-v001"
-    },
-    {
-      "id": "ep011",
-      "version": "v001",
-      "status": "technical_checks_passed_waiting_human_review",
-      "record": "episodes/ep011/v001/RECORD.md",
-      "delivery": "Outputs/2026-11-12/ep011-v001"
     }
   ]
 }
