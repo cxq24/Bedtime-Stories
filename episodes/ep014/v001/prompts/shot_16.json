@@ -1,0 +1,29 @@
+{
+  "id": 16,
+  "title": "小爪轻抖",
+  "destination": "images/shot_16.png",
+  "prompt": "Use case: one original full-bleed vertical 9:16 watercolor children’s story illustration for a locked narration shot. Use each attached image strictly for its labelled reference role. Preserve named character identity and fixed object designs; do not make a collage or copy a reference sheet.\nInput 1 is the strict identity reference for 点点 (diandian): 灰褐圆身体、淡粉小鼻、很小的眼睛、短圆爪。 Input 1 is clothing-only for 点点: 米色小围兜 Input 1: /workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/diandian_identity_v001.png; use only its labelled purpose (identity/clothes/environment/object); do not copy poses or extra items from it. Input 2: /workspace/Bedtime-Stories/episodes/ep014/v001/assets/bedroom_anchor.png; use only its labelled purpose (identity/clothes/environment/object); do not copy poses or extra items from it. Input 3: /workspace/Bedtime-Stories/episodes/ep014/v001/assets/drawing_leaf_landscape_anchor.png; use only its labelled purpose (identity/clothes/environment/object); do not copy poses or extra items from it.\nScene location: bedroom_window. Keep its fixed layout from the environment anchor.\nVisible cast: diandian; draw each listed character once and no unlisted animals.\nDiandian is a very small mole, about 0.65 Pipi height, grey-brown round body, tiny eyes, pale pink nose, short rounded paws, beige bib. Slightly squint only when focusing; no glasses.\nSingle visual moment and acting: 蜡笔尖刚落下，点点小爪轻微发抖，纸上出现月亮起笔。\nBefore: 同一画纸保留棕框和单片绿叶，尚无完整月亮。 After: 点点准备在框内画月亮；窗框、叶片和纸张方向均不变。\nPreserve the frame and leaf; show only the first tiny pale-yellow crayon start of a moon, not a completed circle.\nFor all bedroom shots keep one centered four-pane wooden window, the same pale-green leafy curtain hanging only on the right, one low light-wood desk directly beneath it, and one bed against the left wall. These never shift or multiply. On day scenes, soft natural afternoon light; toward farewell, dusk; bedtime is muted blue night outside with a warm bedside glow. The house is the same warm honey-brown wooden cottage.\nStyle: gentle hand-painted watercolor on fine warm paper, rounded soft shapes, muted natural color, quiet bedtime picture-book mood. Character expression and eye direction must match the present narration moment, never a fixed neutral or sleepy expression unless the narration says so.\nKeep faces and key props in the upper 68% (above the bottom subtitle area); one clear coherent camera composition, no split panels, no text, no letters, no logos, no watermark, no extra windows, no duplicate moons, no extra artwork or unlisted props.",
+  "reference_inputs": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/diandian_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep014/v001/assets/bedroom_anchor.png",
+    "/workspace/Bedtime-Stories/episodes/ep014/v001/assets/drawing_leaf_landscape_anchor.png"
+  ],
+  "characters": [
+    "diandian"
+  ],
+  "outfits": {
+    "diandian": "default_v001"
+  },
+  "source_ranges": [
+    {
+      "unit_id": "u004",
+      "paragraph_id": "p003",
+      "start_char": 37,
+      "end_char": 47
+    }
+  ],
+  "timing": {
+    "start_s": 92.52,
+    "end_s": 95.4
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "episode": "ep014",
+  "version": "v001",
+  "stage": "before_image_generation",
+  "status": "passed",
+  "checks": {
+    "full_story_walkthrough": "passed",
+    "persistent_object_ids_and_appearance_locked": "passed",
+    "object_transitions_supported_by_narration": "passed",
+    "character_presence_and_exit_locations": "passed",
+    "no_unexplained_location_jump": "passed",
+    "every_shot_links_to_previous_state": "passed",
+    "opening_standalone_frame": "passed",
+    "same_window_and_curtain": "passed",
+    "drawing_marks_and_rotation": "passed",
+    "no_unexplained_artwork_erasure_or_duplicate": "passed",
+    "diandian_exit_before_bedroom": "passed",
+    "notes": [
+      "The underground-tunnel detail is conveyed by narration and Didi’s slight squint while remaining in Pipi’s room; no unmotivated cutaway.",
+      "Opening three illustrations are preview vignettes and do not advance story object state.",
+      "One exact drawing evolves by adding marks; after it is stored in the folder it leaves with Didi."
+    ]
+  },
+  "reviewer": "assistant textual walkthrough; user has not yet accepted video",
+  "evidence": "continuity.json and storyboard.json"
+}

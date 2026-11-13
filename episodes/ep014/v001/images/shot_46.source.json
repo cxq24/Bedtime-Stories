@@ -1,0 +1,24 @@
+{
+  "shot_id": 46,
+  "source": "OpenAI image_gen",
+  "image_path": "images/shot_46.png",
+  "sha256": "d2029140a9301e856532a2e783545a58eb7f276a74cb6f67b6ac8d95617e6513",
+  "size": [
+    941,
+    1672
+  ],
+  "prompt": "prompts/shot_46.txt",
+  "reference_inputs": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep014/v001/assets/bedroom_anchor.png"
+  ],
+  "continuity_asset_ids": [
+    "WINDOW_01",
+    "DESK_01",
+    "BED_01"
+  ],
+  "image_status": "generated_continuity_reviewed",
+  "visual_review": "passed_in_full_episode_contact_sheet",
+  "review_note": "Final frame reviewed in episode contact sheets; continuity corrections retained."
+}

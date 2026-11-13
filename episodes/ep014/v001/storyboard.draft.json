@@ -1,0 +1,2190 @@
+{
+  "episode": "ep014",
+  "version": "v001",
+  "script_version": "v5",
+  "status": "audio_locked_ready_for_images",
+  "narration_complete": true,
+  "shot_count": 48,
+  "total_duration_s": 282.12,
+  "actual_audio_measured": true,
+  "shots": [
+    {
+      "id": 1,
+      "title": "片头问候",
+      "text": "小朋友们，准备好听故事了吗？",
+      "source_ranges": [
+        {
+          "unit_id": "u001",
+          "paragraph_id": "p000",
+          "start_char": 0,
+          "end_char": 14
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "opening_preview",
+      "action": "皮皮在窗边向观众轻轻挥爪，眼神明亮温和。",
+      "reality": "opening_preview",
+      "motion": "fixed",
+      "opening": true,
+      "image": "images/shot_01.png",
+      "reference_manifest": "references/shot_01.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 0.0,
+      "actual_end_s": 5.12,
+      "visible_duration_s": 5.6,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": null,
+      "continuity_refs": [],
+      "state_before": "片头独立预告构图，不推进正文物件状态。",
+      "state_after": "预告结束；正文从草地美术课开始，不继承预告画板上的任何细节。",
+      "speech_start_s": 1.0,
+      "speech_end_s": 4.6634364999999995,
+      "visible_start_s": 0.0,
+      "visible_end_s": 5.6
+    },
+    {
+      "id": 2,
+      "title": "片头标题画面",
+      "text": "今天的故事叫《小鼹鼠画的窗户》。",
+      "source_ranges": [
+        {
+          "unit_id": "u001",
+          "paragraph_id": "p000",
+          "start_char": 14,
+          "end_char": 30
+        }
+      ],
+      "characters": [
+        "diandian"
+      ],
+      "outfits": {
+        "diandian": "default_v001"
+      },
+      "setting": "opening_preview",
+      "action": "点点捧着未完成的小画板，身后虚化出现木窗轮廓；画面是独立片头提示，不复用正文插画。",
+      "reality": "opening_preview",
+      "motion": "fixed",
+      "opening": true,
+      "image": "images/shot_02.png",
+      "reference_manifest": "references/shot_02.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 5.12,
+      "actual_end_s": 10.2,
+      "visible_duration_s": 6.04,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 1,
+      "continuity_refs": [],
+      "state_before": "片头独立预告构图，不推进正文物件状态。",
+      "state_after": "预告结束；正文从草地美术课开始，不继承预告画板上的任何细节。",
+      "speech_start_s": 5.5557285,
+      "speech_end_s": 9.7673115,
+      "visible_start_s": 4.640000000000001,
+      "visible_end_s": 10.68
+    },
+    {
+      "id": 3,
+      "title": "片头提问",
+      "text": "点点画下了喜欢的窗景，怎样把这份美好带回心里呢？",
+      "source_ranges": [
+        {
+          "unit_id": "u001",
+          "paragraph_id": "p000",
+          "start_char": 30,
+          "end_char": 54
+        }
+      ],
+      "characters": [
+        "diandian"
+      ],
+      "outfits": {
+        "diandian": "default_v001"
+      },
+      "setting": "opening_preview",
+      "action": "点点望向画板上的窗框草图，期待而专注；独立片头构图。",
+      "reality": "opening_preview",
+      "motion": "fixed",
+      "opening": true,
+      "image": "images/shot_03.png",
+      "reference_manifest": "references/shot_03.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 10.2,
+      "actual_end_s": 18.16,
+      "visible_duration_s": 8.92,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 2,
+      "continuity_refs": [],
+      "state_before": "片头独立预告构图，不推进正文物件状态。",
+      "state_after": "预告结束；正文从草地美术课开始，不继承预告画板上的任何细节。",
+      "speech_start_s": 10.6518955,
+      "speech_end_s": 17.5941875,
+      "visible_start_s": 9.719999999999999,
+      "visible_end_s": 18.64
+    },
+    {
+      "id": 4,
+      "title": "草地美术课",
+      "text": "今天下午的美术课，山羊老师带着大家",
+      "source_ranges": [
+        {
+          "unit_id": "u002",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 17
+        }
+      ],
+      "characters": [
+        "goat_teacher",
+        "diandian"
+      ],
+      "outfits": {
+        "goat_teacher": "default_v001",
+        "diandian": "default_v001"
+      },
+      "setting": "field",
+      "action": "开阔草地上的美术课，山羊老师在前方温和讲解，点点和画板入镜。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_04.png",
+      "reference_manifest": "references/shot_04.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 18.16,
+      "actual_end_s": 24.28,
+      "visible_duration_s": 7.08,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 3,
+      "continuity_refs": [
+        "MEADOW_01",
+        "DRAWING_BOARD_01"
+      ],
+      "state_before": "美术课开始；点点与山羊老师在皮皮家附近草地。",
+      "state_after": "老师带领美术课；点点拿着空画板，草地与傍晚方向固定。",
+      "speech_start_s": 18.717895833333333,
+      "speech_end_s": 24.214270166666665,
+      "visible_start_s": 17.68,
+      "visible_end_s": 24.76
+    },
+    {
+      "id": 5,
+      "title": "开始画傍晚风景",
+      "text": "来到皮皮家附近的开阔草地上，画一幅“傍晚的风景”。",
+      "source_ranges": [
+        {
+          "unit_id": "u002",
+          "paragraph_id": "p001",
+          "start_char": 17,
+          "end_char": 42
+        }
+      ],
+      "characters": [
+        "goat_teacher",
+        "diandian"
+      ],
+      "outfits": {
+        "goat_teacher": "default_v001",
+        "diandian": "default_v001"
+      },
+      "setting": "field",
+      "action": "同一片草地与画架，点点认真看向傍晚天空，画板上是空白纸。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_05.png",
+      "reference_manifest": "references/shot_05.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 24.28,
+      "actual_end_s": 31.32,
+      "visible_duration_s": 8.0,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 4,
+      "continuity_refs": [
+        "MEADOW_01",
+        "DRAWING_BOARD_01"
+      ],
+      "state_before": "同一草地课堂，画板仍空白。",
+      "state_after": "点点开始观察傍晚风景；老师仍在课堂区域。",
+      "speech_start_s": 24.36810416666667,
+      "speech_end_s": 30.875812166666666,
+      "visible_start_s": 23.8,
+      "visible_end_s": 31.8
+    },
+    {
+      "id": 6,
+      "title": "喜欢的小木窗",
+      "text": "\n小鼹鼠点点最喜欢皮皮家那扇挂着叶子花窗帘的小木窗了。",
+      "source_ranges": [
+        {
+          "unit_id": "u002",
+          "paragraph_id": "p001",
+          "start_char": 42,
+          "end_char": 69
+        }
+      ],
+      "characters": [
+        "diandian"
+      ],
+      "outfits": {
+        "diandian": "default_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "转到皮皮家卧室同一扇四格木窗，绿色叶片花纹窗帘固定垂在窗侧；点点站在矮桌旁仰望窗景。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_06.png",
+      "reference_manifest": "references/shot_06.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 31.32,
+      "actual_end_s": 40.12,
+      "visible_duration_s": 9.76,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 5,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01"
+      ],
+      "state_before": "下课后，点点决定留在皮皮家窗边；从草地转到同一木屋卧室。",
+      "state_after": "点点抵达木窗边；四格木窗、右侧叶纹帘、窗下矮桌和左侧床保持固定。",
+      "speech_start_s": 31.76039516666667,
+      "speech_end_s": 39.68347816666667,
+      "visible_start_s": 30.84,
+      "visible_end_s": 40.599999999999994
+    },
+    {
+      "id": 7,
+      "title": "课后留在窗边",
+      "text": "下课后，点点还舍不得走，坐在皮皮家窗边的矮桌旁，",
+      "source_ranges": [
+        {
+          "unit_id": "u002",
+          "paragraph_id": "p001",
+          "start_char": 69,
+          "end_char": 93
+        }
+      ],
+      "characters": [
+        "diandian"
+      ],
+      "outfits": {
+        "diandian": "default_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "同一卧室布局，点点留在窗边矮桌旁，画板、空白画纸在桌上；老师已离开。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_07.png",
+      "reference_manifest": "references/shot_07.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 40.12,
+      "actual_end_s": 48.08,
+      "visible_duration_s": 8.92,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 6,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01",
+        "DRAWING_01",
+        "DRAWING_BOARD_01"
+      ],
+      "state_before": "点点在窗边，尚未正式落笔。",
+      "state_after": "点点在矮桌旁就座；空白画纸固定放在同一浅木画板上。",
+      "speech_start_s": 40.54885416666667,
+      "speech_end_s": 47.93352016666667,
+      "visible_start_s": 39.64,
+      "visible_end_s": 48.559999999999995
+    },
+    {
+      "id": 8,
+      "title": "准备画月亮窗景",
+      "text": "拿着小画板，想画一扇有月亮升起来的窗户。",
+      "source_ranges": [
+        {
+          "unit_id": "u002",
+          "paragraph_id": "p001",
+          "start_char": 93,
+          "end_char": 113
+        }
+      ],
+      "characters": [
+        "diandian"
+      ],
+      "outfits": {
+        "diandian": "default_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "点点将同一张空白画纸放在画板上，抬头看窗外暮色，准备落笔。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_08.png",
+      "reference_manifest": "references/shot_08.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 48.08,
+      "actual_end_s": 54.52,
+      "visible_duration_s": 7.4,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 7,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01",
+        "DRAWING_01",
+        "DRAWING_BOARD_01"
+      ],
+      "state_before": "同一卧室与窗边矮桌；画纸仍空白，画板未更换。",
+      "state_after": "点点观察窗景并开始专注绘画；无新角色入镜，房间布局不变。",
+      "speech_start_s": 48.26039516666667,
+      "speech_end_s": 53.95272816666666,
+      "visible_start_s": 47.6,
+      "visible_end_s": 55.0
+    },
+    {
+      "id": 9,
+      "title": "地下通道记忆",
+      "text": "点点平时在地下通道里住习惯了，",
+      "source_ranges": [
+        {
+          "unit_id": "u003",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 15
+        }
+      ],
+      "characters": [
+        "diandian"
+      ],
+      "outfits": {
+        "diandian": "default_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "点点仍坐在窗边矮桌旁，稍微眯眼对焦画纸；旁白说明他平日住地下通道，不切离卧室、不加眼镜或记忆插画。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_09.png",
+      "reference_manifest": "references/shot_09.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 54.52,
+      "actual_end_s": 59.52,
+      "visible_duration_s": 5.96,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 8,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01",
+        "DRAWING_01",
+        "DRAWING_BOARD_01"
+      ],
+      "state_before": "同一卧室与窗边矮桌；画纸仍空白，画板未更换。",
+      "state_after": "点点观察窗景并开始专注绘画；无新角色入镜，房间布局不变。",
+      "speech_start_s": 55.10570833333334,
+      "speech_end_s": 59.28604166666668,
+      "visible_start_s": 54.040000000000006,
+      "visible_end_s": 60.0
+    },
+    {
+      "id": 10,
+      "title": "看画纸时靠近",
+      "text": "眼神没有那么好，",
+      "source_ranges": [
+        {
+          "unit_id": "u003",
+          "paragraph_id": "p002",
+          "start_char": 15,
+          "end_char": 23
+        }
+      ],
+      "characters": [
+        "diandian"
+      ],
+      "outfits": {
+        "diandian": "default_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "回到同一窗边矮桌，点点微微眯眼靠近画纸，没有新增眼镜或其他物件。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_10.png",
+      "reference_manifest": "references/shot_10.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 59.52,
+      "actual_end_s": 61.92,
+      "visible_duration_s": 3.36,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 9,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01",
+        "DRAWING_01",
+        "DRAWING_BOARD_01"
+      ],
+      "state_before": "同一卧室与窗边矮桌；画纸仍空白，画板未更换。",
+      "state_after": "点点观察窗景并开始专注绘画；无新角色入镜，房间布局不变。",
+      "speech_start_s": 59.76679166666668,
+      "speech_end_s": 61.63212466666667,
+      "visible_start_s": 59.040000000000006,
+      "visible_end_s": 62.4
+    },
+    {
+      "id": 11,
+      "title": "认真画画",
+      "text": "但他画画的时候总是特别认真。",
+      "source_ranges": [
+        {
+          "unit_id": "u003",
+          "paragraph_id": "p002",
+          "start_char": 23,
+          "end_char": 37
+        }
+      ],
+      "characters": [
+        "diandian"
+      ],
+      "outfits": {
+        "diandian": "default_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "点点稳定握笔，目光落在空白画纸上，神情专注。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_11.png",
+      "reference_manifest": "references/shot_11.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 61.92,
+      "actual_end_s": 66.52,
+      "visible_duration_s": 5.56,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 10,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01",
+        "DRAWING_01",
+        "DRAWING_BOARD_01"
+      ],
+      "state_before": "同一卧室与窗边矮桌；画纸仍空白，画板未更换。",
+      "state_after": "点点观察窗景并开始专注绘画；无新角色入镜，房间布局不变。",
+      "speech_start_s": 62.22829166666667,
+      "speech_end_s": 66.07445766666667,
+      "visible_start_s": 61.440000000000005,
+      "visible_end_s": 67.0
+    },
+    {
+      "id": 12,
+      "title": "画出两根棕色窗框",
+      "text": "\n他先用棕色的蜡笔，一笔一划地画了两根直直的窗框，",
+      "source_ranges": [
+        {
+          "unit_id": "u003",
+          "paragraph_id": "p002",
+          "start_char": 37,
+          "end_char": 62
+        }
+      ],
+      "characters": [
+        "diandian"
+      ],
+      "outfits": {
+        "diandian": "default_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "同一张画纸、同一画板；点点用棕色蜡笔只画两根笔直窗框线。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_12.png",
+      "reference_manifest": "references/shot_12.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 66.52,
+      "actual_end_s": 73.76,
+      "visible_duration_s": 8.2,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 11,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01",
+        "DRAWING_01",
+        "DRAWING_BOARD_01"
+      ],
+      "state_before": "同一空白画纸、画板、矮桌；点点取棕色蜡笔。",
+      "state_after": "DRAWING_01上出现两根直立棕色窗框线；纸、画板位置固定。",
+      "speech_start_s": 66.98599966666667,
+      "speech_end_s": 73.60141566666667,
+      "visible_start_s": 66.03999999999999,
+      "visible_end_s": 74.24000000000001
+    },
+    {
+      "id": 13,
+      "title": "添上绿色树叶",
+      "text": "又用绿色蜡笔在窗角添上一片探进来的树叶。",
+      "source_ranges": [
+        {
+          "unit_id": "u003",
+          "paragraph_id": "p002",
+          "start_char": 62,
+          "end_char": 82
+        }
+      ],
+      "characters": [
+        "diandian"
+      ],
+      "outfits": {
+        "diandian": "default_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "同一张画纸上保留两根棕色直框线，并只添一片从固定窗角探入的绿色叶片。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_13.png",
+      "reference_manifest": "references/shot_13.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 73.76,
+      "actual_end_s": 80.36,
+      "visible_duration_s": 7.56,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 12,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01",
+        "DRAWING_01",
+        "DRAWING_BOARD_01"
+      ],
+      "state_before": "同一纸上已有两根棕色直框线。",
+      "state_after": "只增加一片绿色树叶；棕框保持原位。",
+      "speech_start_s": 73.94754166666667,
+      "speech_end_s": 79.79370766666668,
+      "visible_start_s": 73.28,
+      "visible_end_s": 80.84
+    },
+    {
+      "id": 14,
+      "title": "要画月亮了",
+      "text": "最后，到了画月亮的时候。",
+      "source_ranges": [
+        {
+          "unit_id": "u004",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 12
+        }
+      ],
+      "characters": [
+        "diandian"
+      ],
+      "outfits": {
+        "diandian": "default_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "点点停下绿色蜡笔，换手准备画月亮，画纸上的窗框和单片树叶保持不变。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_14.png",
+      "reference_manifest": "references/shot_14.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 80.36,
+      "actual_end_s": 84.56,
+      "visible_duration_s": 5.16,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 13,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01",
+        "DRAWING_01",
+        "DRAWING_BOARD_01"
+      ],
+      "state_before": "同一画纸保留棕框和单片绿叶，尚无完整月亮。",
+      "state_after": "点点准备在框内画月亮；窗框、叶片和纸张方向均不变。",
+      "speech_start_s": 80.91241666666667,
+      "speech_end_s": 84.11485283333334,
+      "visible_start_s": 79.88,
+      "visible_end_s": 85.04
+    },
+    {
+      "id": 15,
+      "title": "瞄准窗中圆月",
+      "text": "点点屏住呼吸，想在窗户正中间画一个圆圆满满的月亮，",
+      "source_ranges": [
+        {
+          "unit_id": "u004",
+          "paragraph_id": "p003",
+          "start_char": 12,
+          "end_char": 37
+        }
+      ],
+      "characters": [
+        "diandian"
+      ],
+      "outfits": {
+        "diandian": "default_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "点点屏息凝神，棕框中央留出月亮位置，画纸朝向固定。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_15.png",
+      "reference_manifest": "references/shot_15.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 84.56,
+      "actual_end_s": 92.52,
+      "visible_duration_s": 8.92,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 14,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01",
+        "DRAWING_01",
+        "DRAWING_BOARD_01"
+      ],
+      "state_before": "同一画纸保留棕框和单片绿叶，尚无完整月亮。",
+      "state_after": "点点准备在框内画月亮；窗框、叶片和纸张方向均不变。",
+      "speech_start_s": 85.02639583333334,
+      "speech_end_s": 92.31489583333334,
+      "visible_start_s": 84.08,
+      "visible_end_s": 93.0
+    },
+    {
+      "id": 16,
+      "title": "小爪轻抖",
+      "text": "可是小爪子抖了一下，",
+      "source_ranges": [
+        {
+          "unit_id": "u004",
+          "paragraph_id": "p003",
+          "start_char": 37,
+          "end_char": 47
+        }
+      ],
+      "characters": [
+        "diandian"
+      ],
+      "outfits": {
+        "diandian": "default_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "蜡笔尖刚落下，点点小爪轻微发抖，纸上出现月亮起笔。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_16.png",
+      "reference_manifest": "references/shot_16.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 92.52,
+      "actual_end_s": 95.4,
+      "visible_duration_s": 3.84,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 15,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01",
+        "DRAWING_01",
+        "DRAWING_BOARD_01"
+      ],
+      "state_before": "同一画纸保留棕框和单片绿叶，尚无完整月亮。",
+      "state_after": "点点准备在框内画月亮；窗框、叶片和纸张方向均不变。",
+      "speech_start_s": 92.75714583333334,
+      "speech_end_s": 95.23793683333334,
+      "visible_start_s": 92.03999999999999,
+      "visible_end_s": 95.88000000000001
+    },
+    {
+      "id": 17,
+      "title": "画出歪月亮",
+      "text": "画出来的月亮一边胖、一边瘦，歪歪地斜向了窗户边角。",
+      "source_ranges": [
+        {
+          "unit_id": "u004",
+          "paragraph_id": "p003",
+          "start_char": 47,
+          "end_char": 72
+        }
+      ],
+      "characters": [
+        "diandian"
+      ],
+      "outfits": {
+        "diandian": "default_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "同一张画里出现一个一边胖一边瘦、歪斜靠近窗框角落的月亮，原窗框和绿叶不得改变。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_17.png",
+      "reference_manifest": "references/shot_17.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 95.4,
+      "actual_end_s": 103.24,
+      "visible_duration_s": 8.8,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 16,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01",
+        "DRAWING_01",
+        "DRAWING_BOARD_01"
+      ],
+      "state_before": "同一纸上棕框和单片绿叶不变；点点使用淡黄色蜡笔画月亮。",
+      "state_after": "出现唯一一枚一侧较胖、一侧较瘦的歪斜淡黄月亮，靠近绿叶；这是同一画作的月亮阶段。",
+      "speech_start_s": 95.58410383333334,
+      "speech_end_s": 102.79564483333334,
+      "visible_start_s": 94.92,
+      "visible_end_s": 103.72
+    },
+    {
+      "id": 18,
+      "title": "点点失落",
+      "text": "\n点点看着那个歪月亮，失落地叹了口气，",
+      "source_ranges": [
+        {
+          "unit_id": "u004",
+          "paragraph_id": "p003",
+          "start_char": 72,
+          "end_char": 91
+        }
+      ],
+      "characters": [
+        "diandian"
+      ],
+      "outfits": {
+        "diandian": "default_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "点点看着纸上原样不变的歪月亮，肩膀轻垂，眼神失落。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_18.png",
+      "reference_manifest": "references/shot_18.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 103.24,
+      "actual_end_s": 108.8,
+      "visible_duration_s": 6.52,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 17,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01",
+        "DRAWING_01",
+        "DRAWING_BOARD_01"
+      ],
+      "state_before": "DRAWING_01包含两棕框、一绿叶和唯一歪月亮。",
+      "state_after": "画作保留唯一歪斜淡黄月亮；点点失落地看着画，没有擦除，也尚未拿起橡皮。",
+      "speech_start_s": 103.68022883333333,
+      "speech_end_s": 108.54560283333333,
+      "visible_start_s": 102.75999999999999,
+      "visible_end_s": 109.28
+    },
+    {
+      "id": 19,
+      "title": "准备擦掉",
+      "text": "拿起橡皮想要把它使劲擦掉重画。",
+      "source_ranges": [
+        {
+          "unit_id": "u004",
+          "paragraph_id": "p003",
+          "start_char": 91,
+          "end_char": 106
+        }
+      ],
+      "characters": [
+        "diandian"
+      ],
+      "outfits": {
+        "diandian": "default_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "点点一爪拿起固定小橡皮，另一爪扶纸，橡皮尚未触碰月亮。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_19.png",
+      "reference_manifest": "references/shot_19.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 108.8,
+      "actual_end_s": 114.12,
+      "visible_duration_s": 6.28,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 18,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01",
+        "DRAWING_01",
+        "DRAWING_BOARD_01",
+        "ERASER_01"
+      ],
+      "state_before": "画作保留唯一歪斜淡黄月亮；桌边有一块固定的小橡皮。",
+      "state_after": "点点拿起小橡皮准备擦，但橡皮没有碰到画纸或月亮。",
+      "speech_start_s": 109.04564583333334,
+      "speech_end_s": 113.56485283333333,
+      "visible_start_s": 108.32,
+      "visible_end_s": 114.60000000000001
+    },
+    {
+      "id": 20,
+      "title": "皮皮温柔制止",
+      "text": "皮皮坐在旁边，轻轻按住了点点的小爪子。",
+      "source_ranges": [
+        {
+          "unit_id": "u005",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 19
+        }
+      ],
+      "characters": [
+        "pipi",
+        "diandian"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "diandian": "default_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "皮皮坐在点点旁边轻轻按住他的爪子，橡皮停在月亮上方未擦除。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_20.png",
+      "reference_manifest": "references/shot_20.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 114.12,
+      "actual_end_s": 120.52,
+      "visible_duration_s": 7.36,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 19,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01",
+        "DRAWING_01",
+        "DRAWING_BOARD_01",
+        "ERASER_01"
+      ],
+      "state_before": "DRAWING_01包含两棕框、一绿叶和唯一歪月亮。",
+      "state_after": "画作未被擦除；小橡皮仍在点点爪中/桌面旁，没有碰纸；皮皮轻按点点爪后月亮保留。",
+      "speech_start_s": 114.69670833333333,
+      "speech_end_s": 120.05749933333334,
+      "visible_start_s": 113.64,
+      "visible_end_s": 121.0
+    },
+    {
+      "id": 21,
+      "title": "月亮被保留",
+      "text": "\n皮皮没有擦掉那个月亮，",
+      "source_ranges": [
+        {
+          "unit_id": "u005",
+          "paragraph_id": "p004",
+          "start_char": 19,
+          "end_char": 31
+        }
+      ],
+      "characters": [
+        "pipi",
+        "diandian"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "diandian": "default_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "同一张画完整保留歪月亮、两根棕框和绿叶；皮皮收住点点的手，橡皮未擦纸。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_21.png",
+      "reference_manifest": "references/shot_21.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 120.52,
+      "actual_end_s": 123.92,
+      "visible_duration_s": 4.36,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 20,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01",
+        "DRAWING_01",
+        "DRAWING_BOARD_01",
+        "ERASER_01"
+      ],
+      "state_before": "DRAWING_01包含两棕框、一绿叶和唯一歪月亮。",
+      "state_after": "画作未被擦除；小橡皮仍在点点爪中/桌面旁，没有碰纸；皮皮轻按点点爪后月亮保留。",
+      "speech_start_s": 120.94979133333334,
+      "speech_end_s": 123.68058333333333,
+      "visible_start_s": 120.03999999999999,
+      "visible_end_s": 124.4
+    },
+    {
+      "id": 22,
+      "title": "轻转画纸",
+      "text": "而是把点点面前的画纸，顺着桌角轻轻转了一点点方向，",
+      "source_ranges": [
+        {
+          "unit_id": "u005",
+          "paragraph_id": "p004",
+          "start_char": 31,
+          "end_char": 56
+        }
+      ],
+      "characters": [
+        "pipi",
+        "diandian"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "diandian": "default_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "皮皮只把整张纸连同已有图案轻轻旋转一个小角度，不改变纸上任何元素。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_22.png",
+      "reference_manifest": "references/shot_22.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 123.92,
+      "actual_end_s": 131.76,
+      "visible_duration_s": 8.8,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 21,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01",
+        "DRAWING_01",
+        "DRAWING_BOARD_01"
+      ],
+      "state_before": "同一完整月亮画；皮皮和点点在桌边，小橡皮未擦纸。",
+      "state_after": "皮皮将整张纸连图案轻轻转动少许；图案内部各元素相对位置不变，桌、画板与房间不移动。",
+      "speech_start_s": 124.16133333333333,
+      "speech_end_s": 131.58441633333334,
+      "visible_start_s": 123.44,
+      "visible_end_s": 132.23999999999998
+    },
+    {
+      "id": 23,
+      "title": "皮皮指给点点看",
+      "text": "指着画纸说：“点点，你看，你不用擦掉它。",
+      "source_ranges": [
+        {
+          "unit_id": "u005",
+          "paragraph_id": "p004",
+          "start_char": 56,
+          "end_char": 76
+        }
+      ],
+      "characters": [
+        "pipi",
+        "diandian"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "diandian": "default_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "皮皮指向原样的歪月亮，点点随着手指看向纸面；画纸保持刚才的旋转角度。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_23.png",
+      "reference_manifest": "references/shot_23.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 131.76,
+      "actual_end_s": 138.2,
+      "visible_duration_s": 7.4,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 22,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01",
+        "DRAWING_01",
+        "DRAWING_BOARD_01"
+      ],
+      "state_before": "整张画保持轻微旋转；棕框、绿叶、歪月亮相对关系固定。",
+      "state_after": "点点从新视角理解歪月亮靠着绿叶；画面未新增或删除笔迹，皮皮仍陪在旁边。",
+      "speech_start_s": 131.94979133333334,
+      "speech_end_s": 137.77670733333332,
+      "visible_start_s": 131.28,
+      "visible_end_s": 138.67999999999998
+    },
+    {
+      "id": 24,
+      "title": "发现另一种样子",
+      "text": "这样看过去，那枚歪月亮，不就正好像累了一样，",
+      "source_ranges": [
+        {
+          "unit_id": "u005",
+          "paragraph_id": "p004",
+          "start_char": 76,
+          "end_char": 98
+        }
+      ],
+      "characters": [
+        "pipi",
+        "diandian"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "diandian": "default_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "从两位朋友的视线看同一张轻微旋转的画，歪月亮仍靠近叶片，不画第二个月亮。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_24.png",
+      "reference_manifest": "references/shot_24.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 138.2,
+      "actual_end_s": 145.0,
+      "visible_duration_s": 7.76,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 23,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01",
+        "DRAWING_01",
+        "DRAWING_BOARD_01"
+      ],
+      "state_before": "整张画保持轻微旋转；棕框、绿叶、歪月亮相对关系固定。",
+      "state_after": "点点从新视角理解歪月亮靠着绿叶；画面未新增或删除笔迹，皮皮仍陪在旁边。",
+      "speech_start_s": 138.64212433333333,
+      "speech_end_s": 144.75749933333333,
+      "visible_start_s": 137.72,
+      "visible_end_s": 145.48
+    },
+    {
+      "id": 25,
+      "title": "月亮靠着树梢",
+      "text": "轻轻靠在窗外的树梢上歇息吗？”",
+      "source_ranges": [
+        {
+          "unit_id": "u005",
+          "paragraph_id": "p004",
+          "start_char": 98,
+          "end_char": 113
+        }
+      ],
+      "characters": [
+        "pipi",
+        "diandian"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "diandian": "default_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "画纸内容不变，构图让歪月亮贴着那片绿叶尖端，像靠树梢休息。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_25.png",
+      "reference_manifest": "references/shot_25.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 145.0,
+      "actual_end_s": 149.52,
+      "visible_duration_s": 5.48,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 24,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01",
+        "DRAWING_01",
+        "DRAWING_BOARD_01"
+      ],
+      "state_before": "整张画保持轻微旋转；棕框、绿叶、歪月亮相对关系固定。",
+      "state_after": "点点从新视角理解歪月亮靠着绿叶；画面未新增或删除笔迹，皮皮仍陪在旁边。",
+      "speech_start_s": 145.25749933333333,
+      "speech_end_s": 148.96904133333334,
+      "visible_start_s": 144.52,
+      "visible_end_s": 150.0
+    },
+    {
+      "id": 26,
+      "title": "点点凑近看",
+      "text": "点点凑近画纸眨了眨眼睛。",
+      "source_ranges": [
+        {
+          "unit_id": "u006",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 12
+        }
+      ],
+      "characters": [
+        "pipi",
+        "diandian"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "diandian": "default_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "点点凑近同一张略转的画纸，眨眼确认，画面元素保持原样。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_26.png",
+      "reference_manifest": "references/shot_26.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 149.52,
+      "actual_end_s": 154.12,
+      "visible_duration_s": 5.56,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 25,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01",
+        "DRAWING_01",
+        "DRAWING_BOARD_01"
+      ],
+      "state_before": "整张画保持轻微旋转；棕框、绿叶、歪月亮相对关系固定。",
+      "state_after": "点点从新视角理解歪月亮靠着绿叶；画面未新增或删除笔迹，皮皮仍陪在旁边。",
+      "speech_start_s": 150.10760416666668,
+      "speech_end_s": 153.67308200000002,
+      "visible_start_s": 149.04000000000002,
+      "visible_end_s": 154.6
+    },
+    {
+      "id": 27,
+      "title": "点点惊喜",
+      "text": "呀，真的呢！",
+      "source_ranges": [
+        {
+          "unit_id": "u006",
+          "paragraph_id": "p005",
+          "start_char": 12,
+          "end_char": 18
+        }
+      ],
+      "characters": [
+        "pipi",
+        "diandian"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "diandian": "default_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "点点眼睛亮起、嘴角轻扬，仍看向原画上的歪月亮和绿叶。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_27.png",
+      "reference_manifest": "references/shot_27.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 154.12,
+      "actual_end_s": 156.84,
+      "visible_duration_s": 3.68,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 26,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01",
+        "DRAWING_01",
+        "DRAWING_BOARD_01"
+      ],
+      "state_before": "整张画保持轻微旋转；棕框、绿叶、歪月亮相对关系固定。",
+      "state_after": "点点从新视角理解歪月亮靠着绿叶；画面未新增或删除笔迹，皮皮仍陪在旁边。",
+      "speech_start_s": 154.56537500000002,
+      "speech_end_s": 156.411541,
+      "visible_start_s": 153.64000000000001,
+      "visible_end_s": 157.32
+    },
+    {
+      "id": 28,
+      "title": "月亮挨着绿叶",
+      "text": "歪歪的月亮正好挨着那片绿树叶，",
+      "source_ranges": [
+        {
+          "unit_id": "u006",
+          "paragraph_id": "p005",
+          "start_char": 18,
+          "end_char": 33
+        }
+      ],
+      "characters": [
+        "pipi",
+        "diandian"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "diandian": "default_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "同一张画特写：原来的歪月亮正挨着唯一的绿叶，不新增树或其他月亮。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_28.png",
+      "reference_manifest": "references/shot_28.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 156.84,
+      "actual_end_s": 161.8,
+      "visible_duration_s": 5.92,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 27,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01",
+        "DRAWING_01",
+        "DRAWING_BOARD_01"
+      ],
+      "state_before": "整张画保持轻微旋转；棕框、绿叶、歪月亮相对关系固定。",
+      "state_after": "点点从新视角理解歪月亮靠着绿叶；画面未新增或删除笔迹，皮皮仍陪在旁边。",
+      "speech_start_s": 157.257708,
+      "speech_end_s": 161.54612500000002,
+      "visible_start_s": 156.36,
+      "visible_end_s": 162.28
+    },
+    {
+      "id": 29,
+      "title": "感到温柔",
+      "text": "比孤零零悬在半空中的圆月亮，还要温柔好多倍。",
+      "source_ranges": [
+        {
+          "unit_id": "u006",
+          "paragraph_id": "p005",
+          "start_char": 33,
+          "end_char": 55
+        }
+      ],
+      "characters": [
+        "pipi",
+        "diandian"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "diandian": "default_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "点点神情放松，手指轻指画中贴着叶子的歪月亮，窗景保持一致。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_29.png",
+      "reference_manifest": "references/shot_29.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 161.8,
+      "actual_end_s": 168.96,
+      "visible_duration_s": 8.12,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 28,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01",
+        "DRAWING_01",
+        "DRAWING_BOARD_01"
+      ],
+      "state_before": "整张画保持轻微旋转；棕框、绿叶、歪月亮相对关系固定。",
+      "state_after": "点点从新视角理解歪月亮靠着绿叶；画面未新增或删除笔迹，皮皮仍陪在旁边。",
+      "speech_start_s": 162.06537500000002,
+      "speech_end_s": 168.526916,
+      "visible_start_s": 161.32000000000002,
+      "visible_end_s": 169.44
+    },
+    {
+      "id": 30,
+      "title": "换浅蓝蜡笔",
+      "text": "\n点点开心极了，他又拿起浅蓝色的蜡笔，",
+      "source_ranges": [
+        {
+          "unit_id": "u006",
+          "paragraph_id": "p005",
+          "start_char": 55,
+          "end_char": 74
+        }
+      ],
+      "characters": [
+        "pipi",
+        "diandian"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "diandian": "default_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "点点开心拿起一支浅蓝色蜡笔；此前棕色窗框、绿叶和歪月亮均完整保留。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_30.png",
+      "reference_manifest": "references/shot_30.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 168.96,
+      "actual_end_s": 174.68,
+      "visible_duration_s": 6.68,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 29,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01",
+        "DRAWING_01",
+        "DRAWING_BOARD_01",
+        "CRAYON_BLUE_01"
+      ],
+      "state_before": "原画未改变；点点拿起单支浅蓝蜡笔。",
+      "state_after": "准备在窗框边添加窗帘，其他图案仍完整保留。",
+      "speech_start_s": 169.392291,
+      "speech_end_s": 174.46924900000002,
+      "visible_start_s": 168.48000000000002,
+      "visible_end_s": 175.16
+    },
+    {
+      "id": 31,
+      "title": "补上浅蓝窗帘和留白",
+      "text": "在窗框边画了一条垂下来的窗帘，还特地留出一大块没有涂色的白纸地方，",
+      "source_ranges": [
+        {
+          "unit_id": "u006",
+          "paragraph_id": "p005",
+          "start_char": 74,
+          "end_char": 107
+        }
+      ],
+      "characters": [
+        "pipi",
+        "diandian"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "diandian": "default_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "同一幅画新增一条浅蓝垂落窗帘，窗景另一侧留一大片纯白纸，不涂色。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_31.png",
+      "reference_manifest": "references/shot_31.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 174.68,
+      "actual_end_s": 184.44,
+      "visible_duration_s": 10.72,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 30,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01",
+        "DRAWING_01",
+        "DRAWING_BOARD_01",
+        "CRAYON_BLUE_01"
+      ],
+      "state_before": "同一原画含棕框、绿叶和歪月亮；一支浅蓝蜡笔在点点手中。",
+      "state_after": "仅新增一条浅蓝下垂窗帘，并保留大块未着色留白；最终画面资产锁定。",
+      "speech_start_s": 174.892291,
+      "speech_end_s": 184.199999,
+      "visible_start_s": 174.20000000000002,
+      "visible_end_s": 184.92
+    },
+    {
+      "id": 32,
+      "title": "月光留白",
+      "text": "好让晚上的月光能慢慢落下来。",
+      "source_ranges": [
+        {
+          "unit_id": "u006",
+          "paragraph_id": "p005",
+          "start_char": 107,
+          "end_char": 121
+        }
+      ],
+      "characters": [
+        "pipi",
+        "diandian"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "diandian": "default_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "画纸整体展示：两根棕框、一片绿叶、同一歪月亮、浅蓝窗帘和一大片空白留光区。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_32.png",
+      "reference_manifest": "references/shot_32.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 184.44,
+      "actual_end_s": 189.12,
+      "visible_duration_s": 5.64,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 31,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01",
+        "DRAWING_01",
+        "DRAWING_BOARD_01",
+        "CRAYON_BLUE_01"
+      ],
+      "state_before": "完成版DRAWING_01的全部五项特征固定：双棕框、单绿叶、唯一歪月亮、浅蓝帘、大块留白。",
+      "state_after": "两位朋友欣赏同一完成画；不再更改笔迹，窗户实体仍固定在墙上。",
+      "speech_start_s": 184.719208,
+      "speech_end_s": 188.54612400000002,
+      "visible_start_s": 183.96,
+      "visible_end_s": 189.6
+    },
+    {
+      "id": 33,
+      "title": "看着不规整的画",
+      "text": "画里的窗户虽然不算最整齐，",
+      "source_ranges": [
+        {
+          "unit_id": "u007",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 13
+        }
+      ],
+      "characters": [
+        "pipi",
+        "diandian"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "diandian": "default_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "点点和皮皮并肩看着完整画作，轻微歪斜的月亮与不完全规整的框线保留。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_33.png",
+      "reference_manifest": "references/shot_33.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 189.12,
+      "actual_end_s": 193.92,
+      "visible_duration_s": 5.76,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 32,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01",
+        "DRAWING_01",
+        "DRAWING_BOARD_01"
+      ],
+      "state_before": "完成版DRAWING_01的全部五项特征固定：双棕框、单绿叶、唯一歪月亮、浅蓝帘、大块留白。",
+      "state_after": "两位朋友欣赏同一完成画；不再更改笔迹，窗户实体仍固定在墙上。",
+      "speech_start_s": 189.67752083333335,
+      "speech_end_s": 193.72108300000002,
+      "visible_start_s": 188.64000000000001,
+      "visible_end_s": 194.39999999999998
+    },
+    {
+      "id": 34,
+      "title": "画里有叶和月亮",
+      "text": "却装满了今晚微凉的树叶、靠在树梢的月亮，",
+      "source_ranges": [
+        {
+          "unit_id": "u007",
+          "paragraph_id": "p006",
+          "start_char": 13,
+          "end_char": 33
+        }
+      ],
+      "characters": [
+        "pipi",
+        "diandian"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "diandian": "default_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "画作固定构图再次出现，叶片和歪月亮仍相邻，浅蓝帘与留白也保留。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_34.png",
+      "reference_manifest": "references/shot_34.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 193.92,
+      "actual_end_s": 199.88,
+      "visible_duration_s": 6.92,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 33,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01",
+        "DRAWING_01",
+        "DRAWING_BOARD_01"
+      ],
+      "state_before": "完成版DRAWING_01的全部五项特征固定：双棕框、单绿叶、唯一歪月亮、浅蓝帘、大块留白。",
+      "state_after": "两位朋友欣赏同一完成画；不再更改笔迹，窗户实体仍固定在墙上。",
+      "speech_start_s": 194.10570800000002,
+      "speech_end_s": 199.70183300000002,
+      "visible_start_s": 193.44,
+      "visible_end_s": 200.35999999999999
+    },
+    {
+      "id": 35,
+      "title": "朋友的安静时光",
+      "text": "还有两位好朋友并肩安静坐过的美好时光。",
+      "source_ranges": [
+        {
+          "unit_id": "u007",
+          "paragraph_id": "p006",
+          "start_char": 33,
+          "end_char": 52
+        }
+      ],
+      "characters": [
+        "pipi",
+        "diandian"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "diandian": "default_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "点点和皮皮肩并肩安静欣赏画，气氛满足温柔，不改变作品。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_35.png",
+      "reference_manifest": "references/shot_35.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 199.88,
+      "actual_end_s": 205.92,
+      "visible_duration_s": 7.0,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 34,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01",
+        "DRAWING_01",
+        "DRAWING_BOARD_01"
+      ],
+      "state_before": "完成版DRAWING_01的全部五项特征固定：双棕框、单绿叶、唯一歪月亮、浅蓝帘、大块留白。",
+      "state_after": "两位朋友欣赏同一完成画；不再更改笔迹，窗户实体仍固定在墙上。",
+      "speech_start_s": 200.094166,
+      "speech_end_s": 205.459541,
+      "visible_start_s": 199.4,
+      "visible_end_s": 206.39999999999998
+    },
+    {
+      "id": 36,
+      "title": "收进小画夹",
+      "text": "\n点点小心翼翼地把画放进小画夹里，",
+      "source_ranges": [
+        {
+          "unit_id": "u007",
+          "paragraph_id": "p006",
+          "start_char": 52,
+          "end_char": 69
+        }
+      ],
+      "characters": [
+        "pipi",
+        "diandian"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "diandian": "default_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "点点小心地把同一张完整画纸收入单一灰蓝色小画夹，不折画纸、不复制画。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_36.png",
+      "reference_manifest": "references/shot_36.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 205.92,
+      "actual_end_s": 211.44,
+      "visible_duration_s": 6.48,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 35,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01",
+        "DRAWING_01",
+        "DRAWING_BOARD_01",
+        "FOLDER_01"
+      ],
+      "state_before": "完成画仍在画板上；皮皮陪在旁边。",
+      "state_after": "点点将同一张纸轻轻收入唯一灰蓝小画夹；画纸不折、不复制，画板留在桌上。",
+      "speech_start_s": 206.344166,
+      "speech_end_s": 211.209541,
+      "visible_start_s": 205.44,
+      "visible_end_s": 211.92
+    },
+    {
+      "id": 37,
+      "title": "想带回地洞小屋",
+      "text": "开心地对皮皮说：“我要把它带回我的地洞小屋，放在我的枕头旁边，",
+      "source_ranges": [
+        {
+          "unit_id": "u007",
+          "paragraph_id": "p006",
+          "start_char": 69,
+          "end_char": 100
+        }
+      ],
+      "characters": [
+        "pipi",
+        "diandian"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "diandian": "default_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "点点抱着闭合的小画夹对皮皮开心说话，皮皮在旁倾听；画不外露、不另绘。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_37.png",
+      "reference_manifest": "references/shot_37.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 211.44,
+      "actual_end_s": 220.08,
+      "visible_duration_s": 9.6,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 36,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01",
+        "DRAWING_01",
+        "DRAWING_BOARD_01",
+        "FOLDER_01"
+      ],
+      "state_before": "画作已收在点点手中的小画夹内。",
+      "state_after": "点点抱着同一画夹，告诉皮皮要带回地洞小屋；画夹不留在房内。",
+      "speech_start_s": 211.671083,
+      "speech_end_s": 219.805708,
+      "visible_start_s": 210.96,
+      "visible_end_s": 220.56
+    },
+    {
+      "id": 38,
+      "title": "把画带在身边",
+      "text": "这样我闭上眼睛也能看到月亮啦。”",
+      "source_ranges": [
+        {
+          "unit_id": "u007",
+          "paragraph_id": "p006",
+          "start_char": 100,
+          "end_char": 116
+        }
+      ],
+      "characters": [
+        "pipi",
+        "diandian"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "diandian": "default_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "点点轻抱小画夹，满足地看向皮皮，准备带回家。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_38.png",
+      "reference_manifest": "references/shot_38.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 220.08,
+      "actual_end_s": 224.88,
+      "visible_duration_s": 5.76,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 37,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01",
+        "DRAWING_01",
+        "DRAWING_BOARD_01",
+        "FOLDER_01"
+      ],
+      "state_before": "画作已收在点点手中的小画夹内。",
+      "state_after": "点点抱着同一画夹，告诉皮皮要带回地洞小屋；画夹不留在房内。",
+      "speech_start_s": 220.344166,
+      "speech_end_s": 224.305666,
+      "visible_start_s": 219.60000000000002,
+      "visible_end_s": 225.35999999999999
+    },
+    {
+      "id": 39,
+      "title": "送到门廊",
+      "text": "皮皮把点点送到门廊，",
+      "source_ranges": [
+        {
+          "unit_id": "u008",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 10
+        }
+      ],
+      "characters": [
+        "pipi",
+        "diandian"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "diandian": "default_v001"
+      },
+      "setting": "porch",
+      "action": "皮皮陪点点走到同一木屋门廊；点点带着已收好的画夹，室内窗口仍在原位。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_39.png",
+      "reference_manifest": "references/shot_39.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 224.88,
+      "actual_end_s": 228.32,
+      "visible_duration_s": 4.4,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 38,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01",
+        "FOLDER_01"
+      ],
+      "state_before": "朋友离开卧室前，点点仍持有小画夹。",
+      "state_after": "皮皮陪点点由室内到同一木屋门廊；点点仍拿画夹。",
+      "speech_start_s": 225.43810416666668,
+      "speech_end_s": 228.145083,
+      "visible_start_s": 224.4,
+      "visible_end_s": 228.79999999999998
+    },
+    {
+      "id": 40,
+      "title": "门廊告别",
+      "text": "挥手道别后，",
+      "source_ranges": [
+        {
+          "unit_id": "u008",
+          "paragraph_id": "p007",
+          "start_char": 10,
+          "end_char": 16
+        }
+      ],
+      "characters": [
+        "pipi",
+        "diandian"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "diandian": "default_v001"
+      },
+      "setting": "porch",
+      "action": "门廊分别，皮皮站门内侧挥手；点点在门外回挥，手中同一画夹。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_40.png",
+      "reference_manifest": "references/shot_40.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 228.32,
+      "actual_end_s": 230.32,
+      "visible_duration_s": 2.96,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 39,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01",
+        "FOLDER_01"
+      ],
+      "state_before": "门廊道别；点点持画夹，皮皮穿白天服装。",
+      "state_after": "点点沿门外小路离开并带走画夹；皮皮仍在门口，栗栗等其他角色不出现。",
+      "speech_start_s": 228.52966600000002,
+      "speech_end_s": 230.14504100000002,
+      "visible_start_s": 227.84,
+      "visible_end_s": 230.79999999999998
+    },
+    {
+      "id": 41,
+      "title": "皮皮返回卧室",
+      "text": "才回到自己的小床边。",
+      "source_ranges": [
+        {
+          "unit_id": "u008",
+          "paragraph_id": "p007",
+          "start_char": 16,
+          "end_char": 26
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "点点已离开画面；皮皮独自回到同一卧室床边。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_41.png",
+      "reference_manifest": "references/shot_41.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 230.32,
+      "actual_end_s": 233.44,
+      "visible_duration_s": 4.08,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 40,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01"
+      ],
+      "state_before": "点点已离开并带走画夹；皮皮从门廊回到同一卧室，换入睡衣/睡帽。",
+      "state_after": "卧室只有皮皮；桌面绘画用品和画夹已收好，床、木窗及叶纹帘固定。",
+      "speech_start_s": 230.472,
+      "speech_end_s": 233.010458,
+      "visible_start_s": 229.84,
+      "visible_end_s": 233.92
+    },
+    {
+      "id": 42,
+      "title": "真实木窗仍在",
+      "text": "\n真正的木头窗户，还稳稳地留在熟悉的墙上。",
+      "source_ranges": [
+        {
+          "unit_id": "u008",
+          "paragraph_id": "p007",
+          "start_char": 26,
+          "end_char": 47
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "同一真实四格木窗和叶片窗帘牢牢挂在卧室墙上，窗下矮桌已无画纸与画夹，房内只有皮皮。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_42.png",
+      "reference_manifest": "references/shot_42.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 233.44,
+      "actual_end_s": 240.28,
+      "visible_duration_s": 7.8,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 41,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01"
+      ],
+      "state_before": "夜间同一卧室，只有皮皮；画夹和绘画纸不在房内。",
+      "state_after": "真实木窗与叶纹帘原样留在墙上；窗下桌面整洁，外面夜色。",
+      "speech_start_s": 233.90275,
+      "speech_end_s": 239.84508300000002,
+      "visible_start_s": 232.96,
+      "visible_end_s": 240.76
+    },
+    {
+      "id": 43,
+      "title": "望向真正弯月",
+      "text": "皮皮望了一眼窗外那轮真正的弯月，",
+      "source_ranges": [
+        {
+          "unit_id": "u008",
+          "paragraph_id": "p007",
+          "start_char": 47,
+          "end_char": 63
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "皮皮坐在同一张床边抬头望出同一木窗，窗外只有一轮真实弯月。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_43.png",
+      "reference_manifest": "references/shot_43.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 240.28,
+      "actual_end_s": 245.4,
+      "visible_duration_s": 6.08,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 42,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01"
+      ],
+      "state_before": "同一窗户和桌面，房间里只有皮皮。",
+      "state_after": "皮皮看向窗外唯一真实弯月；绘画中的歪圆月并未出现在现实窗外。",
+      "speech_start_s": 240.71045800000002,
+      "speech_end_s": 245.133541,
+      "visible_start_s": 239.8,
+      "visible_end_s": 245.88
+    },
+    {
+      "id": 44,
+      "title": "躺下闭眼",
+      "text": "慢慢躺下闭上了眼睛。",
+      "source_ranges": [
+        {
+          "unit_id": "u008",
+          "paragraph_id": "p007",
+          "start_char": 63,
+          "end_char": 73
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "皮皮在固定床位慢慢躺下闭眼，木窗与真实弯月留在背景。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_44.png",
+      "reference_manifest": "references/shot_44.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 245.4,
+      "actual_end_s": 248.72,
+      "visible_duration_s": 4.28,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 43,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01"
+      ],
+      "state_before": "皮皮在床边，望过真实弯月。",
+      "state_after": "皮皮躺到固定床位并闭眼；木窗与月亮位置不变。",
+      "speech_start_s": 245.672,
+      "speech_end_s": 248.268166,
+      "visible_start_s": 244.92000000000002,
+      "visible_end_s": 249.2
+    },
+    {
+      "id": 45,
+      "title": "安心入睡",
+      "text": "那些喜欢的美丽景色，已经装进心里，不用一直睁着眼睛看着了。",
+      "source_ranges": [
+        {
+          "unit_id": "u008",
+          "paragraph_id": "p007",
+          "start_char": 73,
+          "end_char": 102
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "皮皮安静睡着，卧室、木窗、叶帘与床布局不变，弯月柔和照进房间。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_45.png",
+      "reference_manifest": "references/shot_45.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 248.72,
+      "actual_end_s": 258.16,
+      "visible_duration_s": 10.4,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 44,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01"
+      ],
+      "state_before": "夜间同一床位，皮皮闭眼休息；点点已离开。",
+      "state_after": "皮皮保持熟睡，真实弯月、木窗、帘和卧室摆设均连续；仅夜色渐深。",
+      "speech_start_s": 249.15275,
+      "speech_end_s": 257.595083,
+      "visible_start_s": 248.24,
+      "visible_end_s": 258.64000000000004
+    },
+    {
+      "id": 46,
+      "title": "片尾寄语",
+      "text": "小朋友，今天你看到的喜欢画面，也可以轻轻收进心里啦。",
+      "source_ranges": [
+        {
+          "unit_id": "u009",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 26
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "延续同一床上熟睡姿态，画面安静；片尾寄语由旁白传达，皮皮不突然醒来或换位。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_46.png",
+      "reference_manifest": "references/shot_46.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 258.16,
+      "actual_end_s": 266.36,
+      "visible_duration_s": 9.16,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 45,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01"
+      ],
+      "state_before": "夜间同一床位，皮皮闭眼休息；点点已离开。",
+      "state_after": "皮皮保持熟睡，真实弯月、木窗、帘和卧室摆设均连续；仅夜色渐深。",
+      "speech_start_s": 258.7227291666667,
+      "speech_end_s": 265.9165195,
+      "visible_start_s": 257.68,
+      "visible_end_s": 266.84000000000003
+    },
+    {
+      "id": 47,
+      "title": "温柔的梦",
+      "text": "它们会变成温柔的梦，陪你度过安静的夜晚。",
+      "source_ranges": [
+        {
+          "unit_id": "u009",
+          "paragraph_id": "p008",
+          "start_char": 26,
+          "end_char": 46
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "皮皮保持熟睡，窗外夜色与真实弯月柔和，不额外增加梦中人物或物件。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_47.png",
+      "reference_manifest": "references/shot_47.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 266.36,
+      "actual_end_s": 272.76,
+      "visible_duration_s": 7.36,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 46,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01"
+      ],
+      "state_before": "夜间同一床位，皮皮闭眼休息；点点已离开。",
+      "state_after": "皮皮保持熟睡，真实弯月、木窗、帘和卧室摆设均连续；仅夜色渐深。",
+      "speech_start_s": 266.80881250000004,
+      "speech_end_s": 272.3088115,
+      "visible_start_s": 265.88,
+      "visible_end_s": 273.24
+    },
+    {
+      "id": 48,
+      "title": "晚安片尾",
+      "text": "晚安。",
+      "source_ranges": [
+        {
+          "unit_id": "u009",
+          "paragraph_id": "p008",
+          "start_char": 46,
+          "end_char": 49
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "bedroom_window",
+      "action": "同一卧室夜景的安静远景，皮皮熟睡，四格木窗、叶纹窗帘与真实弯月位置不变。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_48.png",
+      "reference_manifest": "references/shot_48.json",
+      "image_status": "generated_continuity_reviewed",
+      "actual_start_s": 272.76,
+      "actual_end_s": 282.12,
+      "visible_duration_s": 9.84,
+      "visual_constraints": "按已锁定的角色参考及本镜表演；无文字、水印、拼贴；竖屏9:16水彩；关键脸部和物件置于字幕区域上方。",
+      "transition_from": 47,
+      "continuity_refs": [
+        "WINDOW_01",
+        "DESK_01",
+        "BED_01"
+      ],
+      "state_before": "夜间同一床位，皮皮闭眼休息；点点已离开。",
+      "state_after": "皮皮保持熟睡，真实弯月、木窗、帘和卧室摆设均连续；仅夜色渐深。",
+      "speech_start_s": 273.1742285,
+      "speech_end_s": 273.9626865,
+      "visible_start_s": 272.28,
+      "visible_end_s": 282.12
+    }
+  ],
+  "max_visible_duration_s": 10.72,
+  "cover_title": "窗边月亮",
+  "continuity_manifest": "continuity.json",
+  "continuity_preflight": "checks/continuity-preflight.json",
+  "continuity_status": "text_preflight_passed",
+  "continuity_contact_sheet": null,
+  "image_generation_status": "not_started"
+}

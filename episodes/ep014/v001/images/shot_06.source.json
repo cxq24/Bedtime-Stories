@@ -1,0 +1,23 @@
+{
+  "shot_id": 6,
+  "source": "OpenAI image_gen",
+  "image_path": "images/shot_06.png",
+  "sha256": "d48ad8fc864db7f385314b5066cdb6e43bb32fdf08f5a962f639497aff1bb490",
+  "size": [
+    941,
+    1672
+  ],
+  "prompt": "prompts/shot_06.txt",
+  "reference_inputs": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/diandian_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep014/v001/assets/bedroom_anchor.png"
+  ],
+  "continuity_asset_ids": [
+    "WINDOW_01",
+    "DESK_01",
+    "BED_01"
+  ],
+  "image_status": "generated_continuity_reviewed",
+  "visual_review": "passed_in_full_episode_contact_sheet",
+  "review_note": "Final frame reviewed in episode contact sheets; continuity corrections retained."
+}

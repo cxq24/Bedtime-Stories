@@ -1,0 +1,21 @@
+{
+  "episode": "ep014",
+  "version": "v001",
+  "script_version": "v5",
+  "status": "rendered_technical_passed_human_watch_pending",
+  "authorization": "user_requested_episode_production",
+  "source_script": "02_100集剧本/用户长稿v5/结构化JSON/ep014.json",
+  "duration_s": 282.12,
+  "shots": 48,
+  "hanzi": 761,
+  "voice": "complete; 282.12s; word boundaries recorded",
+  "continuity_preflight": "passed",
+  "image_generation": "48_of_48_generated_and_continuity_reviewed",
+  "render": "complete; main and clean videos rendered at 282.12s",
+  "technical_checks": "passed; full decode and 100% narration/subtitle coverage",
+  "human_watch": "pending; not certified",
+  "user_acceptance": "pending",
+  "publication": "not_published",
+  "github_sync": "synced_to_main",
+  "delivery": "Outputs/2026-11-13/ep014-v001"
+}

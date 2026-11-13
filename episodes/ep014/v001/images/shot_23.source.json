@@ -1,0 +1,28 @@
+{
+  "shot_id": 23,
+  "source": "OpenAI image_gen",
+  "image_path": "images/shot_23.png",
+  "sha256": "fc044df02a73df54c254b12c602812c9b6f6c4c81da8ba73b6e62d9221467c72",
+  "size": [
+    941,
+    1672
+  ],
+  "prompt": "prompts/shot_23.txt",
+  "reference_inputs": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/diandian_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep014/v001/assets/bedroom_anchor.png",
+    "/workspace/Bedtime-Stories/episodes/ep014/v001/assets/drawing_moon_landscape_anchor.png"
+  ],
+  "continuity_asset_ids": [
+    "WINDOW_01",
+    "DESK_01",
+    "BED_01",
+    "DRAWING_01",
+    "DRAWING_BOARD_01"
+  ],
+  "image_status": "generated_continuity_reviewed",
+  "visual_review": "passed_in_full_episode_contact_sheet",
+  "review_note": "Final frame reviewed in episode contact sheets; continuity corrections retained."
+}

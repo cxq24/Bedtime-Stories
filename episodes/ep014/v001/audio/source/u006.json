@@ -1,0 +1,455 @@
+{
+  "text": "点点凑近画纸眨了眨眼睛。呀，真的呢！歪歪的月亮正好挨着那片绿树叶，比孤零零悬在半空中的圆月亮，还要温柔好多倍。\n点点开心极了，他又拿起浅蓝色的蜡笔，在窗框边画了一条垂下来的窗帘，还特地留出一大块没有涂色的白纸地方，好让晚上的月光能慢慢落下来。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "3f3fbb3aa3b6b7822e36ec8441d2b91c7e3c114f31af0c28855c4853f9cecaa3",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5961660,
+      "text": "点点"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7615410,
+      "duration": 7307500,
+      "text": "凑近"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15115410,
+      "duration": 6346250,
+      "text": "画纸"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21461660,
+      "duration": 3076660,
+      "text": "眨"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24538330,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25884580,
+      "duration": 3077080,
+      "text": "眨"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28961660,
+      "duration": 8269160,
+      "text": "眼睛"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46153750,
+      "duration": 5000000,
+      "text": "呀"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55577080,
+      "duration": 3269160,
+      "text": "真"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58846250,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60384580,
+      "duration": 4230830,
+      "text": "呢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 73077080,
+      "duration": 3076660,
+      "text": "歪"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 76153750,
+      "duration": 2692500,
+      "text": "歪"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78846250,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 80384580,
+      "duration": 8077080,
+      "text": "月亮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 90000000,
+      "duration": 6730830,
+      "text": "正好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 96922910,
+      "duration": 3846250,
+      "text": "挨着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 100961660,
+      "duration": 2115410,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 103077080,
+      "duration": 3269160,
+      "text": "片"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 106730830,
+      "duration": 1922910,
+      "text": "绿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 108653750,
+      "duration": 7307500,
+      "text": "树叶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 121153750,
+      "duration": 2692500,
+      "text": "比"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 124038330,
+      "duration": 13269160,
+      "text": "孤零零悬"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 138653750,
+      "duration": 2500000,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 141346250,
+      "duration": 5769160,
+      "text": "半空"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 147115410,
+      "duration": 2115410,
+      "text": "中"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 149230830,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 150961660,
+      "duration": 3461250,
+      "text": "圆"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 154422910,
+      "duration": 7500000,
+      "text": "月亮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 165769160,
+      "duration": 4038330,
+      "text": "还要"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 170000000,
+      "duration": 4807500,
+      "text": "温柔"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 175192500,
+      "duration": 6922910,
+      "text": "好多"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 182115410,
+      "duration": 3653750,
+      "text": "倍"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 194422910,
+      "duration": 5192500,
+      "text": "点点"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 200000000,
+      "duration": 5961660,
+      "text": "开心"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 206153750,
+      "duration": 3653750,
+      "text": "极"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 209807500,
+      "duration": 3077080,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 217692500,
+      "duration": 2307500,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 220000000,
+      "duration": 1922910,
+      "text": "又"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 222115410,
+      "duration": 2500000,
+      "text": "拿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 224615410,
+      "duration": 2692500,
+      "text": "起"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 227692500,
+      "duration": 3076660,
+      "text": "浅"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 230769160,
+      "duration": 5769160,
+      "text": "蓝色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 236538330,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 238077080,
+      "duration": 7115410,
+      "text": "蜡笔"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 249422910,
+      "duration": 2307500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 251922910,
+      "duration": 5961660,
+      "text": "窗框"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 257884580,
+      "duration": 5192500,
+      "text": "边"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 263461660,
+      "duration": 3461250,
+      "text": "画"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 266922910,
+      "duration": 961660,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 268077080,
+      "duration": 5000000,
+      "text": "一条"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 273461660,
+      "duration": 3653750,
+      "text": "垂"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 277115410,
+      "duration": 4230830,
+      "text": "下来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 281346250,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 282692500,
+      "duration": 7884580,
+      "text": "窗帘"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 294038330,
+      "duration": 2884580,
+      "text": "还"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 297115410,
+      "duration": 5577080,
+      "text": "特地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 302884580,
+      "duration": 2692500,
+      "text": "留"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 305577080,
+      "duration": 2500000,
+      "text": "出"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 308461660,
+      "duration": 2115410,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 310577080,
+      "duration": 7692500,
+      "text": "大块"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 318653750,
+      "duration": 3269160,
+      "text": "没有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 322115410,
+      "duration": 6346250,
+      "text": "涂色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 328461660,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 330192080,
+      "duration": 8269160,
+      "text": "白纸地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 338461660,
+      "duration": 4038330,
+      "text": "方"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 347692080,
+      "duration": 2115410,
+      "text": "好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 349807500,
+      "duration": 2307500,
+      "text": "让"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 352500000,
+      "duration": 5961660,
+      "text": "晚上的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 358653750,
+      "duration": 8077080,
+      "text": "月光"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 368269160,
+      "duration": 2115410,
+      "text": "能"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 370577080,
+      "duration": 5769160,
+      "text": "慢慢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 376538330,
+      "duration": 2884580,
+      "text": "落"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 379422910,
+      "duration": 6538330,
+      "text": "下来"
+    }
+  ]
+}

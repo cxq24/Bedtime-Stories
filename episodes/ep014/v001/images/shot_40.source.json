@@ -1,0 +1,27 @@
+{
+  "shot_id": 40,
+  "source": "OpenAI image_gen",
+  "image_path": "images/shot_40.png",
+  "sha256": "a4bcff1bce1468744348c8f447db77851543b5780e735258eaeb7d2cc8e96739",
+  "size": [
+    941,
+    1672
+  ],
+  "prompt": "prompts/shot_40.txt",
+  "reference_inputs": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/diandian_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep011/v002/assets/porch_anchor.png",
+    "/workspace/Bedtime-Stories/episodes/ep014/v001/assets/folder_anchor.png"
+  ],
+  "continuity_asset_ids": [
+    "WINDOW_01",
+    "DESK_01",
+    "BED_01",
+    "FOLDER_01"
+  ],
+  "image_status": "generated_continuity_reviewed",
+  "visual_review": "passed_in_full_episode_contact_sheet",
+  "review_note": "Final frame reviewed in episode contact sheets; continuity corrections retained."
+}

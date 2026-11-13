@@ -1,0 +1,62 @@
+{
+  "episode": "ep014",
+  "version": "v001",
+  "assets": [
+    {
+      "asset_id": "BEDROOM",
+      "name": "bedroom_anchor.png",
+      "path": "assets/bedroom_anchor.png",
+      "sha256": "ec59e3446f564ce8cf176ed62fda18b0ad9c62fbd3b21e72400b4441a77ccd01",
+      "source": "OpenAI image_gen",
+      "review": "assistant_visual_review_passed"
+    },
+    {
+      "asset_id": "DRAWING_FRAME",
+      "name": "drawing_frame_landscape_anchor.png",
+      "path": "assets/drawing_frame_landscape_anchor.png",
+      "sha256": "fdf28f7196a7563fecd16fa2d3059de130d9faf9405044fcabdad1c00b2949ba",
+      "source": "OpenAI image_gen",
+      "review": "assistant_visual_review_passed"
+    },
+    {
+      "asset_id": "DRAWING_LEAF",
+      "name": "drawing_leaf_landscape_anchor.png",
+      "path": "assets/drawing_leaf_landscape_anchor.png",
+      "sha256": "ef77b7bdcc7d1e852300605639374d4b7498476c06f8b50f36cc8960486441fc",
+      "source": "OpenAI image_gen",
+      "review": "assistant_visual_review_passed"
+    },
+    {
+      "asset_id": "DRAWING_MOON",
+      "name": "drawing_moon_landscape_anchor.png",
+      "path": "assets/drawing_moon_landscape_anchor.png",
+      "sha256": "60c6e7f2c4a550c85130224af6ff310be715779d270c9e12141547dab08d2a91",
+      "source": "OpenAI image_gen",
+      "review": "assistant_visual_review_passed_filled_moon_anchor"
+    },
+    {
+      "asset_id": "DRAWING_FINAL",
+      "name": "drawing_final_landscape_anchor.png",
+      "path": "assets/drawing_final_landscape_anchor.png",
+      "sha256": "a20276e5a259b22f3926255e67d16a1cdf81d09c03151800e9c8ec0c69a9e0e8",
+      "source": "OpenAI image_gen",
+      "review": "assistant_visual_review_passed_added_curtain_to_filled_moon"
+    },
+    {
+      "asset_id": "FIELD",
+      "name": "field_anchor.png",
+      "path": "assets/field_anchor.png",
+      "sha256": "aca5c239ecf611f137b03bf1865b6e44cc5b3c938f10ba6ff2b7dfaa6ba9935c",
+      "source": "OpenAI image_gen",
+      "review": "assistant_visual_review_passed"
+    },
+    {
+      "asset_id": "FOLDER",
+      "name": "folder_anchor.png",
+      "path": "assets/folder_anchor.png",
+      "sha256": "9cef89bbe28bcf401ae4cdd6d3fd924e47f24ecb32b524677edbf2a8cfb5b86c",
+      "source": "OpenAI image_gen",
+      "review": "assistant_visual_review_passed"
+    }
+  ]
+}

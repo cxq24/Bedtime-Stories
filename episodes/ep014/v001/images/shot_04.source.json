@@ -1,0 +1,23 @@
+{
+  "shot_id": 4,
+  "source": "OpenAI image_gen",
+  "image_path": "images/shot_04.png",
+  "sha256": "10efb45ab89f463f4710e601b5f8ae67408e5954104218f523aa8180c0f68f2a",
+  "size": [
+    941,
+    1672
+  ],
+  "prompt": "prompts/shot_04.txt",
+  "reference_inputs": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/goat_teacher_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/diandian_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep014/v001/assets/field_anchor.png"
+  ],
+  "continuity_asset_ids": [
+    "MEADOW_01",
+    "DRAWING_BOARD_01"
+  ],
+  "image_status": "generated_continuity_reviewed",
+  "visual_review": "passed_in_full_episode_contact_sheet",
+  "review_note": "Final frame reviewed in episode contact sheets; continuity corrections retained."
+}

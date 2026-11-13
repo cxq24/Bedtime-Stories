@@ -1,0 +1,33 @@
+{
+  "id": 29,
+  "title": "感到温柔",
+  "destination": "images/shot_29.png",
+  "prompt": "Use case: one original full-bleed vertical 9:16 watercolor children’s story illustration for a locked narration shot. Use each attached image strictly for its labelled reference role. Preserve named character identity and fixed object designs; do not make a collage or copy a reference sheet.\nInput 1 is the strict identity reference for 皮皮 (pipi): 暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。 Input 2 is clothing-only for 皮皮: 换装表左：灰蓝短背带裤、米色上衣、蓝布鞋、小黄书包，无帽；仅画这套服装，不复制表中其他兔子。 Input 3 is the strict identity reference for 点点 (diandian): 灰褐圆身体、淡粉小鼻、很小的眼睛、短圆爪。 Input 3 is clothing-only for 点点: 米色小围兜 Input 1: /workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png; use only its labelled purpose (identity/clothes/environment/object); do not copy poses or extra items from it. Input 2: /workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png; use only its labelled purpose (identity/clothes/environment/object); do not copy poses or extra items from it. Input 3: /workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/diandian_identity_v001.png; use only its labelled purpose (identity/clothes/environment/object); do not copy poses or extra items from it. Input 4: /workspace/Bedtime-Stories/episodes/ep014/v001/assets/bedroom_anchor.png; use only its labelled purpose (identity/clothes/environment/object); do not copy poses or extra items from it. Input 5: /workspace/Bedtime-Stories/episodes/ep014/v001/assets/drawing_moon_landscape_anchor.png; use only its labelled purpose (identity/clothes/environment/object); do not copy poses or extra items from it.\nScene location: bedroom_window. Keep its fixed layout from the environment anchor.\nVisible cast: pipi, diandian; draw each listed character once and no unlisted animals.\nPipi wears the daytime cream shirt, dusty blue short overalls, and blue shoes. Omit the yellow school backpack in this story; it is not mentioned or carried in these scenes. No cap. Diandian is a very small mole, about 0.65 Pipi height, grey-brown round body, tiny eyes, pale pink nose, short rounded paws, beige bib. Slightly squint only when focusing; no glasses.\nSingle visual moment and acting: 点点神情放松，手指轻指画中贴着叶子的歪月亮，窗景保持一致。\nBefore: 整张画保持轻微旋转；棕框、绿叶、歪月亮相对关系固定。 After: 点点从新视角理解歪月亮靠着绿叶；画面未新增或删除笔迹，皮皮仍陪在旁边。\nShow exactly the same one solid, fully crayon-colored pale-yellow lopsided moon from the canonical drawing reference, fatter on its left side and thinner on its right, leaning toward the same single green leaf. It is filled across its interior, not an outline or ring. Keep the two brown vertical lines unchanged. No curtain yet.\nFor all bedroom shots keep one centered four-pane wooden window, the same pale-green leafy curtain hanging only on the right, one low light-wood desk directly beneath it, and one bed against the left wall. These never shift or multiply. On day scenes, soft natural afternoon light; toward farewell, dusk; bedtime is muted blue night outside with a warm bedside glow. The house is the same warm honey-brown wooden cottage.\nStyle: gentle hand-painted watercolor on fine warm paper, rounded soft shapes, muted natural color, quiet bedtime picture-book mood. Character expression and eye direction must match the present narration moment, never a fixed neutral or sleepy expression unless the narration says so.\nKeep faces and key props in the upper 68% (above the bottom subtitle area); one clear coherent camera composition, no split panels, no text, no letters, no logos, no watermark, no extra windows, no duplicate moons, no extra artwork or unlisted props.",
+  "reference_inputs": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/diandian_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep014/v001/assets/bedroom_anchor.png",
+    "/workspace/Bedtime-Stories/episodes/ep014/v001/assets/drawing_moon_landscape_anchor.png"
+  ],
+  "characters": [
+    "pipi",
+    "diandian"
+  ],
+  "outfits": {
+    "pipi": "day_v001",
+    "diandian": "default_v001"
+  },
+  "source_ranges": [
+    {
+      "unit_id": "u006",
+      "paragraph_id": "p005",
+      "start_char": 33,
+      "end_char": 55
+    }
+  ],
+  "timing": {
+    "start_s": 161.8,
+    "end_s": 168.96
+  }
+}

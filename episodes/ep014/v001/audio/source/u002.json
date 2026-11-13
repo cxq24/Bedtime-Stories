@@ -1,0 +1,419 @@
+{
+  "text": "今天下午的美术课，山羊老师带着大家来到皮皮家附近的开阔草地上，画一幅“傍晚的风景”。\n小鼹鼠点点最喜欢皮皮家那扇挂着叶子花窗帘的小木窗了。下课后，点点还舍不得走，坐在皮皮家窗边的矮桌旁，拿着小画板，想画一扇有月亮升起来的窗户。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "87dcfe345061b9a53fb94b0aa6dcbcc5d0951631fc900bca3fa0807d48842f37",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5769160,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7230830,
+      "duration": 5384580,
+      "text": "下午"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12615410,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14153750,
+      "duration": 5961660,
+      "text": "美术"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20115410,
+      "duration": 4422910,
+      "text": "课"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29346250,
+      "duration": 5769160,
+      "text": "山羊"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35307500,
+      "duration": 8653750,
+      "text": "老师"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44346250,
+      "duration": 2884580,
+      "text": "带"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47230830,
+      "duration": 1346250,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48769160,
+      "duration": 7692500,
+      "text": "大家"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58000000,
+      "duration": 4615410,
+      "text": "来到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63000000,
+      "duration": 7500000,
+      "text": "皮皮家"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 70692500,
+      "duration": 5576660,
+      "text": "附近"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 76269160,
+      "duration": 1730830,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78384580,
+      "duration": 4615410,
+      "text": "开阔"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 83192500,
+      "duration": 7307500,
+      "text": "草地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 90500000,
+      "duration": 4422910,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 98846250,
+      "duration": 3846250,
+      "text": "画"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 102692500,
+      "duration": 1922910,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 104615410,
+      "duration": 3269160,
+      "text": "幅"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 108269160,
+      "duration": 5192500,
+      "text": "傍晚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 113461660,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 115000000,
+      "duration": 8077080,
+      "text": "风景"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 131922910,
+      "duration": 8846250,
+      "text": "小鼹鼠"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 140961660,
+      "duration": 8653750,
+      "text": "点点"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 151153750,
+      "duration": 3846250,
+      "text": "最"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 155000000,
+      "duration": 5000000,
+      "text": "喜欢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 160384580,
+      "duration": 2115410,
+      "text": "皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 162500000,
+      "duration": 2500000,
+      "text": "皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 165000000,
+      "duration": 4615410,
+      "text": "家"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 171153750,
+      "duration": 2115410,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 173269160,
+      "duration": 4422910,
+      "text": "扇"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 178077080,
+      "duration": 2884580,
+      "text": "挂"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 180961660,
+      "duration": 1730830,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 183077080,
+      "duration": 7692500,
+      "text": "叶子花"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 190961660,
+      "duration": 5961250,
+      "text": "窗帘"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 196922910,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 198461660,
+      "duration": 3076660,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 201538330,
+      "duration": 6346250,
+      "text": "木窗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 207884580,
+      "duration": 3269160,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 219807500,
+      "duration": 7115410,
+      "text": "下课"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 226922910,
+      "duration": 4807500,
+      "text": "后"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 235577080,
+      "duration": 5384580,
+      "text": "点点"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 241153750,
+      "duration": 2884580,
+      "text": "还"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 244038330,
+      "duration": 12884580,
+      "text": "舍不得走"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 261922910,
+      "duration": 2692500,
+      "text": "坐"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 264615410,
+      "duration": 2500000,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 267500000,
+      "duration": 4615410,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 272307500,
+      "duration": 5961660,
+      "text": "家窗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 278269160,
+      "duration": 2307500,
+      "text": "边"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 280577080,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 282500000,
+      "duration": 2500000,
+      "text": "矮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 285000000,
+      "duration": 3077080,
+      "text": "桌"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 288077080,
+      "duration": 5577080,
+      "text": "旁"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 296922910,
+      "duration": 2500000,
+      "text": "拿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 299422910,
+      "duration": 1730830,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 301346250,
+      "duration": 3076660,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 304422910,
+      "duration": 7884580,
+      "text": "画板"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 315961660,
+      "duration": 4038330,
+      "text": "想"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 320000000,
+      "duration": 2692500,
+      "text": "画"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 322884580,
+      "duration": 1922910,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 324807500,
+      "duration": 4615410,
+      "text": "扇"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 329807500,
+      "duration": 2307500,
+      "text": "有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 332115410,
+      "duration": 5000000,
+      "text": "月亮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 337500000,
+      "duration": 3269160,
+      "text": "升"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 340769160,
+      "duration": 3653750,
+      "text": "起来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 344422910,
+      "duration": 961660,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 345577080,
+      "duration": 8269160,
+      "text": "窗户"
+    }
+  ]
+}

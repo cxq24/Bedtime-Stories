@@ -1,0 +1,26 @@
+{
+  "shot_id": 18,
+  "source": "OpenAI image_gen",
+  "image_path": "images/shot_18.png",
+  "sha256": "5effd224e608c397d17d3d101ddaeb2ad21e46110bf0e63d5bf757de346f1d98",
+  "size": [
+    941,
+    1672
+  ],
+  "prompt": "prompts/shot_18.txt",
+  "reference_inputs": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/diandian_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep014/v001/assets/bedroom_anchor.png",
+    "/workspace/Bedtime-Stories/episodes/ep014/v001/assets/drawing_moon_landscape_anchor.png"
+  ],
+  "continuity_asset_ids": [
+    "WINDOW_01",
+    "DESK_01",
+    "BED_01",
+    "DRAWING_01",
+    "DRAWING_BOARD_01"
+  ],
+  "image_status": "generated_continuity_reviewed",
+  "visual_review": "passed_in_full_episode_contact_sheet",
+  "review_note": "Final frame reviewed in episode contact sheets; continuity corrections retained."
+}
