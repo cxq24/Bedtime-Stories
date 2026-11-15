@@ -11,11 +11,14 @@ import wave
 import numpy as np
 from PIL import Image, ImageDraw, ImageOps
 
+from cover_assets import load_cover_plan, validate_cover_outputs, validate_publish_titles
+
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--output-dir', type=Path, required=True)
     parser.add_argument('--delivery-dir', type=Path, help='可选：检查日期目录里的最终成片；源素材仍从工程读取')
+    parser.add_argument('--legacy-cover', action='store_true', help='仅核验已交付历史工程时使用；新制作必须有v3封面方案')
     args = parser.parse_args()
     out = args.output_dir.resolve()
     delivery = args.delivery_dir.resolve() if args.delivery_dir else out
@@ -27,6 +30,15 @@ def main():
     source = ''.join(p['text'] for p in script['narration_paragraphs'])
     episode = script['id']
     plan, voice, cues = read('storyboard.json'), read('voice-timeline.json'), read('subtitles.ruby.json')
+    cover_check = 'historical_cover_not_checked_against_v3'
+    if not args.legacy_cover:
+        cover, _ = load_cover_plan(out)
+        validate_cover_outputs(out)
+        validate_publish_titles(out / '发布文案.md', cover['title'])
+        if delivery != out:
+            validate_publish_titles(delivery / '发布文案.md', cover['title'])
+            assert (delivery / 'cover.png').read_bytes() == (out / 'cover.png').read_bytes()
+        cover_check = 'v3_outputs_and_publish_titles_passed_visual_review_separate'
     expected = han(source)
     assert len(expected) == script['cn_characters']
     assert plan['episode'] == episode
@@ -118,6 +130,7 @@ def main():
               'current_episode_cover_base_reuse': [s['id'] for s, h in zip(plan['shots'], hashes) if h == hashlib.sha256((out/'cover_base.png').read_bytes()).hexdigest()],
               'max_image_visible_s': max(s['visible_duration_s'] for s in plan['shots']),
               'audio': audio, 'videos': videos, 'full_human_listen_watch': 'not_certified',
+              'cover_title_check': cover_check,
               'user_acceptance': acceptance.get('status', 'pending'), 'publication': 'not_published'}
     (checks/'technical-report.json').write_text(json.dumps(report, ensure_ascii=False, indent=2)+'\n')
     print(json.dumps(report, ensure_ascii=False, indent=2), flush=True)
