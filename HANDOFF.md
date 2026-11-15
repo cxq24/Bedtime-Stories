@@ -1,5 +1,7 @@
 # 项目交接入口
 
+2026-11-14封面/标题规则已升级为[bedtime-cover-v3](docs/production/COVER_SPEC.md)：皮皮正脸、逐集场景/道具/主色差异，6–10字“皮皮＋一件事”与三平台标题完全一致，先填本集cover-plan.json。保留p000开场与结尾，不新增预告钩子；历史交付保留。
+
 本文件只作兼容入口。新会话请按[云端接手说明](云端接手.md)操作，并优先读取[制作主控](CHANNEL_MASTER.md)、[机器状态](PROJECT_STATE.json)、[v5稿库索引](02_100集剧本/00_总目录.md)和[媒体台账](docs/production/EPISODE_STATUS.md)。
 
 最近完成第015集《蜗牛的露珠小路》v001（v5），33镜、262.64秒，连续性和技术检查通过；人工完整听看与用户验收待审，未发布，已同步GitHub main。详见`episodes/ep015/v001/RECORD.md`。
