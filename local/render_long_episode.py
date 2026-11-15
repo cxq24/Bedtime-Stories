@@ -75,7 +75,12 @@ def prepare_assets(out, duration, title):
         draw = ImageDraw.Draw(layer)
         draw.rounded_rectangle((108, 1140, 972, 1580), radius=48, fill=(255, 244, 220, 240))
         font = ImageFont.truetype(str(out / 'fonts/NotoSansCJKsc-Bold.otf'), 112)
-        lines = [title] if len(title) <= 4 else [title[:3], title[3:]]
+        if len(title) <= 4:
+            lines = [title]
+        else:
+            split_at = min(4, (len(title) + 1) // 2)
+            lines = [title[:split_at], title[split_at:]]
+        assert len(lines) <= 2 and all(1 <= len(line) <= 4 for line in lines)
         ys = [1360] if len(lines) == 1 else [1316, 1448]
         for line, y in zip(lines, ys):
             draw.text((540, y), line, font=font, anchor='mm', fill='#182232')
@@ -101,7 +106,8 @@ def main():
         raise ValueError('分镜须有epNNN格式的episode字段')
     assert plan.get('actual_audio_measured') and plan['max_visible_duration_s'] <= 15
     title = plan.get('cover_title') or (out / 'cover-title.txt').read_text().strip()
-    assert 4 <= len(title) <= 6, '封面标题优先四字，必要时五字或六字'
+    title = ''.join(title.splitlines())
+    assert 4 <= len(title) <= 8, '封面与发布标题须统一，标题通常4–8个汉字'
     prepare_assets(out, plan['total_duration_s'], title)
     if args.assets_only:
         print('AUDIO_BEDS_COVER_FONTS_READY', flush=True)
