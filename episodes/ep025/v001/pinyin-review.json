@@ -1,0 +1,239 @@
+{
+  "hanzi": 723,
+  "cues": 124,
+  "pinyin_coverage": 1.0,
+  "context_review": "completed_against_episode_text",
+  "target_font_px": {
+    "hanzi": 76,
+    "pinyin": 48
+  },
+  "libass_fontsize_calibration": {
+    "hanzi": 114,
+    "pinyin": 66,
+    "reason": "match actual rasterized glyph scale to bundled-font 76px/48px reference; libass normalizes font metrics"
+  },
+  "audio_pronunciation_listen_review": "not_certified",
+  "overrides": [
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "小朋友们，准备好听故事了吗？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "今天对于皮皮来说，是个特别难忘的日子——森林学堂的全体小朋友，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "今天对于皮皮来说，是个特别难忘的日子——森林学堂的全体小朋友，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "今天对于皮皮来说，是个特别难忘的日子——森林学堂的全体小朋友，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒绒",
+      "pinyin": [
+        "róng",
+        "róng"
+      ],
+      "context": "下午自由活动的时候，小松鼠团团和小熊绒绒在浅水滩边比赛打水漂，欢呼声一阵高过一阵。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "团团",
+      "pinyin": [
+        "tuán",
+        "tuán"
+      ],
+      "context": "下午自由活动的时候，小松鼠团团和小熊绒绒在浅水滩边比赛打水漂，欢呼声一阵高过一阵。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "一会儿",
+      "pinyin": [
+        "yí",
+        "huìr",
+        "r"
+      ],
+      "context": "皮皮玩了一会儿水后，觉得有点累了，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮玩了一会儿水后，觉得有点累了，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "爪子",
+      "pinyin": [
+        "zhuǎ",
+        "zi"
+      ],
+      "context": "就独自坐在岸边一块晒得暖洋洋的大石头上，把小爪子放在膝头，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮用目光护送着那片小柳叶。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "水流忽然变缓了；小柳叶在平静的水面上打了一个优雅的小转身，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "轻轻地",
+      "pinyin": [
+        "qīng",
+        "qīng",
+        "de"
+      ],
+      "context": "便轻轻地停靠在了平缓的岸边水草旁，不再往前跑了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "集合的哨声响起时，皮皮没有再去追着看小柳叶，他轻轻站起身，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "拍掉裤子上的草屑，牵着好朋友的手，沿着熟悉的森林小路回了家。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "到了晚上，洗去了一身的疲惫，皮皮躺进了自己卧室的小木床里。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "铺在",
+      "pinyin": [
+        "pū",
+        "zài"
+      ],
+      "context": "暖黄色的毛毯正暖暖地铺在身上。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "闭着眼睛",
+      "pinyin": [
+        "bì",
+        "zhe",
+        "yǎn",
+        "jing"
+      ],
+      "context": "皮皮把胡萝卜玩偶抱近了一点，闭着眼睛在脑海里想象：此时此刻，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "胡萝卜",
+      "pinyin": [
+        "hú",
+        "luó",
+        "bo"
+      ],
+      "context": "皮皮把胡萝卜玩偶抱近了一点，闭着眼睛在脑海里想象：此时此刻，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮把胡萝卜玩偶抱近了一点，闭着眼睛在脑海里想象：此时此刻，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "长耳朵",
+      "pinyin": [
+        "cháng",
+        "ěr",
+        "duo"
+      ],
+      "context": "他竖起长耳朵仔细听了听，屋里没有白天哗啦啦的水声，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮白天那些热闹的记忆和兴奋的心情，也慢慢地淡了下来、缓了下来。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮的眼皮，也像那片靠岸的小柳叶一样，轻轻地合拢、停住了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "轻轻地",
+      "pinyin": [
+        "qīng",
+        "qīng",
+        "de"
+      ],
+      "context": "皮皮的眼皮，也像那片靠岸的小柳叶一样，轻轻地合拢、停住了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "小朋友，今天看过的热闹风景、玩过的开心游戏，都已经稳稳地留在心里啦。",
+      "review": "context_checked_not_audio_listen_certification"
+    }
+  ]
+}

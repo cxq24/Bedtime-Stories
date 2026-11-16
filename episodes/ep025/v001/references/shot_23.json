@@ -1,0 +1,12 @@
+{
+  "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+  "referenced_image_paths": [
+    "/workspace/Bedtime-Stories/episodes/ep025/v001/assets/willow_leaf_anchor.png"
+  ],
+  "characters": [],
+  "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+  "user_visual_acceptance": "approved_for_initial_production_use",
+  "used_for_assets": [
+    "LEAF_01"
+  ]
+}

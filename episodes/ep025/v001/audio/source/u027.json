@@ -1,0 +1,89 @@
+{
+  "text": "就像溪水流到大石头后面会自动把声音放轻一样，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "bb493cacd9660b254fea2263f60d94486b035a91cb5c37627a8e30ba5c81d03c",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2500000,
+      "text": "就"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3769160,
+      "duration": 2692500,
+      "text": "像"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 5769160,
+      "text": "溪水"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12615410,
+      "duration": 2500000,
+      "text": "流"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15115410,
+      "duration": 2500000,
+      "text": "到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18000000,
+      "duration": 7884580,
+      "text": "大石头"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26077080,
+      "duration": 8077080,
+      "text": "后面"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35500000,
+      "duration": 2500000,
+      "text": "会"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38192500,
+      "duration": 5000000,
+      "text": "自动"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43577080,
+      "duration": 1922910,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45692500,
+      "duration": 5769160,
+      "text": "声音"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51461660,
+      "duration": 6346250,
+      "text": "放轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58000000,
+      "duration": 6153750,
+      "text": "一样"
+    }
+  ]
+}

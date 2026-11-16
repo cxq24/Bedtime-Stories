@@ -1,0 +1,131 @@
+{
+  "text": "现在，小溪把声音放轻了，你也安心地待在温暖的小床上，慢慢睡去吧。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "28902cca8b305b466c9ae86ab0eaa7911c3a3c2e2fe2d55abe1f1b56aff2ba6a",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 7884580,
+      "text": "现在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14153750,
+      "duration": 5192500,
+      "text": "小溪"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19730830,
+      "duration": 1922910,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21846250,
+      "duration": 5000000,
+      "text": "声音"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27038330,
+      "duration": 6922910,
+      "text": "放轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33961660,
+      "duration": 3077080,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42422910,
+      "duration": 1538330,
+      "text": "你"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43961660,
+      "duration": 1538330,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45692500,
+      "duration": 6153750,
+      "text": "安心"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51846250,
+      "duration": 2500000,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54538330,
+      "duration": 2500000,
+      "text": "待"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57038330,
+      "duration": 2307500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59730830,
+      "duration": 4807500,
+      "text": "温暖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64538330,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 65884580,
+      "duration": 6922910,
+      "text": "小床"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 72807500,
+      "duration": 3846250,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 80500000,
+      "duration": 4615410,
+      "text": "慢慢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 85307500,
+      "duration": 3846250,
+      "text": "睡"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 89153750,
+      "duration": 2307500,
+      "text": "去"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 91461660,
+      "duration": 3461660,
+      "text": "吧"
+    }
+  ]
+}

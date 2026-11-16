@@ -1,0 +1,71 @@
+{
+  "text": "只见柳叶漂到一块大圆石头的后面时，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "8513e19658e69a4a188713b2ac6c7da2f8bb0352dc1e61ee7557318e9353eef8",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5769160,
+      "text": "只见"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7230830,
+      "duration": 6730830,
+      "text": "柳叶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14346250,
+      "duration": 3076660,
+      "text": "漂"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17422910,
+      "duration": 2115410,
+      "text": "到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19730830,
+      "duration": 4422910,
+      "text": "一块"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24538330,
+      "duration": 5384580,
+      "text": "大圆"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30115410,
+      "duration": 5577080,
+      "text": "石头"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35692500,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37230830,
+      "duration": 6538330,
+      "text": "后面"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43769160,
+      "duration": 5577080,
+      "text": "时"
+    }
+  ]
+}

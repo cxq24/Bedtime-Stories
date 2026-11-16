@@ -1,0 +1,125 @@
+{
+  "text": "到了晚上，洗去了一身的疲惫，皮皮躺进了自己卧室的小木床里。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "c76e856347f533241019275e12042f53d9ad1d6799d04c0329c6afe07cfae651",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2884580,
+      "text": "到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4153750,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5500000,
+      "duration": 8269160,
+      "text": "晚上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17807500,
+      "duration": 3653750,
+      "text": "洗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21461660,
+      "duration": 2500000,
+      "text": "去"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23961660,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25500000,
+      "duration": 5000000,
+      "text": "一身"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30500000,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32038330,
+      "duration": 7115410,
+      "text": "疲惫"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43769160,
+      "duration": 5000000,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48961660,
+      "duration": 3845830,
+      "text": "躺"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52807500,
+      "duration": 2115410,
+      "text": "进"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54922910,
+      "duration": 1538330,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56846250,
+      "duration": 3461660,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60500000,
+      "duration": 6730830,
+      "text": "卧室"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 67230830,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 68961660,
+      "duration": 3076660,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 72038330,
+      "duration": 6922910,
+      "text": "木床"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78961660,
+      "duration": 3269160,
+      "text": "里"
+    }
+  ]
+}

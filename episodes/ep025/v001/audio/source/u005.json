@@ -1,0 +1,47 @@
+{
+  "text": "白天的溪水可热闹啦！",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "f440359558ff99239e2a5068c70d5b81a4b99abed66ea72a98dda92d900ae657",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5577080,
+      "text": "白天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8192500,
+      "duration": 7307500,
+      "text": "溪水"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15884580,
+      "duration": 2884580,
+      "text": "可"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18961660,
+      "duration": 6345830,
+      "text": "热闹"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25307500,
+      "duration": 3653750,
+      "text": "啦"
+    }
+  ]
+}

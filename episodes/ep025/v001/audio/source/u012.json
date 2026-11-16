@@ -1,0 +1,89 @@
+{
+  "text": "它顺着水流，在“哗啦啦”的浪花间慢慢地漂了过去。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "77577f88e0cf732dfc6aaf1a4fb2df940709f19f0b1222c2ad1919e3bc10c936",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2307500,
+      "text": "它"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3769160,
+      "duration": 4615410,
+      "text": "顺着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8577080,
+      "duration": 8461660,
+      "text": "水流"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20884580,
+      "duration": 2692500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23769160,
+      "duration": 7307500,
+      "text": "哗啦啦"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31077080,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32807500,
+      "duration": 5961660,
+      "text": "浪花"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38769160,
+      "duration": 5384580,
+      "text": "间"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45692500,
+      "duration": 5769160,
+      "text": "慢慢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51461660,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53192500,
+      "duration": 4230410,
+      "text": "漂"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57422910,
+      "duration": 1538330,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59153750,
+      "duration": 6922910,
+      "text": "过去"
+    }
+  ]
+}

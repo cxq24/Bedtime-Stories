@@ -1,0 +1,71 @@
+{
+  "text": "这时，一片细长的柳叶掉进了溪水里。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "52847071d7451c98944a3b611047a909a159773a57659edf1cd32376206989ca",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 9230830,
+      "text": "这时"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14538330,
+      "duration": 5192500,
+      "text": "一片"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20115410,
+      "duration": 5384580,
+      "text": "细长"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25500000,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27038330,
+      "duration": 8077080,
+      "text": "柳叶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36653750,
+      "duration": 3077080,
+      "text": "掉"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39730830,
+      "duration": 2307500,
+      "text": "进"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42038330,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43577080,
+      "duration": 7500000,
+      "text": "溪水"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51077080,
+      "duration": 3077080,
+      "text": "里"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "text": "清澈的溪水从圆滚滚的鹅卵石旁边跑过去，发出“哗啦啦、叮咚咚”的欢快响声，摸起来凉丝丝的。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "3f58e98797f5242b0de70adbb170fc96e298c3f5d878ce93d311fba0bd2f8873",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6538330,
+      "text": "清澈"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7807500,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9153750,
+      "duration": 8846250,
+      "text": "溪水"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19538330,
+      "duration": 3269160,
+      "text": "从"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23000000,
+      "duration": 8653750,
+      "text": "圆滚滚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31653750,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33577080,
+      "duration": 8077080,
+      "text": "鹅卵石"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41846250,
+      "duration": 5961660,
+      "text": "旁边"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48000000,
+      "duration": 3653750,
+      "text": "跑"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51653750,
+      "duration": 6730830,
+      "text": "过去"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63577080,
+      "duration": 6153750,
+      "text": "发出"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 70115410,
+      "duration": 8653750,
+      "text": "哗啦啦"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 81846250,
+      "duration": 3076660,
+      "text": "叮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 84922910,
+      "duration": 5769160,
+      "text": "咚咚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 91077080,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 92807500,
+      "duration": 5961660,
+      "text": "欢快"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 98961660,
+      "duration": 8077080,
+      "text": "响声"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 110769160,
+      "duration": 2884580,
+      "text": "摸"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 113653750,
+      "duration": 4422910,
+      "text": "起来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 118461660,
+      "duration": 9615410,
+      "text": "凉丝丝"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 128077080,
+      "duration": 3461660,
+      "text": "的"
+    }
+  ]
+}

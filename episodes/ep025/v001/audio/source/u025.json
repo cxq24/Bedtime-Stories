@@ -1,0 +1,95 @@
+{
+  "text": "他竖起长耳朵仔细听了听，屋里没有白天哗啦啦的水声，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "625ba0cf18da8e04c1db512b08ebd6555bfda3c2668301b87e23bc2e2d2b6fdd",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2307500,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3769160,
+      "duration": 5000000,
+      "text": "竖起"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8961660,
+      "duration": 3076660,
+      "text": "长"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12038330,
+      "duration": 7884580,
+      "text": "耳朵"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21461660,
+      "duration": 5961660,
+      "text": "仔细"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27615410,
+      "duration": 2692080,
+      "text": "听"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30307500,
+      "duration": 1730830,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32038330,
+      "duration": 4807500,
+      "text": "听"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42422910,
+      "duration": 4807500,
+      "text": "屋里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47422910,
+      "duration": 3653750,
+      "text": "没有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51269160,
+      "duration": 5769160,
+      "text": "白天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57422910,
+      "duration": 6730830,
+      "text": "哗啦啦"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64153750,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 65692500,
+      "duration": 8077080,
+      "text": "水声"
+    }
+  ]
+}

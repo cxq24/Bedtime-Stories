@@ -1,0 +1,45 @@
+{
+  "episode": "ep025",
+  "version": "v001",
+  "status": "passed",
+  "review_method": "full_32_shot_contact_sheet_visual_review",
+  "contact_sheet": "checks/storyboard_contact.jpg",
+  "shots_reviewed": 32,
+  "text_to_image_alignment": "passed",
+  "character_identity_and_outfits": "passed_for_visible_registered_characters",
+  "emotion_pose_gaze_review": "passed_with_calm_attentive_daytime_expressions_and_natural_sleeping_finale",
+  "fixed_object_continuity": {
+    "LEAF_01": "same single pale green willow leaf; visible from stream entry through downstream stop and later imagined reflection",
+    "REST_ROCK_01": "shoreline warm resting rock remains distinct from midstream boulder",
+    "STREAM_ROCK_01": "same midstream rounded boulder anchors the slowing current",
+    "BEDROOM_01": "same wood room, window, bed, yellow blanket and single orange carrot plush"
+  },
+  "character_location_and_entry_exit": "passed; Pipi leaves creek with Tuantuan before night bedroom; friends do not appear inside bedroom",
+  "causality": "passed; leaf enters upstream, follows current, slows behind boulder, turns and rests by grasses; final imagined shots are clearly unpeopled scenes",
+  "revisions": [
+    {
+      "shot": 17,
+      "reason": "removed unsupported meeting flag; retained Pipi hearing an off-screen whistle"
+    },
+    {
+      "shots": [
+        23,
+        26
+      ],
+      "reason": "made water/leaf comparison images unpeopled, marked as Pipi imagination"
+    },
+    {
+      "shots": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        23
+      ],
+      "reason": "applied one dedicated willow-leaf anchor reference to stabilize LEAF_01"
+    }
+  ],
+  "render_gate": "passed"
+}

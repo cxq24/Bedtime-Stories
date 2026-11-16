@@ -1,0 +1,15 @@
+{
+  "episode": "ep025",
+  "version": "v001",
+  "continuity_preflight": "passed",
+  "review_scope": "all storyboard.draft.json shots before any image generation",
+  "shot_count": 32,
+  "ordered_narration_coverage": true,
+  "locations_and_cast_transitions": "passed",
+  "fixed_prop_anchors": "passed",
+  "causal_state_transitions": "passed",
+  "details": "白天溪流、暖石、溪中大圆石、柳叶、水草分别锁定；皮皮由学堂跟随老师到溪边，随后独自到岸边休息，与团团沿林路回家，再转为夜间卧室。柳叶停在下游水草处后不再移动；卧室镜头与柳叶睡眠均为皮皮想象/记忆表达，未将其当作现实移动。",
+  "images_generated": 32,
+  "image_contact_review": "passed_full_32_shot_contact_sheet",
+  "render_authorized_by_continuity_gate": true
+}

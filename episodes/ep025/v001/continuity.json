@@ -1,0 +1,716 @@
+{
+  "schema_version": 1,
+  "episode": "ep025",
+  "version": "v001",
+  "script_version": "v5",
+  "source_script": "02_100集剧本/用户长稿v5/结构化JSON/ep025.json",
+  "status": "passed_full_32_shot_contact_sheet_review",
+  "assets": {
+    "STREAM_01": {
+      "name": "哗啦啦小溪",
+      "appearance": "同一条森林小溪，清澈浅蓝灰水流，由画面左上游向右下游；水宽、石岸与水草位置在溪边镜头中保持稳定。",
+      "reference": "assets/creek_anchor.png",
+      "first_shot": 5,
+      "last_shot": 30,
+      "positions": "从上游鹅卵石区流经溪中央大圆石，再到其下游的平缓水草岸；室内仅通过窗外远景或想象呈现。"
+    },
+    "PEBBLES_01": {
+      "name": "上游圆润鹅卵石",
+      "appearance": "固定数枚浅灰、奶油白和淡赭色圆润卵石，贴近溪床、不漂移。",
+      "reference": "assets/creek_anchor.png",
+      "first_shot": 6,
+      "last_shot": 12
+    },
+    "REST_ROCK_01": {
+      "name": "皮皮休息的岸边暖石",
+      "appearance": "一块宽扁的浅暖灰色圆石，靠日照侧岸，表面干燥温暖；与溪中央大圆石明确不同。",
+      "reference": "assets/creek_anchor.png",
+      "first_shot": 8,
+      "last_shot": 17
+    },
+    "STREAM_ROCK_01": {
+      "name": "溪中央大圆石",
+      "appearance": "一块较大的圆润灰褐色石头，固定在溪流中段，部分露出水面；下游侧形成遮蔽与缓流。",
+      "reference": "assets/creek_anchor.png",
+      "first_shot": 13,
+      "last_shot": 27
+    },
+    "LEAF_01": {
+      "name": "同一片细长柳叶",
+      "appearance": "单片窄长浅绿色柳叶，尖端略弯，细浅色主叶脉，不带水珠、不变色、不复制。",
+      "reference": "assets/willow_leaf_anchor.png",
+      "first_shot": 11,
+      "last_shot": 28,
+      "states": {
+        "落水": "上游水面",
+        "漂流": "顺左至右水流过浪花",
+        "转弯": "进入STREAM_ROCK_01下游缓流后轻转朝岸",
+        "停靠": "停在同一岸边水草旁，不再往前",
+        "夜间": "只有想象图会表现其安静休息，现实位置仍不变"
+      }
+    },
+    "BANK_GRASS_01": {
+      "name": "下游岸边同一簇水草",
+      "appearance": "小簇柔和绿色细叶水草，固定在大圆石下游的平缓岸边，柳叶轻靠其外侧。",
+      "reference": "assets/creek_anchor.png",
+      "first_shot": 15,
+      "last_shot": 28
+    },
+    "BEDROOM_01": {
+      "name": "皮皮卧室",
+      "appearance": "木质温暖的卧室，单扇浅棕色四格小窗位于画面后墙偏上，窗外是遥远的蓝灰森林；床靠墙固定，不显示近处小溪。",
+      "reference": "assets/bedroom_anchor.png",
+      "first_shot": 19,
+      "last_shot": 30
+    },
+    "BED_01": {
+      "name": "同一张小木床",
+      "appearance": "浅蜂蜜色木制单人儿童床，圆润低矮床头与浅奶油枕头，始终在卧室同一位置。",
+      "reference": "assets/bedroom_anchor.png",
+      "first_shot": 19,
+      "last_shot": 30
+    },
+    "BLANKET_01": {
+      "name": "暖黄色毛毯",
+      "appearance": "同一条柔软暖黄色毛毯，纯色细布纹，无图案、无变形；夜间始终覆盖皮皮身体。",
+      "reference": "assets/bedroom_anchor.png",
+      "first_shot": 19,
+      "last_shot": 30,
+      "states": {
+        "入睡": "平整铺在身上",
+        "安睡": "保持覆盖身体，不变成草地或溪水"
+      }
+    },
+    "CARROT_01": {
+      "name": "橙色胡萝卜玩偶",
+      "appearance": "唯一一只柔软橙色胡萝卜布偶，圆润短胖、顶部深绿色布叶，简洁无脸或仅极简绣线；整集形状、叶片一致。",
+      "reference": "assets/bedroom_anchor.png",
+      "first_shot": 22,
+      "last_shot": 30,
+      "states": {
+        "开始": "皮皮抱近玩偶",
+        "结束": "同一玩偶留在皮皮怀中"
+      }
+    },
+    "PIPI_OUTFIT_DAY": {
+      "name": "皮皮日间野营服",
+      "appearance": "灰蓝短背带裤、米色上衣、蓝布鞋、小黄书包；不戴星星睡帽。",
+      "reference": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+      "first_shot": 0,
+      "last_shot": 18
+    },
+    "PIPI_OUTFIT_SLEEP": {
+      "name": "皮皮睡衣状态",
+      "appearance": "卧室内佩戴深蓝星星睡帽和黄色帽球，不穿野营背带裤、鞋或书包。",
+      "reference": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "first_shot": 19,
+      "last_shot": 30
+    }
+  },
+  "shots": [
+    {
+      "shot_id": 0,
+      "setting": "opening_preview；独立讲述构图",
+      "characters_present": [
+        "pipi"
+      ],
+      "characters_entering": [],
+      "characters_leaving": [],
+      "continuity_refs": [],
+      "state_before": "现实片头；不提前呈现柳叶状态。",
+      "action": "皮皮在柔和溪边背景前向观众轻抬一只爪，眉眼舒展、眼神明亮，带自然微笑邀请听故事。",
+      "state_after": "现实片头；不提前呈现柳叶状态。",
+      "transition_from": null
+    },
+    {
+      "shot_id": 1,
+      "setting": "opening_preview；独立讲述构图",
+      "characters_present": [
+        "pipi"
+      ],
+      "characters_entering": [],
+      "characters_leaving": [],
+      "continuity_refs": [],
+      "state_before": "承接前一镜最终状态；片头构图独立，正文另从森林学堂出发。",
+      "action": "皮皮侧身望向一条远处安静弯曲的小溪，露出好奇的神情；背景与正片溪流布局不同，作为专属片头插画。",
+      "state_after": "片头构图独立，正文另从森林学堂出发。",
+      "transition_from": 0
+    },
+    {
+      "shot_id": 2,
+      "setting": "opening_preview；独立讲述构图",
+      "characters_present": [
+        "pipi"
+      ],
+      "characters_entering": [],
+      "characters_leaving": [],
+      "continuity_refs": [],
+      "state_before": "承接前一镜最终状态；独立片头仍未进入正文时序。",
+      "action": "远处溪水轻快越过石头，前景皮皮好奇地侧耳倾听，神情期待；只作故事引子，不展示后续柳叶。",
+      "state_after": "独立片头仍未进入正文时序。",
+      "transition_from": 1
+    },
+    {
+      "shot_id": 3,
+      "setting": "day outing；森林学堂外的清晨小路",
+      "characters_present": [
+        "pipi"
+      ],
+      "characters_entering": [],
+      "characters_leaving": [],
+      "continuity_refs": [],
+      "state_before": "承接前一镜最终状态；日间野营开始，皮皮从学堂出发。",
+      "action": "皮皮背着小黄书包站在学堂门口，回望出发的伙伴队伍；表情期待、耳朵自然抬起。",
+      "state_after": "日间野营开始，皮皮从学堂出发。",
+      "transition_from": 2
+    },
+    {
+      "shot_id": 4,
+      "setting": "day outing；通往森林溪边的林间小路",
+      "characters_present": [
+        "pipi",
+        "goat_teacher"
+      ],
+      "characters_entering": [],
+      "characters_leaving": [],
+      "continuity_refs": [],
+      "state_before": "承接前一镜最终状态；全班活动由学堂转到小溪；只画有身份参考的主要角色，不增添辨识性背景角色。",
+      "action": "皮皮与团团、绒绒跟着山羊老师沿小路走向森林深处；大家轻松开心，老师温和带队。",
+      "state_after": "全班活动由学堂转到小溪；只画有身份参考的主要角色，不增添辨识性背景角色。",
+      "transition_from": 3
+    },
+    {
+      "shot_id": 5,
+      "setting": "creek_day；哗啦啦小溪上游",
+      "characters_present": [
+        "pipi"
+      ],
+      "characters_entering": [],
+      "characters_leaving": [],
+      "continuity_refs": [
+        "STREAM_01"
+      ],
+      "state_before": "承接前一镜最终状态；首次进入固定溪流场景。",
+      "action": "皮皮站在岸边看见阳光下的清澈溪水，神情兴奋、嘴角微扬。",
+      "state_after": "首次进入固定溪流场景。",
+      "transition_from": 4
+    },
+    {
+      "shot_id": 6,
+      "setting": "creek_day；哗啦啦小溪上游",
+      "characters_present": [
+        "pipi"
+      ],
+      "characters_entering": [],
+      "characters_leaving": [],
+      "continuity_refs": [
+        "STREAM_01",
+        "PEBBLES_01"
+      ],
+      "state_before": "承接前一镜最终状态；水流由左向右经过鹅卵石，保持溪流方向与石头布局。",
+      "action": "近景展示同一溪流从圆润鹅卵石间流过；皮皮蹲下用爪尖轻触水面，微笑感受清凉。",
+      "state_after": "水流由左向右经过鹅卵石，保持溪流方向与石头布局。",
+      "transition_from": 5
+    },
+    {
+      "shot_id": 7,
+      "setting": "creek_shallows；小溪浅水滩",
+      "characters_present": [
+        "tuantuan",
+        "rongrong"
+      ],
+      "characters_entering": [],
+      "characters_leaving": [],
+      "continuity_refs": [
+        "STREAM_01"
+      ],
+      "state_before": "承接前一镜最终状态；角色均在同一浅滩，柳叶尚未出现。",
+      "action": "团团与绒绒在浅滩边轮流打水漂，石片贴水跳跃，二人兴奋欢呼、眼神跟随石片。",
+      "state_after": "角色均在同一浅滩，柳叶尚未出现。",
+      "transition_from": 6
+    },
+    {
+      "shot_id": 8,
+      "setting": "creek_shallows；小溪岸边",
+      "characters_present": [
+        "pipi"
+      ],
+      "characters_entering": [],
+      "characters_leaving": [],
+      "continuity_refs": [
+        "STREAM_01",
+        "REST_ROCK_01"
+      ],
+      "state_before": "承接前一镜最终状态；皮皮离开朋友所在浅滩，走向岸边暖石。",
+      "action": "皮皮从水边慢慢走向岸边，肩膀放松，神情稍累但平静，目光寻找休息处。",
+      "state_after": "皮皮离开朋友所在浅滩，走向岸边暖石。",
+      "transition_from": 7
+    },
+    {
+      "shot_id": 9,
+      "setting": "creek_bank；靠岸晒暖的大石旁",
+      "characters_present": [
+        "pipi"
+      ],
+      "characters_entering": [],
+      "characters_leaving": [],
+      "continuity_refs": [
+        "REST_ROCK_01",
+        "STREAM_01"
+      ],
+      "state_before": "承接前一镜最终状态；皮皮坐上REST_ROCK_01；其他朋友在画外的浅滩，不跟随到岸边。",
+      "action": "皮皮独自坐在岸边同一块扁圆暖石上，小爪放在膝头，目光安静落在水面，表情舒缓。",
+      "state_after": "皮皮坐上REST_ROCK_01；其他朋友在画外的浅滩，不跟随到岸边。",
+      "transition_from": 8
+    },
+    {
+      "shot_id": 10,
+      "setting": "creek_bank；靠岸晒暖的大石旁",
+      "characters_present": [
+        "pipi"
+      ],
+      "characters_entering": [],
+      "characters_leaving": [],
+      "continuity_refs": [
+        "REST_ROCK_01",
+        "STREAM_01"
+      ],
+      "state_before": "承接前一镜最终状态；承接皮皮坐在同一REST_ROCK_01，柳叶尚未落水。",
+      "action": "皮皮保持坐姿，安静凝望水面，眉眼柔和、没有悲伤或困倦表情。",
+      "state_after": "承接皮皮坐在同一REST_ROCK_01，柳叶尚未落水。",
+      "transition_from": 9
+    },
+    {
+      "shot_id": 11,
+      "setting": "creek_upstream；上游水面与石岸",
+      "characters_present": [
+        "pipi"
+      ],
+      "characters_entering": [],
+      "characters_leaving": [],
+      "continuity_refs": [
+        "LEAF_01",
+        "STREAM_01",
+        "REST_ROCK_01"
+      ],
+      "state_before": "承接前一镜最终状态；LEAF_01刚落水，位于水流上游；皮皮仍坐在REST_ROCK_01。",
+      "action": "一片细长柳叶从岸边枝头落入溪水；皮皮坐在远处同一暖石上注意到它。",
+      "state_after": "LEAF_01刚落水，位于水流上游；皮皮仍坐在REST_ROCK_01。",
+      "transition_from": 10
+    },
+    {
+      "shot_id": 12,
+      "setting": "creek_upstream；溪水流经浅色鹅卵石的上游",
+      "characters_present": [
+        "pipi"
+      ],
+      "characters_entering": [],
+      "characters_leaving": [],
+      "continuity_refs": [
+        "LEAF_01",
+        "STREAM_01"
+      ],
+      "state_before": "承接前一镜最终状态；LEAF_01仍在上游移动，外形与朝向固定；不复制柳叶。",
+      "action": "同一片细长柳叶顺着左向右水流缓缓漂过小浪花；皮皮在远处以目光追随。",
+      "state_after": "LEAF_01仍在上游移动，外形与朝向固定；不复制柳叶。",
+      "transition_from": 11
+    },
+    {
+      "shot_id": 13,
+      "setting": "creek_midstream；皮皮所在岸边与中游",
+      "characters_present": [
+        "pipi"
+      ],
+      "characters_entering": [],
+      "characters_leaving": [],
+      "continuity_refs": [
+        "LEAF_01",
+        "REST_ROCK_01",
+        "STREAM_ROCK_01"
+      ],
+      "state_before": "承接前一镜最终状态；皮皮不离开REST_ROCK_01；LEAF_01顺流向溪中央大圆石接近。",
+      "action": "皮皮仍坐在暖石上，身体不动，温柔专注地用视线追随画面中的唯一柳叶。",
+      "state_after": "皮皮不离开REST_ROCK_01；LEAF_01顺流向溪中央大圆石接近。",
+      "transition_from": 12
+    },
+    {
+      "shot_id": 14,
+      "setting": "creek_midstream；溪中央固定的大圆石处",
+      "characters_present": [
+        "pipi"
+      ],
+      "characters_entering": [],
+      "characters_leaving": [],
+      "continuity_refs": [
+        "LEAF_01",
+        "STREAM_ROCK_01",
+        "STREAM_01"
+      ],
+      "state_before": "承接前一镜最终状态；LEAF_01来到STREAM_ROCK_01上游，尚未停靠。",
+      "action": "柳叶漂近溪中央同一块大圆石，皮皮远处注视；构图明确石头位于水流中央。",
+      "state_after": "LEAF_01来到STREAM_ROCK_01上游，尚未停靠。",
+      "transition_from": 13
+    },
+    {
+      "shot_id": 15,
+      "setting": "creek_shelter；大圆石下游的平静水湾",
+      "characters_present": [
+        "pipi"
+      ],
+      "characters_entering": [],
+      "characters_leaving": [],
+      "continuity_refs": [
+        "LEAF_01",
+        "STREAM_ROCK_01",
+        "STREAM_01"
+      ],
+      "state_before": "承接前一镜最终状态；STREAM_ROCK_01遮挡后水流变慢，LEAF_01转向岸边水草。",
+      "action": "同一柳叶从溪中央大圆石后进入缓流，轻轻转一个小弯；皮皮在岸边远处注视。",
+      "state_after": "STREAM_ROCK_01遮挡后水流变慢，LEAF_01转向岸边水草。",
+      "transition_from": 14
+    },
+    {
+      "shot_id": 16,
+      "setting": "creek_shelter；大圆石后方平缓岸边",
+      "characters_present": [
+        "pipi"
+      ],
+      "characters_entering": [],
+      "characters_leaving": [],
+      "continuity_refs": [
+        "LEAF_01",
+        "STREAM_ROCK_01",
+        "BANK_GRASS_01"
+      ],
+      "state_before": "承接前一镜最终状态；LEAF_01停在固定水草旁，不再前进，供后续想象镜头引用。",
+      "action": "同一柳叶轻靠固定岸边水草，水面平静；远处皮皮坐在暖石上，神情安然。",
+      "state_after": "LEAF_01停在固定水草旁，不再前进，供后续想象镜头引用。",
+      "transition_from": 15
+    },
+    {
+      "shot_id": 17,
+      "setting": "creek_bank；小溪岸边",
+      "characters_present": [
+        "pipi"
+      ],
+      "characters_entering": [],
+      "characters_leaving": [],
+      "continuity_refs": [
+        "LEAF_01",
+        "REST_ROCK_01"
+      ],
+      "state_before": "承接前一镜最终状态；活动结束；LEAF_01仍留在水草边，皮皮仍在REST_ROCK_01旁。",
+      "action": "皮皮独自在岸边暖石旁听见画外集合哨声，转头朝森林小路方向，轻轻准备起身；不出现旗帜、标牌、哨子或视觉化声音符号。",
+      "state_after": "活动结束；LEAF_01仍留在水草边，皮皮仍在REST_ROCK_01旁。",
+      "transition_from": 16
+    },
+    {
+      "shot_id": 18,
+      "setting": "forest_path；离开小溪的森林小路",
+      "characters_present": [
+        "pipi",
+        "tuantuan"
+      ],
+      "characters_entering": [],
+      "characters_leaving": [],
+      "continuity_refs": [
+        "LEAF_01",
+        "STREAM_01"
+      ],
+      "state_before": "承接前一镜最终状态；皮皮离开溪边，与团团回家；溪流与柳叶留在原处。",
+      "action": "皮皮站起拍掉裤子草屑后，与团团并肩牵手沿森林小路离开，背后溪林渐远；神情平和。",
+      "state_after": "皮皮离开溪边，与团团回家；溪流与柳叶留在原处。",
+      "transition_from": 17
+    },
+    {
+      "shot_id": 19,
+      "setting": "bedroom_night；皮皮卧室的小木床",
+      "characters_present": [
+        "pipi"
+      ],
+      "characters_entering": [],
+      "characters_leaving": [],
+      "continuity_refs": [
+        "BEDROOM_01",
+        "BED_01",
+        "BLANKET_01",
+        "CARROT_01"
+      ],
+      "state_before": "承接前一镜最终状态；时间从日间转到夜晚；室内固定床、窗、毛毯与胡萝卜玩偶。",
+      "action": "夜晚洗漱后，皮皮安稳躺入自己的小木床，室内暖灯柔和，表情放松。",
+      "state_after": "时间从日间转到夜晚；室内固定床、窗、毛毯与胡萝卜玩偶。",
+      "transition_from": 18
+    },
+    {
+      "shot_id": 20,
+      "setting": "bedroom_night；卧室窗边与小木床",
+      "characters_present": [
+        "pipi"
+      ],
+      "characters_entering": [],
+      "characters_leaving": [],
+      "continuity_refs": [
+        "BEDROOM_01",
+        "STREAM_01",
+        "BED_01"
+      ],
+      "state_before": "承接前一镜最终状态；溪流远在森林中；不得把溪水画到窗外近处或卧室内。",
+      "action": "从床侧望向远处森林深处的窗外，溪水只以很远的微弱银蓝曲线暗示；皮皮在床上望窗，房间安静。",
+      "state_after": "溪流远在森林中；不得把溪水画到窗外近处或卧室内。",
+      "transition_from": 19
+    },
+    {
+      "shot_id": 21,
+      "setting": "bedroom_night；床铺近景",
+      "characters_present": [
+        "pipi"
+      ],
+      "characters_entering": [],
+      "characters_leaving": [],
+      "continuity_refs": [
+        "BEDROOM_01",
+        "BED_01",
+        "BLANKET_01"
+      ],
+      "state_before": "承接前一镜最终状态；BLANKET_01在皮皮身上，床位与窗景布局保持固定。",
+      "action": "暖黄色毛毯完整铺在皮皮身上，皮皮舒适地躺在同一枕头上，神情安稳。",
+      "state_after": "BLANKET_01在皮皮身上，床位与窗景布局保持固定。",
+      "transition_from": 20
+    },
+    {
+      "shot_id": 22,
+      "setting": "bedroom_night；卧室床铺",
+      "characters_present": [
+        "pipi"
+      ],
+      "characters_entering": [],
+      "characters_leaving": [],
+      "continuity_refs": [
+        "BEDROOM_01",
+        "BED_01",
+        "BLANKET_01",
+        "CARROT_01"
+      ],
+      "state_before": "承接前一镜最终状态；CARROT_01从床边被皮皮抱近；毛毯仍覆盖身体。",
+      "action": "皮皮把唯一的橙色胡萝卜玩偶抱近胸前，闭眼开始想象；表情轻松，耳朵自然垂落。",
+      "state_after": "CARROT_01从床边被皮皮抱近；毛毯仍覆盖身体。",
+      "transition_from": 21
+    },
+    {
+      "shot_id": 23,
+      "setting": "imagined_calm_cove；想象中的安静水湾；非现实梦境画面",
+      "characters_present": [],
+      "characters_entering": [],
+      "characters_leaving": [],
+      "continuity_refs": [
+        "LEAF_01",
+        "STREAM_ROCK_01",
+        "BANK_GRASS_01"
+      ],
+      "state_before": "承接前一镜最终状态；明确为皮皮脑海想象，不表示柳叶在现实中睡眠或场景移动。",
+      "action": "纯景别：同一片细长柳叶停在原来大圆石后方水草旁的静谧水湾，水面柔和安静；以淡淡柔光表现皮皮的想象，不出现任何角色。",
+      "state_after": "明确为皮皮脑海想象，不表示柳叶在现实中睡眠或场景移动。",
+      "transition_from": 22
+    },
+    {
+      "shot_id": 24,
+      "setting": "bedroom_night；卧室床铺近景",
+      "characters_present": [
+        "pipi"
+      ],
+      "characters_entering": [],
+      "characters_leaving": [],
+      "continuity_refs": [
+        "BEDROOM_01",
+        "BED_01",
+        "BLANKET_01",
+        "CARROT_01"
+      ],
+      "state_before": "承接前一镜最终状态；回到现实卧室，皮皮仍抱着CARROT_01，毛毯和房间位置不变。",
+      "action": "皮皮轻轻竖起长耳朵仔细听，眼神专注、面容宁静；屋中没有水声或伙伴。",
+      "state_after": "回到现实卧室，皮皮仍抱着CARROT_01，毛毯和房间位置不变。",
+      "transition_from": 23
+    },
+    {
+      "shot_id": 25,
+      "setting": "bedroom_night；卧室侧面近景",
+      "characters_present": [
+        "pipi"
+      ],
+      "characters_entering": [],
+      "characters_leaving": [],
+      "continuity_refs": [
+        "BEDROOM_01",
+        "BED_01",
+        "CARROT_01"
+      ],
+      "state_before": "承接前一镜最终状态；没有朋友入镜或欢呼声；睡前动作延续。",
+      "action": "侧面安静构图，皮皮闭眼缓慢呼吸，耳朵略放松，玩偶留在怀里，周围留出静谧空白。",
+      "state_after": "没有朋友入镜或欢呼声；睡前动作延续。",
+      "transition_from": 24
+    },
+    {
+      "shot_id": 26,
+      "setting": "imagined_calm_cove；柔和的内心联想画面",
+      "characters_present": [],
+      "characters_entering": [],
+      "characters_leaving": [],
+      "continuity_refs": [
+        "STREAM_01",
+        "STREAM_ROCK_01",
+        "LEAF_01"
+      ],
+      "state_before": "承接前一镜最终状态；想象重现溪流声变轻的物理过程，不改变LEAF_01位置。",
+      "action": "纯溪流意象：清澈溪水经过同一块溪中央大圆石后变缓，平静水面反光柔和；不出现任何角色、床铺或屋内元素。",
+      "state_after": "想象重现溪流声变轻的物理过程，不改变LEAF_01位置。",
+      "transition_from": 25
+    },
+    {
+      "shot_id": 27,
+      "setting": "bedroom_night；卧室与窗外远林",
+      "characters_present": [
+        "pipi"
+      ],
+      "characters_entering": [],
+      "characters_leaving": [],
+      "continuity_refs": [
+        "BEDROOM_01",
+        "BED_01",
+        "CARROT_01"
+      ],
+      "state_before": "承接前一镜最终状态；仅记忆意象淡出；现实地点仍在卧室，无人物瞬移。",
+      "action": "皮皮怀抱玩偶安静躺着，窗外林间白日的淡淡水光意象渐隐，身体姿态放松，情绪由兴奋回归平静。",
+      "state_after": "仅记忆意象淡出；现实地点仍在卧室，无人物瞬移。",
+      "transition_from": 26
+    },
+    {
+      "shot_id": 28,
+      "setting": "bedroom_night；皮皮脸部和枕头近景",
+      "characters_present": [
+        "pipi"
+      ],
+      "characters_entering": [],
+      "characters_leaving": [],
+      "continuity_refs": [
+        "BEDROOM_01",
+        "BED_01",
+        "CARROT_01",
+        "LEAF_01"
+      ],
+      "state_before": "承接前一镜最终状态；完成入睡动作；柳叶仍在想象中的靠岸状态。",
+      "action": "皮皮的眼皮自然轻轻合拢，表情安详但不夸张，耳朵柔软落在枕边，抱着唯一玩偶。",
+      "state_after": "完成入睡动作；柳叶仍在想象中的靠岸状态。",
+      "transition_from": 27
+    },
+    {
+      "shot_id": 29,
+      "setting": "bedroom_night；小木床与窗景",
+      "characters_present": [
+        "pipi"
+      ],
+      "characters_entering": [],
+      "characters_leaving": [],
+      "continuity_refs": [
+        "BEDROOM_01",
+        "BED_01",
+        "BLANKET_01",
+        "CARROT_01"
+      ],
+      "state_before": "承接前一镜最终状态；记忆图像是回想叠映，不是朋友进入房间；现实场景持续为卧室。",
+      "action": "皮皮安睡在温暖小床，淡淡叠映白日溪边游戏与柳叶停靠的记忆作为柔和回想，不出现其他角色的实体。",
+      "state_after": "记忆图像是回想叠映，不是朋友进入房间；现实场景持续为卧室。",
+      "transition_from": 28
+    },
+    {
+      "shot_id": 30,
+      "setting": "bedroom_night；安静卧室",
+      "characters_present": [
+        "pipi"
+      ],
+      "characters_entering": [],
+      "characters_leaving": [],
+      "continuity_refs": [
+        "BEDROOM_01",
+        "BED_01",
+        "BLANKET_01",
+        "CARROT_01",
+        "STREAM_01"
+      ],
+      "state_before": "承接前一镜最终状态；延续皮皮睡着、玩偶在怀、溪水远在森林的最终状态。",
+      "action": "稳定宽松的夜间卧室景别，皮皮安睡在暖黄毛毯下，窗外远林安静；留足低细节字幕区。",
+      "state_after": "延续皮皮睡着、玩偶在怀、溪水远在森林的最终状态。",
+      "transition_from": 29
+    },
+    {
+      "shot_id": 31,
+      "setting": "bedroom_night；枕边近景",
+      "characters_present": [
+        "pipi"
+      ],
+      "characters_entering": [],
+      "characters_leaving": [],
+      "continuity_refs": [
+        "BEDROOM_01",
+        "BED_01",
+        "BLANKET_01",
+        "CARROT_01"
+      ],
+      "state_before": "承接前一镜最终状态；尾声继续保持最终安睡状态，无新动作。",
+      "action": "皮皮熟睡，眉眼完全放松、均匀呼吸，画面安静留白。",
+      "state_after": "尾声继续保持最终安睡状态，无新动作。",
+      "transition_from": 30
+    }
+  ],
+  "text_review": {
+    "reviewed_shot_order": true,
+    "location_and_entry_exit_logic": "passed",
+    "fixed_object_identity_and_position": "passed",
+    "action_causality": "passed",
+    "notes": "白天溪流、暖石、溪中大圆石、柳叶、水草分别锁定；皮皮由学堂跟随老师到溪边，随后独自到岸边休息，与团团沿林路回家，再转为夜间卧室。柳叶停在下游水草处后不再移动；卧室镜头与柳叶睡眠均为皮皮想象/记忆表达，未将其当作现实移动。"
+  },
+  "image_review": {
+    "episode": "ep025",
+    "version": "v001",
+    "status": "passed",
+    "review_method": "full_32_shot_contact_sheet_visual_review",
+    "contact_sheet": "checks/storyboard_contact.jpg",
+    "shots_reviewed": 32,
+    "text_to_image_alignment": "passed",
+    "character_identity_and_outfits": "passed_for_visible_registered_characters",
+    "emotion_pose_gaze_review": "passed_with_calm_attentive_daytime_expressions_and_natural_sleeping_finale",
+    "fixed_object_continuity": {
+      "LEAF_01": "same single pale green willow leaf; visible from stream entry through downstream stop and later imagined reflection",
+      "REST_ROCK_01": "shoreline warm resting rock remains distinct from midstream boulder",
+      "STREAM_ROCK_01": "same midstream rounded boulder anchors the slowing current",
+      "BEDROOM_01": "same wood room, window, bed, yellow blanket and single orange carrot plush"
+    },
+    "character_location_and_entry_exit": "passed; Pipi leaves creek with Tuantuan before night bedroom; friends do not appear inside bedroom",
+    "causality": "passed; leaf enters upstream, follows current, slows behind boulder, turns and rests by grasses; final imagined shots are clearly unpeopled scenes",
+    "revisions": [
+      {
+        "shot": 17,
+        "reason": "removed unsupported meeting flag; retained Pipi hearing an off-screen whistle"
+      },
+      {
+        "shots": [
+          23,
+          26
+        ],
+        "reason": "made water/leaf comparison images unpeopled, marked as Pipi imagination"
+      },
+      {
+        "shots": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          23
+        ],
+        "reason": "applied one dedicated willow-leaf anchor reference to stabilize LEAF_01"
+      }
+    ],
+    "render_gate": "passed"
+  }
+}

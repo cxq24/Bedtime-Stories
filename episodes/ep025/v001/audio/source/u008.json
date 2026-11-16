@@ -1,0 +1,71 @@
+{
+  "text": "皮皮玩了一会儿水后，觉得有点累了，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "a2d612cb58e56da7d5cbf2f0cc9b5806be0b946aeffc51f7d0c9391d28e98872",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5192500,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 2884580,
+      "text": "玩"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9730830,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11269160,
+      "duration": 3846250,
+      "text": "一会儿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15307500,
+      "duration": 3846250,
+      "text": "水"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19153750,
+      "duration": 5000000,
+      "text": "后"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27038330,
+      "duration": 3846250,
+      "text": "觉得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31269160,
+      "duration": 5000000,
+      "text": "有点"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36461660,
+      "duration": 4230830,
+      "text": "累"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40692500,
+      "duration": 3077080,
+      "text": "了"
+    }
+  ]
+}

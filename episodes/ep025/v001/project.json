@@ -1,0 +1,1448 @@
+{
+  "episode": "ep025",
+  "duration_s": 254.4,
+  "fps": 25,
+  "frames": 6360,
+  "preview": false,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "shot_count": 32,
+  "crossfade_s": 0.96,
+  "curve": "linear",
+  "within_shot_motion": "none",
+  "subtitles_after_picture_transitions": true,
+  "clean": "/workspace/Bedtime-Stories/work/ep025-render-corrected/ep025_clean.mp4",
+  "publish": "/workspace/Bedtime-Stories/work/ep025-render-corrected/ep025.mp4",
+  "delivery_directory": "/workspace/Bedtime-Stories/work/ep025-render-corrected",
+  "shots": [
+    {
+      "id": 0,
+      "title": "片头问候",
+      "text": "小朋友们，准备好听故事了吗？",
+      "source_ranges": [
+        {
+          "unit_id": "u000",
+          "paragraph_id": "p000",
+          "start_char": 0,
+          "end_char": 14
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "opening_preview；独立讲述构图",
+      "action": "皮皮在柔和溪边背景前向观众轻抬一只爪，眉眼舒展、眼神明亮，带自然微笑邀请听故事。",
+      "reality": "opening_preview",
+      "motion": "fixed",
+      "opening": true,
+      "image": "images/shot_00.png",
+      "reference_manifest": "references/shot_00.json",
+      "image_status": "generated",
+      "visual_constraints": "保持角色身份一致；表情、目光、耳姿与身体动作贴合本镜具体旁白，温和自然，不复制参考图的默认表情；水彩竖屏9:16；无字无水印；重要脸部和动作避开字幕区。",
+      "transition_from": null,
+      "continuity_refs": [],
+      "state_before": "现实片头；不提前呈现柳叶状态。",
+      "state_after": "现实片头；不提前呈现柳叶状态。",
+      "environment_reference": "assets/creek_anchor.png",
+      "speech_start_s": 1.0,
+      "speech_end_s": 4.6634364999999995,
+      "actual_start_s": 0.0,
+      "actual_end_s": 5.04,
+      "visible_start_s": 0.0,
+      "visible_end_s": 5.52,
+      "visible_duration_s": 5.52
+    },
+    {
+      "id": 1,
+      "title": "故事题目",
+      "text": "今天的故事叫《小溪把声音放轻》。",
+      "source_ranges": [
+        {
+          "unit_id": "u001",
+          "paragraph_id": "p000",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "opening_preview；独立讲述构图",
+      "action": "皮皮侧身望向一条远处安静弯曲的小溪，露出好奇的神情；背景与正片溪流布局不同，作为专属片头插画。",
+      "reality": "opening_preview",
+      "motion": "fixed",
+      "opening": true,
+      "image": "images/shot_01.png",
+      "reference_manifest": "references/shot_01.json",
+      "image_status": "generated",
+      "visual_constraints": "保持角色身份一致；表情、目光、耳姿与身体动作贴合本镜具体旁白，温和自然，不复制参考图的默认表情；水彩竖屏9:16；无字无水印；重要脸部和动作避开字幕区。",
+      "transition_from": 0,
+      "continuity_refs": [],
+      "state_before": "承接前一镜最终状态；片头构图独立，正文另从森林学堂出发。",
+      "state_after": "片头构图独立，正文另从森林学堂出发。",
+      "environment_reference": "assets/creek_anchor.png",
+      "speech_start_s": 5.395125,
+      "speech_end_s": 9.440375,
+      "actual_start_s": 5.04,
+      "actual_end_s": 9.8,
+      "visible_start_s": 4.5600000000000005,
+      "visible_end_s": 10.280000000000001,
+      "visible_duration_s": 5.72
+    },
+    {
+      "id": 2,
+      "title": "热闹的小溪预告",
+      "text": "热闹的小溪边，到了休息的时候，水声会怎样变轻呢？",
+      "source_ranges": [
+        {
+          "unit_id": "u002",
+          "paragraph_id": "p000",
+          "start_char": 0,
+          "end_char": 24
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "opening_preview；独立讲述构图",
+      "action": "远处溪水轻快越过石头，前景皮皮好奇地侧耳倾听，神情期待；只作故事引子，不展示后续柳叶。",
+      "reality": "opening_preview",
+      "motion": "fixed",
+      "opening": true,
+      "image": "images/shot_02.png",
+      "reference_manifest": "references/shot_02.json",
+      "image_status": "generated",
+      "visual_constraints": "保持角色身份一致；表情、目光、耳姿与身体动作贴合本镜具体旁白，温和自然，不复制参考图的默认表情；水彩竖屏9:16；无字无水印；重要脸部和动作避开字幕区。",
+      "transition_from": 1,
+      "continuity_refs": [],
+      "state_before": "承接前一镜最终状态；独立片头仍未进入正文时序。",
+      "state_after": "独立片头仍未进入正文时序。",
+      "environment_reference": "assets/creek_anchor.png",
+      "speech_start_s": 10.199541666666667,
+      "speech_end_s": 16.971249333333333,
+      "actual_start_s": 9.8,
+      "actual_end_s": 17.32,
+      "visible_start_s": 9.32,
+      "visible_end_s": 17.8,
+      "visible_duration_s": 8.48
+    },
+    {
+      "id": 3,
+      "title": "特别的一天",
+      "text": "今天对于皮皮来说，是个特别难忘的日子——森林学堂的全体小朋友，",
+      "source_ranges": [
+        {
+          "unit_id": "u003",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 31
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "day outing；森林学堂外的清晨小路",
+      "action": "皮皮背着小黄书包站在学堂门口，回望出发的伙伴队伍；表情期待、耳朵自然抬起。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_03.png",
+      "reference_manifest": "references/shot_03.json",
+      "image_status": "generated",
+      "visual_constraints": "保持角色身份一致；表情、目光、耳姿与身体动作贴合本镜具体旁白，温和自然，不复制参考图的默认表情；水彩竖屏9:16；无字无水印；重要脸部和动作避开字幕区。",
+      "transition_from": 2,
+      "continuity_refs": [],
+      "state_before": "承接前一镜最终状态；日间野营开始，皮皮从学堂出发。",
+      "state_after": "日间野营开始，皮皮从学堂出发。",
+      "environment_reference": "assets/creek_anchor.png",
+      "speech_start_s": 17.69954166666667,
+      "speech_end_s": 26.228186833333336,
+      "actual_start_s": 17.32,
+      "actual_end_s": 26.48,
+      "visible_start_s": 16.84,
+      "visible_end_s": 26.96,
+      "visible_duration_s": 10.12
+    },
+    {
+      "id": 4,
+      "title": "跟随山羊老师出发",
+      "text": "跟着山羊老师去了森林深处的“哗啦啦小溪”，进行了一次开心的小小日间野营。",
+      "source_ranges": [
+        {
+          "unit_id": "u004",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 36
+        }
+      ],
+      "characters": [
+        "pipi",
+        "goat_teacher"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "goat_teacher": "default_v001"
+      },
+      "setting": "day outing；通往森林溪边的林间小路",
+      "action": "皮皮与团团、绒绒跟着山羊老师沿小路走向森林深处；大家轻松开心，老师温和带队。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_04.png",
+      "reference_manifest": "references/shot_04.json",
+      "image_status": "generated",
+      "visual_constraints": "保持角色身份一致；表情、目光、耳姿与身体动作贴合本镜具体旁白，温和自然，不复制参考图的默认表情；水彩竖屏9:16；无字无水印；重要脸部和动作避开字幕区。",
+      "transition_from": 3,
+      "continuity_refs": [],
+      "state_before": "承接前一镜最终状态；全班活动由学堂转到小溪；只画有身份参考的主要角色，不增添辨识性背景角色。",
+      "state_after": "全班活动由学堂转到小溪；只画有身份参考的主要角色，不增添辨识性背景角色。",
+      "environment_reference": "assets/creek_anchor.png",
+      "speech_start_s": 26.699687500000003,
+      "speech_end_s": 36.288436833333336,
+      "actual_start_s": 26.48,
+      "actual_end_s": 36.68,
+      "visible_start_s": 26.0,
+      "visible_end_s": 37.16,
+      "visible_duration_s": 11.16
+    },
+    {
+      "id": 5,
+      "title": "白天的溪水",
+      "text": "白天的溪水可热闹啦！",
+      "source_ranges": [
+        {
+          "unit_id": "u005",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 10
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "creek_day；哗啦啦小溪上游",
+      "action": "皮皮站在岸边看见阳光下的清澈溪水，神情兴奋、嘴角微扬。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_05.png",
+      "reference_manifest": "references/shot_05.json",
+      "image_status": "generated",
+      "visual_constraints": "保持角色身份一致；表情、目光、耳姿与身体动作贴合本镜具体旁白，温和自然，不复制参考图的默认表情；水彩竖屏9:16；无字无水印；重要脸部和动作避开字幕区。",
+      "transition_from": 4,
+      "continuity_refs": [
+        "STREAM_01"
+      ],
+      "state_before": "承接前一镜最终状态；首次进入固定溪流场景。",
+      "state_after": "首次进入固定溪流场景。",
+      "environment_reference": "assets/creek_anchor.png",
+      "speech_start_s": 37.06479166666667,
+      "speech_end_s": 39.80760416666667,
+      "actual_start_s": 36.68,
+      "actual_end_s": 40.16,
+      "visible_start_s": 36.2,
+      "visible_end_s": 40.63999999999999,
+      "visible_duration_s": 4.44
+    },
+    {
+      "id": 6,
+      "title": "鹅卵石间的水声",
+      "text": "清澈的溪水从圆滚滚的鹅卵石旁边跑过去，发出“哗啦啦、叮咚咚”的欢快响声，摸起来凉丝丝的。",
+      "source_ranges": [
+        {
+          "unit_id": "u006",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 44
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "creek_day；哗啦啦小溪上游",
+      "action": "近景展示同一溪流从圆润鹅卵石间流过；皮皮蹲下用爪尖轻触水面，微笑感受清凉。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_06.png",
+      "reference_manifest": "references/shot_06.json",
+      "image_status": "generated",
+      "visual_constraints": "保持角色身份一致；表情、目光、耳姿与身体动作贴合本镜具体旁白，温和自然，不复制参考图的默认表情；水彩竖屏9:16；无字无水印；重要脸部和动作避开字幕区。",
+      "transition_from": 5,
+      "continuity_refs": [
+        "STREAM_01",
+        "PEBBLES_01"
+      ],
+      "state_before": "承接前一镜最终状态；水流由左向右经过鹅卵石，保持溪流方向与石头布局。",
+      "state_after": "水流由左向右经过鹅卵石，保持溪流方向与石头布局。",
+      "environment_reference": "assets/creek_anchor.png",
+      "speech_start_s": 40.5314375,
+      "speech_end_s": 53.54914483333334,
+      "actual_start_s": 40.16,
+      "actual_end_s": 53.92,
+      "visible_start_s": 39.68,
+      "visible_end_s": 54.4,
+      "visible_duration_s": 14.72
+    },
+    {
+      "id": 7,
+      "title": "打水漂比赛",
+      "text": "下午自由活动的时候，小松鼠团团和小熊绒绒在浅水滩边比赛打水漂，欢呼声一阵高过一阵。",
+      "source_ranges": [
+        {
+          "unit_id": "u007",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 41
+        }
+      ],
+      "characters": [
+        "tuantuan",
+        "rongrong"
+      ],
+      "outfits": {
+        "tuantuan": "default_v001",
+        "rongrong": "default_v001"
+      },
+      "setting": "creek_shallows；小溪浅水滩",
+      "action": "团团与绒绒在浅滩边轮流打水漂，石片贴水跳跃，二人兴奋欢呼、眼神跟随石片。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_07.png",
+      "reference_manifest": "references/shot_07.json",
+      "image_status": "generated",
+      "visual_constraints": "保持角色身份一致；表情、目光、耳姿与身体动作贴合本镜具体旁白，温和自然，不复制参考图的默认表情；水彩竖屏9:16；无字无水印；重要脸部和动作避开字幕区。",
+      "transition_from": 6,
+      "continuity_refs": [
+        "STREAM_01"
+      ],
+      "state_before": "承接前一镜最终状态；角色均在同一浅滩，柳叶尚未出现。",
+      "state_after": "角色均在同一浅滩，柳叶尚未出现。",
+      "environment_reference": "assets/creek_anchor.png",
+      "speech_start_s": 54.254312500000005,
+      "speech_end_s": 66.92943683333334,
+      "actual_start_s": 53.92,
+      "actual_end_s": 67.28,
+      "visible_start_s": 53.440000000000005,
+      "visible_end_s": 67.76,
+      "visible_duration_s": 14.32
+    },
+    {
+      "id": 8,
+      "title": "玩水后有些累",
+      "text": "皮皮玩了一会儿水后，觉得有点累了，",
+      "source_ranges": [
+        {
+          "unit_id": "u008",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 17
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "creek_shallows；小溪岸边",
+      "action": "皮皮从水边慢慢走向岸边，肩膀放松，神情稍累但平静，目光寻找休息处。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_08.png",
+      "reference_manifest": "references/shot_08.json",
+      "image_status": "generated",
+      "visual_constraints": "保持角色身份一致；表情、目光、耳姿与身体动作贴合本镜具体旁白，温和自然，不复制参考图的默认表情；水彩竖屏9:16；无字无水印；重要脸部和动作避开字幕区。",
+      "transition_from": 7,
+      "continuity_refs": [
+        "STREAM_01",
+        "REST_ROCK_01"
+      ],
+      "state_before": "承接前一镜最终状态；皮皮离开朋友所在浅滩，走向岸边暖石。",
+      "state_after": "皮皮离开朋友所在浅滩，走向岸边暖石。",
+      "environment_reference": "assets/creek_anchor.png",
+      "speech_start_s": 67.63214583333334,
+      "speech_end_s": 71.85847883333334,
+      "actual_start_s": 67.28,
+      "actual_end_s": 72.08,
+      "visible_start_s": 66.8,
+      "visible_end_s": 72.56,
+      "visible_duration_s": 5.76
+    },
+    {
+      "id": 9,
+      "title": "坐在暖石上",
+      "text": "就独自坐在岸边一块晒得暖洋洋的大石头上，把小爪子放在膝头，",
+      "source_ranges": [
+        {
+          "unit_id": "u009",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "creek_bank；靠岸晒暖的大石旁",
+      "action": "皮皮独自坐在岸边同一块扁圆暖石上，小爪放在膝头，目光安静落在水面，表情舒缓。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_09.png",
+      "reference_manifest": "references/shot_09.json",
+      "image_status": "generated",
+      "visual_constraints": "保持角色身份一致；表情、目光、耳姿与身体动作贴合本镜具体旁白，温和自然，不复制参考图的默认表情；水彩竖屏9:16；无字无水印；重要脸部和动作避开字幕区。",
+      "transition_from": 8,
+      "continuity_refs": [
+        "REST_ROCK_01",
+        "STREAM_01"
+      ],
+      "state_before": "承接前一镜最终状态；皮皮坐上REST_ROCK_01；其他朋友在画外的浅滩，不跟随到岸边。",
+      "state_after": "皮皮坐上REST_ROCK_01；其他朋友在画外的浅滩，不跟随到岸边。",
+      "environment_reference": "assets/creek_anchor.png",
+      "speech_start_s": 72.3194375,
+      "speech_end_s": 80.93985350000001,
+      "actual_start_s": 72.08,
+      "actual_end_s": 81.2,
+      "visible_start_s": 71.6,
+      "visible_end_s": 81.68,
+      "visible_duration_s": 10.08
+    },
+    {
+      "id": 10,
+      "title": "安静看水面",
+      "text": "安静地看着水面。",
+      "source_ranges": [
+        {
+          "unit_id": "u010",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 8
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "creek_bank；靠岸晒暖的大石旁",
+      "action": "皮皮保持坐姿，安静凝望水面，眉眼柔和、没有悲伤或困倦表情。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_10.png",
+      "reference_manifest": "references/shot_10.json",
+      "image_status": "generated",
+      "visual_constraints": "保持角色身份一致；表情、目光、耳姿与身体动作贴合本镜具体旁白，温和自然，不复制参考图的默认表情；水彩竖屏9:16；无字无水印；重要脸部和动作避开字幕区。",
+      "transition_from": 9,
+      "continuity_refs": [
+        "REST_ROCK_01",
+        "STREAM_01"
+      ],
+      "state_before": "承接前一镜最终状态；承接皮皮坐在同一REST_ROCK_01，柳叶尚未落水。",
+      "state_after": "承接皮皮坐在同一REST_ROCK_01，柳叶尚未落水。",
+      "environment_reference": "assets/creek_anchor.png",
+      "speech_start_s": 81.44752083333334,
+      "speech_end_s": 83.55285350000001,
+      "actual_start_s": 81.2,
+      "actual_end_s": 83.92,
+      "visible_start_s": 80.72,
+      "visible_end_s": 84.4,
+      "visible_duration_s": 3.68
+    },
+    {
+      "id": 11,
+      "title": "柳叶落进溪水",
+      "text": "这时，一片细长的柳叶掉进了溪水里。",
+      "source_ranges": [
+        {
+          "unit_id": "u011",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 17
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "creek_upstream；上游水面与石岸",
+      "action": "一片细长柳叶从岸边枝头落入溪水；皮皮坐在远处同一暖石上注意到它。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_11.png",
+      "reference_manifest": "references/shot_11.json",
+      "image_status": "generated_revision",
+      "visual_constraints": "保持角色身份一致；表情、目光、耳姿与身体动作贴合本镜具体旁白，温和自然，不复制参考图的默认表情；水彩竖屏9:16；无字无水印；重要脸部和动作避开字幕区。",
+      "transition_from": 10,
+      "continuity_refs": [
+        "LEAF_01",
+        "STREAM_01",
+        "REST_ROCK_01"
+      ],
+      "state_before": "承接前一镜最终状态；LEAF_01刚落水，位于水流上游；皮皮仍坐在REST_ROCK_01。",
+      "state_after": "LEAF_01刚落水，位于水流上游；皮皮仍坐在REST_ROCK_01。",
+      "environment_reference": "assets/creek_anchor.png",
+      "speech_start_s": 84.29077083333334,
+      "speech_end_s": 89.54764516666667,
+      "actual_start_s": 83.92,
+      "actual_end_s": 89.92,
+      "visible_start_s": 83.44,
+      "visible_end_s": 90.4,
+      "visible_duration_s": 6.96
+    },
+    {
+      "id": 12,
+      "title": "顺流漂过浪花",
+      "text": "它顺着水流，在“哗啦啦”的浪花间慢慢地漂了过去。",
+      "source_ranges": [
+        {
+          "unit_id": "u012",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 24
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "creek_upstream；溪水流经浅色鹅卵石的上游",
+      "action": "同一片细长柳叶顺着左向右水流缓缓漂过小浪花；皮皮在远处以目光追随。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_12.png",
+      "reference_manifest": "references/shot_12.json",
+      "image_status": "generated_revision",
+      "visual_constraints": "保持角色身份一致；表情、目光、耳姿与身体动作贴合本镜具体旁白，温和自然，不复制参考图的默认表情；水彩竖屏9:16；无字无水印；重要脸部和动作避开字幕区。",
+      "transition_from": 11,
+      "continuity_refs": [
+        "LEAF_01",
+        "STREAM_01"
+      ],
+      "state_before": "承接前一镜最终状态；LEAF_01仍在上游移动，外形与朝向固定；不复制柳叶。",
+      "state_after": "LEAF_01仍在上游移动，外形与朝向固定；不复制柳叶。",
+      "environment_reference": "assets/creek_anchor.png",
+      "speech_start_s": 90.25608333333334,
+      "speech_end_s": 96.70658266666666,
+      "actual_start_s": 89.92,
+      "actual_end_s": 97.08,
+      "visible_start_s": 89.44,
+      "visible_end_s": 97.56,
+      "visible_duration_s": 8.12
+    },
+    {
+      "id": 13,
+      "title": "目光护送柳叶",
+      "text": "皮皮用目光护送着那片小柳叶。",
+      "source_ranges": [
+        {
+          "unit_id": "u013",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 14
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "creek_midstream；皮皮所在岸边与中游",
+      "action": "皮皮仍坐在暖石上，身体不动，温柔专注地用视线追随画面中的唯一柳叶。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_13.png",
+      "reference_manifest": "references/shot_13.json",
+      "image_status": "generated_revision",
+      "visual_constraints": "保持角色身份一致；表情、目光、耳姿与身体动作贴合本镜具体旁白，温和自然，不复制参考图的默认表情；水彩竖屏9:16；无字无水印；重要脸部和动作避开字幕区。",
+      "transition_from": 12,
+      "continuity_refs": [
+        "LEAF_01",
+        "REST_ROCK_01",
+        "STREAM_ROCK_01"
+      ],
+      "state_before": "承接前一镜最终状态；皮皮不离开REST_ROCK_01；LEAF_01顺流向溪中央大圆石接近。",
+      "state_after": "皮皮不离开REST_ROCK_01；LEAF_01顺流向溪中央大圆石接近。",
+      "environment_reference": "assets/creek_anchor.png",
+      "speech_start_s": 97.43350000000001,
+      "speech_end_s": 101.55870766666668,
+      "actual_start_s": 97.08,
+      "actual_end_s": 101.92,
+      "visible_start_s": 96.6,
+      "visible_end_s": 102.4,
+      "visible_duration_s": 5.8
+    },
+    {
+      "id": 14,
+      "title": "漂到大圆石后",
+      "text": "只见柳叶漂到一块大圆石头的后面时，",
+      "source_ranges": [
+        {
+          "unit_id": "u014",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 17
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "creek_midstream；溪中央固定的大圆石处",
+      "action": "柳叶漂近溪中央同一块大圆石，皮皮远处注视；构图明确石头位于水流中央。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_14.png",
+      "reference_manifest": "references/shot_14.json",
+      "image_status": "generated_revision",
+      "visual_constraints": "保持角色身份一致；表情、目光、耳姿与身体动作贴合本镜具体旁白，温和自然，不复制参考图的默认表情；水彩竖屏9:16；无字无水印；重要脸部和动作避开字幕区。",
+      "transition_from": 13,
+      "continuity_refs": [
+        "LEAF_01",
+        "STREAM_ROCK_01",
+        "STREAM_01"
+      ],
+      "state_before": "承接前一镜最终状态；LEAF_01来到STREAM_ROCK_01上游，尚未停靠。",
+      "state_after": "LEAF_01来到STREAM_ROCK_01上游，尚未停靠。",
+      "environment_reference": "assets/creek_anchor.png",
+      "speech_start_s": 102.25341666666668,
+      "speech_end_s": 107.02912400000001,
+      "actual_start_s": 101.92,
+      "actual_end_s": 107.24,
+      "visible_start_s": 101.44,
+      "visible_end_s": 107.72,
+      "visible_duration_s": 6.28
+    },
+    {
+      "id": 15,
+      "title": "水流放缓与小转身",
+      "text": "水流忽然变缓了；小柳叶在平静的水面上打了一个优雅的小转身，",
+      "source_ranges": [
+        {
+          "unit_id": "u015",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "creek_shelter；大圆石下游的平静水湾",
+      "action": "同一柳叶从溪中央大圆石后进入缓流，轻轻转一个小弯；皮皮在岸边远处注视。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_15.png",
+      "reference_manifest": "references/shot_15.json",
+      "image_status": "generated_revision",
+      "visual_constraints": "保持角色身份一致；表情、目光、耳姿与身体动作贴合本镜具体旁白，温和自然，不复制参考图的默认表情；水彩竖屏9:16；无字无水印；重要脸部和动作避开字幕区。",
+      "transition_from": 14,
+      "continuity_refs": [
+        "LEAF_01",
+        "STREAM_ROCK_01",
+        "STREAM_01"
+      ],
+      "state_before": "承接前一镜最终状态；STREAM_ROCK_01遮挡后水流变慢，LEAF_01转向岸边水草。",
+      "state_after": "STREAM_ROCK_01遮挡后水流变慢，LEAF_01转向岸边水草。",
+      "environment_reference": "assets/creek_anchor.png",
+      "speech_start_s": 107.47802083333335,
+      "speech_end_s": 116.22427016666668,
+      "actual_start_s": 107.24,
+      "actual_end_s": 116.48,
+      "visible_start_s": 106.75999999999999,
+      "visible_end_s": 116.96000000000001,
+      "visible_duration_s": 10.2
+    },
+    {
+      "id": 16,
+      "title": "柳叶靠岸停住",
+      "text": "便轻轻地停靠在了平缓的岸边水草旁，不再往前跑了。",
+      "source_ranges": [
+        {
+          "unit_id": "u016",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 24
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "creek_shelter；大圆石后方平缓岸边",
+      "action": "同一柳叶轻靠固定岸边水草，水面平静；远处皮皮坐在暖石上，神情安然。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_16.png",
+      "reference_manifest": "references/shot_16.json",
+      "image_status": "generated_revision",
+      "visual_constraints": "保持角色身份一致；表情、目光、耳姿与身体动作贴合本镜具体旁白，温和自然，不复制参考图的默认表情；水彩竖屏9:16；无字无水印；重要脸部和动作避开字幕区。",
+      "transition_from": 15,
+      "continuity_refs": [
+        "LEAF_01",
+        "STREAM_ROCK_01",
+        "BANK_GRASS_01"
+      ],
+      "state_before": "承接前一镜最终状态；LEAF_01停在固定水草旁，不再前进，供后续想象镜头引用。",
+      "state_after": "LEAF_01停在固定水草旁，不再前进，供后续想象镜头引用。",
+      "environment_reference": "assets/creek_anchor.png",
+      "speech_start_s": 116.69718750000001,
+      "speech_end_s": 123.66687433333334,
+      "actual_start_s": 116.48,
+      "actual_end_s": 124.04,
+      "visible_start_s": 116.0,
+      "visible_end_s": 124.52000000000001,
+      "visible_duration_s": 8.52
+    },
+    {
+      "id": 17,
+      "title": "集合哨声响起",
+      "text": "集合的哨声响起时，皮皮没有再去追着看小柳叶，他轻轻站起身，",
+      "source_ranges": [
+        {
+          "unit_id": "u017",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "creek_bank；小溪岸边",
+      "action": "皮皮独自在岸边暖石旁听见画外集合哨声，转头朝森林小路方向，轻轻准备起身；不出现旗帜、标牌、哨子或视觉化声音符号。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_17.png",
+      "reference_manifest": "references/shot_17.json",
+      "image_status": "generated_revision",
+      "visual_constraints": "只表现旁白明确动作；无旗帜、标志、哨子、声音线条或新增道具。皮皮自然回头，神情平静。水彩竖屏、无字无水印。",
+      "transition_from": 16,
+      "continuity_refs": [
+        "LEAF_01",
+        "REST_ROCK_01"
+      ],
+      "state_before": "承接前一镜最终状态；活动结束；LEAF_01仍留在水草边，皮皮仍在REST_ROCK_01旁。",
+      "state_after": "活动结束；LEAF_01仍留在水草边，皮皮仍在REST_ROCK_01旁。",
+      "environment_reference": "assets/creek_anchor.png",
+      "speech_start_s": 124.37510416666667,
+      "speech_end_s": 133.17350000000002,
+      "actual_start_s": 124.04,
+      "actual_end_s": 133.4,
+      "visible_start_s": 123.56,
+      "visible_end_s": 133.88,
+      "visible_duration_s": 10.32
+    },
+    {
+      "id": 18,
+      "title": "沿熟悉小路回家",
+      "text": "拍掉裤子上的草屑，牵着好朋友的手，沿着熟悉的森林小路回了家。",
+      "source_ranges": [
+        {
+          "unit_id": "u018",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 30
+        }
+      ],
+      "characters": [
+        "pipi",
+        "tuantuan"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "forest_path；离开小溪的森林小路",
+      "action": "皮皮站起拍掉裤子草屑后，与团团并肩牵手沿森林小路离开，背后溪林渐远；神情平和。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_18.png",
+      "reference_manifest": "references/shot_18.json",
+      "image_status": "generated",
+      "visual_constraints": "保持角色身份一致；表情、目光、耳姿与身体动作贴合本镜具体旁白，温和自然，不复制参考图的默认表情；水彩竖屏9:16；无字无水印；重要脸部和动作避开字幕区。",
+      "transition_from": 17,
+      "continuity_refs": [
+        "LEAF_01",
+        "STREAM_01"
+      ],
+      "state_before": "承接前一镜最终状态；皮皮离开溪边，与团团回家；溪流与柳叶留在原处。",
+      "state_after": "皮皮离开溪边，与团团回家；溪流与柳叶留在原处。",
+      "environment_reference": "assets/creek_anchor.png",
+      "speech_start_s": 133.6533125,
+      "speech_end_s": 142.23652016666665,
+      "actual_start_s": 133.4,
+      "actual_end_s": 142.6,
+      "visible_start_s": 132.92000000000002,
+      "visible_end_s": 143.07999999999998,
+      "visible_duration_s": 10.16
+    },
+    {
+      "id": 19,
+      "title": "夜晚回到卧室",
+      "text": "到了晚上，洗去了一身的疲惫，皮皮躺进了自己卧室的小木床里。",
+      "source_ranges": [
+        {
+          "unit_id": "u019",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "bedroom_night；皮皮卧室的小木床",
+      "action": "夜晚洗漱后，皮皮安稳躺入自己的小木床，室内暖灯柔和，表情放松。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_19.png",
+      "reference_manifest": "references/shot_19.json",
+      "image_status": "generated",
+      "visual_constraints": "保持角色身份一致；表情、目光、耳姿与身体动作贴合本镜具体旁白，温和自然，不复制参考图的默认表情；水彩竖屏9:16；无字无水印；重要脸部和动作避开字幕区。",
+      "transition_from": 18,
+      "continuity_refs": [
+        "BEDROOM_01",
+        "BED_01",
+        "BLANKET_01",
+        "CARROT_01"
+      ],
+      "state_before": "承接前一镜最终状态；时间从日间转到夜晚；室内固定床、窗、毛毯与胡萝卜玩偶。",
+      "state_after": "时间从日间转到夜晚；室内固定床、窗、毛毯与胡萝卜玩偶。",
+      "environment_reference": "assets/bedroom_anchor.png",
+      "exclude_default_sleep_props": false,
+      "speech_start_s": 142.96039583333334,
+      "speech_end_s": 151.02697783333335,
+      "actual_start_s": 142.6,
+      "actual_end_s": 151.36,
+      "visible_start_s": 142.12,
+      "visible_end_s": 151.84,
+      "visible_duration_s": 9.72
+    },
+    {
+      "id": 20,
+      "title": "窗外溪水很远",
+      "text": "现在，那条热闹的“哗啦啦小溪”已经留在了窗外很远很远的森林深处；而柔软的小床就在身边，",
+      "source_ranges": [
+        {
+          "unit_id": "u020",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 3
+        },
+        {
+          "unit_id": "u021",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 40
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "bedroom_night；卧室窗边与小木床",
+      "action": "从床侧望向远处森林深处的窗外，溪水只以很远的微弱银蓝曲线暗示；皮皮在床上望窗，房间安静。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_20.png",
+      "reference_manifest": "references/shot_20.json",
+      "image_status": "generated",
+      "visual_constraints": "保持角色身份一致；表情、目光、耳姿与身体动作贴合本镜具体旁白，温和自然，不复制参考图的默认表情；水彩竖屏9:16；无字无水印；重要脸部和动作避开字幕区。",
+      "transition_from": 19,
+      "continuity_refs": [
+        "BEDROOM_01",
+        "STREAM_01",
+        "BED_01"
+      ],
+      "state_before": "承接前一镜最终状态；溪流远在森林中；不得把溪水画到窗外近处或卧室内。",
+      "state_after": "溪流远在森林中；不得把溪水画到窗外近处或卧室内。",
+      "environment_reference": "assets/bedroom_anchor.png",
+      "exclude_default_sleep_props": false,
+      "speech_start_s": 151.7304375,
+      "speech_end_s": 164.29022916666665,
+      "actual_start_s": 151.36,
+      "actual_end_s": 164.56,
+      "visible_start_s": 150.88000000000002,
+      "visible_end_s": 165.04,
+      "visible_duration_s": 14.16
+    },
+    {
+      "id": 21,
+      "title": "身上暖黄毛毯",
+      "text": "暖黄色的毛毯正暖暖地铺在身上。",
+      "source_ranges": [
+        {
+          "unit_id": "u022",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 15
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "bedroom_night；床铺近景",
+      "action": "暖黄色毛毯完整铺在皮皮身上，皮皮舒适地躺在同一枕头上，神情安稳。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_21.png",
+      "reference_manifest": "references/shot_21.json",
+      "image_status": "generated",
+      "visual_constraints": "保持角色身份一致；表情、目光、耳姿与身体动作贴合本镜具体旁白，温和自然，不复制参考图的默认表情；水彩竖屏9:16；无字无水印；重要脸部和动作避开字幕区。",
+      "transition_from": 20,
+      "continuity_refs": [
+        "BEDROOM_01",
+        "BED_01",
+        "BLANKET_01"
+      ],
+      "state_before": "承接前一镜最终状态；BLANKET_01在皮皮身上，床位与窗景布局保持固定。",
+      "state_after": "BLANKET_01在皮皮身上，床位与窗景布局保持固定。",
+      "environment_reference": "assets/bedroom_anchor.png",
+      "exclude_default_sleep_props": false,
+      "speech_start_s": 164.8104375,
+      "speech_end_s": 169.1879785,
+      "actual_start_s": 164.56,
+      "actual_end_s": 169.52,
+      "visible_start_s": 164.08,
+      "visible_end_s": 170.0,
+      "visible_duration_s": 5.92
+    },
+    {
+      "id": 22,
+      "title": "抱近胡萝卜玩偶",
+      "text": "皮皮把胡萝卜玩偶抱近了一点，闭着眼睛在脑海里想象：此时此刻，",
+      "source_ranges": [
+        {
+          "unit_id": "u023",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 30
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "bedroom_night；卧室床铺",
+      "action": "皮皮把唯一的橙色胡萝卜玩偶抱近胸前，闭眼开始想象；表情轻松，耳朵自然垂落。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_22.png",
+      "reference_manifest": "references/shot_22.json",
+      "image_status": "generated",
+      "visual_constraints": "保持角色身份一致；表情、目光、耳姿与身体动作贴合本镜具体旁白，温和自然，不复制参考图的默认表情；水彩竖屏9:16；无字无水印；重要脸部和动作避开字幕区。",
+      "transition_from": 21,
+      "continuity_refs": [
+        "BEDROOM_01",
+        "BED_01",
+        "BLANKET_01",
+        "CARROT_01"
+      ],
+      "state_before": "承接前一镜最终状态；CARROT_01从床边被皮皮抱近；毛毯仍覆盖身体。",
+      "state_after": "CARROT_01从床边被皮皮抱近；毛毯仍覆盖身体。",
+      "environment_reference": "assets/bedroom_anchor.png",
+      "exclude_default_sleep_props": false,
+      "speech_start_s": 169.88783333333333,
+      "speech_end_s": 178.764666,
+      "actual_start_s": 169.52,
+      "actual_end_s": 179.0,
+      "visible_start_s": 169.04000000000002,
+      "visible_end_s": 179.48,
+      "visible_duration_s": 10.44
+    },
+    {
+      "id": 23,
+      "title": "想象柳叶睡在水湾",
+      "text": "白天那片停在石头后面的小柳叶，一定也在安静的水湾里睡着了吧？",
+      "source_ranges": [
+        {
+          "unit_id": "u024",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 30
+        }
+      ],
+      "characters": [],
+      "outfits": {},
+      "setting": "imagined_calm_cove；想象中的安静水湾；非现实梦境画面",
+      "action": "纯景别：同一片细长柳叶停在原来大圆石后方水草旁的静谧水湾，水面柔和安静；以淡淡柔光表现皮皮的想象，不出现任何角色。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_23.png",
+      "reference_manifest": "references/shot_23.json",
+      "image_status": "generated_revision",
+      "visual_constraints": "保持角色身份一致；表情、目光、耳姿与身体动作贴合本镜具体旁白，温和自然，不复制参考图的默认表情；水彩竖屏9:16；无字无水印；重要脸部和动作避开字幕区。",
+      "transition_from": 22,
+      "continuity_refs": [
+        "LEAF_01",
+        "STREAM_ROCK_01",
+        "BANK_GRASS_01"
+      ],
+      "state_before": "承接前一镜最终状态；明确为皮皮脑海想象，不表示柳叶在现实中睡眠或场景移动。",
+      "state_after": "明确为皮皮脑海想象，不表示柳叶在现实中睡眠或场景移动。",
+      "environment_reference": "assets/creek_anchor.png",
+      "exclude_default_sleep_props": false,
+      "speech_start_s": 179.22625,
+      "speech_end_s": 187.3923125,
+      "actual_start_s": 179.0,
+      "actual_end_s": 187.76,
+      "visible_start_s": 178.52,
+      "visible_end_s": 188.23999999999998,
+      "visible_duration_s": 9.72
+    },
+    {
+      "id": 24,
+      "title": "竖耳倾听",
+      "text": "他竖起长耳朵仔细听了听，屋里没有白天哗啦啦的水声，",
+      "source_ranges": [
+        {
+          "unit_id": "u025",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 25
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "bedroom_night；卧室床铺近景",
+      "action": "皮皮轻轻竖起长耳朵仔细听，眼神专注、面容宁静；屋中没有水声或伙伴。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_24.png",
+      "reference_manifest": "references/shot_24.json",
+      "image_status": "generated",
+      "visual_constraints": "保持角色身份一致；表情、目光、耳姿与身体动作贴合本镜具体旁白，温和自然，不复制参考图的默认表情；水彩竖屏9:16；无字无水印；重要脸部和动作避开字幕区。",
+      "transition_from": 23,
+      "continuity_refs": [
+        "BEDROOM_01",
+        "BED_01",
+        "BLANKET_01",
+        "CARROT_01"
+      ],
+      "state_before": "承接前一镜最终状态；回到现实卧室，皮皮仍抱着CARROT_01，毛毯和房间位置不变。",
+      "state_after": "回到现实卧室，皮皮仍抱着CARROT_01，毛毯和房间位置不变。",
+      "environment_reference": "assets/bedroom_anchor.png",
+      "exclude_default_sleep_props": false,
+      "speech_start_s": 188.12525,
+      "speech_end_s": 195.34756216666665,
+      "actual_start_s": 187.76,
+      "actual_end_s": 195.6,
+      "visible_start_s": 187.28,
+      "visible_end_s": 196.07999999999998,
+      "visible_duration_s": 8.8
+    },
+    {
+      "id": 25,
+      "title": "只听见均匀呼吸",
+      "text": "也没有伙伴们的欢呼声，只有自己一吸、一呼，轻轻的、均匀的呼吸声。",
+      "source_ranges": [
+        {
+          "unit_id": "u026",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 32
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "bedroom_night；卧室侧面近景",
+      "action": "侧面安静构图，皮皮闭眼缓慢呼吸，耳朵略放松，玩偶留在怀里，周围留出静谧空白。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_25.png",
+      "reference_manifest": "references/shot_25.json",
+      "image_status": "generated",
+      "visual_constraints": "保持角色身份一致；表情、目光、耳姿与身体动作贴合本镜具体旁白，温和自然，不复制参考图的默认表情；水彩竖屏9:16；无字无水印；重要脸部和动作避开字幕区。",
+      "transition_from": 24,
+      "continuity_refs": [
+        "BEDROOM_01",
+        "BED_01",
+        "CARROT_01"
+      ],
+      "state_before": "承接前一镜最终状态；没有朋友入镜或欢呼声；睡前动作延续。",
+      "state_after": "没有朋友入镜或欢呼声；睡前动作延续。",
+      "environment_reference": "assets/bedroom_anchor.png",
+      "exclude_default_sleep_props": false,
+      "speech_start_s": 195.86047916666666,
+      "speech_end_s": 205.41174966666665,
+      "actual_start_s": 195.6,
+      "actual_end_s": 205.8,
+      "visible_start_s": 195.12,
+      "visible_end_s": 206.28,
+      "visible_duration_s": 11.16
+    },
+    {
+      "id": 26,
+      "title": "溪水经过大石头",
+      "text": "就像溪水流到大石头后面会自动把声音放轻一样，",
+      "source_ranges": [
+        {
+          "unit_id": "u027",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 22
+        }
+      ],
+      "characters": [],
+      "outfits": {},
+      "setting": "imagined_calm_cove；柔和的内心联想画面",
+      "action": "纯溪流意象：清澈溪水经过同一块溪中央大圆石后变缓，平静水面反光柔和；不出现任何角色、床铺或屋内元素。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_26.png",
+      "reference_manifest": "references/shot_26.json",
+      "image_status": "generated_revision",
+      "visual_constraints": "保持角色身份一致；表情、目光、耳姿与身体动作贴合本镜具体旁白，温和自然，不复制参考图的默认表情；水彩竖屏9:16；无字无水印；重要脸部和动作避开字幕区。",
+      "transition_from": 25,
+      "continuity_refs": [
+        "STREAM_01",
+        "STREAM_ROCK_01",
+        "LEAF_01"
+      ],
+      "state_before": "承接前一镜最终状态；想象重现溪流声变轻的物理过程，不改变LEAF_01位置。",
+      "state_after": "想象重现溪流声变轻的物理过程，不改变LEAF_01位置。",
+      "environment_reference": "assets/creek_anchor.png",
+      "exclude_default_sleep_props": false,
+      "speech_start_s": 206.15754166666667,
+      "speech_end_s": 212.42541666666668,
+      "actual_start_s": 205.8,
+      "actual_end_s": 212.68,
+      "visible_start_s": 205.32000000000002,
+      "visible_end_s": 213.16,
+      "visible_duration_s": 7.84
+    },
+    {
+      "id": 27,
+      "title": "热闹记忆慢慢淡下",
+      "text": "皮皮白天那些热闹的记忆和兴奋的心情，也慢慢地淡了下来、缓了下来。",
+      "source_ranges": [
+        {
+          "unit_id": "u028",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 32
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "bedroom_night；卧室与窗外远林",
+      "action": "皮皮怀抱玩偶安静躺着，窗外林间白日的淡淡水光意象渐隐，身体姿态放松，情绪由兴奋回归平静。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_27.png",
+      "reference_manifest": "references/shot_27.json",
+      "image_status": "generated",
+      "visual_constraints": "保持角色身份一致；表情、目光、耳姿与身体动作贴合本镜具体旁白，温和自然，不复制参考图的默认表情；水彩竖屏9:16；无字无水印；重要脸部和动作避开字幕区。",
+      "transition_from": 26,
+      "continuity_refs": [
+        "BEDROOM_01",
+        "BED_01",
+        "CARROT_01"
+      ],
+      "state_before": "承接前一镜最终状态；仅记忆意象淡出；现实地点仍在卧室，无人物瞬移。",
+      "state_after": "仅记忆意象淡出；现实地点仍在卧室，无人物瞬移。",
+      "environment_reference": "assets/bedroom_anchor.png",
+      "exclude_default_sleep_props": false,
+      "speech_start_s": 212.9088125,
+      "speech_end_s": 222.41608333333335,
+      "actual_start_s": 212.68,
+      "actual_end_s": 222.76,
+      "visible_start_s": 212.20000000000002,
+      "visible_end_s": 223.23999999999998,
+      "visible_duration_s": 11.04
+    },
+    {
+      "id": 28,
+      "title": "眼皮轻轻合拢",
+      "text": "皮皮的眼皮，也像那片靠岸的小柳叶一样，轻轻地合拢、停住了。",
+      "source_ranges": [
+        {
+          "unit_id": "u029",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "bedroom_night；皮皮脸部和枕头近景",
+      "action": "皮皮的眼皮自然轻轻合拢，表情安详但不夸张，耳朵柔软落在枕边，抱着唯一玩偶。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_28.png",
+      "reference_manifest": "references/shot_28.json",
+      "image_status": "generated",
+      "visual_constraints": "保持角色身份一致；表情、目光、耳姿与身体动作贴合本镜具体旁白，温和自然，不复制参考图的默认表情；水彩竖屏9:16；无字无水印；重要脸部和动作避开字幕区。",
+      "transition_from": 27,
+      "continuity_refs": [
+        "BEDROOM_01",
+        "BED_01",
+        "CARROT_01",
+        "LEAF_01"
+      ],
+      "state_before": "承接前一镜最终状态；完成入睡动作；柳叶仍在想象中的靠岸状态。",
+      "state_after": "完成入睡动作；柳叶仍在想象中的靠岸状态。",
+      "environment_reference": "assets/bedroom_anchor.png",
+      "exclude_default_sleep_props": false,
+      "speech_start_s": 223.1431041666667,
+      "speech_end_s": 231.79183233333336,
+      "actual_start_s": 222.76,
+      "actual_end_s": 232.16,
+      "visible_start_s": 222.28,
+      "visible_end_s": 232.64,
+      "visible_duration_s": 10.36
+    },
+    {
+      "id": 29,
+      "title": "把白天风景留在心里",
+      "text": "小朋友，今天看过的热闹风景、玩过的开心游戏，都已经稳稳地留在心里啦。",
+      "source_ranges": [
+        {
+          "unit_id": "u030",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 34
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "bedroom_night；小木床与窗景",
+      "action": "皮皮安睡在温暖小床，淡淡叠映白日溪边游戏与柳叶停靠的记忆作为柔和回想，不出现其他角色的实体。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_29.png",
+      "reference_manifest": "references/shot_29.json",
+      "image_status": "generated",
+      "visual_constraints": "保持角色身份一致；表情、目光、耳姿与身体动作贴合本镜具体旁白，温和自然，不复制参考图的默认表情；水彩竖屏9:16；无字无水印；重要脸部和动作避开字幕区。",
+      "transition_from": 28,
+      "continuity_refs": [
+        "BEDROOM_01",
+        "BED_01",
+        "BLANKET_01",
+        "CARROT_01"
+      ],
+      "state_before": "承接前一镜最终状态；记忆图像是回想叠映，不是朋友进入房间；现实场景持续为卧室。",
+      "state_after": "记忆图像是回想叠映，不是朋友进入房间；现实场景持续为卧室。",
+      "environment_reference": "assets/bedroom_anchor.png",
+      "exclude_default_sleep_props": false,
+      "speech_start_s": 232.50591666666668,
+      "speech_end_s": 242.0880195,
+      "actual_start_s": 232.16,
+      "actual_end_s": 242.44,
+      "visible_start_s": 231.68,
+      "visible_end_s": 242.92,
+      "visible_duration_s": 11.24
+    },
+    {
+      "id": 30,
+      "title": "小溪把声音放轻",
+      "text": "现在，小溪把声音放轻了，你也安心地待在温暖的小床上，慢慢睡去吧。",
+      "source_ranges": [
+        {
+          "unit_id": "u031",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 32
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "bedroom_night；安静卧室",
+      "action": "稳定宽松的夜间卧室景别，皮皮安睡在暖黄毛毯下，窗外远林安静；留足低细节字幕区。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_30.png",
+      "reference_manifest": "references/shot_30.json",
+      "image_status": "generated",
+      "visual_constraints": "保持角色身份一致；表情、目光、耳姿与身体动作贴合本镜具体旁白，温和自然，不复制参考图的默认表情；水彩竖屏9:16；无字无水印；重要脸部和动作避开字幕区。",
+      "transition_from": 29,
+      "continuity_refs": [
+        "BEDROOM_01",
+        "BED_01",
+        "BLANKET_01",
+        "CARROT_01",
+        "STREAM_01"
+      ],
+      "state_before": "承接前一镜最终状态；延续皮皮睡着、玩偶在怀、溪水远在森林的最终状态。",
+      "state_after": "延续皮皮睡着、玩偶在怀、溪水远在森林的最终状态。",
+      "environment_reference": "assets/bedroom_anchor.png",
+      "exclude_default_sleep_props": false,
+      "speech_start_s": 242.81175000000002,
+      "speech_end_s": 252.16416533333336,
+      "actual_start_s": 242.44,
+      "actual_end_s": 252.52,
+      "visible_start_s": 241.96,
+      "visible_end_s": 253.0,
+      "visible_duration_s": 11.04
+    },
+    {
+      "id": 31,
+      "title": "晚安",
+      "text": "晚安。",
+      "source_ranges": [
+        {
+          "unit_id": "u032",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 3
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "bedroom_night；枕边近景",
+      "action": "皮皮熟睡，眉眼完全放松、均匀呼吸，画面安静留白。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_31.png",
+      "reference_manifest": "references/shot_31.json",
+      "image_status": "generated",
+      "visual_constraints": "保持角色身份一致；表情、目光、耳姿与身体动作贴合本镜具体旁白，温和自然，不复制参考图的默认表情；水彩竖屏9:16；无字无水印；重要脸部和动作避开字幕区。",
+      "transition_from": 30,
+      "continuity_refs": [
+        "BEDROOM_01",
+        "BED_01",
+        "BLANKET_01",
+        "CARROT_01"
+      ],
+      "state_before": "承接前一镜最终状态；尾声继续保持最终安睡状态，无新动作。",
+      "state_after": "尾声继续保持最终安睡状态，无新动作。",
+      "environment_reference": "assets/bedroom_anchor.png",
+      "exclude_default_sleep_props": false,
+      "speech_start_s": 252.9091666666667,
+      "speech_end_s": 253.67545733333336,
+      "actual_start_s": 252.52,
+      "actual_end_s": 254.4,
+      "visible_start_s": 252.04000000000002,
+      "visible_end_s": 254.4,
+      "visible_duration_s": 2.36
+    }
+  ],
+  "audio": "mix.wav",
+  "subtitles": "episode.ass",
+  "character_registry": "references/",
+  "fonts": [
+    {
+      "path": "fonts/Noto-Sans-copyright.txt",
+      "sha256": "075f91382875da1c4b491f1facf2586f55448705133264d98ce15cab6211b125"
+    },
+    {
+      "path": "fonts/NotoSans-Regular.ttf",
+      "sha256": "89c3c497f618fdaa0b2d1e98fef93582f28c71debd2c4a8cdf41f190ced2909d"
+    },
+    {
+      "path": "fonts/NotoSansCJKsc-Bold.otf",
+      "sha256": "85c969dbb2f927c8dbbe440d5755b7c9a714f13a7a58339459df43cfff3583b3"
+    },
+    {
+      "path": "fonts/Noto-CJK-copyright.txt",
+      "sha256": "849f4ea9c214fa4ac3593b770c699f387534b11ce671264c1b10d85bdcb5997b"
+    },
+    {
+      "path": "fonts/NotoSansCJKsc-Regular.otf",
+      "sha256": "82e9bdfd176ce68c51f6ff89ca7e2abae7fdb82b4591aa7338638598ae3c91c8"
+    }
+  ]
+}

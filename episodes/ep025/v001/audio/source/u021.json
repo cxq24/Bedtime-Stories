@@ -1,0 +1,161 @@
+{
+  "text": "那条热闹的“哗啦啦小溪”已经留在了窗外很远很远的森林深处；而柔软的小床就在身边，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "1a3add75333b2480fe5af87e94839a794acfca30c6eb57c6d3738236a825e52d",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2692500,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3961660,
+      "duration": 3077080,
+      "text": "条"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7422910,
+      "duration": 5192500,
+      "text": "热闹"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12615410,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14538330,
+      "duration": 6538330,
+      "text": "哗啦啦"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21269160,
+      "duration": 9038330,
+      "text": "小溪"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30692500,
+      "duration": 4230830,
+      "text": "已经"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35115410,
+      "duration": 2500000,
+      "text": "留"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37615410,
+      "duration": 2884580,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40500000,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41846250,
+      "duration": 5961660,
+      "text": "窗外"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48192500,
+      "duration": 3076660,
+      "text": "很"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51269160,
+      "duration": 2884580,
+      "text": "远"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54346250,
+      "duration": 3076660,
+      "text": "很"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57422910,
+      "duration": 2884580,
+      "text": "远"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60307500,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61846250,
+      "duration": 5000000,
+      "text": "森林"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 67038330,
+      "duration": 8269160,
+      "text": "深处"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 81269160,
+      "duration": 3653750,
+      "text": "而"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 85115410,
+      "duration": 5769160,
+      "text": "柔软"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 90884580,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 92230830,
+      "duration": 8846250,
+      "text": "小床"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 101461660,
+      "duration": 1922910,
+      "text": "就"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 103384580,
+      "duration": 1922910,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 105500000,
+      "duration": 7500000,
+      "text": "身边"
+    }
+  ]
+}

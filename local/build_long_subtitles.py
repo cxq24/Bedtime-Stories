@@ -12,6 +12,7 @@ from pypinyin import Style, pinyin
 ROOT = Path(__file__).resolve().parents[1]
 FIX = {
     '教大家': ['jiāo', 'dà', 'jiā'],
+    '闭着眼睛': ['bì', 'zhe', 'yǎn', 'jing'],
     '蒲公英': ['pú', 'gōng', 'yīng'], '榕树': ['róng', 'shù'],
     '拖鞋': ['tuō', 'xié'], '小窝': ['xiǎo', 'wō'],
     '掉队': ['diào', 'duì'], '鞋尖': ['xié', 'jiān'],
@@ -171,7 +172,8 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
             token.update(cell_center_x=round(center, 2), cell_width_px=round(cell, 2))
             if token['pinyin']:
                 events.append(f"Dialogue: 1,{a},{b},Pinyin,,0,0,0,,{{\\an8\\pos({center:.1f},1500)}}{token['pinyin']}")
-            events.append(f"Dialogue: 1,{a},{b},Hanzi,,0,0,0,,{{\\an8\\pos({center:.1f},1566)}}{token['hanzi']}")
+            # Keep the lower glyph edge inside the subtitle plate at 360px preview size.
+            events.append(f"Dialogue: 1,{a},{b},Hanzi,,0,0,0,,{{\\an8\\pos({center:.1f},1548)}}{token['hanzi']}")
             x += cell
         srt.append(f"{cue['cue_id']}\n{srt_time(cue['start_s'])} --> {srt_time(cue['end_s'])}\n{cue['text']}\n")
     (out / 'episode.ass').write_text(header + '\n'.join(events) + '\n')

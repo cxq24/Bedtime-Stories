@@ -1,0 +1,125 @@
+{
+  "text": "集合的哨声响起时，皮皮没有再去追着看小柳叶，他轻轻站起身，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "b496051f476d8d8cd4f498698128fa222a40721fcf510b9cc36d83a5ce622609",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6153750,
+      "text": "集合"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7422910,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8961660,
+      "duration": 2884580,
+      "text": "哨"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12038330,
+      "duration": 6730830,
+      "text": "声响"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18769160,
+      "duration": 3077080,
+      "text": "起"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21846250,
+      "duration": 5192500,
+      "text": "时"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31077080,
+      "duration": 5769160,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37038330,
+      "duration": 4422910,
+      "text": "没有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41653750,
+      "duration": 3077080,
+      "text": "再"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44730830,
+      "duration": 2884580,
+      "text": "去"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47807500,
+      "duration": 2884580,
+      "text": "追"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50692500,
+      "duration": 1538330,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52615410,
+      "duration": 2500000,
+      "text": "看"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55307500,
+      "duration": 3077080,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58384580,
+      "duration": 7500000,
+      "text": "柳叶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 69922910,
+      "duration": 2307500,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 72230830,
+      "duration": 6346250,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78769160,
+      "duration": 3077080,
+      "text": "站"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 81846250,
+      "duration": 7500000,
+      "text": "起身"
+    }
+  ]
+}

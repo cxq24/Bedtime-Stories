@@ -1,0 +1,149 @@
+{
+  "text": "下午自由活动的时候，小松鼠团团和小熊绒绒在浅水滩边比赛打水漂，欢呼声一阵高过一阵。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "99c60e918a8d72faa7c7b97c2e6fc81df388b42ae7c0ab76ecb65e22c330b20a",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6153750,
+      "text": "下午"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7807500,
+      "duration": 4615410,
+      "text": "自由"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12615410,
+      "duration": 5000000,
+      "text": "活动"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17615410,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18961660,
+      "duration": 7307500,
+      "text": "时候"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30692500,
+      "duration": 2884580,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33577080,
+      "duration": 5192500,
+      "text": "松鼠"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38961660,
+      "duration": 8461660,
+      "text": "团团"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47807500,
+      "duration": 1922910,
+      "text": "和"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 49922910,
+      "duration": 3077080,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53000000,
+      "duration": 5769160,
+      "text": "熊绒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58769160,
+      "duration": 4807500,
+      "text": "绒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 65115410,
+      "duration": 2692080,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 67807500,
+      "duration": 2884580,
+      "text": "浅"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 70884580,
+      "duration": 6153750,
+      "text": "水滩"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 77038330,
+      "duration": 2884580,
+      "text": "边"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 80115410,
+      "duration": 5384580,
+      "text": "比赛"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 85884580,
+      "duration": 10961660,
+      "text": "打水漂"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 100769160,
+      "duration": 9038330,
+      "text": "欢呼声"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 109807500,
+      "duration": 6153750,
+      "text": "一阵"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 116346250,
+      "duration": 3076660,
+      "text": "高"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 119422910,
+      "duration": 1730830,
+      "text": "过"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 121346250,
+      "duration": 6922910,
+      "text": "一阵"
+    }
+  ]
+}

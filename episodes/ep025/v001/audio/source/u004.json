@@ -1,0 +1,125 @@
+{
+  "text": "跟着山羊老师去了森林深处的“哗啦啦小溪”，进行了一次开心的小小日间野营。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "851ce672136fb7a25219f78b40e4fa2b42afbad1cf66524ebc6051585122d7d3",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4038330,
+      "text": "跟着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5692500,
+      "duration": 5192500,
+      "text": "山羊"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11077080,
+      "duration": 8077080,
+      "text": "老师"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20692500,
+      "duration": 2692080,
+      "text": "去"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23384580,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24922910,
+      "duration": 5384580,
+      "text": "森林"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30500000,
+      "duration": 6153750,
+      "text": "深处"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36653750,
+      "duration": 2115410,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39153750,
+      "duration": 6153750,
+      "text": "哗啦啦"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45500000,
+      "duration": 8269160,
+      "text": "小溪"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58769160,
+      "duration": 5384580,
+      "text": "进行"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64153750,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 65500000,
+      "duration": 5384580,
+      "text": "一次"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 71269160,
+      "duration": 5769160,
+      "text": "开心"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 77038330,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78769160,
+      "duration": 2692500,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 81461660,
+      "duration": 2884580,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 84538330,
+      "duration": 5384580,
+      "text": "日间"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 90115410,
+      "duration": 7307500,
+      "text": "野营"
+    }
+  ]
+}

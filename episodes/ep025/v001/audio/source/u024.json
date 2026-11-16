@@ -1,0 +1,131 @@
+{
+  "text": "白天那片停在石头后面的小柳叶，一定也在安静的水湾里睡着了吧？",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "ec7079fdcac2f35eb2569b0acb9886fa3058ac2e8c378fd12befef4c0bc58ba6",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5961660,
+      "text": "白天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7422910,
+      "duration": 2692500,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10115410,
+      "duration": 5577080,
+      "text": "片"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16077080,
+      "duration": 2500000,
+      "text": "停"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18577080,
+      "duration": 2115410,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20884580,
+      "duration": 5192500,
+      "text": "石头"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26269160,
+      "duration": 4807500,
+      "text": "后面"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31077080,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32422910,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35692500,
+      "duration": 7307500,
+      "text": "柳叶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47038330,
+      "duration": 4615410,
+      "text": "一定"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51846250,
+      "duration": 2115410,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53961660,
+      "duration": 2115410,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56461660,
+      "duration": 5000000,
+      "text": "安静"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61461660,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63000000,
+      "duration": 6153750,
+      "text": "水湾"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 69153750,
+      "duration": 1730830,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 71269160,
+      "duration": 6730830,
+      "text": "睡着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78000000,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 79346250,
+      "duration": 3846250,
+      "text": "吧"
+    }
+  ]
+}

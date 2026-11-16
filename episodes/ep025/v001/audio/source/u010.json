@@ -1,0 +1,41 @@
+{
+  "text": "安静地看着水面。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "d4c28cc4795bfb4ad2d2a2a7e1dfba244d6702484292ad17c717b12023d3717d",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6538330,
+      "text": "安静"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7807500,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9538330,
+      "duration": 2884580,
+      "text": "看"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12422910,
+      "duration": 1346250,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13961660,
+      "duration": 8846250,
+      "text": "水面"
+    }
+  ]
+}
