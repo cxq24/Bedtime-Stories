@@ -23,6 +23,6 @@
   "human_full_watch": "not_certified",
   "user_acceptance": "pending",
   "publication": "not_published",
-  "github_sync": "not_requested",
+  "github_sync": "synced_to_main",
   "technical_report": "checks/technical-report.json"
 }
