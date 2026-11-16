@@ -62,7 +62,8 @@
     "verified_delivery_commit": "dfa891353f1142fecbf9db4d3b0aa717c7f330e1",
     "latest_delivery_commit": "43029bc",
     "latest_delivery_scope": "complete_ep024_v001_project_and_delivery",
-    "latest_delivery_date": "2026-11-16"
+    "latest_delivery_date": "2026-11-16",
+    "pending_target": "origin/main"
   },
   "publication": "not_published",
   "latest_production": {
@@ -79,7 +80,7 @@
     "delivery": "Outputs/2026-11-16/ep025-v001/README.md",
     "published": false,
     "user_acceptance": "pending",
-    "github_sync": "sync_pending",
+    "github_sync": "retry_pending",
     "technical_checks": "passed",
     "continuity_preflight": "passed",
     "continuity_image_review": "passed_full_32_shot_contact_sheet",
@@ -120,7 +121,7 @@
     "delivery": "Outputs/2026-11-16/ep025-v001/README.md",
     "published": false,
     "user_acceptance": "pending",
-    "github_sync": "sync_pending",
+    "github_sync": "retry_pending",
     "technical_checks": "passed",
     "continuity_preflight": "passed",
     "continuity_image_review": "passed_full_32_shot_contact_sheet",
@@ -168,7 +169,7 @@
       "delivery": "Outputs/2026-11-16/ep025-v001/README.md",
       "published": false,
       "user_acceptance": "pending",
-      "github_sync": "sync_pending",
+      "github_sync": "retry_pending",
       "technical_checks": "passed",
       "continuity_preflight": "passed",
       "continuity_image_review": "passed_full_32_shot_contact_sheet",
