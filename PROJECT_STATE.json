@@ -52,18 +52,19 @@
     "archives_in_current_tree": false,
     "loose_sources_included": true,
     "historical_commits_rewritten": false,
-    "status": "ep025_v001_sync_retry_pending",
-    "video_sync_exception": "Per user request, ep006-v002, ep007-v002, ep008-v002, ep009-v002, ep010-v001, ep011-v001, ep012-v001, and ep013-v001 main/clean videos are included; ep009-v001 source materials remain without video.; ep015-v001 main and clean videos were explicitly requested and synced on 2026-11-14.; ep021-v001 delivery bundle was synced to GitHub main on 2026-11-15 per the user's standing main-branch instruction.; ep022-v001 delivery bundle was synced to GitHub main on 2026-11-16 per the user's standing main-branch instruction.; ep023-v001 complete project and delivery, including both video masters, was synced to GitHub main on 2026-11-16 per the user's request.; ep024-v001 complete project and main/clean videos were explicitly requested and synced to GitHub main on 2026-11-16.; ep025-v001 full project and delivery, including main/clean videos, requested for GitHub main sync on 2026-11-16.",
+    "status": "ep025_v001_full_project_synced_to_github_main",
+    "video_sync_exception": "Per user request, ep006-v002, ep007-v002, ep008-v002, ep009-v002, ep010-v001, ep011-v001, ep012-v001, and ep013-v001 main/clean videos are included; ep009-v001 source materials remain without video.; ep015-v001 main and clean videos were explicitly requested and synced on 2026-11-14.; ep021-v001 delivery bundle was synced to GitHub main on 2026-11-15 per the user's standing main-branch instruction.; ep022-v001 delivery bundle was synced to GitHub main on 2026-11-16 per the user's standing main-branch instruction.; ep023-v001 complete project and delivery, including both video masters, was synced to GitHub main on 2026-11-16 per the user's request.; ep024-v001 complete project and main/clean videos were explicitly requested and synced to GitHub main on 2026-11-16.; ep025-v001 full project and delivery, including main/clean videos, synced to GitHub main on 2026-11-16 per user request (commit d740174).",
     "verified_source_commit": "fb496a2f069cf87b8af9cb00fbe01295b7a58c50",
     "record": "docs/production/维护记录/2026-11-14_第015集GitHub同步/RECORD.md",
     "verified_sync_commit": "c0b6785405806b3c1abe11a2996b0a74e0d30852",
     "latest_sync_record": "docs/production/维护记录/2026-11-16_第025集GitHub同步/RECORD.md",
     "scope": "complete_ep025_v001_project_and_delivery",
     "verified_delivery_commit": "dfa891353f1142fecbf9db4d3b0aa717c7f330e1",
-    "latest_delivery_commit": "43029bc",
-    "latest_delivery_scope": "complete_ep024_v001_project_and_delivery",
+    "latest_delivery_commit": "d740174",
+    "latest_delivery_scope": "complete_ep025_v001_project_and_delivery",
     "latest_delivery_date": "2026-11-16",
-    "pending_target": "origin/main"
+    "latest_sync_commit": "d740174",
+    "latest_sync_date": "2026-11-16"
   },
   "publication": "not_published",
   "latest_production": {
@@ -80,12 +81,15 @@
     "delivery": "Outputs/2026-11-16/ep025-v001/README.md",
     "published": false,
     "user_acceptance": "pending",
-    "github_sync": "retry_pending",
+    "github_sync": "synced_to_main",
     "technical_checks": "passed",
     "continuity_preflight": "passed",
     "continuity_image_review": "passed_full_32_shot_contact_sheet",
     "human_full_watch": "not_certified",
-    "phone_subtitle_review": "passed_sampled_opening_middle_ending"
+    "phone_subtitle_review": "passed_sampled_opening_middle_ending",
+    "github_sync_date": "2026-11-16",
+    "github_sync_commit": "d740174",
+    "github_sync_scope": "complete_ep025_v001_project_and_delivery"
   },
   "previous_production": {
     "id": "ep024",
@@ -121,12 +125,15 @@
     "delivery": "Outputs/2026-11-16/ep025-v001/README.md",
     "published": false,
     "user_acceptance": "pending",
-    "github_sync": "retry_pending",
+    "github_sync": "synced_to_main",
     "technical_checks": "passed",
     "continuity_preflight": "passed",
     "continuity_image_review": "passed_full_32_shot_contact_sheet",
     "human_full_watch": "not_certified",
-    "phone_subtitle_review": "passed_sampled_opening_middle_ending"
+    "phone_subtitle_review": "passed_sampled_opening_middle_ending",
+    "github_sync_date": "2026-11-16",
+    "github_sync_commit": "d740174",
+    "github_sync_scope": "complete_ep025_v001_project_and_delivery"
   },
   "previous_script_version": "v4",
   "script_revision": {
@@ -169,12 +176,14 @@
       "delivery": "Outputs/2026-11-16/ep025-v001/README.md",
       "published": false,
       "user_acceptance": "pending",
-      "github_sync": "retry_pending",
+      "github_sync": "synced_to_main",
       "technical_checks": "passed",
       "continuity_preflight": "passed",
       "continuity_image_review": "passed_full_32_shot_contact_sheet",
       "human_full_watch": "not_certified",
-      "phone_subtitle_review": "passed_sampled_opening_middle_ending"
+      "phone_subtitle_review": "passed_sampled_opening_middle_ending",
+      "github_sync_date": "2026-11-16",
+      "github_sync_commit": "d740174"
     },
     {
       "id": "ep024",
