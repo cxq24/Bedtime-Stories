@@ -1,0 +1,27 @@
+{
+  "shot_id": 3,
+  "image": "images/shot_03.png",
+  "sha256": "9af3561f609017db62d3f17dc24a3d800b1cd119ba4009207031875662000f07",
+  "size_px": [
+    941,
+    1671
+  ],
+  "source": "image_gen",
+  "source_image": "/workspace/Bedtime-Stories/episodes/ep024/v001/images/shot_03.png",
+  "generation_prompt": "单幅9:16竖屏水彩儿童绘本、细纸纹；依据本镜场景与动作生成静态单一瞬间。森林学堂窗台。皮皮穿灰蓝背带裤，认真观察窗台上同一盆圆叶椒草；出现芽芽时，两只小动物并肩照料，神情专注而亲切。植物叶片厚圆、深绿带柔亮叶脉。。角色身份、服装和重复道具沿用对应参考图；表情与视线按本镜情节绘制。画面无文字、拼贴、边框和水印，底部预留字幕安全区。",
+  "character_reference_paths": [
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/yaya_identity_v001.png"
+  ],
+  "continuity_reference_paths": [
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/yaya_identity_v001.png",
+    "images/shot_02.png"
+  ],
+  "asset_ids": [
+    "PIPPI",
+    "YAYA",
+    "POT_01"
+  ]
+}

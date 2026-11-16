@@ -1,0 +1,1396 @@
+{
+  "episode": "ep024",
+  "version": "v001",
+  "script_version": "v5",
+  "title": "露珠的小小座位",
+  "source_script": "02_100集剧本/用户长稿v5/结构化JSON/ep024.json",
+  "cover_title": "露珠座位",
+  "status": "draft_before_audio",
+  "narration_complete": true,
+  "shot_count": 35,
+  "total_duration_s": null,
+  "actual_audio_measured": false,
+  "max_visible_duration_s": null,
+  "shots": [
+    {
+      "id": 0,
+      "title": "开场问候与故事题目",
+      "text": "小朋友们，准备好听故事了吗？今天的故事叫《露珠的小小座位》。",
+      "source_ranges": [
+        {
+          "unit_id": "u000",
+          "paragraph_id": "p000",
+          "start_char": 0,
+          "end_char": 30
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "睡前故事讲述角",
+      "action": "皮皮以温和好奇的目光面向观众，轻抬一只爪邀请聆听；眉眼明亮、嘴角自然放松。画面为独立片头，不进入正文场景。",
+      "reality": "intro",
+      "motion": "fixed",
+      "opening": true,
+      "image": "images/shot_00.png",
+      "reference_manifest": "references/shot_00.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p000",
+      "continuity_refs": [],
+      "state_before": "按本镜连续性状态表记录。",
+      "state_after": "按本镜连续性状态表记录。",
+      "transition_from": null,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本，细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 1,
+      "title": "露珠叶的空间悬念",
+      "text": "一片小小的露珠叶，需要多少空间才能安稳停下呢？",
+      "source_ranges": [
+        {
+          "unit_id": "u001",
+          "paragraph_id": "p000",
+          "start_char": 0,
+          "end_char": 23
+        }
+      ],
+      "characters": [],
+      "outfits": {},
+      "setting": "独立象征画面：叶片与露珠",
+      "action": "一片饱满圆叶上，细叶脉边缘托住一颗圆亮露珠；柔和星点只来自露珠映光，不画文字、不提前替代正文的室内场景。",
+      "reality": "opening_imagination",
+      "motion": "fixed",
+      "opening": true,
+      "image": "images/shot_01.png",
+      "reference_manifest": "references/shot_01.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p000",
+      "continuity_refs": [],
+      "state_before": "按本镜连续性状态表记录。",
+      "state_after": "按本镜连续性状态表记录。",
+      "transition_from": 0,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本，细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 2,
+      "title": "学堂照料椒草",
+      "text": "皮皮现在是个细心的小园丁了。森林学堂窗台上的那盆圆叶椒草，",
+      "source_ranges": [
+        {
+          "unit_id": "u002",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "森林学堂窗台",
+      "action": "皮皮穿灰蓝背带裤，认真观察窗台上同一盆圆叶椒草；出现芽芽时，两只小动物并肩照料，神情专注而亲切。植物叶片厚圆、深绿带柔亮叶脉。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_02.png",
+      "reference_manifest": "references/shot_02.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p001",
+      "continuity_refs": [],
+      "state_before": "按本镜连续性状态表记录。",
+      "state_after": "按本镜连续性状态表记录。",
+      "transition_from": 1,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本，细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 3,
+      "title": "学堂照料椒草",
+      "text": "经过他和小鹿芽芽一个星期的轮流照顾，长得绿油油的，",
+      "source_ranges": [
+        {
+          "unit_id": "u003",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 25
+        }
+      ],
+      "characters": [
+        "pipi",
+        "yaya"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "yaya": "day_v001"
+      },
+      "setting": "森林学堂窗台",
+      "action": "皮皮穿灰蓝背带裤，认真观察窗台上同一盆圆叶椒草；出现芽芽时，两只小动物并肩照料，神情专注而亲切。植物叶片厚圆、深绿带柔亮叶脉。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_03.png",
+      "reference_manifest": "references/shot_03.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p001",
+      "continuity_refs": [],
+      "state_before": "按本镜连续性状态表记录。",
+      "state_after": "按本镜连续性状态表记录。",
+      "transition_from": 2,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本，细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 4,
+      "title": "放学带盆栽回家",
+      "text": "叶片又厚又亮。今天放学时，山羊老师让皮皮把花盆抱回家度周末，",
+      "source_ranges": [
+        {
+          "unit_id": "u004",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 30
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "森林学堂窗台",
+      "action": "放学时皮皮双手稳稳抱着同一只陶盆椒草离开学堂；神情小心专注，交代周末把盆栽带回家的移动。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_04.png",
+      "reference_manifest": "references/shot_04.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p001",
+      "continuity_refs": [],
+      "state_before": "按本镜连续性状态表记录。",
+      "state_after": "按本镜连续性状态表记录。",
+      "transition_from": 3,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本，细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 5,
+      "title": "放学带盆栽回家",
+      "text": "等星期一再带回学校。",
+      "source_ranges": [
+        {
+          "unit_id": "u005",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 10
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "森林学堂窗台",
+      "action": "放学时皮皮双手稳稳抱着同一只陶盆椒草离开学堂；神情小心专注，交代周末把盆栽带回家的移动。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_05.png",
+      "reference_manifest": "references/shot_05.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p001",
+      "continuity_refs": [],
+      "state_before": "按本镜连续性状态表记录。",
+      "state_after": "按本镜连续性状态表记录。",
+      "transition_from": 4,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本，细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 6,
+      "title": "花盆安放卧室窗台",
+      "text": "傍晚回到小木屋，皮皮把花盆稳稳地搬到了卧室的窗台上。",
+      "source_ranges": [
+        {
+          "unit_id": "u006",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 26
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "皮皮的小木屋卧室",
+      "action": "傍晚的暖色卧室窗台旁，皮皮双手把同一只圆叶椒草花盆放稳；窗、床头灯和床头小竹篮位置固定，表情细心平和。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_06.png",
+      "reference_manifest": "references/shot_06.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p002",
+      "continuity_refs": [],
+      "state_before": "按本镜连续性状态表记录。",
+      "state_after": "按本镜连续性状态表记录。",
+      "transition_from": 5,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本，细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 7,
+      "title": "准备擦拭圆叶",
+      "text": "吃过晚饭，皮皮拿来一块干净的小方布巾，",
+      "source_ranges": [
+        {
+          "unit_id": "u007",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 19
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "皮皮的小木屋卧室",
+      "action": "晚饭后，皮皮拿着一块干净的小方布巾，身体微微前倾观察每片圆叶，动作轻柔、神情认真；尚未触碰叶片。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_07.png",
+      "reference_manifest": "references/shot_07.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p002",
+      "continuity_refs": [],
+      "state_before": "按本镜连续性状态表记录。",
+      "state_after": "按本镜连续性状态表记录。",
+      "transition_from": 6,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本，细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 8,
+      "title": "准备擦拭圆叶",
+      "text": "想在睡前像平时擦桌子那样，把每一片绿叶子都擦拭一遍。",
+      "source_ranges": [
+        {
+          "unit_id": "u008",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 26
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "皮皮的小木屋卧室",
+      "action": "晚饭后，皮皮拿着一块干净的小方布巾，身体微微前倾观察每片圆叶，动作轻柔、神情认真；尚未触碰叶片。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_08.png",
+      "reference_manifest": "references/shot_08.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p002",
+      "continuity_refs": [],
+      "state_before": "按本镜连续性状态表记录。",
+      "state_after": "按本镜连续性状态表记录。",
+      "transition_from": 7,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本，细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 9,
+      "title": "发现叶缘的露珠",
+      "text": "当他伸出爪子，正要碰触最上面那片舒展的圆叶子时，",
+      "source_ranges": [
+        {
+          "unit_id": "u009",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 24
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "卧室窗台花盆近景",
+      "action": "皮皮伸出的爪停在叶片上方，随后低头细看；一颗晶莹露珠贴着同一片圆叶边缘的细叶脉，皮皮眉眼显出克制的惊奇。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_09.png",
+      "reference_manifest": "references/shot_09.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p003",
+      "continuity_refs": [],
+      "state_before": "按本镜连续性状态表记录。",
+      "state_after": "按本镜连续性状态表记录。",
+      "transition_from": 8,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本，细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 10,
+      "title": "发现叶缘的露珠",
+      "text": "皮皮忽然停住了。他低头仔细一看，发现在那片叶子的边缘，",
+      "source_ranges": [
+        {
+          "unit_id": "u010",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 27
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "卧室窗台花盆近景",
+      "action": "皮皮伸出的爪停在叶片上方，随后低头细看；一颗晶莹露珠贴着同一片圆叶边缘的细叶脉，皮皮眉眼显出克制的惊奇。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_10.png",
+      "reference_manifest": "references/shot_10.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p003",
+      "continuity_refs": [],
+      "state_before": "按本镜连续性状态表记录。",
+      "state_after": "按本镜连续性状态表记录。",
+      "transition_from": 9,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本，细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 11,
+      "title": "发现叶缘的露珠",
+      "text": "有一颗圆滚滚、亮晶晶的小露珠，正紧紧贴着细细的叶脉坐着呢。",
+      "source_ranges": [
+        {
+          "unit_id": "u011",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "卧室窗台花盆近景",
+      "action": "皮皮伸出的爪停在叶片上方，随后低头细看；一颗晶莹露珠贴着同一片圆叶边缘的细叶脉，皮皮眉眼显出克制的惊奇。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_11.png",
+      "reference_manifest": "references/shot_11.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p003",
+      "continuity_refs": [],
+      "state_before": "按本镜连续性状态表记录。",
+      "state_after": "按本镜连续性状态表记录。",
+      "transition_from": 10,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本，细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 12,
+      "title": "露珠映着床头灯",
+      "text": "更神奇的是，那颗小小的露珠就像一面袖珍小圆镜，",
+      "source_ranges": [
+        {
+          "unit_id": "u012",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 23
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "卧室窗台与床头灯",
+      "action": "露珠保持在原叶缘位置，微小圆面映出远处暖黄色床头灯；皮皮在背景凝神观察，神情惊喜转为担心布巾会擦走露珠。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_12.png",
+      "reference_manifest": "references/shot_12.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p004",
+      "continuity_refs": [],
+      "state_before": "按本镜连续性状态表记录。",
+      "state_after": "按本镜连续性状态表记录。",
+      "transition_from": 11,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本，细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 13,
+      "title": "露珠映着床头灯",
+      "text": "正好把屋里暖黄色的床头灯映在了里面，闪着一点温暖的星光。",
+      "source_ranges": [
+        {
+          "unit_id": "u013",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 28
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "卧室窗台与床头灯",
+      "action": "露珠保持在原叶缘位置，微小圆面映出远处暖黄色床头灯；皮皮在背景凝神观察，神情惊喜转为担心布巾会擦走露珠。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_13.png",
+      "reference_manifest": "references/shot_13.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p004",
+      "continuity_refs": [],
+      "state_before": "按本镜连续性状态表记录。",
+      "state_after": "按本镜连续性状态表记录。",
+      "transition_from": 12,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本，细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 14,
+      "title": "露珠映着床头灯",
+      "text": "皮皮心想：如果我现在用布巾去擦叶子，这颗好不容易坐稳的小露珠，",
+      "source_ranges": [
+        {
+          "unit_id": "u014",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 31
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "卧室窗台与床头灯",
+      "action": "露珠保持在原叶缘位置，微小圆面映出远处暖黄色床头灯；皮皮在背景凝神观察，神情惊喜转为担心布巾会擦走露珠。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_14.png",
+      "reference_manifest": "references/shot_14.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p004",
+      "continuity_refs": [],
+      "state_before": "按本镜连续性状态表记录。",
+      "state_after": "按本镜连续性状态表记录。",
+      "transition_from": 13,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本，细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 15,
+      "title": "露珠映着床头灯",
+      "text": "不就被我擦没了吗？",
+      "source_ranges": [
+        {
+          "unit_id": "u015",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 9
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "卧室窗台与床头灯",
+      "action": "露珠保持在原叶缘位置，微小圆面映出远处暖黄色床头灯；皮皮在背景凝神观察，神情惊喜转为担心布巾会擦走露珠。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_15.png",
+      "reference_manifest": "references/shot_15.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p004",
+      "continuity_refs": [],
+      "state_before": "按本镜连续性状态表记录。",
+      "state_after": "按本镜连续性状态表记录。",
+      "transition_from": 14,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本，细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 16,
+      "title": "收回布巾并照看窗帘",
+      "text": "于是，皮皮轻轻收回了手里的方布巾。不仅如此，",
+      "source_ranges": [
+        {
+          "unit_id": "u016",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 22
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "卧室窗台",
+      "action": "皮皮轻轻收回布巾，留意被夜风推动的叶片花窗帘；同一盆椒草在窗台，帘角靠近叶子，皮皮目光转向接触处，神情细心。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_16.png",
+      "reference_manifest": "references/shot_16.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p005",
+      "continuity_refs": [],
+      "state_before": "按本镜连续性状态表记录。",
+      "state_after": "按本镜连续性状态表记录。",
+      "transition_from": 15,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本，细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 17,
+      "title": "收回布巾并照看窗帘",
+      "text": "他还发现窗户边上的叶子花窗帘，每次被夜风吹动时，",
+      "source_ranges": [
+        {
+          "unit_id": "u017",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 24
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "卧室窗台",
+      "action": "皮皮轻轻收回布巾，留意被夜风推动的叶片花窗帘；同一盆椒草在窗台，帘角靠近叶子，皮皮目光转向接触处，神情细心。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_17.png",
+      "reference_manifest": "references/shot_17.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p005",
+      "continuity_refs": [],
+      "state_before": "按本镜连续性状态表记录。",
+      "state_after": "按本镜连续性状态表记录。",
+      "transition_from": 16,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本，细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 18,
+      "title": "收回布巾并照看窗帘",
+      "text": "帘角都会扫到花盆的叶子。皮皮便双手抱起小花盆，",
+      "source_ranges": [
+        {
+          "unit_id": "u018",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 23
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "卧室窗台",
+      "action": "皮皮轻轻收回布巾，留意被夜风推动的叶片花窗帘；同一盆椒草在窗台，帘角靠近叶子，皮皮目光转向接触处，神情细心。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_18.png",
+      "reference_manifest": "references/shot_18.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p005",
+      "continuity_refs": [],
+      "state_before": "按本镜连续性状态表记录。",
+      "state_after": "按本镜连续性状态表记录。",
+      "transition_from": 17,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本，细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 19,
+      "title": "把花盆轻移到内侧",
+      "text": "把它往窗台内侧轻轻挪了一小段距离，",
+      "source_ranges": [
+        {
+          "unit_id": "u019",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 17
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "卧室窗台",
+      "action": "皮皮双手托住同一花盆，沿窗台向室内一侧平稳挪动；露珠叶朝向不变，窗帘和花盆之间形成清晰宽空隙，姿势稳而谨慎。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_19.png",
+      "reference_manifest": "references/shot_19.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p005",
+      "continuity_refs": [],
+      "state_before": "按本镜连续性状态表记录。",
+      "state_after": "按本镜连续性状态表记录。",
+      "transition_from": 18,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本，细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 20,
+      "title": "把花盆轻移到内侧",
+      "text": "给花盆和窗帘之间留出了一道宽宽的空隙。",
+      "source_ranges": [
+        {
+          "unit_id": "u020",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 19
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "卧室窗台",
+      "action": "皮皮双手托住同一花盆，沿窗台向室内一侧平稳挪动；露珠叶朝向不变，窗帘和花盆之间形成清晰宽空隙，姿势稳而谨慎。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_20.png",
+      "reference_manifest": "references/shot_20.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p005",
+      "continuity_refs": [],
+      "state_before": "按本镜连续性状态表记录。",
+      "state_after": "按本镜连续性状态表记录。",
+      "transition_from": 19,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本，细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 21,
+      "title": "露珠安稳坐在叶脉上",
+      "text": "这样一来，绿叶子可以自在地舒展开来，",
+      "source_ranges": [
+        {
+          "unit_id": "u021",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 18
+        }
+      ],
+      "characters": [],
+      "outfits": {},
+      "setting": "卧室窗台",
+      "action": "花盆已处于窗台内侧，圆叶舒展、原露珠仍牢牢停在叶缘叶脉；夜风轻动窗帘，但帘角与叶片保持距离。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_21.png",
+      "reference_manifest": "references/shot_21.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p006",
+      "continuity_refs": [],
+      "state_before": "按本镜连续性状态表记录。",
+      "state_after": "按本镜连续性状态表记录。",
+      "transition_from": 20,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本，细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 22,
+      "title": "露珠安稳坐在叶脉上",
+      "text": "那颗亮晶晶的小露珠也没有滚走。原来，它今晚的专属小座位，",
+      "source_ranges": [
+        {
+          "unit_id": "u022",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 28
+        }
+      ],
+      "characters": [],
+      "outfits": {},
+      "setting": "卧室窗台",
+      "action": "花盆已处于窗台内侧，圆叶舒展、原露珠仍牢牢停在叶缘叶脉；夜风轻动窗帘，但帘角与叶片保持距离。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_22.png",
+      "reference_manifest": "references/shot_22.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p006",
+      "continuity_refs": [],
+      "state_before": "按本镜连续性状态表记录。",
+      "state_after": "按本镜连续性状态表记录。",
+      "transition_from": 21,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本，细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 23,
+      "title": "露珠安稳坐在叶脉上",
+      "text": "就在这片叶脉上呀。夜风再次从窗外经过，窗帘角轻轻摇晃着，",
+      "source_ranges": [
+        {
+          "unit_id": "u023",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 28
+        }
+      ],
+      "characters": [],
+      "outfits": {},
+      "setting": "卧室窗台",
+      "action": "花盆已处于窗台内侧，圆叶舒展、原露珠仍牢牢停在叶缘叶脉；夜风轻动窗帘，但帘角与叶片保持距离。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_23.png",
+      "reference_manifest": "references/shot_23.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p006",
+      "continuity_refs": [],
+      "state_before": "按本镜连续性状态表记录。",
+      "state_after": "按本镜连续性状态表记录。",
+      "transition_from": 22,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本，细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 24,
+      "title": "露珠安稳坐在叶脉上",
+      "text": "再也没有拂到那片柔软的叶子。",
+      "source_ranges": [
+        {
+          "unit_id": "u024",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 14
+        }
+      ],
+      "characters": [],
+      "outfits": {},
+      "setting": "卧室窗台",
+      "action": "花盆已处于窗台内侧，圆叶舒展、原露珠仍牢牢停在叶缘叶脉；夜风轻动窗帘，但帘角与叶片保持距离。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_24.png",
+      "reference_manifest": "references/shot_24.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p006",
+      "continuity_refs": [],
+      "state_before": "按本镜连续性状态表记录。",
+      "state_after": "按本镜连续性状态表记录。",
+      "transition_from": 23,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本，细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 25,
+      "title": "方布巾收回竹篮",
+      "text": "皮皮把小方布巾叠得整整齐齐，放回床头的小竹篮里。",
+      "source_ranges": [
+        {
+          "unit_id": "u025",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 24
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "卧室床头",
+      "action": "皮皮把同一块方布巾折叠整齐，放进床头的小竹篮；神情满足而安静，身体不遮挡窗台盆栽。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_25.png",
+      "reference_manifest": "references/shot_25.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p007",
+      "continuity_refs": [],
+      "state_before": "按本镜连续性状态表记录。",
+      "state_after": "按本镜连续性状态表记录。",
+      "transition_from": 24,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本，细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 26,
+      "title": "给细小事物留空间",
+      "text": "他懂得了一个新道理：有些微小又美好的事物，",
+      "source_ranges": [
+        {
+          "unit_id": "u026",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 21
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "卧室窗边的平静画面",
+      "action": "皮皮望向仍安稳的露珠和舒展的叶片，轻轻点头；姿态安静体贴，画面表现远远照看、不再触碰。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_26.png",
+      "reference_manifest": "references/shot_26.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p007",
+      "continuity_refs": [],
+      "state_before": "按本镜连续性状态表记录。",
+      "state_after": "按本镜连续性状态表记录。",
+      "transition_from": 25,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本，细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 27,
+      "title": "方布巾收回竹篮",
+      "text": "不需要我们去过多地摆弄它，只要远远地照看一下，",
+      "source_ranges": [
+        {
+          "unit_id": "u027",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 23
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "卧室床头",
+      "action": "皮皮把同一块方布巾折叠整齐，放进床头的小竹篮；神情满足而安静，身体不遮挡窗台盆栽。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_27.png",
+      "reference_manifest": "references/shot_27.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p007",
+      "continuity_refs": [],
+      "state_before": "按本镜连续性状态表记录。",
+      "state_after": "按本镜连续性状态表记录。",
+      "transition_from": 26,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本，细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 28,
+      "title": "给细小事物留空间",
+      "text": "给它留出一点点安静的空间，就足够了。",
+      "source_ranges": [
+        {
+          "unit_id": "u028",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 18
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "卧室窗边的平静画面",
+      "action": "皮皮望向仍安稳的露珠和舒展的叶片，轻轻点头；姿态安静体贴，画面表现远远照看、不再触碰。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_28.png",
+      "reference_manifest": "references/shot_28.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p007",
+      "continuity_refs": [],
+      "state_before": "按本镜连续性状态表记录。",
+      "state_after": "按本镜连续性状态表记录。",
+      "transition_from": 27,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本，细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 29,
+      "title": "皮皮为耳朵留出位置",
+      "text": "皮皮爬上自己的小木床，在躺下的时候，也特意把枕头拍松，",
+      "source_ranges": [
+        {
+          "unit_id": "u029",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 27
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "皮皮的小卧室床上",
+      "action": "夜间，皮皮已换深蓝星星睡帽和睡衣，爬上小木床并轻拍枕头，为两只长耳朵留出宽松位置；神情放松。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_29.png",
+      "reference_manifest": "references/shot_29.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p008",
+      "continuity_refs": [],
+      "state_before": "按本镜连续性状态表记录。",
+      "state_after": "按本镜连续性状态表记录。",
+      "transition_from": 28,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本，细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 30,
+      "title": "皮皮为耳朵留出位置",
+      "text": "给自己的两只长耳朵留出了一点不会被挤到的宽敞位置。",
+      "source_ranges": [
+        {
+          "unit_id": "u030",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 25
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "皮皮的小卧室床上",
+      "action": "夜间，皮皮已换深蓝星星睡帽和睡衣，爬上小木床并轻拍枕头，为两只长耳朵留出宽松位置；神情放松。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_30.png",
+      "reference_manifest": "references/shot_30.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p008",
+      "continuity_refs": [],
+      "state_before": "按本镜连续性状态表记录。",
+      "state_after": "按本镜连续性状态表记录。",
+      "transition_from": 29,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本，细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 31,
+      "title": "月光下的安静卧室",
+      "text": "月光很安静，窗台上的花盆也很安静。皮皮抱着胡萝卜玩偶，",
+      "source_ranges": [
+        {
+          "unit_id": "u031",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 27
+        }
+      ],
+      "characters": [],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "皮皮的小卧室床上",
+      "action": "安静夜色里同一卧室窗台的花盆与圆叶，露珠已不再强调细节；月光柔和，床头灯熄灭，场景平静。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_31.png",
+      "reference_manifest": "references/shot_31.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p008",
+      "continuity_refs": [],
+      "state_before": "按本镜连续性状态表记录。",
+      "state_after": "按本镜连续性状态表记录。",
+      "transition_from": 30,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本，细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 32,
+      "title": "抱着胡萝卜玩偶入睡",
+      "text": "慢慢闭上了眼睛。",
+      "source_ranges": [
+        {
+          "unit_id": "u032",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 8
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "皮皮的小卧室床上",
+      "action": "皮皮侧躺抱住熟悉的橙色胡萝卜玩偶，长耳朵舒展在拍松的枕头上，眼睛渐闭，毛毯自然覆盖；窗台花盆安静留在远处。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_32.png",
+      "reference_manifest": "references/shot_32.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p008",
+      "continuity_refs": [],
+      "state_before": "按本镜连续性状态表记录。",
+      "state_after": "按本镜连续性状态表记录。",
+      "transition_from": 31,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本，细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 33,
+      "title": "给自己留一点舒适空间",
+      "text": "小朋友，今晚睡觉的时候，也给自己的身体留一点舒服、宽松的空间吧。",
+      "source_ranges": [
+        {
+          "unit_id": "u033",
+          "paragraph_id": "p009",
+          "start_char": 0,
+          "end_char": 32
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "睡前讲述与安睡画面",
+      "action": "皮皮在床上舒展小手和小脚，以温柔目光面向观众后安心闭眼；姿势松弛，不蜷缩，最后留下安静晚安画面。",
+      "reality": "outro",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_33.png",
+      "reference_manifest": "references/shot_33.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p009",
+      "continuity_refs": [],
+      "state_before": "按本镜连续性状态表记录。",
+      "state_after": "按本镜连续性状态表记录。",
+      "transition_from": 32,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本，细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 34,
+      "title": "给自己留一点舒适空间",
+      "text": "不用把自己蜷得紧紧的，舒展小手和小脚，安心入睡吧，晚安。",
+      "source_ranges": [
+        {
+          "unit_id": "u034",
+          "paragraph_id": "p009",
+          "start_char": 0,
+          "end_char": 28
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "睡前讲述与安睡画面",
+      "action": "皮皮在床上舒展小手和小脚，以温柔目光面向观众后安心闭眼；姿势松弛，不蜷缩，最后留下安静晚安画面。",
+      "reality": "outro",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_34.png",
+      "reference_manifest": "references/shot_34.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p009",
+      "continuity_refs": [],
+      "state_before": "按本镜连续性状态表记录。",
+      "state_after": "按本镜连续性状态表记录。",
+      "transition_from": 33,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本，细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "text": "等星期一再带回学校。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "b295ecd639390bd8bd3faf2e57eb1dc4cd8cabd8c44ad282090ea80fbc9828ae",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3077080,
+      "text": "等"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4346250,
+      "duration": 8461660,
+      "text": "星期"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14346250,
+      "duration": 4807500,
+      "text": "一再"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19346250,
+      "duration": 5000000,
+      "text": "带回"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24538330,
+      "duration": 7692500,
+      "text": "学校"
+    }
+  ]
+}

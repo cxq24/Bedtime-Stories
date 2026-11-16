@@ -1,0 +1,28 @@
+{
+  "shot_id": 34,
+  "image": "images/shot_34.png",
+  "sha256": "fba6771acdb88501c5b73d9ae2e8e6d6c3b8cae73e2f0d301fad50226077ff49",
+  "size_px": [
+    941,
+    1672
+  ],
+  "source": "image_gen",
+  "source_image": "/workspace/Bedtime-Stories/episodes/ep024/v001/images/shot_34.png",
+  "generation_prompt": "单幅竖屏水彩绘本；只呈现皮皮在床上闭眼安睡的一个时刻，严禁分格/拼贴；保留相同角色身份、睡衣、胡萝卜玩偶、床和窗台椒草。",
+  "character_reference_paths": [
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+  ],
+  "continuity_reference_paths": [
+    "/workspace/Bedtime-Stories/episodes/ep024/v001/images/shot_31.png"
+  ],
+  "asset_ids": [
+    "PIPPI",
+    "BED_01",
+    "PILLOW_01",
+    "CARROT_01",
+    "WINDOW_01",
+    "PLANT_01",
+    "POT_01"
+  ]
+}

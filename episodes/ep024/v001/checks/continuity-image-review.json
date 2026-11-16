@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "reviewed_shots": 35,
+  "contact_sheet": "checks/storyboard_contact_sheet.jpg",
+  "final_contact_sheet": "checks/storyboard_contact.jpg",
+  "method": "逐镜接触表目视检查，并检查关键连续镜18–20、片尾镜34原图。",
+  "findings": [
+    "35张图均为独立原图，未复用历史集剧情图；镜头内无运动。",
+    "首尾和室内场景布局、皮皮角色身份与服装按时间段保持一致。",
+    "初次检查发现镜18、19和34存在拼格，已重生成单幅构图并重新渲染；复核通过。",
+    "露珠保持同一叶缘；窗帘接触、移盆与留空隙按因果顺序呈现。"
+  ]
+}

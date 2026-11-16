@@ -1,0 +1,28 @@
+{
+  "episode": "ep024",
+  "version": "v001",
+  "title": "露珠的小小座位",
+  "script_version": "v5",
+  "source_script": "02_100集剧本/用户长稿v5/结构化JSON/ep024.json",
+  "duration_s": 260.84,
+  "hanzi": 736,
+  "shots": 35,
+  "subtitle_cues": 129,
+  "opening_shots": [
+    0,
+    1
+  ],
+  "voice": "completed",
+  "image_generation": "35_of_35_generated",
+  "continuity_preflight": "passed",
+  "continuity_image_review": "passed_contact_sheet_review",
+  "pinyin_coverage": "100_percent",
+  "pinyin_manual_context_review": "weekday_and_bu_sandhi_corrected; full audio pronunciation listen not certified",
+  "render": "complete",
+  "technical_checks": "passed",
+  "human_full_watch": "not_certified",
+  "user_acceptance": "pending",
+  "publication": "not_published",
+  "github_sync": "not_requested",
+  "technical_report": "checks/technical-report.json"
+}

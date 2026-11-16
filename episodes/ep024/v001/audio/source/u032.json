@@ -1,0 +1,41 @@
+{
+  "text": "慢慢闭上了眼睛。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "66d23bcce5da099e28b0565823e9ddb39cf62e9c209141835e503798b158beb3",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6153750,
+      "text": "慢慢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7807500,
+      "duration": 2692500,
+      "text": "闭"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10500000,
+      "duration": 2692500,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13192500,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14538330,
+      "duration": 8077080,
+      "text": "眼睛"
+    }
+  ]
+}

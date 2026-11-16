@@ -1,0 +1,30 @@
+{
+  "shot_id": 27,
+  "image": "images/shot_27.png",
+  "sha256": "bd808e8c00a8e4c21bd9e299d5ba0966cd6fd0777ff8acce4dde4c738215c12c",
+  "size_px": [
+    941,
+    1672
+  ],
+  "source": "image_gen",
+  "source_image": "/workspace/Bedtime-Stories/episodes/ep024/v001/images/shot_27.png",
+  "generation_prompt": "单幅9:16竖屏水彩儿童绘本、细纸纹；依据本镜场景与动作生成静态单一瞬间。卧室床头。皮皮把同一块方布巾折叠整齐，放进床头的小竹篮；神情满足而安静，身体不遮挡窗台盆栽。。角色身份、服装和重复道具沿用对应参考图；表情与视线按本镜情节绘制。画面无文字、拼贴、边框和水印，底部预留字幕安全区。",
+  "character_reference_paths": [
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+  ],
+  "continuity_reference_paths": [
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "images/shot_02.png",
+    "images/shot_02.png",
+    "images/shot_11.png",
+    "images/shot_11.png"
+  ],
+  "asset_ids": [
+    "PIPPI",
+    "PLANT_01",
+    "POT_01",
+    "LEAF_TOP_01",
+    "DEW_01"
+  ]
+}

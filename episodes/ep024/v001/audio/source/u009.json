@@ -1,0 +1,95 @@
+{
+  "text": "当他伸出爪子，正要碰触最上面那片舒展的圆叶子时，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "894b81c48a23fe7fc13d21df7dc965d37f135cb699c2f77e1bdaa7dd7bbb3ff9",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2884580,
+      "text": "当"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4153750,
+      "duration": 1922910,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6461660,
+      "duration": 5192500,
+      "text": "伸出"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11846250,
+      "duration": 8269160,
+      "text": "爪子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24922910,
+      "duration": 4422910,
+      "text": "正要"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29538330,
+      "duration": 7884580,
+      "text": "碰触"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37807500,
+      "duration": 3653750,
+      "text": "最"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41461660,
+      "duration": 4807500,
+      "text": "上面"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46461660,
+      "duration": 1922910,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48384580,
+      "duration": 2884580,
+      "text": "片"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51653750,
+      "duration": 5192500,
+      "text": "舒展"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56846250,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58577080,
+      "duration": 8461250,
+      "text": "圆叶子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 67038330,
+      "duration": 5000000,
+      "text": "时"
+    }
+  ]
+}

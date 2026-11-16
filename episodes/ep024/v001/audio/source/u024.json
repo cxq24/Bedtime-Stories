@@ -1,0 +1,59 @@
+{
+  "text": "再也没有拂到那片柔软的叶子。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "37179ca77ffa8b195889159670a94cbe64c9f231376b072fed5c6f8430b735fe",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 13077080,
+      "text": "再也没有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15884580,
+      "duration": 2500000,
+      "text": "拂"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18384580,
+      "duration": 2307500,
+      "text": "到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20884580,
+      "duration": 1922910,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22807500,
+      "duration": 3269160,
+      "text": "片"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26461660,
+      "duration": 5576660,
+      "text": "柔软"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32038330,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33384580,
+      "duration": 7307500,
+      "text": "叶子"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "shot_id": 14,
+  "image": "images/shot_14.png",
+  "sha256": "7e0238aefdc569f4ba47e72c2a1423297938e407856612860acdc886b5712cef",
+  "size_px": [
+    941,
+    1672
+  ],
+  "source": "image_gen",
+  "source_image": "/workspace/Bedtime-Stories/episodes/ep024/v001/images/shot_14.png",
+  "generation_prompt": "单幅9:16竖屏水彩儿童绘本、细纸纹；依据本镜场景与动作生成静态单一瞬间。卧室窗台与床头灯。中近景，皮皮把方布巾举在一旁尚未碰叶子，低头看向露珠；神情认真、轻微担心，另一爪保持克制停下。。角色身份、服装和重复道具沿用对应参考图；表情与视线按本镜情节绘制。画面无文字、拼贴、边框和水印，底部预留字幕安全区。",
+  "character_reference_paths": [
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+  ],
+  "continuity_reference_paths": [
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "images/shot_02.png",
+    "images/shot_02.png",
+    "images/shot_11.png",
+    "images/shot_11.png",
+    "images/shot_07.png",
+    "images/shot_13.png"
+  ],
+  "asset_ids": [
+    "PIPPI",
+    "PLANT_01",
+    "POT_01",
+    "LEAF_TOP_01",
+    "DEW_01",
+    "CLOTH_01",
+    "LAMP_01"
+  ]
+}

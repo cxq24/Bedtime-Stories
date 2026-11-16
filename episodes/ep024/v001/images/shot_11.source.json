@@ -1,0 +1,31 @@
+{
+  "shot_id": 11,
+  "image": "images/shot_11.png",
+  "sha256": "98d819653b39577ed3296e6cd0ac650ef31ded2532fbff7f23308b373bac66c6",
+  "size_px": [
+    941,
+    1672
+  ],
+  "source": "image_gen",
+  "source_image": "/workspace/Bedtime-Stories/episodes/ep024/v001/images/shot_11.png",
+  "generation_prompt": "单幅9:16竖屏水彩儿童绘本、细纸纹；依据本镜场景与动作生成静态单一瞬间。卧室窗台花盆近景。微距特写：同一片圆叶边缘的细叶脉托着一颗透明圆露珠，光线柔和；不出现人物，露珠位置成为唯一重点。。角色身份、服装和重复道具沿用对应参考图；表情与视线按本镜情节绘制。画面无文字、拼贴、边框和水印，底部预留字幕安全区。",
+  "character_reference_paths": [],
+  "continuity_reference_paths": [
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "images/shot_02.png",
+    "images/shot_02.png",
+    "images/shot_11.png",
+    "images/shot_11.png",
+    "images/shot_07.png",
+    "images/shot_13.png"
+  ],
+  "asset_ids": [
+    "PIPPI",
+    "PLANT_01",
+    "POT_01",
+    "LEAF_TOP_01",
+    "DEW_01",
+    "CLOTH_01",
+    "LAMP_01"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "shot_id": 13,
+  "image": "images/shot_13.png",
+  "sha256": "4f1340a63a250dfe54a21a76774c184cffadfb508881e44f4c02a2f678a22e35",
+  "size_px": [
+    941,
+    1671
+  ],
+  "source": "image_gen",
+  "source_image": "/workspace/Bedtime-Stories/episodes/ep024/v001/images/shot_13.png",
+  "generation_prompt": "单幅9:16竖屏水彩儿童绘本、细纸纹；依据本镜场景与动作生成静态单一瞬间。卧室窗台与床头灯。从叶片侧面近景看露珠中的暖黄床头灯倒影，背景深处能辨认床头灯与窗台；同一露珠未移动。。角色身份、服装和重复道具沿用对应参考图；表情与视线按本镜情节绘制。画面无文字、拼贴、边框和水印，底部预留字幕安全区。",
+  "character_reference_paths": [],
+  "continuity_reference_paths": [
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "images/shot_02.png",
+    "images/shot_02.png",
+    "images/shot_11.png",
+    "images/shot_11.png",
+    "images/shot_07.png",
+    "images/shot_13.png"
+  ],
+  "asset_ids": [
+    "PIPPI",
+    "PLANT_01",
+    "POT_01",
+    "LEAF_TOP_01",
+    "DEW_01",
+    "CLOTH_01",
+    "LAMP_01"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "shot_id": 8,
+  "image": "images/shot_08.png",
+  "sha256": "ee8214278e81ed29e98c22e8340fadc02ccebf034fa8ac7e8176fd2564dccced",
+  "size_px": [
+    941,
+    1672
+  ],
+  "source": "image_gen",
+  "source_image": "/workspace/Bedtime-Stories/episodes/ep024/v001/images/shot_08.png",
+  "generation_prompt": "单幅9:16竖屏水彩儿童绘本、细纸纹；依据本镜场景与动作生成静态单一瞬间。皮皮的小木屋卧室。晚饭后，皮皮拿着一块干净的小方布巾，身体微微前倾观察每片圆叶，动作轻柔、神情认真；尚未触碰叶片。。角色身份、服装和重复道具沿用对应参考图；表情与视线按本镜情节绘制。画面无文字、拼贴、边框和水印，底部预留字幕安全区。",
+  "character_reference_paths": [
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+  ],
+  "continuity_reference_paths": [
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "images/shot_02.png",
+    "images/shot_02.png",
+    "images/shot_17.png",
+    "images/shot_13.png",
+    "images/shot_07.png"
+  ],
+  "asset_ids": [
+    "PIPPI",
+    "PLANT_01",
+    "POT_01",
+    "WINDOW_01",
+    "LAMP_01",
+    "CLOTH_01"
+  ]
+}

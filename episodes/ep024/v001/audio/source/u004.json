@@ -1,0 +1,119 @@
+{
+  "text": "叶片又厚又亮。今天放学时，山羊老师让皮皮把花盆抱回家度周末，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "22dfb07dd482119250eddf06c5ebe8b18d75b27842d5d4bf7116f74e80919ff3",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 7115410,
+      "text": "叶片"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8769160,
+      "duration": 2884580,
+      "text": "又"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11653750,
+      "duration": 2692500,
+      "text": "厚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14538330,
+      "duration": 3269160,
+      "text": "又"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17807500,
+      "duration": 4422910,
+      "text": "亮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31153750,
+      "duration": 5769160,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37115410,
+      "duration": 5769160,
+      "text": "放学"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42884580,
+      "duration": 5192500,
+      "text": "时"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52115410,
+      "duration": 5577080,
+      "text": "山羊"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57884580,
+      "duration": 8653750,
+      "text": "老师"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 66922910,
+      "duration": 2884580,
+      "text": "让"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 70000000,
+      "duration": 6346250,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 76730830,
+      "duration": 1922910,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78846250,
+      "duration": 6346250,
+      "text": "花盆"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 85577080,
+      "duration": 2500000,
+      "text": "抱"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 88077080,
+      "duration": 2692500,
+      "text": "回"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 90961660,
+      "duration": 5000000,
+      "text": "家度"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 96153750,
+      "duration": 7692500,
+      "text": "周末"
+    }
+  ]
+}

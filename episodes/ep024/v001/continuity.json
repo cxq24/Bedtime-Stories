@@ -1,0 +1,736 @@
+{
+  "episode": "ep024",
+  "version": "v001",
+  "status": "text_preflight_passed_image_contact_review_passed",
+  "checks": {
+    "script_recap": "Passed: symbolic opening remains separate; school plant is carried home; dew is discovered and left untouched; curtain contact motivates a single inward pot move; post-move gap protects the leaf; cloth is stored; Pipi changes to sleep clothes and settles in the bedroom.",
+    "object_state_review": "Passed: same pot, peperomia, upper leaf, dew drop and curtain persist across windowsill shots; dew remains in place; cloth transitions from hand to basket; sleep items stay in the bedroom.",
+    "contact_sheet": "checks/storyboard_contact_sheet.jpg",
+    "human_visual_review": "Reviewed all 35 frames in contact sheet and inspected critical shots 18–20; no collage/split frame or unexplained scene jump remains."
+  },
+  "assets": [
+    {
+      "asset_id": "PIPPI",
+      "appearance": "小灰兔、圆脸、粉鼻、自然下垂长耳；白天灰蓝背带裤、米色上衣；睡前深蓝星星睡帽与夜间服。",
+      "ref": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "first_reference": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+    },
+    {
+      "asset_id": "YAYA",
+      "appearance": "小鹿芽芽；严格遵循身份参考图，不改变头型、毛色和五官。",
+      "ref": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/yaya_identity_v001.png",
+      "first_reference": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/yaya_identity_v001.png"
+    },
+    {
+      "asset_id": "POT_01",
+      "appearance": "同一只浅陶色圆盆，圆口、朴素哑光质地。",
+      "ref": "images/shot_02.png",
+      "first_reference": "images/shot_02.png"
+    },
+    {
+      "asset_id": "PLANT_01",
+      "appearance": "一盆圆叶椒草；厚实圆形深绿叶、细浅绿叶脉，叶片数量和整体形状在连续室内镜头中一致。",
+      "ref": "images/shot_02.png",
+      "first_reference": "images/shot_02.png"
+    },
+    {
+      "asset_id": "LEAF_TOP_01",
+      "appearance": "植株最上方一片舒展圆叶，边缘有清楚细叶脉；承托唯一露珠。",
+      "ref": "images/shot_11.png",
+      "first_reference": "images/shot_11.png"
+    },
+    {
+      "asset_id": "DEW_01",
+      "appearance": "一颗透明圆滚小露珠，持续贴在LEAF_TOP_01边缘叶脉，映出暖黄床头灯；皮皮移动花盆前后位置不变。",
+      "ref": "images/shot_11.png",
+      "first_reference": "images/shot_11.png"
+    },
+    {
+      "asset_id": "CLOTH_01",
+      "appearance": "一块干净浅米色方布巾；先拿在皮皮手中，未擦到露珠，后来折叠放入竹篮。",
+      "ref": "images/shot_07.png",
+      "first_reference": "images/shot_07.png"
+    },
+    {
+      "asset_id": "CURTAIN_01",
+      "appearance": "木窗边的浅米底绿叶纹窗帘；夜风吹动帘角，原位置会扫到盆栽叶片，花盆移内侧后不再接触。",
+      "ref": "images/shot_17.png",
+      "first_reference": "images/shot_17.png"
+    },
+    {
+      "asset_id": "WINDOW_01",
+      "appearance": "卧室木窗和同一窗台，花盆沿窗台从靠帘位置向内侧移动；窗帘在左侧，花盆移后留出清楚空隙。",
+      "ref": "images/shot_17.png",
+      "first_reference": "images/shot_17.png"
+    },
+    {
+      "asset_id": "LAMP_01",
+      "appearance": "床头暖黄色小灯；其暖光在室内、露珠反光中持续出现，夜景后段月光渐强。",
+      "ref": "images/shot_13.png",
+      "first_reference": "images/shot_13.png"
+    },
+    {
+      "asset_id": "BASKET_01",
+      "appearance": "床头小竹篮，浅棕色细编织，位置在卧室床边小桌。",
+      "ref": "images/shot_24.png",
+      "first_reference": "images/shot_24.png"
+    },
+    {
+      "asset_id": "BED_01",
+      "appearance": "小木床，固定木质床头和栏杆；靠窗但不挡窗台。",
+      "ref": "images/shot_29.png",
+      "first_reference": "images/shot_29.png"
+    },
+    {
+      "asset_id": "PILLOW_01",
+      "appearance": "浅米色软枕头，皮皮拍松并留出两只长耳朵的宽敞位置。",
+      "ref": "images/shot_29.png",
+      "first_reference": "images/shot_29.png"
+    },
+    {
+      "asset_id": "CARROT_01",
+      "appearance": "同一只柔软橙色胡萝卜玩偶，绿叶冠，末段一直由皮皮抱在怀里。",
+      "ref": "images/shot_31.png",
+      "first_reference": "images/shot_31.png"
+    }
+  ],
+  "shots": [
+    {
+      "shot_id": 0,
+      "setting": "睡前故事讲述角",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPPI"
+      ],
+      "state_before": "独立睡前讲述角；皮皮准备向观众介绍故事。",
+      "action": "皮皮以温和好奇的目光面向观众，轻抬一只爪邀请聆听；眉眼明亮、嘴角自然放松。画面为独立片头，不进入正文场景。",
+      "state_after": "片头问候完成，正文尚未进入现实剧情。",
+      "transition_from": null
+    },
+    {
+      "shot_id": 1,
+      "setting": "独立象征画面：叶片与露珠",
+      "characters": [],
+      "continuity_refs": [
+        "PLANT_01",
+        "LEAF_TOP_01",
+        "DEW_01"
+      ],
+      "state_before": "讲述角的象征画面，与正文现实场景分开。",
+      "action": "一片饱满圆叶上，细叶脉边缘托住一颗圆亮露珠；柔和星点只来自露珠映光，不画文字、不提前替代正文的室内场景。",
+      "state_after": "露珠意象出现，仅作开场预告，不改变正文物件位置。",
+      "transition_from": 0
+    },
+    {
+      "shot_id": 2,
+      "setting": "森林学堂窗台",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPPI",
+        "PLANT_01",
+        "POT_01"
+      ],
+      "state_before": "学校窗台上有同一盆椒草；皮皮在学堂，芽芽只在轮流照料镜头入场。",
+      "action": "皮皮穿灰蓝背带裤，认真观察窗台上同一盆圆叶椒草；出现芽芽时，两只小动物并肩照料，神情专注而亲切。植物叶片厚圆、深绿带柔亮叶脉。",
+      "state_after": "放学后皮皮抱起同一花盆带回家；植物仍在同一盆中，没有拆换或遗漏。",
+      "transition_from": 1
+    },
+    {
+      "shot_id": 3,
+      "setting": "森林学堂窗台",
+      "characters": [
+        "pipi",
+        "yaya"
+      ],
+      "continuity_refs": [
+        "PIPPI",
+        "YAYA",
+        "POT_01"
+      ],
+      "state_before": "学校窗台上有同一盆椒草；皮皮在学堂，芽芽只在轮流照料镜头入场。",
+      "action": "皮皮穿灰蓝背带裤，认真观察窗台上同一盆圆叶椒草；出现芽芽时，两只小动物并肩照料，神情专注而亲切。植物叶片厚圆、深绿带柔亮叶脉。",
+      "state_after": "放学后皮皮抱起同一花盆带回家；植物仍在同一盆中，没有拆换或遗漏。",
+      "transition_from": 2
+    },
+    {
+      "shot_id": 4,
+      "setting": "森林学堂窗台",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPPI",
+        "PLANT_01",
+        "POT_01"
+      ],
+      "state_before": "学校窗台上有同一盆椒草；皮皮在学堂，芽芽只在轮流照料镜头入场。",
+      "action": "放学时皮皮双手稳稳抱着同一只陶盆椒草离开学堂；神情小心专注，交代周末把盆栽带回家的移动。",
+      "state_after": "放学后皮皮抱起同一花盆带回家；植物仍在同一盆中，没有拆换或遗漏。",
+      "transition_from": 3
+    },
+    {
+      "shot_id": 5,
+      "setting": "森林学堂窗台",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPPI",
+        "PLANT_01",
+        "POT_01"
+      ],
+      "state_before": "学校窗台上有同一盆椒草；皮皮在学堂，芽芽只在轮流照料镜头入场。",
+      "action": "放学时皮皮双手稳稳抱着同一只陶盆椒草离开学堂；神情小心专注，交代周末把盆栽带回家的移动。",
+      "state_after": "放学后皮皮抱起同一花盆带回家；植物仍在同一盆中，没有拆换或遗漏。",
+      "transition_from": 4
+    },
+    {
+      "shot_id": 6,
+      "setting": "皮皮的小木屋卧室",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPPI",
+        "PLANT_01",
+        "POT_01",
+        "WINDOW_01",
+        "LAMP_01"
+      ],
+      "state_before": "皮皮已由学校带回花盆，回到木屋卧室。",
+      "action": "傍晚的暖色卧室窗台旁，皮皮双手把同一只圆叶椒草花盆放稳；窗、床头灯和床头小竹篮位置固定，表情细心平和。",
+      "state_after": "花盆稳稳放在卧室窗台；窗帘、床头灯和卧室布局已建立。",
+      "transition_from": 5
+    },
+    {
+      "shot_id": 7,
+      "setting": "皮皮的小木屋卧室",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPPI",
+        "PLANT_01",
+        "POT_01",
+        "WINDOW_01",
+        "LAMP_01",
+        "CLOTH_01"
+      ],
+      "state_before": "花盆在卧室窗台，叶片完整；皮皮拿到干净方布巾。",
+      "action": "晚饭后，皮皮拿着一块干净的小方布巾，身体微微前倾观察每片圆叶，动作轻柔、神情认真；尚未触碰叶片。",
+      "state_after": "皮皮打算轻擦叶片，布巾仍完整干燥，尚未碰到植物。",
+      "transition_from": 6
+    },
+    {
+      "shot_id": 8,
+      "setting": "皮皮的小木屋卧室",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPPI",
+        "PLANT_01",
+        "POT_01",
+        "WINDOW_01",
+        "LAMP_01",
+        "CLOTH_01"
+      ],
+      "state_before": "花盆在卧室窗台，叶片完整；皮皮拿到干净方布巾。",
+      "action": "晚饭后，皮皮拿着一块干净的小方布巾，身体微微前倾观察每片圆叶，动作轻柔、神情认真；尚未触碰叶片。",
+      "state_after": "皮皮打算轻擦叶片，布巾仍完整干燥，尚未碰到植物。",
+      "transition_from": 7
+    },
+    {
+      "shot_id": 9,
+      "setting": "卧室窗台花盆近景",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPPI",
+        "PLANT_01",
+        "POT_01",
+        "LEAF_TOP_01",
+        "DEW_01",
+        "CLOTH_01",
+        "LAMP_01"
+      ],
+      "state_before": "皮皮的爪和布巾靠近最上方舒展圆叶。",
+      "action": "皮皮的爪尖停在最上方舒展圆叶上方一小段距离，干净方布巾在另一爪中；侧面中景明确表现“将碰未碰”，眼神专注，神情平静。",
+      "state_after": "皮皮停手并发现叶缘的露珠；露珠贴在同一叶脉，未被触碰。",
+      "transition_from": 8
+    },
+    {
+      "shot_id": 10,
+      "setting": "卧室窗台花盆近景",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPPI",
+        "PLANT_01",
+        "POT_01",
+        "LEAF_TOP_01",
+        "DEW_01",
+        "CLOTH_01",
+        "LAMP_01"
+      ],
+      "state_before": "皮皮的爪和布巾靠近最上方舒展圆叶。",
+      "action": "从皮皮肩后斜俯视，他突然停下动作并低头细看，视线落向叶缘；露珠刚进入视野，皮皮眉眼转为疑惑好奇。",
+      "state_after": "皮皮停手并发现叶缘的露珠；露珠贴在同一叶脉，未被触碰。",
+      "transition_from": 9
+    },
+    {
+      "shot_id": 11,
+      "setting": "卧室窗台花盆近景",
+      "characters": [],
+      "continuity_refs": [
+        "PIPPI",
+        "PLANT_01",
+        "POT_01",
+        "LEAF_TOP_01",
+        "DEW_01",
+        "CLOTH_01",
+        "LAMP_01"
+      ],
+      "state_before": "露珠仍贴在最上叶的细叶脉，床头灯点亮。",
+      "action": "微距特写：同一片圆叶边缘的细叶脉托着一颗透明圆露珠，光线柔和；不出现人物，露珠位置成为唯一重点。",
+      "state_after": "皮皮看见灯光映入露珠并想到擦拭会带走它，因此没有擦叶；布巾保持在安全距离。",
+      "transition_from": 10
+    },
+    {
+      "shot_id": 12,
+      "setting": "卧室窗台与床头灯",
+      "characters": [],
+      "continuity_refs": [
+        "PIPPI",
+        "PLANT_01",
+        "POT_01",
+        "LEAF_TOP_01",
+        "DEW_01",
+        "CLOTH_01",
+        "LAMP_01"
+      ],
+      "state_before": "露珠仍贴在最上叶的细叶脉，床头灯点亮。",
+      "action": "极近景对准露珠表面与叶脉，露珠晶莹而安稳，背景柔和虚化；以微小圆镜的质感表现发现的神奇，不添加奇幻生物。",
+      "state_after": "皮皮看见灯光映入露珠并想到擦拭会带走它，因此没有擦叶；布巾保持在安全距离。",
+      "transition_from": 11
+    },
+    {
+      "shot_id": 13,
+      "setting": "卧室窗台与床头灯",
+      "characters": [],
+      "continuity_refs": [
+        "PIPPI",
+        "PLANT_01",
+        "POT_01",
+        "LEAF_TOP_01",
+        "DEW_01",
+        "CLOTH_01",
+        "LAMP_01"
+      ],
+      "state_before": "露珠仍贴在最上叶的细叶脉，床头灯点亮。",
+      "action": "从叶片侧面近景看露珠中的暖黄床头灯倒影，背景深处能辨认床头灯与窗台；同一露珠未移动。",
+      "state_after": "皮皮看见灯光映入露珠并想到擦拭会带走它，因此没有擦叶；布巾保持在安全距离。",
+      "transition_from": 12
+    },
+    {
+      "shot_id": 14,
+      "setting": "卧室窗台与床头灯",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPPI",
+        "PLANT_01",
+        "POT_01",
+        "LEAF_TOP_01",
+        "DEW_01",
+        "CLOTH_01",
+        "LAMP_01"
+      ],
+      "state_before": "露珠仍贴在最上叶的细叶脉，床头灯点亮。",
+      "action": "中近景，皮皮把方布巾举在一旁尚未碰叶子，低头看向露珠；神情认真、轻微担心，另一爪保持克制停下。",
+      "state_after": "皮皮看见灯光映入露珠并想到擦拭会带走它，因此没有擦叶；布巾保持在安全距离。",
+      "transition_from": 13
+    },
+    {
+      "shot_id": 15,
+      "setting": "卧室窗台与床头灯",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPPI",
+        "PLANT_01",
+        "POT_01",
+        "LEAF_TOP_01",
+        "DEW_01",
+        "CLOTH_01",
+        "LAMP_01"
+      ],
+      "state_before": "露珠仍贴在最上叶的细叶脉，床头灯点亮。",
+      "action": "叶缘露珠清晰在前景，方布巾虚化地停在安全距离外；皮皮在背景收住动作，表情关切但自然，画面不表现露珠被擦走。",
+      "state_after": "皮皮看见灯光映入露珠并想到擦拭会带走它，因此没有擦叶；布巾保持在安全距离。",
+      "transition_from": 14
+    },
+    {
+      "shot_id": 16,
+      "setting": "卧室窗台",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPPI",
+        "PLANT_01",
+        "POT_01",
+        "LEAF_TOP_01",
+        "DEW_01",
+        "CLOTH_01",
+        "LAMP_01"
+      ],
+      "state_before": "皮皮已意识到露珠值得保留，布巾仍在手中。",
+      "action": "侧面中景，皮皮缓慢把拿布巾的爪收回胸前，露珠留在原叶缘；眼睛跟随布巾后转向窗边，动作轻柔。",
+      "state_after": "皮皮轻轻收回布巾，露珠仍在原叶脉位置。",
+      "transition_from": 15
+    },
+    {
+      "shot_id": 17,
+      "setting": "卧室窗台",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPPI",
+        "PLANT_01",
+        "POT_01",
+        "LEAF_TOP_01",
+        "DEW_01",
+        "CURTAIN_01",
+        "WINDOW_01"
+      ],
+      "state_before": "窗帘在盆栽旁，夜风吹动帘角，花盆尚在靠帘位置。",
+      "action": "同一卧室窗台的较宽构图，叶片图案窗帘被夜风吹向花盆叶片，皮皮从旁留意帘角与叶子的距离；花盆尚未移动。",
+      "state_after": "帘角扫到叶片，皮皮注意到接触；花盆和露珠仍在原位置。",
+      "transition_from": 16
+    },
+    {
+      "shot_id": 18,
+      "setting": "卧室窗台",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPPI",
+        "PLANT_01",
+        "POT_01",
+        "LEAF_TOP_01",
+        "DEW_01",
+        "CURTAIN_01",
+        "WINDOW_01"
+      ],
+      "state_before": "窗帘在盆栽旁，夜风吹动帘角，花盆尚在靠帘位置。",
+      "action": "单一连续画面，不拼格：窗帘的帘角此刻轻轻碰到同一盆椒草的一片叶子，皮皮站在旁边刚发现，眼神关注接触点；花盆位置仍在窗边。",
+      "state_after": "帘角扫到叶片，皮皮注意到接触；花盆和露珠仍在原位置。",
+      "transition_from": 17
+    },
+    {
+      "shot_id": 19,
+      "setting": "卧室窗台",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPPI",
+        "PLANT_01",
+        "POT_01",
+        "LEAF_TOP_01",
+        "DEW_01",
+        "CURTAIN_01",
+        "WINDOW_01"
+      ],
+      "state_before": "花盆靠近窗帘；帘角会碰到叶片，露珠仍停在原叶缘。",
+      "action": "单一瞬间，不拼格：皮皮两只手稳稳托住花盆两侧，正把它从窗边原位抬起，尚未放下；露珠仍在原叶缘，帘角停在旁侧。",
+      "state_after": "皮皮双手抱起同一花盆，正在由旧位置向窗台内侧移动。",
+      "transition_from": 18
+    },
+    {
+      "shot_id": 20,
+      "setting": "卧室窗台",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPPI",
+        "PLANT_01",
+        "POT_01",
+        "LEAF_TOP_01",
+        "DEW_01",
+        "CURTAIN_01",
+        "WINDOW_01"
+      ],
+      "state_before": "皮皮抱着同一花盆完成向内侧的移动。",
+      "action": "花盆已被皮皮放到窗台内侧的新位置；皮皮双手刚离开盆沿，盆与窗帘之间有宽阔清晰的空隙，露珠仍在原叶缘，表现动作结果。",
+      "state_after": "花盆落在窗台内侧；皮皮松手，帘与叶片之间留出宽空隙，露珠仍在原叶缘。",
+      "transition_from": 19
+    },
+    {
+      "shot_id": 21,
+      "setting": "卧室窗台",
+      "characters": [],
+      "continuity_refs": [
+        "PLANT_01",
+        "POT_01",
+        "LEAF_TOP_01",
+        "DEW_01",
+        "CURTAIN_01",
+        "WINDOW_01",
+        "LAMP_01"
+      ],
+      "state_before": "花盆已在内侧新位置，叶片舒展，露珠未滚走。",
+      "action": "花盆已处于窗台内侧，圆叶舒展、原露珠仍牢牢停在叶缘叶脉；夜风轻动窗帘，但帘角与叶片保持距离。",
+      "state_after": "夜风再吹，窗帘在空隙外摇动，没有拂到叶子；露珠继续安稳停留。",
+      "transition_from": 20
+    },
+    {
+      "shot_id": 22,
+      "setting": "卧室窗台",
+      "characters": [],
+      "continuity_refs": [
+        "PLANT_01",
+        "POT_01",
+        "LEAF_TOP_01",
+        "DEW_01",
+        "CURTAIN_01",
+        "WINDOW_01",
+        "LAMP_01"
+      ],
+      "state_before": "花盆已在内侧新位置，叶片舒展，露珠未滚走。",
+      "action": "花盆已处于窗台内侧，圆叶舒展、原露珠仍牢牢停在叶缘叶脉；夜风轻动窗帘，但帘角与叶片保持距离。",
+      "state_after": "夜风再吹，窗帘在空隙外摇动，没有拂到叶子；露珠继续安稳停留。",
+      "transition_from": 21
+    },
+    {
+      "shot_id": 23,
+      "setting": "卧室窗台",
+      "characters": [],
+      "continuity_refs": [
+        "PLANT_01",
+        "POT_01",
+        "LEAF_TOP_01",
+        "DEW_01",
+        "CURTAIN_01",
+        "WINDOW_01",
+        "LAMP_01"
+      ],
+      "state_before": "花盆已在内侧新位置，叶片舒展，露珠未滚走。",
+      "action": "花盆已处于窗台内侧，圆叶舒展、原露珠仍牢牢停在叶缘叶脉；夜风轻动窗帘，但帘角与叶片保持距离。",
+      "state_after": "夜风再吹，窗帘在空隙外摇动，没有拂到叶子；露珠继续安稳停留。",
+      "transition_from": 22
+    },
+    {
+      "shot_id": 24,
+      "setting": "卧室窗台",
+      "characters": [],
+      "continuity_refs": [
+        "PLANT_01",
+        "POT_01",
+        "LEAF_TOP_01",
+        "DEW_01",
+        "CURTAIN_01",
+        "WINDOW_01",
+        "LAMP_01"
+      ],
+      "state_before": "花盆已在内侧新位置，叶片舒展，露珠未滚走。",
+      "action": "花盆已处于窗台内侧，圆叶舒展、原露珠仍牢牢停在叶缘叶脉；夜风轻动窗帘，但帘角与叶片保持距离。",
+      "state_after": "夜风再吹，窗帘在空隙外摇动，没有拂到叶子；露珠继续安稳停留。",
+      "transition_from": 23
+    },
+    {
+      "shot_id": 25,
+      "setting": "卧室床头",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPPI",
+        "CLOTH_01",
+        "BASKET_01"
+      ],
+      "state_before": "布巾未擦叶，留在皮皮手中；床头竹篮在固定位置。",
+      "action": "皮皮把同一块方布巾折叠整齐，放进床头的小竹篮；神情满足而安静，身体不遮挡窗台盆栽。",
+      "state_after": "同一布巾被叠好并放入竹篮；盆栽仍留在窗台内侧。",
+      "transition_from": 24
+    },
+    {
+      "shot_id": 26,
+      "setting": "卧室窗边的平静画面",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPPI",
+        "PLANT_01",
+        "POT_01",
+        "LEAF_TOP_01",
+        "DEW_01"
+      ],
+      "state_before": "盆栽与露珠安全留在窗台，布巾已在竹篮。",
+      "action": "皮皮望向仍安稳的露珠和舒展的叶片，轻轻点头；姿态安静体贴，画面表现远远照看、不再触碰。",
+      "state_after": "皮皮安静观察，不再摆弄露珠，理解为小事物留出安静空间。",
+      "transition_from": 25
+    },
+    {
+      "shot_id": 27,
+      "setting": "卧室床头",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPPI",
+        "PLANT_01",
+        "POT_01",
+        "LEAF_TOP_01",
+        "DEW_01"
+      ],
+      "state_before": "盆栽与露珠安全留在窗台，布巾已在竹篮。",
+      "action": "皮皮把同一块方布巾折叠整齐，放进床头的小竹篮；神情满足而安静，身体不遮挡窗台盆栽。",
+      "state_after": "皮皮安静观察，不再摆弄露珠，理解为小事物留出安静空间。",
+      "transition_from": 26
+    },
+    {
+      "shot_id": 28,
+      "setting": "卧室窗边的平静画面",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPPI",
+        "PLANT_01",
+        "POT_01",
+        "LEAF_TOP_01",
+        "DEW_01"
+      ],
+      "state_before": "盆栽与露珠安全留在窗台，布巾已在竹篮。",
+      "action": "皮皮望向仍安稳的露珠和舒展的叶片，轻轻点头；姿态安静体贴，画面表现远远照看、不再触碰。",
+      "state_after": "皮皮安静观察，不再摆弄露珠，理解为小事物留出安静空间。",
+      "transition_from": 27
+    },
+    {
+      "shot_id": 29,
+      "setting": "皮皮的小卧室床上",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPPI",
+        "BED_01",
+        "PILLOW_01"
+      ],
+      "state_before": "夜晚，皮皮由窗边转到同一卧室床边，日间衣服转入睡衣。",
+      "action": "夜间，皮皮已换深蓝星星睡帽和睡衣，爬上小木床并轻拍枕头，为两只长耳朵留出宽松位置；神情放松。",
+      "state_after": "皮皮躺在同一小木床上，枕头拍松，两只耳朵有宽敞位置。",
+      "transition_from": 28
+    },
+    {
+      "shot_id": 30,
+      "setting": "皮皮的小卧室床上",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPPI",
+        "BED_01",
+        "PILLOW_01"
+      ],
+      "state_before": "夜晚，皮皮由窗边转到同一卧室床边，日间衣服转入睡衣。",
+      "action": "夜间，皮皮已换深蓝星星睡帽和睡衣，爬上小木床并轻拍枕头，为两只长耳朵留出宽松位置；神情放松。",
+      "state_after": "皮皮躺在同一小木床上，枕头拍松，两只耳朵有宽敞位置。",
+      "transition_from": 29
+    },
+    {
+      "shot_id": 31,
+      "setting": "皮皮的小卧室床上",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPPI",
+        "BED_01",
+        "PILLOW_01",
+        "CARROT_01",
+        "WINDOW_01",
+        "PLANT_01",
+        "POT_01"
+      ],
+      "state_before": "皮皮已躺好，窗台花盆仍留在原处。",
+      "action": "月光静静照进同一卧室。皮皮已经躺在小木床上，抱着同一只橙色胡萝卜玩偶，长耳朵舒展在枕头旁；远处窗台上的同一盆圆叶椒草也安静留在原处。皮皮神情放松，逐渐闭眼。",
+      "state_after": "皮皮抱住同一胡萝卜玩偶，长耳朵舒展，眼睛闭合进入安睡。",
+      "transition_from": 30
+    },
+    {
+      "shot_id": 32,
+      "setting": "皮皮的小卧室床上",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPPI",
+        "BED_01",
+        "PILLOW_01",
+        "CARROT_01",
+        "WINDOW_01",
+        "PLANT_01",
+        "POT_01"
+      ],
+      "state_before": "皮皮已躺好，窗台花盆仍留在原处。",
+      "action": "皮皮侧躺抱住熟悉的橙色胡萝卜玩偶，长耳朵舒展在拍松的枕头上，眼睛渐闭，毛毯自然覆盖；窗台花盆安静留在远处。",
+      "state_after": "皮皮抱住同一胡萝卜玩偶，长耳朵舒展，眼睛闭合进入安睡。",
+      "transition_from": 31
+    },
+    {
+      "shot_id": 33,
+      "setting": "睡前讲述与安睡画面",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPPI",
+        "BED_01",
+        "PILLOW_01",
+        "CARROT_01",
+        "WINDOW_01",
+        "PLANT_01",
+        "POT_01"
+      ],
+      "state_before": "皮皮已安静躺在床上，玩偶在怀中。",
+      "action": "皮皮抱着胡萝卜玩偶，身体舒展地躺在床上，双眼睁开并温柔看向小朋友，一只爪子轻轻向两侧示意留出舒服空间；表情安稳鼓励，不夸张。",
+      "state_after": "皮皮面向观众温和示意舒展身体，尚未睡着。",
+      "transition_from": 32
+    },
+    {
+      "shot_id": 34,
+      "setting": "睡前讲述与安睡画面",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPPI",
+        "BED_01",
+        "PILLOW_01",
+        "CARROT_01",
+        "WINDOW_01",
+        "PLANT_01",
+        "POT_01"
+      ],
+      "state_before": "皮皮保持在同一床上，玩偶与枕头位置不变。",
+      "action": "同一床上同一姿势，皮皮抱着胡萝卜玩偶，眼睛闭上，长耳朵自在放松地放在枕边，月光安静，进入安睡。",
+      "state_after": "皮皮闭眼安睡；卧室及窗台花盆均保持原位。",
+      "transition_from": 33
+    }
+  ]
+}

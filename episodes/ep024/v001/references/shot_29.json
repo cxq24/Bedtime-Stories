@@ -1,0 +1,26 @@
+{
+  "shot_id": 29,
+  "image": "images/shot_29.png",
+  "sha256": "ed299989ef8c2c2eed0efe26644371ef66c028803dd85d76b75ce3441c0dd9bc",
+  "size_px": [
+    941,
+    1672
+  ],
+  "source": "image_gen",
+  "source_image": "/workspace/Bedtime-Stories/episodes/ep024/v001/images/shot_29.png",
+  "generation_prompt": "单幅9:16竖屏水彩儿童绘本、细纸纹；依据本镜场景与动作生成静态单一瞬间。皮皮的小卧室床上。夜间，皮皮已换深蓝星星睡帽和睡衣，爬上小木床并轻拍枕头，为两只长耳朵留出宽松位置；神情放松。。角色身份、服装和重复道具沿用对应参考图；表情与视线按本镜情节绘制。画面无文字、拼贴、边框和水印，底部预留字幕安全区。",
+  "character_reference_paths": [
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+  ],
+  "continuity_reference_paths": [
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "images/shot_29.png",
+    "images/shot_29.png"
+  ],
+  "asset_ids": [
+    "PIPPI",
+    "BED_01",
+    "PILLOW_01"
+  ]
+}

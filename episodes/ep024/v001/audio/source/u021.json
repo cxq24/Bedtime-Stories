@@ -1,0 +1,53 @@
+{
+  "text": "这样一来，绿叶子可以自在地舒展开来，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "a404cb04857d601b0c5c2829fabc282cbb83901b45f78e1a18f04db15b0f9310",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 11922910,
+      "text": "这样一来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18192500,
+      "duration": 9807500,
+      "text": "绿叶子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28384580,
+      "duration": 4038330,
+      "text": "可以"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32615410,
+      "duration": 5769160,
+      "text": "自在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38384580,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40115410,
+      "duration": 5000000,
+      "text": "舒展"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45307500,
+      "duration": 6922910,
+      "text": "开来"
+    }
+  ]
+}

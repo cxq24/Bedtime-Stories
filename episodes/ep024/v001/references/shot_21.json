@@ -1,0 +1,31 @@
+{
+  "shot_id": 21,
+  "image": "images/shot_21.png",
+  "sha256": "37f37c6b4126fdd97ffa26a9368f6425708fa841289ecad5af2f120098b4d148",
+  "size_px": [
+    941,
+    1672
+  ],
+  "source": "image_gen",
+  "source_image": "/workspace/Bedtime-Stories/episodes/ep024/v001/images/shot_21.png",
+  "generation_prompt": "单幅9:16竖屏水彩儿童绘本、细纸纹；依据本镜场景与动作生成静态单一瞬间。卧室窗台。花盆已处于窗台内侧，圆叶舒展、原露珠仍牢牢停在叶缘叶脉；夜风轻动窗帘，但帘角与叶片保持距离。。角色身份、服装和重复道具沿用对应参考图；表情与视线按本镜情节绘制。画面无文字、拼贴、边框和水印，底部预留字幕安全区。",
+  "character_reference_paths": [],
+  "continuity_reference_paths": [
+    "images/shot_02.png",
+    "images/shot_02.png",
+    "images/shot_11.png",
+    "images/shot_11.png",
+    "images/shot_17.png",
+    "images/shot_17.png",
+    "images/shot_13.png"
+  ],
+  "asset_ids": [
+    "PLANT_01",
+    "POT_01",
+    "LEAF_TOP_01",
+    "DEW_01",
+    "CURTAIN_01",
+    "WINDOW_01",
+    "LAMP_01"
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "text": "想在睡前像平时擦桌子那样，把每一片绿叶子都擦拭一遍。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "d66ff7492d478d666ea249a97e43bdc7ab01fc5546b41ccbedfcda40426f8915",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4038330,
+      "text": "想"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5307500,
+      "duration": 1922910,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7422910,
+      "duration": 7692500,
+      "text": "睡前"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15115410,
+      "duration": 2692500,
+      "text": "像"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18000000,
+      "duration": 5192500,
+      "text": "平时"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23577080,
+      "duration": 2884580,
+      "text": "擦"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26461660,
+      "duration": 5000000,
+      "text": "桌子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31653750,
+      "duration": 6538330,
+      "text": "那样"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43000000,
+      "duration": 2115410,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45307500,
+      "duration": 2884580,
+      "text": "每"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48192500,
+      "duration": 4807500,
+      "text": "一片"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53192500,
+      "duration": 9807500,
+      "text": "绿叶子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64538330,
+      "duration": 2115410,
+      "text": "都"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 66846250,
+      "duration": 6153750,
+      "text": "擦拭"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 73192500,
+      "duration": 2307500,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75500000,
+      "duration": 4230830,
+      "text": "遍"
+    }
+  ]
+}

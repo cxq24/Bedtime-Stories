@@ -1,0 +1,23 @@
+{
+  "shot_id": 1,
+  "image": "images/shot_01.png",
+  "sha256": "a87d32e6838d81117f11041b4e09cc8c0f2ce11b364186b94e1f78a6fe327c06",
+  "size_px": [
+    992,
+    1586
+  ],
+  "source": "image_gen",
+  "source_image": "/workspace/Bedtime-Stories/episodes/ep024/v001/images/shot_01.png",
+  "generation_prompt": "单幅9:16竖屏水彩儿童绘本、细纸纹；依据本镜场景与动作生成静态单一瞬间。独立象征画面：叶片与露珠。一片饱满圆叶上，细叶脉边缘托住一颗圆亮露珠；柔和星点只来自露珠映光，不画文字、不提前替代正文的室内场景。。角色身份、服装和重复道具沿用对应参考图；表情与视线按本镜情节绘制。画面无文字、拼贴、边框和水印，底部预留字幕安全区。",
+  "character_reference_paths": [],
+  "continuity_reference_paths": [
+    "images/shot_02.png",
+    "images/shot_11.png",
+    "images/shot_11.png"
+  ],
+  "asset_ids": [
+    "PLANT_01",
+    "LEAF_TOP_01",
+    "DEW_01"
+  ]
+}

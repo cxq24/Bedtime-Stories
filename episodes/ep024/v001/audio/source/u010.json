@@ -1,0 +1,107 @@
+{
+  "text": "皮皮忽然停住了。他低头仔细一看，发现在那片叶子的边缘，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "175ff217ba1b5d3abd8a78dc1d1e19152274b6cc39917490e2ad1dd09a6f1677",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5577080,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7230830,
+      "duration": 4422910,
+      "text": "忽然"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11846250,
+      "duration": 7307500,
+      "text": "停住"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19153750,
+      "duration": 3461660,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31346250,
+      "duration": 2307500,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33653750,
+      "duration": 5384580,
+      "text": "低头"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39422910,
+      "duration": 5577080,
+      "text": "仔细"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45192500,
+      "duration": 2115000,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47307500,
+      "duration": 4230830,
+      "text": "看"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56730830,
+      "duration": 5961660,
+      "text": "发现"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 62692500,
+      "duration": 1922910,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64807500,
+      "duration": 2307500,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 67115410,
+      "duration": 3269160,
+      "text": "片"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 70769160,
+      "duration": 4615410,
+      "text": "叶子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75384580,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 77115410,
+      "duration": 8653750,
+      "text": "边缘"
+    }
+  ]
+}

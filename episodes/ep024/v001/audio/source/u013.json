@@ -1,0 +1,107 @@
+{
+  "text": "正好把屋里暖黄色的床头灯映在了里面，闪着一点温暖的星光。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "a50f007c03f5077d35381d4f79956da74e7e298e7f0ae6918bdf2f364d770e5d",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5769160,
+      "text": "正好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7230830,
+      "duration": 2115410,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9538330,
+      "duration": 5577080,
+      "text": "屋里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15500000,
+      "duration": 8269160,
+      "text": "暖黄色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23769160,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25307500,
+      "duration": 8846250,
+      "text": "床头"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35692500,
+      "duration": 5192080,
+      "text": "灯映"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40884580,
+      "duration": 2692500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43577080,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44922910,
+      "duration": 6730830,
+      "text": "里面"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56461660,
+      "duration": 3461250,
+      "text": "闪"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59922910,
+      "duration": 1346250,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61461660,
+      "duration": 4807500,
+      "text": "一点"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 66653750,
+      "duration": 5577080,
+      "text": "温暖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 72230830,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 73577080,
+      "duration": 7307500,
+      "text": "星光"
+    }
+  ]
+}
