@@ -1,0 +1,95 @@
+{
+  "text": "厚实的小木门已经关好了，屋里的木地板干爽又整洁，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "f3976ebda2b95efa9b6306eee16cd079456fde07e3d1567b3ea32eddb531d62d",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5577080,
+      "text": "厚实"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8384580,
+      "duration": 3077080,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11461660,
+      "duration": 5577080,
+      "text": "木门"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17422910,
+      "duration": 3653750,
+      "text": "已经"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21269160,
+      "duration": 6922910,
+      "text": "关好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28192500,
+      "duration": 3461660,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37230830,
+      "duration": 4422910,
+      "text": "屋里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41653750,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43192500,
+      "duration": 2307500,
+      "text": "木"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45500000,
+      "duration": 7500000,
+      "text": "地板"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54346250,
+      "duration": 6346250,
+      "text": "干爽"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60884580,
+      "duration": 2307500,
+      "text": "又"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63192500,
+      "duration": 9038330,
+      "text": "整洁"
+    }
+  ]
+}

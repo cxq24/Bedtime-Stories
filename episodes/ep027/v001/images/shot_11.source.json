@@ -1,0 +1,11 @@
+{
+  "shot_id": 11,
+  "asset": "images/shot_11.png",
+  "size": [
+    941,
+    1672
+  ],
+  "sha256": "45f65ce9873c9e9bf301cac1804aac52643ee923b48a9285c7b9104c5077abf3",
+  "method": "image_gen",
+  "prompt": "Storyboard action: 皮皮把刚脱下的湿袜拿在手中，准备去门廊晾晒；竹篮中干净软袜仍平整，湿袜与干袜清楚分开。"
+}

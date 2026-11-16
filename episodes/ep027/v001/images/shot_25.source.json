@@ -1,0 +1,11 @@
+{
+  "shot_id": 25,
+  "asset": "images/shot_25.png",
+  "size": [
+    1080,
+    1920
+  ],
+  "sha256": "3d70008617d2e996bbe51aeb4fef8cbddb91d30ff154c7eeac7797db2695a4d6",
+  "method": "original vector illustration authored with Pillow drawing primitives",
+  "prompt": "Storyboard action: 暖黄色毛毯轻柔落在皮皮穿干袜的脚上，袜子仍干爽；皮皮肩背放松，目光温柔。"
+}

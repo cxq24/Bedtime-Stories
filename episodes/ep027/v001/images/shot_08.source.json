@@ -1,0 +1,11 @@
+{
+  "shot_id": 8,
+  "asset": "images/shot_08.png",
+  "size": [
+    941,
+    1672
+  ],
+  "sha256": "64a14a632d18e328422b0607795148ad6758e92b9998706993190b060eaa9c4a",
+  "method": "image_gen",
+  "prompt": "Storyboard action: 皮皮坐在同一张玄关矮木凳上，两只脚平稳落地，手扶凳沿；神情专注放松，尚未脱鞋袜。"
+}

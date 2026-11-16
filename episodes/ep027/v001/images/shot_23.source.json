@@ -1,0 +1,11 @@
+{
+  "shot_id": 23,
+  "asset": "images/shot_23.png",
+  "size": [
+    941,
+    1672
+  ],
+  "sha256": "9f7eb2849c3e45d1ff6385602e8fa8f9e29bee5331c4091e0e82cd748ac9559e",
+  "method": "image_gen",
+  "prompt": "Storyboard action: 安静整洁的木屋内景：矮凳归回墙角、鞋袜按次序放置，湿袜在门廊架上晾晒；皮皮穿干袜走进卧室。"
+}

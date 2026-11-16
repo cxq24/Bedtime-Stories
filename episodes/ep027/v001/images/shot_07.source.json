@@ -1,0 +1,11 @@
+{
+  "shot_id": 7,
+  "asset": "images/shot_07.png",
+  "size": [
+    941,
+    1672
+  ],
+  "sha256": "5ae0a1869abd851d1865339bd0c6abb89faff1a921d54a62893a69cdc74d49ee",
+  "method": "image_gen",
+  "prompt": "Storyboard action: 皮皮在玄关停住，目光从玩具方向转回自己的脚；动作克制，准备先坐下处理湿鞋袜。"
+}

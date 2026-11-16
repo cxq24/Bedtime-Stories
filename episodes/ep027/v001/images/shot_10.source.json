@@ -1,0 +1,11 @@
+{
+  "shot_id": 10,
+  "asset": "images/shot_10.png",
+  "size": [
+    941,
+    1672
+  ],
+  "sha256": "4617bdaf9e25a4e1dc7d4e39378a218d40a0e68b1ae1b34f4393e0ad1e9046f3",
+  "method": "image_gen",
+  "prompt": "Storyboard action: 门边小竹篮里叠放几双干爽蓬松的米白软袜；皮皮伸手准备取一双，妈妈不入镜，神情安心。"
+}

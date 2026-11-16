@@ -1,0 +1,11 @@
+{
+  "shot_id": 12,
+  "asset": "images/shot_12.png",
+  "size": [
+    941,
+    1672
+  ],
+  "sha256": "c42c7056908f7c222b6f0fbf6a3fdf30d28e69f89435635a6aca565c7f66a37a",
+  "method": "image_gen",
+  "prompt": "Storyboard action: 皮皮把同一双湿袜仔细展开搭在门廊通风的小木架上，袜子平整不团；矮凳和竹篮留在玄关原处。"
+}

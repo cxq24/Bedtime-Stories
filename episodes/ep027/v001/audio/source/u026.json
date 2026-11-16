@@ -1,0 +1,125 @@
+{
+  "text": "又添上了一层厚实的温暖与舒服。胡萝卜玩偶乖乖地靠住他的手臂。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "f4e24f244b0f122053276c62e0da20b457a62f178812b32fc8cedb22ae96d78d",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3077080,
+      "text": "又"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4538330,
+      "duration": 5769160,
+      "text": "添上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10307500,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11653750,
+      "duration": 1922910,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13577080,
+      "duration": 2692500,
+      "text": "层"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16653750,
+      "duration": 5192500,
+      "text": "厚实"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21846250,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23577080,
+      "duration": 6730830,
+      "text": "温暖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30692500,
+      "duration": 1922910,
+      "text": "与"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32807500,
+      "duration": 8846250,
+      "text": "舒服"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50769160,
+      "duration": 7692500,
+      "text": "胡萝卜"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58653750,
+      "duration": 8077080,
+      "text": "玩偶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 68269160,
+      "duration": 6153750,
+      "text": "乖乖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 74422910,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 76153750,
+      "duration": 3269160,
+      "text": "靠"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 79422910,
+      "duration": 1922910,
+      "text": "住"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 81538330,
+      "duration": 2115410,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 83653750,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 85192500,
+      "duration": 8269160,
+      "text": "手臂"
+    }
+  ]
+}

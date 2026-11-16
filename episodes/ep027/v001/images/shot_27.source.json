@@ -1,0 +1,11 @@
+{
+  "shot_id": 27,
+  "asset": "images/shot_27.png",
+  "size": [
+    1080,
+    1920
+  ],
+  "sha256": "835097a3d6bccf931ecab02d3206224e12de10dabbc0b1026ef157947bc716ba",
+  "method": "original vector illustration authored with Pillow drawing primitives",
+  "prompt": "Storyboard action: 皮皮穿袜安睡在被窝里，怀边是同一只胡萝卜玩偶；窗外细雨作为远景，神情安宁，雨声渐远。"
+}

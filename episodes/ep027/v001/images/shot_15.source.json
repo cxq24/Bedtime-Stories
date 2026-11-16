@@ -1,0 +1,11 @@
+{
+  "shot_id": 15,
+  "asset": "images/shot_15.png",
+  "size": [
+    941,
+    1672
+  ],
+  "sha256": "01efc30dc8978857aeb4e7bf772de4be6e183650f08f81f1f827f5277d755196",
+  "method": "image_gen",
+  "prompt": "Storyboard action: 皮皮穿着同一双米白干袜坐在软地垫旁，神情从微凉转为安心，双手轻轻拢着脚踝，表现舒适温暖。"
+}

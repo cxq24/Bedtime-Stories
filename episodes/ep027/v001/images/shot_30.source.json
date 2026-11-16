@@ -1,0 +1,11 @@
+{
+  "shot_id": 30,
+  "asset": "images/shot_30.png",
+  "size": [
+    1080,
+    1920
+  ],
+  "sha256": "7908a181319ff37b36998434043eec5c7f562c5738a70b1ca178a613801849e8",
+  "method": "original vector illustration authored with Pillow drawing primitives",
+  "prompt": "Storyboard action: 皮皮躺在床上闭眼前，轻轻把手放在被面，身体放松；同一玩偶在手臂边，双脚温暖舒展。"
+}

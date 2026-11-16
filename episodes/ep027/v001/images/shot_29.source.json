@@ -1,0 +1,11 @@
+{
+  "shot_id": 29,
+  "asset": "images/shot_29.png",
+  "size": [
+    1080,
+    1920
+  ],
+  "sha256": "2e8b8e9241d31714c49a566fdda08081cfb84b5eff8cb72f92f66436bb8ff2ea",
+  "method": "original vector illustration authored with Pillow drawing primitives",
+  "prompt": "Storyboard action: 皮皮舒展躺好，手脚暖暖地盖在被窝中，干袜脚露出一点；表情安心，画面柔和。"
+}

@@ -1,0 +1,95 @@
+{
+  "text": "哇，干爽的软袜子一裹住脚丫，那种软绵绵、暖融融的感觉，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "8d35d520600ca99d7894d80679c61246f56b4ff37f2024ad285271f58c20a9af",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5000000,
+      "text": "哇"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11461660,
+      "duration": 5769160,
+      "text": "干爽"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17230830,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18577080,
+      "duration": 2884580,
+      "text": "软"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21461660,
+      "duration": 8269160,
+      "text": "袜子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31269160,
+      "duration": 2307500,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33577080,
+      "duration": 2307500,
+      "text": "裹"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35884580,
+      "duration": 2115410,
+      "text": "住"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38192500,
+      "duration": 7115410,
+      "text": "脚丫"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50500000,
+      "duration": 4422910,
+      "text": "那种"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55307500,
+      "duration": 11922910,
+      "text": "软绵绵"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 70115410,
+      "duration": 8846250,
+      "text": "暖融融"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78961660,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 80500000,
+      "duration": 7884580,
+      "text": "感觉"
+    }
+  ]
+}

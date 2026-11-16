@@ -1,0 +1,11 @@
+{
+  "shot_id": 28,
+  "asset": "images/shot_28.png",
+  "size": [
+    1080,
+    1920
+  ],
+  "sha256": "64c90f22bbea80c0ad526647c49ebf5615900461973f3805312f0ba262cf478b",
+  "method": "original vector illustration authored with Pillow drawing primitives",
+  "prompt": "Storyboard action: 皮皮坐在床上看向观众，床边毛巾和暖被暗示睡前照料；表情体贴、语气温和，不夸张。"
+}

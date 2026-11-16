@@ -1,0 +1,11 @@
+{
+  "shot_id": 22,
+  "asset": "images/shot_22.png",
+  "size": [
+    941,
+    1672
+  ],
+  "sha256": "bafa643affccc50f36bc17a70e30b44db946ba7f916ddd5b63544c418412b13c",
+  "method": "image_gen",
+  "prompt": "Storyboard action: 皮皮把玄关矮凳轻轻推回墙角原位，卧室床在画面深处；他穿着同一双干袜，正准备迈向床边。"
+}

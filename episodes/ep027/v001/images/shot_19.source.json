@@ -1,0 +1,11 @@
+{
+  "shot_id": 19,
+  "asset": "images/shot_19.png",
+  "size": [
+    941,
+    1672
+  ],
+  "sha256": "4d2f0101ca7ed689c3752f197f53e33fa3c65a8f680c0d21bbfe9329ad2007ae",
+  "method": "image_gen",
+  "prompt": "Storyboard action: 屋外夜雨细细落下，厚实木门已关，屋内木地板干燥整洁；皮皮穿着干袜在室内，神情安心。雨只在窗外，不进入屋内。"
+}

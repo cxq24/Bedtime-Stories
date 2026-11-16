@@ -1,0 +1,11 @@
+{
+  "shot_id": 0,
+  "asset": "images/shot_00.png",
+  "size": [
+    941,
+    1672
+  ],
+  "sha256": "e4f709b15b02f2e952f83b23b5d8584f9c0bfdedfbe7c986e12969f999e66046",
+  "method": "image_gen",
+  "prompt": "Storyboard action: 皮皮面向小朋友轻抬一只爪，眼睛明亮、神情友善而好奇，邀请听故事。此为独立讲述角，不出现正文中的入户玄关。"
+}

@@ -1,0 +1,113 @@
+{
+  "text": "一下子就从脚底板传到了心窝里！皮皮踩在屋里的软地垫上，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "82bf19717bd8313a1411e53436187e55ab3f9b3733fe351ff64b2f341ceefdc7",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 7692500,
+      "text": "一下子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9346250,
+      "duration": 1730830,
+      "text": "就"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11077080,
+      "duration": 2692500,
+      "text": "从"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13961660,
+      "duration": 9422910,
+      "text": "脚底板"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24730830,
+      "duration": 5576660,
+      "text": "传到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30307500,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31653750,
+      "duration": 6922910,
+      "text": "心窝"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38577080,
+      "duration": 3077080,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50577080,
+      "duration": 5577080,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56538330,
+      "duration": 2884580,
+      "text": "踩"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59422910,
+      "duration": 2307500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61922910,
+      "duration": 3077080,
+      "text": "屋"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 65000000,
+      "duration": 1730830,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 66730830,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 68461660,
+      "duration": 6153750,
+      "text": "软地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 74807500,
+      "duration": 3461660,
+      "text": "垫"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78269160,
+      "duration": 4807500,
+      "text": "上"
+    }
+  ]
+}

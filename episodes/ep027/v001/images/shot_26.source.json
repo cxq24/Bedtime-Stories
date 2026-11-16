@@ -1,0 +1,11 @@
+{
+  "shot_id": 26,
+  "asset": "images/shot_26.png",
+  "size": [
+    1080,
+    1920
+  ],
+  "sha256": "3327d2b681fdba98fd97c7276f5844a4852ba9b3a45e38fa8879096a6399c5d5",
+  "method": "original vector illustration authored with Pillow drawing primitives",
+  "prompt": "Storyboard action: 同一只橙色胡萝卜玩偶乖乖靠着皮皮手臂；干袜双脚在暖毯下，皮皮满足微笑，尚未闭眼。"
+}

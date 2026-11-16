@@ -1,0 +1,11 @@
+{
+  "shot_id": 16,
+  "asset": "images/shot_16.png",
+  "size": [
+    941,
+    1672
+  ],
+  "sha256": "5a48b3d9d7b609ebe379df580bac6c8308e28278dd9ad36399430b92a59302e9",
+  "method": "image_gen",
+  "prompt": "Storyboard action: 皮皮穿同一双米白干袜踩在屋内软地垫上，肩背放松、脸上露出安心的小笑意；没有湿脚印。"
+}

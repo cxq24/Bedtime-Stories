@@ -1,0 +1,11 @@
+{
+  "shot_id": 2,
+  "asset": "images/shot_02.png",
+  "size": [
+    941,
+    1672
+  ],
+  "sha256": "cb7861cf5acbf08d3c13151c904958e2d1d432f0d303736173692d04ce2f6875",
+  "method": "image_gen",
+  "prompt": "Storyboard action: 雨后的森林小路还湿润，皮皮背小书包朝木屋方向走，步伐小心；脸上是专注与平静，草叶留着雨滴，天色为放学后的柔和下午。"
+}

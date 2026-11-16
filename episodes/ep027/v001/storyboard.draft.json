@@ -1,0 +1,1294 @@
+{
+  "episode": "ep027",
+  "version": "v001",
+  "script_version": "v5",
+  "title": "雨后的干袜子",
+  "source_script": "02_100集剧本/用户长稿v5/结构化JSON/ep027.json",
+  "cover_title": "皮皮换上干袜",
+  "status": "draft_before_audio",
+  "narration_complete": true,
+  "shot_count": 32,
+  "total_duration_s": null,
+  "actual_audio_measured": false,
+  "max_visible_duration_s": null,
+  "shots": [
+    {
+      "id": 0,
+      "title": "皮皮问候小朋友",
+      "text": "小朋友们，准备好听故事了吗？今天的故事叫《雨后的干袜子》。",
+      "source_ranges": [
+        {
+          "unit_id": "u000",
+          "paragraph_id": "p000",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "独立睡前讲述角",
+      "action": "皮皮面向小朋友轻抬一只爪，眼睛明亮、神情友善而好奇，邀请听故事。此为独立讲述角，不出现正文中的入户玄关。",
+      "reality": "intro",
+      "motion": "fixed",
+      "opening": true,
+      "image": "images/shot_00.png",
+      "reference_manifest": "references/shot_00.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p000",
+      "continuity_refs": [],
+      "state_before": "待连续性审查记录",
+      "state_after": "待连续性审查记录",
+      "transition_from": null,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本、细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 1,
+      "title": "雨后的干袜子会怎样",
+      "text": "雨后的袜子湿了一点点，皮皮回家后会怎样照顾自己的小脚呢？",
+      "source_ranges": [
+        {
+          "unit_id": "u001",
+          "paragraph_id": "p000",
+          "start_char": 0,
+          "end_char": 28
+        }
+      ],
+      "characters": [],
+      "outfits": {},
+      "setting": "独立象征画面：雨后草叶与干袜子",
+      "action": "象征性画面：雨后草叶上挂着几颗雨珠，一双小小棉袜以温暖柔软的意象出现；不出现皮皮、不提前呈现正文真实动作或卧室。",
+      "reality": "opening_imagination",
+      "motion": "fixed",
+      "opening": true,
+      "image": "images/shot_01.png",
+      "reference_manifest": "references/shot_01.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p000",
+      "continuity_refs": [],
+      "state_before": "待连续性审查记录",
+      "state_after": "待连续性审查记录",
+      "transition_from": 0,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本、细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 2,
+      "title": "雨后走在回家路上",
+      "text": "今天下午放学的时候，森林里刚下过一场阵雨，",
+      "source_ranges": [
+        {
+          "unit_id": "u002",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 21
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "森林小路与湿草地",
+      "action": "雨后的森林小路还湿润，皮皮背小书包朝木屋方向走，步伐小心；脸上是专注与平静，草叶留着雨滴，天色为放学后的柔和下午。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_02.png",
+      "reference_manifest": "references/shot_02.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p001",
+      "continuity_refs": [],
+      "state_before": "待连续性审查记录",
+      "state_after": "待连续性审查记录",
+      "transition_from": 1,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本、细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 3,
+      "title": "雨后走在回家路上",
+      "text": "草地和小路上还有些湿漉漉的。皮皮走在回家的路上，",
+      "source_ranges": [
+        {
+          "unit_id": "u003",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 24
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "森林小路与湿草地",
+      "action": "雨后的森林小路还湿润，皮皮背小书包朝木屋方向走，步伐小心；脸上是专注与平静，草叶留着雨滴，天色为放学后的柔和下午。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_03.png",
+      "reference_manifest": "references/shot_03.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p001",
+      "continuity_refs": [],
+      "state_before": "待连续性审查记录",
+      "state_after": "待连续性审查记录",
+      "transition_from": 2,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本、细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 4,
+      "title": "皮皮帮点点捡画纸",
+      "text": "为了帮小鼹鼠点点捡起被风吹进湿草丛里的画纸，皮皮跨进草丛，",
+      "source_ranges": [
+        {
+          "unit_id": "u004",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "characters": [
+        "pipi",
+        "diandian"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "diandian": "default_v001"
+      },
+      "setting": "雨后森林湿草丛边",
+      "action": "小鼹鼠点点和皮皮在湿草丛边；被风吹来的画纸落在草里，皮皮俯身伸爪帮忙捡，点点专注看着画纸。动作温和，雨已停，地面仍潮湿。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_04.png",
+      "reference_manifest": "references/shot_04.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p001",
+      "continuity_refs": [],
+      "state_before": "待连续性审查记录",
+      "state_after": "待连续性审查记录",
+      "transition_from": 3,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本、细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 5,
+      "title": "鞋尖和袜子沾湿了",
+      "text": "鞋尖和里面的棉布小袜子，不小心沾上了一点冰凉的雨水。",
+      "source_ranges": [
+        {
+          "unit_id": "u005",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 26
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "森林小路与湿草地",
+      "action": "皮皮跨过湿草后停下查看脚边，鞋尖和棉布袜沾了一点雨水；神情微微意外但平静，脚下是湿草和小水珠，不夸大泥泞。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_05.png",
+      "reference_manifest": "references/shot_05.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p001",
+      "continuity_refs": [],
+      "state_before": "待连续性审查记录",
+      "state_after": "待连续性审查记录",
+      "transition_from": 4,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本、细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 6,
+      "title": "皮皮停步，先照顾身体",
+      "text": "现在的皮皮已经知道怎么好好照顾自己的身体了。",
+      "source_ranges": [
+        {
+          "unit_id": "u006",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 22
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "小木屋玄关",
+      "action": "皮皮刚推开木屋门，停步观察自己沾湿的脚，神情认真、身体从容；远处有玩具但他没有跑去玩。仍在玄关，鞋袜尚穿着。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_06.png",
+      "reference_manifest": "references/shot_06.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p002",
+      "continuity_refs": [],
+      "state_before": "待连续性审查记录",
+      "state_after": "待连续性审查记录",
+      "transition_from": 5,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本、细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 7,
+      "title": "没有急着跑去玩",
+      "text": "一推开小木屋的门，他没有急着跑去玩玩具，",
+      "source_ranges": [
+        {
+          "unit_id": "u007",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 20
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "小木屋玄关",
+      "action": "皮皮在玄关停住，目光从玩具方向转回自己的脚；动作克制，准备先坐下处理湿鞋袜。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_07.png",
+      "reference_manifest": "references/shot_07.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p002",
+      "continuity_refs": [],
+      "state_before": "待连续性审查记录",
+      "state_after": "待连续性审查记录",
+      "transition_from": 6,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本、细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 8,
+      "title": "坐稳并放好双脚",
+      "text": "而是先坐在玄关的矮木凳上，把两只小脚慢慢放稳，",
+      "source_ranges": [
+        {
+          "unit_id": "u008",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 23
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "小木屋玄关",
+      "action": "皮皮坐在同一张玄关矮木凳上，两只脚平稳落地，手扶凳沿；神情专注放松，尚未脱鞋袜。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_08.png",
+      "reference_manifest": "references/shot_08.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p002",
+      "continuity_refs": [],
+      "state_before": "待连续性审查记录",
+      "state_after": "待连续性审查记录",
+      "transition_from": 7,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本、细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 9,
+      "title": "脱下潮湿的鞋袜",
+      "text": "脱下了潮湿的鞋袜。",
+      "source_ranges": [
+        {
+          "unit_id": "u009",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 9
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "小木屋玄关",
+      "action": "皮皮仍坐在玄关矮凳上，脱下湿鞋和棉袜，鞋袜放在凳旁；袜面只有少量雨水痕，不滴水，不进入室内深处。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_09.png",
+      "reference_manifest": "references/shot_09.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p002",
+      "continuity_refs": [],
+      "state_before": "待连续性审查记录",
+      "state_after": "待连续性审查记录",
+      "transition_from": 8,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本、细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 10,
+      "title": "看见竹篮里的备用干袜",
+      "text": "门边的小竹篮里，早就准备好了妈妈晒得干爽蓬松的备用软袜子，",
+      "source_ranges": [
+        {
+          "unit_id": "u010",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "玄关与门廊晾晒处",
+      "action": "门边小竹篮里叠放几双干爽蓬松的米白软袜；皮皮伸手准备取一双，妈妈不入镜，神情安心。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_10.png",
+      "reference_manifest": "references/shot_10.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p003",
+      "continuity_refs": [],
+      "state_before": "待连续性审查记录",
+      "state_after": "待连续性审查记录",
+      "transition_from": 9,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本、细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 11,
+      "title": "拿起湿袜准备晾晒",
+      "text": "一双双叠得平平整整的，正等着他呢。皮皮先把脱下来的那双湿袜子，",
+      "source_ranges": [
+        {
+          "unit_id": "u011",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 31
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "玄关与门廊晾晒处",
+      "action": "皮皮把刚脱下的湿袜拿在手中，准备去门廊晾晒；竹篮中干净软袜仍平整，湿袜与干袜清楚分开。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_11.png",
+      "reference_manifest": "references/shot_11.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p003",
+      "continuity_refs": [],
+      "state_before": "待连续性审查记录",
+      "state_after": "待连续性审查记录",
+      "transition_from": 10,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本、细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 12,
+      "title": "湿袜展开搭上木架",
+      "text": "仔细地展开，搭在门廊通风的小木架子上，",
+      "source_ranges": [
+        {
+          "unit_id": "u012",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 19
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "玄关与门廊晾晒处",
+      "action": "皮皮把同一双湿袜仔细展开搭在门廊通风的小木架上，袜子平整不团；矮凳和竹篮留在玄关原处。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_12.png",
+      "reference_manifest": "references/shot_12.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p003",
+      "continuity_refs": [],
+      "state_before": "待连续性审查记录",
+      "state_after": "待连续性审查记录",
+      "transition_from": 11,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本、细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 13,
+      "title": "温热毛巾擦干脚丫",
+      "text": "没有把它们乱七八糟地挤成一团；接着，他用温热的毛巾擦干脚丫，",
+      "source_ranges": [
+        {
+          "unit_id": "u013",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 30
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "玄关与门廊晾晒处",
+      "action": "皮皮回到玄关坐在矮凳上，用温热的浅色毛巾轻擦双脚；湿袜仍在门廊架上，干袜留在竹篮里。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_13.png",
+      "reference_manifest": "references/shot_13.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p003",
+      "continuity_refs": [],
+      "state_before": "待连续性审查记录",
+      "state_after": "待连续性审查记录",
+      "transition_from": 12,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本、细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 14,
+      "title": "换上米白色干袜",
+      "text": "换上了那双干净的米白色软棉袜。",
+      "source_ranges": [
+        {
+          "unit_id": "u014",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 15
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "玄关与门廊晾晒处",
+      "action": "皮皮坐在玄关凳上把同一双米白软棉袜套上脚；湿袜仍搭在门廊木架，换袜后两只脚已干爽。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_14.png",
+      "reference_manifest": "references/shot_14.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p003",
+      "continuity_refs": [],
+      "state_before": "待连续性审查记录",
+      "state_after": "待连续性审查记录",
+      "transition_from": 13,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本、细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 15,
+      "title": "干袜暖暖包住脚",
+      "text": "哇，干爽的软袜子一裹住脚丫，那种软绵绵、暖融融的感觉，",
+      "source_ranges": [
+        {
+          "unit_id": "u015",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 27
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "木屋室内软地垫",
+      "action": "皮皮穿着同一双米白干袜坐在软地垫旁，神情从微凉转为安心，双手轻轻拢着脚踝，表现舒适温暖。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_15.png",
+      "reference_manifest": "references/shot_15.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p004",
+      "continuity_refs": [],
+      "state_before": "待连续性审查记录",
+      "state_after": "待连续性审查记录",
+      "transition_from": 14,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本、细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 16,
+      "title": "踩上软地垫感到暖融融",
+      "text": "一下子就从脚底板传到了心窝里！皮皮踩在屋里的软地垫上，",
+      "source_ranges": [
+        {
+          "unit_id": "u016",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 27
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "木屋室内软地垫",
+      "action": "皮皮穿同一双米白干袜踩在屋内软地垫上，肩背放松、脸上露出安心的小笑意；没有湿脚印。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_16.png",
+      "reference_manifest": "references/shot_16.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p004",
+      "continuity_refs": [],
+      "state_before": "待连续性审查记录",
+      "state_after": "待连续性审查记录",
+      "transition_from": 15,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本、细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 17,
+      "title": "轻轻活动五个脚趾",
+      "text": "轻轻地活动了一下五个小脚趾头，刚才那一点点潮湿和微凉，",
+      "source_ranges": [
+        {
+          "unit_id": "u017",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 27
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "木屋室内软地垫",
+      "action": "近景表现同一双干袜包着脚，皮皮在软地垫上轻轻活动脚趾；动作轻柔，脸上露出放松的小笑意。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_17.png",
+      "reference_manifest": "references/shot_17.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p004",
+      "continuity_refs": [],
+      "state_before": "待连续性审查记录",
+      "state_after": "待连续性审查记录",
+      "transition_from": 16,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本、细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 18,
+      "title": "微凉和潮湿消失",
+      "text": "全都消失得无影无踪了。",
+      "source_ranges": [
+        {
+          "unit_id": "u018",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 11
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "木屋室内软地垫",
+      "action": "皮皮穿干袜站在软垫边，脚尖轻松抬起，眉眼舒展；地垫与木地板保持干燥整洁。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_18.png",
+      "reference_manifest": "references/shot_18.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p004",
+      "continuity_refs": [],
+      "state_before": "待连续性审查记录",
+      "state_after": "待连续性审查记录",
+      "transition_from": 17,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本、细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 19,
+      "title": "门外夜雨轻轻落下",
+      "text": "吃过晚饭，窗外淅淅沥沥地又落下了几滴小夜雨。不过，",
+      "source_ranges": [
+        {
+          "unit_id": "u019",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 25
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "小木屋室内望向门窗",
+      "action": "屋外夜雨细细落下，厚实木门已关，屋内木地板干燥整洁；皮皮穿着干袜在室内，神情安心。雨只在窗外，不进入屋内。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_19.png",
+      "reference_manifest": "references/shot_19.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p005",
+      "continuity_refs": [],
+      "state_before": "待连续性审查记录",
+      "state_after": "待连续性审查记录",
+      "transition_from": 18,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本、细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 20,
+      "title": "木地板干爽整洁",
+      "text": "厚实的小木门已经关好了，屋里的木地板干爽又整洁，",
+      "source_ranges": [
+        {
+          "unit_id": "u020",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 24
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "木屋内景",
+      "action": "厚实小木门关好，室内木地板干净干燥；门外可见夜雨，雨水不越过门槛。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_20.png",
+      "reference_manifest": "references/shot_20.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p005",
+      "continuity_refs": [],
+      "state_before": "待连续性审查记录",
+      "state_after": "待连续性审查记录",
+      "transition_from": 19,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本、细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 21,
+      "title": "室内不受外面湿气影响",
+      "text": "一点儿也不受外面湿气的影响。",
+      "source_ranges": [
+        {
+          "unit_id": "u021",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 14
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "木屋内景",
+      "action": "室内地板和软地垫保持干燥，皮皮穿着干袜在屋里安稳活动；窗外夜雨细小，不进入屋内。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_21.png",
+      "reference_manifest": "references/shot_21.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p005",
+      "continuity_refs": [],
+      "state_before": "待连续性审查记录",
+      "state_after": "待连续性审查记录",
+      "transition_from": 20,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本、细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 22,
+      "title": "矮凳归位后走向床边",
+      "text": "皮皮把玄关的矮木凳推回墙角的原处，迈着轻柔的步子走到了床边。",
+      "source_ranges": [
+        {
+          "unit_id": "u022",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 30
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "小木屋玄关到卧室",
+      "action": "皮皮把玄关矮凳轻轻推回墙角原位，卧室床在画面深处；他穿着同一双干袜，正准备迈向床边。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_22.png",
+      "reference_manifest": "references/shot_22.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p005",
+      "continuity_refs": [],
+      "state_before": "待连续性审查记录",
+      "state_after": "待连续性审查记录",
+      "transition_from": 21,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本、细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 23,
+      "title": "屋里没有湿物等着",
+      "text": "今晚，屋里没有任何一样东西需要湿漉漉地等着了。",
+      "source_ranges": [
+        {
+          "unit_id": "u023",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 23
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "木屋内景",
+      "action": "安静整洁的木屋内景：矮凳归回墙角、鞋袜按次序放置，湿袜在门廊架上晾晒；皮皮穿干袜走进卧室。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_23.png",
+      "reference_manifest": "references/shot_23.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p005",
+      "continuity_refs": [],
+      "state_before": "待连续性审查记录",
+      "state_after": "待连续性审查记录",
+      "transition_from": 22,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本、细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 24,
+      "title": "干袜小脚伸进被窝",
+      "text": "皮皮爬上床，把穿着干爽软袜子的小脚丫伸进被窝里。",
+      "source_ranges": [
+        {
+          "unit_id": "u024",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 24
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "皮皮卧室小木床",
+      "action": "睡前皮皮爬上同一张床，把穿着干爽软袜的小脚伸进被窝；床头布局简洁固定，神情放松。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_24.png",
+      "reference_manifest": "references/shot_24.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p006",
+      "continuity_refs": [],
+      "state_before": "待连续性审查记录",
+      "state_after": "待连续性审查记录",
+      "transition_from": 23,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本、细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 25,
+      "title": "暖毯盖住干袜小脚",
+      "text": "暖黄色的毛毯轻轻落下来，给软袜子外面，",
+      "source_ranges": [
+        {
+          "unit_id": "u025",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 19
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "皮皮卧室小木床",
+      "action": "暖黄色毛毯轻柔落在皮皮穿干袜的脚上，袜子仍干爽；皮皮肩背放松，目光温柔。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_25.png",
+      "reference_manifest": "references/shot_25.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p006",
+      "continuity_refs": [],
+      "state_before": "待连续性审查记录",
+      "state_after": "待连续性审查记录",
+      "transition_from": 24,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本、细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 26,
+      "title": "胡萝卜玩偶靠在手臂边",
+      "text": "又添上了一层厚实的温暖与舒服。胡萝卜玩偶乖乖地靠住他的手臂。",
+      "source_ranges": [
+        {
+          "unit_id": "u026",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 30
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "皮皮卧室小木床",
+      "action": "同一只橙色胡萝卜玩偶乖乖靠着皮皮手臂；干袜双脚在暖毯下，皮皮满足微笑，尚未闭眼。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_26.png",
+      "reference_manifest": "references/shot_26.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p006",
+      "continuity_refs": [],
+      "state_before": "待连续性审查记录",
+      "state_after": "待连续性审查记录",
+      "transition_from": 25,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本、细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 27,
+      "title": "雨声慢慢远去",
+      "text": "皮皮满足地闭上眼睛，听着外面的雨声慢慢退到很远的地方。",
+      "source_ranges": [
+        {
+          "unit_id": "u027",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 27
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "皮皮卧室小木床",
+      "action": "皮皮穿袜安睡在被窝里，怀边是同一只胡萝卜玩偶；窗外细雨作为远景，神情安宁，雨声渐远。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_27.png",
+      "reference_manifest": "references/shot_27.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p006",
+      "continuity_refs": [],
+      "state_before": "待连续性审查记录",
+      "state_after": "待连续性审查记录",
+      "transition_from": 26,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本、细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 28,
+      "title": "晚安前温柔问候",
+      "text": "小朋友，今晚睡觉前，",
+      "source_ranges": [
+        {
+          "unit_id": "u028",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 10
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "睡前卧室与床边",
+      "action": "皮皮坐在床上看向观众，床边毛巾和暖被暗示睡前照料；表情体贴、语气温和，不夸张。",
+      "reality": "outro",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_28.png",
+      "reference_manifest": "references/shot_28.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p007",
+      "continuity_refs": [],
+      "state_before": "待连续性审查记录",
+      "state_after": "待连续性审查记录",
+      "transition_from": 27,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本、细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 29,
+      "title": "小手小脚都暖和",
+      "text": "你的小手和小脚是不是也洗得干干净净、盖得暖暖和和的呢？",
+      "source_ranges": [
+        {
+          "unit_id": "u029",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 27
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "睡前卧室与床边",
+      "action": "皮皮舒展躺好，手脚暖暖地盖在被窝中，干袜脚露出一点；表情安心，画面柔和。",
+      "reality": "outro",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_29.png",
+      "reference_manifest": "references/shot_29.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p007",
+      "continuity_refs": [],
+      "state_before": "待连续性审查记录",
+      "state_after": "待连续性审查记录",
+      "transition_from": 28,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本、细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 30,
+      "title": "感受被照顾的舒服",
+      "text": "好好感受这份被照顾的舒服吧，暖暖地躺着，就已经很好了。",
+      "source_ranges": [
+        {
+          "unit_id": "u030",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 27
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "睡前卧室与床边",
+      "action": "皮皮躺在床上闭眼前，轻轻把手放在被面，身体放松；同一玩偶在手臂边，双脚温暖舒展。",
+      "reality": "outro",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_30.png",
+      "reference_manifest": "references/shot_30.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p007",
+      "continuity_refs": [],
+      "state_before": "待连续性审查记录",
+      "state_after": "待连续性审查记录",
+      "transition_from": 29,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本、细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    },
+    {
+      "id": 31,
+      "title": "暖暖地躺着晚安",
+      "text": "晚安。",
+      "source_ranges": [
+        {
+          "unit_id": "u031",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 3
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "睡前卧室与床边",
+      "action": "同一张床上皮皮闭眼安睡，橙色胡萝卜玩偶靠在手臂旁，穿袜小脚盖在暖毯下；单一静止晚安画面。",
+      "reality": "outro",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_31.png",
+      "reference_manifest": "references/shot_31.json",
+      "image_status": "pending_generation",
+      "source_version": "v5",
+      "paragraph_id": "p007",
+      "continuity_refs": [],
+      "state_before": "待连续性审查记录",
+      "state_after": "待连续性审查记录",
+      "transition_from": 30,
+      "speech_start_s": null,
+      "speech_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visual_constraints": "9:16竖幅，静态水彩绘本、细纸纹；画面无文字；底部预留拼音字幕安全区。"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "shot_id": 14,
+  "asset": "images/shot_14.png",
+  "size": [
+    941,
+    1672
+  ],
+  "sha256": "bbd6b96375a5a7a010ebeb18acda0e74bd6227ae09d900f3068565d7511824d6",
+  "method": "image_gen",
+  "prompt": "Storyboard action: 皮皮坐在玄关凳上把同一双米白软棉袜套上脚；湿袜仍搭在门廊木架，换袜后两只脚已干爽。"
+}

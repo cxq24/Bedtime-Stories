@@ -1,0 +1,11 @@
+{
+  "shot_id": 20,
+  "asset": "images/shot_20.png",
+  "size": [
+    941,
+    1672
+  ],
+  "sha256": "02a1acd8455ec7dc29bee7de3939434fe0fee8d3e5adfd8871efe8ce0fa493e7",
+  "method": "image_gen",
+  "prompt": "Storyboard action: 厚实小木门关好，室内木地板干净干燥；门外可见夜雨，雨水不越过门槛。"
+}

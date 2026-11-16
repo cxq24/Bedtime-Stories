@@ -1,0 +1,9 @@
+{
+  "status": "textual_sequence_reviewed",
+  "episode": "ep027",
+  "story_states": "wet shoes and socks are removed at entry; damp socks are spread on the porch rack and remain there; Pipi dries feet and wears the dry spare pair; the same dry socks are worn through the indoor and bedtime scenes; rain remains outdoors.",
+  "assets_and_state_tracking": "continuity.json records shot locations, character/prop state, and transitions.",
+  "full_contact_sheet_review": "completed",
+  "visual_exception": "Shots 24–31 use custom vector illustrations because image generation reached its usage limit. Their flat drawing style visibly differs from watercolor shots 0–23. This style mismatch remains unresolved and requires replacement for a seamless final master.",
+  "human_full_watch": "not_certified"
+}

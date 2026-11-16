@@ -1,0 +1,11 @@
+{
+  "shot_id": 9,
+  "asset": "images/shot_09.png",
+  "size": [
+    941,
+    1672
+  ],
+  "sha256": "d7c9d3dd0f1f59f297ee5c6ae2e934ba39d7ed33666b0c72b1a56bc1c6ea0d74",
+  "method": "image_gen",
+  "prompt": "Storyboard action: 皮皮仍坐在玄关矮凳上，脱下湿鞋和棉袜，鞋袜放在凳旁；袜面只有少量雨水痕，不滴水，不进入室内深处。"
+}

@@ -1,0 +1,926 @@
+{
+  "episode": "ep027",
+  "version": "v001",
+  "assets": [
+    "PIPI",
+    "DIANDIAN",
+    "WET_FOREST",
+    "WET_SHOES",
+    "WET_SOCKS",
+    "DRY_SOCKS",
+    "ENTRY_STOOL",
+    "BASKET",
+    "AIRING_RACK",
+    "TOWEL",
+    "RUG",
+    "WOODEN_DOOR",
+    "WOODEN_FLOOR",
+    "BED",
+    "YELLOW_BLANKET",
+    "CARROT_PLUSH",
+    "WINDOW_RAIN"
+  ],
+  "shots": [
+    {
+      "shot_id": 0,
+      "location": "独立睡前讲述角",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPI"
+      ],
+      "state_before": {
+        "pipi": "sleep_v001",
+        "wet_forest": "after rain",
+        "wet_socks": "not yet wet"
+      },
+      "state_after": {
+        "pipi": "sleep_v001",
+        "wet_forest": "after rain",
+        "wet_socks": "not yet wet"
+      },
+      "transition_from": null,
+      "asset_path": "images/shot_00.png"
+    },
+    {
+      "shot_id": 1,
+      "location": "独立象征画面：雨后草叶与干袜子",
+      "characters": [],
+      "continuity_refs": [
+        "PIPI"
+      ],
+      "state_before": {
+        "pipi": "sleep_v001",
+        "wet_forest": "after rain",
+        "wet_socks": "not yet wet"
+      },
+      "state_after": {
+        "pipi": "sleep_v001",
+        "wet_forest": "after rain",
+        "wet_socks": "not yet wet"
+      },
+      "transition_from": "shot_00",
+      "asset_path": "images/shot_01.png"
+    },
+    {
+      "shot_id": 2,
+      "location": "森林小路与湿草地",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPI",
+        "WET_FOREST"
+      ],
+      "state_before": {
+        "pipi": "day_v001",
+        "wet_forest": "after rain",
+        "wet_socks": "not yet wet"
+      },
+      "state_after": {
+        "pipi": "day_v001",
+        "wet_forest": "after rain",
+        "wet_socks": "not yet wet"
+      },
+      "transition_from": "shot_01",
+      "asset_path": "images/shot_02.png"
+    },
+    {
+      "shot_id": 3,
+      "location": "森林小路与湿草地",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPI",
+        "WET_FOREST"
+      ],
+      "state_before": {
+        "pipi": "day_v001",
+        "wet_forest": "after rain",
+        "wet_socks": "not yet wet"
+      },
+      "state_after": {
+        "pipi": "day_v001",
+        "wet_forest": "after rain",
+        "wet_socks": "not yet wet"
+      },
+      "transition_from": "shot_02",
+      "asset_path": "images/shot_03.png"
+    },
+    {
+      "shot_id": 4,
+      "location": "雨后森林湿草丛边",
+      "characters": [
+        "pipi",
+        "diandian"
+      ],
+      "continuity_refs": [
+        "PIPI",
+        "DIANDIAN",
+        "WET_FOREST",
+        "WET_FOREST"
+      ],
+      "state_before": {
+        "pipi": "day_v001",
+        "wet_forest": "after rain",
+        "wet_socks": "not yet wet"
+      },
+      "state_after": {
+        "pipi": "day_v001",
+        "wet_forest": "after rain",
+        "wet_socks": "not yet wet"
+      },
+      "transition_from": "shot_03",
+      "asset_path": "images/shot_04.png"
+    },
+    {
+      "shot_id": 5,
+      "location": "森林小路与湿草地",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPI",
+        "WET_FOREST",
+        "WET_SHOES",
+        "WET_SOCKS"
+      ],
+      "state_before": {
+        "wet_shoes": "on pipi",
+        "wet_socks": "on pipi"
+      },
+      "state_after": {
+        "wet_shoes": "slight rain marks",
+        "wet_socks": "slightly damp"
+      },
+      "transition_from": "shot_04",
+      "asset_path": "images/shot_05.png"
+    },
+    {
+      "shot_id": 6,
+      "location": "小木屋玄关",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPI",
+        "WET_SHOES",
+        "WET_SOCKS",
+        "ENTRY_STOOL",
+        "BASKET",
+        "AIRING_RACK",
+        "TOWEL",
+        "DRY_SOCKS",
+        "WET_SOCKS"
+      ],
+      "state_before": {
+        "location": "entry",
+        "shoes": "on",
+        "wet_socks": "on"
+      },
+      "state_after": {
+        "location": "entry",
+        "shoes": "on",
+        "wet_socks": "on",
+        "stool": "fixed at entry"
+      },
+      "transition_from": "shot_05",
+      "asset_path": "images/shot_06.png"
+    },
+    {
+      "shot_id": 7,
+      "location": "小木屋玄关",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPI",
+        "WET_SHOES",
+        "WET_SOCKS",
+        "ENTRY_STOOL",
+        "BASKET",
+        "AIRING_RACK",
+        "TOWEL",
+        "DRY_SOCKS",
+        "WET_SOCKS"
+      ],
+      "state_before": {
+        "location": "entry",
+        "shoes": "on",
+        "wet_socks": "on"
+      },
+      "state_after": {
+        "location": "entry",
+        "shoes": "on",
+        "wet_socks": "on",
+        "stool": "fixed at entry"
+      },
+      "transition_from": "shot_06",
+      "asset_path": "images/shot_07.png"
+    },
+    {
+      "shot_id": 8,
+      "location": "小木屋玄关",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPI",
+        "WET_SHOES",
+        "WET_SOCKS",
+        "ENTRY_STOOL",
+        "BASKET",
+        "AIRING_RACK",
+        "TOWEL",
+        "DRY_SOCKS",
+        "WET_SOCKS"
+      ],
+      "state_before": {
+        "location": "entry",
+        "shoes": "on",
+        "wet_socks": "on"
+      },
+      "state_after": {
+        "location": "entry",
+        "shoes": "on",
+        "wet_socks": "on",
+        "stool": "fixed at entry"
+      },
+      "transition_from": "shot_07",
+      "asset_path": "images/shot_08.png"
+    },
+    {
+      "shot_id": 9,
+      "location": "小木屋玄关",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPI",
+        "WET_SHOES",
+        "WET_SOCKS",
+        "ENTRY_STOOL",
+        "BASKET",
+        "AIRING_RACK",
+        "TOWEL",
+        "DRY_SOCKS",
+        "WET_SOCKS"
+      ],
+      "state_before": {
+        "wet_shoes": "on pipi",
+        "wet_socks": "on pipi"
+      },
+      "state_after": {
+        "wet_shoes": "beside stool",
+        "wet_socks": "beside stool, damp"
+      },
+      "transition_from": "shot_08",
+      "asset_path": "images/shot_09.png"
+    },
+    {
+      "shot_id": 10,
+      "location": "玄关与门廊晾晒处",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPI",
+        "ENTRY_STOOL",
+        "BASKET",
+        "AIRING_RACK",
+        "TOWEL",
+        "DRY_SOCKS",
+        "WET_SOCKS"
+      ],
+      "state_before": {},
+      "state_after": {
+        "basket": "dry off-white cotton socks folded",
+        "wet_socks": "beside stool"
+      },
+      "transition_from": "shot_09",
+      "asset_path": "images/shot_10.png"
+    },
+    {
+      "shot_id": 11,
+      "location": "玄关与门廊晾晒处",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPI",
+        "ENTRY_STOOL",
+        "BASKET",
+        "AIRING_RACK",
+        "TOWEL",
+        "DRY_SOCKS",
+        "WET_SOCKS"
+      ],
+      "state_before": {
+        "wet_socks": "beside stool",
+        "dry_socks": "in basket"
+      },
+      "state_after": {
+        "wet_socks": "held in pipi hands",
+        "dry_socks": "in basket"
+      },
+      "transition_from": "shot_10",
+      "asset_path": "images/shot_11.png"
+    },
+    {
+      "shot_id": 12,
+      "location": "玄关与门廊晾晒处",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPI",
+        "ENTRY_STOOL",
+        "BASKET",
+        "AIRING_RACK",
+        "TOWEL",
+        "DRY_SOCKS",
+        "WET_SOCKS"
+      ],
+      "state_before": {
+        "wet_socks": "held in hands"
+      },
+      "state_after": {
+        "wet_socks": "spread on porch rack",
+        "dry_socks": "in basket"
+      },
+      "transition_from": "shot_11",
+      "asset_path": "images/shot_12.png"
+    },
+    {
+      "shot_id": 13,
+      "location": "玄关与门廊晾晒处",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPI",
+        "ENTRY_STOOL",
+        "BASKET",
+        "AIRING_RACK",
+        "TOWEL",
+        "DRY_SOCKS",
+        "WET_SOCKS"
+      ],
+      "state_before": {
+        "wet_socks": "on porch rack",
+        "dry_socks": "in basket"
+      },
+      "state_after": {
+        "wet_socks": "on porch rack",
+        "pipi_feet": "towel dried"
+      },
+      "transition_from": "shot_12",
+      "asset_path": "images/shot_13.png"
+    },
+    {
+      "shot_id": 14,
+      "location": "玄关与门廊晾晒处",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPI",
+        "ENTRY_STOOL",
+        "BASKET",
+        "AIRING_RACK",
+        "TOWEL",
+        "DRY_SOCKS",
+        "WET_SOCKS"
+      ],
+      "state_before": {
+        "wet_socks": "on porch rack",
+        "dry_socks": "in basket",
+        "pipi_feet": "dry"
+      },
+      "state_after": {
+        "wet_socks": "on porch rack",
+        "dry_socks": "worn by pipi"
+      },
+      "transition_from": "shot_13",
+      "asset_path": "images/shot_14.png"
+    },
+    {
+      "shot_id": 15,
+      "location": "木屋室内软地垫",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPI",
+        "DRY_SOCKS",
+        "RUG",
+        "WOODEN_FLOOR"
+      ],
+      "state_before": {
+        "dry_socks": "worn by pipi",
+        "wet_socks": "on porch rack",
+        "wooden_floor": "dry"
+      },
+      "state_after": {
+        "dry_socks": "worn by pipi",
+        "wet_socks": "on porch rack",
+        "wooden_floor": "dry"
+      },
+      "transition_from": "shot_14",
+      "asset_path": "images/shot_15.png"
+    },
+    {
+      "shot_id": 16,
+      "location": "木屋室内软地垫",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPI",
+        "DRY_SOCKS",
+        "RUG",
+        "WOODEN_FLOOR"
+      ],
+      "state_before": {
+        "dry_socks": "worn by pipi",
+        "wet_socks": "on porch rack",
+        "wooden_floor": "dry"
+      },
+      "state_after": {
+        "dry_socks": "worn by pipi",
+        "wet_socks": "on porch rack",
+        "wooden_floor": "dry"
+      },
+      "transition_from": "shot_15",
+      "asset_path": "images/shot_16.png"
+    },
+    {
+      "shot_id": 17,
+      "location": "木屋室内软地垫",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPI",
+        "DRY_SOCKS",
+        "RUG",
+        "WOODEN_FLOOR"
+      ],
+      "state_before": {
+        "dry_socks": "worn by pipi",
+        "wet_socks": "on porch rack",
+        "wooden_floor": "dry"
+      },
+      "state_after": {
+        "dry_socks": "worn by pipi",
+        "wet_socks": "on porch rack",
+        "wooden_floor": "dry"
+      },
+      "transition_from": "shot_16",
+      "asset_path": "images/shot_17.png"
+    },
+    {
+      "shot_id": 18,
+      "location": "木屋室内软地垫",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPI",
+        "DRY_SOCKS",
+        "RUG",
+        "WOODEN_FLOOR"
+      ],
+      "state_before": {
+        "dry_socks": "worn by pipi",
+        "wet_socks": "on porch rack",
+        "wooden_floor": "dry"
+      },
+      "state_after": {
+        "dry_socks": "worn by pipi",
+        "wet_socks": "on porch rack",
+        "wooden_floor": "dry"
+      },
+      "transition_from": "shot_17",
+      "asset_path": "images/shot_18.png"
+    },
+    {
+      "shot_id": 19,
+      "location": "小木屋室内望向门窗",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPI",
+        "DRY_SOCKS",
+        "WOODEN_DOOR",
+        "WOODEN_FLOOR",
+        "WINDOW_RAIN",
+        "ENTRY_STOOL"
+      ],
+      "state_before": {
+        "dry_socks": "worn by pipi",
+        "wet_socks": "on porch rack",
+        "wooden_floor": "dry",
+        "door": "closed",
+        "rain": "outside"
+      },
+      "state_after": {
+        "dry_socks": "worn by pipi",
+        "wet_socks": "on porch rack",
+        "wooden_floor": "dry",
+        "door": "closed",
+        "rain": "outside"
+      },
+      "transition_from": "shot_18",
+      "asset_path": "images/shot_19.png"
+    },
+    {
+      "shot_id": 20,
+      "location": "木屋内景",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPI",
+        "DRY_SOCKS",
+        "WOODEN_DOOR",
+        "WOODEN_FLOOR",
+        "WINDOW_RAIN",
+        "ENTRY_STOOL"
+      ],
+      "state_before": {
+        "dry_socks": "worn by pipi",
+        "wet_socks": "on porch rack",
+        "wooden_floor": "dry",
+        "door": "closed",
+        "rain": "outside"
+      },
+      "state_after": {
+        "dry_socks": "worn by pipi",
+        "wet_socks": "on porch rack",
+        "wooden_floor": "dry",
+        "door": "closed",
+        "rain": "outside"
+      },
+      "transition_from": "shot_19",
+      "asset_path": "images/shot_20.png"
+    },
+    {
+      "shot_id": 21,
+      "location": "木屋内景",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPI",
+        "DRY_SOCKS",
+        "WOODEN_DOOR",
+        "WOODEN_FLOOR",
+        "WINDOW_RAIN",
+        "ENTRY_STOOL"
+      ],
+      "state_before": {
+        "dry_socks": "worn by pipi",
+        "wet_socks": "on porch rack",
+        "wooden_floor": "dry",
+        "door": "closed",
+        "rain": "outside"
+      },
+      "state_after": {
+        "dry_socks": "worn by pipi",
+        "wet_socks": "on porch rack",
+        "wooden_floor": "dry",
+        "door": "closed",
+        "rain": "outside"
+      },
+      "transition_from": "shot_20",
+      "asset_path": "images/shot_21.png"
+    },
+    {
+      "shot_id": 22,
+      "location": "小木屋玄关到卧室",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPI",
+        "DRY_SOCKS",
+        "WOODEN_DOOR",
+        "WOODEN_FLOOR",
+        "WINDOW_RAIN",
+        "ENTRY_STOOL"
+      ],
+      "state_before": {
+        "dry_socks": "worn by pipi",
+        "wet_socks": "on porch rack",
+        "wooden_floor": "dry",
+        "door": "closed",
+        "rain": "outside"
+      },
+      "state_after": {
+        "dry_socks": "worn by pipi",
+        "wet_socks": "on porch rack",
+        "wooden_floor": "dry",
+        "door": "closed",
+        "rain": "outside",
+        "entry_stool": "pushed back to wall corner",
+        "pipi": "walking toward bed"
+      },
+      "transition_from": "shot_21",
+      "asset_path": "images/shot_22.png"
+    },
+    {
+      "shot_id": 23,
+      "location": "木屋内景",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPI",
+        "DRY_SOCKS",
+        "WOODEN_DOOR",
+        "WOODEN_FLOOR",
+        "WINDOW_RAIN",
+        "ENTRY_STOOL"
+      ],
+      "state_before": {
+        "dry_socks": "worn by pipi",
+        "wet_socks": "on porch rack",
+        "wooden_floor": "dry",
+        "door": "closed",
+        "rain": "outside"
+      },
+      "state_after": {
+        "dry_socks": "worn by pipi",
+        "wet_socks": "on porch rack",
+        "wooden_floor": "dry",
+        "door": "closed",
+        "rain": "outside"
+      },
+      "transition_from": "shot_22",
+      "asset_path": "images/shot_23.png"
+    },
+    {
+      "shot_id": 24,
+      "location": "皮皮卧室小木床",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPI",
+        "DRY_SOCKS",
+        "BED",
+        "YELLOW_BLANKET",
+        "CARROT_PLUSH",
+        "WINDOW_RAIN"
+      ],
+      "state_before": {
+        "dry_socks": "worn under blanket",
+        "wet_socks": "on porch rack",
+        "bed": "same wooden bed",
+        "blanket": "warm yellow",
+        "rain": "outside window"
+      },
+      "state_after": {
+        "dry_socks": "worn under blanket",
+        "wet_socks": "on porch rack",
+        "bed": "same wooden bed",
+        "blanket": "warm yellow",
+        "rain": "outside window"
+      },
+      "transition_from": "shot_23",
+      "asset_path": "images/shot_24.png"
+    },
+    {
+      "shot_id": 25,
+      "location": "皮皮卧室小木床",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPI",
+        "DRY_SOCKS",
+        "BED",
+        "YELLOW_BLANKET",
+        "CARROT_PLUSH",
+        "WINDOW_RAIN"
+      ],
+      "state_before": {
+        "dry_socks": "worn under blanket",
+        "wet_socks": "on porch rack",
+        "bed": "same wooden bed",
+        "blanket": "warm yellow",
+        "rain": "outside window"
+      },
+      "state_after": {
+        "dry_socks": "worn under blanket",
+        "wet_socks": "on porch rack",
+        "bed": "same wooden bed",
+        "blanket": "warm yellow",
+        "rain": "outside window"
+      },
+      "transition_from": "shot_24",
+      "asset_path": "images/shot_25.png"
+    },
+    {
+      "shot_id": 26,
+      "location": "皮皮卧室小木床",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPI",
+        "DRY_SOCKS",
+        "BED",
+        "YELLOW_BLANKET",
+        "CARROT_PLUSH",
+        "WINDOW_RAIN"
+      ],
+      "state_before": {
+        "dry_socks": "worn under blanket",
+        "wet_socks": "on porch rack",
+        "bed": "same wooden bed",
+        "blanket": "warm yellow",
+        "rain": "outside window"
+      },
+      "state_after": {
+        "dry_socks": "worn under blanket",
+        "wet_socks": "on porch rack",
+        "bed": "same wooden bed",
+        "blanket": "warm yellow",
+        "rain": "outside window",
+        "carrot_plush": "beside arm"
+      },
+      "transition_from": "shot_25",
+      "asset_path": "images/shot_26.png"
+    },
+    {
+      "shot_id": 27,
+      "location": "皮皮卧室小木床",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPI",
+        "DRY_SOCKS",
+        "BED",
+        "YELLOW_BLANKET",
+        "CARROT_PLUSH",
+        "WINDOW_RAIN"
+      ],
+      "state_before": {
+        "dry_socks": "worn under blanket",
+        "wet_socks": "on porch rack",
+        "bed": "same wooden bed",
+        "blanket": "warm yellow",
+        "rain": "outside window"
+      },
+      "state_after": {
+        "dry_socks": "worn under blanket",
+        "wet_socks": "on porch rack",
+        "bed": "same wooden bed",
+        "blanket": "warm yellow",
+        "rain": "outside window",
+        "carrot_plush": "beside arm",
+        "pipi": "asleep"
+      },
+      "transition_from": "shot_26",
+      "asset_path": "images/shot_27.png"
+    },
+    {
+      "shot_id": 28,
+      "location": "睡前卧室与床边",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPI",
+        "DRY_SOCKS",
+        "BED",
+        "YELLOW_BLANKET",
+        "CARROT_PLUSH",
+        "WINDOW_RAIN"
+      ],
+      "state_before": {
+        "dry_socks": "worn under blanket",
+        "wet_socks": "on porch rack",
+        "bed": "same wooden bed",
+        "blanket": "warm yellow",
+        "rain": "outside window"
+      },
+      "state_after": {
+        "dry_socks": "worn under blanket",
+        "wet_socks": "on porch rack",
+        "bed": "same wooden bed",
+        "blanket": "warm yellow",
+        "rain": "outside window",
+        "carrot_plush": "beside arm",
+        "pipi": "asleep"
+      },
+      "transition_from": "shot_27",
+      "asset_path": "images/shot_28.png"
+    },
+    {
+      "shot_id": 29,
+      "location": "睡前卧室与床边",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPI",
+        "DRY_SOCKS",
+        "BED",
+        "YELLOW_BLANKET",
+        "CARROT_PLUSH",
+        "WINDOW_RAIN"
+      ],
+      "state_before": {
+        "dry_socks": "worn under blanket",
+        "wet_socks": "on porch rack",
+        "bed": "same wooden bed",
+        "blanket": "warm yellow",
+        "rain": "outside window"
+      },
+      "state_after": {
+        "dry_socks": "worn under blanket",
+        "wet_socks": "on porch rack",
+        "bed": "same wooden bed",
+        "blanket": "warm yellow",
+        "rain": "outside window",
+        "carrot_plush": "beside arm",
+        "pipi": "asleep"
+      },
+      "transition_from": "shot_28",
+      "asset_path": "images/shot_29.png"
+    },
+    {
+      "shot_id": 30,
+      "location": "睡前卧室与床边",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPI",
+        "DRY_SOCKS",
+        "BED",
+        "YELLOW_BLANKET",
+        "CARROT_PLUSH",
+        "WINDOW_RAIN"
+      ],
+      "state_before": {
+        "dry_socks": "worn under blanket",
+        "wet_socks": "on porch rack",
+        "bed": "same wooden bed",
+        "blanket": "warm yellow",
+        "rain": "outside window"
+      },
+      "state_after": {
+        "dry_socks": "worn under blanket",
+        "wet_socks": "on porch rack",
+        "bed": "same wooden bed",
+        "blanket": "warm yellow",
+        "rain": "outside window",
+        "carrot_plush": "beside arm",
+        "pipi": "asleep"
+      },
+      "transition_from": "shot_29",
+      "asset_path": "images/shot_30.png"
+    },
+    {
+      "shot_id": 31,
+      "location": "睡前卧室与床边",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "PIPI",
+        "DRY_SOCKS",
+        "BED",
+        "YELLOW_BLANKET",
+        "CARROT_PLUSH",
+        "WINDOW_RAIN"
+      ],
+      "state_before": {
+        "dry_socks": "worn under blanket",
+        "wet_socks": "on porch rack",
+        "bed": "same wooden bed",
+        "blanket": "warm yellow",
+        "rain": "outside window"
+      },
+      "state_after": {
+        "dry_socks": "worn under blanket",
+        "wet_socks": "on porch rack",
+        "bed": "same wooden bed",
+        "blanket": "warm yellow",
+        "rain": "outside window",
+        "carrot_plush": "beside arm",
+        "pipi": "asleep"
+      },
+      "transition_from": "shot_30",
+      "asset_path": "images/shot_31.png"
+    }
+  ]
+}

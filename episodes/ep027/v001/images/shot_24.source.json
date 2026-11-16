@@ -1,0 +1,11 @@
+{
+  "shot_id": 24,
+  "asset": "images/shot_24.png",
+  "size": [
+    1080,
+    1920
+  ],
+  "sha256": "6283fdd01cf858f6e54192db76d91ae9c9a9dddff75ffdadfc83a0c0c0c82a89",
+  "method": "original vector illustration authored with Pillow drawing primitives",
+  "prompt": "Storyboard action: 睡前皮皮爬上同一张床，把穿着干爽软袜的小脚伸进被窝；床头布局简洁固定，神情放松。"
+}

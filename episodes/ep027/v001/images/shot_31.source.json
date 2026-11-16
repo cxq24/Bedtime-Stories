@@ -1,0 +1,11 @@
+{
+  "shot_id": 31,
+  "asset": "images/shot_31.png",
+  "size": [
+    1080,
+    1920
+  ],
+  "sha256": "f26441ee0c78276311e75657189d2d2cd1ada99637c322c12c36eb28a8cf14b2",
+  "method": "original vector illustration authored with Pillow drawing primitives",
+  "prompt": "Storyboard action: 同一张床上皮皮闭眼安睡，橙色胡萝卜玩偶靠在手臂旁，穿袜小脚盖在暖毯下；单一静止晚安画面。"
+}

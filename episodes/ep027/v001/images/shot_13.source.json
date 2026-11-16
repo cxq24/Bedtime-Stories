@@ -1,0 +1,11 @@
+{
+  "shot_id": 13,
+  "asset": "images/shot_13.png",
+  "size": [
+    941,
+    1672
+  ],
+  "sha256": "e9ec4e790294a1252f1d3591008710e49a7d66d14c40aabacbcee5015962daa3",
+  "method": "image_gen",
+  "prompt": "Storyboard action: 皮皮回到玄关坐在矮凳上，用温热的浅色毛巾轻擦双脚；湿袜仍在门廊架上，干袜留在竹篮里。"
+}
