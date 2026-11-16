@@ -1,0 +1,28 @@
+{
+  "episode": "ep023",
+  "version": "v001",
+  "script_version": "v5",
+  "status": "technical_passed_human_watch_pending",
+  "duration_s": 267.92,
+  "hanzi": 773,
+  "shots": 33,
+  "unique_plot_images": 33,
+  "subtitle_cues": 136,
+  "continuity_preflight": "passed",
+  "continuity_contact_sheet_review": "passed_33_shots",
+  "render": "passed",
+  "technical_checks": "passed",
+  "human_full_watch": "not_certified_pending",
+  "user_acceptance": "pending",
+  "publication": "not_published",
+  "github_sync": "not_requested_not_synced",
+  "record": "episodes/ep023/v001/RECORD.md",
+  "delivery": "Outputs/2026-11-16/ep023-v001/",
+  "max_visible_image_s": 12.92,
+  "silent_tail_after_last_speech_s": 8.1555,
+  "frames": 6698,
+  "release_size_bytes": {
+    "ep023.mp4": 41390011,
+    "ep023_clean.mp4": 38863648
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "text": "投进了森林邮局的绿色邮筒里，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "7c9b88bf818830fb38d1ba39746208acfea4a832db030d79f1622cd53b961a10",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5961660,
+      "text": "投进"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7230830,
+      "duration": 1730830,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9346250,
+      "duration": 5384580,
+      "text": "森林"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14922910,
+      "duration": 5384580,
+      "text": "邮局"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20307500,
+      "duration": 1730830,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22422910,
+      "duration": 5384580,
+      "text": "绿色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28000000,
+      "duration": 7307500,
+      "text": "邮筒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35307500,
+      "duration": 3653750,
+      "text": "里"
+    }
+  ]
+}

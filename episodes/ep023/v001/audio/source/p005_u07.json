@@ -1,0 +1,53 @@
+{
+  "text": "皮皮不再勉强自己抬着头。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "98ce4100b3dd0150b48bf46b497e4a8cd587bef2ff08d54babd34cab5941dc02",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5577080,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7230830,
+      "duration": 4807500,
+      "text": "不再"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12230830,
+      "duration": 6730830,
+      "text": "勉强"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19153750,
+      "duration": 4038330,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23577080,
+      "duration": 3076660,
+      "text": "抬"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26653750,
+      "duration": 1922910,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28577080,
+      "duration": 5961660,
+      "text": "头"
+    }
+  ]
+}

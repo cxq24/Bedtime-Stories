@@ -1,0 +1,35 @@
+{
+  "text": "停在了弯弯的月亮前面。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "04f8dfe632a548b5223cc39d4b140f743c451d6865e741982daf9341402dda40",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6538330,
+      "text": "停在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7807500,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9538330,
+      "duration": 12307500,
+      "text": "弯弯的月亮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22038330,
+      "duration": 8653750,
+      "text": "前面"
+    }
+  ]
+}

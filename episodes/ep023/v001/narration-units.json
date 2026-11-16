@@ -1,0 +1,446 @@
+[
+  {
+    "id": "p000_u01",
+    "paragraph_id": "p000",
+    "text": "小朋友们，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p000_u02",
+    "paragraph_id": "p000",
+    "text": "准备好听故事了吗？",
+    "pause_after_s": 0.55
+  },
+  {
+    "id": "p000_u03",
+    "paragraph_id": "p000",
+    "text": "今天的故事叫《云朵的慢邮差》。",
+    "pause_after_s": 0.85
+  },
+  {
+    "id": "p000_u04",
+    "paragraph_id": "p000",
+    "text": "皮皮寄出一张明信片，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p000_u05",
+    "paragraph_id": "p000",
+    "text": "云朵邮差会怎样把它送到远方呢？",
+    "pause_after_s": 0.55
+  },
+  {
+    "id": "p001_u01",
+    "paragraph_id": "p001",
+    "text": "今天在森林学堂，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p001_u02",
+    "paragraph_id": "p001",
+    "text": "皮皮学会了写自己的名字，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p001_u03",
+    "paragraph_id": "p001",
+    "text": "还画了一张漂亮的明信片，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p001_u04",
+    "paragraph_id": "p001",
+    "text": "投进了森林邮局的绿色邮筒里，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p001_u05",
+    "paragraph_id": "p001",
+    "text": "寄给住在远方山谷里的外婆。\n",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p001_u06",
+    "paragraph_id": "p001",
+    "text": "喜鹊邮差叔叔告诉皮皮：“信件要坐着风和云朵的慢车，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p001_u07",
+    "paragraph_id": "p001",
+    "text": "翻过两座大山，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p001_u08",
+    "paragraph_id": "p001",
+    "text": "过几天才能送到外婆手里哦。”",
+    "pause_after_s": 0.55
+  },
+  {
+    "id": "p002_u01",
+    "paragraph_id": "p002",
+    "text": "因为心里惦记着那封信，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p002_u02",
+    "paragraph_id": "p002",
+    "text": "这天晚上到了睡觉的时间，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p002_u03",
+    "paragraph_id": "p002",
+    "text": "皮皮坐在床边，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p002_u04",
+    "paragraph_id": "p002",
+    "text": "还一直仰着小脑袋望着窗外的夜空。\n",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p002_u05",
+    "paragraph_id": "p002",
+    "text": "正好有一朵浅浅的、",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p002_u06",
+    "paragraph_id": "p002",
+    "text": "软绵绵的白云，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p002_u07",
+    "paragraph_id": "p002",
+    "text": "慢吞吞地飘过来，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p002_u08",
+    "paragraph_id": "p002",
+    "text": "停在了弯弯的月亮前面。",
+    "pause_after_s": 0.85
+  },
+  {
+    "id": "p003_u01",
+    "paragraph_id": "p003",
+    "text": "皮皮托着腮帮子想：这朵云走得这么慢、",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p003_u02",
+    "paragraph_id": "p003",
+    "text": "这么稳，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p003_u03",
+    "paragraph_id": "p003",
+    "text": "它会不会也是天上的慢邮差呀？\n",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p003_u04",
+    "paragraph_id": "p003",
+    "text": "你看，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p003_u05",
+    "paragraph_id": "p003",
+    "text": "它背上镶着一圈淡淡的银色月光边，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p003_u06",
+    "paragraph_id": "p003",
+    "text": "正一点一点地往前挪动，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p003_u07",
+    "paragraph_id": "p003",
+    "text": "好像在把温柔的夜色和晚安的信件，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p003_u08",
+    "paragraph_id": "p003",
+    "text": "挨家挨户地送到每一片树叶、",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p003_u09",
+    "paragraph_id": "p003",
+    "text": "每一座小木屋的屋顶上。",
+    "pause_after_s": 0.85
+  },
+  {
+    "id": "p004_u01",
+    "paragraph_id": "p004",
+    "text": "皮皮很想亲眼看着这位“云朵慢邮差”走过整片窗户，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p004_u02",
+    "paragraph_id": "p004",
+    "text": "看看它会把信送到哪一棵树上。\n",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p004_u03",
+    "paragraph_id": "p004",
+    "text": "可是，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p004_u04",
+    "paragraph_id": "p004",
+    "text": "云朵走得实在是太慢太慢了。",
+    "pause_after_s": 0.85
+  },
+  {
+    "id": "p004_u05",
+    "paragraph_id": "p004",
+    "text": "皮皮盯了好一会儿，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p004_u06",
+    "paragraph_id": "p004",
+    "text": "小眼睛已经有一点点发酸，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p004_u07",
+    "paragraph_id": "p004",
+    "text": "撑着床沿的小爪子也有一点点发困了。",
+    "pause_after_s": 0.85
+  },
+  {
+    "id": "p005_u01",
+    "paragraph_id": "p005",
+    "text": "皮皮打了个小哈欠，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p005_u02",
+    "paragraph_id": "p005",
+    "text": "想起白天喜鹊邮差叔叔说的话：“好邮件是不需要一直盯着邮筒看的，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p005_u03",
+    "paragraph_id": "p005",
+    "text": "你去安心做自己的事，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p005_u04",
+    "paragraph_id": "p005",
+    "text": "它自然就会送到啦。”\n",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p005_u06",
+    "paragraph_id": "p005",
+    "text": "于是，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p005_u07",
+    "paragraph_id": "p005",
+    "text": "皮皮不再勉强自己抬着头。",
+    "pause_after_s": 0.85
+  },
+  {
+    "id": "p005_u08",
+    "paragraph_id": "p005",
+    "text": "他顺从地靠回软软的枕头上，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p005_u09",
+    "paragraph_id": "p005",
+    "text": "只把叶子花窗帘留开一个小小的三角缝隙，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p005_u10",
+    "paragraph_id": "p005",
+    "text": "不再一直睁大眼睛盯着窗外等。",
+    "pause_after_s": 0.85
+  },
+  {
+    "id": "p006_u01",
+    "paragraph_id": "p006",
+    "text": "他把胡萝卜玩偶抱到身边，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p006_u02",
+    "paragraph_id": "p006",
+    "text": "替玩偶拉好暖黄色的毛毯，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p006_u03",
+    "paragraph_id": "p006",
+    "text": "也给自己严严实实地盖住了肩膀。\n",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p006_u04",
+    "paragraph_id": "p006",
+    "text": "皮皮闭着眼睛歇了一小会儿，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p006_u05",
+    "paragraph_id": "p006",
+    "text": "等他迷迷糊糊地再轻轻睁开一条眼缝看过去时——哇，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p006_u06",
+    "paragraph_id": "p006",
+    "text": "那朵慢吞吞的云朵邮差，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p006_u07",
+    "paragraph_id": "p006",
+    "text": "不知什么时候已经悄悄挪开了！",
+    "pause_after_s": 0.55
+  },
+  {
+    "id": "p007_u01",
+    "paragraph_id": "p007",
+    "text": "皎洁的月光没有了遮挡，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p007_u02",
+    "paragraph_id": "p007",
+    "text": "正大大方方地穿过窗户，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p007_u03",
+    "paragraph_id": "p007",
+    "text": "落在床边的木地板上，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p007_u04",
+    "paragraph_id": "p007",
+    "text": "像一封已经稳稳送达的银色回信。\n",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p007_u05",
+    "paragraph_id": "p007",
+    "text": "原来，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p007_u06",
+    "paragraph_id": "p007",
+    "text": "就算不一直盯着看，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p007_u07",
+    "paragraph_id": "p007",
+    "text": "云朵邮差也会按照自己的步调慢慢往前走；",
+    "pause_after_s": 0.55
+  },
+  {
+    "id": "p007_u08",
+    "paragraph_id": "p007",
+    "text": "夜晚的一切，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p007_u09",
+    "paragraph_id": "p007",
+    "text": "一直都有着自己从容的速度。",
+    "pause_after_s": 0.85
+  },
+  {
+    "id": "p008_u01",
+    "paragraph_id": "p008",
+    "text": "皮皮放心地彻底闭上了眼睛，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p008_u02",
+    "paragraph_id": "p008",
+    "text": "不再追着云朵走了。",
+    "pause_after_s": 0.85
+  },
+  {
+    "id": "p008_u03",
+    "paragraph_id": "p008",
+    "text": "软软的枕头，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p008_u04",
+    "paragraph_id": "p008",
+    "text": "已经像云朵一样把他稳稳地接住了。\n",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p008_u05",
+    "paragraph_id": "p008",
+    "text": "小朋友，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p008_u06",
+    "paragraph_id": "p008",
+    "text": "生活里有很多美好的事情，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p008_u07",
+    "paragraph_id": "p008",
+    "text": "都是可以慢慢等的。",
+    "pause_after_s": 0.85
+  },
+  {
+    "id": "p008_u08",
+    "paragraph_id": "p008",
+    "text": "现在，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p008_u09",
+    "paragraph_id": "p008",
+    "text": "把你的期待和等待都放到窗外，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p008_u10",
+    "paragraph_id": "p008",
+    "text": "安心躺好，",
+    "pause_after_s": 0.0
+  },
+  {
+    "id": "p008_u11",
+    "paragraph_id": "p008",
+    "text": "进入甜甜的梦乡吧。",
+    "pause_after_s": 0.85
+  },
+  {
+    "id": "p008_u12",
+    "paragraph_id": "p008",
+    "text": "晚安。",
+    "pause_after_s": 0.85
+  }
+]

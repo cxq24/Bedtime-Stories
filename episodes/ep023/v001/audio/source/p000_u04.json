@@ -1,0 +1,47 @@
+{
+  "text": "皮皮寄出一张明信片，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "4b5368fac525a5f39f0f04bdfa0c90a47b8b92bcdfc567effba6b6d64d8447ea",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 7884580,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9538330,
+      "duration": 2307500,
+      "text": "寄"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11846250,
+      "duration": 1922910,
+      "text": "出"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13961660,
+      "duration": 1730830,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15692500,
+      "duration": 3077080,
+      "text": "张"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19153750,
+      "duration": 11730830,
+      "text": "明信片"
+    }
+  ]
+}

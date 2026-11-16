@@ -1,0 +1,7 @@
+{
+  "source": "built-in image_gen; standalone portrait illustration",
+  "generated_source": "illustration-prompts/generated_sources/single_half_eye.png",
+  "identity_reference": "references/pipi_identity_v001.png",
+  "sha256": "24516787423dddd7532d5e516e1e547a106f14d4c02a414b7b317871af9cd984",
+  "review": "sleepy single-eye slit in consistent bedroom visually reviewed"
+}

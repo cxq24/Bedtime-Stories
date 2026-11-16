@@ -1,0 +1,8 @@
+# 第23集镜头30插画提示
+
+原文：皮皮放心地彻底闭上了眼睛，不再追着云朵走了。软软的枕头，
+
+画面内容：皮皮靠回同一张木床的米色枕头，轻轻把叶子花窗帘留成小三角缝，身体姿势渐渐放松。
+
+来源图：images/shot_48.png，illustration-prompts/generated_sources/sheet_08.png，第6格。来源/哈希见images/shot_48.source.json。
+身份参考：pipi_identity_v001；表情、视线、姿势依本镜情节安排。

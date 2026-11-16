@@ -1,0 +1,47 @@
+{
+  "text": "不再追着云朵走了。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "454569bc6ffc63852f72557668fe6e247f5b91aefd6f29421a3d20b9298be3fd",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5577080,
+      "text": "不再"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 2884580,
+      "text": "追"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9922910,
+      "duration": 1538330,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11653750,
+      "duration": 5384580,
+      "text": "云朵"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17230830,
+      "duration": 4038330,
+      "text": "走"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21269160,
+      "duration": 3461660,
+      "text": "了"
+    }
+  ]
+}

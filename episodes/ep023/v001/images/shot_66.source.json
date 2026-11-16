@@ -1,0 +1,17 @@
+{
+  "source": "built-in image_gen; final single illustration cropped from archived native sheet",
+  "generated_sheet": "illustration-prompts/generated_sources/sheet_10_day_expression.png",
+  "sheet_number": 10,
+  "cell": 6,
+  "panel_box": [
+    599,
+    874,
+    1199,
+    1312
+  ],
+  "identity_reference": "references/pipi_identity_v001.png",
+  "wardrobe_reference": "references/pipi_wardrobe_v001.png",
+  "magpie_reference": "references/magpie_postman_identity_v001.png",
+  "sha256": "826c7b6dee096fe4e603fd2f9957ce5b2a2df5126592d1289fd9416ccb0b2678",
+  "review": "contact sheet visually reviewed; final frame assigned to corresponding shot"
+}

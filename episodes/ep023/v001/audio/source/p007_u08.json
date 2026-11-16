@@ -1,0 +1,29 @@
+{
+  "text": "夜晚的一切，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "ca4b9b46849d10abbc1fe3943d65d0ef354e88442187e1e2cb2262ee17ded202",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6153750,
+      "text": "夜晚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7422910,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8769160,
+      "duration": 8846250,
+      "text": "一切"
+    }
+  ]
+}

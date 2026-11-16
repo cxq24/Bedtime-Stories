@@ -1,0 +1,8 @@
+# 第23集镜头22插画提示
+
+原文：他把胡萝卜玩偶抱到身边，替玩偶拉好暖黄色的毛毯，
+
+画面内容：床边近景，皮皮把同一只橙色胡萝卜玩偶放在身旁并为它拉好暖黄小毯，再把毯子盖到自己肩部，动作连续。
+
+来源图：images/shot_22.png，illustration-prompts/generated_sources/sheet_04.png，第4格。来源/哈希见images/shot_22.source.json。
+身份参考：pipi_identity_v001；表情、视线、姿势依本镜情节安排。

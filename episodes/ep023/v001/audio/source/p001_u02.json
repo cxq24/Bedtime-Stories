@@ -1,0 +1,53 @@
+{
+  "text": "皮皮学会了写自己的名字，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "17f030a82078c6def1252e61f30dcafc1c6f7fbf6a7c3b566af011b34b39b98a",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5769160,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7230830,
+      "duration": 6153750,
+      "text": "学会"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13384580,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15115410,
+      "duration": 2884580,
+      "text": "写"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18192500,
+      "duration": 4230410,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22422910,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23961660,
+      "duration": 8269160,
+      "text": "名字"
+    }
+  ]
+}

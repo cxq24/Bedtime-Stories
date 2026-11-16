@@ -1,0 +1,20 @@
+{
+  "shot_id": 1,
+  "actual_loaded_references": [
+    {
+      "path": "references/pipi_identity_v001.png",
+      "sha256": "6f754c72b9fa7281790bb1fce42bb18701ea055446fda2cdec7ae58b92232674",
+      "character_id": "pipi",
+      "version": "v001"
+    }
+  ],
+  "references": [
+    {
+      "character_id": "pipi",
+      "version": "v001",
+      "reference_path": "references/pipi_identity_v001.png"
+    }
+  ],
+  "loaded_for_generation": true,
+  "image_source": "images/shot_01.png.source.json"
+}

@@ -1,0 +1,41 @@
+{
+  "text": "翻过两座大山，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "8ab69e76a99cf6d20fad665ca8974a649200fe8ce18b7a3601e73e5f9daefe4c",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3846250,
+      "text": "翻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5115410,
+      "duration": 1730830,
+      "text": "过"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 3461660,
+      "text": "两"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10500000,
+      "duration": 2307500,
+      "text": "座"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13000000,
+      "duration": 7884580,
+      "text": "大山"
+    }
+  ]
+}

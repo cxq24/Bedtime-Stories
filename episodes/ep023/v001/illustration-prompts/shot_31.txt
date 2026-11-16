@@ -1,0 +1,9 @@
+# 第23集镜头31插画提示
+
+原文：已经像云朵一样把他稳稳地接住了。
+小朋友，生活里有很多美好的事情，
+
+画面内容：皮皮终于完全闭上眼睛，头被同一只米色枕头稳稳托住，胡萝卜玩偶与暖黄毛毯保持在身旁，安然入梦。
+
+来源图：images/shot_26.png，illustration-prompts/generated_sources/sheet_05.png，第2格。来源/哈希见images/shot_26.source.json。
+身份参考：pipi_identity_v001；表情、视线、姿势依本镜情节安排。

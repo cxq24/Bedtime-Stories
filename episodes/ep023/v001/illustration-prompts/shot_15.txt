@@ -1,0 +1,8 @@
+# 第23集镜头15插画提示
+
+原文：可是，云朵走得实在是太慢太慢了。皮皮盯了好一会儿，
+
+画面内容：皮皮仍坐在床边望向窗外，眼睛略显疲倦、前爪撑在床沿，耳朵稍垂；表现长时间等待，不画痛苦。
+
+来源图：images/shot_39.png，illustration-prompts/generated_sources/sheet_07.png，第3格。来源/哈希见images/shot_39.source.json。
+身份参考：pipi_identity_v001；表情、视线、姿势依本镜情节安排。

@@ -1,0 +1,8 @@
+# 第23集镜头02插画提示
+
+原文：皮皮寄出一张明信片，云朵邮差会怎样把它送到远方呢？
+
+画面内容：开场：夜色窗前的皮皮抬头看着月亮与慢云，眼神好奇、耳朵轻轻抬起；9:16水彩，留出底部字幕区。
+
+来源图：images/shot_06.png，illustration-prompts/generated_sources/sheet_01.png，第6格。来源/哈希见images/shot_06.source.json。
+身份参考：pipi_identity_v001；表情、视线、姿势依本镜情节安排。

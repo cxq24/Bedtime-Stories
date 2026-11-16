@@ -1,0 +1,77 @@
+{
+  "text": "它背上镶着一圈淡淡的银色月光边，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "bad995784f23e0f2c6a3b8509dd6dc90ee022771491e2c2aa829ed778be8638d",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2307500,
+      "text": "它"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3577080,
+      "duration": 2692080,
+      "text": "背"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6269160,
+      "duration": 3846250,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10500000,
+      "duration": 3077080,
+      "text": "镶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13577080,
+      "duration": 1153750,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14922910,
+      "duration": 2307500,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17230830,
+      "duration": 4230830,
+      "text": "圈"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21846250,
+      "duration": 5961250,
+      "text": "淡淡"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27807500,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29346250,
+      "duration": 12884580,
+      "text": "银色月光"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42230830,
+      "duration": 4422910,
+      "text": "边"
+    }
+  ]
+}

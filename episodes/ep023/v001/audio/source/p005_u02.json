@@ -1,0 +1,119 @@
+{
+  "text": "想起白天喜鹊邮差叔叔说的话：“好邮件是不需要一直盯着邮筒看的，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "2e2e16629c3fc76ed4918ed1615d875ca40c8f137a6c8a9e09b84ac9247b8967",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6538330,
+      "text": "想起"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8000000,
+      "duration": 5961660,
+      "text": "白天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14346250,
+      "duration": 5192500,
+      "text": "喜鹊"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19730830,
+      "duration": 5577080,
+      "text": "邮差"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25500000,
+      "duration": 4807500,
+      "text": "叔叔"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30307500,
+      "duration": 2307500,
+      "text": "说"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32807500,
+      "duration": 5769160,
+      "text": "的话"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44346250,
+      "duration": 2692080,
+      "text": "好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47038330,
+      "duration": 8077080,
+      "text": "邮件"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56461660,
+      "duration": 2307500,
+      "text": "是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58961660,
+      "duration": 2500000,
+      "text": "不"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61461660,
+      "duration": 4807500,
+      "text": "需要"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 66653750,
+      "duration": 5577080,
+      "text": "一直"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 72422910,
+      "duration": 2692500,
+      "text": "盯"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75115410,
+      "duration": 1346250,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 76846250,
+      "duration": 5000000,
+      "text": "邮筒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 82038330,
+      "duration": 4230830,
+      "text": "看"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 86269160,
+      "duration": 2884580,
+      "text": "的"
+    }
+  ]
+}

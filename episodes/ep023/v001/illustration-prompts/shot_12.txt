@@ -1,0 +1,7 @@
+# 第23集镜头12插画提示
+
+原文：好像在把温柔的夜色和晚安的信件，挨家挨户地送到每一片树叶、
+
+画面内容：夜空下从窗外看向树叶和小木屋屋顶，淡银云边缓缓越过森林；不添加实体信件，保持云朵邮差的温柔想象。
+
+来源图：images/shot_36.png，illustration-prompts/generated_sources/sheet_06.png，第6格。来源/哈希见images/shot_36.source.json。

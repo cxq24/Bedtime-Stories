@@ -1,0 +1,65 @@
+{
+  "text": "不再一直睁大眼睛盯着窗外等。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "4ddf6f3953c1e646f6f30c467ce151e42011f1e0f3504e730a5bf374b830feac",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5384580,
+      "text": "不再"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 4807500,
+      "text": "一直"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11846250,
+      "duration": 2884580,
+      "text": "睁"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14730830,
+      "duration": 2692080,
+      "text": "大"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17422910,
+      "duration": 8461660,
+      "text": "眼睛"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27422910,
+      "duration": 2884580,
+      "text": "盯"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30307500,
+      "duration": 1346250,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31846250,
+      "duration": 6730830,
+      "text": "窗外"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38577080,
+      "duration": 3846250,
+      "text": "等"
+    }
+  ]
+}

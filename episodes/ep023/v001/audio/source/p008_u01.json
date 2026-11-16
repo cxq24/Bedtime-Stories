@@ -1,0 +1,59 @@
+{
+  "text": "皮皮放心地彻底闭上了眼睛，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "fe366e89fe8a00cdf31f6aa510d8aeba6ad28b55cf848ac9d287158d7f602a06",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5577080,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7230830,
+      "duration": 5576660,
+      "text": "放心"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12807500,
+      "duration": 1538330,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14730830,
+      "duration": 6346250,
+      "text": "彻底"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21269160,
+      "duration": 2884580,
+      "text": "闭"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24153750,
+      "duration": 2692500,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26846250,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28192500,
+      "duration": 7884580,
+      "text": "眼睛"
+    }
+  ]
+}

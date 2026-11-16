@@ -1,0 +1,7 @@
+# 第23集镜头32插画提示
+
+原文：都是可以慢慢等的。现在，把你的期待和等待都放到窗外，安心躺好，
+
+画面内容：同一段情节的静态水彩关键画面，皮皮保持稳定身份外形，按旁白动作自然表演，视线落在当前提及的对象；不添加文字、道具或情节。
+
+来源图：images/shot_24.png，illustration-prompts/generated_sources/sheet_04.png，第6格。来源/哈希见images/shot_24.source.json。

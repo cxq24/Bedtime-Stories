@@ -1,0 +1,53 @@
+{
+  "text": "挨家挨户地送到每一片树叶、",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "dd66c0c86450626e084d0a0eb806a4e0cc9e4d2c3fe08c49d86475f702dd78a9",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 12500000,
+      "text": "挨家挨户"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13769160,
+      "duration": 4230830,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19346250,
+      "duration": 2884580,
+      "text": "送"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22230830,
+      "duration": 2115410,
+      "text": "到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24730830,
+      "duration": 2692080,
+      "text": "每"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27422910,
+      "duration": 5192500,
+      "text": "一片"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32807500,
+      "duration": 7884580,
+      "text": "树叶"
+    }
+  ]
+}

@@ -1,0 +1,1234 @@
+{
+  "episode": "ep023",
+  "version": "v001",
+  "script_version": "v5",
+  "cover_title": "云朵邮差",
+  "actual_audio_measured": false,
+  "max_visible_duration_s": 15,
+  "total_duration_s": 260.8,
+  "shots": [
+    {
+      "id": 1,
+      "title": "镜头01",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u01",
+          "start_char": 0,
+          "end_char": 5
+        },
+        {
+          "unit_id": "p000_u02",
+          "start_char": 0,
+          "end_char": 9
+        },
+        {
+          "unit_id": "p000_u03",
+          "start_char": 0,
+          "end_char": 15
+        }
+      ],
+      "text": "小朋友们，准备好听故事了吗？今天的故事叫《云朵的慢邮差》。",
+      "place": "皮皮卧室与窗外夜空",
+      "reality_layer": "片头引入",
+      "characters": [
+        "pipi"
+      ],
+      "visual_description": "开场：窗外浅云缓缓经过弯月，皮皮在窗边期待明信片远行；9:16水彩，留出底部字幕区。",
+      "continuity_refs": [
+        "asset_cloud_01"
+      ],
+      "state_before": "承接前镜已说明的地点和物件状态；人物动作按本镜原文顺序开始。",
+      "state_after": "完成本镜旁白所述动作；无文本依据的道具/角色状态不变化。",
+      "transition_from": null,
+      "motion": "fixed",
+      "image": "images/shot_01.png",
+      "prompt_file": "illustration-prompts/shot_01.txt",
+      "reference_manifest": "references/shot_01.json",
+      "scene": "bedroom_night",
+      "start_s_estimate": 1.0,
+      "end_s_estimate": 9.3955
+    },
+    {
+      "id": 2,
+      "title": "镜头02",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u04",
+          "start_char": 0,
+          "end_char": 10
+        },
+        {
+          "unit_id": "p000_u05",
+          "start_char": 0,
+          "end_char": 15
+        }
+      ],
+      "text": "皮皮寄出一张明信片，云朵邮差会怎样把它送到远方呢？",
+      "place": "皮皮卧室与窗外夜空",
+      "reality_layer": "片头引入",
+      "characters": [
+        "pipi"
+      ],
+      "visual_description": "开场：夜色窗前的皮皮抬头看着月亮与慢云，眼神好奇、耳朵轻轻抬起；9:16水彩，留出底部字幕区。",
+      "continuity_refs": [
+        "asset_postcard_01",
+        "asset_cloud_01"
+      ],
+      "state_before": "承接前镜已说明的地点和物件状态；人物动作按本镜原文顺序开始。",
+      "state_after": "完成本镜旁白所述动作；无文本依据的道具/角色状态不变化。",
+      "transition_from": 1,
+      "motion": "fixed",
+      "image": "images/shot_02.png",
+      "prompt_file": "illustration-prompts/shot_02.txt",
+      "reference_manifest": "references/shot_02.json",
+      "scene": "bedroom_night",
+      "start_s_estimate": 10.2455,
+      "end_s_estimate": 18.129125000000002
+    },
+    {
+      "id": 3,
+      "title": "镜头03",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u01",
+          "start_char": 0,
+          "end_char": 8
+        },
+        {
+          "unit_id": "p001_u02",
+          "start_char": 0,
+          "end_char": 12
+        },
+        {
+          "unit_id": "p001_u03",
+          "start_char": 0,
+          "end_char": 12
+        }
+      ],
+      "text": "今天在森林学堂，皮皮学会了写自己的名字，还画了一张漂亮的明信片，",
+      "place": "森林学堂/森林邮局/山谷想象",
+      "reality_layer": "现实",
+      "characters": [
+        "pipi"
+      ],
+      "visual_description": "白天森林学堂，皮皮坐在小木桌前练习写名字，专注又带一点初学的开心，桌面纸张不出现可辨文字。",
+      "continuity_refs": [
+        "asset_postcard_01"
+      ],
+      "state_before": "承接前镜已说明的地点和物件状态；人物动作按本镜原文顺序开始。",
+      "state_after": "完成本镜旁白所述动作；无文本依据的道具/角色状态不变化。",
+      "transition_from": 2,
+      "motion": "fixed",
+      "image": "images/shot_03.png",
+      "prompt_file": "illustration-prompts/shot_03.txt",
+      "reference_manifest": "references/shot_03.json",
+      "scene": "classroom_post_office",
+      "start_s_estimate": 18.679125,
+      "end_s_estimate": 27.636458333333334
+    },
+    {
+      "id": 4,
+      "title": "镜头04",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u04",
+          "start_char": 0,
+          "end_char": 14
+        },
+        {
+          "unit_id": "p001_u05",
+          "start_char": 0,
+          "end_char": 14
+        }
+      ],
+      "text": "投进了森林邮局的绿色邮筒里，寄给住在远方山谷里的外婆。\n",
+      "place": "森林学堂/森林邮局/山谷想象",
+      "reality_layer": "现实",
+      "characters": [
+        "pipi"
+      ],
+      "visual_description": "森林邮局旁的固定绿色邮筒，皮皮将同一张花朵明信片投入小投信口，动作清楚、神情珍惜。",
+      "continuity_refs": [
+        "asset_postbox_01"
+      ],
+      "state_before": "承接前镜已说明的地点和物件状态；人物动作按本镜原文顺序开始。",
+      "state_after": "完成本镜旁白所述动作；无文本依据的道具/角色状态不变化。",
+      "transition_from": 3,
+      "motion": "fixed",
+      "image": "images/shot_04.png",
+      "prompt_file": "illustration-prompts/shot_04.txt",
+      "reference_manifest": "references/shot_04.json",
+      "scene": "classroom_post_office",
+      "start_s_estimate": 27.636458333333334,
+      "end_s_estimate": 35.3691875
+    },
+    {
+      "id": 5,
+      "title": "镜头05",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u06",
+          "start_char": 0,
+          "end_char": 25
+        },
+        {
+          "unit_id": "p001_u07",
+          "start_char": 0,
+          "end_char": 7
+        }
+      ],
+      "text": "喜鹊邮差叔叔告诉皮皮：“信件要坐着风和云朵的慢车，翻过两座大山，",
+      "place": "森林学堂/森林邮局/山谷想象",
+      "reality_layer": "现实",
+      "characters": [
+        "pipi",
+        "magpie_postman"
+      ],
+      "visual_description": "白天森林邮局，戴蓝帽的喜鹊邮差温和地向皮皮解释寄信路程，皮皮抬头认真倾听；保持两者距离自然。",
+      "continuity_refs": [
+        "asset_postcard_01",
+        "asset_cloud_01"
+      ],
+      "state_before": "承接前镜已说明的地点和物件状态；人物动作按本镜原文顺序开始。",
+      "state_after": "完成本镜旁白所述动作；无文本依据的道具/角色状态不变化。",
+      "transition_from": 4,
+      "motion": "fixed",
+      "image": "images/shot_05.png",
+      "prompt_file": "illustration-prompts/shot_05.txt",
+      "reference_manifest": "references/shot_05.json",
+      "scene": "classroom_post_office",
+      "start_s_estimate": 35.3691875,
+      "end_s_estimate": 45.116083333333336
+    },
+    {
+      "id": 6,
+      "title": "镜头06",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u08",
+          "start_char": 0,
+          "end_char": 14
+        }
+      ],
+      "text": "过几天才能送到外婆手里哦。”",
+      "place": "森林学堂/森林邮局/山谷想象",
+      "reality_layer": "现实",
+      "characters": [
+        "pipi"
+      ],
+      "visual_description": "同一段情节的静态水彩关键画面，皮皮保持稳定身份外形，按旁白动作自然表演，视线落在当前提及的对象；不添加文字、道具或情节。",
+      "continuity_refs": [],
+      "state_before": "承接前镜已说明的地点和物件状态；人物动作按本镜原文顺序开始。",
+      "state_after": "完成本镜旁白所述动作；无文本依据的道具/角色状态不变化。",
+      "transition_from": 5,
+      "motion": "fixed",
+      "image": "images/shot_06.png",
+      "prompt_file": "illustration-prompts/shot_06.txt",
+      "reference_manifest": "references/shot_06.json",
+      "scene": "classroom_post_office",
+      "start_s_estimate": 45.116083333333336,
+      "end_s_estimate": 48.80797916666667
+    },
+    {
+      "id": 7,
+      "title": "镜头07",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u01",
+          "start_char": 0,
+          "end_char": 11
+        },
+        {
+          "unit_id": "p002_u02",
+          "start_char": 0,
+          "end_char": 12
+        },
+        {
+          "unit_id": "p002_u03",
+          "start_char": 0,
+          "end_char": 7
+        }
+      ],
+      "text": "因为心里惦记着那封信，这天晚上到了睡觉的时间，皮皮坐在床边，",
+      "place": "皮皮卧室与窗外夜空",
+      "reality_layer": "现实",
+      "characters": [
+        "pipi"
+      ],
+      "visual_description": "同一间木质卧室，皮皮穿深蓝星星睡帽坐在床沿仰望固定木窗，惦记远方的外婆，神情牵挂但平和。",
+      "continuity_refs": [
+        "asset_bed_01"
+      ],
+      "state_before": "承接前镜已说明的地点和物件状态；人物动作按本镜原文顺序开始。",
+      "state_after": "完成本镜旁白所述动作；无文本依据的道具/角色状态不变化。",
+      "transition_from": 6,
+      "motion": "fixed",
+      "image": "images/shot_07.png",
+      "prompt_file": "illustration-prompts/shot_07.txt",
+      "reference_manifest": "references/shot_07.json",
+      "scene": "bedroom_night",
+      "start_s_estimate": 49.35797916666667,
+      "end_s_estimate": 58.131125
+    },
+    {
+      "id": 8,
+      "title": "镜头08",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u04",
+          "start_char": 0,
+          "end_char": 17
+        },
+        {
+          "unit_id": "p002_u05",
+          "start_char": 0,
+          "end_char": 9
+        },
+        {
+          "unit_id": "p002_u06",
+          "start_char": 0,
+          "end_char": 7
+        }
+      ],
+      "text": "还一直仰着小脑袋望着窗外的夜空。\n正好有一朵浅浅的、软绵绵的白云，",
+      "place": "皮皮卧室与窗外夜空",
+      "reality_layer": "现实",
+      "characters": [
+        "pipi"
+      ],
+      "visual_description": "同一间木质卧室，皮皮穿深蓝星星睡帽坐在床沿仰望固定木窗，惦记远方的外婆，神情牵挂但平和。",
+      "continuity_refs": [
+        "asset_cloud_01",
+        "asset_window_01"
+      ],
+      "state_before": "承接前镜已说明的地点和物件状态；人物动作按本镜原文顺序开始。",
+      "state_after": "完成本镜旁白所述动作；无文本依据的道具/角色状态不变化。",
+      "transition_from": 7,
+      "motion": "fixed",
+      "image": "images/shot_08.png",
+      "prompt_file": "illustration-prompts/shot_08.txt",
+      "reference_manifest": "references/shot_08.json",
+      "scene": "bedroom_night",
+      "start_s_estimate": 58.131125,
+      "end_s_estimate": 67.4153125
+    },
+    {
+      "id": 9,
+      "title": "镜头09",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u07",
+          "start_char": 0,
+          "end_char": 8
+        },
+        {
+          "unit_id": "p002_u08",
+          "start_char": 0,
+          "end_char": 11
+        }
+      ],
+      "text": "慢吞吞地飘过来，停在了弯弯的月亮前面。",
+      "place": "皮皮卧室与窗外夜空",
+      "reality_layer": "现实",
+      "characters": [
+        "pipi"
+      ],
+      "visual_description": "从同一卧室木窗向外看，浅白软云缓慢经过弯月，树梢与屋顶在下方；不画云的脸或邮件。",
+      "continuity_refs": [
+        "asset_moon_01"
+      ],
+      "state_before": "承接前镜已说明的地点和物件状态；人物动作按本镜原文顺序开始。",
+      "state_after": "完成本镜旁白所述动作；无文本依据的道具/角色状态不变化。",
+      "transition_from": 8,
+      "motion": "fixed",
+      "image": "images/shot_09.png",
+      "prompt_file": "illustration-prompts/shot_09.txt",
+      "reference_manifest": "references/shot_09.json",
+      "scene": "bedroom_night",
+      "start_s_estimate": 67.4153125,
+      "end_s_estimate": 72.839625
+    },
+    {
+      "id": 10,
+      "title": "镜头10",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u01",
+          "start_char": 0,
+          "end_char": 18
+        },
+        {
+          "unit_id": "p003_u02",
+          "start_char": 0,
+          "end_char": 4
+        },
+        {
+          "unit_id": "p003_u03",
+          "start_char": 0,
+          "end_char": 15
+        }
+      ],
+      "text": "皮皮托着腮帮子想：这朵云走得这么慢、这么稳，它会不会也是天上的慢邮差呀？\n",
+      "place": "皮皮卧室与窗外夜空",
+      "reality_layer": "现实",
+      "characters": [
+        "pipi"
+      ],
+      "visual_description": "夜空远景，淡银月光勾出白云边缘，云缓缓越过树叶与小木屋屋顶，安静送出夜色的想象，不出现实体信件。",
+      "continuity_refs": [
+        "asset_cloud_01"
+      ],
+      "state_before": "承接前镜已说明的地点和物件状态；人物动作按本镜原文顺序开始。",
+      "state_after": "完成本镜旁白所述动作；无文本依据的道具/角色状态不变化。",
+      "transition_from": 9,
+      "motion": "fixed",
+      "image": "images/shot_10.png",
+      "prompt_file": "illustration-prompts/shot_10.txt",
+      "reference_manifest": "references/shot_10.json",
+      "scene": "bedroom_night",
+      "start_s_estimate": 73.68962499999999,
+      "end_s_estimate": 83.65679166666668
+    },
+    {
+      "id": 11,
+      "title": "镜头11",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u04",
+          "start_char": 0,
+          "end_char": 3
+        },
+        {
+          "unit_id": "p003_u05",
+          "start_char": 0,
+          "end_char": 16
+        },
+        {
+          "unit_id": "p003_u06",
+          "start_char": 0,
+          "end_char": 11
+        }
+      ],
+      "text": "你看，它背上镶着一圈淡淡的银色月光边，正一点一点地往前挪动，",
+      "place": "皮皮卧室与窗外夜空",
+      "reality_layer": "现实",
+      "characters": [
+        "pipi"
+      ],
+      "visual_description": "夜空远景，淡银月光勾出白云边缘，云缓缓越过树叶与小木屋屋顶，安静送出夜色的想象，不出现实体信件。",
+      "continuity_refs": [
+        "asset_moon_01"
+      ],
+      "state_before": "承接前镜已说明的地点和物件状态；人物动作按本镜原文顺序开始。",
+      "state_after": "完成本镜旁白所述动作；无文本依据的道具/角色状态不变化。",
+      "transition_from": 10,
+      "motion": "fixed",
+      "image": "images/shot_11.png",
+      "prompt_file": "illustration-prompts/shot_11.txt",
+      "reference_manifest": "references/shot_11.json",
+      "scene": "bedroom_night",
+      "start_s_estimate": 83.65679166666668,
+      "end_s_estimate": 92.23683333333334
+    },
+    {
+      "id": 12,
+      "title": "镜头12",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u07",
+          "start_char": 0,
+          "end_char": 16
+        },
+        {
+          "unit_id": "p003_u08",
+          "start_char": 0,
+          "end_char": 13
+        }
+      ],
+      "text": "好像在把温柔的夜色和晚安的信件，挨家挨户地送到每一片树叶、",
+      "place": "皮皮卧室与窗外夜空",
+      "reality_layer": "现实",
+      "characters": [
+        "pipi"
+      ],
+      "visual_description": "夜空远景，淡银月光勾出白云边缘，云缓缓越过树叶与小木屋屋顶，安静送出夜色的想象，不出现实体信件。",
+      "continuity_refs": [
+        "asset_postcard_01"
+      ],
+      "state_before": "承接前镜已说明的地点和物件状态；人物动作按本镜原文顺序开始。",
+      "state_after": "完成本镜旁白所述动作；无文本依据的道具/角色状态不变化。",
+      "transition_from": 11,
+      "motion": "fixed",
+      "image": "images/shot_12.png",
+      "prompt_file": "illustration-prompts/shot_12.txt",
+      "reference_manifest": "references/shot_12.json",
+      "scene": "bedroom_night",
+      "start_s_estimate": 92.23683333333334,
+      "end_s_estimate": 100.98125
+    },
+    {
+      "id": 13,
+      "title": "镜头13",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u09",
+          "start_char": 0,
+          "end_char": 11
+        }
+      ],
+      "text": "每一座小木屋的屋顶上。",
+      "place": "皮皮卧室与窗外夜空",
+      "reality_layer": "现实",
+      "characters": [
+        "pipi"
+      ],
+      "visual_description": "同一段情节的静态水彩关键画面，皮皮保持稳定身份外形，按旁白动作自然表演，视线落在当前提及的对象；不添加文字、道具或情节。",
+      "continuity_refs": [],
+      "state_before": "承接前镜已说明的地点和物件状态；人物动作按本镜原文顺序开始。",
+      "state_after": "完成本镜旁白所述动作；无文本依据的道具/角色状态不变化。",
+      "transition_from": 12,
+      "motion": "fixed",
+      "image": "images/shot_13.png",
+      "prompt_file": "illustration-prompts/shot_13.txt",
+      "reference_manifest": "references/shot_13.json",
+      "scene": "bedroom_night",
+      "start_s_estimate": 100.98125,
+      "end_s_estimate": 103.92808333333333
+    },
+    {
+      "id": 14,
+      "title": "镜头14",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u01",
+          "start_char": 0,
+          "end_char": 24
+        },
+        {
+          "unit_id": "p004_u02",
+          "start_char": 0,
+          "end_char": 15
+        }
+      ],
+      "text": "皮皮很想亲眼看着这位“云朵慢邮差”走过整片窗户，看看它会把信送到哪一棵树上。\n",
+      "place": "皮皮卧室与窗外夜空",
+      "reality_layer": "现实",
+      "characters": [
+        "pipi"
+      ],
+      "visual_description": "夜空远景，淡银月光勾出白云边缘，云缓缓越过树叶与小木屋屋顶，安静送出夜色的想象，不出现实体信件。",
+      "continuity_refs": [
+        "asset_cloud_01",
+        "asset_window_01"
+      ],
+      "state_before": "承接前镜已说明的地点和物件状态；人物动作按本镜原文顺序开始。",
+      "state_after": "完成本镜旁白所述动作；无文本依据的道具/角色状态不变化。",
+      "transition_from": 13,
+      "motion": "fixed",
+      "image": "images/shot_14.png",
+      "prompt_file": "illustration-prompts/shot_14.txt",
+      "reference_manifest": "references/shot_14.json",
+      "scene": "bedroom_night",
+      "start_s_estimate": 104.77808333333334,
+      "end_s_estimate": 115.28570833333335
+    },
+    {
+      "id": 15,
+      "title": "镜头15",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u03",
+          "start_char": 0,
+          "end_char": 3
+        },
+        {
+          "unit_id": "p004_u04",
+          "start_char": 0,
+          "end_char": 13
+        },
+        {
+          "unit_id": "p004_u05",
+          "start_char": 0,
+          "end_char": 9
+        }
+      ],
+      "text": "可是，云朵走得实在是太慢太慢了。皮皮盯了好一会儿，",
+      "place": "皮皮卧室与窗外夜空",
+      "reality_layer": "现实",
+      "characters": [
+        "pipi"
+      ],
+      "visual_description": "皮皮仍坐在床边望向窗外，眼睛略显疲倦、前爪撑在床沿，耳朵稍垂；表现长时间等待，不画痛苦。",
+      "continuity_refs": [
+        "asset_cloud_01"
+      ],
+      "state_before": "承接前镜已说明的地点和物件状态；人物动作按本镜原文顺序开始。",
+      "state_after": "完成本镜旁白所述动作；无文本依据的道具/角色状态不变化。",
+      "transition_from": 14,
+      "motion": "fixed",
+      "image": "images/shot_15.png",
+      "prompt_file": "illustration-prompts/shot_15.txt",
+      "reference_manifest": "references/shot_15.json",
+      "scene": "bedroom_night",
+      "start_s_estimate": 115.28570833333335,
+      "end_s_estimate": 122.99397916666669
+    },
+    {
+      "id": 16,
+      "title": "镜头16",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u06",
+          "start_char": 0,
+          "end_char": 12
+        },
+        {
+          "unit_id": "p004_u07",
+          "start_char": 0,
+          "end_char": 17
+        }
+      ],
+      "text": "小眼睛已经有一点点发酸，撑着床沿的小爪子也有一点点发困了。",
+      "place": "皮皮卧室与窗外夜空",
+      "reality_layer": "现实",
+      "characters": [
+        "pipi"
+      ],
+      "visual_description": "皮皮仍坐在床边望向窗外，眼睛略显疲倦、前爪撑在床沿，耳朵稍垂；表现长时间等待，不画痛苦。",
+      "continuity_refs": [
+        "asset_bed_01"
+      ],
+      "state_before": "承接前镜已说明的地点和物件状态；人物动作按本镜原文顺序开始。",
+      "state_after": "完成本镜旁白所述动作；无文本依据的道具/角色状态不变化。",
+      "transition_from": 15,
+      "motion": "fixed",
+      "image": "images/shot_16.png",
+      "prompt_file": "illustration-prompts/shot_16.txt",
+      "reference_manifest": "references/shot_16.json",
+      "scene": "bedroom_night",
+      "start_s_estimate": 122.99397916666669,
+      "end_s_estimate": 131.42864583333335
+    },
+    {
+      "id": 17,
+      "title": "镜头17",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u01",
+          "start_char": 0,
+          "end_char": 9
+        }
+      ],
+      "text": "皮皮打了个小哈欠，",
+      "place": "皮皮卧室与窗外夜空",
+      "reality_layer": "现实",
+      "characters": [
+        "pipi"
+      ],
+      "visual_description": "卧室床边，皮皮打一个小哈欠，目光从窗外转回枕头，脸上出现理解与放松，不画文字气泡。",
+      "continuity_refs": [],
+      "state_before": "承接前镜已说明的地点和物件状态；人物动作按本镜原文顺序开始。",
+      "state_after": "完成本镜旁白所述动作；无文本依据的道具/角色状态不变化。",
+      "transition_from": 16,
+      "motion": "fixed",
+      "image": "images/shot_17.png",
+      "prompt_file": "illustration-prompts/shot_17.txt",
+      "reference_manifest": "references/shot_17.json",
+      "scene": "bedroom_night",
+      "start_s_estimate": 132.27864583333334,
+      "end_s_estimate": 134.76910416666666
+    },
+    {
+      "id": 18,
+      "title": "镜头18",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u02",
+          "start_char": 0,
+          "end_char": 31
+        }
+      ],
+      "text": "想起白天喜鹊邮差叔叔说的话：“好邮件是不需要一直盯着邮筒看的，",
+      "place": "皮皮卧室与窗外夜空",
+      "reality_layer": "现实",
+      "characters": [
+        "pipi"
+      ],
+      "visual_description": "森林邮局旁的固定绿色邮筒，皮皮将同一张花朵明信片投入小投信口，动作清楚、神情珍惜。",
+      "continuity_refs": [
+        "asset_postbox_01"
+      ],
+      "state_before": "承接前镜已说明的地点和物件状态；人物动作按本镜原文顺序开始。",
+      "state_after": "完成本镜旁白所述动作；无文本依据的道具/角色状态不变化。",
+      "transition_from": 17,
+      "motion": "fixed",
+      "image": "images/shot_18.png",
+      "prompt_file": "illustration-prompts/shot_18.txt",
+      "reference_manifest": "references/shot_18.json",
+      "scene": "bedroom_night",
+      "start_s_estimate": 134.76910416666666,
+      "end_s_estimate": 143.72314583333332
+    },
+    {
+      "id": 19,
+      "title": "镜头19",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u03",
+          "start_char": 0,
+          "end_char": 10
+        },
+        {
+          "unit_id": "p005_u04",
+          "start_char": 0,
+          "end_char": 11
+        },
+        {
+          "unit_id": "p005_u06",
+          "start_char": 0,
+          "end_char": 3
+        },
+        {
+          "unit_id": "p005_u07",
+          "start_char": 0,
+          "end_char": 12
+        }
+      ],
+      "text": "你去安心做自己的事，它自然就会送到啦。”\n于是，皮皮不再勉强自己抬着头。",
+      "place": "皮皮卧室与窗外夜空",
+      "reality_layer": "现实",
+      "characters": [
+        "pipi"
+      ],
+      "visual_description": "同一段情节的静态水彩关键画面，皮皮保持稳定身份外形，按旁白动作自然表演，视线落在当前提及的对象；不添加文字、道具或情节。",
+      "continuity_refs": [],
+      "state_before": "承接前镜已说明的地点和物件状态；人物动作按本镜原文顺序开始。",
+      "state_after": "完成本镜旁白所述动作；无文本依据的道具/角色状态不变化。",
+      "transition_from": 18,
+      "motion": "fixed",
+      "image": "images/shot_19.png",
+      "prompt_file": "illustration-prompts/shot_19.txt",
+      "reference_manifest": "references/shot_19.json",
+      "scene": "bedroom_night",
+      "start_s_estimate": 143.72314583333332,
+      "end_s_estimate": 153.24589583333332
+    },
+    {
+      "id": 20,
+      "title": "镜头20",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u08",
+          "start_char": 0,
+          "end_char": 13
+        },
+        {
+          "unit_id": "p005_u09",
+          "start_char": 0,
+          "end_char": 19
+        }
+      ],
+      "text": "他顺从地靠回软软的枕头上，只把叶子花窗帘留开一个小小的三角缝隙，",
+      "place": "皮皮卧室与窗外夜空",
+      "reality_layer": "现实",
+      "characters": [
+        "pipi"
+      ],
+      "visual_description": "皮皮靠回同一张木床的米色枕头，轻轻把叶子花窗帘留成小三角缝，身体姿势渐渐放松。",
+      "continuity_refs": [
+        "asset_window_01",
+        "asset_curtain_01",
+        "asset_pillow_01"
+      ],
+      "state_before": "承接前镜已说明的地点和物件状态；人物动作按本镜原文顺序开始。",
+      "state_after": "完成本镜旁白所述动作；无文本依据的道具/角色状态不变化。",
+      "transition_from": 19,
+      "motion": "fixed",
+      "image": "images/shot_20.png",
+      "prompt_file": "illustration-prompts/shot_20.txt",
+      "reference_manifest": "references/shot_20.json",
+      "scene": "bedroom_night",
+      "start_s_estimate": 154.09589583333332,
+      "end_s_estimate": 163.26197916666666
+    },
+    {
+      "id": 21,
+      "title": "镜头21",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u10",
+          "start_char": 0,
+          "end_char": 14
+        }
+      ],
+      "text": "不再一直睁大眼睛盯着窗外等。",
+      "place": "皮皮卧室与窗外夜空",
+      "reality_layer": "现实",
+      "characters": [
+        "pipi"
+      ],
+      "visual_description": "皮皮仍坐在床边望向窗外，眼睛略显疲倦、前爪撑在床沿，耳朵稍垂；表现长时间等待，不画痛苦。",
+      "continuity_refs": [
+        "asset_window_01"
+      ],
+      "state_before": "承接前镜已说明的地点和物件状态；人物动作按本镜原文顺序开始。",
+      "state_after": "完成本镜旁白所述动作；无文本依据的道具/角色状态不变化。",
+      "transition_from": 20,
+      "motion": "fixed",
+      "image": "images/shot_21.png",
+      "prompt_file": "illustration-prompts/shot_21.txt",
+      "reference_manifest": "references/shot_21.json",
+      "scene": "bedroom_night",
+      "start_s_estimate": 163.26197916666666,
+      "end_s_estimate": 167.51272916666667
+    },
+    {
+      "id": 22,
+      "title": "镜头22",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u01",
+          "start_char": 0,
+          "end_char": 12
+        },
+        {
+          "unit_id": "p006_u02",
+          "start_char": 0,
+          "end_char": 12
+        }
+      ],
+      "text": "他把胡萝卜玩偶抱到身边，替玩偶拉好暖黄色的毛毯，",
+      "place": "皮皮卧室与窗外夜空",
+      "reality_layer": "现实",
+      "characters": [
+        "pipi"
+      ],
+      "visual_description": "床边近景，皮皮把同一只橙色胡萝卜玩偶放在身旁并为它拉好暖黄小毯，再把毯子盖到自己肩部，动作连续。",
+      "continuity_refs": [
+        "asset_carrot_01",
+        "asset_blanket_01"
+      ],
+      "state_before": "承接前镜已说明的地点和物件状态；人物动作按本镜原文顺序开始。",
+      "state_after": "完成本镜旁白所述动作；无文本依据的道具/角色状态不变化。",
+      "transition_from": 21,
+      "motion": "fixed",
+      "image": "images/shot_22.png",
+      "prompt_file": "illustration-prompts/shot_22.txt",
+      "reference_manifest": "references/shot_22.json",
+      "scene": "bedroom_night",
+      "start_s_estimate": 168.36272916666667,
+      "end_s_estimate": 175.08104166666666
+    },
+    {
+      "id": 23,
+      "title": "镜头23",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u03",
+          "start_char": 0,
+          "end_char": 16
+        },
+        {
+          "unit_id": "p006_u04",
+          "start_char": 0,
+          "end_char": 13
+        }
+      ],
+      "text": "也给自己严严实实地盖住了肩膀。\n皮皮闭着眼睛歇了一小会儿，",
+      "place": "皮皮卧室与窗外夜空",
+      "reality_layer": "现实",
+      "characters": [
+        "pipi"
+      ],
+      "visual_description": "床边近景，皮皮把同一只橙色胡萝卜玩偶放在身旁并为它拉好暖黄小毯，再把毯子盖到自己肩部，动作连续。",
+      "continuity_refs": [],
+      "state_before": "承接前镜已说明的地点和物件状态；人物动作按本镜原文顺序开始。",
+      "state_after": "完成本镜旁白所述动作；无文本依据的道具/角色状态不变化。",
+      "transition_from": 22,
+      "motion": "fixed",
+      "image": "images/shot_23.png",
+      "prompt_file": "illustration-prompts/shot_23.txt",
+      "reference_manifest": "references/shot_23.json",
+      "scene": "bedroom_night",
+      "start_s_estimate": 175.08104166666666,
+      "end_s_estimate": 182.93277083333334
+    },
+    {
+      "id": 24,
+      "title": "镜头24",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u05",
+          "start_char": 0,
+          "end_char": 24
+        },
+        {
+          "unit_id": "p006_u06",
+          "start_char": 0,
+          "end_char": 11
+        }
+      ],
+      "text": "等他迷迷糊糊地再轻轻睁开一条眼缝看过去时——哇，那朵慢吞吞的云朵邮差，",
+      "place": "皮皮卧室与窗外夜空",
+      "reality_layer": "现实",
+      "characters": [
+        "pipi"
+      ],
+      "visual_description": "皮皮在枕头上闭眼歇息后微微睁开一条眼缝，望向同一扇木窗；云已悄悄移出窗框，神情轻轻惊喜。",
+      "continuity_refs": [
+        "asset_cloud_01"
+      ],
+      "state_before": "承接前镜已说明的地点和物件状态；人物动作按本镜原文顺序开始。",
+      "state_after": "完成本镜旁白所述动作；无文本依据的道具/角色状态不变化。",
+      "transition_from": 23,
+      "motion": "fixed",
+      "image": "images/shot_24.png",
+      "prompt_file": "illustration-prompts/shot_24.txt",
+      "reference_manifest": "references/shot_24.json",
+      "scene": "bedroom_night",
+      "start_s_estimate": 182.93277083333334,
+      "end_s_estimate": 193.00747916666668
+    },
+    {
+      "id": 25,
+      "title": "镜头25",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u07",
+          "start_char": 0,
+          "end_char": 14
+        }
+      ],
+      "text": "不知什么时候已经悄悄挪开了！",
+      "place": "皮皮卧室与窗外夜空",
+      "reality_layer": "现实",
+      "characters": [
+        "pipi"
+      ],
+      "visual_description": "皮皮在枕头上闭眼歇息后微微睁开一条眼缝，望向同一扇木窗；云已悄悄移出窗框，神情轻轻惊喜。",
+      "continuity_refs": [],
+      "state_before": "承接前镜已说明的地点和物件状态；人物动作按本镜原文顺序开始。",
+      "state_after": "完成本镜旁白所述动作；无文本依据的道具/角色状态不变化。",
+      "transition_from": 24,
+      "motion": "fixed",
+      "image": "images/shot_25.png",
+      "prompt_file": "illustration-prompts/shot_25.txt",
+      "reference_manifest": "references/shot_25.json",
+      "scene": "bedroom_night",
+      "start_s_estimate": 193.00747916666668,
+      "end_s_estimate": 197.01381250000003
+    },
+    {
+      "id": 26,
+      "title": "镜头26",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u01",
+          "start_char": 0,
+          "end_char": 11
+        },
+        {
+          "unit_id": "p007_u02",
+          "start_char": 0,
+          "end_char": 11
+        },
+        {
+          "unit_id": "p007_u03",
+          "start_char": 0,
+          "end_char": 10
+        }
+      ],
+      "text": "皎洁的月光没有了遮挡，正大大方方地穿过窗户，落在床边的木地板上，",
+      "place": "皮皮卧室与窗外夜空",
+      "reality_layer": "现实",
+      "characters": [
+        "pipi"
+      ],
+      "visual_description": "窗外云已离开，皎洁月光越过窗框落在床边木地板上，像一片安静银色光毯；保持床窗布局不变。",
+      "continuity_refs": [
+        "asset_moon_01",
+        "asset_window_01",
+        "asset_bed_01"
+      ],
+      "state_before": "承接前镜已说明的地点和物件状态；人物动作按本镜原文顺序开始。",
+      "state_after": "完成本镜旁白所述动作；无文本依据的道具/角色状态不变化。",
+      "transition_from": 25,
+      "motion": "fixed",
+      "image": "images/shot_26.png",
+      "prompt_file": "illustration-prompts/shot_26.txt",
+      "reference_manifest": "references/shot_26.json",
+      "scene": "bedroom_night",
+      "start_s_estimate": 197.5638125,
+      "end_s_estimate": 206.8054791666667
+    },
+    {
+      "id": 27,
+      "title": "镜头27",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u04",
+          "start_char": 0,
+          "end_char": 16
+        },
+        {
+          "unit_id": "p007_u05",
+          "start_char": 0,
+          "end_char": 3
+        },
+        {
+          "unit_id": "p007_u06",
+          "start_char": 0,
+          "end_char": 9
+        }
+      ],
+      "text": "像一封已经稳稳送达的银色回信。\n原来，就算不一直盯着看，",
+      "place": "皮皮卧室与窗外夜空",
+      "reality_layer": "现实",
+      "characters": [
+        "pipi"
+      ],
+      "visual_description": "皮皮仍坐在床边望向窗外，眼睛略显疲倦、前爪撑在床沿，耳朵稍垂；表现长时间等待，不画痛苦。",
+      "continuity_refs": [],
+      "state_before": "承接前镜已说明的地点和物件状态；人物动作按本镜原文顺序开始。",
+      "state_after": "完成本镜旁白所述动作；无文本依据的道具/角色状态不变化。",
+      "transition_from": 26,
+      "motion": "fixed",
+      "image": "images/shot_27.png",
+      "prompt_file": "illustration-prompts/shot_27.txt",
+      "reference_manifest": "references/shot_27.json",
+      "scene": "bedroom_night",
+      "start_s_estimate": 206.8054791666667,
+      "end_s_estimate": 214.77866666666668
+    },
+    {
+      "id": 28,
+      "title": "镜头28",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u07",
+          "start_char": 0,
+          "end_char": 19
+        },
+        {
+          "unit_id": "p007_u08",
+          "start_char": 0,
+          "end_char": 6
+        }
+      ],
+      "text": "云朵邮差也会按照自己的步调慢慢往前走；夜晚的一切，",
+      "place": "皮皮卧室与窗外夜空",
+      "reality_layer": "现实",
+      "characters": [
+        "pipi"
+      ],
+      "visual_description": "月光铺在卧室地板，窗外云继续向前飘远，树叶与屋顶安静留在夜色里，画面平静从容。",
+      "continuity_refs": [
+        "asset_cloud_01"
+      ],
+      "state_before": "承接前镜已说明的地点和物件状态；人物动作按本镜原文顺序开始。",
+      "state_after": "完成本镜旁白所述动作；无文本依据的道具/角色状态不变化。",
+      "transition_from": 27,
+      "motion": "fixed",
+      "image": "images/shot_28.png",
+      "prompt_file": "illustration-prompts/shot_28.txt",
+      "reference_manifest": "references/shot_28.json",
+      "scene": "bedroom_night",
+      "start_s_estimate": 214.77866666666668,
+      "end_s_estimate": 223.00895833333334
+    },
+    {
+      "id": 29,
+      "title": "镜头29",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u09",
+          "start_char": 0,
+          "end_char": 13
+        }
+      ],
+      "text": "一直都有着自己从容的速度。",
+      "place": "皮皮卧室与窗外夜空",
+      "reality_layer": "现实",
+      "characters": [
+        "pipi"
+      ],
+      "visual_description": "月光铺在卧室地板，窗外云继续向前飘远，树叶与屋顶安静留在夜色里，画面平静从容。",
+      "continuity_refs": [],
+      "state_before": "承接前镜已说明的地点和物件状态；人物动作按本镜原文顺序开始。",
+      "state_after": "完成本镜旁白所述动作；无文本依据的道具/角色状态不变化。",
+      "transition_from": 28,
+      "motion": "fixed",
+      "image": "images/shot_29.png",
+      "prompt_file": "illustration-prompts/shot_29.txt",
+      "reference_manifest": "references/shot_29.json",
+      "scene": "bedroom_night",
+      "start_s_estimate": 223.00895833333334,
+      "end_s_estimate": 226.46627083333334
+    },
+    {
+      "id": 30,
+      "title": "镜头30",
+      "source_ranges": [
+        {
+          "unit_id": "p008_u01",
+          "start_char": 0,
+          "end_char": 13
+        },
+        {
+          "unit_id": "p008_u02",
+          "start_char": 0,
+          "end_char": 9
+        },
+        {
+          "unit_id": "p008_u03",
+          "start_char": 0,
+          "end_char": 6
+        }
+      ],
+      "text": "皮皮放心地彻底闭上了眼睛，不再追着云朵走了。软软的枕头，",
+      "place": "皮皮卧室与窗外夜空",
+      "reality_layer": "现实",
+      "characters": [
+        "pipi"
+      ],
+      "visual_description": "皮皮靠回同一张木床的米色枕头，轻轻把叶子花窗帘留成小三角缝，身体姿势渐渐放松。",
+      "continuity_refs": [
+        "asset_cloud_01",
+        "asset_pillow_01"
+      ],
+      "state_before": "承接前镜已说明的地点和物件状态；人物动作按本镜原文顺序开始。",
+      "state_after": "完成本镜旁白所述动作；无文本依据的道具/角色状态不变化。",
+      "transition_from": 29,
+      "motion": "fixed",
+      "image": "images/shot_30.png",
+      "prompt_file": "illustration-prompts/shot_30.txt",
+      "reference_manifest": "references/shot_30.json",
+      "scene": "bedroom_night",
+      "start_s_estimate": 227.31627083333333,
+      "end_s_estimate": 236.20502083333335
+    },
+    {
+      "id": 31,
+      "title": "镜头31",
+      "source_ranges": [
+        {
+          "unit_id": "p008_u04",
+          "start_char": 0,
+          "end_char": 17
+        },
+        {
+          "unit_id": "p008_u05",
+          "start_char": 0,
+          "end_char": 4
+        },
+        {
+          "unit_id": "p008_u06",
+          "start_char": 0,
+          "end_char": 12
+        }
+      ],
+      "text": "已经像云朵一样把他稳稳地接住了。\n小朋友，生活里有很多美好的事情，",
+      "place": "皮皮卧室与窗外夜空",
+      "reality_layer": "现实",
+      "characters": [
+        "pipi"
+      ],
+      "visual_description": "皮皮终于完全闭上眼睛，头被同一只米色枕头稳稳托住，胡萝卜玩偶与暖黄毛毯保持在身旁，安然入梦。",
+      "continuity_refs": [
+        "asset_cloud_01"
+      ],
+      "state_before": "承接前镜已说明的地点和物件状态；人物动作按本镜原文顺序开始。",
+      "state_after": "完成本镜旁白所述动作；无文本依据的道具/角色状态不变化。",
+      "transition_from": 30,
+      "motion": "fixed",
+      "image": "images/shot_31.png",
+      "prompt_file": "illustration-prompts/shot_31.txt",
+      "reference_manifest": "references/shot_31.json",
+      "scene": "bedroom_night",
+      "start_s_estimate": 236.20502083333335,
+      "end_s_estimate": 245.37089583333335
+    },
+    {
+      "id": 32,
+      "title": "镜头32",
+      "source_ranges": [
+        {
+          "unit_id": "p008_u07",
+          "start_char": 0,
+          "end_char": 9
+        },
+        {
+          "unit_id": "p008_u08",
+          "start_char": 0,
+          "end_char": 3
+        },
+        {
+          "unit_id": "p008_u09",
+          "start_char": 0,
+          "end_char": 14
+        },
+        {
+          "unit_id": "p008_u10",
+          "start_char": 0,
+          "end_char": 5
+        }
+      ],
+      "text": "都是可以慢慢等的。现在，把你的期待和等待都放到窗外，安心躺好，",
+      "place": "皮皮卧室与窗外夜空",
+      "reality_layer": "现实",
+      "characters": [
+        "pipi"
+      ],
+      "visual_description": "同一段情节的静态水彩关键画面，皮皮保持稳定身份外形，按旁白动作自然表演，视线落在当前提及的对象；不添加文字、道具或情节。",
+      "continuity_refs": [
+        "asset_window_01"
+      ],
+      "state_before": "承接前镜已说明的地点和物件状态；人物动作按本镜原文顺序开始。",
+      "state_after": "完成本镜旁白所述动作；无文本依据的道具/角色状态不变化。",
+      "transition_from": 31,
+      "motion": "fixed",
+      "image": "images/shot_32.png",
+      "prompt_file": "illustration-prompts/shot_32.txt",
+      "reference_manifest": "references/shot_32.json",
+      "scene": "bedroom_night",
+      "start_s_estimate": 245.37089583333335,
+      "end_s_estimate": 255.55325000000002
+    },
+    {
+      "id": 33,
+      "title": "镜头33",
+      "source_ranges": [
+        {
+          "unit_id": "p008_u11",
+          "start_char": 0,
+          "end_char": 9
+        },
+        {
+          "unit_id": "p008_u12",
+          "start_char": 0,
+          "end_char": 3
+        }
+      ],
+      "text": "进入甜甜的梦乡吧。晚安。",
+      "place": "皮皮卧室与窗外夜空",
+      "reality_layer": "现实",
+      "characters": [
+        "pipi"
+      ],
+      "visual_description": "皮皮终于完全闭上眼睛，头被同一只米色枕头稳稳托住，胡萝卜玩偶与暖黄毛毯保持在身旁，安然入梦。",
+      "continuity_refs": [],
+      "state_before": "承接前镜已说明的地点和物件状态；人物动作按本镜原文顺序开始。",
+      "state_after": "完成本镜旁白所述动作；无文本依据的道具/角色状态不变化。",
+      "transition_from": 32,
+      "motion": "fixed",
+      "image": "images/shot_33.png",
+      "prompt_file": "illustration-prompts/shot_33.txt",
+      "reference_manifest": "references/shot_33.json",
+      "scene": "bedroom_night",
+      "start_s_estimate": 255.55325000000002,
+      "end_s_estimate": 259.9209583333334
+    }
+  ],
+  "shot_count": 33,
+  "timing_basis": "actual voice duration; lock after storyboard ranges"
+}

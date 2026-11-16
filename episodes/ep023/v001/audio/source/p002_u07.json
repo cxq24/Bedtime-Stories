@@ -1,0 +1,35 @@
+{
+  "text": "慢吞吞地飘过来，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "10cba49203569aff5c7026a7755abbb8e1aadd0e008eea57674da887ff1e5bfc",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 9230830,
+      "text": "慢吞吞"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10500000,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12038330,
+      "duration": 3846250,
+      "text": "飘"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15884580,
+      "duration": 6922910,
+      "text": "过来"
+    }
+  ]
+}

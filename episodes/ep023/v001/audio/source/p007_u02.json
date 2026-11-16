@@ -1,0 +1,41 @@
+{
+  "text": "正大大方方地穿过窗户，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "dc4738deb322d7b826b3a48902f5e0117010b47f6f211e18517e328131d5fc84",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3653750,
+      "text": "正"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5307500,
+      "duration": 10961660,
+      "text": "大大方方"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16269160,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18000000,
+      "duration": 4807500,
+      "text": "穿过"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23000000,
+      "duration": 8653750,
+      "text": "窗户"
+    }
+  ]
+}

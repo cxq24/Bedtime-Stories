@@ -1,0 +1,8 @@
+# 第23集镜头09插画提示
+
+原文：慢吞吞地飘过来，停在了弯弯的月亮前面。
+
+画面内容：从同一卧室木窗向外看，浅白软云缓慢经过弯月，树梢与屋顶在下方；不画云的脸或邮件。
+
+来源图：images/shot_11.png，illustration-prompts/generated_sources/sheet_02.png，第5格。来源/哈希见images/shot_11.source.json。
+身份参考：pipi_identity_v001；表情、视线、姿势依本镜情节安排。

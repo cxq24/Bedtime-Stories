@@ -1,0 +1,9 @@
+# 第23集镜头04插画提示
+
+原文：投进了森林邮局的绿色邮筒里，寄给住在远方山谷里的外婆。
+
+
+画面内容：森林邮局旁的固定绿色邮筒，皮皮将同一张花朵明信片投入小投信口，动作清楚、神情珍惜。
+
+来源图：images/shot_64.png，illustration-prompts/generated_sources/sheet_10_day_expression.png，第4格。来源/哈希见images/shot_64.source.json。
+身份与服装参考：pipi_identity_v001、pipi_wardrobe_v001；白天人物眼睛睁开，表情专注或好奇。

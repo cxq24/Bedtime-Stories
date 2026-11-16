@@ -1,0 +1,8 @@
+# 第23集镜头20插画提示
+
+原文：他顺从地靠回软软的枕头上，只把叶子花窗帘留开一个小小的三角缝隙，
+
+画面内容：皮皮靠回同一张木床的米色枕头，轻轻把叶子花窗帘留成小三角缝，身体姿势渐渐放松。
+
+来源图：images/shot_21.png，illustration-prompts/generated_sources/sheet_04.png，第3格。来源/哈希见images/shot_21.source.json。
+身份参考：pipi_identity_v001；表情、视线、姿势依本镜情节安排。

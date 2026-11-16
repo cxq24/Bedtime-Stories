@@ -1,0 +1,8 @@
+{
+  "source": "built-in image_gen",
+  "prompt_file": "illustration-prompts/cover.txt",
+  "identity_reference": "references/pipi_identity_v001.png",
+  "generated_source": "illustration-prompts/cover_base_source.png",
+  "sha256": "e1bd33dd47b3fad970eeb273b7546e81d24fd8cd69478970c966618dc2d17582",
+  "review": "vertical independent cover base, safe title zone visually reviewed"
+}

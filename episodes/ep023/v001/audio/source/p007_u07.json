@@ -1,0 +1,77 @@
+{
+  "text": "云朵邮差也会按照自己的步调慢慢往前走；",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "2e08be9a5ac98e0d5a4764d7bfa2823e8b26585cf2a092e976c6346749deb522",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5192500,
+      "text": "云朵"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6653750,
+      "duration": 8461660,
+      "text": "邮差"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16653750,
+      "duration": 2500000,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19153750,
+      "duration": 2115410,
+      "text": "会"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21461660,
+      "duration": 5000000,
+      "text": "按照"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26846250,
+      "duration": 4230830,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31077080,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32807500,
+      "duration": 7500000,
+      "text": "步调"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41846250,
+      "duration": 5384580,
+      "text": "慢慢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47422910,
+      "duration": 7307500,
+      "text": "往前"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54730830,
+      "duration": 4615410,
+      "text": "走"
+    }
+  ]
+}

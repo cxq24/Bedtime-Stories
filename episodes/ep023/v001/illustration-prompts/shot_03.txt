@@ -1,0 +1,8 @@
+# 第23集镜头03插画提示
+
+原文：今天在森林学堂，皮皮学会了写自己的名字，还画了一张漂亮的明信片，
+
+画面内容：白天森林学堂，皮皮坐在小木桌前练习写名字，专注又带一点初学的开心，桌面纸张不出现可辨文字。
+
+来源图：images/shot_62.png，illustration-prompts/generated_sources/sheet_10_day_expression.png，第2格。来源/哈希见images/shot_62.source.json。
+身份与服装参考：pipi_identity_v001、pipi_wardrobe_v001；白天人物眼睛睁开，表情专注或好奇。

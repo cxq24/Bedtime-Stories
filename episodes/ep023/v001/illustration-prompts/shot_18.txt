@@ -1,0 +1,8 @@
+# 第23集镜头18插画提示
+
+原文：想起白天喜鹊邮差叔叔说的话：“好邮件是不需要一直盯着邮筒看的，
+
+画面内容：森林邮局旁的固定绿色邮筒，皮皮将同一张花朵明信片投入小投信口，动作清楚、神情珍惜。
+
+来源图：images/shot_12.png，illustration-prompts/generated_sources/sheet_02.png，第6格。来源/哈希见images/shot_12.source.json。
+身份参考：pipi_identity_v001；表情、视线、姿势依本镜情节安排。

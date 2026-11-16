@@ -1,0 +1,65 @@
+{
+  "text": "过几天才能送到外婆手里哦。”",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "6016fd3b03704d74d18d680fe9763b3c87e1bfbf35834eb57773c468a00e6493",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2884580,
+      "text": "过"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4153750,
+      "duration": 2692500,
+      "text": "几"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 8076660,
+      "text": "天才"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14922910,
+      "duration": 1730830,
+      "text": "能"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16846250,
+      "duration": 2692080,
+      "text": "送"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19538330,
+      "duration": 2115410,
+      "text": "到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22038330,
+      "duration": 5000000,
+      "text": "外婆"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27230830,
+      "duration": 5769160,
+      "text": "手里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33000000,
+      "duration": 3653750,
+      "text": "哦"
+    }
+  ]
+}

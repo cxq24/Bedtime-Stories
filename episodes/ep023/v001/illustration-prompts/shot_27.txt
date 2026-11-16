@@ -1,0 +1,9 @@
+# 第23集镜头27插画提示
+
+原文：像一封已经稳稳送达的银色回信。
+原来，就算不一直盯着看，
+
+画面内容：皮皮仍坐在床边望向窗外，眼睛略显疲倦、前爪撑在床沿，耳朵稍垂；表现长时间等待，不画痛苦。
+
+来源图：images/shot_46.png，illustration-prompts/generated_sources/sheet_08.png，第4格。来源/哈希见images/shot_46.source.json。
+身份参考：pipi_identity_v001；表情、视线、姿势依本镜情节安排。

@@ -1,0 +1,487 @@
+{
+  "episode": "ep023",
+  "version": "v001",
+  "preflight_status": "passed_text_and_image_review",
+  "assets": {
+    "postcard": {
+      "asset_id": "asset_postcard_01",
+      "appearance": "一张小尺寸手绘明信片，奶油白纸边，正面是简单彩色花朵与星点图案，不含可读文字。",
+      "reference_image": "images/shot_62.png",
+      "initial_state": "皮皮在学堂画好后寄出，邮筒收件。"
+    },
+    "postbox": {
+      "asset_id": "asset_postbox_01",
+      "appearance": "森林邮局旁固定的圆顶绿色木质邮筒，正面有小投信口与深绿色底座。",
+      "reference_image": "images/shot_64.png",
+      "initial_state": "邮筒位于森林学堂外的邮局旁。"
+    },
+    "cloud": {
+      "asset_id": "asset_cloud_01",
+      "appearance": "一朵低饱和浅白、松软不规则轮廓的云，夜间边缘有淡银色月光，无脸无手、不实际携带信件。",
+      "reference_image": "images/shot_09.png",
+      "initial_state": "夜间由窗外缓缓飘过，后来移出窗框。"
+    },
+    "moon": {
+      "asset_id": "asset_moon_01",
+      "appearance": "小而清楚的暖白弯月，固定在夜空背景，形状保持一致。",
+      "reference_image": "images/shot_11.png",
+      "initial_state": "夜晚窗外，先被云遮挡后显露。"
+    },
+    "window": {
+      "asset_id": "asset_window_01",
+      "appearance": "卧室北墙木窗，分格木窗框、窗台，窗外可见树梢与夜空。",
+      "reference_image": "images/shot_08.png",
+      "initial_state": "始终在床边同一位置。"
+    },
+    "curtain": {
+      "asset_id": "asset_curtain_01",
+      "appearance": "浅绿叶片花纹的软布窗帘，两侧系束；后段只留一个小三角缝。",
+      "reference_image": "images/shot_21.png",
+      "initial_state": "开始较开敞，皮皮休息前留出一个小三角视线缝。"
+    },
+    "bed": {
+      "asset_id": "asset_bed_01",
+      "appearance": "同一张浅木床，木床头、柔软蓝灰与暖黄色拼色寝具，靠近窗台。",
+      "reference_image": "images/shot_08.png",
+      "initial_state": "皮皮由床边坐下后逐渐躺回。"
+    },
+    "pillow": {
+      "asset_id": "asset_pillow_01",
+      "appearance": "床头同一只浅米色柔软枕头，绣一片小叶纹，无形变。",
+      "reference_image": "images/shot_48.png",
+      "initial_state": "先空置，之后接住皮皮的头部。"
+    },
+    "carrot_plush": {
+      "asset_id": "asset_carrot_01",
+      "appearance": "一只橙色胡萝卜形绒布玩偶，绿色短叶冠、圆润缝线，尺寸约皮皮前臂长。",
+      "reference_image": "images/shot_22.png",
+      "initial_state": "床边待抱，后由皮皮抱到身侧并盖暖黄毯。"
+    },
+    "blanket": {
+      "asset_id": "asset_blanket_01",
+      "appearance": "一条暖黄色柔软小毛毯，细小织纹，床上使用；先覆盖胡萝卜玩偶，再盖至皮皮肩膀。",
+      "reference_image": "images/shot_23.png",
+      "initial_state": "床边折叠，随后覆盖玩偶与皮皮肩部。"
+    }
+  },
+  "shot_states": [
+    {
+      "shot_id": 1,
+      "place": "皮皮卧室与窗外夜空",
+      "characters_present": [
+        "pipi"
+      ],
+      "assets": [
+        "asset_cloud_01"
+      ],
+      "state_before": "片头独立引入云朵邮差故事；本镜不改变现实道具状态。",
+      "state_after": "本镜只引入故事问题，不改变物件状态。",
+      "transition_from": null
+    },
+    {
+      "shot_id": 2,
+      "place": "皮皮卧室与窗外夜空",
+      "characters_present": [
+        "pipi"
+      ],
+      "assets": [
+        "asset_postcard_01",
+        "asset_cloud_01"
+      ],
+      "state_before": "片头独立引入云朵邮差故事；本镜不改变现实道具状态。",
+      "state_after": "本镜只引入故事问题，不改变物件状态。",
+      "transition_from": 1
+    },
+    {
+      "shot_id": 3,
+      "place": "森林学堂/森林邮局/山谷想象",
+      "characters_present": [
+        "pipi"
+      ],
+      "assets": [
+        "asset_postcard_01"
+      ],
+      "state_before": "白天故事开始，皮皮携带未寄出的花朵明信片；森林邮局场景尚未出现。",
+      "state_after": "皮皮完成花朵图案明信片，仍由皮皮持有。",
+      "transition_from": 2
+    },
+    {
+      "shot_id": 4,
+      "place": "森林学堂/森林邮局/山谷想象",
+      "characters_present": [
+        "pipi"
+      ],
+      "assets": [
+        "asset_postbox_01"
+      ],
+      "state_before": "白天故事开始，皮皮携带未寄出的花朵明信片；森林邮局场景尚未出现。",
+      "state_after": "同一明信片进入固定绿色邮筒，皮皮已寄出。",
+      "transition_from": 3
+    },
+    {
+      "shot_id": 5,
+      "place": "森林学堂/森林邮局/山谷想象",
+      "characters_present": [
+        "pipi",
+        "magpie_postman"
+      ],
+      "assets": [
+        "asset_postcard_01",
+        "asset_cloud_01"
+      ],
+      "state_before": "白天故事开始，皮皮携带未寄出的花朵明信片；森林邮局场景尚未出现。",
+      "state_after": "喜鹊邮差解释寄送路线；明信片仍在邮筒/邮路，不展示抵达外婆家。",
+      "transition_from": 4
+    },
+    {
+      "shot_id": 6,
+      "place": "森林学堂/森林邮局/山谷想象",
+      "characters_present": [],
+      "assets": [],
+      "state_before": "白天故事开始，皮皮携带未寄出的花朵明信片；森林邮局场景尚未出现。",
+      "state_after": "想象邮路跨山的画面，只作说明，不增加现实到达结果。",
+      "transition_from": 5
+    },
+    {
+      "shot_id": 7,
+      "place": "皮皮卧室与窗外夜空",
+      "characters_present": [
+        "pipi"
+      ],
+      "assets": [
+        "asset_bed_01"
+      ],
+      "state_before": "森林邮局寄信事件已完成；地点切到皮皮卧室，夜间独处，床窗位置固定。",
+      "state_after": "皮皮在同一卧室，保持当前动作与道具状态；云按旁白缓慢向前移动。",
+      "transition_from": 6
+    },
+    {
+      "shot_id": 8,
+      "place": "皮皮卧室与窗外夜空",
+      "characters_present": [
+        "pipi"
+      ],
+      "assets": [
+        "asset_cloud_01",
+        "asset_window_01"
+      ],
+      "state_before": "皮皮在同一卧室，依前镜保持床、窗、云及随身物件的位置。",
+      "state_after": "皮皮在同一卧室，保持当前动作与道具状态；云按旁白缓慢向前移动。",
+      "transition_from": 7
+    },
+    {
+      "shot_id": 9,
+      "place": "皮皮卧室与窗外夜空",
+      "characters_present": [
+        "pipi"
+      ],
+      "assets": [
+        "asset_moon_01"
+      ],
+      "state_before": "皮皮在同一卧室，依前镜保持床、窗、云及随身物件的位置。",
+      "state_after": "皮皮在同一卧室，保持当前动作与道具状态；云按旁白缓慢向前移动。",
+      "transition_from": 8
+    },
+    {
+      "shot_id": 10,
+      "place": "皮皮卧室与窗外夜空",
+      "characters_present": [
+        "pipi"
+      ],
+      "assets": [
+        "asset_cloud_01"
+      ],
+      "state_before": "皮皮在同一卧室，依前镜保持床、窗、云及随身物件的位置。",
+      "state_after": "皮皮在同一卧室，保持当前动作与道具状态；云按旁白缓慢向前移动。",
+      "transition_from": 9
+    },
+    {
+      "shot_id": 11,
+      "place": "皮皮卧室与窗外夜空",
+      "characters_present": [
+        "pipi"
+      ],
+      "assets": [
+        "asset_moon_01"
+      ],
+      "state_before": "皮皮在同一卧室，依前镜保持床、窗、云及随身物件的位置。",
+      "state_after": "皮皮在同一卧室，保持当前动作与道具状态；云按旁白缓慢向前移动。",
+      "transition_from": 10
+    },
+    {
+      "shot_id": 12,
+      "place": "皮皮卧室与窗外夜空",
+      "characters_present": [],
+      "assets": [
+        "asset_postcard_01"
+      ],
+      "state_before": "皮皮在同一卧室，依前镜保持床、窗、云及随身物件的位置。",
+      "state_after": "皮皮在同一卧室，保持当前动作与道具状态；云按旁白缓慢向前移动。",
+      "transition_from": 11
+    },
+    {
+      "shot_id": 13,
+      "place": "皮皮卧室与窗外夜空",
+      "characters_present": [],
+      "assets": [],
+      "state_before": "皮皮在同一卧室，依前镜保持床、窗、云及随身物件的位置。",
+      "state_after": "皮皮在同一卧室，保持当前动作与道具状态；云按旁白缓慢向前移动。",
+      "transition_from": 12
+    },
+    {
+      "shot_id": 14,
+      "place": "皮皮卧室与窗外夜空",
+      "characters_present": [
+        "pipi"
+      ],
+      "assets": [
+        "asset_cloud_01",
+        "asset_window_01"
+      ],
+      "state_before": "皮皮在同一卧室，依前镜保持床、窗、云及随身物件的位置。",
+      "state_after": "皮皮在同一卧室，保持当前动作与道具状态；云按旁白缓慢向前移动。",
+      "transition_from": 13
+    },
+    {
+      "shot_id": 15,
+      "place": "皮皮卧室与窗外夜空",
+      "characters_present": [
+        "pipi"
+      ],
+      "assets": [
+        "asset_cloud_01"
+      ],
+      "state_before": "皮皮在同一卧室，依前镜保持床、窗、云及随身物件的位置。",
+      "state_after": "皮皮在同一卧室，保持当前动作与道具状态；云按旁白缓慢向前移动。",
+      "transition_from": 14
+    },
+    {
+      "shot_id": 16,
+      "place": "皮皮卧室与窗外夜空",
+      "characters_present": [
+        "pipi"
+      ],
+      "assets": [
+        "asset_bed_01"
+      ],
+      "state_before": "皮皮在同一卧室，依前镜保持床、窗、云及随身物件的位置。",
+      "state_after": "皮皮在同一卧室，保持当前动作与道具状态；云按旁白缓慢向前移动。",
+      "transition_from": 15
+    },
+    {
+      "shot_id": 17,
+      "place": "皮皮卧室与窗外夜空",
+      "characters_present": [
+        "pipi"
+      ],
+      "assets": [],
+      "state_before": "皮皮在同一卧室，依前镜保持床、窗、云及随身物件的位置。",
+      "state_after": "皮皮在同一卧室，保持当前动作与道具状态；云按旁白缓慢向前移动。",
+      "transition_from": 16
+    },
+    {
+      "shot_id": 18,
+      "place": "皮皮卧室与窗外夜空",
+      "characters_present": [
+        "pipi"
+      ],
+      "assets": [
+        "asset_postbox_01"
+      ],
+      "state_before": "皮皮在同一卧室，依前镜保持床、窗、云及随身物件的位置。",
+      "state_after": "皮皮在同一卧室，保持当前动作与道具状态；云按旁白缓慢向前移动。",
+      "transition_from": 17
+    },
+    {
+      "shot_id": 19,
+      "place": "皮皮卧室与窗外夜空",
+      "characters_present": [
+        "pipi"
+      ],
+      "assets": [],
+      "state_before": "皮皮在同一卧室，依前镜保持床、窗、云及随身物件的位置。",
+      "state_after": "皮皮在同一卧室，保持当前动作与道具状态；云按旁白缓慢向前移动。",
+      "transition_from": 18
+    },
+    {
+      "shot_id": 20,
+      "place": "皮皮卧室与窗外夜空",
+      "characters_present": [
+        "pipi"
+      ],
+      "assets": [
+        "asset_window_01",
+        "asset_curtain_01",
+        "asset_pillow_01"
+      ],
+      "state_before": "皮皮在同一卧室，依前镜保持床、窗、云及随身物件的位置。",
+      "state_after": "皮皮已靠回枕头，叶子花窗帘仅留小三角缝，不再持续抬头盯窗。",
+      "transition_from": 19
+    },
+    {
+      "shot_id": 21,
+      "place": "皮皮卧室与窗外夜空",
+      "characters_present": [
+        "pipi"
+      ],
+      "assets": [
+        "asset_window_01"
+      ],
+      "state_before": "皮皮在同一卧室，依前镜保持床、窗、云及随身物件的位置。",
+      "state_after": "皮皮在同一卧室，保持当前动作与道具状态；云按旁白缓慢向前移动。",
+      "transition_from": 20
+    },
+    {
+      "shot_id": 22,
+      "place": "皮皮卧室与窗外夜空",
+      "characters_present": [
+        "pipi"
+      ],
+      "assets": [
+        "asset_carrot_01",
+        "asset_blanket_01"
+      ],
+      "state_before": "皮皮在同一卧室，依前镜保持床、窗、云及随身物件的位置。",
+      "state_after": "橙色胡萝卜玩偶来到皮皮身侧，同一暖黄色毛毯先盖好玩偶。",
+      "transition_from": 21
+    },
+    {
+      "shot_id": 23,
+      "place": "皮皮卧室与窗外夜空",
+      "characters_present": [
+        "pipi"
+      ],
+      "assets": [],
+      "state_before": "皮皮在同一卧室，依前镜保持床、窗、云及随身物件的位置。",
+      "state_after": "同一暖黄色毛毯盖到皮皮肩部；玩偶仍在身侧，皮皮闭眼休息。",
+      "transition_from": 22
+    },
+    {
+      "shot_id": 24,
+      "place": "皮皮卧室与窗外夜空",
+      "characters_present": [
+        "pipi"
+      ],
+      "assets": [
+        "asset_cloud_01"
+      ],
+      "state_before": "皮皮在同一卧室，依前镜保持床、窗、云及随身物件的位置。",
+      "state_after": "皮皮在同一卧室，保持当前动作与道具状态；云按旁白缓慢向前移动。",
+      "transition_from": 23
+    },
+    {
+      "shot_id": 25,
+      "place": "皮皮卧室与窗外夜空",
+      "characters_present": [],
+      "assets": [],
+      "state_before": "皮皮在同一卧室，依前镜保持床、窗、云及随身物件的位置。",
+      "state_after": "云已移出窗框，月亮露出；不改变房间与道具位置。",
+      "transition_from": 24
+    },
+    {
+      "shot_id": 26,
+      "place": "皮皮卧室与窗外夜空",
+      "characters_present": [],
+      "assets": [
+        "asset_moon_01",
+        "asset_window_01",
+        "asset_bed_01"
+      ],
+      "state_before": "皮皮在同一卧室，依前镜保持床、窗、云及随身物件的位置。",
+      "state_after": "月光经过同一木窗投落在床边地板；云在窗外继续移开。",
+      "transition_from": 25
+    },
+    {
+      "shot_id": 27,
+      "place": "皮皮卧室与窗外夜空",
+      "characters_present": [
+        "pipi"
+      ],
+      "assets": [],
+      "state_before": "皮皮在同一卧室，依前镜保持床、窗、云及随身物件的位置。",
+      "state_after": "皮皮在同一卧室，保持当前动作与道具状态；云按旁白缓慢向前移动。",
+      "transition_from": 26
+    },
+    {
+      "shot_id": 28,
+      "place": "皮皮卧室与窗外夜空",
+      "characters_present": [
+        "pipi"
+      ],
+      "assets": [
+        "asset_cloud_01"
+      ],
+      "state_before": "皮皮在同一卧室，依前镜保持床、窗、云及随身物件的位置。",
+      "state_after": "皮皮在同一卧室，保持当前动作与道具状态；云按旁白缓慢向前移动。",
+      "transition_from": 27
+    },
+    {
+      "shot_id": 29,
+      "place": "皮皮卧室与窗外夜空",
+      "characters_present": [
+        "pipi"
+      ],
+      "assets": [],
+      "state_before": "皮皮在同一卧室，依前镜保持床、窗、云及随身物件的位置。",
+      "state_after": "皮皮安稳睡在同一枕头与毛毯下；玩偶在身侧，窗外夜空安静。",
+      "transition_from": 28
+    },
+    {
+      "shot_id": 30,
+      "place": "皮皮卧室与窗外夜空",
+      "characters_present": [
+        "pipi"
+      ],
+      "assets": [
+        "asset_cloud_01",
+        "asset_pillow_01"
+      ],
+      "state_before": "皮皮在同一卧室，依前镜保持床、窗、云及随身物件的位置。",
+      "state_after": "皮皮安稳睡在同一枕头与毛毯下；玩偶在身侧，窗外夜空安静。",
+      "transition_from": 29
+    },
+    {
+      "shot_id": 31,
+      "place": "皮皮卧室与窗外夜空",
+      "characters_present": [
+        "pipi"
+      ],
+      "assets": [
+        "asset_cloud_01"
+      ],
+      "state_before": "皮皮在同一卧室，依前镜保持床、窗、云及随身物件的位置。",
+      "state_after": "皮皮安稳睡在同一枕头与毛毯下；玩偶在身侧，窗外夜空安静。",
+      "transition_from": 30
+    },
+    {
+      "shot_id": 32,
+      "place": "皮皮卧室与窗外夜空",
+      "characters_present": [],
+      "assets": [
+        "asset_window_01"
+      ],
+      "state_before": "皮皮在同一卧室，依前镜保持床、窗、云及随身物件的位置。",
+      "state_after": "皮皮安稳睡在同一枕头与毛毯下；玩偶在身侧，窗外夜空安静。",
+      "transition_from": 31
+    },
+    {
+      "shot_id": 33,
+      "place": "皮皮卧室与窗外夜空",
+      "characters_present": [
+        "pipi"
+      ],
+      "assets": [],
+      "state_before": "皮皮在同一卧室，依前镜保持床、窗、云及随身物件的位置。",
+      "state_after": "皮皮安稳睡在同一枕头与毛毯下；玩偶在身侧，窗外夜空安静。",
+      "transition_from": 32
+    }
+  ],
+  "text_preflight": "顺序核对通过：森林学堂完成并寄出明信片；叙事转场到同一卧室；云从窗外经过，皮皮决定休息；遮挡解除后月光落在同一木地板；皮皮在同一床、枕头、玩偶和暖黄毛毯旁入睡。梦境/比喻画面与现实场景分开描述。固定道具的生成图外观须以全片接触表复核。",
+  "visual_review": {
+    "contact_sheet": "checks/storyboard_contact.jpg",
+    "shots_reviewed": 33,
+    "daywardrobe": "identity and day_v001 clothing references loaded for daytime images",
+    "continuity": "postcard, postbox, cloud, crescent moon, bedroom window, leaf curtain, bed, pillow, carrot plush, and yellow blanket tracked"
+  },
+  "unique_image_count": 33
+}

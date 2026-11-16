@@ -1,0 +1,8 @@
+# 第23集镜头01插画提示
+
+原文：小朋友们，准备好听故事了吗？今天的故事叫《云朵的慢邮差》。
+
+画面内容：开场：窗外浅云缓缓经过弯月，皮皮在窗边期待明信片远行；9:16水彩，留出底部字幕区。
+
+来源图：images/shot_01.png，illustration-prompts/generated_sources/sheet_01.png，第1格。来源/哈希见images/shot_01.source.json。
+身份参考：pipi_identity_v001；表情、视线、姿势依本镜情节安排。

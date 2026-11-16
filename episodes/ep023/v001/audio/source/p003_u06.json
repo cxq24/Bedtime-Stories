@@ -1,0 +1,47 @@
+{
+  "text": "正一点一点地往前挪动，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "676b6ac03009b9f9e05ae5f23d9c4750cde67977f9d7a2224bb682d5cfb5111d",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3077080,
+      "text": "正"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4346250,
+      "duration": 4807500,
+      "text": "一点"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9346250,
+      "duration": 4615410,
+      "text": "一点"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13961660,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15692500,
+      "duration": 6153750,
+      "text": "往前"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22038330,
+      "duration": 6538330,
+      "text": "挪动"
+    }
+  ]
+}

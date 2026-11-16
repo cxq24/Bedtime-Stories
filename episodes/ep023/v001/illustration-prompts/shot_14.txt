@@ -1,0 +1,9 @@
+# 第23集镜头14插画提示
+
+原文：皮皮很想亲眼看着这位“云朵慢邮差”走过整片窗户，看看它会把信送到哪一棵树上。
+
+
+画面内容：夜空远景，淡银月光勾出白云边缘，云缓缓越过树叶与小木屋屋顶，安静送出夜色的想象，不出现实体信件。
+
+来源图：images/shot_38.png，illustration-prompts/generated_sources/sheet_07.png，第2格。来源/哈希见images/shot_38.source.json。
+身份参考：pipi_identity_v001；表情、视线、姿势依本镜情节安排。

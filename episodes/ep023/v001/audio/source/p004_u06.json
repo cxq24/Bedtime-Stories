@@ -1,0 +1,47 @@
+{
+  "text": "小眼睛已经有一点点发酸，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "b34b12311bc711504c3bda6f7c072c9134629197ddafdccb1ca55ed90217d48a",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3846250,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5115410,
+      "duration": 6922910,
+      "text": "眼睛"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12422910,
+      "duration": 4038330,
+      "text": "已经"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16461660,
+      "duration": 1922910,
+      "text": "有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18769160,
+      "duration": 7884580,
+      "text": "一点点"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26846250,
+      "duration": 6922910,
+      "text": "发酸"
+    }
+  ]
+}

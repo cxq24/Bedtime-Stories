@@ -1,0 +1,23 @@
+{
+  "text": "你看，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "eb92f3a5907008cd8b1be53fb52eca141fa459798e44b0bca94f3efdb3121cbe",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2307500,
+      "text": "你"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3577080,
+      "duration": 6153750,
+      "text": "看"
+    }
+  ]
+}

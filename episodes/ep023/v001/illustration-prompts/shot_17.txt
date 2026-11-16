@@ -1,0 +1,8 @@
+# 第23集镜头17插画提示
+
+原文：皮皮打了个小哈欠，
+
+画面内容：卧室床边，皮皮打一个小哈欠，目光从窗外转回枕头，脸上出现理解与放松，不画文字气泡。
+
+来源图：images/shot_41.png，illustration-prompts/generated_sources/sheet_07.png，第5格。来源/哈希见images/shot_41.source.json。
+身份参考：pipi_identity_v001；表情、视线、姿势依本镜情节安排。

@@ -1,0 +1,59 @@
+{
+  "text": "每一座小木屋的屋顶上。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "ad8de9aa60af405bfe8715d303f1aab96a6912fc9f85db61ffac87bdd43b703c",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3461660,
+      "text": "每"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4730830,
+      "duration": 2115410,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 2500000,
+      "text": "座"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9730830,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13000000,
+      "duration": 4230830,
+      "text": "木屋"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17230830,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18961660,
+      "duration": 5576660,
+      "text": "屋顶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24538330,
+      "duration": 4807500,
+      "text": "上"
+    }
+  ]
+}

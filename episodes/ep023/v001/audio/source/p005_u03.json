@@ -1,0 +1,53 @@
+{
+  "text": "你去安心做自己的事，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "8733aa054e840b02132210eea1c67a0a931aaec6b1b5a934f9a81342a6bbbd98",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2115410,
+      "text": "你"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3384580,
+      "duration": 2115410,
+      "text": "去"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5692500,
+      "duration": 6345830,
+      "text": "安心"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12038330,
+      "duration": 2307500,
+      "text": "做"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14538330,
+      "duration": 5000000,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19538330,
+      "duration": 2115410,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21653750,
+      "duration": 5769160,
+      "text": "事"
+    }
+  ]
+}

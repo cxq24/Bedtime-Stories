@@ -1,0 +1,53 @@
+{
+  "text": "不知什么时候已经悄悄挪开了！",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "4a01198e076239969c18ce9e3214deae281fa5d2f958afc51e15b4cb2d37bd37",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2307500,
+      "text": "不"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3577080,
+      "duration": 2115410,
+      "text": "知"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6077080,
+      "duration": 12115410,
+      "text": "什么时候"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19730830,
+      "duration": 4038330,
+      "text": "已经"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23961660,
+      "duration": 6153750,
+      "text": "悄悄"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30307500,
+      "duration": 6538330,
+      "text": "挪开"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36846250,
+      "duration": 3077080,
+      "text": "了"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+# 第23集镜头19插画提示
+
+原文：你去安心做自己的事，它自然就会送到啦。”
+于是，皮皮不再勉强自己抬着头。
+
+画面内容：同一段情节的静态水彩关键画面，皮皮保持稳定身份外形，按旁白动作自然表演，视线落在当前提及的对象；不添加文字、道具或情节。
+
+来源图：images/shot_42.png，illustration-prompts/generated_sources/sheet_07.png，第6格。来源/哈希见images/shot_42.source.json。
+身份参考：pipi_identity_v001；表情、视线、姿势依本镜情节安排。

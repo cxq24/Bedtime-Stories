@@ -1,0 +1,41 @@
+{
+  "text": "皮皮盯了好一会儿，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "dd6baa12601ad5a3a3db66effa4533acbe0b02e74b4bb547cdac61e20f6a92dc",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5000000,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6461660,
+      "duration": 2307500,
+      "text": "盯"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8769160,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10307500,
+      "duration": 3653750,
+      "text": "好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13961660,
+      "duration": 6730830,
+      "text": "一会儿"
+    }
+  ]
+}

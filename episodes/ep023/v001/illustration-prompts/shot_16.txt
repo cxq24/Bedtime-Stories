@@ -1,0 +1,8 @@
+# 第23集镜头16插画提示
+
+原文：小眼睛已经有一点点发酸，撑着床沿的小爪子也有一点点发困了。
+
+画面内容：皮皮仍坐在床边望向窗外，眼睛略显疲倦、前爪撑在床沿，耳朵稍垂；表现长时间等待，不画痛苦。
+
+来源图：images/shot_37.png，illustration-prompts/generated_sources/sheet_07.png，第1格。来源/哈希见images/shot_37.source.json。
+身份参考：pipi_identity_v001；表情、视线、姿势依本镜情节安排。

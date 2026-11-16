@@ -1,0 +1,59 @@
+{
+  "text": "落在床边的木地板上，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "4da5cb7103ebb211fc8e883b923da025b9bab48aebc4361dad408bb52028aaf9",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2692500,
+      "text": "落"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3961660,
+      "duration": 2500000,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6653750,
+      "duration": 3846250,
+      "text": "床"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10500000,
+      "duration": 2307500,
+      "text": "边"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12807500,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14538330,
+      "duration": 2115410,
+      "text": "木"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16846250,
+      "duration": 6153750,
+      "text": "地板"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23000000,
+      "duration": 5000000,
+      "text": "上"
+    }
+  ]
+}

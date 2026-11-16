@@ -1,0 +1,29 @@
+{
+  "text": "软绵绵的白云，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "8ea9fa87fe5273cb98d0939c6c9e397ad00f64b082df579394b334c150544f8f",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 9615410,
+      "text": "软绵绵"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10884580,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12422910,
+      "duration": 8653750,
+      "text": "白云"
+    }
+  ]
+}

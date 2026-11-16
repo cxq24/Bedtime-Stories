@@ -1,0 +1,9 @@
+# 第23集镜头05插画提示
+
+原文：喜鹊邮差叔叔告诉皮皮：“信件要坐着风和云朵的慢车，翻过两座大山，
+
+画面内容：白天森林邮局，戴蓝帽的喜鹊邮差温和地向皮皮解释寄信路程，皮皮抬头认真倾听；保持两者距离自然。
+
+来源图：images/shot_65.png，illustration-prompts/generated_sources/sheet_10_day_expression.png，第5格。来源/哈希见images/shot_65.source.json。
+身份与服装参考：pipi_identity_v001、pipi_wardrobe_v001；白天人物眼睛睁开，表情专注或好奇。
+喜鹊邮差身份参考：magpie_postman_identity_v001。

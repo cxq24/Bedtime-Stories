@@ -1,0 +1,47 @@
+{
+  "text": "都是可以慢慢等的。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "5fca3ef433fa95749d9672d9c804ea9f4329e9683374a90098f465f030f842af",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2884580,
+      "text": "都"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4153750,
+      "duration": 2115410,
+      "text": "是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6461660,
+      "duration": 4230830,
+      "text": "可以"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11077080,
+      "duration": 6730410,
+      "text": "慢慢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17807500,
+      "duration": 3461660,
+      "text": "等"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21269160,
+      "duration": 3269160,
+      "text": "的"
+    }
+  ]
+}

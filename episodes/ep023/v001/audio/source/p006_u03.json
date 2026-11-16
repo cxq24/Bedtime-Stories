@@ -1,0 +1,65 @@
+{
+  "text": "也给自己严严实实地盖住了肩膀。\n",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "c61a278171025fb17699c1a558e55613929914364a86752f3704160802c54364",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2884580,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4153750,
+      "duration": 2307500,
+      "text": "给"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6653750,
+      "duration": 5192500,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12230830,
+      "duration": 12307500,
+      "text": "严严实实"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24538330,
+      "duration": 1730830,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26653750,
+      "duration": 3077080,
+      "text": "盖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29730830,
+      "duration": 2115410,
+      "text": "住"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31846250,
+      "duration": 1538330,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33577080,
+      "duration": 8653750,
+      "text": "肩膀"
+    }
+  ]
+}

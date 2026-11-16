@@ -1,0 +1,31 @@
+{
+  "shot_id": 4,
+  "actual_loaded_references": [
+    {
+      "path": "references/pipi_identity_v001.png",
+      "sha256": "6f754c72b9fa7281790bb1fce42bb18701ea055446fda2cdec7ae58b92232674",
+      "character_id": "pipi",
+      "version": "v001"
+    },
+    {
+      "path": "references/pipi_wardrobe_v001.png",
+      "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+      "character_id": "pipi",
+      "version": "day_v001"
+    }
+  ],
+  "references": [
+    {
+      "character_id": "pipi",
+      "version": "v001",
+      "reference_path": "references/pipi_identity_v001.png"
+    },
+    {
+      "character_id": "pipi",
+      "version": "day_v001",
+      "reference_path": "references/pipi_wardrobe_v001.png"
+    }
+  ],
+  "loaded_for_generation": true,
+  "image_source": "images/shot_64.png.source.json"
+}

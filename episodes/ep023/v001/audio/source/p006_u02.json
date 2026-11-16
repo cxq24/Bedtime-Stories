@@ -1,0 +1,47 @@
+{
+  "text": "替玩偶拉好暖黄色的毛毯，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "993c4759c42d82bba7cda283a20222593ccaedb58ae9c4c7a93a04050a440ac3",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5192500,
+      "text": "替玩"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6653750,
+      "duration": 4807500,
+      "text": "偶拉"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11461660,
+      "duration": 4230830,
+      "text": "好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16077080,
+      "duration": 9038330,
+      "text": "暖黄色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25115410,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26461660,
+      "duration": 8077080,
+      "text": "毛毯"
+    }
+  ]
+}

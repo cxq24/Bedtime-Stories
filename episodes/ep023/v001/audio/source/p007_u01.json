@@ -1,0 +1,47 @@
+{
+  "text": "皎洁的月光没有了遮挡，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "3d24707f9e5614de7d5f262421f7006e37adce877efb56d60b5eb7fdb25f5e18",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5384580,
+      "text": "皎洁"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6653750,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8192500,
+      "duration": 8269160,
+      "text": "月光"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18000000,
+      "duration": 4807500,
+      "text": "没有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22807500,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24346250,
+      "duration": 7500000,
+      "text": "遮挡"
+    }
+  ]
+}

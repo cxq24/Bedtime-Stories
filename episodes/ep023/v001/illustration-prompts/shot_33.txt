@@ -1,0 +1,8 @@
+# 第23集镜头33插画提示
+
+原文：进入甜甜的梦乡吧。晚安。
+
+画面内容：皮皮终于完全闭上眼睛，头被同一只米色枕头稳稳托住，胡萝卜玩偶与暖黄毛毯保持在身旁，安然入梦。
+
+来源图：images/shot_29.png，illustration-prompts/generated_sources/sheet_05.png，第5格。来源/哈希见images/shot_29.source.json。
+身份参考：pipi_identity_v001；表情、视线、姿势依本镜情节安排。

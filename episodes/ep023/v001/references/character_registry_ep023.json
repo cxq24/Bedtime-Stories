@@ -1,0 +1,20 @@
+{
+  "episode": "ep023",
+  "characters": [
+    {
+      "id": "pipi",
+      "name": "皮皮",
+      "reference": "references/pipi_identity_v001.png",
+      "wardrobe": "references/pipi_wardrobe_v001.png",
+      "registry": "03_素材与参数/用户长稿v4角色图库.json"
+    },
+    {
+      "id": "magpie_postman",
+      "name": "喜鹊邮差叔叔",
+      "species": "喜鹊",
+      "identity": "friendly black-white plumage, muted blue postal cap and small brown satchel",
+      "reference": "references/magpie_postman_identity_v001.png",
+      "status": "episode-specific supporting-character reference"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+# 第23集镜头08插画提示
+
+原文：还一直仰着小脑袋望着窗外的夜空。
+正好有一朵浅浅的、软绵绵的白云，
+
+画面内容：同一间木质卧室，皮皮穿深蓝星星睡帽坐在床沿仰望固定木窗，惦记远方的外婆，神情牵挂但平和。
+
+来源图：images/shot_34.png，illustration-prompts/generated_sources/sheet_06.png，第4格。来源/哈希见images/shot_34.source.json。
+身份参考：pipi_identity_v001；表情、视线、姿势依本镜情节安排。

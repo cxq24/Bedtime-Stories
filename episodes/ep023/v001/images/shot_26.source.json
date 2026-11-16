@@ -1,0 +1,17 @@
+{
+  "source": "built-in image_gen; final single illustration cropped from archived native sheet",
+  "generated_sheet": "illustration-prompts/generated_sources/sheet_05.png",
+  "sheet_number": 5,
+  "cell": 2,
+  "panel_box": [
+    599,
+    0,
+    1199,
+    437
+  ],
+  "identity_reference": "references/pipi_identity_v001.png",
+  "wardrobe_reference": null,
+  "magpie_reference": null,
+  "sha256": "0864b9926438a80daf7e9613ef07c5d70e0eb052ab835f09d5e9b439bfbea467",
+  "review": "contact sheet visually reviewed; final frame assigned to corresponding shot"
+}

@@ -1,0 +1,8 @@
+# 第23集镜头28插画提示
+
+原文：云朵邮差也会按照自己的步调慢慢往前走；夜晚的一切，
+
+画面内容：月光铺在卧室地板，窗外云继续向前飘远，树叶与屋顶安静留在夜色里，画面平静从容。
+
+来源图：images/shot_35.png，illustration-prompts/generated_sources/sheet_06.png，第5格。来源/哈希见images/shot_35.source.json。
+身份参考：pipi_identity_v001；表情、视线、姿势依本镜情节安排。

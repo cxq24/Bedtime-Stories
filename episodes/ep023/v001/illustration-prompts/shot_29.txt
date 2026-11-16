@@ -1,0 +1,8 @@
+# 第23集镜头29插画提示
+
+原文：一直都有着自己从容的速度。
+
+画面内容：月光铺在卧室地板，窗外云继续向前飘远，树叶与屋顶安静留在夜色里，画面平静从容。
+
+来源图：images/shot_47.png，illustration-prompts/generated_sources/sheet_08.png，第5格。来源/哈希见images/shot_47.source.json。
+身份参考：pipi_identity_v001；表情、视线、姿势依本镜情节安排。

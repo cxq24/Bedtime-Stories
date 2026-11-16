@@ -1,0 +1,8 @@
+# 第23集镜头11插画提示
+
+原文：你看，它背上镶着一圈淡淡的银色月光边，正一点一点地往前挪动，
+
+画面内容：夜空远景，淡银月光勾出白云边缘，云缓缓越过树叶与小木屋屋顶，安静送出夜色的想象，不出现实体信件。
+
+来源图：images/shot_09.png，illustration-prompts/generated_sources/sheet_02.png，第3格。来源/哈希见images/shot_09.source.json。
+身份参考：pipi_identity_v001；表情、视线、姿势依本镜情节安排。

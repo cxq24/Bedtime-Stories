@@ -1,0 +1,71 @@
+{
+  "text": "云朵走得实在是太慢太慢了。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "bf460ce1efc168616999b1d74c0676c143ee034b8f62b0b951dc90414569705c",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5769160,
+      "text": "云朵"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7230830,
+      "duration": 2692080,
+      "text": "走"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9922910,
+      "duration": 1346250,
+      "text": "得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11653750,
+      "duration": 6730830,
+      "text": "实在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18384580,
+      "duration": 1922910,
+      "text": "是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20692500,
+      "duration": 3461250,
+      "text": "太"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24153750,
+      "duration": 2500000,
+      "text": "慢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27038330,
+      "duration": 2884580,
+      "text": "太"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29922910,
+      "duration": 3846250,
+      "text": "慢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33769160,
+      "duration": 2884580,
+      "text": "了"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "text": "撑着床沿的小爪子也有一点点发困了。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "4bbb08f587a6a17e68fa23b2a721616c4f1f7953958ada6d26fe44663ebe9f5c",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3653750,
+      "text": "撑"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4922910,
+      "duration": 1346250,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6461660,
+      "duration": 5384580,
+      "text": "床沿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11846250,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13192500,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16461660,
+      "duration": 8653750,
+      "text": "爪子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26653750,
+      "duration": 4038330,
+      "text": "也有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30884580,
+      "duration": 8269160,
+      "text": "一点点"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39538330,
+      "duration": 7115410,
+      "text": "发困"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46653750,
+      "duration": 3077080,
+      "text": "了"
+    }
+  ]
+}

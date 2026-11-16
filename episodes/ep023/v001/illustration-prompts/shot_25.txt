@@ -1,0 +1,7 @@
+# 第23集镜头25插画提示
+
+原文：不知什么时候已经悄悄挪开了！
+
+画面内容：皮皮在枕头上闭眼歇息后微微睁开一条眼缝，望向同一扇木窗；云已悄悄移出窗框，神情轻轻惊喜。
+
+来源图：images/shot_44.png，illustration-prompts/generated_sources/sheet_08.png，第2格。来源/哈希见images/shot_44.source.json。

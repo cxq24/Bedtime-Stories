@@ -1,0 +1,7 @@
+# 第23集镜头26插画提示
+
+原文：皎洁的月光没有了遮挡，正大大方方地穿过窗户，落在床边的木地板上，
+
+画面内容：窗外云已离开，皎洁月光越过窗框落在床边木地板上，像一片安静银色光毯；保持床窗布局不变。
+
+来源图：images/shot_45.png，illustration-prompts/generated_sources/sheet_08.png，第3格。来源/哈希见images/shot_45.source.json。
