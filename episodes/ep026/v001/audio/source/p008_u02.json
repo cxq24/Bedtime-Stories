@@ -1,0 +1,59 @@
+{
+  "text": "也可以像那缕小水汽一样，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "f6d8944dd613d66888845387f17fa45d55dc2a5901641e8a7e4d2f793d7adb03",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2500000,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3769160,
+      "duration": 3653750,
+      "text": "可以"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7615410,
+      "duration": 2692500,
+      "text": "像"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10500000,
+      "duration": 2692500,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13192500,
+      "duration": 2115410,
+      "text": "缕"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15692500,
+      "duration": 3076660,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18769160,
+      "duration": 7500000,
+      "text": "水汽"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26461660,
+      "duration": 5384580,
+      "text": "一样"
+    }
+  ]
+}

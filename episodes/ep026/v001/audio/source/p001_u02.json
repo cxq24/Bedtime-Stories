@@ -1,0 +1,89 @@
+{
+  "text": "今天下午，小熊绒绒和小鹿芽芽来家里一起做手工，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "5ab5ba3cb3931360adf5c8d6612f26566493de89764cc0f4abdf30d8d3c92214",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5192500,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6653750,
+      "duration": 8077080,
+      "text": "下午"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19153750,
+      "duration": 2692500,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21846250,
+      "duration": 5576660,
+      "text": "熊绒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27422910,
+      "duration": 4422910,
+      "text": "绒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32230830,
+      "duration": 2115410,
+      "text": "和"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34538330,
+      "duration": 5384580,
+      "text": "小鹿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40115410,
+      "duration": 5384580,
+      "text": "芽芽"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45500000,
+      "duration": 2307500,
+      "text": "来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48000000,
+      "duration": 5384580,
+      "text": "家里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53769160,
+      "duration": 5192500,
+      "text": "一起"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59153750,
+      "duration": 2500000,
+      "text": "做"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61653750,
+      "duration": 7307500,
+      "text": "手工"
+    }
+  ]
+}

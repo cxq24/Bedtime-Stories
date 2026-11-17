@@ -1,0 +1,107 @@
+{
+  "text": "皮皮拿来干布巾，把桌角留下的一小圈浅浅的水印擦得干干净净，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "99a735d4b920ba81f63867a0929902fc2ed936a0ddd66ad47ad01cc3c976a872",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5577080,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 4230830,
+      "text": "拿来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11269160,
+      "duration": 3077080,
+      "text": "干"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14346250,
+      "duration": 6730830,
+      "text": "布巾"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25692500,
+      "duration": 2307500,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28192500,
+      "duration": 6346250,
+      "text": "桌角"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34730830,
+      "duration": 5576660,
+      "text": "留下"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40307500,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42038330,
+      "duration": 1922910,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43961660,
+      "duration": 7307500,
+      "text": "小圈"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51653750,
+      "duration": 5769160,
+      "text": "浅浅"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57422910,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58961660,
+      "duration": 8461660,
+      "text": "水印"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 68961660,
+      "duration": 3269160,
+      "text": "擦"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 72230830,
+      "duration": 1538330,
+      "text": "得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 73961660,
+      "duration": 12500000,
+      "text": "干干净净"
+    }
+  ]
+}

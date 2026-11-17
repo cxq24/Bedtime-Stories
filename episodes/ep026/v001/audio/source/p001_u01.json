@@ -1,0 +1,41 @@
+{
+  "text": "皮皮现在越来越能干了。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "7708029bcb0520098ac805b2d1d7623da0e45d616183b4199009127b009be202",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4615410,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6077080,
+      "duration": 5577080,
+      "text": "现在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12038330,
+      "duration": 6730830,
+      "text": "越来越"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18961660,
+      "duration": 6345830,
+      "text": "能干"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25307500,
+      "duration": 2884580,
+      "text": "了"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "source": "OpenAI image_gen",
+  "generated_image": "original full-scene illustration; resized only by renderer",
+  "image_path": "images/shot_28.png",
+  "sha256": "76eb0483f2ab293c97f4691f78a5886a54e5870b6bd19d09ee2e4af49fc0a122",
+  "prompt_file": "illustration-prompts/shot_28.txt",
+  "prompt": "Create ONE original full-bleed vertical 9:16 children's bedtime story illustration, hand-painted soft watercolor on fine paper, gentle muted colors, rounded forms, warm natural indoor lamp light, subtle paper grain. Never render any text, letters, labels, numbers, logos, speech bubbles, border, collage or watermark. Fixed static composition, no motion streaks. Reserve the bottom 30% as low-detail background for later subtitles; keep faces and important actions in upper 68%.\nInput 1 is the verified identity/wardrobe reference for 皮皮 (pipi): 暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。; wardrobe: 深蓝淡黄星星睡帽与黄色帽球为常用夜间配饰，活动时可不佩戴。. Preserve identity, wear only the described outfit, and act out this shot's narration with a fresh expression and posture.\nScene: 同一木屋卧室.\nExact moment: 皮皮在暖黄色毛毯下把身体放得软软舒服，靠着柔软枕头，神情放松，准备休息。\nNarration this still must represent: 把身体放得软软的、舒服的，\nVisible characters: 皮皮. Exactly 1 animal character(s), each appears once. Do not add characters when count is zero. Preserve the repeated prop identities and positions described in this scene. Steam is only faint white water vapor, never a living cloud. Pipi is a warm-gray rabbit with round face, pink nose, naturally drooping long ears; preserve the referenced identity. Expressions are scene-specific, calm and natural, not default sad or sleepy. No unmentioned actions or props.",
+  "reference_manifest": "references/shot_28.json",
+  "reference_inputs": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+  ],
+  "characters": [
+    "pipi"
+  ],
+  "outfits": {
+    "pipi": "default_v001"
+  },
+  "user_visual_acceptance": "not_recorded"
+}

@@ -1,0 +1,23 @@
+{
+  "text": "不见了。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "20d149a3308eb905415ed62e243e1bff84519cb602174c2e6490e447ae760ea9",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 7307500,
+      "text": "不见"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8577080,
+      "duration": 3653750,
+      "text": "了"
+    }
+  ]
+}

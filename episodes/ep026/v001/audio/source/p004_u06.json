@@ -1,0 +1,83 @@
+{
+  "text": "又拉得长长的，像一条细细的白色小围巾，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "e548602e2d811dbcc5c13d7f93958d30c04ba15730433348d206cdf912439a64",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3461660,
+      "text": "又"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4730830,
+      "duration": 2307500,
+      "text": "拉"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 1346250,
+      "text": "得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8769160,
+      "duration": 8077080,
+      "text": "长长"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16846250,
+      "duration": 2884580,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24730830,
+      "duration": 2500000,
+      "text": "像"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27422910,
+      "duration": 4230830,
+      "text": "一条"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32038330,
+      "duration": 5384580,
+      "text": "细细"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37422910,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39153750,
+      "duration": 5384580,
+      "text": "白色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44730830,
+      "duration": 3076660,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47807500,
+      "duration": 7500000,
+      "text": "围巾"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "text": "又给绒绒倒了一杯香香的蜂蜜水。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "a35e3f533a0ff38d53ea5a76ac7fa191293209fd540c2a114354a0a0e80ef94c",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3077080,
+      "text": "又"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4346250,
+      "duration": 2115410,
+      "text": "给"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6653750,
+      "duration": 5192500,
+      "text": "绒绒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11846250,
+      "duration": 2692080,
+      "text": "倒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14538330,
+      "duration": 961660,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15692500,
+      "duration": 2115000,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17807500,
+      "duration": 2884580,
+      "text": "杯"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21077080,
+      "duration": 6345830,
+      "text": "香香"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27422910,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29153750,
+      "duration": 11346250,
+      "text": "蜂蜜水"
+    }
+  ]
+}

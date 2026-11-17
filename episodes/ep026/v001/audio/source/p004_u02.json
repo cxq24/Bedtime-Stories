@@ -1,0 +1,83 @@
+{
+  "text": "双手托着下巴，静静地看那缕水汽慢慢散开。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "d497d0b73e420c6a3ecff25635efad0c6335078e75b630bfbc3f00496bb2cc29",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 7692500,
+      "text": "双手"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9346250,
+      "duration": 2307500,
+      "text": "托"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11653750,
+      "duration": 1538330,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13384580,
+      "duration": 7692500,
+      "text": "下巴"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25884580,
+      "duration": 5961660,
+      "text": "静静"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31846250,
+      "duration": 1730830,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33961660,
+      "duration": 2500000,
+      "text": "看"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36653750,
+      "duration": 2307500,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38961660,
+      "duration": 2500000,
+      "text": "缕"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41653750,
+      "duration": 7884580,
+      "text": "水汽"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 49922910,
+      "duration": 5577080,
+      "text": "慢慢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55692500,
+      "duration": 8269160,
+      "text": "散开"
+    }
+  ]
+}

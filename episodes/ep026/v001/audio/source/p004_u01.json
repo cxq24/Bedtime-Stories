@@ -1,0 +1,59 @@
+{
+  "text": "皮皮没有急着走开，而是隔着桌子，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "f91a8ab694c3993971983795b7152b645e5d30cc155bf7b0d785ad720cc57027",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5577080,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7230830,
+      "duration": 3653750,
+      "text": "没有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11077080,
+      "duration": 4422910,
+      "text": "急着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15692500,
+      "duration": 8461660,
+      "text": "走开"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27807500,
+      "duration": 4807500,
+      "text": "而是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32807500,
+      "duration": 3077080,
+      "text": "隔"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35884580,
+      "duration": 1922910,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38000000,
+      "duration": 7692500,
+      "text": "桌子"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "text": "晚安，做个轻轻的梦。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "a56a008e884931b61a31a782a15c84ec95b94e49aa4c916f5cc5e12893da2ae0",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 7500000,
+      "text": "晚安"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13000000,
+      "duration": 2884580,
+      "text": "做"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15884580,
+      "duration": 1346250,
+      "text": "个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17615410,
+      "duration": 5577080,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23192500,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24730830,
+      "duration": 4230830,
+      "text": "梦"
+    }
+  ]
+}

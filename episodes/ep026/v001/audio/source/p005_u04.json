@@ -1,0 +1,47 @@
+{
+  "text": "\n水汽越升越高，越来越淡，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "c49107bc52d69aef806f640c534dedd982172647312afaa1e6b41f3765c03a6a",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 7307500,
+      "text": "水汽"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8961660,
+      "duration": 5384580,
+      "text": "越升"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14538330,
+      "duration": 2884580,
+      "text": "越"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17422910,
+      "duration": 4422910,
+      "text": "高"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25500000,
+      "duration": 7307500,
+      "text": "越来越"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32807500,
+      "duration": 3846250,
+      "text": "淡"
+    }
+  ]
+}

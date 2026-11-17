@@ -1,0 +1,260 @@
+{
+  "hanzi": 763,
+  "cues": 130,
+  "pinyin_coverage": 1.0,
+  "context_review": "completed_against_episode_text",
+  "target_font_px": {
+    "hanzi": 76,
+    "pinyin": 48
+  },
+  "libass_fontsize_calibration": {
+    "hanzi": 114,
+    "pinyin": 66,
+    "reason": "match actual rasterized glyph scale to bundled-font 76px/48px reference; libass normalizes font metrics"
+  },
+  "audio_pronunciation_listen_review": "not_certified",
+  "overrides": [
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "小朋友们，准备好听故事了吗？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "朋友们来家里做客，忙完之后，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮怎样让自己也慢慢安顿下来呢？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮现在越来越能干了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒绒",
+      "pinyin": [
+        "róng",
+        "róng"
+      ],
+      "context": "今天下午，小熊绒绒和小鹿芽芽来家里一起做手工，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮像个小主人一样，主动承担起了给大家准备热果茶的任务。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "皮皮像个小主人一样，主动承担起了给大家准备热果茶的任务。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "\n皮皮端着小托盘，给芽芽倒了一杯甜甜的苹果茶，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒绒",
+      "pinyin": [
+        "róng",
+        "róng"
+      ],
+      "context": "又给绒绒倒了一杯香香的蜂蜜水。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "等好朋友们心满意足地道别回家后，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮开始收拾小餐桌。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮没有急着走开，而是隔着桌子，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "爪子",
+      "pinyin": [
+        "zhuǎ",
+        "zi"
+      ],
+      "context": "皮皮没有伸出小爪子去抓它、",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮没有伸出小爪子去抓它、",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "扇它",
+      "pinyin": [
+        "shān",
+        "tā"
+      ],
+      "context": "扇它，只是把托盘往旁边挪了挪，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "腾出",
+      "pinyin": [
+        "téng",
+        "chū"
+      ],
+      "context": "给桌面腾出一片安静空旷的地方。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "地方",
+      "pinyin": [
+        "dì",
+        "fang"
+      ],
+      "context": "给桌面腾出一片安静空旷的地方。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮拿来干布巾，把桌角留下的一小圈浅浅的水印擦得干干净净，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "而我这个小主人，也完成了今天的招待任务啦。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "胡萝卜",
+      "pinyin": [
+        "hú",
+        "luó",
+        "bo"
+      ],
+      "context": "皮皮把胡萝卜玩偶放近，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮把胡萝卜玩偶放近，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "爪子",
+      "pinyin": [
+        "zhuǎ",
+        "zi"
+      ],
+      "context": "\n端过托盘的小爪子歇着，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "长耳朵",
+      "pinyin": [
+        "cháng",
+        "ěr",
+        "duo"
+      ],
+      "context": "听了一下午笑声的长耳朵也歇着。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "地方",
+      "pinyin": [
+        "dì",
+        "fang"
+      ],
+      "context": "屋里刚才忙活过的地方，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "小朋友，今天一天的忙碌和热闹，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "舒服",
+      "pinyin": [
+        "shū",
+        "fu"
+      ],
+      "context": "把身体放得软软的、舒服的，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "晚安，做个轻轻的梦。",
+      "review": "context_checked_not_audio_listen_certification"
+    }
+  ]
+}

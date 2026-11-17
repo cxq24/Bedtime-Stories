@@ -1,0 +1,2103 @@
+{
+  "episode": "ep026",
+  "version": "v001",
+  "script_version": "v5",
+  "cover_title": "小云散开啦",
+  "total_duration_s": 268.96,
+  "actual_audio_measured": true,
+  "max_visible_duration_s": 11.8,
+  "shots": [
+    {
+      "id": 1,
+      "title": "镜头01",
+      "paragraph_id": "p000",
+      "text": "小朋友们，准备好听故事了吗？今天的故事叫《水壶旁的小云》。",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u01",
+          "start_char": 0,
+          "end_char": 14
+        },
+        {
+          "unit_id": "p000_u02",
+          "start_char": 0,
+          "end_char": 15
+        }
+      ],
+      "characters": [
+        "pipi",
+        "rongrong",
+        "yaya"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "visual_description": "独立开场画面：傍晚木屋餐厅里，皮皮热情招待小熊绒绒和小鹿芽芽，三只小动物围着茶桌与松果手工，屋内温暖热闹；画面暗示朋友刚做客。",
+      "setting": "暖灯木屋餐厅开场",
+      "continuity_refs": [],
+      "state_before": "沿用前镜已建立的同一餐厅/卧室布局与物件外观；仅发生旁白明确描述的动作。",
+      "state_after": "按本镜口播更新物件与角色状态，不增添无依据的移动或变化。",
+      "transition_from": null,
+      "motion": "fixed",
+      "image": "images/shot_01.png",
+      "prompt_file": "illustration-prompts/shot_01.txt",
+      "reference_manifest": "references/shot_01.json",
+      "speech_start_s": 1.0,
+      "speech_end_s": 9.286394833333333,
+      "actual_start_s": 0.0,
+      "actual_end_s": 9.68,
+      "visible_start_s": 0.0,
+      "visible_end_s": 10.16,
+      "visible_duration_s": 10.16,
+      "prompt": "Create ONE original full-bleed vertical 9:16 children's bedtime story illustration, hand-painted soft watercolor on fine paper, gentle muted colors, rounded forms, warm natural indoor lamp light, subtle paper grain. Never render any text, letters, labels, numbers, logos, speech bubbles, border, collage or watermark. Fixed static composition, no motion streaks. Reserve the bottom 30% as low-detail background for later subtitles; keep faces and important actions in upper 68%.\nInput 1 is the verified identity/wardrobe reference for 皮皮 (pipi): 暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。; outfit day_v001. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nInput 2 is the verified identity/wardrobe reference for 绒绒 (rongrong): 浅棕绒毛、圆耳、米色口鼻。; outfit None. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nInput 3 is the verified identity/wardrobe reference for 芽芽 (yaya): 柔浅赭色、奶油色小斑点、圆润口鼻、细长但圆润的腿。; outfit None. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nScene: 暖灯木屋餐厅开场.\nExact moment: 独立开场画面：傍晚木屋餐厅里，皮皮热情招待小熊绒绒和小鹿芽芽，三只小动物围着茶桌与松果手工，屋内温暖热闹；画面暗示朋友刚做客。\nNarration this still must represent: 小朋友们，准备好听故事了吗？今天的故事叫《水壶旁的小云》。\nVisible characters: 皮皮, 绒绒, 芽芽. Exactly 3 animal character(s), each appears once. Do not add characters when count is zero. Preserve the repeated prop identities and positions described in this scene. Steam is only faint white water vapor, never a living cloud. Pipi is a warm-gray rabbit with round face, pink nose, naturally drooping long ears; preserve the referenced identity. Expressions are scene-specific, calm and natural, not default sad or sleepy. No unmentioned actions or props.",
+      "reference_inputs": [
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/rongrong_identity_v001.png",
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/yaya_identity_v001.png"
+      ],
+      "reference_roles": [
+        {
+          "id": "pipi",
+          "name": "皮皮",
+          "anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+          "outfit": "day_v001",
+          "paths": [
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+          ]
+        },
+        {
+          "id": "rongrong",
+          "name": "绒绒",
+          "anchors": "浅棕绒毛、圆耳、米色口鼻。",
+          "outfit": null,
+          "paths": [
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/rongrong_identity_v001.png"
+          ]
+        },
+        {
+          "id": "yaya",
+          "name": "芽芽",
+          "anchors": "柔浅赭色、奶油色小斑点、圆润口鼻、细长但圆润的腿。",
+          "outfit": null,
+          "paths": [
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/yaya_identity_v001.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "镜头02",
+      "paragraph_id": "p000",
+      "text": "朋友们来家里做客，忙完之后，皮皮怎样让自己也慢慢安顿下来呢？",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u03",
+          "start_char": 0,
+          "end_char": 14
+        },
+        {
+          "unit_id": "p000_u04",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "visual_description": "独立开场画面：朋友刚道别离家后，皮皮独自留在餐厅，双手托腮静静看着搪瓷水壶旁最后一缕白色水汽；热闹过去，神情安静好奇。",
+      "setting": "暖灯木屋餐厅开场",
+      "continuity_refs": [],
+      "state_before": "沿用前镜已建立的同一餐厅/卧室布局与物件外观；仅发生旁白明确描述的动作。",
+      "state_after": "按本镜口播更新物件与角色状态，不增添无依据的移动或变化。",
+      "transition_from": 1,
+      "motion": "fixed",
+      "image": "images/shot_02.png",
+      "prompt_file": "illustration-prompts/shot_02.txt",
+      "reference_manifest": "references/shot_02.json",
+      "speech_start_s": 10.051020833333332,
+      "speech_end_s": 18.858395166666664,
+      "actual_start_s": 9.68,
+      "actual_end_s": 19.2,
+      "visible_start_s": 9.2,
+      "visible_end_s": 19.68,
+      "visible_duration_s": 10.48,
+      "prompt": "Create ONE original full-bleed vertical 9:16 children's bedtime story illustration, hand-painted soft watercolor on fine paper, gentle muted colors, rounded forms, warm natural indoor lamp light, subtle paper grain. Never render any text, letters, labels, numbers, logos, speech bubbles, border, collage or watermark. Fixed static composition, no motion streaks. Reserve the bottom 30% as low-detail background for later subtitles; keep faces and important actions in upper 68%.\nInput 1 is the verified identity/wardrobe reference for 皮皮 (pipi): 暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。; outfit day_v001. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nScene: 暖灯木屋餐厅开场.\nExact moment: 独立开场画面：朋友刚道别离家后，皮皮独自留在餐厅，双手托腮静静看着搪瓷水壶旁最后一缕白色水汽；热闹过去，神情安静好奇。\nNarration this still must represent: 朋友们来家里做客，忙完之后，皮皮怎样让自己也慢慢安顿下来呢？\nVisible characters: 皮皮. Exactly 1 animal character(s), each appears once. Do not add characters when count is zero. Preserve the repeated prop identities and positions described in this scene. Steam is only faint white water vapor, never a living cloud. Pipi is a warm-gray rabbit with round face, pink nose, naturally drooping long ears; preserve the referenced identity. Expressions are scene-specific, calm and natural, not default sad or sleepy. No unmentioned actions or props.",
+      "reference_inputs": [
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+      ],
+      "reference_roles": [
+        {
+          "id": "pipi",
+          "name": "皮皮",
+          "anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+          "outfit": "day_v001",
+          "paths": [
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "镜头03",
+      "paragraph_id": "p001",
+      "text": "皮皮现在越来越能干了。今天下午，小熊绒绒和小鹿芽芽来家里一起做手工，",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u01",
+          "start_char": 0,
+          "end_char": 11
+        },
+        {
+          "unit_id": "p001_u02",
+          "start_char": 0,
+          "end_char": 23
+        }
+      ],
+      "characters": [
+        "pipi",
+        "rongrong",
+        "yaya"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "visual_description": "傍晚的木屋餐厅，皮皮穿灰蓝背带裤和米色上衣，像小主人一样在木桌旁准备托盘和热茶，神情认真又自信；小熊绒绒和小鹿芽芽在桌边一起做松果小人。",
+      "setting": "傍晚木屋餐厅",
+      "continuity_refs": [
+        "ep026_enamel_kettle",
+        "ep026_cork_trivet",
+        "ep026_wooden_tray",
+        "ep026_three_cups",
+        "ep026_pinecone_figures"
+      ],
+      "state_before": "沿用前镜已建立的同一餐厅/卧室布局与物件外观；仅发生旁白明确描述的动作。",
+      "state_after": "按本镜口播更新物件与角色状态，不增添无依据的移动或变化。",
+      "transition_from": 2,
+      "motion": "fixed",
+      "image": "images/shot_03.png",
+      "prompt_file": "illustration-prompts/shot_03.txt",
+      "reference_manifest": "references/shot_03.json",
+      "speech_start_s": 19.569562499999996,
+      "speech_end_s": 29.71052083333333,
+      "actual_start_s": 19.2,
+      "actual_end_s": 29.92,
+      "visible_start_s": 18.72,
+      "visible_end_s": 30.400000000000002,
+      "visible_duration_s": 11.68,
+      "prompt": "Create ONE original full-bleed vertical 9:16 children's bedtime story illustration, hand-painted soft watercolor on fine paper, gentle muted colors, rounded forms, warm natural indoor lamp light, subtle paper grain. Never render any text, letters, labels, numbers, logos, speech bubbles, border, collage or watermark. Fixed static composition, no motion streaks. Reserve the bottom 30% as low-detail background for later subtitles; keep faces and important actions in upper 68%.\nInput 1 is the verified identity/wardrobe reference for 皮皮 (pipi): 暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。; outfit day_v001. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nInput 2 is the verified identity/wardrobe reference for 绒绒 (rongrong): 浅棕绒毛、圆耳、米色口鼻。; outfit None. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nInput 3 is the verified identity/wardrobe reference for 芽芽 (yaya): 柔浅赭色、奶油色小斑点、圆润口鼻、细长但圆润的腿。; outfit None. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nScene: 傍晚木屋餐厅.\nExact moment: 傍晚的木屋餐厅，皮皮穿灰蓝背带裤和米色上衣，像小主人一样在木桌旁准备托盘和热茶，神情认真又自信；小熊绒绒和小鹿芽芽在桌边一起做松果小人。\nNarration this still must represent: 皮皮现在越来越能干了。今天下午，小熊绒绒和小鹿芽芽来家里一起做手工，\nVisible characters: 皮皮, 绒绒, 芽芽. Exactly 3 animal character(s), each appears once. Do not add characters when count is zero. Preserve the repeated prop identities and positions described in this scene. Steam is only faint white water vapor, never a living cloud. Pipi is a warm-gray rabbit with round face, pink nose, naturally drooping long ears; preserve the referenced identity. Expressions are scene-specific, calm and natural, not default sad or sleepy. No unmentioned actions or props.",
+      "reference_inputs": [
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/rongrong_identity_v001.png",
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/yaya_identity_v001.png"
+      ],
+      "reference_roles": [
+        {
+          "id": "pipi",
+          "name": "皮皮",
+          "anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+          "outfit": "day_v001",
+          "paths": [
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+          ]
+        },
+        {
+          "id": "rongrong",
+          "name": "绒绒",
+          "anchors": "浅棕绒毛、圆耳、米色口鼻。",
+          "outfit": null,
+          "paths": [
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/rongrong_identity_v001.png"
+          ]
+        },
+        {
+          "id": "yaya",
+          "name": "芽芽",
+          "anchors": "柔浅赭色、奶油色小斑点、圆润口鼻、细长但圆润的腿。",
+          "outfit": null,
+          "paths": [
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/yaya_identity_v001.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "镜头04",
+      "paragraph_id": "p001",
+      "text": "皮皮像个小主人一样，主动承担起了给大家准备热果茶的任务。",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u03",
+          "start_char": 0,
+          "end_char": 28
+        }
+      ],
+      "characters": [
+        "pipi",
+        "rongrong",
+        "yaya"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "visual_description": "傍晚的木屋餐厅，皮皮穿灰蓝背带裤和米色上衣，像小主人一样在木桌旁准备托盘和热茶，神情认真又自信；小熊绒绒和小鹿芽芽在桌边一起做松果小人。",
+      "setting": "傍晚木屋餐厅",
+      "continuity_refs": [
+        "ep026_enamel_kettle",
+        "ep026_cork_trivet",
+        "ep026_wooden_tray",
+        "ep026_three_cups",
+        "ep026_pinecone_figures"
+      ],
+      "state_before": "沿用前镜已建立的同一餐厅/卧室布局与物件外观；仅发生旁白明确描述的动作。",
+      "state_after": "按本镜口播更新物件与角色状态，不增添无依据的移动或变化。",
+      "transition_from": 3,
+      "motion": "fixed",
+      "image": "images/shot_04.png",
+      "prompt_file": "illustration-prompts/shot_04.txt",
+      "reference_manifest": "references/shot_04.json",
+      "speech_start_s": 30.15089583333333,
+      "speech_end_s": 38.049499,
+      "actual_start_s": 29.92,
+      "actual_end_s": 38.4,
+      "visible_start_s": 29.44,
+      "visible_end_s": 38.879999999999995,
+      "visible_duration_s": 9.44,
+      "prompt": "Create ONE original full-bleed vertical 9:16 children's bedtime story illustration, hand-painted soft watercolor on fine paper, gentle muted colors, rounded forms, warm natural indoor lamp light, subtle paper grain. Never render any text, letters, labels, numbers, logos, speech bubbles, border, collage or watermark. Fixed static composition, no motion streaks. Reserve the bottom 30% as low-detail background for later subtitles; keep faces and important actions in upper 68%.\nInput 1 is the verified identity/wardrobe reference for 皮皮 (pipi): 暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。; outfit day_v001. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nInput 2 is the verified identity/wardrobe reference for 绒绒 (rongrong): 浅棕绒毛、圆耳、米色口鼻。; outfit None. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nInput 3 is the verified identity/wardrobe reference for 芽芽 (yaya): 柔浅赭色、奶油色小斑点、圆润口鼻、细长但圆润的腿。; outfit None. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nScene: 傍晚木屋餐厅.\nExact moment: 傍晚的木屋餐厅，皮皮穿灰蓝背带裤和米色上衣，像小主人一样在木桌旁准备托盘和热茶，神情认真又自信；小熊绒绒和小鹿芽芽在桌边一起做松果小人。\nNarration this still must represent: 皮皮像个小主人一样，主动承担起了给大家准备热果茶的任务。\nVisible characters: 皮皮, 绒绒, 芽芽. Exactly 3 animal character(s), each appears once. Do not add characters when count is zero. Preserve the repeated prop identities and positions described in this scene. Steam is only faint white water vapor, never a living cloud. Pipi is a warm-gray rabbit with round face, pink nose, naturally drooping long ears; preserve the referenced identity. Expressions are scene-specific, calm and natural, not default sad or sleepy. No unmentioned actions or props.",
+      "reference_inputs": [
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/rongrong_identity_v001.png",
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/yaya_identity_v001.png"
+      ],
+      "reference_roles": [
+        {
+          "id": "pipi",
+          "name": "皮皮",
+          "anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+          "outfit": "day_v001",
+          "paths": [
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+          ]
+        },
+        {
+          "id": "rongrong",
+          "name": "绒绒",
+          "anchors": "浅棕绒毛、圆耳、米色口鼻。",
+          "outfit": null,
+          "paths": [
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/rongrong_identity_v001.png"
+          ]
+        },
+        {
+          "id": "yaya",
+          "name": "芽芽",
+          "anchors": "柔浅赭色、奶油色小斑点、圆润口鼻、细长但圆润的腿。",
+          "outfit": null,
+          "paths": [
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/yaya_identity_v001.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "镜头05",
+      "paragraph_id": "p002",
+      "text": "在傍晚亮起暖灯的小木屋餐厅里，圆肚子的搪瓷小水壶坐在隔热垫上，",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u01",
+          "start_char": 0,
+          "end_char": 15
+        },
+        {
+          "unit_id": "p002_u02",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "characters": [],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "visual_description": "同一木屋餐厅桌面近景：搪瓷小水壶稳稳坐在同一块圆形软木隔热垫上，壶身圆润浅奶油色带细蓝边，壶嘴冒出细细白水汽；皮皮与两位朋友在暖灯下做松果小人。",
+      "setting": "同一木屋餐厅与餐桌",
+      "continuity_refs": [
+        "ep026_enamel_kettle",
+        "ep026_cork_trivet",
+        "ep026_wooden_tray",
+        "ep026_three_cups",
+        "ep026_pinecone_figures"
+      ],
+      "state_before": "沿用前镜已建立的同一餐厅/卧室布局与物件外观；仅发生旁白明确描述的动作。",
+      "state_after": "按本镜口播更新物件与角色状态，不增添无依据的移动或变化。",
+      "transition_from": 4,
+      "motion": "fixed",
+      "image": "images/shot_05.png",
+      "prompt_file": "illustration-prompts/shot_05.txt",
+      "reference_manifest": "references/shot_05.json",
+      "speech_start_s": 38.7846875,
+      "speech_end_s": 47.939999,
+      "actual_start_s": 38.4,
+      "actual_end_s": 48.16,
+      "visible_start_s": 37.92,
+      "visible_end_s": 48.63999999999999,
+      "visible_duration_s": 10.72,
+      "prompt": "Create ONE original full-bleed vertical 9:16 children's bedtime story illustration, hand-painted soft watercolor on fine paper, gentle muted colors, rounded forms, warm natural indoor lamp light, subtle paper grain. Never render any text, letters, labels, numbers, logos, speech bubbles, border, collage or watermark. Fixed static composition, no motion streaks. Reserve the bottom 30% as low-detail background for later subtitles; keep faces and important actions in upper 68%.\n\nScene: 同一木屋餐厅与餐桌.\nExact moment: 同一木屋餐厅桌面近景：搪瓷小水壶稳稳坐在同一块圆形软木隔热垫上，壶身圆润浅奶油色带细蓝边，壶嘴冒出细细白水汽；皮皮与两位朋友在暖灯下做松果小人。\nNarration this still must represent: 在傍晚亮起暖灯的小木屋餐厅里，圆肚子的搪瓷小水壶坐在隔热垫上，\nVisible characters: no characters; objects only. Exactly 0 animal character(s), each appears once. Do not add characters when count is zero. Preserve the repeated prop identities and positions described in this scene. Steam is only faint white water vapor, never a living cloud. Pipi is a warm-gray rabbit with round face, pink nose, naturally drooping long ears; preserve the referenced identity. Expressions are scene-specific, calm and natural, not default sad or sleepy. No unmentioned actions or props.",
+      "reference_inputs": [],
+      "reference_roles": []
+    },
+    {
+      "id": 6,
+      "title": "镜头06",
+      "paragraph_id": "p002",
+      "text": "壶嘴里正冒出一缕缕淡淡的、白色的水汽。",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u03",
+          "start_char": 0,
+          "end_char": 13
+        },
+        {
+          "unit_id": "p002_u04",
+          "start_char": 0,
+          "end_char": 6
+        }
+      ],
+      "characters": [],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "visual_description": "同一木屋餐厅桌面近景：搪瓷小水壶稳稳坐在同一块圆形软木隔热垫上，壶身圆润浅奶油色带细蓝边，壶嘴冒出细细白水汽；皮皮与两位朋友在暖灯下做松果小人。",
+      "setting": "同一木屋餐厅与餐桌",
+      "continuity_refs": [
+        "ep026_enamel_kettle",
+        "ep026_cork_trivet",
+        "ep026_wooden_tray",
+        "ep026_three_cups",
+        "ep026_pinecone_figures",
+        "ep026_last_steam"
+      ],
+      "state_before": "沿用前镜已建立的同一餐厅/卧室布局与物件外观；仅发生旁白明确描述的动作。",
+      "state_after": "按本镜口播更新物件与角色状态，不增添无依据的移动或变化。",
+      "transition_from": 5,
+      "motion": "fixed",
+      "image": "images/shot_06.png",
+      "prompt_file": "illustration-prompts/shot_06.txt",
+      "reference_manifest": "references/shot_06.json",
+      "speech_start_s": 48.349666666666664,
+      "speech_end_s": 54.425603499999994,
+      "actual_start_s": 48.16,
+      "actual_end_s": 54.8,
+      "visible_start_s": 47.68,
+      "visible_end_s": 55.279999999999994,
+      "visible_duration_s": 7.6,
+      "prompt": "Create ONE original full-bleed vertical 9:16 children's bedtime story illustration, hand-painted soft watercolor on fine paper, gentle muted colors, rounded forms, warm natural indoor lamp light, subtle paper grain. Never render any text, letters, labels, numbers, logos, speech bubbles, border, collage or watermark. Fixed static composition, no motion streaks. Reserve the bottom 30% as low-detail background for later subtitles; keep faces and important actions in upper 68%.\n\nScene: 同一木屋餐厅与餐桌.\nExact moment: 同一木屋餐厅桌面近景：搪瓷小水壶稳稳坐在同一块圆形软木隔热垫上，壶身圆润浅奶油色带细蓝边，壶嘴冒出细细白水汽；皮皮与两位朋友在暖灯下做松果小人。\nNarration this still must represent: 壶嘴里正冒出一缕缕淡淡的、白色的水汽。\nVisible characters: no characters; objects only. Exactly 0 animal character(s), each appears once. Do not add characters when count is zero. Preserve the repeated prop identities and positions described in this scene. Steam is only faint white water vapor, never a living cloud. Pipi is a warm-gray rabbit with round face, pink nose, naturally drooping long ears; preserve the referenced identity. Expressions are scene-specific, calm and natural, not default sad or sleepy. No unmentioned actions or props.",
+      "reference_inputs": [],
+      "reference_roles": []
+    },
+    {
+      "id": 7,
+      "title": "镜头07",
+      "paragraph_id": "p002",
+      "text": "\n皮皮端着小托盘，给芽芽倒了一杯甜甜的苹果茶，",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u05",
+          "start_char": 0,
+          "end_char": 23
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "visual_description": "同一餐厅、同一张木桌与暖灯。皮皮端着小托盘，为小鹿芽芽倒苹果茶、为小熊绒绒倒蜂蜜水；三只彩色小杯排在一起，松果小人摆满桌面，朋友们愉快交谈。",
+      "setting": "同一木屋餐厅与餐桌",
+      "continuity_refs": [
+        "ep026_enamel_kettle",
+        "ep026_cork_trivet",
+        "ep026_wooden_tray",
+        "ep026_three_cups",
+        "ep026_pinecone_figures"
+      ],
+      "state_before": "沿用前镜已建立的同一餐厅/卧室布局与物件外观；仅发生旁白明确描述的动作。",
+      "state_after": "按本镜口播更新物件与角色状态，不增添无依据的移动或变化。",
+      "transition_from": 6,
+      "motion": "fixed",
+      "image": "images/shot_07.png",
+      "prompt_file": "illustration-prompts/shot_07.txt",
+      "reference_manifest": "references/shot_07.json",
+      "speech_start_s": 55.14966666666666,
+      "speech_end_s": 61.40937399999999,
+      "actual_start_s": 54.8,
+      "actual_end_s": 61.64,
+      "visible_start_s": 54.32,
+      "visible_end_s": 62.12,
+      "visible_duration_s": 7.8,
+      "prompt": "Create ONE original full-bleed vertical 9:16 children's bedtime story illustration, hand-painted soft watercolor on fine paper, gentle muted colors, rounded forms, warm natural indoor lamp light, subtle paper grain. Never render any text, letters, labels, numbers, logos, speech bubbles, border, collage or watermark. Fixed static composition, no motion streaks. Reserve the bottom 30% as low-detail background for later subtitles; keep faces and important actions in upper 68%.\nInput 1 is the verified identity/wardrobe reference for 皮皮 (pipi): 暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。; outfit day_v001. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nScene: 同一木屋餐厅与餐桌.\nExact moment: 同一餐厅、同一张木桌与暖灯。皮皮端着小托盘，为小鹿芽芽倒苹果茶、为小熊绒绒倒蜂蜜水；三只彩色小杯排在一起，松果小人摆满桌面，朋友们愉快交谈。\nNarration this still must represent: \n皮皮端着小托盘，给芽芽倒了一杯甜甜的苹果茶，\nVisible characters: 皮皮. Exactly 1 animal character(s), each appears once. Do not add characters when count is zero. Preserve the repeated prop identities and positions described in this scene. Steam is only faint white water vapor, never a living cloud. Pipi is a warm-gray rabbit with round face, pink nose, naturally drooping long ears; preserve the referenced identity. Expressions are scene-specific, calm and natural, not default sad or sleepy. No unmentioned actions or props.",
+      "reference_inputs": [
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+      ],
+      "reference_roles": [
+        {
+          "id": "pipi",
+          "name": "皮皮",
+          "anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+          "outfit": "day_v001",
+          "paths": [
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "镜头08",
+      "paragraph_id": "p002",
+      "text": "又给绒绒倒了一杯香香的蜂蜜水。三只彩色的小杯子在桌上排着队，",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u06",
+          "start_char": 0,
+          "end_char": 15
+        },
+        {
+          "unit_id": "p002_u07",
+          "start_char": 0,
+          "end_char": 15
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "visual_description": "同一餐厅、同一张木桌与暖灯。皮皮端着小托盘，为小鹿芽芽倒苹果茶、为小熊绒绒倒蜂蜜水；三只彩色小杯排在一起，松果小人摆满桌面，朋友们愉快交谈。",
+      "setting": "同一木屋餐厅与餐桌",
+      "continuity_refs": [
+        "ep026_enamel_kettle",
+        "ep026_cork_trivet",
+        "ep026_wooden_tray",
+        "ep026_three_cups",
+        "ep026_pinecone_figures"
+      ],
+      "state_before": "沿用前镜已建立的同一餐厅/卧室布局与物件外观；仅发生旁白明确描述的动作。",
+      "state_after": "按本镜口播更新物件与角色状态，不增添无依据的移动或变化。",
+      "transition_from": 7,
+      "motion": "fixed",
+      "image": "images/shot_08.png",
+      "prompt_file": "illustration-prompts/shot_08.txt",
+      "reference_manifest": "references/shot_08.json",
+      "speech_start_s": 61.83354166666666,
+      "speech_end_s": 71.070208,
+      "actual_start_s": 61.64,
+      "actual_end_s": 71.28,
+      "visible_start_s": 61.160000000000004,
+      "visible_end_s": 71.76,
+      "visible_duration_s": 10.6,
+      "prompt": "Create ONE original full-bleed vertical 9:16 children's bedtime story illustration, hand-painted soft watercolor on fine paper, gentle muted colors, rounded forms, warm natural indoor lamp light, subtle paper grain. Never render any text, letters, labels, numbers, logos, speech bubbles, border, collage or watermark. Fixed static composition, no motion streaks. Reserve the bottom 30% as low-detail background for later subtitles; keep faces and important actions in upper 68%.\nInput 1 is the verified identity/wardrobe reference for 皮皮 (pipi): 暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。; outfit day_v001. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nScene: 同一木屋餐厅与餐桌.\nExact moment: 同一餐厅、同一张木桌与暖灯。皮皮端着小托盘，为小鹿芽芽倒苹果茶、为小熊绒绒倒蜂蜜水；三只彩色小杯排在一起，松果小人摆满桌面，朋友们愉快交谈。\nNarration this still must represent: 又给绒绒倒了一杯香香的蜂蜜水。三只彩色的小杯子在桌上排着队，\nVisible characters: 皮皮. Exactly 1 animal character(s), each appears once. Do not add characters when count is zero. Preserve the repeated prop identities and positions described in this scene. Steam is only faint white water vapor, never a living cloud. Pipi is a warm-gray rabbit with round face, pink nose, naturally drooping long ears; preserve the referenced identity. Expressions are scene-specific, calm and natural, not default sad or sleepy. No unmentioned actions or props.",
+      "reference_inputs": [
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+      ],
+      "reference_roles": [
+        {
+          "id": "pipi",
+          "name": "皮皮",
+          "anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+          "outfit": "day_v001",
+          "paths": [
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "镜头09",
+      "paragraph_id": "p002",
+      "text": "大家一边喝茶，一边把做好的松果小人摆满桌面，屋子里充满了欢声笑语。",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u08",
+          "start_char": 0,
+          "end_char": 22
+        },
+        {
+          "unit_id": "p002_u09",
+          "start_char": 0,
+          "end_char": 11
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "visual_description": "同一餐厅、同一张木桌与暖灯。皮皮端着小托盘，为小鹿芽芽倒苹果茶、为小熊绒绒倒蜂蜜水；三只彩色小杯排在一起，松果小人摆满桌面，朋友们愉快交谈。",
+      "setting": "同一木屋餐厅与餐桌",
+      "continuity_refs": [
+        "ep026_enamel_kettle",
+        "ep026_cork_trivet",
+        "ep026_wooden_tray",
+        "ep026_three_cups",
+        "ep026_pinecone_figures"
+      ],
+      "state_before": "沿用前镜已建立的同一餐厅/卧室布局与物件外观；仅发生旁白明确描述的动作。",
+      "state_after": "按本镜口播更新物件与角色状态，不增添无依据的移动或变化。",
+      "transition_from": 8,
+      "motion": "fixed",
+      "image": "images/shot_09.png",
+      "prompt_file": "illustration-prompts/shot_09.txt",
+      "reference_manifest": "references/shot_09.json",
+      "speech_start_s": 71.4741875,
+      "speech_end_s": 81.45554133333334,
+      "actual_start_s": 71.28,
+      "actual_end_s": 81.84,
+      "visible_start_s": 70.8,
+      "visible_end_s": 82.32000000000001,
+      "visible_duration_s": 11.52,
+      "prompt": "Create ONE original full-bleed vertical 9:16 children's bedtime story illustration, hand-painted soft watercolor on fine paper, gentle muted colors, rounded forms, warm natural indoor lamp light, subtle paper grain. Never render any text, letters, labels, numbers, logos, speech bubbles, border, collage or watermark. Fixed static composition, no motion streaks. Reserve the bottom 30% as low-detail background for later subtitles; keep faces and important actions in upper 68%.\nInput 1 is the verified identity/wardrobe reference for 皮皮 (pipi): 暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。; outfit day_v001. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nScene: 同一木屋餐厅与餐桌.\nExact moment: 同一餐厅、同一张木桌与暖灯。皮皮端着小托盘，为小鹿芽芽倒苹果茶、为小熊绒绒倒蜂蜜水；三只彩色小杯排在一起，松果小人摆满桌面，朋友们愉快交谈。\nNarration this still must represent: 大家一边喝茶，一边把做好的松果小人摆满桌面，屋子里充满了欢声笑语。\nVisible characters: 皮皮. Exactly 1 animal character(s), each appears once. Do not add characters when count is zero. Preserve the repeated prop identities and positions described in this scene. Steam is only faint white water vapor, never a living cloud. Pipi is a warm-gray rabbit with round face, pink nose, naturally drooping long ears; preserve the referenced identity. Expressions are scene-specific, calm and natural, not default sad or sleepy. No unmentioned actions or props.",
+      "reference_inputs": [
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+      ],
+      "reference_roles": [
+        {
+          "id": "pipi",
+          "name": "皮皮",
+          "anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+          "outfit": "day_v001",
+          "paths": [
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "镜头10",
+      "paragraph_id": "p003",
+      "text": "等好朋友们心满意足地道别回家后，皮皮开始收拾小餐桌。",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u01",
+          "start_char": 0,
+          "end_char": 16
+        },
+        {
+          "unit_id": "p003_u02",
+          "start_char": 0,
+          "end_char": 10
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "visual_description": "朋友们已道别离开；餐厅仍是同一暖灯和木桌。皮皮独自把三只喝空的小彩杯逐只洗净，整齐放回小木托盘，神情平静专注。",
+      "setting": "同一餐厅收拾桌面",
+      "continuity_refs": [
+        "ep026_enamel_kettle",
+        "ep026_cork_trivet",
+        "ep026_last_steam"
+      ],
+      "state_before": "沿用前镜已建立的同一餐厅/卧室布局与物件外观；仅发生旁白明确描述的动作。",
+      "state_after": "按本镜口播更新物件与角色状态，不增添无依据的移动或变化。",
+      "transition_from": 9,
+      "motion": "fixed",
+      "image": "images/shot_10.png",
+      "prompt_file": "illustration-prompts/shot_10.txt",
+      "reference_manifest": "references/shot_10.json",
+      "speech_start_s": 82.20235416666667,
+      "speech_end_s": 89.873791,
+      "actual_start_s": 81.84,
+      "actual_end_s": 90.24,
+      "visible_start_s": 81.36,
+      "visible_end_s": 90.72,
+      "visible_duration_s": 9.36,
+      "prompt": "Create ONE original full-bleed vertical 9:16 children's bedtime story illustration, hand-painted soft watercolor on fine paper, gentle muted colors, rounded forms, warm natural indoor lamp light, subtle paper grain. Never render any text, letters, labels, numbers, logos, speech bubbles, border, collage or watermark. Fixed static composition, no motion streaks. Reserve the bottom 30% as low-detail background for later subtitles; keep faces and important actions in upper 68%.\nInput 1 is the verified identity/wardrobe reference for 皮皮 (pipi): 暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。; outfit day_v001. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nScene: 同一餐厅收拾桌面.\nExact moment: 朋友们已道别离开；餐厅仍是同一暖灯和木桌。皮皮独自把三只喝空的小彩杯逐只洗净，整齐放回小木托盘，神情平静专注。\nNarration this still must represent: 等好朋友们心满意足地道别回家后，皮皮开始收拾小餐桌。\nVisible characters: 皮皮. Exactly 1 animal character(s), each appears once. Do not add characters when count is zero. Preserve the repeated prop identities and positions described in this scene. Steam is only faint white water vapor, never a living cloud. Pipi is a warm-gray rabbit with round face, pink nose, naturally drooping long ears; preserve the referenced identity. Expressions are scene-specific, calm and natural, not default sad or sleepy. No unmentioned actions or props.",
+      "reference_inputs": [
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+      ],
+      "reference_roles": [
+        {
+          "id": "pipi",
+          "name": "皮皮",
+          "anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+          "outfit": "day_v001",
+          "paths": [
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "镜头11",
+      "paragraph_id": "p003",
+      "text": "\n他把喝空的小杯子一只只洗干净，放回木托盘里。",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u03",
+          "start_char": 0,
+          "end_char": 16
+        },
+        {
+          "unit_id": "p003_u04",
+          "start_char": 0,
+          "end_char": 7
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "visual_description": "朋友们已道别离开；餐厅仍是同一暖灯和木桌。皮皮独自把三只喝空的小彩杯逐只洗净，整齐放回小木托盘，神情平静专注。",
+      "setting": "同一餐厅收拾桌面",
+      "continuity_refs": [
+        "ep026_enamel_kettle",
+        "ep026_cork_trivet",
+        "ep026_last_steam",
+        "ep026_wooden_tray",
+        "ep026_three_cups"
+      ],
+      "state_before": "沿用前镜已建立的同一餐厅/卧室布局与物件外观；仅发生旁白明确描述的动作。",
+      "state_after": "按本镜口播更新物件与角色状态，不增添无依据的移动或变化。",
+      "transition_from": 10,
+      "motion": "fixed",
+      "image": "images/shot_11.png",
+      "prompt_file": "illustration-prompts/shot_11.txt",
+      "reference_manifest": "references/shot_11.json",
+      "speech_start_s": 90.5731875,
+      "speech_end_s": 97.33068750000001,
+      "actual_start_s": 90.24,
+      "actual_end_s": 97.68,
+      "visible_start_s": 89.75999999999999,
+      "visible_end_s": 98.16000000000001,
+      "visible_duration_s": 8.4,
+      "prompt": "Create ONE original full-bleed vertical 9:16 children's bedtime story illustration, hand-painted soft watercolor on fine paper, gentle muted colors, rounded forms, warm natural indoor lamp light, subtle paper grain. Never render any text, letters, labels, numbers, logos, speech bubbles, border, collage or watermark. Fixed static composition, no motion streaks. Reserve the bottom 30% as low-detail background for later subtitles; keep faces and important actions in upper 68%.\nInput 1 is the verified identity/wardrobe reference for 皮皮 (pipi): 暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。; outfit day_v001. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nScene: 同一餐厅收拾桌面.\nExact moment: 朋友们已道别离开；餐厅仍是同一暖灯和木桌。皮皮独自把三只喝空的小彩杯逐只洗净，整齐放回小木托盘，神情平静专注。\nNarration this still must represent: \n他把喝空的小杯子一只只洗干净，放回木托盘里。\nVisible characters: 皮皮. Exactly 1 animal character(s), each appears once. Do not add characters when count is zero. Preserve the repeated prop identities and positions described in this scene. Steam is only faint white water vapor, never a living cloud. Pipi is a warm-gray rabbit with round face, pink nose, naturally drooping long ears; preserve the referenced identity. Expressions are scene-specific, calm and natural, not default sad or sleepy. No unmentioned actions or props.",
+      "reference_inputs": [
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+      ],
+      "reference_roles": [
+        {
+          "id": "pipi",
+          "name": "皮皮",
+          "anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+          "outfit": "day_v001",
+          "paths": [
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "镜头12",
+      "paragraph_id": "p003",
+      "text": "就在他擦干手的时候，他看见桌上的搪瓷小水壶旁边，",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u05",
+          "start_char": 0,
+          "end_char": 24
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "visual_description": "朋友们已道别离开；餐厅仍是同一暖灯和木桌。皮皮独自把三只喝空的小彩杯逐只洗净，整齐放回小木托盘，神情平静专注。",
+      "setting": "同一餐厅收拾桌面",
+      "continuity_refs": [
+        "ep026_enamel_kettle",
+        "ep026_cork_trivet",
+        "ep026_last_steam",
+        "ep026_wooden_tray",
+        "ep026_three_cups"
+      ],
+      "state_before": "沿用前镜已建立的同一餐厅/卧室布局与物件外观；仅发生旁白明确描述的动作。",
+      "state_after": "按本镜口播更新物件与角色状态，不增添无依据的移动或变化。",
+      "transition_from": 11,
+      "motion": "fixed",
+      "image": "images/shot_12.png",
+      "prompt_file": "illustration-prompts/shot_12.txt",
+      "reference_manifest": "references/shot_12.json",
+      "speech_start_s": 98.04139583333334,
+      "speech_end_s": 104.99324966666667,
+      "actual_start_s": 97.68,
+      "actual_end_s": 105.2,
+      "visible_start_s": 97.2,
+      "visible_end_s": 105.68,
+      "visible_duration_s": 8.48,
+      "prompt": "Create ONE original full-bleed vertical 9:16 children's bedtime story illustration, hand-painted soft watercolor on fine paper, gentle muted colors, rounded forms, warm natural indoor lamp light, subtle paper grain. Never render any text, letters, labels, numbers, logos, speech bubbles, border, collage or watermark. Fixed static composition, no motion streaks. Reserve the bottom 30% as low-detail background for later subtitles; keep faces and important actions in upper 68%.\nInput 1 is the verified identity/wardrobe reference for 皮皮 (pipi): 暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。; outfit day_v001. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nScene: 同一餐厅收拾桌面.\nExact moment: 朋友们已道别离开；餐厅仍是同一暖灯和木桌。皮皮独自把三只喝空的小彩杯逐只洗净，整齐放回小木托盘，神情平静专注。\nNarration this still must represent: 就在他擦干手的时候，他看见桌上的搪瓷小水壶旁边，\nVisible characters: 皮皮. Exactly 1 animal character(s), each appears once. Do not add characters when count is zero. Preserve the repeated prop identities and positions described in this scene. Steam is only faint white water vapor, never a living cloud. Pipi is a warm-gray rabbit with round face, pink nose, naturally drooping long ears; preserve the referenced identity. Expressions are scene-specific, calm and natural, not default sad or sleepy. No unmentioned actions or props.",
+      "reference_inputs": [
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+      ],
+      "reference_roles": [
+        {
+          "id": "pipi",
+          "name": "皮皮",
+          "anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+          "outfit": "day_v001",
+          "paths": [
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "镜头13",
+      "paragraph_id": "p003",
+      "text": "还飘着最后一缕淡淡的白色水汽。",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u06",
+          "start_char": 0,
+          "end_char": 15
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "visual_description": "餐厅木桌静物与皮皮视角：同一奶油白搪瓷水壶仍坐在软木垫上，壶嘴旁只余最后一缕淡白水汽；空木桌安静下来。",
+      "setting": "同一餐厅收拾桌面",
+      "continuity_refs": [
+        "ep026_enamel_kettle",
+        "ep026_cork_trivet",
+        "ep026_last_steam"
+      ],
+      "state_before": "沿用前镜已建立的同一餐厅/卧室布局与物件外观；仅发生旁白明确描述的动作。",
+      "state_after": "按本镜口播更新物件与角色状态，不增添无依据的移动或变化。",
+      "transition_from": 12,
+      "motion": "fixed",
+      "image": "images/shot_13.png",
+      "prompt_file": "illustration-prompts/shot_13.txt",
+      "reference_manifest": "references/shot_13.json",
+      "speech_start_s": 105.42670833333334,
+      "speech_end_s": 109.65368683333334,
+      "actual_start_s": 105.2,
+      "actual_end_s": 110.04,
+      "visible_start_s": 104.72,
+      "visible_end_s": 110.52000000000001,
+      "visible_duration_s": 5.8,
+      "prompt": "Create ONE original full-bleed vertical 9:16 children's bedtime story illustration, hand-painted soft watercolor on fine paper, gentle muted colors, rounded forms, warm natural indoor lamp light, subtle paper grain. Never render any text, letters, labels, numbers, logos, speech bubbles, border, collage or watermark. Fixed static composition, no motion streaks. Reserve the bottom 30% as low-detail background for later subtitles; keep faces and important actions in upper 68%.\nInput 1 is the verified identity/wardrobe reference for 皮皮 (pipi): 暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。; outfit day_v001. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nScene: 同一餐厅收拾桌面.\nExact moment: 餐厅木桌静物与皮皮视角：同一奶油白搪瓷水壶仍坐在软木垫上，壶嘴旁只余最后一缕淡白水汽；空木桌安静下来。\nNarration this still must represent: 还飘着最后一缕淡淡的白色水汽。\nVisible characters: 皮皮. Exactly 1 animal character(s), each appears once. Do not add characters when count is zero. Preserve the repeated prop identities and positions described in this scene. Steam is only faint white water vapor, never a living cloud. Pipi is a warm-gray rabbit with round face, pink nose, naturally drooping long ears; preserve the referenced identity. Expressions are scene-specific, calm and natural, not default sad or sleepy. No unmentioned actions or props.",
+      "reference_inputs": [
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+      ],
+      "reference_roles": [
+        {
+          "id": "pipi",
+          "name": "皮皮",
+          "anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+          "outfit": "day_v001",
+          "paths": [
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "镜头14",
+      "paragraph_id": "p004",
+      "text": "皮皮没有急着走开，而是隔着桌子，",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u01",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "visual_description": "特写同一缕水汽在木屋餐厅暖黄灯光中被轻风拉成长长的白色小围巾形状，边缘逐渐变淡；下方同一只搪瓷壶与软木垫保持原位，皮皮远处静静观察。",
+      "setting": "同一餐厅观察水汽",
+      "continuity_refs": [
+        "ep026_enamel_kettle",
+        "ep026_cork_trivet",
+        "ep026_last_steam"
+      ],
+      "state_before": "沿用前镜已建立的同一餐厅/卧室布局与物件外观；仅发生旁白明确描述的动作。",
+      "state_after": "按本镜口播更新物件与角色状态，不增添无依据的移动或变化。",
+      "transition_from": 13,
+      "motion": "fixed",
+      "image": "images/shot_14.png",
+      "prompt_file": "illustration-prompts/shot_14.txt",
+      "reference_manifest": "references/shot_14.json",
+      "speech_start_s": 110.39470833333334,
+      "speech_end_s": 114.81085416666667,
+      "actual_start_s": 110.04,
+      "actual_end_s": 115.04,
+      "visible_start_s": 109.56,
+      "visible_end_s": 115.52000000000001,
+      "visible_duration_s": 5.96,
+      "prompt": "Create ONE original full-bleed vertical 9:16 children's bedtime story illustration, hand-painted soft watercolor on fine paper, gentle muted colors, rounded forms, warm natural indoor lamp light, subtle paper grain. Never render any text, letters, labels, numbers, logos, speech bubbles, border, collage or watermark. Fixed static composition, no motion streaks. Reserve the bottom 30% as low-detail background for later subtitles; keep faces and important actions in upper 68%.\nInput 1 is the verified identity/wardrobe reference for 皮皮 (pipi): 暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。; outfit day_v001. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nScene: 同一餐厅观察水汽.\nExact moment: 特写同一缕水汽在木屋餐厅暖黄灯光中被轻风拉成长长的白色小围巾形状，边缘逐渐变淡；下方同一只搪瓷壶与软木垫保持原位，皮皮远处静静观察。\nNarration this still must represent: 皮皮没有急着走开，而是隔着桌子，\nVisible characters: 皮皮. Exactly 1 animal character(s), each appears once. Do not add characters when count is zero. Preserve the repeated prop identities and positions described in this scene. Steam is only faint white water vapor, never a living cloud. Pipi is a warm-gray rabbit with round face, pink nose, naturally drooping long ears; preserve the referenced identity. Expressions are scene-specific, calm and natural, not default sad or sleepy. No unmentioned actions or props.",
+      "reference_inputs": [
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+      ],
+      "reference_roles": [
+        {
+          "id": "pipi",
+          "name": "皮皮",
+          "anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+          "outfit": "day_v001",
+          "paths": [
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "镜头15",
+      "paragraph_id": "p004",
+      "text": "双手托着下巴，静静地看那缕水汽慢慢散开。",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u02",
+          "start_char": 0,
+          "end_char": 20
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "visual_description": "特写同一缕水汽在木屋餐厅暖黄灯光中被轻风拉成长长的白色小围巾形状，边缘逐渐变淡；下方同一只搪瓷壶与软木垫保持原位，皮皮远处静静观察。",
+      "setting": "同一餐厅观察水汽",
+      "continuity_refs": [
+        "ep026_enamel_kettle",
+        "ep026_cork_trivet",
+        "ep026_last_steam"
+      ],
+      "state_before": "沿用前镜已建立的同一餐厅/卧室布局与物件外观；仅发生旁白明确描述的动作。",
+      "state_after": "按本镜口播更新物件与角色状态，不增添无依据的移动或变化。",
+      "transition_from": 14,
+      "motion": "fixed",
+      "image": "images/shot_15.png",
+      "prompt_file": "illustration-prompts/shot_15.txt",
+      "reference_manifest": "references/shot_15.json",
+      "speech_start_s": 115.25543750000001,
+      "speech_end_s": 121.50597850000001,
+      "actual_start_s": 115.04,
+      "actual_end_s": 121.88,
+      "visible_start_s": 114.56,
+      "visible_end_s": 122.36,
+      "visible_duration_s": 7.8,
+      "prompt": "Create ONE original full-bleed vertical 9:16 children's bedtime story illustration, hand-painted soft watercolor on fine paper, gentle muted colors, rounded forms, warm natural indoor lamp light, subtle paper grain. Never render any text, letters, labels, numbers, logos, speech bubbles, border, collage or watermark. Fixed static composition, no motion streaks. Reserve the bottom 30% as low-detail background for later subtitles; keep faces and important actions in upper 68%.\nInput 1 is the verified identity/wardrobe reference for 皮皮 (pipi): 暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。; outfit day_v001. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nScene: 同一餐厅观察水汽.\nExact moment: 特写同一缕水汽在木屋餐厅暖黄灯光中被轻风拉成长长的白色小围巾形状，边缘逐渐变淡；下方同一只搪瓷壶与软木垫保持原位，皮皮远处静静观察。\nNarration this still must represent: 双手托着下巴，静静地看那缕水汽慢慢散开。\nVisible characters: 皮皮. Exactly 1 animal character(s), each appears once. Do not add characters when count is zero. Preserve the repeated prop identities and positions described in this scene. Steam is only faint white water vapor, never a living cloud. Pipi is a warm-gray rabbit with round face, pink nose, naturally drooping long ears; preserve the referenced identity. Expressions are scene-specific, calm and natural, not default sad or sleepy. No unmentioned actions or props.",
+      "reference_inputs": [
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+      ],
+      "reference_roles": [
+        {
+          "id": "pipi",
+          "name": "皮皮",
+          "anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+          "outfit": "day_v001",
+          "paths": [
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "镜头16",
+      "paragraph_id": "p004",
+      "text": "\n那团白白的小水汽，刚从壶嘴飘出来的时候，弯弯的，像一片轻巧的羽毛叶子；",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u03",
+          "start_char": 0,
+          "end_char": 21
+        },
+        {
+          "unit_id": "p004_u04",
+          "start_char": 0,
+          "end_char": 15
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "visual_description": "皮皮隔着桌子双手托腮安静凝望；同一小水壶壶嘴飘出最后一缕白汽，刚离壶时弯成轻巧羽毛叶片的轮廓，轻盈而自然，不是实体物件。",
+      "setting": "同一餐厅观察水汽",
+      "continuity_refs": [
+        "ep026_enamel_kettle",
+        "ep026_cork_trivet",
+        "ep026_last_steam"
+      ],
+      "state_before": "沿用前镜已建立的同一餐厅/卧室布局与物件外观；仅发生旁白明确描述的动作。",
+      "state_after": "按本镜口播更新物件与角色状态，不增添无依据的移动或变化。",
+      "transition_from": 15,
+      "motion": "fixed",
+      "image": "images/shot_16.png",
+      "prompt_file": "illustration-prompts/shot_16.txt",
+      "reference_manifest": "references/shot_16.json",
+      "speech_start_s": 122.25425000000001,
+      "speech_end_s": 132.49543683333334,
+      "actual_start_s": 121.88,
+      "actual_end_s": 132.72,
+      "visible_start_s": 121.39999999999999,
+      "visible_end_s": 133.2,
+      "visible_duration_s": 11.8,
+      "prompt": "Create ONE original full-bleed vertical 9:16 children's bedtime story illustration, hand-painted soft watercolor on fine paper, gentle muted colors, rounded forms, warm natural indoor lamp light, subtle paper grain. Never render any text, letters, labels, numbers, logos, speech bubbles, border, collage or watermark. Fixed static composition, no motion streaks. Reserve the bottom 30% as low-detail background for later subtitles; keep faces and important actions in upper 68%.\nInput 1 is the verified identity/wardrobe reference for 皮皮 (pipi): 暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。; outfit day_v001. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nScene: 同一餐厅观察水汽.\nExact moment: 皮皮隔着桌子双手托腮安静凝望；同一小水壶壶嘴飘出最后一缕白汽，刚离壶时弯成轻巧羽毛叶片的轮廓，轻盈而自然，不是实体物件。\nNarration this still must represent: \n那团白白的小水汽，刚从壶嘴飘出来的时候，弯弯的，像一片轻巧的羽毛叶子；\nVisible characters: 皮皮. Exactly 1 animal character(s), each appears once. Do not add characters when count is zero. Preserve the repeated prop identities and positions described in this scene. Steam is only faint white water vapor, never a living cloud. Pipi is a warm-gray rabbit with round face, pink nose, naturally drooping long ears; preserve the referenced identity. Expressions are scene-specific, calm and natural, not default sad or sleepy. No unmentioned actions or props.",
+      "reference_inputs": [
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+      ],
+      "reference_roles": [
+        {
+          "id": "pipi",
+          "name": "皮皮",
+          "anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+          "outfit": "day_v001",
+          "paths": [
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "镜头17",
+      "paragraph_id": "p004",
+      "text": "往上升了一点后，被屋里的微风一吹，又拉得长长的，像一条细细的白色小围巾，",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u05",
+          "start_char": 0,
+          "end_char": 17
+        },
+        {
+          "unit_id": "p004_u06",
+          "start_char": 0,
+          "end_char": 19
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "visual_description": "特写同一缕水汽在木屋餐厅暖黄灯光中被轻风拉成长长的白色小围巾形状，边缘逐渐变淡；下方同一只搪瓷壶与软木垫保持原位，皮皮远处静静观察。",
+      "setting": "同一餐厅观察水汽",
+      "continuity_refs": [
+        "ep026_enamel_kettle",
+        "ep026_cork_trivet",
+        "ep026_last_steam"
+      ],
+      "state_before": "沿用前镜已建立的同一餐厅/卧室布局与物件外观；仅发生旁白明确描述的动作。",
+      "state_after": "按本镜口播更新物件与角色状态，不增添无依据的移动或变化。",
+      "transition_from": 16,
+      "motion": "fixed",
+      "image": "images/shot_17.png",
+      "prompt_file": "illustration-prompts/shot_17.txt",
+      "reference_manifest": "references/shot_17.json",
+      "speech_start_s": 132.958875,
+      "speech_end_s": 143.3280625,
+      "actual_start_s": 132.72,
+      "actual_end_s": 143.56,
+      "visible_start_s": 132.24,
+      "visible_end_s": 144.04,
+      "visible_duration_s": 11.8,
+      "prompt": "Create ONE original full-bleed vertical 9:16 children's bedtime story illustration, hand-painted soft watercolor on fine paper, gentle muted colors, rounded forms, warm natural indoor lamp light, subtle paper grain. Never render any text, letters, labels, numbers, logos, speech bubbles, border, collage or watermark. Fixed static composition, no motion streaks. Reserve the bottom 30% as low-detail background for later subtitles; keep faces and important actions in upper 68%.\nInput 1 is the verified identity/wardrobe reference for 皮皮 (pipi): 暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。; outfit day_v001. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nScene: 同一餐厅观察水汽.\nExact moment: 特写同一缕水汽在木屋餐厅暖黄灯光中被轻风拉成长长的白色小围巾形状，边缘逐渐变淡；下方同一只搪瓷壶与软木垫保持原位，皮皮远处静静观察。\nNarration this still must represent: 往上升了一点后，被屋里的微风一吹，又拉得长长的，像一条细细的白色小围巾，\nVisible characters: 皮皮. Exactly 1 animal character(s), each appears once. Do not add characters when count is zero. Preserve the repeated prop identities and positions described in this scene. Steam is only faint white water vapor, never a living cloud. Pipi is a warm-gray rabbit with round face, pink nose, naturally drooping long ears; preserve the referenced identity. Expressions are scene-specific, calm and natural, not default sad or sleepy. No unmentioned actions or props.",
+      "reference_inputs": [
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+      ],
+      "reference_roles": [
+        {
+          "id": "pipi",
+          "name": "皮皮",
+          "anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+          "outfit": "day_v001",
+          "paths": [
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "镜头18",
+      "paragraph_id": "p004",
+      "text": "完全没有固定的样子。",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u07",
+          "start_char": 0,
+          "end_char": 10
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "visual_description": "特写同一缕水汽在木屋餐厅暖黄灯光中被轻风拉成长长的白色小围巾形状，边缘逐渐变淡；下方同一只搪瓷壶与软木垫保持原位，皮皮远处静静观察。",
+      "setting": "同一餐厅观察水汽",
+      "continuity_refs": [
+        "ep026_enamel_kettle",
+        "ep026_cork_trivet",
+        "ep026_last_steam"
+      ],
+      "state_before": "沿用前镜已建立的同一餐厅/卧室布局与物件外观；仅发生旁白明确描述的动作。",
+      "state_after": "按本镜口播更新物件与角色状态，不增添无依据的移动或变化。",
+      "transition_from": 17,
+      "motion": "fixed",
+      "image": "images/shot_18.png",
+      "prompt_file": "illustration-prompts/shot_18.txt",
+      "reference_manifest": "references/shot_18.json",
+      "speech_start_s": 143.7684375,
+      "speech_end_s": 146.20966533333333,
+      "actual_start_s": 143.56,
+      "actual_end_s": 146.6,
+      "visible_start_s": 143.08,
+      "visible_end_s": 147.07999999999998,
+      "visible_duration_s": 4.0,
+      "prompt": "Create ONE original full-bleed vertical 9:16 children's bedtime story illustration, hand-painted soft watercolor on fine paper, gentle muted colors, rounded forms, warm natural indoor lamp light, subtle paper grain. Never render any text, letters, labels, numbers, logos, speech bubbles, border, collage or watermark. Fixed static composition, no motion streaks. Reserve the bottom 30% as low-detail background for later subtitles; keep faces and important actions in upper 68%.\nInput 1 is the verified identity/wardrobe reference for 皮皮 (pipi): 暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。; outfit day_v001. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nScene: 同一餐厅观察水汽.\nExact moment: 特写同一缕水汽在木屋餐厅暖黄灯光中被轻风拉成长长的白色小围巾形状，边缘逐渐变淡；下方同一只搪瓷壶与软木垫保持原位，皮皮远处静静观察。\nNarration this still must represent: 完全没有固定的样子。\nVisible characters: 皮皮. Exactly 1 animal character(s), each appears once. Do not add characters when count is zero. Preserve the repeated prop identities and positions described in this scene. Steam is only faint white water vapor, never a living cloud. Pipi is a warm-gray rabbit with round face, pink nose, naturally drooping long ears; preserve the referenced identity. Expressions are scene-specific, calm and natural, not default sad or sleepy. No unmentioned actions or props.",
+      "reference_inputs": [
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+      ],
+      "reference_roles": [
+        {
+          "id": "pipi",
+          "name": "皮皮",
+          "anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+          "outfit": "day_v001",
+          "paths": [
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "镜头19",
+      "paragraph_id": "p005",
+      "text": "皮皮没有伸出小爪子去抓它、扇它，只是把托盘往旁边挪了挪，",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u01",
+          "start_char": 0,
+          "end_char": 13
+        },
+        {
+          "unit_id": "p005_u02",
+          "start_char": 0,
+          "end_char": 15
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "visual_description": "皮皮用干布巾仔细擦去同一木桌角浅浅的水印，随后轻轻合上餐边柜的小木门，神情满足、动作不急。",
+      "setting": "同一餐厅慢慢收尾",
+      "continuity_refs": [
+        "ep026_enamel_kettle",
+        "ep026_cork_trivet",
+        "ep026_last_steam",
+        "ep026_wooden_tray",
+        "ep026_three_cups"
+      ],
+      "state_before": "沿用前镜已建立的同一餐厅/卧室布局与物件外观；仅发生旁白明确描述的动作。",
+      "state_after": "按本镜口播更新物件与角色状态，不增添无依据的移动或变化。",
+      "transition_from": 18,
+      "motion": "fixed",
+      "image": "images/shot_19.png",
+      "prompt_file": "illustration-prompts/shot_19.txt",
+      "reference_manifest": "references/shot_19.json",
+      "speech_start_s": 146.9555,
+      "speech_end_s": 155.29922883333333,
+      "actual_start_s": 146.6,
+      "actual_end_s": 155.48,
+      "visible_start_s": 146.12,
+      "visible_end_s": 155.95999999999998,
+      "visible_duration_s": 9.84,
+      "prompt": "Create ONE original full-bleed vertical 9:16 children's bedtime story illustration, hand-painted soft watercolor on fine paper, gentle muted colors, rounded forms, warm natural indoor lamp light, subtle paper grain. Never render any text, letters, labels, numbers, logos, speech bubbles, border, collage or watermark. Fixed static composition, no motion streaks. Reserve the bottom 30% as low-detail background for later subtitles; keep faces and important actions in upper 68%.\nInput 1 is the verified identity/wardrobe reference for 皮皮 (pipi): 暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。; outfit day_v001. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nScene: 同一餐厅慢慢收尾.\nExact moment: 皮皮用干布巾仔细擦去同一木桌角浅浅的水印，随后轻轻合上餐边柜的小木门，神情满足、动作不急。\nNarration this still must represent: 皮皮没有伸出小爪子去抓它、扇它，只是把托盘往旁边挪了挪，\nVisible characters: 皮皮. Exactly 1 animal character(s), each appears once. Do not add characters when count is zero. Preserve the repeated prop identities and positions described in this scene. Steam is only faint white water vapor, never a living cloud. Pipi is a warm-gray rabbit with round face, pink nose, naturally drooping long ears; preserve the referenced identity. Expressions are scene-specific, calm and natural, not default sad or sleepy. No unmentioned actions or props.",
+      "reference_inputs": [
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+      ],
+      "reference_roles": [
+        {
+          "id": "pipi",
+          "name": "皮皮",
+          "anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+          "outfit": "day_v001",
+          "paths": [
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "镜头20",
+      "paragraph_id": "p005",
+      "text": "给桌面腾出一片安静空旷的地方。\n水汽越升越高，越来越淡，",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u03",
+          "start_char": 0,
+          "end_char": 15
+        },
+        {
+          "unit_id": "p005_u04",
+          "start_char": 0,
+          "end_char": 13
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "visual_description": "皮皮用干布巾仔细擦去同一木桌角浅浅的水印，随后轻轻合上餐边柜的小木门，神情满足、动作不急。",
+      "setting": "同一餐厅慢慢收尾",
+      "continuity_refs": [
+        "ep026_enamel_kettle",
+        "ep026_cork_trivet",
+        "ep026_last_steam"
+      ],
+      "state_before": "沿用前镜已建立的同一餐厅/卧室布局与物件外观；仅发生旁白明确描述的动作。",
+      "state_after": "按本镜口播更新物件与角色状态，不增添无依据的移动或变化。",
+      "transition_from": 19,
+      "motion": "fixed",
+      "image": "images/shot_20.png",
+      "prompt_file": "illustration-prompts/shot_20.txt",
+      "reference_manifest": "references/shot_20.json",
+      "speech_start_s": 155.6890625,
+      "speech_end_s": 164.195625,
+      "actual_start_s": 155.48,
+      "actual_end_s": 164.4,
+      "visible_start_s": 155.0,
+      "visible_end_s": 164.88,
+      "visible_duration_s": 9.88,
+      "prompt": "Create ONE original full-bleed vertical 9:16 children's bedtime story illustration, hand-painted soft watercolor on fine paper, gentle muted colors, rounded forms, warm natural indoor lamp light, subtle paper grain. Never render any text, letters, labels, numbers, logos, speech bubbles, border, collage or watermark. Fixed static composition, no motion streaks. Reserve the bottom 30% as low-detail background for later subtitles; keep faces and important actions in upper 68%.\nInput 1 is the verified identity/wardrobe reference for 皮皮 (pipi): 暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。; outfit day_v001. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nScene: 同一餐厅慢慢收尾.\nExact moment: 皮皮用干布巾仔细擦去同一木桌角浅浅的水印，随后轻轻合上餐边柜的小木门，神情满足、动作不急。\nNarration this still must represent: 给桌面腾出一片安静空旷的地方。\n水汽越升越高，越来越淡，\nVisible characters: 皮皮. Exactly 1 animal character(s), each appears once. Do not add characters when count is zero. Preserve the repeated prop identities and positions described in this scene. Steam is only faint white water vapor, never a living cloud. Pipi is a warm-gray rabbit with round face, pink nose, naturally drooping long ears; preserve the referenced identity. Expressions are scene-specific, calm and natural, not default sad or sleepy. No unmentioned actions or props.",
+      "reference_inputs": [
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+      ],
+      "reference_roles": [
+        {
+          "id": "pipi",
+          "name": "皮皮",
+          "anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+          "outfit": "day_v001",
+          "paths": [
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "镜头21",
+      "paragraph_id": "p005",
+      "text": "最后无声无息地融进了餐厅暖黄色的灯光里，不见了。",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u05",
+          "start_char": 0,
+          "end_char": 20
+        },
+        {
+          "unit_id": "p005_u06",
+          "start_char": 0,
+          "end_char": 4
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "visual_description": "餐厅暖灯下最后一缕水汽轻轻消散，奶油白搪瓷壶已不再冒汽，安稳地坐在同一软木隔热垫上；皮皮把木托盘挪到桌侧，为中央腾出安静空处。",
+      "setting": "同一餐厅慢慢收尾",
+      "continuity_refs": [
+        "ep026_enamel_kettle",
+        "ep026_cork_trivet",
+        "ep026_last_steam"
+      ],
+      "state_before": "沿用前镜已建立的同一餐厅/卧室布局与物件外观；仅发生旁白明确描述的动作。",
+      "state_after": "按本镜口播更新物件与角色状态，不增添无依据的移动或变化。",
+      "transition_from": 20,
+      "motion": "fixed",
+      "image": "images/shot_21.png",
+      "prompt_file": "illustration-prompts/shot_21.txt",
+      "reference_manifest": "references/shot_21.json",
+      "speech_start_s": 164.61070833333335,
+      "speech_end_s": 171.4702496666667,
+      "actual_start_s": 164.4,
+      "actual_end_s": 171.8,
+      "visible_start_s": 163.92000000000002,
+      "visible_end_s": 172.28,
+      "visible_duration_s": 8.36,
+      "prompt": "Create ONE original full-bleed vertical 9:16 children's bedtime story illustration, hand-painted soft watercolor on fine paper, gentle muted colors, rounded forms, warm natural indoor lamp light, subtle paper grain. Never render any text, letters, labels, numbers, logos, speech bubbles, border, collage or watermark. Fixed static composition, no motion streaks. Reserve the bottom 30% as low-detail background for later subtitles; keep faces and important actions in upper 68%.\nInput 1 is the verified identity/wardrobe reference for 皮皮 (pipi): 暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。; outfit day_v001. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nScene: 同一餐厅慢慢收尾.\nExact moment: 餐厅暖灯下最后一缕水汽轻轻消散，奶油白搪瓷壶已不再冒汽，安稳地坐在同一软木隔热垫上；皮皮把木托盘挪到桌侧，为中央腾出安静空处。\nNarration this still must represent: 最后无声无息地融进了餐厅暖黄色的灯光里，不见了。\nVisible characters: 皮皮. Exactly 1 animal character(s), each appears once. Do not add characters when count is zero. Preserve the repeated prop identities and positions described in this scene. Steam is only faint white water vapor, never a living cloud. Pipi is a warm-gray rabbit with round face, pink nose, naturally drooping long ears; preserve the referenced identity. Expressions are scene-specific, calm and natural, not default sad or sleepy. No unmentioned actions or props.",
+      "reference_inputs": [
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+      ],
+      "reference_roles": [
+        {
+          "id": "pipi",
+          "name": "皮皮",
+          "anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+          "outfit": "day_v001",
+          "paths": [
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "镜头22",
+      "paragraph_id": "p005",
+      "text": "而那只忙碌了一下午的搪瓷小水壶，",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u07",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "visual_description": "皮皮用干布巾仔细擦去同一木桌角浅浅的水印，随后轻轻合上餐边柜的小木门，神情满足、动作不急。",
+      "setting": "同一餐厅慢慢收尾",
+      "continuity_refs": [
+        "ep026_enamel_kettle",
+        "ep026_cork_trivet",
+        "ep026_last_steam"
+      ],
+      "state_before": "沿用前镜已建立的同一餐厅/卧室布局与物件外观；仅发生旁白明确描述的动作。",
+      "state_after": "按本镜口播更新物件与角色状态，不增添无依据的移动或变化。",
+      "transition_from": 21,
+      "motion": "fixed",
+      "image": "images/shot_22.png",
+      "prompt_file": "illustration-prompts/shot_22.txt",
+      "reference_manifest": "references/shot_22.json",
+      "speech_start_s": 172.16889583333335,
+      "speech_end_s": 176.41364483333336,
+      "actual_start_s": 171.8,
+      "actual_end_s": 176.64,
+      "visible_start_s": 171.32000000000002,
+      "visible_end_s": 177.11999999999998,
+      "visible_duration_s": 5.8,
+      "prompt": "Create ONE original full-bleed vertical 9:16 children's bedtime story illustration, hand-painted soft watercolor on fine paper, gentle muted colors, rounded forms, warm natural indoor lamp light, subtle paper grain. Never render any text, letters, labels, numbers, logos, speech bubbles, border, collage or watermark. Fixed static composition, no motion streaks. Reserve the bottom 30% as low-detail background for later subtitles; keep faces and important actions in upper 68%.\nInput 1 is the verified identity/wardrobe reference for 皮皮 (pipi): 暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。; outfit day_v001. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nScene: 同一餐厅慢慢收尾.\nExact moment: 皮皮用干布巾仔细擦去同一木桌角浅浅的水印，随后轻轻合上餐边柜的小木门，神情满足、动作不急。\nNarration this still must represent: 而那只忙碌了一下午的搪瓷小水壶，\nVisible characters: 皮皮. Exactly 1 animal character(s), each appears once. Do not add characters when count is zero. Preserve the repeated prop identities and positions described in this scene. Steam is only faint white water vapor, never a living cloud. Pipi is a warm-gray rabbit with round face, pink nose, naturally drooping long ears; preserve the referenced identity. Expressions are scene-specific, calm and natural, not default sad or sleepy. No unmentioned actions or props.",
+      "reference_inputs": [
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+      ],
+      "reference_roles": [
+        {
+          "id": "pipi",
+          "name": "皮皮",
+          "anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+          "outfit": "day_v001",
+          "paths": [
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "镜头23",
+      "paragraph_id": "p005",
+      "text": "也渐渐凉了下来，安安稳稳地坐在厚厚的软木隔热垫上。",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u08",
+          "start_char": 0,
+          "end_char": 25
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "visual_description": "餐厅暖灯下最后一缕水汽轻轻消散，奶油白搪瓷壶已不再冒汽，安稳地坐在同一软木隔热垫上；皮皮把木托盘挪到桌侧，为中央腾出安静空处。",
+      "setting": "同一餐厅慢慢收尾",
+      "continuity_refs": [
+        "ep026_enamel_kettle",
+        "ep026_cork_trivet",
+        "ep026_last_steam"
+      ],
+      "state_before": "沿用前镜已建立的同一餐厅/卧室布局与物件外观；仅发生旁白明确描述的动作。",
+      "state_after": "按本镜口播更新物件与角色状态，不增添无依据的移动或变化。",
+      "transition_from": 22,
+      "motion": "fixed",
+      "image": "images/shot_23.png",
+      "prompt_file": "illustration-prompts/shot_23.txt",
+      "reference_manifest": "references/shot_23.json",
+      "speech_start_s": 176.83935416666668,
+      "speech_end_s": 184.1566236666667,
+      "actual_start_s": 176.64,
+      "actual_end_s": 184.48,
+      "visible_start_s": 176.16,
+      "visible_end_s": 184.95999999999998,
+      "visible_duration_s": 8.8,
+      "prompt": "Create ONE original full-bleed vertical 9:16 children's bedtime story illustration, hand-painted soft watercolor on fine paper, gentle muted colors, rounded forms, warm natural indoor lamp light, subtle paper grain. Never render any text, letters, labels, numbers, logos, speech bubbles, border, collage or watermark. Fixed static composition, no motion streaks. Reserve the bottom 30% as low-detail background for later subtitles; keep faces and important actions in upper 68%.\nInput 1 is the verified identity/wardrobe reference for 皮皮 (pipi): 暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。; outfit day_v001. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nScene: 同一餐厅慢慢收尾.\nExact moment: 餐厅暖灯下最后一缕水汽轻轻消散，奶油白搪瓷壶已不再冒汽，安稳地坐在同一软木隔热垫上；皮皮把木托盘挪到桌侧，为中央腾出安静空处。\nNarration this still must represent: 也渐渐凉了下来，安安稳稳地坐在厚厚的软木隔热垫上。\nVisible characters: 皮皮. Exactly 1 animal character(s), each appears once. Do not add characters when count is zero. Preserve the repeated prop identities and positions described in this scene. Steam is only faint white water vapor, never a living cloud. Pipi is a warm-gray rabbit with round face, pink nose, naturally drooping long ears; preserve the referenced identity. Expressions are scene-specific, calm and natural, not default sad or sleepy. No unmentioned actions or props.",
+      "reference_inputs": [
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+      ],
+      "reference_roles": [
+        {
+          "id": "pipi",
+          "name": "皮皮",
+          "anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+          "outfit": "day_v001",
+          "paths": [
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "镜头24",
+      "paragraph_id": "p006",
+      "text": "今天的小杯子们不用再排队盛茶了。",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u01",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "default_v001"
+      },
+      "visual_description": "木屋卧室同一布局：暖黄色毛毯已铺好，浅米色枕头蓬松，皮皮戴深蓝星星睡帽，慢悠悠躺下，将同一只橙色胡萝卜玩偶放在身边；长耳放松，神情舒缓。",
+      "setting": "木屋卧室",
+      "continuity_refs": [
+        "ep026_bedroom_layout",
+        "ep026_carrot_plush",
+        "ep026_yellow_blanket"
+      ],
+      "state_before": "沿用前镜已建立的同一餐厅/卧室布局与物件外观；仅发生旁白明确描述的动作。",
+      "state_after": "按本镜口播更新物件与角色状态，不增添无依据的移动或变化。",
+      "transition_from": 23,
+      "motion": "fixed",
+      "image": "images/shot_24.png",
+      "prompt_file": "illustration-prompts/shot_24.txt",
+      "reference_manifest": "references/shot_24.json",
+      "speech_start_s": 184.83462500000002,
+      "speech_end_s": 189.09712433333334,
+      "actual_start_s": 184.48,
+      "actual_end_s": 189.44,
+      "visible_start_s": 184.0,
+      "visible_end_s": 189.92,
+      "visible_duration_s": 5.92,
+      "prompt": "Create ONE original full-bleed vertical 9:16 children's bedtime story illustration, hand-painted soft watercolor on fine paper, gentle muted colors, rounded forms, warm natural indoor lamp light, subtle paper grain. Never render any text, letters, labels, numbers, logos, speech bubbles, border, collage or watermark. Fixed static composition, no motion streaks. Reserve the bottom 30% as low-detail background for later subtitles; keep faces and important actions in upper 68%.\nInput 1 is the verified identity/wardrobe reference for 皮皮 (pipi): 暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。; outfit default_v001. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nScene: 木屋卧室.\nExact moment: 木屋卧室同一布局：暖黄色毛毯已铺好，浅米色枕头蓬松，皮皮戴深蓝星星睡帽，慢悠悠躺下，将同一只橙色胡萝卜玩偶放在身边；长耳放松，神情舒缓。\nNarration this still must represent: 今天的小杯子们不用再排队盛茶了。\nVisible characters: 皮皮. Exactly 1 animal character(s), each appears once. Do not add characters when count is zero. Preserve the repeated prop identities and positions described in this scene. Steam is only faint white water vapor, never a living cloud. Pipi is a warm-gray rabbit with round face, pink nose, naturally drooping long ears; preserve the referenced identity. Expressions are scene-specific, calm and natural, not default sad or sleepy. No unmentioned actions or props.",
+      "reference_inputs": [
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+      ],
+      "reference_roles": [
+        {
+          "id": "pipi",
+          "name": "皮皮",
+          "anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+          "outfit": "default_v001",
+          "paths": [
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "镜头25",
+      "paragraph_id": "p006",
+      "text": "皮皮拿来干布巾，把桌角留下的一小圈浅浅的水印擦得干干净净，",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u02",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "default_v001"
+      },
+      "visual_description": "木屋卧室同一布局：暖黄色毛毯已铺好，浅米色枕头蓬松，皮皮戴深蓝星星睡帽，慢悠悠躺下，将同一只橙色胡萝卜玩偶放在身边；长耳放松，神情舒缓。",
+      "setting": "木屋卧室",
+      "continuity_refs": [
+        "ep026_bedroom_layout",
+        "ep026_carrot_plush",
+        "ep026_yellow_blanket"
+      ],
+      "state_before": "沿用前镜已建立的同一餐厅/卧室布局与物件外观；仅发生旁白明确描述的动作。",
+      "state_after": "按本镜口播更新物件与角色状态，不增添无依据的移动或变化。",
+      "transition_from": 24,
+      "motion": "fixed",
+      "image": "images/shot_25.png",
+      "prompt_file": "illustration-prompts/shot_25.txt",
+      "reference_manifest": "references/shot_25.json",
+      "speech_start_s": 189.81127083333334,
+      "speech_end_s": 198.2981035,
+      "actual_start_s": 189.44,
+      "actual_end_s": 198.52,
+      "visible_start_s": 188.96,
+      "visible_end_s": 199.0,
+      "visible_duration_s": 10.04,
+      "prompt": "Create ONE original full-bleed vertical 9:16 children's bedtime story illustration, hand-painted soft watercolor on fine paper, gentle muted colors, rounded forms, warm natural indoor lamp light, subtle paper grain. Never render any text, letters, labels, numbers, logos, speech bubbles, border, collage or watermark. Fixed static composition, no motion streaks. Reserve the bottom 30% as low-detail background for later subtitles; keep faces and important actions in upper 68%.\nInput 1 is the verified identity/wardrobe reference for 皮皮 (pipi): 暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。; outfit default_v001. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nScene: 木屋卧室.\nExact moment: 木屋卧室同一布局：暖黄色毛毯已铺好，浅米色枕头蓬松，皮皮戴深蓝星星睡帽，慢悠悠躺下，将同一只橙色胡萝卜玩偶放在身边；长耳放松，神情舒缓。\nNarration this still must represent: 皮皮拿来干布巾，把桌角留下的一小圈浅浅的水印擦得干干净净，\nVisible characters: 皮皮. Exactly 1 animal character(s), each appears once. Do not add characters when count is zero. Preserve the repeated prop identities and positions described in this scene. Steam is only faint white water vapor, never a living cloud. Pipi is a warm-gray rabbit with round face, pink nose, naturally drooping long ears; preserve the referenced identity. Expressions are scene-specific, calm and natural, not default sad or sleepy. No unmentioned actions or props.",
+      "reference_inputs": [
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+      ],
+      "reference_roles": [
+        {
+          "id": "pipi",
+          "name": "皮皮",
+          "anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+          "outfit": "default_v001",
+          "paths": [
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "镜头26",
+      "paragraph_id": "p006",
+      "text": "然后轻轻关好餐边柜的小木门，转身走回了自己的卧室。",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u03",
+          "start_char": 0,
+          "end_char": 14
+        },
+        {
+          "unit_id": "p006_u04",
+          "start_char": 0,
+          "end_char": 11
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "default_v001"
+      },
+      "visual_description": "木屋卧室同一布局：暖黄色毛毯已铺好，浅米色枕头蓬松，皮皮戴深蓝星星睡帽，慢悠悠躺下，将同一只橙色胡萝卜玩偶放在身边；长耳放松，神情舒缓。",
+      "setting": "木屋卧室",
+      "continuity_refs": [
+        "ep026_bedroom_layout",
+        "ep026_carrot_plush",
+        "ep026_yellow_blanket"
+      ],
+      "state_before": "沿用前镜已建立的同一餐厅/卧室布局与物件外观；仅发生旁白明确描述的动作。",
+      "state_after": "按本镜口播更新物件与角色状态，不增添无依据的移动或变化。",
+      "transition_from": 25,
+      "motion": "fixed",
+      "image": "images/shot_26.png",
+      "prompt_file": "illustration-prompts/shot_26.txt",
+      "reference_manifest": "references/shot_26.json",
+      "speech_start_s": 198.74914583333333,
+      "speech_end_s": 206.07281216666667,
+      "actual_start_s": 198.52,
+      "actual_end_s": 206.44,
+      "visible_start_s": 198.04000000000002,
+      "visible_end_s": 206.92,
+      "visible_duration_s": 8.88,
+      "prompt": "Create ONE original full-bleed vertical 9:16 children's bedtime story illustration, hand-painted soft watercolor on fine paper, gentle muted colors, rounded forms, warm natural indoor lamp light, subtle paper grain. Never render any text, letters, labels, numbers, logos, speech bubbles, border, collage or watermark. Fixed static composition, no motion streaks. Reserve the bottom 30% as low-detail background for later subtitles; keep faces and important actions in upper 68%.\nInput 1 is the verified identity/wardrobe reference for 皮皮 (pipi): 暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。; outfit default_v001. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nScene: 木屋卧室.\nExact moment: 木屋卧室同一布局：暖黄色毛毯已铺好，浅米色枕头蓬松，皮皮戴深蓝星星睡帽，慢悠悠躺下，将同一只橙色胡萝卜玩偶放在身边；长耳放松，神情舒缓。\nNarration this still must represent: 然后轻轻关好餐边柜的小木门，转身走回了自己的卧室。\nVisible characters: 皮皮. Exactly 1 animal character(s), each appears once. Do not add characters when count is zero. Preserve the repeated prop identities and positions described in this scene. Steam is only faint white water vapor, never a living cloud. Pipi is a warm-gray rabbit with round face, pink nose, naturally drooping long ears; preserve the referenced identity. Expressions are scene-specific, calm and natural, not default sad or sleepy. No unmentioned actions or props.",
+      "reference_inputs": [
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+      ],
+      "reference_roles": [
+        {
+          "id": "pipi",
+          "name": "皮皮",
+          "anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+          "outfit": "default_v001",
+          "paths": [
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "镜头27",
+      "paragraph_id": "p006",
+      "text": "\n他心想：水壶旁的那朵小云，已经完成了今晚的旅行；",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u05",
+          "start_char": 0,
+          "end_char": 14
+        },
+        {
+          "unit_id": "p006_u06",
+          "start_char": 0,
+          "end_char": 11
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "default_v001"
+      },
+      "visual_description": "木屋卧室同一布局：暖黄色毛毯已铺好，浅米色枕头蓬松，皮皮戴深蓝星星睡帽，慢悠悠躺下，将同一只橙色胡萝卜玩偶放在身边；长耳放松，神情舒缓。",
+      "setting": "木屋卧室",
+      "continuity_refs": [
+        "ep026_bedroom_layout",
+        "ep026_carrot_plush",
+        "ep026_yellow_blanket"
+      ],
+      "state_before": "沿用前镜已建立的同一餐厅/卧室布局与物件外观；仅发生旁白明确描述的动作。",
+      "state_after": "按本镜口播更新物件与角色状态，不增添无依据的移动或变化。",
+      "transition_from": 26,
+      "motion": "fixed",
+      "image": "images/shot_27.png",
+      "prompt_file": "illustration-prompts/shot_27.txt",
+      "reference_manifest": "references/shot_27.json",
+      "speech_start_s": 206.78420833333334,
+      "speech_end_s": 213.88979066666667,
+      "actual_start_s": 206.44,
+      "actual_end_s": 214.12,
+      "visible_start_s": 205.96,
+      "visible_end_s": 214.6,
+      "visible_duration_s": 8.64,
+      "prompt": "Create ONE original full-bleed vertical 9:16 children's bedtime story illustration, hand-painted soft watercolor on fine paper, gentle muted colors, rounded forms, warm natural indoor lamp light, subtle paper grain. Never render any text, letters, labels, numbers, logos, speech bubbles, border, collage or watermark. Fixed static composition, no motion streaks. Reserve the bottom 30% as low-detail background for later subtitles; keep faces and important actions in upper 68%.\nInput 1 is the verified identity/wardrobe reference for 皮皮 (pipi): 暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。; outfit default_v001. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nScene: 木屋卧室.\nExact moment: 木屋卧室同一布局：暖黄色毛毯已铺好，浅米色枕头蓬松，皮皮戴深蓝星星睡帽，慢悠悠躺下，将同一只橙色胡萝卜玩偶放在身边；长耳放松，神情舒缓。\nNarration this still must represent: \n他心想：水壶旁的那朵小云，已经完成了今晚的旅行；\nVisible characters: 皮皮. Exactly 1 animal character(s), each appears once. Do not add characters when count is zero. Preserve the repeated prop identities and positions described in this scene. Steam is only faint white water vapor, never a living cloud. Pipi is a warm-gray rabbit with round face, pink nose, naturally drooping long ears; preserve the referenced identity. Expressions are scene-specific, calm and natural, not default sad or sleepy. No unmentioned actions or props.",
+      "reference_inputs": [
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+      ],
+      "reference_roles": [
+        {
+          "id": "pipi",
+          "name": "皮皮",
+          "anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+          "outfit": "default_v001",
+          "paths": [
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "镜头28",
+      "paragraph_id": "p006",
+      "text": "而我这个小主人，也完成了今天的招待任务啦。",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u07",
+          "start_char": 0,
+          "end_char": 21
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "default_v001"
+      },
+      "visual_description": "木屋卧室同一布局：暖黄色毛毯已铺好，浅米色枕头蓬松，皮皮戴深蓝星星睡帽，慢悠悠躺下，将同一只橙色胡萝卜玩偶放在身边；长耳放松，神情舒缓。",
+      "setting": "木屋卧室",
+      "continuity_refs": [
+        "ep026_bedroom_layout",
+        "ep026_carrot_plush",
+        "ep026_yellow_blanket"
+      ],
+      "state_before": "沿用前镜已建立的同一餐厅/卧室布局与物件外观；仅发生旁白明确描述的动作。",
+      "state_after": "按本镜口播更新物件与角色状态，不增添无依据的移动或变化。",
+      "transition_from": 27,
+      "motion": "fixed",
+      "image": "images/shot_28.png",
+      "prompt_file": "illustration-prompts/shot_28.txt",
+      "reference_manifest": "references/shot_28.json",
+      "speech_start_s": 214.35402083333335,
+      "speech_end_s": 219.80343683333336,
+      "actual_start_s": 214.12,
+      "actual_end_s": 220.16,
+      "visible_start_s": 213.64000000000001,
+      "visible_end_s": 220.64,
+      "visible_duration_s": 7.0,
+      "prompt": "Create ONE original full-bleed vertical 9:16 children's bedtime story illustration, hand-painted soft watercolor on fine paper, gentle muted colors, rounded forms, warm natural indoor lamp light, subtle paper grain. Never render any text, letters, labels, numbers, logos, speech bubbles, border, collage or watermark. Fixed static composition, no motion streaks. Reserve the bottom 30% as low-detail background for later subtitles; keep faces and important actions in upper 68%.\nInput 1 is the verified identity/wardrobe reference for 皮皮 (pipi): 暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。; outfit default_v001. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nScene: 木屋卧室.\nExact moment: 木屋卧室同一布局：暖黄色毛毯已铺好，浅米色枕头蓬松，皮皮戴深蓝星星睡帽，慢悠悠躺下，将同一只橙色胡萝卜玩偶放在身边；长耳放松，神情舒缓。\nNarration this still must represent: 而我这个小主人，也完成了今天的招待任务啦。\nVisible characters: 皮皮. Exactly 1 animal character(s), each appears once. Do not add characters when count is zero. Preserve the repeated prop identities and positions described in this scene. Steam is only faint white water vapor, never a living cloud. Pipi is a warm-gray rabbit with round face, pink nose, naturally drooping long ears; preserve the referenced identity. Expressions are scene-specific, calm and natural, not default sad or sleepy. No unmentioned actions or props.",
+      "reference_inputs": [
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+      ],
+      "reference_roles": [
+        {
+          "id": "pipi",
+          "name": "皮皮",
+          "anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+          "outfit": "default_v001",
+          "paths": [
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "镜头29",
+      "paragraph_id": "p007",
+      "text": "卧室里，暖黄色的毛毯已经铺好了，小枕头也拍得软软的。",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u01",
+          "start_char": 0,
+          "end_char": 16
+        },
+        {
+          "unit_id": "p007_u02",
+          "start_char": 0,
+          "end_char": 10
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "default_v001"
+      },
+      "visual_description": "安静的木屋卧室，皮皮侧躺在柔软枕头上，橙色胡萝卜玩偶在身旁，暖黄毛毯覆盖到肩膀；小爪和长耳都自然放松，屋内只留夜晚的安静。",
+      "setting": "同一木屋卧室",
+      "continuity_refs": [
+        "ep026_bedroom_layout",
+        "ep026_carrot_plush",
+        "ep026_yellow_blanket"
+      ],
+      "state_before": "沿用前镜已建立的同一餐厅/卧室布局与物件外观；仅发生旁白明确描述的动作。",
+      "state_after": "按本镜口播更新物件与角色状态，不增添无依据的移动或变化。",
+      "transition_from": 28,
+      "motion": "fixed",
+      "image": "images/shot_29.png",
+      "prompt_file": "illustration-prompts/shot_29.txt",
+      "reference_manifest": "references/shot_29.json",
+      "speech_start_s": 220.52843750000002,
+      "speech_end_s": 228.6549156666667,
+      "actual_start_s": 220.16,
+      "actual_end_s": 229.0,
+      "visible_start_s": 219.68,
+      "visible_end_s": 229.48,
+      "visible_duration_s": 9.8,
+      "prompt": "Create ONE original full-bleed vertical 9:16 children's bedtime story illustration, hand-painted soft watercolor on fine paper, gentle muted colors, rounded forms, warm natural indoor lamp light, subtle paper grain. Never render any text, letters, labels, numbers, logos, speech bubbles, border, collage or watermark. Fixed static composition, no motion streaks. Reserve the bottom 30% as low-detail background for later subtitles; keep faces and important actions in upper 68%.\nInput 1 is the verified identity/wardrobe reference for 皮皮 (pipi): 暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。; outfit default_v001. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nScene: 同一木屋卧室.\nExact moment: 安静的木屋卧室，皮皮侧躺在柔软枕头上，橙色胡萝卜玩偶在身旁，暖黄毛毯覆盖到肩膀；小爪和长耳都自然放松，屋内只留夜晚的安静。\nNarration this still must represent: 卧室里，暖黄色的毛毯已经铺好了，小枕头也拍得软软的。\nVisible characters: 皮皮. Exactly 1 animal character(s), each appears once. Do not add characters when count is zero. Preserve the repeated prop identities and positions described in this scene. Steam is only faint white water vapor, never a living cloud. Pipi is a warm-gray rabbit with round face, pink nose, naturally drooping long ears; preserve the referenced identity. Expressions are scene-specific, calm and natural, not default sad or sleepy. No unmentioned actions or props.",
+      "reference_inputs": [
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+      ],
+      "reference_roles": [
+        {
+          "id": "pipi",
+          "name": "皮皮",
+          "anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+          "outfit": "default_v001",
+          "paths": [
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "镜头30",
+      "paragraph_id": "p007",
+      "text": "皮皮把胡萝卜玩偶放近，慢悠悠地躺了下来。\n端过托盘的小爪子歇着，",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u03",
+          "start_char": 0,
+          "end_char": 11
+        },
+        {
+          "unit_id": "p007_u04",
+          "start_char": 0,
+          "end_char": 9
+        },
+        {
+          "unit_id": "p007_u05",
+          "start_char": 0,
+          "end_char": 12
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "default_v001"
+      },
+      "visual_description": "安静的木屋卧室，皮皮侧躺在柔软枕头上，橙色胡萝卜玩偶在身旁，暖黄毛毯覆盖到肩膀；小爪和长耳都自然放松，屋内只留夜晚的安静。",
+      "setting": "同一木屋卧室",
+      "continuity_refs": [
+        "ep026_bedroom_layout",
+        "ep026_carrot_plush",
+        "ep026_yellow_blanket"
+      ],
+      "state_before": "沿用前镜已建立的同一餐厅/卧室布局与物件外观；仅发生旁白明确描述的动作。",
+      "state_after": "按本镜口播更新物件与角色状态，不增添无依据的移动或变化。",
+      "transition_from": 29,
+      "motion": "fixed",
+      "image": "images/shot_30.png",
+      "prompt_file": "illustration-prompts/shot_30.txt",
+      "reference_manifest": "references/shot_30.json",
+      "speech_start_s": 229.3731041666667,
+      "speech_end_s": 238.56645833333337,
+      "actual_start_s": 229.0,
+      "actual_end_s": 238.76,
+      "visible_start_s": 228.52,
+      "visible_end_s": 239.23999999999998,
+      "visible_duration_s": 10.72,
+      "prompt": "Create ONE original full-bleed vertical 9:16 children's bedtime story illustration, hand-painted soft watercolor on fine paper, gentle muted colors, rounded forms, warm natural indoor lamp light, subtle paper grain. Never render any text, letters, labels, numbers, logos, speech bubbles, border, collage or watermark. Fixed static composition, no motion streaks. Reserve the bottom 30% as low-detail background for later subtitles; keep faces and important actions in upper 68%.\nInput 1 is the verified identity/wardrobe reference for 皮皮 (pipi): 暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。; outfit default_v001. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nScene: 同一木屋卧室.\nExact moment: 安静的木屋卧室，皮皮侧躺在柔软枕头上，橙色胡萝卜玩偶在身旁，暖黄毛毯覆盖到肩膀；小爪和长耳都自然放松，屋内只留夜晚的安静。\nNarration this still must represent: 皮皮把胡萝卜玩偶放近，慢悠悠地躺了下来。\n端过托盘的小爪子歇着，\nVisible characters: 皮皮. Exactly 1 animal character(s), each appears once. Do not add characters when count is zero. Preserve the repeated prop identities and positions described in this scene. Steam is only faint white water vapor, never a living cloud. Pipi is a warm-gray rabbit with round face, pink nose, naturally drooping long ears; preserve the referenced identity. Expressions are scene-specific, calm and natural, not default sad or sleepy. No unmentioned actions or props.",
+      "reference_inputs": [
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+      ],
+      "reference_roles": [
+        {
+          "id": "pipi",
+          "name": "皮皮",
+          "anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+          "outfit": "default_v001",
+          "paths": [
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "title": "镜头31",
+      "paragraph_id": "p007",
+      "text": "听了一下午笑声的长耳朵也歇着。屋里刚才忙活过的地方，",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u06",
+          "start_char": 0,
+          "end_char": 15
+        },
+        {
+          "unit_id": "p007_u07",
+          "start_char": 0,
+          "end_char": 11
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "default_v001"
+      },
+      "visual_description": "安静的木屋卧室，皮皮侧躺在柔软枕头上，橙色胡萝卜玩偶在身旁，暖黄毛毯覆盖到肩膀；小爪和长耳都自然放松，屋内只留夜晚的安静。",
+      "setting": "同一木屋卧室",
+      "continuity_refs": [
+        "ep026_bedroom_layout",
+        "ep026_carrot_plush",
+        "ep026_yellow_blanket"
+      ],
+      "state_before": "沿用前镜已建立的同一餐厅/卧室布局与物件外观；仅发生旁白明确描述的动作。",
+      "state_after": "按本镜口播更新物件与角色状态，不增添无依据的移动或变化。",
+      "transition_from": 30,
+      "motion": "fixed",
+      "image": "images/shot_31.png",
+      "prompt_file": "illustration-prompts/shot_31.txt",
+      "reference_manifest": "references/shot_31.json",
+      "speech_start_s": 238.96568750000003,
+      "speech_end_s": 246.6555621666667,
+      "actual_start_s": 238.76,
+      "actual_end_s": 246.88,
+      "visible_start_s": 238.28,
+      "visible_end_s": 247.35999999999999,
+      "visible_duration_s": 9.08,
+      "prompt": "Create ONE original full-bleed vertical 9:16 children's bedtime story illustration, hand-painted soft watercolor on fine paper, gentle muted colors, rounded forms, warm natural indoor lamp light, subtle paper grain. Never render any text, letters, labels, numbers, logos, speech bubbles, border, collage or watermark. Fixed static composition, no motion streaks. Reserve the bottom 30% as low-detail background for later subtitles; keep faces and important actions in upper 68%.\nInput 1 is the verified identity/wardrobe reference for 皮皮 (pipi): 暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。; outfit default_v001. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nScene: 同一木屋卧室.\nExact moment: 安静的木屋卧室，皮皮侧躺在柔软枕头上，橙色胡萝卜玩偶在身旁，暖黄毛毯覆盖到肩膀；小爪和长耳都自然放松，屋内只留夜晚的安静。\nNarration this still must represent: 听了一下午笑声的长耳朵也歇着。屋里刚才忙活过的地方，\nVisible characters: 皮皮. Exactly 1 animal character(s), each appears once. Do not add characters when count is zero. Preserve the repeated prop identities and positions described in this scene. Steam is only faint white water vapor, never a living cloud. Pipi is a warm-gray rabbit with round face, pink nose, naturally drooping long ears; preserve the referenced identity. Expressions are scene-specific, calm and natural, not default sad or sleepy. No unmentioned actions or props.",
+      "reference_inputs": [
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+      ],
+      "reference_roles": [
+        {
+          "id": "pipi",
+          "name": "皮皮",
+          "anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+          "outfit": "default_v001",
+          "paths": [
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "title": "镜头32",
+      "paragraph_id": "p007",
+      "text": "全都留给了夜晚的安静。",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u08",
+          "start_char": 0,
+          "end_char": 11
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "default_v001"
+      },
+      "visual_description": "安静的木屋卧室，皮皮侧躺在柔软枕头上，橙色胡萝卜玩偶在身旁，暖黄毛毯覆盖到肩膀；小爪和长耳都自然放松，屋内只留夜晚的安静。",
+      "setting": "同一木屋卧室",
+      "continuity_refs": [
+        "ep026_bedroom_layout",
+        "ep026_carrot_plush",
+        "ep026_yellow_blanket"
+      ],
+      "state_before": "沿用前镜已建立的同一餐厅/卧室布局与物件外观；仅发生旁白明确描述的动作。",
+      "state_after": "按本镜口播更新物件与角色状态，不增添无依据的移动或变化。",
+      "transition_from": 31,
+      "motion": "fixed",
+      "image": "images/shot_32.png",
+      "prompt_file": "illustration-prompts/shot_32.txt",
+      "reference_manifest": "references/shot_32.json",
+      "speech_start_s": 247.08906250000004,
+      "speech_end_s": 249.94889516666672,
+      "actual_start_s": 246.88,
+      "actual_end_s": 250.32,
+      "visible_start_s": 246.4,
+      "visible_end_s": 250.79999999999998,
+      "visible_duration_s": 4.4,
+      "prompt": "Create ONE original full-bleed vertical 9:16 children's bedtime story illustration, hand-painted soft watercolor on fine paper, gentle muted colors, rounded forms, warm natural indoor lamp light, subtle paper grain. Never render any text, letters, labels, numbers, logos, speech bubbles, border, collage or watermark. Fixed static composition, no motion streaks. Reserve the bottom 30% as low-detail background for later subtitles; keep faces and important actions in upper 68%.\nInput 1 is the verified identity/wardrobe reference for 皮皮 (pipi): 暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。; outfit default_v001. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nScene: 同一木屋卧室.\nExact moment: 安静的木屋卧室，皮皮侧躺在柔软枕头上，橙色胡萝卜玩偶在身旁，暖黄毛毯覆盖到肩膀；小爪和长耳都自然放松，屋内只留夜晚的安静。\nNarration this still must represent: 全都留给了夜晚的安静。\nVisible characters: 皮皮. Exactly 1 animal character(s), each appears once. Do not add characters when count is zero. Preserve the repeated prop identities and positions described in this scene. Steam is only faint white water vapor, never a living cloud. Pipi is a warm-gray rabbit with round face, pink nose, naturally drooping long ears; preserve the referenced identity. Expressions are scene-specific, calm and natural, not default sad or sleepy. No unmentioned actions or props.",
+      "reference_inputs": [
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+      ],
+      "reference_roles": [
+        {
+          "id": "pipi",
+          "name": "皮皮",
+          "anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+          "outfit": "default_v001",
+          "paths": [
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "镜头33",
+      "paragraph_id": "p008",
+      "text": "小朋友，今天一天的忙碌和热闹，也可以像那缕小水汽一样，轻轻散开啦。",
+      "source_ranges": [
+        {
+          "unit_id": "p008_u01",
+          "start_char": 0,
+          "end_char": 15
+        },
+        {
+          "unit_id": "p008_u02",
+          "start_char": 0,
+          "end_char": 12
+        },
+        {
+          "unit_id": "p008_u03",
+          "start_char": 0,
+          "end_char": 6
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "default_v001"
+      },
+      "visual_description": "皮皮在暖灯柔和的卧室里逐渐放松，安稳准备入睡；温暖细腻水彩，不添加文字或剧本以外物品。",
+      "setting": "同一木屋卧室",
+      "continuity_refs": [
+        "ep026_bedroom_layout",
+        "ep026_carrot_plush",
+        "ep026_yellow_blanket"
+      ],
+      "state_before": "沿用前镜已建立的同一餐厅/卧室布局与物件外观；仅发生旁白明确描述的动作。",
+      "state_after": "按本镜口播更新物件与角色状态，不增添无依据的移动或变化。",
+      "transition_from": 32,
+      "motion": "fixed",
+      "image": "images/shot_33.png",
+      "prompt_file": "illustration-prompts/shot_33.txt",
+      "reference_manifest": "references/shot_33.json",
+      "speech_start_s": 250.70081250000004,
+      "speech_end_s": 260.6247073333334,
+      "actual_start_s": 250.32,
+      "actual_end_s": 260.96,
+      "visible_start_s": 249.84,
+      "visible_end_s": 261.44,
+      "visible_duration_s": 11.6,
+      "prompt": "Create ONE original full-bleed vertical 9:16 children's bedtime story illustration, hand-painted soft watercolor on fine paper, gentle muted colors, rounded forms, warm natural indoor lamp light, subtle paper grain. Never render any text, letters, labels, numbers, logos, speech bubbles, border, collage or watermark. Fixed static composition, no motion streaks. Reserve the bottom 30% as low-detail background for later subtitles; keep faces and important actions in upper 68%.\nInput 1 is the verified identity/wardrobe reference for 皮皮 (pipi): 暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。; outfit default_v001. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nScene: 同一木屋卧室.\nExact moment: 皮皮在暖灯柔和的卧室里逐渐放松，安稳准备入睡；温暖细腻水彩，不添加文字或剧本以外物品。\nNarration this still must represent: 小朋友，今天一天的忙碌和热闹，也可以像那缕小水汽一样，轻轻散开啦。\nVisible characters: 皮皮. Exactly 1 animal character(s), each appears once. Do not add characters when count is zero. Preserve the repeated prop identities and positions described in this scene. Steam is only faint white water vapor, never a living cloud. Pipi is a warm-gray rabbit with round face, pink nose, naturally drooping long ears; preserve the referenced identity. Expressions are scene-specific, calm and natural, not default sad or sleepy. No unmentioned actions or props.",
+      "reference_inputs": [
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+      ],
+      "reference_roles": [
+        {
+          "id": "pipi",
+          "name": "皮皮",
+          "anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+          "outfit": "default_v001",
+          "paths": [
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "title": "镜头34",
+      "paragraph_id": "p008",
+      "text": "把身体放得软软的、舒服的，晚安，做个轻轻的梦。",
+      "source_ranges": [
+        {
+          "unit_id": "p008_u04",
+          "start_char": 0,
+          "end_char": 13
+        },
+        {
+          "unit_id": "p008_u05",
+          "start_char": 0,
+          "end_char": 10
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "default_v001"
+      },
+      "visual_description": "皮皮在暖灯柔和的卧室里逐渐放松，安稳准备入睡；温暖细腻水彩，不添加文字或剧本以外物品。",
+      "setting": "同一木屋卧室",
+      "continuity_refs": [
+        "ep026_bedroom_layout",
+        "ep026_carrot_plush",
+        "ep026_yellow_blanket"
+      ],
+      "state_before": "沿用前镜已建立的同一餐厅/卧室布局与物件外观；仅发生旁白明确描述的动作。",
+      "state_after": "按本镜口播更新物件与角色状态，不增添无依据的移动或变化。",
+      "transition_from": 33,
+      "motion": "fixed",
+      "image": "images/shot_34.png",
+      "prompt_file": "illustration-prompts/shot_34.txt",
+      "reference_manifest": "references/shot_34.json",
+      "speech_start_s": 261.32000000000005,
+      "speech_end_s": 268.1993118333334,
+      "actual_start_s": 260.96,
+      "actual_end_s": 268.96,
+      "visible_start_s": 260.47999999999996,
+      "visible_end_s": 268.96,
+      "visible_duration_s": 8.48,
+      "prompt": "Create ONE original full-bleed vertical 9:16 children's bedtime story illustration, hand-painted soft watercolor on fine paper, gentle muted colors, rounded forms, warm natural indoor lamp light, subtle paper grain. Never render any text, letters, labels, numbers, logos, speech bubbles, border, collage or watermark. Fixed static composition, no motion streaks. Reserve the bottom 30% as low-detail background for later subtitles; keep faces and important actions in upper 68%.\nInput 1 is the verified identity/wardrobe reference for 皮皮 (pipi): 暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。; outfit default_v001. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nScene: 同一木屋卧室.\nExact moment: 皮皮在暖灯柔和的卧室里逐渐放松，安稳准备入睡；温暖细腻水彩，不添加文字或剧本以外物品。\nNarration this still must represent: 把身体放得软软的、舒服的，晚安，做个轻轻的梦。\nVisible characters: 皮皮. Exactly 1 animal character(s), each appears once. Do not add characters when count is zero. Preserve the repeated prop identities and positions described in this scene. Steam is only faint white water vapor, never a living cloud. Pipi is a warm-gray rabbit with round face, pink nose, naturally drooping long ears; preserve the referenced identity. Expressions are scene-specific, calm and natural, not default sad or sleepy. No unmentioned actions or props.",
+      "reference_inputs": [
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+      ],
+      "reference_roles": [
+        {
+          "id": "pipi",
+          "name": "皮皮",
+          "anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+          "outfit": "default_v001",
+          "paths": [
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+            "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+          ]
+        }
+      ]
+    }
+  ],
+  "shot_count": 34,
+  "timing_basis": "measured TTS word boundaries",
+  "status": "audio_locked_ready_for_images"
+}

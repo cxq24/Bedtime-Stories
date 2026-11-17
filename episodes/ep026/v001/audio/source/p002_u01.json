@@ -1,0 +1,77 @@
+{
+  "text": "在傍晚亮起暖灯的小木屋餐厅里，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "e70f1741226a7f3f71865de59cdcc0633185b306a5c30429b0e7821d03f6343c",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2500000,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3961660,
+      "duration": 5000000,
+      "text": "傍晚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9346250,
+      "duration": 3076660,
+      "text": "亮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12422910,
+      "duration": 3269160,
+      "text": "起"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15884580,
+      "duration": 3461660,
+      "text": "暖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19346250,
+      "duration": 2500000,
+      "text": "灯"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21846250,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23577080,
+      "duration": 3076660,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26653750,
+      "duration": 4038330,
+      "text": "木屋"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30884580,
+      "duration": 6922910,
+      "text": "餐厅"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37807500,
+      "duration": 3269160,
+      "text": "里"
+    }
+  ]
+}

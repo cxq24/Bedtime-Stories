@@ -1,0 +1,47 @@
+{
+  "text": "转身走回了自己的卧室。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "3e18c45621ca685071371aedb6a4fe56ea370fa8e432ed36eae76cd77f7edc83",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 7115410,
+      "text": "转身"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8577080,
+      "duration": 5576660,
+      "text": "走回"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14153750,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15884580,
+      "duration": 4038330,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19922910,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21653750,
+      "duration": 9230830,
+      "text": "卧室"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "text": "朋友们来家里做客，忙完之后，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "adb0d076029cddc3c1c53d8876b522ddeed6039e39295b0c6f4cb3a5183d9724",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4807500,
+      "text": "朋友"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6077080,
+      "duration": 1922910,
+      "text": "们"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8384580,
+      "duration": 2307500,
+      "text": "来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10692500,
+      "duration": 4615410,
+      "text": "家里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15500000,
+      "duration": 8077080,
+      "text": "做客"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27422910,
+      "duration": 5384580,
+      "text": "忙完"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33000000,
+      "duration": 7500000,
+      "text": "之后"
+    }
+  ]
+}

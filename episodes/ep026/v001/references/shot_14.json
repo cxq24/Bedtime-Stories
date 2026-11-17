@@ -1,0 +1,20 @@
+{
+  "shot_id": 14,
+  "roles": [
+    {
+      "id": "pipi",
+      "name": "皮皮",
+      "anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+      "outfit": "day_v001",
+      "outfit_description": "换装表左：灰蓝短背带裤、米色上衣、蓝布鞋、小黄书包，无帽；仅画这套服装，不复制表中其他兔子。",
+      "paths": [
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+      ]
+    }
+  ],
+  "reference_paths": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+  ]
+}

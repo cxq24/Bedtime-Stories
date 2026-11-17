@@ -1,0 +1,59 @@
+{
+  "text": "弯弯的，像一片轻巧的羽毛叶子；",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "9f0125da85ce7e430a3b1017288caaef6bf0ca3238ebfcd4ed89a6f893697485",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6922910,
+      "text": "弯弯"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8192500,
+      "duration": 3269160,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16269160,
+      "duration": 2500000,
+      "text": "像"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18961660,
+      "duration": 4807500,
+      "text": "一片"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24153750,
+      "duration": 5769160,
+      "text": "轻巧"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29922910,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31653750,
+      "duration": 4422910,
+      "text": "羽毛"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36269160,
+      "duration": 7307500,
+      "text": "叶子"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "shot_id": 29,
+  "roles": [
+    {
+      "id": "pipi",
+      "name": "皮皮",
+      "anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+      "outfit": "default_v001",
+      "outfit_description": "深蓝淡黄星星睡帽与黄色帽球为常用夜间配饰，活动时可不佩戴。",
+      "paths": [
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+      ]
+    }
+  ],
+  "reference_paths": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep026/v001/images/shot_24.png"
+  ],
+  "scene_anchor": "images/shot_24.png: bedroom bed, pillow, lamp and furniture layout only; compose a fresh shot"
+}

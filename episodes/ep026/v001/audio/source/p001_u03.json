@@ -1,0 +1,113 @@
+{
+  "text": "皮皮像个小主人一样，主动承担起了给大家准备热果茶的任务。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "4597cd9667a839005fa3ff1769e866a547af9f152e4823d79527d8f81fefd000",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5384580,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 2884580,
+      "text": "像"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9922910,
+      "duration": 961660,
+      "text": "个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11077080,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14346250,
+      "duration": 5192500,
+      "text": "主人"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19730830,
+      "duration": 6153750,
+      "text": "一样"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30884580,
+      "duration": 5384580,
+      "text": "主动"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36461660,
+      "duration": 5769160,
+      "text": "承担"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42230830,
+      "duration": 3076660,
+      "text": "起"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45307500,
+      "duration": 4230830,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51077080,
+      "duration": 2115410,
+      "text": "给"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53384580,
+      "duration": 5000000,
+      "text": "大家"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58577080,
+      "duration": 5000000,
+      "text": "准备"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63961660,
+      "duration": 4615410,
+      "text": "热果"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 68577080,
+      "duration": 3461250,
+      "text": "茶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 72038330,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 73769160,
+      "duration": 6730830,
+      "text": "任务"
+    }
+  ]
+}

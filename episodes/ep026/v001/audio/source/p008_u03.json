@@ -1,0 +1,29 @@
+{
+  "text": "轻轻散开啦。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "990045317cc336b7492550e8475cef1a298171f6fd5d6b284cf5e9a44e5159f5",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6538330,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8000000,
+      "duration": 6922910,
+      "text": "散开"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14922910,
+      "duration": 4038330,
+      "text": "啦"
+    }
+  ]
+}

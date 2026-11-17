@@ -1,0 +1,47 @@
+{
+  "text": "全都留给了夜晚的安静。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "26a8fbc3a6a5ce5e394c3e63dfb8499959c5979fa2d1ecffbec68e645f9a17c9",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6922910,
+      "text": "全都"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8384580,
+      "duration": 5000000,
+      "text": "留给"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13384580,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15115410,
+      "duration": 5384580,
+      "text": "夜晚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20500000,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22038330,
+      "duration": 7884580,
+      "text": "安静"
+    }
+  ]
+}

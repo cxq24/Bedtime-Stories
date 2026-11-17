@@ -1,0 +1,65 @@
+{
+  "text": "壶嘴里正冒出一缕缕淡淡的、",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "9629f2e461642942ddbe2d402b4c7e8f37d974868afa0ca6292083a5183c8d0d",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 7115410,
+      "text": "壶嘴"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8384580,
+      "duration": 4615410,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14538330,
+      "duration": 2884580,
+      "text": "正"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17422910,
+      "duration": 2500000,
+      "text": "冒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19922910,
+      "duration": 2692500,
+      "text": "出"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23000000,
+      "duration": 2692500,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25692500,
+      "duration": 4807500,
+      "text": "缕缕"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30884580,
+      "duration": 7115410,
+      "text": "淡淡"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38000000,
+      "duration": 3077080,
+      "text": "的"
+    }
+  ]
+}

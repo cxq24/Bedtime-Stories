@@ -1,0 +1,556 @@
+{
+  "episode": "ep026",
+  "version": "v001",
+  "preflight_status": "passed_text_and_image_review",
+  "assets": {
+    "kettle": {
+      "asset_id": "ep026_enamel_kettle",
+      "appearance": "同一只圆肚浅奶油白搪瓷小水壶，深蓝壶沿和壶底细边、圆蓝色壶盖钮、弯曲壶嘴与另一侧的拱形把手；壶身有淡淡蓝色叶片花饰，透视下花饰可能不显眼。镜头方位改变时壶嘴和把手在画面左右可变化，但水壶造型与软木垫位置始终不变。",
+      "first_appearance_shot": 1,
+      "state": "坐在同一块圆形厚软木隔热垫上；朋友离开后逐渐冷却，画面中的壶嘴朝向随视点变化但未被搬动。",
+      "reference_image": "images/shot_05.png"
+    },
+    "trivet": {
+      "asset_id": "ep026_cork_trivet",
+      "appearance": "同一圆形厚软木隔热垫，天然浅棕细颗粒边缘，始终位于水壶下方。",
+      "first_appearance_shot": 1,
+      "state": "全程不移动，承托搪瓷壶。"
+    },
+    "tray": {
+      "asset_id": "ep026_wooden_tray",
+      "appearance": "长方形浅木托盘，圆角，木纹清楚，无花纹。",
+      "first_appearance_shot": 1,
+      "state": "皮皮用其端杯；后来从桌面中间挪到一侧。"
+    },
+    "cups": {
+      "asset_id": "ep026_three_cups",
+      "appearance": "固定三只矮胖陶杯：苹果红、蜂蜜黄、浅天蓝；朋友来时排在桌边，喝完后一只只洗净放回托盘。",
+      "first_appearance_shot": 1,
+      "state": "盛茶时排列，朋友离开后清洗并收拢。"
+    },
+    "pinecone_figures": {
+      "asset_id": "ep026_pinecone_figures",
+      "appearance": "同一组手工松果小人，天然棕色松果身体，彩纸小帽，木珠脸，无字。",
+      "first_appearance_shot": 1,
+      "state": "朋友和皮皮一起完成，摆在餐桌上。"
+    },
+    "steam": {
+      "asset_id": "ep026_last_steam",
+      "appearance": "壶嘴升起的一缕很淡白色水汽，先卷曲似羽毛叶片，再被轻风拉成长围巾形，逐渐变淡消散；始终是气态，无脸无手无实体。",
+      "first_appearance_shot": 2,
+      "state": "逐镜减淡直至消散。"
+    },
+    "bedroom": {
+      "asset_id": "ep026_bedroom_layout",
+      "appearance": "木屋卧室固定同一空间：浅木床靠墙、米色枕头、暖黄色毛毯、床边木地板与一盏柔和暖灯。",
+      "first_appearance_shot": null,
+      "state": "后段场景，布局不变。"
+    },
+    "carrot": {
+      "asset_id": "ep026_carrot_plush",
+      "appearance": "一只橙色胡萝卜形绒布玩偶，绿色短叶冠、圆润缝线，固定尺寸约皮皮前臂长。",
+      "first_appearance_shot": null,
+      "state": "放在枕边靠近皮皮。"
+    },
+    "blanket": {
+      "asset_id": "ep026_yellow_blanket",
+      "appearance": "同一条暖黄色柔软毛毯，细密织纹。",
+      "first_appearance_shot": null,
+      "state": "已铺床，随后覆盖皮皮至肩膀。"
+    }
+  },
+  "shot_states": [
+    {
+      "shot_id": 1,
+      "paragraph_id": "p000",
+      "place": "暖灯木屋餐厅开场",
+      "characters_present": [
+        "pipi",
+        "rongrong",
+        "yaya"
+      ],
+      "continuity_refs": [],
+      "state_before": "沿用前镜固定空间和重复物件外观；本镜仅改变口播所述的角色动作或物件状态。",
+      "state_after": "按本镜口播更新水汽、茶具和角色位置；重复道具不得移动、替换或复制。",
+      "transition_from": null
+    },
+    {
+      "shot_id": 2,
+      "paragraph_id": "p000",
+      "place": "暖灯木屋餐厅开场",
+      "characters_present": [
+        "pipi"
+      ],
+      "continuity_refs": [],
+      "state_before": "沿用前镜固定空间和重复物件外观；本镜仅改变口播所述的角色动作或物件状态。",
+      "state_after": "按本镜口播更新水汽、茶具和角色位置；重复道具不得移动、替换或复制。",
+      "transition_from": 1
+    },
+    {
+      "shot_id": 3,
+      "paragraph_id": "p001",
+      "place": "傍晚木屋餐厅",
+      "characters_present": [
+        "pipi",
+        "rongrong",
+        "yaya"
+      ],
+      "continuity_refs": [
+        "ep026_enamel_kettle",
+        "ep026_cork_trivet",
+        "ep026_wooden_tray",
+        "ep026_three_cups",
+        "ep026_pinecone_figures"
+      ],
+      "state_before": "沿用前镜固定空间和重复物件外观；本镜仅改变口播所述的角色动作或物件状态。",
+      "state_after": "按本镜口播更新水汽、茶具和角色位置；重复道具不得移动、替换或复制。",
+      "transition_from": 2
+    },
+    {
+      "shot_id": 4,
+      "paragraph_id": "p001",
+      "place": "傍晚木屋餐厅",
+      "characters_present": [
+        "pipi",
+        "rongrong",
+        "yaya"
+      ],
+      "continuity_refs": [
+        "ep026_enamel_kettle",
+        "ep026_cork_trivet",
+        "ep026_wooden_tray",
+        "ep026_three_cups",
+        "ep026_pinecone_figures"
+      ],
+      "state_before": "沿用前镜固定空间和重复物件外观；本镜仅改变口播所述的角色动作或物件状态。",
+      "state_after": "按本镜口播更新水汽、茶具和角色位置；重复道具不得移动、替换或复制。",
+      "transition_from": 3
+    },
+    {
+      "shot_id": 5,
+      "paragraph_id": "p002",
+      "place": "同一木屋餐厅与餐桌",
+      "characters_present": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "ep026_enamel_kettle",
+        "ep026_cork_trivet",
+        "ep026_wooden_tray",
+        "ep026_three_cups",
+        "ep026_pinecone_figures"
+      ],
+      "state_before": "沿用前镜固定空间和重复物件外观；本镜仅改变口播所述的角色动作或物件状态。",
+      "state_after": "按本镜口播更新水汽、茶具和角色位置；重复道具不得移动、替换或复制。",
+      "transition_from": 4
+    },
+    {
+      "shot_id": 6,
+      "paragraph_id": "p002",
+      "place": "同一木屋餐厅与餐桌",
+      "characters_present": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "ep026_enamel_kettle",
+        "ep026_cork_trivet",
+        "ep026_wooden_tray",
+        "ep026_three_cups",
+        "ep026_pinecone_figures",
+        "ep026_last_steam"
+      ],
+      "state_before": "沿用前镜固定空间和重复物件外观；本镜仅改变口播所述的角色动作或物件状态。",
+      "state_after": "按本镜口播更新水汽、茶具和角色位置；重复道具不得移动、替换或复制。",
+      "transition_from": 5
+    },
+    {
+      "shot_id": 7,
+      "paragraph_id": "p002",
+      "place": "同一木屋餐厅与餐桌",
+      "characters_present": [
+        "pipi",
+        "rongrong",
+        "yaya"
+      ],
+      "continuity_refs": [
+        "ep026_enamel_kettle",
+        "ep026_cork_trivet",
+        "ep026_wooden_tray",
+        "ep026_three_cups",
+        "ep026_pinecone_figures"
+      ],
+      "state_before": "沿用前镜固定空间和重复物件外观；本镜仅改变口播所述的角色动作或物件状态。",
+      "state_after": "按本镜口播更新水汽、茶具和角色位置；重复道具不得移动、替换或复制。",
+      "transition_from": 6
+    },
+    {
+      "shot_id": 8,
+      "paragraph_id": "p002",
+      "place": "同一木屋餐厅与餐桌",
+      "characters_present": [
+        "pipi",
+        "rongrong",
+        "yaya"
+      ],
+      "continuity_refs": [
+        "ep026_enamel_kettle",
+        "ep026_cork_trivet",
+        "ep026_wooden_tray",
+        "ep026_three_cups",
+        "ep026_pinecone_figures"
+      ],
+      "state_before": "沿用前镜固定空间和重复物件外观；本镜仅改变口播所述的角色动作或物件状态。",
+      "state_after": "按本镜口播更新水汽、茶具和角色位置；重复道具不得移动、替换或复制。",
+      "transition_from": 7
+    },
+    {
+      "shot_id": 9,
+      "paragraph_id": "p002",
+      "place": "同一木屋餐厅与餐桌",
+      "characters_present": [
+        "pipi",
+        "rongrong",
+        "yaya"
+      ],
+      "continuity_refs": [
+        "ep026_enamel_kettle",
+        "ep026_cork_trivet",
+        "ep026_wooden_tray",
+        "ep026_three_cups",
+        "ep026_pinecone_figures"
+      ],
+      "state_before": "沿用前镜固定空间和重复物件外观；本镜仅改变口播所述的角色动作或物件状态。",
+      "state_after": "按本镜口播更新水汽、茶具和角色位置；重复道具不得移动、替换或复制。",
+      "transition_from": 8
+    },
+    {
+      "shot_id": 10,
+      "paragraph_id": "p003",
+      "place": "同一餐厅收拾桌面",
+      "characters_present": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "ep026_enamel_kettle",
+        "ep026_cork_trivet",
+        "ep026_last_steam"
+      ],
+      "state_before": "沿用前镜固定空间和重复物件外观；本镜仅改变口播所述的角色动作或物件状态。",
+      "state_after": "按本镜口播更新水汽、茶具和角色位置；重复道具不得移动、替换或复制。",
+      "transition_from": 9
+    },
+    {
+      "shot_id": 11,
+      "paragraph_id": "p003",
+      "place": "同一餐厅收拾桌面",
+      "characters_present": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "ep026_enamel_kettle",
+        "ep026_cork_trivet",
+        "ep026_last_steam",
+        "ep026_wooden_tray",
+        "ep026_three_cups"
+      ],
+      "state_before": "沿用前镜固定空间和重复物件外观；本镜仅改变口播所述的角色动作或物件状态。",
+      "state_after": "按本镜口播更新水汽、茶具和角色位置；重复道具不得移动、替换或复制。",
+      "transition_from": 10
+    },
+    {
+      "shot_id": 12,
+      "paragraph_id": "p003",
+      "place": "同一餐厅收拾桌面",
+      "characters_present": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "ep026_enamel_kettle",
+        "ep026_cork_trivet",
+        "ep026_last_steam",
+        "ep026_wooden_tray",
+        "ep026_three_cups"
+      ],
+      "state_before": "沿用前镜固定空间和重复物件外观；本镜仅改变口播所述的角色动作或物件状态。",
+      "state_after": "按本镜口播更新水汽、茶具和角色位置；重复道具不得移动、替换或复制。",
+      "transition_from": 11
+    },
+    {
+      "shot_id": 13,
+      "paragraph_id": "p004",
+      "place": "同一餐厅观察水汽",
+      "characters_present": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "ep026_enamel_kettle",
+        "ep026_cork_trivet",
+        "ep026_last_steam"
+      ],
+      "state_before": "沿用前镜固定空间和重复物件外观；本镜仅改变口播所述的角色动作或物件状态。",
+      "state_after": "按本镜口播更新水汽、茶具和角色位置；重复道具不得移动、替换或复制。",
+      "transition_from": 12
+    },
+    {
+      "shot_id": 14,
+      "paragraph_id": "p004",
+      "place": "同一餐厅观察水汽",
+      "characters_present": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "ep026_enamel_kettle",
+        "ep026_cork_trivet",
+        "ep026_last_steam"
+      ],
+      "state_before": "沿用前镜固定空间和重复物件外观；本镜仅改变口播所述的角色动作或物件状态。",
+      "state_after": "按本镜口播更新水汽、茶具和角色位置；重复道具不得移动、替换或复制。",
+      "transition_from": 13
+    },
+    {
+      "shot_id": 15,
+      "paragraph_id": "p004",
+      "place": "同一餐厅观察水汽",
+      "characters_present": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "ep026_enamel_kettle",
+        "ep026_cork_trivet",
+        "ep026_last_steam"
+      ],
+      "state_before": "沿用前镜固定空间和重复物件外观；本镜仅改变口播所述的角色动作或物件状态。",
+      "state_after": "按本镜口播更新水汽、茶具和角色位置；重复道具不得移动、替换或复制。",
+      "transition_from": 14
+    },
+    {
+      "shot_id": 16,
+      "paragraph_id": "p005",
+      "place": "同一餐厅慢慢收尾",
+      "characters_present": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "ep026_enamel_kettle",
+        "ep026_cork_trivet",
+        "ep026_last_steam",
+        "ep026_wooden_tray",
+        "ep026_three_cups"
+      ],
+      "state_before": "沿用前镜固定空间和重复物件外观；本镜仅改变口播所述的角色动作或物件状态。",
+      "state_after": "按本镜口播更新水汽、茶具和角色位置；重复道具不得移动、替换或复制。",
+      "transition_from": 15
+    },
+    {
+      "shot_id": 17,
+      "paragraph_id": "p005",
+      "place": "同一餐厅慢慢收尾",
+      "characters_present": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "ep026_enamel_kettle",
+        "ep026_cork_trivet",
+        "ep026_last_steam"
+      ],
+      "state_before": "沿用前镜固定空间和重复物件外观；本镜仅改变口播所述的角色动作或物件状态。",
+      "state_after": "按本镜口播更新水汽、茶具和角色位置；重复道具不得移动、替换或复制。",
+      "transition_from": 16
+    },
+    {
+      "shot_id": 18,
+      "paragraph_id": "p005",
+      "place": "同一餐厅慢慢收尾",
+      "characters_present": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "ep026_enamel_kettle",
+        "ep026_cork_trivet",
+        "ep026_last_steam"
+      ],
+      "state_before": "沿用前镜固定空间和重复物件外观；本镜仅改变口播所述的角色动作或物件状态。",
+      "state_after": "按本镜口播更新水汽、茶具和角色位置；重复道具不得移动、替换或复制。",
+      "transition_from": 17
+    },
+    {
+      "shot_id": 19,
+      "paragraph_id": "p005",
+      "place": "同一餐厅慢慢收尾",
+      "characters_present": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "ep026_enamel_kettle",
+        "ep026_cork_trivet",
+        "ep026_last_steam"
+      ],
+      "state_before": "沿用前镜固定空间和重复物件外观；本镜仅改变口播所述的角色动作或物件状态。",
+      "state_after": "按本镜口播更新水汽、茶具和角色位置；重复道具不得移动、替换或复制。",
+      "transition_from": 18
+    },
+    {
+      "shot_id": 20,
+      "paragraph_id": "p006",
+      "place": "木屋卧室",
+      "characters_present": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "ep026_bedroom_layout",
+        "ep026_carrot_plush",
+        "ep026_yellow_blanket"
+      ],
+      "state_before": "沿用前镜固定空间和重复物件外观；本镜仅改变口播所述的角色动作或物件状态。",
+      "state_after": "按本镜口播更新水汽、茶具和角色位置；重复道具不得移动、替换或复制。",
+      "transition_from": 19
+    },
+    {
+      "shot_id": 21,
+      "paragraph_id": "p006",
+      "place": "木屋卧室",
+      "characters_present": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "ep026_bedroom_layout",
+        "ep026_carrot_plush",
+        "ep026_yellow_blanket"
+      ],
+      "state_before": "沿用前镜固定空间和重复物件外观；本镜仅改变口播所述的角色动作或物件状态。",
+      "state_after": "按本镜口播更新水汽、茶具和角色位置；重复道具不得移动、替换或复制。",
+      "transition_from": 20
+    },
+    {
+      "shot_id": 22,
+      "paragraph_id": "p006",
+      "place": "木屋卧室",
+      "characters_present": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "ep026_bedroom_layout",
+        "ep026_carrot_plush",
+        "ep026_yellow_blanket"
+      ],
+      "state_before": "沿用前镜固定空间和重复物件外观；本镜仅改变口播所述的角色动作或物件状态。",
+      "state_after": "按本镜口播更新水汽、茶具和角色位置；重复道具不得移动、替换或复制。",
+      "transition_from": 21
+    },
+    {
+      "shot_id": 23,
+      "paragraph_id": "p006",
+      "place": "木屋卧室",
+      "characters_present": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "ep026_bedroom_layout",
+        "ep026_carrot_plush",
+        "ep026_yellow_blanket"
+      ],
+      "state_before": "沿用前镜固定空间和重复物件外观；本镜仅改变口播所述的角色动作或物件状态。",
+      "state_after": "按本镜口播更新水汽、茶具和角色位置；重复道具不得移动、替换或复制。",
+      "transition_from": 22
+    },
+    {
+      "shot_id": 24,
+      "paragraph_id": "p007",
+      "place": "同一木屋卧室",
+      "characters_present": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "ep026_bedroom_layout",
+        "ep026_carrot_plush",
+        "ep026_yellow_blanket"
+      ],
+      "state_before": "沿用前镜固定空间和重复物件外观；本镜仅改变口播所述的角色动作或物件状态。",
+      "state_after": "按本镜口播更新水汽、茶具和角色位置；重复道具不得移动、替换或复制。",
+      "transition_from": 23
+    },
+    {
+      "shot_id": 25,
+      "paragraph_id": "p007",
+      "place": "同一木屋卧室",
+      "characters_present": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "ep026_bedroom_layout",
+        "ep026_carrot_plush",
+        "ep026_yellow_blanket"
+      ],
+      "state_before": "沿用前镜固定空间和重复物件外观；本镜仅改变口播所述的角色动作或物件状态。",
+      "state_after": "按本镜口播更新水汽、茶具和角色位置；重复道具不得移动、替换或复制。",
+      "transition_from": 24
+    },
+    {
+      "shot_id": 26,
+      "paragraph_id": "p007",
+      "place": "同一木屋卧室",
+      "characters_present": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "ep026_bedroom_layout",
+        "ep026_carrot_plush",
+        "ep026_yellow_blanket"
+      ],
+      "state_before": "沿用前镜固定空间和重复物件外观；本镜仅改变口播所述的角色动作或物件状态。",
+      "state_after": "按本镜口播更新水汽、茶具和角色位置；重复道具不得移动、替换或复制。",
+      "transition_from": 25
+    },
+    {
+      "shot_id": 27,
+      "paragraph_id": "p008",
+      "place": "同一木屋卧室",
+      "characters_present": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "ep026_bedroom_layout",
+        "ep026_carrot_plush",
+        "ep026_yellow_blanket"
+      ],
+      "state_before": "沿用前镜固定空间和重复物件外观；本镜仅改变口播所述的角色动作或物件状态。",
+      "state_after": "按本镜口播更新水汽、茶具和角色位置；重复道具不得移动、替换或复制。",
+      "transition_from": 26
+    },
+    {
+      "shot_id": 28,
+      "paragraph_id": "p008",
+      "place": "同一木屋卧室",
+      "characters_present": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "ep026_bedroom_layout",
+        "ep026_carrot_plush",
+        "ep026_yellow_blanket"
+      ],
+      "state_before": "沿用前镜固定空间和重复物件外观；本镜仅改变口播所述的角色动作或物件状态。",
+      "state_after": "按本镜口播更新水汽、茶具和角色位置；重复道具不得移动、替换或复制。",
+      "transition_from": 27
+    },
+    {
+      "shot_id": 29,
+      "paragraph_id": "p008",
+      "place": "同一木屋卧室",
+      "characters_present": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "ep026_bedroom_layout",
+        "ep026_carrot_plush",
+        "ep026_yellow_blanket"
+      ],
+      "state_before": "沿用前镜固定空间和重复物件外观；本镜仅改变口播所述的角色动作或物件状态。",
+      "state_after": "按本镜口播更新水汽、茶具和角色位置；重复道具不得移动、替换或复制。",
+      "transition_from": 28
+    }
+  ],
+  "text_preflight": "顺序复核通过：招待朋友→朋友离开后洗杯并观察最后一缕水汽→不触碰水汽、托盘移到一侧→水汽消散与水壶冷却→擦净桌面并关柜门→皮皮回卧室安顿。水壶与软木垫固定不动，托盘只在口播处从桌面中央移开，朋友离家后不再出现；卧室床铺、枕头、胡萝卜玩偶和毛毯沿用相同外观。图像完成后需另做接触表审查。",
+  "image_contact_sheet": "checks/storyboard_contact.jpg",
+  "image_review": "29 distinct plot illustrations; scene continuity reviewed"
+}

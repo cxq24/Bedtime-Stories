@@ -1,0 +1,107 @@
+{
+  "text": "也渐渐凉了下来，安安稳稳地坐在厚厚的软木隔热垫上。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "181de3a2fb875b27063ede8efee4e50c20ff75204ea1f5ac625ee2d679f1d400",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2500000,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3961660,
+      "duration": 5384580,
+      "text": "渐渐"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9730830,
+      "duration": 2884580,
+      "text": "凉"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12615410,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13961660,
+      "duration": 7307500,
+      "text": "下来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26077080,
+      "duration": 11153750,
+      "text": "安安稳稳"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37230830,
+      "duration": 4038330,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42807500,
+      "duration": 2884580,
+      "text": "坐"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45692500,
+      "duration": 2115410,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48192500,
+      "duration": 3269160,
+      "text": "厚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51461660,
+      "duration": 2692080,
+      "text": "厚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54153750,
+      "duration": 1730830,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56269160,
+      "duration": 2692500,
+      "text": "软"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58961660,
+      "duration": 4615410,
+      "text": "木隔"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63769160,
+      "duration": 6346250,
+      "text": "热垫"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 70115410,
+      "duration": 4615410,
+      "text": "上"
+    }
+  ]
+}

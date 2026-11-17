@@ -1,0 +1,65 @@
+{
+  "text": "皮皮怎样让自己也慢慢安顿下来呢？",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "c3cfce8d30a93526470ac1a14f7823f2f14590d727cb04c391a28785102e2e95",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5192500,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 4615410,
+      "text": "怎样"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11653750,
+      "duration": 2692500,
+      "text": "让"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14346250,
+      "duration": 8077080,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23961660,
+      "duration": 2307500,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26269160,
+      "duration": 5000000,
+      "text": "慢慢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31461660,
+      "duration": 5577080,
+      "text": "安顿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37230830,
+      "duration": 5769160,
+      "text": "下来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43000000,
+      "duration": 3461660,
+      "text": "呢"
+    }
+  ]
+}

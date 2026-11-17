@@ -1,0 +1,89 @@
+{
+  "text": "而我这个小主人，也完成了今天的招待任务啦。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "d9f6d5f849ccae310d50268cb9ee3e096a88ec8498ade89b138cf5387f5e76e0",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3077080,
+      "text": "而"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4346250,
+      "duration": 2500000,
+      "text": "我"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 3653750,
+      "text": "这个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10884580,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14153750,
+      "duration": 7692500,
+      "text": "主人"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25500000,
+      "duration": 1922910,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27615410,
+      "duration": 5961660,
+      "text": "完成"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33577080,
+      "duration": 1922910,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35884580,
+      "duration": 4807500,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40692500,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42422910,
+      "duration": 5384580,
+      "text": "招待"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48000000,
+      "duration": 4807500,
+      "text": "任务"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52807500,
+      "duration": 3269160,
+      "text": "啦"
+    }
+  ]
+}

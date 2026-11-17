@@ -1,0 +1,14 @@
+{
+  "source": "OpenAI image_gen",
+  "image_path": "cover_base.png",
+  "sha256": "cf489a742435d436906317ef0e08e08737c788006aba3903aeab2ee9ab40deb0",
+  "prompt_file": "cover-image-prompt.md",
+  "reference_manifest": "references/cover.json",
+  "user_visual_acceptance": "not_recorded",
+  "prompt": "# 第026集封面底图生成提示词\n\n为《皮皮看见小云》生成独立的竖屏9:16全幅睡前绘本水彩插画，不含任何文字。皮皮是参考图中的小灰兔，圆脸、粉鼻、长耳身份保持一致；温暖傍晚的木屋餐厅，皮皮坐在一张木桌边，专注又平静地看着奶油白搪瓷小水壶壶嘴上方一缕极淡白色水汽。水汽略呈柔软小云形，但明确是自然的水汽而非有生命的云；壶下是厚软木垫。暖黄色吊灯与柔和蓝灰暮色相映，画面有安静、忙完后慢慢安顿的感觉。主体和水壶安排在画面上半部，画面下部留空，不出现拼贴、边框、标签、logo、水印、可读文字或额外人物。风格与本集逐镜插画一致、纸纹细腻、柔和克制。\n\n封面标题由渲染程序叠加，统一为“皮皮看见小云”。封面不是剧情镜头，不计入镜数。",
+  "reference_inputs": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep026/v001/images/shot_05.png"
+  ]
+}

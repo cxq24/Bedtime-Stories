@@ -1,0 +1,77 @@
+{
+  "text": "而那只忙碌了一下午的搪瓷小水壶，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "69dea97e8f0bbf00b9381449ddf0111b5d3c5efd80dad9422c9dbf97fc6f10a3",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2307500,
+      "text": "而"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3769160,
+      "duration": 2500000,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6269160,
+      "duration": 1922910,
+      "text": "只"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8577080,
+      "duration": 5576660,
+      "text": "忙碌"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14153750,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15692500,
+      "duration": 1538330,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17230830,
+      "duration": 6346250,
+      "text": "下午"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23577080,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25307500,
+      "duration": 5961660,
+      "text": "搪瓷"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31461660,
+      "duration": 3461250,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34922910,
+      "duration": 9230830,
+      "text": "水壶"
+    }
+  ]
+}

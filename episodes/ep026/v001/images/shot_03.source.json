@@ -1,0 +1,24 @@
+{
+  "source": "OpenAI image_gen",
+  "generated_image": "original full-scene illustration; resized only by renderer",
+  "image_path": "images/shot_03.png",
+  "sha256": "c7ac7fd9fff1a959c82a5003db414ab3d8db67fe22686923b33959b9540f79dd",
+  "prompt_file": "illustration-prompts/shot_03.txt",
+  "prompt": "Create ONE original full-bleed vertical 9:16 children's bedtime story illustration, hand-painted soft watercolor on fine paper, gentle muted colors, rounded forms, warm natural indoor lamp light, subtle paper grain. Never render any text, letters, labels, numbers, logos, speech bubbles, border, collage or watermark. Fixed static composition, no motion streaks. Reserve the bottom 30% as low-detail background for later subtitles; keep faces and important actions in upper 68%.\nInput 1 is the verified identity/wardrobe reference for 皮皮 (pipi): 暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。; outfit day_v001. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nInput 2 is the verified identity/wardrobe reference for 绒绒 (rongrong): 浅棕绒毛、圆耳、米色口鼻。; outfit None. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nInput 3 is the verified identity/wardrobe reference for 芽芽 (yaya): 柔浅赭色、奶油色小斑点、圆润口鼻、细长但圆润的腿。; outfit None. Preserve identity only; act out this shot's narration with a fresh expression and posture.\nScene: 傍晚木屋餐厅.\nExact moment: 傍晚的木屋餐厅，皮皮穿灰蓝背带裤和米色上衣，像小主人一样在木桌旁准备托盘和热茶，神情认真又自信；小熊绒绒和小鹿芽芽在桌边一起做松果小人。\nNarration this still must represent: 皮皮现在越来越能干了。今天下午，小熊绒绒和小鹿芽芽来家里一起做手工，\nVisible characters: 皮皮, 绒绒, 芽芽. Exactly 3 animal character(s), each appears once. Do not add characters when count is zero. Preserve the repeated prop identities and positions described in this scene. Steam is only faint white water vapor, never a living cloud. Pipi is a warm-gray rabbit with round face, pink nose, naturally drooping long ears; preserve the referenced identity. Expressions are scene-specific, calm and natural, not default sad or sleepy. No unmentioned actions or props.",
+  "reference_manifest": "references/shot_03.json",
+  "reference_inputs": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/rongrong_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/yaya_identity_v001.png"
+  ],
+  "characters": [
+    "pipi",
+    "rongrong",
+    "yaya"
+  ],
+  "outfits": {
+    "pipi": "day_v001"
+  },
+  "user_visual_acceptance": "not_recorded"
+}

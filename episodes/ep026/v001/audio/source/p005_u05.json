@@ -1,0 +1,83 @@
+{
+  "text": "最后无声无息地融进了餐厅暖黄色的灯光里，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "de1b40eff37f9ed88289f8add5f6f25593e05acca4298e825259bc562b58ce7a",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5577080,
+      "text": "最后"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7230830,
+      "duration": 10961660,
+      "text": "无声无息"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18192500,
+      "duration": 1730830,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20307500,
+      "duration": 2692500,
+      "text": "融"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23000000,
+      "duration": 2115410,
+      "text": "进"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25115410,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26653750,
+      "duration": 6730830,
+      "text": "餐厅"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33769160,
+      "duration": 2884580,
+      "text": "暖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36653750,
+      "duration": 6538330,
+      "text": "黄色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43192500,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44730830,
+      "duration": 7115410,
+      "text": "灯光"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51846250,
+      "duration": 3269160,
+      "text": "里"
+    }
+  ]
+}
