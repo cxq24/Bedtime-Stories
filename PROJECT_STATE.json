@@ -52,19 +52,19 @@
     "archives_in_current_tree": false,
     "loose_sources_included": true,
     "historical_commits_rewritten": false,
-    "status": "ep027_v001_full_project_and_delivery_synced_to_github_main",
+    "status": "ep026_v001_full_project_and_delivery_synced_to_github_main",
     "video_sync_exception": "Per user request, ep006-v002, ep007-v002, ep008-v002, ep009-v002, ep010-v001, ep011-v001, ep012-v001, and ep013-v001 main/clean videos are included; ep009-v001 source materials remain without video.; ep015-v001 main and clean videos were explicitly requested and synced on 2026-11-14.; ep021-v001 delivery bundle was synced to GitHub main on 2026-11-15 per the user's standing main-branch instruction.; ep022-v001 delivery bundle was synced to GitHub main on 2026-11-16 per the user's standing main-branch instruction.; ep023-v001 complete project and delivery, including both video masters, was synced to GitHub main on 2026-11-16 per the user's request.; ep024-v001 complete project and main/clean videos were explicitly requested and synced to GitHub main on 2026-11-16.; ep025-v001 full project and delivery, including main/clean videos, synced to GitHub main on 2026-11-16 per user request (commit d740174).; ep027-v001 full project and delivery, including main/clean videos, synced to GitHub main on 2026-11-16 per user request (commit a6bd460). ep026-v001 full project and delivery, including main/clean videos, synced to GitHub main per user request.",
     "verified_source_commit": "fb496a2f069cf87b8af9cb00fbe01295b7a58c50",
     "record": "docs/production/维护记录/2026-11-14_第015集GitHub同步/RECORD.md",
     "verified_sync_commit": "c0b6785405806b3c1abe11a2996b0a74e0d30852",
-    "latest_sync_record": "docs/production/维护记录/2026-11-16_第027集GitHub同步/RECORD.md",
-    "scope": "complete_ep025_v001_project_and_delivery",
+    "latest_sync_record": "docs/production/维护记录/2026-11-17_第026集GitHub同步/RECORD.md",
+    "scope": "complete_ep026_v001_project_and_delivery",
     "verified_delivery_commit": "dfa891353f1142fecbf9db4d3b0aa717c7f330e1",
-    "latest_delivery_commit": "a6bd460",
-    "latest_delivery_scope": "complete_ep027_v001_project_and_delivery",
-    "latest_delivery_date": "2026-11-16",
-    "latest_sync_commit": "a6bd460",
-    "latest_sync_date": "2026-11-16"
+    "latest_delivery_commit": "d4353ec",
+    "latest_delivery_scope": "ep026_v001_complete_project_and_delivery",
+    "latest_delivery_date": "2026-11-17",
+    "latest_sync_commit": "d4353ec",
+    "latest_sync_date": "2026-11-17"
   },
   "publication": "not_published",
   "latest_production": {
@@ -201,7 +201,10 @@
       "technical_checks": "passed",
       "continuity_preflight": "passed_text_review",
       "continuity_image_review": "passed_full_29_shot_contact_sheet",
-      "human_full_watch": "not_certified"
+      "human_full_watch": "not_certified",
+      "github_sync_date": "2026-11-17",
+      "github_sync_commit": "d4353ec",
+      "github_sync_scope": "complete_ep026_v001_project_and_delivery"
     },
     {
       "id": "ep025",

@@ -16,12 +16,14 @@
   "human_full_watch": "not_certified",
   "user_acceptance": "pending",
   "publication": "not_published",
-  "github_sync": "not_requested_not_synced",
+  "github_sync": "synced_to_main",
   "record": "episodes/ep026/v001/RECORD.md",
   "delivery": "Outputs/2026-11-16/ep026-v001/",
   "silent_tail_s": 8.0,
   "illustrations_completed": 29,
   "illustrations_total": 29,
   "remaining_illustrations": 0,
-  "continuity_image_review": "passed_full_29_shot_contact_sheet"
+  "continuity_image_review": "passed_full_29_shot_contact_sheet",
+  "github_sync_date": "2026-11-17",
+  "github_sync_commit": "d4353ec"
 }
