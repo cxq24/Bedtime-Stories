@@ -27,6 +27,10 @@ __pycache__/
 .env.*
 !.env.example
 
-# Explicitly requested GitHub delivery for episode 026.
+# Explicitly requested GitHub delivery videos.
+!Outputs/2026-11-16/ep025-v001/ep025.mp4
+!Outputs/2026-11-16/ep025-v001/ep025_clean.mp4
 !Outputs/2026-11-16/ep026-v001/ep026.mp4
 !Outputs/2026-11-16/ep026-v001/ep026_clean.mp4
+!Outputs/2026-11-16/ep028-v001/ep028.mp4
+!Outputs/2026-11-16/ep028-v001/ep028_clean.mp4
