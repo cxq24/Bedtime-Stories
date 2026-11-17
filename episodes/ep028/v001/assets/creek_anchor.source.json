@@ -1,0 +1,10 @@
+{
+  "kind": "generated_environment_reference",
+  "source": "image_gen",
+  "prompt": "Forest creek environment anchor; no characters or plot objects; directional current and rock geography only.",
+  "size_px": [
+    941,
+    1672
+  ],
+  "sha256": "a5a98c7682a4492ff97915803c50ed6fa1c90619436efa484f767b05693ce9ea"
+}

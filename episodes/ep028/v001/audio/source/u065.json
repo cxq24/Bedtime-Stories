@@ -1,0 +1,47 @@
+{
+  "text": "就让我们一起靠岸吧。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "d9efcdc427eaafde802f55f546d55726be86a9ca6806d6b3a706720ee80db5a1",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2307500,
+      "text": "就"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3577080,
+      "duration": 2307500,
+      "text": "让"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6077080,
+      "duration": 2692500,
+      "text": "我们"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9153750,
+      "duration": 4615410,
+      "text": "一起"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13961660,
+      "duration": 6345830,
+      "text": "靠岸"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20307500,
+      "duration": 3653750,
+      "text": "吧"
+    }
+  ]
+}

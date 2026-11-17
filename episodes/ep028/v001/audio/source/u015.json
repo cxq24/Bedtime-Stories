@@ -1,0 +1,53 @@
+{
+  "text": "还在叶子船舱的正中间，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "520d0a87a11627bdd6f07ea3bd9b5483ad6dc45adbbac011b045d57ab92ece30",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3461660,
+      "text": "还"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4730830,
+      "duration": 2884580,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8000000,
+      "duration": 4615410,
+      "text": "叶子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12807500,
+      "duration": 6922910,
+      "text": "船舱"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19730830,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21461660,
+      "duration": 2692080,
+      "text": "正"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24153750,
+      "duration": 8269160,
+      "text": "中间"
+    }
+  ]
+}

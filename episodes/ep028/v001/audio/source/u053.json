@@ -1,0 +1,71 @@
+{
+  "text": "把自己的两只长耳朵舒舒服服地放好。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "04398fe524265cdf1ea6f6cacb1536629e30c3d4ef0c7e516f8864d92756864f",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2692500,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4153750,
+      "duration": 4615410,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8769160,
+      "duration": 1730830,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10692500,
+      "duration": 3269160,
+      "text": "两"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13961660,
+      "duration": 1730830,
+      "text": "只"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15884580,
+      "duration": 3653750,
+      "text": "长"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19538330,
+      "duration": 7884580,
+      "text": "耳朵"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28769160,
+      "duration": 12500000,
+      "text": "舒舒服服"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41269160,
+      "duration": 1538330,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43000000,
+      "duration": 8846250,
+      "text": "放好"
+    }
+  ]
+}

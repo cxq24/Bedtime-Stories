@@ -1,0 +1,11 @@
+{
+  "source": "cropped registered prop appearance anchor",
+  "source_file": "assets/prop_anchor.png",
+  "crop_box_px": [
+    50,
+    450,
+    650,
+    750
+  ],
+  "sha256": "9316687d80656324c1eef07655d015c330384cd68a9f2e7155f1a3d46d2723e4"
+}

@@ -1,0 +1,47 @@
+{
+  "text": "小床会稳稳地接住你，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "6e07f1023ca4f36091cdb51a8a9a6e6594e377a6d9ea9b529150ad56ebac29f9",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 7115410,
+      "text": "小床"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8769160,
+      "duration": 2500000,
+      "text": "会"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11269160,
+      "duration": 5192500,
+      "text": "稳稳"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16461660,
+      "duration": 1538330,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18192500,
+      "duration": 5961250,
+      "text": "接住"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24153750,
+      "duration": 4038330,
+      "text": "你"
+    }
+  ]
+}

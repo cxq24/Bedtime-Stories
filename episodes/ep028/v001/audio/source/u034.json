@@ -1,0 +1,35 @@
+{
+  "text": "水波慢慢平息下来。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "a267748b3b4c6a7c72661fbe781c4a7e1b1bb40997edaaf9e44520e8c482e3e8",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 7884580,
+      "text": "水波"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9538330,
+      "duration": 5384580,
+      "text": "慢慢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15115410,
+      "duration": 6153750,
+      "text": "平息"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21461660,
+      "duration": 7500000,
+      "text": "下来"
+    }
+  ]
+}

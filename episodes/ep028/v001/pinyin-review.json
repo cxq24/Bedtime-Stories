@@ -1,0 +1,236 @@
+{
+  "hanzi": 743,
+  "cues": 133,
+  "pinyin_coverage": 1.0,
+  "context_review": "completed_against_episode_text",
+  "target_font_px": {
+    "hanzi": 76,
+    "pinyin": 48
+  },
+  "libass_fontsize_calibration": {
+    "hanzi": 114,
+    "pinyin": 66,
+    "reason": "match actual rasterized glyph scale to bundled-font 76px/48px reference; libass normalizes font metrics"
+  },
+  "audio_pronunciation_listen_review": "not_certified",
+  "overrides": [
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "小朋友们，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "山羊老师带着大家做了一个关于“浮力”的小游戏，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮挑选了一片边缘微微向上卷起的厚樟树叶，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮把这片心爱的“叶子小船”带回了家。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮对着水面轻轻吹了一口气，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "爪子",
+      "pinyin": [
+        "zhuǎ",
+        "zi"
+      ],
+      "context": "皮皮把小爪子停在陶盘外面，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮把小爪子停在陶盘外面，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "一小会儿",
+      "pinyin": [
+        "yì",
+        "xiǎo",
+        "huìr",
+        "r"
+      ],
+      "context": "一小会儿后，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "轻轻地",
+      "pinyin": [
+        "qīng",
+        "qīng",
+        "de"
+      ],
+      "context": "轻轻地靠住了陶盘温润的边缘，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "点儿",
+      "pinyin": [
+        "diǎnr",
+        "r"
+      ],
+      "context": "一点儿也没有被打湿，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮从花盆旁找来一块小小的扁平鹅卵石，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "地方",
+      "pinyin": [
+        "dì",
+        "fang"
+      ],
+      "context": "刚好对着叶子停靠的地方，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "就像是给这个小小的停靠港湾，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "立了一个温柔的码头记号。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "歇一歇",
+      "pinyin": [
+        "xiē",
+        "yi",
+        "xiē"
+      ],
+      "context": "花瓣小乘客也可以在这个小港湾里安心地歇一歇了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "花瓣小乘客也可以在这个小港湾里安心地歇一歇了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮站起身，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "长耳朵",
+      "pinyin": [
+        "cháng",
+        "ěr",
+        "duo"
+      ],
+      "context": "把自己的两只长耳朵舒舒服服地放好。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "舒服",
+      "pinyin": [
+        "shū",
+        "fu"
+      ],
+      "context": "把自己的两只长耳朵舒舒服服地放好。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "舒舒服服",
+      "pinyin": [
+        "shū",
+        "shū",
+        "fu",
+        "fu"
+      ],
+      "context": "把自己的两只长耳朵舒舒服服地放好。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "就是皮皮今晚停靠的岸边呀。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "兔子",
+      "pinyin": [
+        "tù",
+        "zi"
+      ],
+      "context": "屋里小床上的小兔子，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "小朋友，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "愿你做一个安静的好梦，",
+      "review": "context_checked_not_audio_listen_certification"
+    }
+  ]
+}

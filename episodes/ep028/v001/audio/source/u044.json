@@ -1,0 +1,59 @@
+{
+  "text": "轻轻摆在陶盘外面的桌沿上，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "f66c71a7a6a5180160d419dc4ac72590b47f999fbedfaf673addeb439f658059",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6730830,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8192500,
+      "duration": 2500000,
+      "text": "摆"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10692500,
+      "duration": 2307500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13384580,
+      "duration": 5769160,
+      "text": "陶盘"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19153750,
+      "duration": 5000000,
+      "text": "外面"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24153750,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25692500,
+      "duration": 6538330,
+      "text": "桌沿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32230830,
+      "duration": 4615410,
+      "text": "上"
+    }
+  ]
+}

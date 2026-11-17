@@ -1,0 +1,9 @@
+{
+  "shot_id": 13,
+  "source": "image_gen",
+  "generated_file": "/workspace/generated_images/exec-8d1cf8a0-8a55-4f46-9269-64706715b1a3.png",
+  "prompt_sha256": "f12a3c6d174e8ad5b334b95df53937a0145f2d7f1c4a139143f2828df1716897",
+  "reference_manifest": "references/shot_13.json",
+  "reference_manifest_sha256": "cf043add0ce6fe1f32031c4a813896e0ea2983c3756a413b8de1557ec0f8ec42",
+  "sha256": "ef0c369c28542611261b86a29171b219a5fc7828c60ffe80df066d0796846caf"
+}

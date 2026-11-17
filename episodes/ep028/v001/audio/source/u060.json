@@ -1,0 +1,47 @@
+{
+  "text": "也稳稳当当地停靠好了。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "089dd71d951d567f8aadba9ca72a42918d9a9fc8880297b8802e3231e212cbd8",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2500000,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3961660,
+      "duration": 11730830,
+      "text": "稳稳当当"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15692500,
+      "duration": 1153750,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17230830,
+      "duration": 5577080,
+      "text": "停靠"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23000000,
+      "duration": 4230830,
+      "text": "好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27230830,
+      "duration": 3653750,
+      "text": "了"
+    }
+  ]
+}

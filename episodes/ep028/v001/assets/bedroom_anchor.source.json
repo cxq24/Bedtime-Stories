@@ -1,0 +1,11 @@
+{
+  "kind": "edited_environment_reference",
+  "source": "image_gen",
+  "reference_from": "episodes/ep025/v001/assets/bedroom_anchor.png",
+  "prompt": "Retained house layout and watercolour tone; removed the prior carrot toy for this episode; used as setting reference only.",
+  "size_px": [
+    941,
+    1672
+  ],
+  "sha256": "67754af8fccfad5c31702155cc2057af8e2e294c3ebd813f7d2d51bda8d3e603"
+}

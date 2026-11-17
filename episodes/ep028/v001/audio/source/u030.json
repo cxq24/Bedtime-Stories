@@ -1,0 +1,35 @@
+{
+  "text": "也没有再吹气。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "5686d9c91106b0fddd5beaebe168d30fdbe81f7f12d926f0cb2f72530013e121",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2692500,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3961660,
+      "duration": 4038330,
+      "text": "没有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8192500,
+      "duration": 2692080,
+      "text": "再"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10884580,
+      "duration": 8846250,
+      "text": "吹气"
+    }
+  ]
+}

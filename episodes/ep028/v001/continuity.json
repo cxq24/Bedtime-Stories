@@ -1,0 +1,379 @@
+{
+  "episode": "ep028",
+  "version": "v001",
+  "status": "text_and_image_review_passed_ready_to_render",
+  "asset_registry": [
+    {
+      "asset_id": "LEAF_01",
+      "name": "厚樟树叶小船",
+      "appearance": "唯一一片深浅自然的厚樟树叶，细长椭圆，边缘均匀微微上卷，叶脉清楚；始终是一片叶子，不折叠成纸船。",
+      "reference": "assets/prop_anchor.png",
+      "first_state": "pipi在溪边捡选，后带回家入陶盘",
+      "states": [
+        "溪边叶片",
+        "陶盘漂浮并缓转",
+        "顺水靠陶盘边缘",
+        "停稳，保持原样"
+      ]
+    },
+    {
+      "asset_id": "PETAL_01",
+      "name": "粉红花瓣乘客",
+      "appearance": "单粒轻薄浅粉色花瓣，圆润细长、干燥；始终位于LEAF_01船舱中央，不变形、不复制。",
+      "reference": "assets/prop_anchor.png",
+      "states": [
+        "由皮皮放入叶船中央",
+        "随叶船转动但不滑落",
+        "靠岸后仍干燥并留在原处"
+      ]
+    },
+    {
+      "asset_id": "DISH_01",
+      "name": "浅口大陶盘",
+      "appearance": "宽沿、浅口、暖陶土色大圆盘，盛清水；外形大小、桌面位置和朝向一致。",
+      "reference": "assets/porch_anchor.png",
+      "states": [
+        "门廊矮桌摆放并加水",
+        "放入叶船与花瓣",
+        "形成平静停靠港湾"
+      ]
+    },
+    {
+      "asset_id": "PEBBLE_01",
+      "name": "扁平鹅卵石码头标记",
+      "appearance": "一块小而扁的灰褐色圆滑鹅卵石，不带刻字、不发光。",
+      "reference": "assets/prop_anchor.png",
+      "states": [
+        "花盆旁待拾取",
+        "皮皮手中",
+        "陶盘外桌沿对准叶船停靠点，之后不再移动"
+      ]
+    },
+    {
+      "asset_id": "BEDROOM_01",
+      "name": "木卧室固定陈设",
+      "appearance": "固定木墙、同一扇窗、木床、柔软浅米色枕头和暖黄色毛毯；不加入未在本集出现的玩偶。",
+      "reference": "assets/bedroom_anchor.png",
+      "states": [
+        "夜间皮皮回房",
+        "卧床盖毯闭眼",
+        "结尾安睡"
+      ]
+    }
+  ],
+  "geography": {
+    "creek_flow": "all creek shots water flows left to right",
+    "shoreline_warm_rock": "separate from midstream rounded boulder",
+    "porch_table": "DISH_01 stable at center of low porch table; flowerpot stays left of table; warm window light remains behind.",
+    "boat_docking": "leaf stops against dish inner rim; PEbbLE_01 rests outside rim directly aligned"
+  },
+  "character_transitions": [
+    "classroom daytime pipi and goat_teacher",
+    "daytime outing creek pipi in day_v001",
+    "dusk porch pipi in day_v001",
+    "night bedroom pipi changes to sleep_v001 before entering; only pillow and yellow blanket are story-supported bed props."
+  ],
+  "causal_chain": [
+    "choose one curled camphor leaf",
+    "return home and fill one shallow ceramic dish",
+    "place leaf on water and one dry pink petal in center",
+    "gentle breath makes leaf rotate half-turn",
+    "pipi stops blowing and waits",
+    "water calms; leaf follows gentle current to dish rim",
+    "petal stays dry on leaf",
+    "pipi places one small flat pebble outside the dish rim directly aligned with the docking point; pebble is never placed in the water.",
+    "journey ends; pipi transitions to bedroom and rests"
+  ],
+  "shot_continuity": [
+    {
+      "shot_id": 0,
+      "setting": "opening_preview；独立片头构图",
+      "characters": [
+        "pipi"
+      ],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "continuity_refs": []
+    },
+    {
+      "shot_id": 1,
+      "setting": "opening_preview；独立片头构图",
+      "characters": [
+        "pipi"
+      ],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "continuity_refs": []
+    },
+    {
+      "shot_id": 2,
+      "setting": "opening_preview；独立片头构图",
+      "characters": [
+        "pipi"
+      ],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "continuity_refs": []
+    },
+    {
+      "shot_id": 3,
+      "setting": "森林学堂科学角；明亮日间",
+      "characters": [
+        "pipi",
+        "goat_teacher"
+      ],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "continuity_refs": []
+    },
+    {
+      "shot_id": 4,
+      "setting": "森林学堂科学角；明亮日间",
+      "characters": [
+        "pipi",
+        "goat_teacher"
+      ],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "continuity_refs": []
+    },
+    {
+      "shot_id": 5,
+      "setting": "森林小路与溪边；日间野营，溪流从左向右，岸边暖石与溪中圆石保持区分",
+      "characters": [
+        "pipi"
+      ],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "continuity_refs": []
+    },
+    {
+      "shot_id": 6,
+      "setting": "门廊矮桌与浅口陶盘；傍晚至夜间，桌盘窗灯位置固定",
+      "characters": [
+        "pipi"
+      ],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "continuity_refs": []
+    },
+    {
+      "shot_id": 7,
+      "setting": "门廊矮桌与浅口陶盘；傍晚至夜间，桌盘窗灯位置固定",
+      "characters": [
+        "pipi"
+      ],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "continuity_refs": []
+    },
+    {
+      "shot_id": 8,
+      "setting": "门廊矮桌与浅口陶盘；傍晚至夜间，桌盘窗灯位置固定",
+      "characters": [
+        "pipi"
+      ],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "continuity_refs": []
+    },
+    {
+      "shot_id": 9,
+      "setting": "门廊矮桌与浅口陶盘；傍晚至夜间，桌盘窗灯位置固定",
+      "characters": [
+        "pipi"
+      ],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "continuity_refs": []
+    },
+    {
+      "shot_id": 10,
+      "setting": "门廊矮桌与浅口陶盘；傍晚至夜间，桌盘窗灯位置固定",
+      "characters": [
+        "pipi"
+      ],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "continuity_refs": []
+    },
+    {
+      "shot_id": 11,
+      "setting": "门廊矮桌与浅口陶盘；傍晚至夜间，桌盘窗灯位置固定",
+      "characters": [
+        "pipi"
+      ],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "continuity_refs": []
+    },
+    {
+      "shot_id": 12,
+      "setting": "门廊矮桌与浅口陶盘；傍晚至夜间，桌盘窗灯位置固定",
+      "characters": [],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "continuity_refs": []
+    },
+    {
+      "shot_id": 13,
+      "setting": "门廊矮桌与浅口陶盘；傍晚至夜间，桌盘窗灯位置固定",
+      "characters": [],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "continuity_refs": []
+    },
+    {
+      "shot_id": 14,
+      "setting": "门廊矮桌与浅口陶盘；傍晚至夜间，桌盘窗灯位置固定",
+      "characters": [
+        "pipi"
+      ],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "continuity_refs": []
+    },
+    {
+      "shot_id": 15,
+      "setting": "门廊矮桌与浅口陶盘；傍晚至夜间，桌盘窗灯位置固定",
+      "characters": [
+        "pipi"
+      ],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "continuity_refs": []
+    },
+    {
+      "shot_id": 16,
+      "setting": "门廊矮桌与浅口陶盘；傍晚至夜间，桌盘窗灯位置固定",
+      "characters": [],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "continuity_refs": []
+    },
+    {
+      "shot_id": 17,
+      "setting": "门廊矮桌与浅口陶盘；傍晚至夜间，桌盘窗灯位置固定",
+      "characters": [],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "continuity_refs": []
+    },
+    {
+      "shot_id": 18,
+      "setting": "门廊矮桌与浅口陶盘；傍晚至夜间，桌盘窗灯位置固定",
+      "characters": [],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "continuity_refs": []
+    },
+    {
+      "shot_id": 19,
+      "setting": "门廊矮桌与浅口陶盘；傍晚至夜间，桌盘窗灯位置固定",
+      "characters": [
+        "pipi"
+      ],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "continuity_refs": []
+    },
+    {
+      "shot_id": 20,
+      "setting": "门廊矮桌与浅口陶盘；傍晚至夜间，桌盘窗灯位置固定",
+      "characters": [
+        "pipi"
+      ],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "continuity_refs": []
+    },
+    {
+      "shot_id": 21,
+      "setting": "门廊矮桌与浅口陶盘；傍晚至夜间，桌盘窗灯位置固定",
+      "characters": [],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "continuity_refs": []
+    },
+    {
+      "shot_id": 22,
+      "setting": "卧室；夜间，木床、木窗、暖黄毛毯、星星睡帽位置固定",
+      "characters": [
+        "pipi"
+      ],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "continuity_refs": []
+    },
+    {
+      "shot_id": 23,
+      "setting": "卧室；夜间，木床、木窗、暖黄毛毯、星星睡帽位置固定",
+      "characters": [
+        "pipi"
+      ],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "continuity_refs": []
+    },
+    {
+      "shot_id": 24,
+      "setting": "卧室；夜间，木床、木窗、暖黄毛毯、星星睡帽位置固定",
+      "characters": [
+        "pipi"
+      ],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "continuity_refs": []
+    },
+    {
+      "shot_id": 25,
+      "setting": "卧室；夜间，木床、木窗、暖黄毛毯、星星睡帽位置固定",
+      "characters": [
+        "pipi"
+      ],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "continuity_refs": []
+    },
+    {
+      "shot_id": 26,
+      "setting": "卧室；夜间，木床、木窗、暖黄毛毯、星星睡帽位置固定",
+      "characters": [
+        "pipi"
+      ],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "continuity_refs": []
+    },
+    {
+      "shot_id": 27,
+      "setting": "卧室；夜间，木床、木窗、暖黄毛毯、星星睡帽位置固定",
+      "characters": [
+        "pipi"
+      ],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "continuity_refs": []
+    },
+    {
+      "shot_id": 28,
+      "setting": "卧室；夜间，木床、木窗、暖黄毛毯、星星睡帽位置固定",
+      "characters": [
+        "pipi"
+      ],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "continuity_refs": []
+    },
+    {
+      "shot_id": 29,
+      "setting": "卧室；夜间，木床、木窗、暖黄毛毯、星星睡帽位置固定",
+      "characters": [
+        "pipi"
+      ],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "continuity_refs": []
+    }
+  ]
+}

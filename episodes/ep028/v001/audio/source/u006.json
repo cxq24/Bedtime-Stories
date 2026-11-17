@@ -1,0 +1,89 @@
+{
+  "text": "山羊老师带着大家做了一个关于“浮力”的小游戏，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "d3e11aa5deef0b905b0bb4c7990d9daba031b43f0ac43a3fc359b930f5b7ba0b",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6538330,
+      "text": "山羊"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8000000,
+      "duration": 7692500,
+      "text": "老师"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16077080,
+      "duration": 2500000,
+      "text": "带"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18577080,
+      "duration": 1346250,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20115410,
+      "duration": 7500000,
+      "text": "大家"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29153750,
+      "duration": 3077080,
+      "text": "做"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32230830,
+      "duration": 961660,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33384580,
+      "duration": 3653750,
+      "text": "一个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37422910,
+      "duration": 4422910,
+      "text": "关于"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42230830,
+      "duration": 5769160,
+      "text": "浮力"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48000000,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 49346250,
+      "duration": 3076660,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52422910,
+      "duration": 8077080,
+      "text": "游戏"
+    }
+  ]
+}

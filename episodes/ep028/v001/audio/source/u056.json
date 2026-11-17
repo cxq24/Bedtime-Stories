@@ -1,0 +1,47 @@
+{
+  "text": "他盖好暖黄色的毛毯，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "e580bf2726f6314c3152c36b6c27ce9c6fc03712bd36482fb1007afb6c73b0c4",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2307500,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3577080,
+      "duration": 2500000,
+      "text": "盖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6077080,
+      "duration": 3269160,
+      "text": "好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9730830,
+      "duration": 8846250,
+      "text": "暖黄色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18577080,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20115410,
+      "duration": 8269160,
+      "text": "毛毯"
+    }
+  ]
+}

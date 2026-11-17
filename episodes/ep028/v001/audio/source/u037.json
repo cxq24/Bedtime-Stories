@@ -1,0 +1,65 @@
+{
+  "text": "轻轻地靠住了陶盘温润的边缘，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "8ef61942649815b9dd1c9ef03b16831163869abe0392b0fef2c966516570f2c6",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6730830,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8000000,
+      "duration": 3269160,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11653750,
+      "duration": 3461660,
+      "text": "靠"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15115410,
+      "duration": 2115410,
+      "text": "住"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17230830,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18769160,
+      "duration": 5961660,
+      "text": "陶盘"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25115410,
+      "duration": 5000000,
+      "text": "温润"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30115410,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31653750,
+      "duration": 7884580,
+      "text": "边缘"
+    }
+  ]
+}

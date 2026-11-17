@@ -1,0 +1,1460 @@
+{
+  "episode": "ep028",
+  "version": "v001",
+  "script_version": "v5",
+  "source_script": "02_100集剧本/用户长稿v5/结构化JSON/ep028.json",
+  "status": "images_locked_ready_to_render",
+  "narration_complete": true,
+  "shot_count": 30,
+  "total_duration_s": 273.12,
+  "actual_audio_measured": true,
+  "cover_title": "皮皮等船靠岸",
+  "continuity_manifest": "continuity.json",
+  "continuity_preflight": "checks/continuity-preflight.json",
+  "continuity_contact_sheet": "checks/storyboard_contact.jpg",
+  "continuity_status": "text_and_image_review_passed",
+  "image_generation_status": "30_of_30_images_generated_and_mapped",
+  "shots": [
+    {
+      "id": 0,
+      "title": "开场问候",
+      "text": "小朋友们，准备好听故事了吗？",
+      "source_ranges": [
+        {
+          "unit_id": "u000",
+          "paragraph_id": "p000",
+          "start_char": 0,
+          "end_char": 5
+        },
+        {
+          "unit_id": "u001",
+          "paragraph_id": "p000",
+          "start_char": 0,
+          "end_char": 9
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "opening_preview；独立片头构图",
+      "action": "溪边浅景，皮皮面向观众轻轻抬爪问候，眉眼明亮自然；画面不预先出现叶子船。",
+      "reality": "opening_preview",
+      "motion": "fixed",
+      "opening": true,
+      "image": "images/shot_00.png",
+      "reference_manifest": "references/shot_00.json",
+      "image_status": "not_generated",
+      "visual_constraints": "竖屏9:16，水彩细纸纹；准确保持登记角色身份和服装；每镜表情、目光、耳姿和姿势贴合当前台词，动作自然；重要内容放在上方68%，底部32%留给字幕；禁止文字、水印、拼贴和多余角色。",
+      "transition_from": null,
+      "continuity_refs": [],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "environment_reference": "assets/creek_anchor.png",
+      "exclude_default_sleep_props": false,
+      "speech_start_s": 1.0,
+      "speech_end_s": 4.983832333333334,
+      "actual_start_s": 0.0,
+      "actual_end_s": 5.36,
+      "visible_start_s": 0.0,
+      "visible_end_s": 5.84,
+      "visible_duration_s": 5.84
+    },
+    {
+      "id": 1,
+      "title": "故事题目",
+      "text": "今天的故事叫《叶子小船靠岸了》。",
+      "source_ranges": [
+        {
+          "unit_id": "u002",
+          "paragraph_id": "p000",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "opening_preview；独立片头构图",
+      "action": "皮皮侧身望着远处溪水，表情好奇；背景保持单纯，不出现正片樟树叶。",
+      "reality": "opening_preview",
+      "motion": "fixed",
+      "opening": true,
+      "image": "images/shot_01.png",
+      "reference_manifest": "references/shot_01.json",
+      "image_status": "not_generated",
+      "visual_constraints": "竖屏9:16，水彩细纸纹；准确保持登记角色身份和服装；每镜表情、目光、耳姿和姿势贴合当前台词，动作自然；重要内容放在上方68%，底部32%留给字幕；禁止文字、水印、拼贴和多余角色。",
+      "transition_from": 0,
+      "continuity_refs": [],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "environment_reference": "assets/creek_anchor.png",
+      "exclude_default_sleep_props": false,
+      "speech_start_s": 5.714791666666667,
+      "speech_end_s": 9.6463955,
+      "actual_start_s": 5.36,
+      "actual_end_s": 10.0,
+      "visible_start_s": 4.880000000000001,
+      "visible_end_s": 10.48,
+      "visible_duration_s": 5.6
+    },
+    {
+      "id": 2,
+      "title": "靠岸之问",
+      "text": "叶子小船已经完成了旅程，它会在哪里轻轻靠岸呢？",
+      "source_ranges": [
+        {
+          "unit_id": "u003",
+          "paragraph_id": "p000",
+          "start_char": 0,
+          "end_char": 12
+        },
+        {
+          "unit_id": "u004",
+          "paragraph_id": "p000",
+          "start_char": 0,
+          "end_char": 11
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "opening_preview；独立片头构图",
+      "action": "皮皮在前景侧耳倾听，远方小溪轻快绕过圆石；片头插画，不出现正片叶子。",
+      "reality": "opening_preview",
+      "motion": "fixed",
+      "opening": true,
+      "image": "images/shot_02.png",
+      "reference_manifest": "references/shot_02.json",
+      "image_status": "not_generated",
+      "visual_constraints": "竖屏9:16，水彩细纸纹；准确保持登记角色身份和服装；每镜表情、目光、耳姿和姿势贴合当前台词，动作自然；重要内容放在上方68%，底部32%留给字幕；禁止文字、水印、拼贴和多余角色。",
+      "transition_from": 1,
+      "continuity_refs": [],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "environment_reference": "assets/creek_anchor.png",
+      "exclude_default_sleep_props": false,
+      "speech_start_s": 10.3546875,
+      "speech_end_s": 17.060561833333335,
+      "actual_start_s": 10.0,
+      "actual_end_s": 17.44,
+      "visible_start_s": 9.52,
+      "visible_end_s": 17.92,
+      "visible_duration_s": 8.4
+    },
+    {
+      "id": 3,
+      "title": "科学角集合",
+      "text": "今天在森林学堂的科学角，山羊老师带着大家做了一个关于“浮力”的小游戏，",
+      "source_ranges": [
+        {
+          "unit_id": "u005",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 12
+        },
+        {
+          "unit_id": "u006",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 23
+        }
+      ],
+      "characters": [
+        "pipi",
+        "goat_teacher"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "goat_teacher": "default_v001"
+      },
+      "setting": "森林学堂科学角；明亮日间",
+      "action": "森林学堂科学角，山羊老师在浅木桌前给皮皮介绍浮力小游戏，气氛明亮有序。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_03.png",
+      "reference_manifest": "references/shot_03.json",
+      "image_status": "not_generated",
+      "visual_constraints": "竖屏9:16，水彩细纸纹；准确保持登记角色身份和服装；每镜表情、目光、耳姿和姿势贴合当前台词，动作自然；重要内容放在上方68%，底部32%留给字幕；禁止文字、水印、拼贴和多余角色。",
+      "transition_from": 2,
+      "continuity_refs": [],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "environment_reference": "assets/classroom_anchor.png",
+      "exclude_default_sleep_props": false,
+      "speech_start_s": 17.788395833333333,
+      "speech_end_s": 27.610186499999998,
+      "actual_start_s": 17.44,
+      "actual_end_s": 27.84,
+      "visible_start_s": 16.96,
+      "visible_end_s": 28.32,
+      "visible_duration_s": 11.36
+    },
+    {
+      "id": 4,
+      "title": "观察小船游戏",
+      "text": "看谁能用树叶做出一艘不会沉的小船。",
+      "source_ranges": [
+        {
+          "unit_id": "u007",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 17
+        }
+      ],
+      "characters": [
+        "pipi",
+        "goat_teacher"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "goat_teacher": "default_v001"
+      },
+      "setting": "森林学堂科学角；明亮日间",
+      "action": "山羊老师示范叶片漂浮，皮皮专注观察桌上的浅水盘；其他背景儿童不出现。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_04.png",
+      "reference_manifest": "references/shot_04.json",
+      "image_status": "not_generated",
+      "visual_constraints": "竖屏9:16，水彩细纸纹；准确保持登记角色身份和服装；每镜表情、目光、耳姿和姿势贴合当前台词，动作自然；重要内容放在上方68%，底部32%留给字幕；禁止文字、水印、拼贴和多余角色。",
+      "transition_from": 3,
+      "continuity_refs": [],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "environment_reference": "assets/classroom_anchor.png",
+      "exclude_default_sleep_props": false,
+      "speech_start_s": 28.099208333333333,
+      "speech_end_s": 33.17064516666667,
+      "actual_start_s": 27.84,
+      "actual_end_s": 33.56,
+      "visible_start_s": 27.36,
+      "visible_end_s": 34.04,
+      "visible_duration_s": 6.68
+    },
+    {
+      "id": 5,
+      "title": "挑选樟树叶",
+      "text": "皮皮挑选了一片边缘微微向上卷起的厚樟树叶，它看起来就像一艘天生的小独木舟。",
+      "source_ranges": [
+        {
+          "unit_id": "u008",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 21
+        },
+        {
+          "unit_id": "u009",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "森林小路与溪边；日间野营，溪流从左向右，岸边暖石与溪中圆石保持区分",
+      "action": "皮皮在树下挑起一片厚实、细长、边缘微卷的樟树叶；清晰展示这唯一片LEAF_01。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_05.png",
+      "reference_manifest": "references/shot_05.json",
+      "image_status": "not_generated",
+      "visual_constraints": "竖屏9:16，水彩细纸纹；准确保持登记角色身份和服装；每镜表情、目光、耳姿和姿势贴合当前台词，动作自然；重要内容放在上方68%，底部32%留给字幕；禁止文字、水印、拼贴和多余角色。 固定资产要求：只使用同一片LEAF_01、同一粒干燥PETAL_01；禁止复制。",
+      "transition_from": 4,
+      "continuity_refs": [],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "environment_reference": "assets/creek_anchor.png",
+      "exclude_default_sleep_props": false,
+      "speech_start_s": 33.928666666666665,
+      "speech_end_s": 44.963145499999996,
+      "actual_start_s": 33.56,
+      "actual_end_s": 45.36,
+      "visible_start_s": 33.080000000000005,
+      "visible_end_s": 45.839999999999996,
+      "visible_duration_s": 12.76
+    },
+    {
+      "id": 6,
+      "title": "放学带叶回家",
+      "text": "傍晚放学回家时，皮皮把这片心爱的“叶子小船”带回了家。",
+      "source_ranges": [
+        {
+          "unit_id": "u010",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 8
+        },
+        {
+          "unit_id": "u011",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 19
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "门廊矮桌与浅口陶盘；傍晚至夜间，桌盘窗灯位置固定",
+      "action": "傍晚小路上皮皮把同一片卷边樟树叶小心带回家，门廊暖灯刚亮。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_06.png",
+      "reference_manifest": "references/shot_06.json",
+      "image_status": "generated",
+      "visual_constraints": "竖屏9:16，水彩细纸纹；准确保持登记角色身份和服装；每镜表情、目光、耳姿和姿势贴合当前台词，动作自然；重要内容放在上方68%，底部32%留给字幕；禁止文字、水印、拼贴和多余角色。",
+      "transition_from": 5,
+      "continuity_refs": [],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "environment_reference": "assets/porch_anchor.png",
+      "exclude_default_sleep_props": false,
+      "speech_start_s": 45.72370833333333,
+      "speech_end_s": 53.28752083333333,
+      "actual_start_s": 45.36,
+      "actual_end_s": 53.64,
+      "visible_start_s": 44.88,
+      "visible_end_s": 54.12,
+      "visible_duration_s": 9.24
+    },
+    {
+      "id": 7,
+      "title": "摆好陶盘",
+      "text": "他在门廊的矮桌上，摆了一只装满清水的浅口大陶盘，",
+      "source_ranges": [
+        {
+          "unit_id": "u012",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 9
+        },
+        {
+          "unit_id": "u013",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 15
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "门廊矮桌与浅口陶盘；傍晚至夜间，桌盘窗灯位置固定",
+      "action": "门廊矮桌上，皮皮把一只浅口大陶盘摆稳并注满清水；门内暖黄色窗灯映出柔光。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_07.png",
+      "reference_manifest": "references/shot_07.json",
+      "image_status": "generated",
+      "visual_constraints": "竖屏9:16，水彩细纸纹；准确保持登记角色身份和服装；每镜表情、目光、耳姿和姿势贴合当前台词，动作自然；重要内容放在上方68%，底部32%留给字幕；禁止文字、水印、拼贴和多余角色。",
+      "transition_from": 6,
+      "continuity_refs": [],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "environment_reference": "assets/porch_anchor.png",
+      "exclude_default_sleep_props": false,
+      "speech_start_s": 53.99295833333333,
+      "speech_end_s": 61.060165999999995,
+      "actual_start_s": 53.64,
+      "actual_end_s": 61.32,
+      "visible_start_s": 53.160000000000004,
+      "visible_end_s": 61.8,
+      "visible_duration_s": 8.64
+    },
+    {
+      "id": 8,
+      "title": "小船入水",
+      "text": "小心翼翼地把卷边的樟树叶放在水面上，还在叶子船舱的正中间，",
+      "source_ranges": [
+        {
+          "unit_id": "u014",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 18
+        },
+        {
+          "unit_id": "u015",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 11
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "门廊矮桌与浅口陶盘；傍晚至夜间，桌盘窗灯位置固定",
+      "action": "皮皮将唯一的LEAF_01放在清水面，叶缘微微上卷形成小船；陶盘内水清澈、桌沿固定。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_08.png",
+      "reference_manifest": "references/shot_08.json",
+      "image_status": "generated",
+      "visual_constraints": "竖屏9:16，水彩细纸纹；准确保持登记角色身份和服装；每镜表情、目光、耳姿和姿势贴合当前台词，动作自然；重要内容放在上方68%，底部32%留给字幕；禁止文字、水印、拼贴和多余角色。 固定资产要求：只使用同一片LEAF_01、同一粒干燥PETAL_01；禁止复制。",
+      "transition_from": 7,
+      "continuity_refs": [],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "environment_reference": "assets/porch_anchor.png",
+      "exclude_default_sleep_props": false,
+      "speech_start_s": 61.55295833333333,
+      "speech_end_s": 70.64206183333333,
+      "actual_start_s": 61.32,
+      "actual_end_s": 70.88,
+      "visible_start_s": 60.84,
+      "visible_end_s": 71.36,
+      "visible_duration_s": 10.52
+    },
+    {
+      "id": 9,
+      "title": "花瓣乘客",
+      "text": "放了一粒轻飘飘的粉红色小花瓣，当作坐船的小乘客。",
+      "source_ranges": [
+        {
+          "unit_id": "u016",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 15
+        },
+        {
+          "unit_id": "u017",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 9
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "门廊矮桌与浅口陶盘；傍晚至夜间，桌盘窗灯位置固定",
+      "action": "皮皮用指尖把一粒粉红花瓣轻放在叶子船舱中央；花瓣明确干燥并稳稳坐在船上。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_09.png",
+      "reference_manifest": "references/shot_09.json",
+      "image_status": "generated",
+      "visual_constraints": "竖屏9:16，水彩细纸纹；准确保持登记角色身份和服装；每镜表情、目光、耳姿和姿势贴合当前台词，动作自然；重要内容放在上方68%，底部32%留给字幕；禁止文字、水印、拼贴和多余角色。 固定资产要求：只使用同一片LEAF_01、同一粒干燥PETAL_01；禁止复制。",
+      "transition_from": 8,
+      "continuity_refs": [],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "environment_reference": "assets/porch_anchor.png",
+      "exclude_default_sleep_props": false,
+      "speech_start_s": 71.09235416666665,
+      "speech_end_s": 78.24060416666664,
+      "actual_start_s": 70.88,
+      "actual_end_s": 78.6,
+      "visible_start_s": 70.39999999999999,
+      "visible_end_s": 79.08,
+      "visible_duration_s": 8.68
+    },
+    {
+      "id": 10,
+      "title": "轻轻吹气",
+      "text": "皮皮对着水面轻轻吹了一口气，“呼——”叶子小船便载着粉红花瓣，",
+      "source_ranges": [
+        {
+          "unit_id": "u018",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 14
+        },
+        {
+          "unit_id": "u019",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 17
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "门廊矮桌与浅口陶盘；傍晚至夜间，桌盘窗灯位置固定",
+      "action": "皮皮蹲在桌边对水面吹一口轻柔的气，双爪不碰水；同一片叶船和粉红花瓣。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_10.png",
+      "reference_manifest": "references/shot_10.json",
+      "image_status": "generated",
+      "visual_constraints": "竖屏9:16，水彩细纸纹；准确保持登记角色身份和服装；每镜表情、目光、耳姿和姿势贴合当前台词，动作自然；重要内容放在上方68%，底部32%留给字幕；禁止文字、水印、拼贴和多余角色。 固定资产要求：只使用同一片LEAF_01、同一粒干燥PETAL_01；禁止复制。",
+      "transition_from": 9,
+      "continuity_refs": [],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "environment_reference": "assets/porch_anchor.png",
+      "exclude_default_sleep_props": false,
+      "speech_start_s": 78.96316666666664,
+      "speech_end_s": 87.87847849999997,
+      "actual_start_s": 78.6,
+      "actual_end_s": 88.12,
+      "visible_start_s": 78.11999999999999,
+      "visible_end_s": 88.60000000000001,
+      "visible_duration_s": 10.48
+    },
+    {
+      "id": 11,
+      "title": "小船转身",
+      "text": "在水面上慢悠悠地转了半圈，优雅地航行起来。",
+      "source_ranges": [
+        {
+          "unit_id": "u020",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 13
+        },
+        {
+          "unit_id": "u021",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 8
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "门廊矮桌与浅口陶盘；傍晚至夜间，桌盘窗灯位置固定",
+      "action": "陶盘水面上LEAF_01载着花瓣缓缓旋转半圈；船仍完整，花瓣未滑落。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_11.png",
+      "reference_manifest": "references/shot_11.json",
+      "image_status": "generated",
+      "visual_constraints": "竖屏9:16，水彩细纸纹；准确保持登记角色身份和服装；每镜表情、目光、耳姿和姿势贴合当前台词，动作自然；重要内容放在上方68%，底部32%留给字幕；禁止文字、水印、拼贴和多余角色。 固定资产要求：只使用同一片LEAF_01、同一粒干燥PETAL_01；禁止复制。",
+      "transition_from": 10,
+      "continuity_refs": [],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "environment_reference": "assets/porch_anchor.png",
+      "exclude_default_sleep_props": false,
+      "speech_start_s": 88.3581458333333,
+      "speech_end_s": 94.57239516666664,
+      "actual_start_s": 88.12,
+      "actual_end_s": 94.92,
+      "visible_start_s": 87.64,
+      "visible_end_s": 95.4,
+      "visible_duration_s": 7.76
+    },
+    {
+      "id": 12,
+      "title": "灯影水面",
+      "text": "水面上倒映着屋里透出来的暖黄色窗灯，小船就像在洒满金子的湖面上旅行一样。",
+      "source_ranges": [
+        {
+          "unit_id": "u022",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 18
+        },
+        {
+          "unit_id": "u023",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 18
+        }
+      ],
+      "characters": [],
+      "outfits": {},
+      "setting": "门廊矮桌与浅口陶盘；傍晚至夜间，桌盘窗灯位置固定",
+      "action": "水面近景，暖黄色窗灯倒影在水中轻轻晃动，叶子小船载着花瓣缓行；无人物入镜。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_12.png",
+      "reference_manifest": "references/shot_12.json",
+      "image_status": "generated",
+      "visual_constraints": "竖屏9:16，水彩细纸纹；准确保持登记角色身份和服装；每镜表情、目光、耳姿和姿势贴合当前台词，动作自然；重要内容放在上方68%，底部32%留给字幕；禁止文字、水印、拼贴和多余角色。 固定资产要求：只使用同一片LEAF_01、同一粒干燥PETAL_01；禁止复制。",
+      "transition_from": 11,
+      "continuity_refs": [],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "environment_reference": "assets/porch_anchor.png",
+      "exclude_default_sleep_props": false,
+      "speech_start_s": 95.30172916666663,
+      "speech_end_s": 106.21997816666664,
+      "actual_start_s": 94.92,
+      "actual_end_s": 106.6,
+      "visible_start_s": 94.44,
+      "visible_end_s": 107.08,
+      "visible_duration_s": 12.64
+    },
+    {
+      "id": 13,
+      "title": "比赛的想象",
+      "text": "如果是白天的比赛，大家一定会不停地吹气，让小船一圈接一圈地快速跑下去。",
+      "source_ranges": [
+        {
+          "unit_id": "u024",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 9
+        },
+        {
+          "unit_id": "u025",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 11
+        },
+        {
+          "unit_id": "u026",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 15
+        }
+      ],
+      "characters": [],
+      "outfits": {},
+      "setting": "门廊矮桌与浅口陶盘；傍晚至夜间，桌盘窗灯位置固定",
+      "action": "用宁静、无文字的画面表达“白天若比赛会吹气”的假设：浅水盘、叶船附近有几圈轻快波纹，但不增加现实角色或新物件。",
+      "reality": "hypothetical",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_13.png",
+      "reference_manifest": "references/shot_13.json",
+      "image_status": "generated",
+      "visual_constraints": "竖屏9:16，水彩细纸纹；准确保持登记角色身份和服装；每镜表情、目光、耳姿和姿势贴合当前台词，动作自然；重要内容放在上方68%，底部32%留给字幕；禁止文字、水印、拼贴和多余角色。",
+      "transition_from": 12,
+      "continuity_refs": [],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "environment_reference": "assets/porch_anchor.png",
+      "exclude_default_sleep_props": false,
+      "speech_start_s": 106.94635416666664,
+      "speech_end_s": 117.41570699999997,
+      "actual_start_s": 106.6,
+      "actual_end_s": 117.8,
+      "visible_start_s": 106.11999999999999,
+      "visible_end_s": 118.28,
+      "visible_duration_s": 12.16
+    },
+    {
+      "id": 14,
+      "title": "停下小爪",
+      "text": "可是现在天色暗了，皮皮把小爪子停在陶盘外面，没有再去拨动水面，也没有再吹气。",
+      "source_ranges": [
+        {
+          "unit_id": "u027",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 9
+        },
+        {
+          "unit_id": "u028",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 13
+        },
+        {
+          "unit_id": "u029",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 9
+        },
+        {
+          "unit_id": "u030",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 7
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "门廊矮桌与浅口陶盘；傍晚至夜间，桌盘窗灯位置固定",
+      "action": "天色转暗，皮皮把爪子停在陶盘外沿，没有接触水面；叶船漂在盘中，屋里暖灯保持同一位置。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_14.png",
+      "reference_manifest": "references/shot_14.json",
+      "image_status": "generated",
+      "visual_constraints": "竖屏9:16，水彩细纸纹；准确保持登记角色身份和服装；每镜表情、目光、耳姿和姿势贴合当前台词，动作自然；重要内容放在上方68%，底部32%留给字幕；禁止文字、水印、拼贴和多余角色。",
+      "transition_from": 13,
+      "continuity_refs": [],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "environment_reference": "assets/porch_anchor.png",
+      "exclude_default_sleep_props": false,
+      "speech_start_s": 118.14785416666663,
+      "speech_end_s": 130.16877049999997,
+      "actual_start_s": 117.8,
+      "actual_end_s": 130.52,
+      "visible_start_s": 117.32,
+      "visible_end_s": 131.0,
+      "visible_duration_s": 13.68
+    },
+    {
+      "id": 15,
+      "title": "安静等待",
+      "text": "他只是安安静静地蹲在桌边，想看看在没有风催促的时候，这艘小船自己会停在哪里。",
+      "source_ranges": [
+        {
+          "unit_id": "u031",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 13
+        },
+        {
+          "unit_id": "u032",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 13
+        },
+        {
+          "unit_id": "u033",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 12
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "门廊矮桌与浅口陶盘；傍晚至夜间，桌盘窗灯位置固定",
+      "action": "皮皮安静蹲在矮桌旁，双爪收回膝前，专注看着陶盘；没有吹气动作。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_15.png",
+      "reference_manifest": "references/shot_15.json",
+      "image_status": "generated",
+      "visual_constraints": "竖屏9:16，水彩细纸纹；准确保持登记角色身份和服装；每镜表情、目光、耳姿和姿势贴合当前台词，动作自然；重要内容放在上方68%，底部32%留给字幕；禁止文字、水印、拼贴和多余角色。",
+      "transition_from": 14,
+      "continuity_refs": [],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "environment_reference": "assets/porch_anchor.png",
+      "exclude_default_sleep_props": false,
+      "speech_start_s": 130.8668958333333,
+      "speech_end_s": 142.4011445,
+      "actual_start_s": 130.52,
+      "actual_end_s": 142.76,
+      "visible_start_s": 130.04000000000002,
+      "visible_end_s": 143.23999999999998,
+      "visible_duration_s": 13.2
+    },
+    {
+      "id": 16,
+      "title": "水波平息",
+      "text": "水波慢慢平息下来。一小会儿后，",
+      "source_ranges": [
+        {
+          "unit_id": "u034",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 9
+        },
+        {
+          "unit_id": "u035",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 6
+        }
+      ],
+      "characters": [],
+      "outfits": {},
+      "setting": "门廊矮桌与浅口陶盘；傍晚至夜间，桌盘窗灯位置固定",
+      "action": "陶盘水面细节，波纹逐渐变细、趋于平稳；LEAF_01仍在盘中。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_16.png",
+      "reference_manifest": "references/shot_16.json",
+      "image_status": "generated",
+      "visual_constraints": "竖屏9:16，水彩细纸纹；准确保持登记角色身份和服装；每镜表情、目光、耳姿和姿势贴合当前台词，动作自然；重要内容放在上方68%，底部32%留给字幕；禁止文字、水印、拼贴和多余角色。",
+      "transition_from": 15,
+      "continuity_refs": [],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "environment_reference": "assets/porch_anchor.png",
+      "exclude_default_sleep_props": false,
+      "speech_start_s": 143.14960416666665,
+      "speech_end_s": 148.01568749999998,
+      "actual_start_s": 142.76,
+      "actual_end_s": 148.24,
+      "visible_start_s": 142.28,
+      "visible_end_s": 148.72,
+      "visible_duration_s": 6.44
+    },
+    {
+      "id": 17,
+      "title": "轻靠盘沿",
+      "text": "那片樟树叶顺着最柔和的水流，轻轻地靠住了陶盘温润的边缘，停稳了。",
+      "source_ranges": [
+        {
+          "unit_id": "u036",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 14
+        },
+        {
+          "unit_id": "u037",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 14
+        },
+        {
+          "unit_id": "u038",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 4
+        }
+      ],
+      "characters": [],
+      "outfits": {},
+      "setting": "门廊矮桌与浅口陶盘；傍晚至夜间，桌盘窗灯位置固定",
+      "action": "同一叶船顺着柔和水流缓缓靠近陶盘温润内沿，方向明确，花瓣仍在船舱中央。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_17.png",
+      "reference_manifest": "references/shot_17.json",
+      "image_status": "generated",
+      "visual_constraints": "竖屏9:16，水彩细纸纹；准确保持登记角色身份和服装；每镜表情、目光、耳姿和姿势贴合当前台词，动作自然；重要内容放在上方68%，底部32%留给字幕；禁止文字、水印、拼贴和多余角色。 固定资产要求：只使用同一片LEAF_01、同一粒干燥PETAL_01；禁止复制。",
+      "transition_from": 16,
+      "continuity_refs": [],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "environment_reference": "assets/porch_anchor.png",
+      "exclude_default_sleep_props": false,
+      "speech_start_s": 148.440125,
+      "speech_end_s": 158.53552016666666,
+      "actual_start_s": 148.24,
+      "actual_end_s": 158.88,
+      "visible_start_s": 147.76000000000002,
+      "visible_end_s": 159.35999999999999,
+      "visible_duration_s": 11.6
+    },
+    {
+      "id": 18,
+      "title": "停稳未湿",
+      "text": "船舱里的那粒粉红花瓣，还好好地坐在原处，一点儿也没有被打湿，更没有掉下来。",
+      "source_ranges": [
+        {
+          "unit_id": "u039",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 11
+        },
+        {
+          "unit_id": "u040",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 9
+        },
+        {
+          "unit_id": "u041",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 10
+        },
+        {
+          "unit_id": "u042",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 7
+        }
+      ],
+      "characters": [],
+      "outfits": {},
+      "setting": "门廊矮桌与浅口陶盘；傍晚至夜间，桌盘窗灯位置固定",
+      "action": "叶船已靠住陶盘边缘并完全停稳；粉红花瓣干燥、留在原位，构图清楚。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_18.png",
+      "reference_manifest": "references/shot_18.json",
+      "image_status": "generated",
+      "visual_constraints": "竖屏9:16，水彩细纸纹；准确保持登记角色身份和服装；每镜表情、目光、耳姿和姿势贴合当前台词，动作自然；重要内容放在上方68%，底部32%留给字幕；禁止文字、水印、拼贴和多余角色。 固定资产要求：只使用同一片LEAF_01、同一粒干燥PETAL_01；禁止复制。",
+      "transition_from": 17,
+      "continuity_refs": [],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "environment_reference": "assets/porch_anchor.png",
+      "exclude_default_sleep_props": false,
+      "speech_start_s": 159.245625,
+      "speech_end_s": 170.47872916666662,
+      "actual_start_s": 158.88,
+      "actual_end_s": 170.84,
+      "visible_start_s": 158.4,
+      "visible_end_s": 171.32,
+      "visible_duration_s": 12.92
+    },
+    {
+      "id": 19,
+      "title": "取扁平石",
+      "text": "皮皮从花盆旁找来一块小小的扁平鹅卵石，轻轻摆在陶盘外面的桌沿上，",
+      "source_ranges": [
+        {
+          "unit_id": "u043",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 19
+        },
+        {
+          "unit_id": "u044",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 13
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "门廊矮桌与浅口陶盘；傍晚至夜间，桌盘窗灯位置固定",
+      "action": "桌旁花盆在画面一侧，皮皮从旁边取起一块小而扁平的鹅卵石PEBBLE_01；叶船仍停在盘沿。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_19.png",
+      "reference_manifest": "references/shot_19.json",
+      "image_status": "generated",
+      "visual_constraints": "竖屏9:16，水彩细纸纹；准确保持登记角色身份和服装；每镜表情、目光、耳姿和姿势贴合当前台词，动作自然；重要内容放在上方68%，底部32%留给字幕；禁止文字、水印、拼贴和多余角色。 固定资产要求：只使用同一片LEAF_01、同一粒干燥PETAL_01；禁止复制。 PEBBLE_01必须放在陶盘外的桌沿，不能放进水中或盘内。",
+      "transition_from": 18,
+      "continuity_refs": [],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "environment_reference": "assets/porch_anchor.png",
+      "exclude_default_sleep_props": false,
+      "speech_start_s": 171.21516666666665,
+      "speech_end_s": 180.72212399999998,
+      "actual_start_s": 170.84,
+      "actual_end_s": 180.96,
+      "visible_start_s": 170.36,
+      "visible_end_s": 181.44,
+      "visible_duration_s": 11.08
+    },
+    {
+      "id": 20,
+      "title": "摆下码头记号",
+      "text": "刚好对着叶子停靠的地方，就像是给这个小小的停靠港湾，立了一个温柔的码头记号。",
+      "source_ranges": [
+        {
+          "unit_id": "u045",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 12
+        },
+        {
+          "unit_id": "u046",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 14
+        },
+        {
+          "unit_id": "u047",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 12
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "门廊矮桌与浅口陶盘；傍晚至夜间，桌盘窗灯位置固定",
+      "action": "皮皮把同一扁平鹅卵石放在陶盘外桌沿，正对LEAF_01停靠点；手指离开后石头稳放。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_20.png",
+      "reference_manifest": "references/shot_20.json",
+      "image_status": "generated",
+      "visual_constraints": "竖屏9:16，水彩细纸纹；准确保持登记角色身份和服装；每镜表情、目光、耳姿和姿势贴合当前台词，动作自然；重要内容放在上方68%，底部32%留给字幕；禁止文字、水印、拼贴和多余角色。 固定资产要求：只使用同一片LEAF_01、同一粒干燥PETAL_01；禁止复制。 PEBBLE_01必须放在陶盘外的桌沿，不能放进水中或盘内。",
+      "transition_from": 19,
+      "continuity_refs": [],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "environment_reference": "assets/porch_anchor.png",
+      "exclude_default_sleep_props": false,
+      "speech_start_s": 181.1880833333333,
+      "speech_end_s": 191.78181149999998,
+      "actual_start_s": 180.96,
+      "actual_end_s": 192.16,
+      "visible_start_s": 180.48000000000002,
+      "visible_end_s": 192.64,
+      "visible_duration_s": 12.16
+    },
+    {
+      "id": 21,
+      "title": "航行结束",
+      "text": "今天的航行圆满结束了。",
+      "source_ranges": [
+        {
+          "unit_id": "u048",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 11
+        }
+      ],
+      "characters": [],
+      "outfits": {},
+      "setting": "门廊矮桌与浅口陶盘；傍晚至夜间，桌盘窗灯位置固定",
+      "action": "静物中叶船、花瓣和外侧码头石形成清楚的停靠关系；水面安稳，没有风浪。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_21.png",
+      "reference_manifest": "references/shot_21.json",
+      "image_status": "generated",
+      "visual_constraints": "竖屏9:16，水彩细纸纹；准确保持登记角色身份和服装；每镜表情、目光、耳姿和姿势贴合当前台词，动作自然；重要内容放在上方68%，底部32%留给字幕；禁止文字、水印、拼贴和多余角色。 固定资产要求：只使用同一片LEAF_01、同一粒干燥PETAL_01；禁止复制。",
+      "transition_from": 20,
+      "continuity_refs": [],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "environment_reference": "assets/porch_anchor.png",
+      "exclude_default_sleep_props": false,
+      "speech_start_s": 192.5205208333333,
+      "speech_end_s": 195.42035316666664,
+      "actual_start_s": 192.16,
+      "actual_end_s": 195.76,
+      "visible_start_s": 191.68,
+      "visible_end_s": 196.23999999999998,
+      "visible_duration_s": 4.56
+    },
+    {
+      "id": 22,
+      "title": "花瓣乘客安心休息",
+      "text": "叶子小船不必在夜里一直漂流，花瓣小乘客也可以在这个小港湾里安心地歇一歇了。",
+      "source_ranges": [
+        {
+          "unit_id": "u049",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 14
+        },
+        {
+          "unit_id": "u050",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 23
+        }
+      ],
+      "characters": [],
+      "outfits": {},
+      "setting": "门廊矮桌与浅口陶盘；夜间，桌盘窗灯位置固定",
+      "action": "门廊陶盘中叶船已经停稳，粉红花瓣仍干燥地待在船舱中央；房屋暖灯安静发亮，无人物入镜。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_22.png",
+      "reference_manifest": "references/shot_22.json",
+      "image_status": "generated",
+      "visual_constraints": "竖屏9:16，水彩细纸纹；准确保持登记角色身份和服装；每镜表情、目光、耳姿和姿势贴合当前台词，动作自然；重要内容放在上方68%，底部32%留给字幕；禁止文字、水印、拼贴和多余角色。",
+      "transition_from": 21,
+      "continuity_refs": [],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "environment_reference": "assets/porch_anchor.png",
+      "exclude_default_sleep_props": false,
+      "speech_start_s": 196.1300208333333,
+      "speech_end_s": 207.02874933333328,
+      "actual_start_s": 195.76,
+      "actual_end_s": 207.4,
+      "visible_start_s": 195.28,
+      "visible_end_s": 207.88,
+      "visible_duration_s": 12.6
+    },
+    {
+      "id": 23,
+      "title": "枕头是岸",
+      "text": "皮皮站起身，走进卧室回到床上，把自己的两只长耳朵舒舒服服地放好。",
+      "source_ranges": [
+        {
+          "unit_id": "u051",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 6
+        },
+        {
+          "unit_id": "u052",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 9
+        },
+        {
+          "unit_id": "u053",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 17
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "卧室；夜间，木床、木窗、暖黄毛毯、星星睡帽位置固定",
+      "action": "皮皮躺在床上，将两只长耳朵自然摊放在柔软大枕头上；温暖安定，床边道具不增不减。",
+      "reality": "metaphor",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_23.png",
+      "reference_manifest": "references/shot_23.json",
+      "image_status": "generated",
+      "visual_constraints": "竖屏9:16，水彩细纸纹；准确保持登记角色身份和服装；每镜表情、目光、耳姿和姿势贴合当前台词，动作自然；重要内容放在上方68%，底部32%留给字幕；禁止文字、水印、拼贴和多余角色。 卧室仅出现剧本支持的木床、柔软枕头和暖黄色毛毯；不要添加胡萝卜玩偶或其他玩具。",
+      "transition_from": 22,
+      "continuity_refs": [],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "environment_reference": "assets/bedroom_anchor.png",
+      "exclude_default_sleep_props": true,
+      "speech_start_s": 207.75987499999997,
+      "speech_end_s": 218.01972916666665,
+      "actual_start_s": 207.4,
+      "actual_end_s": 218.36,
+      "visible_start_s": 206.92000000000002,
+      "visible_end_s": 218.84,
+      "visible_duration_s": 11.92
+    },
+    {
+      "id": 24,
+      "title": "暖毯盖好",
+      "text": "这只软绵绵的大枕头，就是皮皮今晚停靠的岸边呀。",
+      "source_ranges": [
+        {
+          "unit_id": "u054",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 10
+        },
+        {
+          "unit_id": "u055",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 13
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "卧室；夜间，木床、木窗、暖黄毛毯、星星睡帽位置固定",
+      "action": "皮皮拉好同一条暖黄色毛毯，眼睛轻轻闭合，肩膀放松；星星睡帽戴稳。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_24.png",
+      "reference_manifest": "references/shot_24.json",
+      "image_status": "generated",
+      "visual_constraints": "竖屏9:16，水彩细纸纹；准确保持登记角色身份和服装；每镜表情、目光、耳姿和姿势贴合当前台词，动作自然；重要内容放在上方68%，底部32%留给字幕；禁止文字、水印、拼贴和多余角色。 卧室仅出现剧本支持的木床、柔软枕头和暖黄色毛毯；不要添加胡萝卜玩偶或其他玩具。",
+      "transition_from": 23,
+      "continuity_refs": [],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "environment_reference": "assets/bedroom_anchor.png",
+      "exclude_default_sleep_props": true,
+      "speech_start_s": 218.72452083333332,
+      "speech_end_s": 225.3449993333333,
+      "actual_start_s": 218.36,
+      "actual_end_s": 225.68,
+      "visible_start_s": 217.88000000000002,
+      "visible_end_s": 226.16,
+      "visible_duration_s": 8.28
+    },
+    {
+      "id": 25,
+      "title": "两处都停稳",
+      "text": "他盖好暖黄色的毛毯，慢慢闭上眼睛。",
+      "source_ranges": [
+        {
+          "unit_id": "u056",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 10
+        },
+        {
+          "unit_id": "u057",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 7
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "卧室；夜间，木床、木窗、暖黄毛毯、星星睡帽位置固定",
+      "action": "卧室内皮皮已安稳躺好，窗玻璃微弱映出白天陶盘中停稳的叶船记忆；不把溪流搬进卧室。",
+      "reality": "memory",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_25.png",
+      "reference_manifest": "references/shot_25.json",
+      "image_status": "generated",
+      "visual_constraints": "竖屏9:16，水彩细纸纹；准确保持登记角色身份和服装；每镜表情、目光、耳姿和姿势贴合当前台词，动作自然；重要内容放在上方68%，底部32%留给字幕；禁止文字、水印、拼贴和多余角色。 卧室仅出现剧本支持的木床、柔软枕头和暖黄色毛毯；不要添加胡萝卜玩偶或其他玩具。",
+      "transition_from": 24,
+      "continuity_refs": [],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "environment_reference": "assets/bedroom_anchor.png",
+      "exclude_default_sleep_props": true,
+      "speech_start_s": 226.04474999999996,
+      "speech_end_s": 231.23872916666662,
+      "actual_start_s": 225.68,
+      "actual_end_s": 231.6,
+      "visible_start_s": 225.20000000000002,
+      "visible_end_s": 232.07999999999998,
+      "visible_duration_s": 6.88
+    },
+    {
+      "id": 26,
+      "title": "晚安寄语",
+      "text": "门廊水盘里的小船停稳了，屋里小床上的小兔子，也稳稳当当地停靠好了。",
+      "source_ranges": [
+        {
+          "unit_id": "u058",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 12
+        },
+        {
+          "unit_id": "u059",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 10
+        },
+        {
+          "unit_id": "u060",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 11
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "卧室；夜间，木床、木窗、暖黄毛毯、星星睡帽位置固定",
+      "action": "安静卧室中皮皮在床上呼吸平缓，柔和夜灯和窗外森林；不出现额外小朋友或文字。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_26.png",
+      "reference_manifest": "references/shot_26.json",
+      "image_status": "generated",
+      "visual_constraints": "竖屏9:16，水彩细纸纹；准确保持登记角色身份和服装；每镜表情、目光、耳姿和姿势贴合当前台词，动作自然；重要内容放在上方68%，底部32%留给字幕；禁止文字、水印、拼贴和多余角色。 卧室仅出现剧本支持的木床、柔软枕头和暖黄色毛毯；不要添加胡萝卜玩偶或其他玩具。",
+      "transition_from": 25,
+      "continuity_refs": [],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "environment_reference": "assets/bedroom_anchor.png",
+      "exclude_default_sleep_props": true,
+      "speech_start_s": 231.99937499999996,
+      "speech_end_s": 241.7255413333333,
+      "actual_start_s": 231.6,
+      "actual_end_s": 242.08,
+      "visible_start_s": 231.12,
+      "visible_end_s": 242.56,
+      "visible_duration_s": 11.44
+    },
+    {
+      "id": 27,
+      "title": "白天收进心里",
+      "text": "小朋友，白天不管是学习还是玩耍，你的小船都已经勇敢地航行了一整天。",
+      "source_ranges": [
+        {
+          "unit_id": "u061",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 4
+        },
+        {
+          "unit_id": "u062",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 12
+        },
+        {
+          "unit_id": "u063",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 17
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "卧室；夜间，木床、木窗、暖黄毛毯、星星睡帽位置固定",
+      "action": "皮皮睡前的宁静侧脸，窗中淡淡倒影包含学堂、溪边玩耍的温暖记忆意象，不出现第二个现实皮皮。",
+      "reality": "memory",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_27.png",
+      "reference_manifest": "references/shot_27.json",
+      "image_status": "generated",
+      "visual_constraints": "竖屏9:16，水彩细纸纹；准确保持登记角色身份和服装；每镜表情、目光、耳姿和姿势贴合当前台词，动作自然；重要内容放在上方68%，底部32%留给字幕；禁止文字、水印、拼贴和多余角色。 卧室仅出现剧本支持的木床、柔软枕头和暖黄色毛毯；不要添加胡萝卜玩偶或其他玩具。",
+      "transition_from": 26,
+      "continuity_refs": [],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "environment_reference": "assets/bedroom_anchor.png",
+      "exclude_default_sleep_props": true,
+      "speech_start_s": 242.4313333333333,
+      "speech_end_s": 252.70541599999996,
+      "actual_start_s": 242.08,
+      "actual_end_s": 253.08,
+      "visible_start_s": 241.60000000000002,
+      "visible_end_s": 253.56,
+      "visible_duration_s": 11.96
+    },
+    {
+      "id": 28,
+      "title": "小床接住你",
+      "text": "今晚，就让我们一起靠岸吧。小床会稳稳地接住你，",
+      "source_ranges": [
+        {
+          "unit_id": "u064",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 3
+        },
+        {
+          "unit_id": "u065",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 10
+        },
+        {
+          "unit_id": "u066",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 10
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "卧室；夜间，木床、木窗、暖黄毛毯、星星睡帽位置固定",
+      "action": "温暖木床和枕头托住蜷躺的皮皮，黄毯自然铺开，氛围安稳；画面无字、无额外角色。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_28.png",
+      "reference_manifest": "references/shot_28.json",
+      "image_status": "generated",
+      "visual_constraints": "竖屏9:16，水彩细纸纹；准确保持登记角色身份和服装；每镜表情、目光、耳姿和姿势贴合当前台词，动作自然；重要内容放在上方68%，底部32%留给字幕；禁止文字、水印、拼贴和多余角色。 卧室仅出现剧本支持的木床、柔软枕头和暖黄色毛毯；不要添加胡萝卜玩偶或其他玩具。",
+      "transition_from": 27,
+      "continuity_refs": [],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "environment_reference": "assets/bedroom_anchor.png",
+      "exclude_default_sleep_props": true,
+      "speech_start_s": 253.44279166666664,
+      "speech_end_s": 260.4578746666666,
+      "actual_start_s": 253.08,
+      "actual_end_s": 260.68,
+      "visible_start_s": 252.60000000000002,
+      "visible_end_s": 261.16,
+      "visible_duration_s": 8.56
+    },
+    {
+      "id": 29,
+      "title": "安静好梦",
+      "text": "愿你做一个安静的好梦，晚安。",
+      "source_ranges": [
+        {
+          "unit_id": "u067",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 11
+        },
+        {
+          "unit_id": "u068",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 3
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "卧室；夜间，木床、木窗、暖黄毛毯、星星睡帽位置固定",
+      "action": "近景：皮皮闭眼安睡，长耳舒展在枕头上；柔和夜色收尾。卧室只有枕头和暖黄色毛毯。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_29.png",
+      "reference_manifest": "references/shot_29.json",
+      "image_status": "generated",
+      "visual_constraints": "竖屏9:16，水彩细纸纹；准确保持登记角色身份和服装；每镜表情、目光、耳姿和姿势贴合当前台词，动作自然；重要内容放在上方68%，底部32%留给字幕；禁止文字、水印、拼贴和多余角色。 卧室仅出现剧本支持的木床、柔软枕头和暖黄色毛毯；不要添加胡萝卜玩偶或其他玩具。",
+      "transition_from": 28,
+      "continuity_refs": [],
+      "state_before": "见continuity.json对应资产与前镜状态。",
+      "state_after": "见continuity.json对应资产状态。",
+      "environment_reference": "assets/bedroom_anchor.png",
+      "exclude_default_sleep_props": true,
+      "speech_start_s": 260.9068958333333,
+      "speech_end_s": 264.9244156666667,
+      "actual_start_s": 260.68,
+      "actual_end_s": 273.12,
+      "visible_start_s": 260.2,
+      "visible_end_s": 273.12,
+      "visible_duration_s": 12.92
+    }
+  ],
+  "max_visible_duration_s": 13.68
+}

@@ -1,0 +1,53 @@
+{
+  "text": "就是皮皮今晚停靠的岸边呀。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "af57a1d93b4df5675d029e9522f35e5d1b9fe3551e36873b0766a3df8c25f123",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5192500,
+      "text": "就是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6653750,
+      "duration": 5769160,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12615410,
+      "duration": 5384580,
+      "text": "今晚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18384580,
+      "duration": 5961660,
+      "text": "停靠"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24346250,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25692500,
+      "duration": 5961250,
+      "text": "岸边"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31653750,
+      "duration": 4422910,
+      "text": "呀"
+    }
+  ]
+}

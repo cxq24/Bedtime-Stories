@@ -1,0 +1,59 @@
+{
+  "text": "愿你做一个安静的好梦，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "484b34bc301dfbe8f4e9d2b3c285a1281dbb0885c1d6bad46684e2e8898c1b0f",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3461660,
+      "text": "愿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4730830,
+      "duration": 2115410,
+      "text": "你"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 2692500,
+      "text": "做"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9730830,
+      "duration": 3077080,
+      "text": "一个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13192500,
+      "duration": 5961250,
+      "text": "安静"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19153750,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20692500,
+      "duration": 3845830,
+      "text": "好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24538330,
+      "duration": 4615410,
+      "text": "梦"
+    }
+  ]
+}

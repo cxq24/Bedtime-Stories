@@ -1,0 +1,17 @@
+{
+  "episode": "ep028",
+  "version": "v001",
+  "status": "passed",
+  "review_type": "assistant visual review of all final 30 images using three contact sheets; key props and transition shots spot checked at full size",
+  "scope": "shots 00–29 in order",
+  "checks": {
+    "character_identity_and_outfits": "passed; Pipi stays in registered daytime outfit through porch and registered sleep outfit in bedroom",
+    "scene_transitions": "passed; school/creek/dusk porch/night bedroom follow locked order",
+    "props": "passed; single leaf, dry petal appears in correct order; pebble first appears in shot 19 and stays outside dish; bedroom excludes unmentioned toy",
+    "subtitle_safe_area": "passed at contact-sheet scale; low detail remains in lower 32 percent",
+    "no_text_or_watermarks": "passed"
+  },
+  "reviewer": "assistant",
+  "user_acceptance": "pending",
+  "human_phone_review": "pending"
+}

@@ -1,0 +1,53 @@
+{
+  "text": "它会在哪里轻轻靠岸呢？",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "d92ac099e71da2c8fda57e04bc0f68734e6cb74bda0cca399273622fec078603",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2500000,
+      "text": "它"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3769160,
+      "duration": 2692500,
+      "text": "会"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6461660,
+      "duration": 1922910,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8577080,
+      "duration": 5192500,
+      "text": "哪里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14153750,
+      "duration": 4422910,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18769160,
+      "duration": 6153750,
+      "text": "靠岸"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24922910,
+      "duration": 3653750,
+      "text": "呢"
+    }
+  ]
+}

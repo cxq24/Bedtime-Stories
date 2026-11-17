@@ -1,0 +1,71 @@
+{
+  "text": "让小船一圈接一圈地快速跑下去。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "12dc1ed62e92892ee6f52358ea1ac0d36604ed6ea1b884fac628846abf985efd",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2884580,
+      "text": "让"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4346250,
+      "duration": 5961660,
+      "text": "小船"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10692500,
+      "duration": 2115000,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12807500,
+      "duration": 5192500,
+      "text": "圈"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18384580,
+      "duration": 2307500,
+      "text": "接"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20692500,
+      "duration": 1730410,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22422910,
+      "duration": 5961660,
+      "text": "圈地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28769160,
+      "duration": 5769160,
+      "text": "快速"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34730830,
+      "duration": 2884580,
+      "text": "跑"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37615410,
+      "duration": 7115410,
+      "text": "下去"
+    }
+  ]
+}

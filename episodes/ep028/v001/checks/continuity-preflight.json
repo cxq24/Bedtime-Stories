@@ -1,0 +1,15 @@
+{
+  "episode": "ep028",
+  "version": "v001",
+  "continuity_preflight": "passed",
+  "review_scope": "all 30 planned shots before image generation",
+  "shot_count": 30,
+  "ordered_narration_coverage": true,
+  "locations_and_cast_transitions": "passed",
+  "fixed_prop_anchors": "passed",
+  "causal_state_transitions": "passed",
+  "details": "LEAF_01、PETAL_01、DISH_01、PEBBLE_01及卧室陈设固定；溪水方向左至右；日间科学角和溪边，傍晚门廊，夜间卧室依次推进；所有水船状态与角色离场因果闭合。",
+  "images_generated": 30,
+  "image_contact_review": "passed_all_30",
+  "render_authorized_by_continuity_gate": true
+}

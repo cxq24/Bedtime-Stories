@@ -1,0 +1,33 @@
+{
+  "duration_s": 2.84,
+  "fps": 25,
+  "sample_rate": 48000,
+  "voice": {
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%"
+  },
+  "units": [
+    {
+      "id": "u000",
+      "paragraph_id": "p000",
+      "text": "小朋友们，",
+      "pause_after_s": 0.3,
+      "start_s": 1.0,
+      "end_s": 2.5352291666666664,
+      "source": "audio/source/u000.mp3",
+      "source_trim_start_s": 0.1383125,
+      "word_boundaries": [
+        {
+          "text": "小朋友们",
+          "start_s": 1.0,
+          "end_s": 2.3539785
+        }
+      ],
+      "source_peak": 0.6320338249206543,
+      "normalized_active_rms": 0.105
+    }
+  ],
+  "is_sample": true
+}

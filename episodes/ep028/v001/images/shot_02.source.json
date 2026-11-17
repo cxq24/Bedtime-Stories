@@ -1,0 +1,8 @@
+{
+  "shot_id": 2,
+  "source": "image_gen",
+  "generated_file": "/workspace/generated_images/exec-21828cf2-5ff6-4416-82aa-4a3c6e2a21db.png",
+  "prompt_sha256": "8be27bf73e90a598c288668d330171d9091574e03e8b2d39d0f51ada11741b9b",
+  "reference_manifest": "references/shot_02.json",
+  "sha256": "43dd9ed8c73f50476cc5cc3714631310311735697a40925986835417f0ca5507"
+}

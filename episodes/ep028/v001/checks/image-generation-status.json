@@ -1,0 +1,22 @@
+{
+  "requested_shots": 30,
+  "saved_and_mapped_shots": 30,
+  "missing_shots": [],
+  "image_tool_status": "completed",
+  "unassigned_candidates": 3,
+  "unassigned_note": "Three quota-limited candidates from the earlier failed batch remain unassigned because they lacked returned prompt metadata. They were not used.",
+  "repaired_shots": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    17,
+    18,
+    19,
+    22
+  ],
+  "repair_note": "Revisions replaced images with out-of-order props, missing water/placement, or conflicting characters; latest source records and prompt hashes are registered.",
+  "render_allowed": true
+}

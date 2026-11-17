@@ -1,0 +1,20 @@
+{
+  "source": "original procedural synthesis; no third-party samples",
+  "seed": 28,
+  "music_rms_before_fade": 0.0045,
+  "ambience_rms_before_fade": 0.00065,
+  "duration_s": 273.12,
+  "sample_rate": 48000,
+  "voice_filter_reapplied": false,
+  "voice_sha256": "763f0ae271a851f5e1a3c50079297fb6999d59c82dece500c8d9f93223ff70ea",
+  "peaks_pcm16": {
+    "voice.wav": 16666,
+    "music.wav": 409,
+    "ambience.wav": 142,
+    "mix.wav": 16906
+  },
+  "mix_peak_float": 0.5159341601392188,
+  "music_fade_in_s": 2,
+  "music_fade_out_s": 5,
+  "final_narration_silence_s": 8.04
+}

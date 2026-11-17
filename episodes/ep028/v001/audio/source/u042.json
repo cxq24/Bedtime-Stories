@@ -1,0 +1,29 @@
+{
+  "text": "更没有掉下来。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "3eba5af83bb06448abe64a6d9ee7ca3e874671304dec5029d20a26c8eb553610",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3077080,
+      "text": "更"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4346250,
+      "duration": 3653750,
+      "text": "没有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8192500,
+      "duration": 10192500,
+      "text": "掉下来"
+    }
+  ]
+}

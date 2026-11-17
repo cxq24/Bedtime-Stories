@@ -1,0 +1,47 @@
+{
+  "text": "今天在森林学堂的科学角，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "cf5a3ec7cb16735163eed5b37df9310db38d0e7993bb203cd1d2f8a8e6ea9670",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 8077080,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9730830,
+      "duration": 2115410,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12038330,
+      "duration": 5577080,
+      "text": "森林"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17807500,
+      "duration": 5384580,
+      "text": "学堂"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23192500,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24922910,
+      "duration": 10769160,
+      "text": "科学角"
+    }
+  ]
+}

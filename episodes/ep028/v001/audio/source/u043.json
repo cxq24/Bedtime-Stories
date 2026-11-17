@@ -1,0 +1,71 @@
+{
+  "text": "皮皮从花盆旁找来一块小小的扁平鹅卵石，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "dac42fa96b21fe262d78957d7248c104628419e2b99ef5bdab922bb28635575d",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5961660,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7615410,
+      "duration": 2692500,
+      "text": "从"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10500000,
+      "duration": 5384580,
+      "text": "花盆"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15884580,
+      "duration": 4615410,
+      "text": "旁"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20500000,
+      "duration": 5000000,
+      "text": "找来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25692500,
+      "duration": 4615410,
+      "text": "一块"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30692500,
+      "duration": 6153750,
+      "text": "小小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36846250,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38577080,
+      "duration": 5384580,
+      "text": "扁平"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44153750,
+      "duration": 12307500,
+      "text": "鹅卵石"
+    }
+  ]
+}

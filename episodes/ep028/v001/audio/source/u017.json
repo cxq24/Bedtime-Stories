@@ -1,0 +1,41 @@
+{
+  "text": "当作坐船的小乘客。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "632139d246f040830a6da150c3f039556c03cb6d9ef1850a905bbe797594b580",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6153750,
+      "text": "当作"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7807500,
+      "duration": 5769160,
+      "text": "坐船"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13577080,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15115410,
+      "duration": 3077080,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18192500,
+      "duration": 8653750,
+      "text": "乘客"
+    }
+  ]
+}

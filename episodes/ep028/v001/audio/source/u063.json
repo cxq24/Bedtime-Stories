@@ -1,0 +1,71 @@
+{
+  "text": "你的小船都已经勇敢地航行了一整天。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "f87f8af7c6e21a6253c726d55f506aceade6547c16b3fc64f3da31aade55ed31",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2307500,
+      "text": "你"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3577080,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5307500,
+      "duration": 9422910,
+      "text": "小船"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16269160,
+      "duration": 2115410,
+      "text": "都"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18384580,
+      "duration": 4038330,
+      "text": "已经"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22807500,
+      "duration": 6153750,
+      "text": "勇敢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28961660,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30692500,
+      "duration": 5576660,
+      "text": "航行"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36269160,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37807500,
+      "duration": 10769160,
+      "text": "一整天"
+    }
+  ]
+}

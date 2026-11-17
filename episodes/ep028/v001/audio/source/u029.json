@@ -1,0 +1,41 @@
+{
+  "text": "没有再去拨动水面，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "3ce6d4517c4d319bfa07ddbe4ff310b4244a92f67bddd4a6b4ac9b6c133a3372",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4807500,
+      "text": "没有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6269160,
+      "duration": 2692500,
+      "text": "再"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8961660,
+      "duration": 2115410,
+      "text": "去"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11269160,
+      "duration": 4615410,
+      "text": "拨动"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16077080,
+      "duration": 8461660,
+      "text": "水面"
+    }
+  ]
+}

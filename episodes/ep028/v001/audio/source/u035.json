@@ -1,0 +1,35 @@
+{
+  "text": "一小会儿后，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "c45ac88fabbafbe623ac0e1745bbd3280d49168e584903ad31df2d2dd54bbbfa",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2692500,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3961660,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7230830,
+      "duration": 3269160,
+      "text": "会儿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10500000,
+      "duration": 5192500,
+      "text": "后"
+    }
+  ]
+}

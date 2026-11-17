@@ -1,0 +1,65 @@
+{
+  "text": "放了一粒轻飘飘的粉红色小花瓣，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "1656d45cd569788a7038f20f672da22616807b07bd465aa5fd7fc8694cb27627",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3653750,
+      "text": "放"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4922910,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6269160,
+      "duration": 2500000,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8769160,
+      "duration": 3653750,
+      "text": "粒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12807500,
+      "duration": 9038330,
+      "text": "轻飘飘"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21846250,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23769160,
+      "duration": 8653750,
+      "text": "粉红色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32615410,
+      "duration": 3077080,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35692500,
+      "duration": 7115410,
+      "text": "花瓣"
+    }
+  ]
+}

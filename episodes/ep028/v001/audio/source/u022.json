@@ -1,0 +1,71 @@
+{
+  "text": "水面上倒映着屋里透出来的暖黄色窗灯，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "28b408bfb5a53dcddf03f307484a98103092ee267244ebfe83dd5868dee2690c",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 7884580,
+      "text": "水面"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9153750,
+      "duration": 4038330,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13577080,
+      "duration": 5000000,
+      "text": "倒映"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18577080,
+      "duration": 1730830,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20500000,
+      "duration": 8077080,
+      "text": "屋里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28961660,
+      "duration": 3653750,
+      "text": "透"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32615410,
+      "duration": 4230830,
+      "text": "出来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36846250,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38384580,
+      "duration": 9038330,
+      "text": "暖黄色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47615410,
+      "duration": 7884580,
+      "text": "窗灯"
+    }
+  ]
+}

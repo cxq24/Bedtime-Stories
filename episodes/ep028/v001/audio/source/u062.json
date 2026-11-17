@@ -1,0 +1,47 @@
+{
+  "text": "白天不管是学习还是玩耍，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "32e50639d32b3f789ef623f1db4c06fd54bc7d8d317ba50fb00078f892eae056",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6538330,
+      "text": "白天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8192500,
+      "duration": 4615000,
+      "text": "不管"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12807500,
+      "duration": 1922910,
+      "text": "是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14922910,
+      "duration": 7500000,
+      "text": "学习"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22807500,
+      "duration": 4422910,
+      "text": "还是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27422910,
+      "duration": 8846250,
+      "text": "玩耍"
+    }
+  ]
+}

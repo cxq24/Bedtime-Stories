@@ -1,0 +1,77 @@
+{
+  "text": "看谁能用树叶做出一艘不会沉的小船。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "d3114195e1c12511ad576978bab424c4b4b8dd8941e062eceeade8c13ff252f4",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4038330,
+      "text": "看"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5307500,
+      "duration": 3461660,
+      "text": "谁"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8961660,
+      "duration": 2307500,
+      "text": "能"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11269160,
+      "duration": 2115410,
+      "text": "用"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13577080,
+      "duration": 8461660,
+      "text": "树叶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23577080,
+      "duration": 4807500,
+      "text": "做出"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28577080,
+      "duration": 1922910,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30500000,
+      "duration": 3653750,
+      "text": "艘"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34538330,
+      "duration": 4807500,
+      "text": "不会"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39346250,
+      "duration": 3846250,
+      "text": "沉的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43384580,
+      "duration": 9038330,
+      "text": "小船"
+    }
+  ]
+}

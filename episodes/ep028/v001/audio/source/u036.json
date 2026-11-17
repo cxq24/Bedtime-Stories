@@ -1,0 +1,65 @@
+{
+  "text": "那片樟树叶顺着最柔和的水流，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "0087a89d4641acfb6e7e6fbb6fd3bf5a00fc7315b2bc41ba0dfd04a0f43d0fdb",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2500000,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3769160,
+      "duration": 2884580,
+      "text": "片"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 8653750,
+      "text": "樟树"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17038330,
+      "duration": 2500000,
+      "text": "叶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19538330,
+      "duration": 4422910,
+      "text": "顺着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24346250,
+      "duration": 3461250,
+      "text": "最"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27807500,
+      "duration": 5577080,
+      "text": "柔和"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33384580,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34922910,
+      "duration": 8077080,
+      "text": "水流"
+    }
+  ]
+}

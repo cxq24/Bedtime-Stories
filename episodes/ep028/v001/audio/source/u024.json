@@ -1,0 +1,41 @@
+{
+  "text": "如果是白天的比赛，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "237ddb858af1b5a120fe8b8cebce4972d91d9a230c553e1f16b2fad348ed499f",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4615410,
+      "text": "如果"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5884580,
+      "duration": 2307500,
+      "text": "是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8577080,
+      "duration": 6345830,
+      "text": "白天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14922910,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16653750,
+      "duration": 7884580,
+      "text": "比赛"
+    }
+  ]
+}

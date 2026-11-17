@@ -1,0 +1,416 @@
+[
+  {
+    "id": "u000",
+    "paragraph_id": "p000",
+    "text": "小朋友们，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u001",
+    "paragraph_id": "p000",
+    "text": "准备好听故事了吗？",
+    "pause_after_s": 0.55
+  },
+  {
+    "id": "u002",
+    "paragraph_id": "p000",
+    "text": "今天的故事叫《叶子小船靠岸了》。",
+    "pause_after_s": 0.55
+  },
+  {
+    "id": "u003",
+    "paragraph_id": "p000",
+    "text": "叶子小船已经完成了旅程，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u004",
+    "paragraph_id": "p000",
+    "text": "它会在哪里轻轻靠岸呢？",
+    "pause_after_s": 0.55
+  },
+  {
+    "id": "u005",
+    "paragraph_id": "p001",
+    "text": "今天在森林学堂的科学角，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u006",
+    "paragraph_id": "p001",
+    "text": "山羊老师带着大家做了一个关于“浮力”的小游戏，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u007",
+    "paragraph_id": "p001",
+    "text": "看谁能用树叶做出一艘不会沉的小船。",
+    "pause_after_s": 0.55
+  },
+  {
+    "id": "u008",
+    "paragraph_id": "p001",
+    "text": "皮皮挑选了一片边缘微微向上卷起的厚樟树叶，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u009",
+    "paragraph_id": "p001",
+    "text": "它看起来就像一艘天生的小独木舟。",
+    "pause_after_s": 0.55
+  },
+  {
+    "id": "u010",
+    "paragraph_id": "p002",
+    "text": "傍晚放学回家时，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u011",
+    "paragraph_id": "p002",
+    "text": "皮皮把这片心爱的“叶子小船”带回了家。",
+    "pause_after_s": 0.55
+  },
+  {
+    "id": "u012",
+    "paragraph_id": "p002",
+    "text": "他在门廊的矮桌上，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u013",
+    "paragraph_id": "p002",
+    "text": "摆了一只装满清水的浅口大陶盘，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u014",
+    "paragraph_id": "p002",
+    "text": "小心翼翼地把卷边的樟树叶放在水面上，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u015",
+    "paragraph_id": "p002",
+    "text": "还在叶子船舱的正中间，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u016",
+    "paragraph_id": "p002",
+    "text": "放了一粒轻飘飘的粉红色小花瓣，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u017",
+    "paragraph_id": "p002",
+    "text": "当作坐船的小乘客。",
+    "pause_after_s": 0.55
+  },
+  {
+    "id": "u018",
+    "paragraph_id": "p003",
+    "text": "皮皮对着水面轻轻吹了一口气，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u019",
+    "paragraph_id": "p003",
+    "text": "“呼——”叶子小船便载着粉红花瓣，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u020",
+    "paragraph_id": "p003",
+    "text": "在水面上慢悠悠地转了半圈，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u021",
+    "paragraph_id": "p003",
+    "text": "优雅地航行起来。",
+    "pause_after_s": 0.55
+  },
+  {
+    "id": "u022",
+    "paragraph_id": "p003",
+    "text": "水面上倒映着屋里透出来的暖黄色窗灯，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u023",
+    "paragraph_id": "p003",
+    "text": "小船就像在洒满金子的湖面上旅行一样。",
+    "pause_after_s": 0.55
+  },
+  {
+    "id": "u024",
+    "paragraph_id": "p004",
+    "text": "如果是白天的比赛，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u025",
+    "paragraph_id": "p004",
+    "text": "大家一定会不停地吹气，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u026",
+    "paragraph_id": "p004",
+    "text": "让小船一圈接一圈地快速跑下去。",
+    "pause_after_s": 0.55
+  },
+  {
+    "id": "u027",
+    "paragraph_id": "p004",
+    "text": "可是现在天色暗了，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u028",
+    "paragraph_id": "p004",
+    "text": "皮皮把小爪子停在陶盘外面，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u029",
+    "paragraph_id": "p004",
+    "text": "没有再去拨动水面，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u030",
+    "paragraph_id": "p004",
+    "text": "也没有再吹气。",
+    "pause_after_s": 0.55
+  },
+  {
+    "id": "u031",
+    "paragraph_id": "p004",
+    "text": "他只是安安静静地蹲在桌边，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u032",
+    "paragraph_id": "p004",
+    "text": "想看看在没有风催促的时候，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u033",
+    "paragraph_id": "p004",
+    "text": "这艘小船自己会停在哪里。",
+    "pause_after_s": 0.55
+  },
+  {
+    "id": "u034",
+    "paragraph_id": "p005",
+    "text": "水波慢慢平息下来。",
+    "pause_after_s": 0.55
+  },
+  {
+    "id": "u035",
+    "paragraph_id": "p005",
+    "text": "一小会儿后，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u036",
+    "paragraph_id": "p005",
+    "text": "那片樟树叶顺着最柔和的水流，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u037",
+    "paragraph_id": "p005",
+    "text": "轻轻地靠住了陶盘温润的边缘，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u038",
+    "paragraph_id": "p005",
+    "text": "停稳了。",
+    "pause_after_s": 0.55
+  },
+  {
+    "id": "u039",
+    "paragraph_id": "p005",
+    "text": "船舱里的那粒粉红花瓣，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u040",
+    "paragraph_id": "p005",
+    "text": "还好好地坐在原处，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u041",
+    "paragraph_id": "p005",
+    "text": "一点儿也没有被打湿，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u042",
+    "paragraph_id": "p005",
+    "text": "更没有掉下来。",
+    "pause_after_s": 0.55
+  },
+  {
+    "id": "u043",
+    "paragraph_id": "p006",
+    "text": "皮皮从花盆旁找来一块小小的扁平鹅卵石，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u044",
+    "paragraph_id": "p006",
+    "text": "轻轻摆在陶盘外面的桌沿上，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u045",
+    "paragraph_id": "p006",
+    "text": "刚好对着叶子停靠的地方，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u046",
+    "paragraph_id": "p006",
+    "text": "就像是给这个小小的停靠港湾，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u047",
+    "paragraph_id": "p006",
+    "text": "立了一个温柔的码头记号。",
+    "pause_after_s": 0.55
+  },
+  {
+    "id": "u048",
+    "paragraph_id": "p006",
+    "text": "今天的航行圆满结束了。",
+    "pause_after_s": 0.55
+  },
+  {
+    "id": "u049",
+    "paragraph_id": "p006",
+    "text": "叶子小船不必在夜里一直漂流，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u050",
+    "paragraph_id": "p006",
+    "text": "花瓣小乘客也可以在这个小港湾里安心地歇一歇了。",
+    "pause_after_s": 0.55
+  },
+  {
+    "id": "u051",
+    "paragraph_id": "p007",
+    "text": "皮皮站起身，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u052",
+    "paragraph_id": "p007",
+    "text": "走进卧室回到床上，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u053",
+    "paragraph_id": "p007",
+    "text": "把自己的两只长耳朵舒舒服服地放好。",
+    "pause_after_s": 0.55
+  },
+  {
+    "id": "u054",
+    "paragraph_id": "p007",
+    "text": "这只软绵绵的大枕头，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u055",
+    "paragraph_id": "p007",
+    "text": "就是皮皮今晚停靠的岸边呀。",
+    "pause_after_s": 0.55
+  },
+  {
+    "id": "u056",
+    "paragraph_id": "p007",
+    "text": "他盖好暖黄色的毛毯，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u057",
+    "paragraph_id": "p007",
+    "text": "慢慢闭上眼睛。",
+    "pause_after_s": 0.55
+  },
+  {
+    "id": "u058",
+    "paragraph_id": "p007",
+    "text": "门廊水盘里的小船停稳了，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u059",
+    "paragraph_id": "p007",
+    "text": "屋里小床上的小兔子，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u060",
+    "paragraph_id": "p007",
+    "text": "也稳稳当当地停靠好了。",
+    "pause_after_s": 0.55
+  },
+  {
+    "id": "u061",
+    "paragraph_id": "p008",
+    "text": "小朋友，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u062",
+    "paragraph_id": "p008",
+    "text": "白天不管是学习还是玩耍，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u063",
+    "paragraph_id": "p008",
+    "text": "你的小船都已经勇敢地航行了一整天。",
+    "pause_after_s": 0.55
+  },
+  {
+    "id": "u064",
+    "paragraph_id": "p008",
+    "text": "今晚，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u065",
+    "paragraph_id": "p008",
+    "text": "就让我们一起靠岸吧。",
+    "pause_after_s": 0.55
+  },
+  {
+    "id": "u066",
+    "paragraph_id": "p008",
+    "text": "小床会稳稳地接住你，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u067",
+    "paragraph_id": "p008",
+    "text": "愿你做一个安静的好梦，",
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "u068",
+    "paragraph_id": "p008",
+    "text": "晚安。",
+    "pause_after_s": 8.0
+  }
+]

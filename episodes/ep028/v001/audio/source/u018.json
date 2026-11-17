@@ -1,0 +1,53 @@
+{
+  "text": "皮皮对着水面轻轻吹了一口气，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "2f77b0739b6c0471119ed02b396bc85cd9202cb7e95a922db3560ba5376a710c",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5769160,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7422910,
+      "duration": 3461660,
+      "text": "对着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11077080,
+      "duration": 8653750,
+      "text": "水面"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21269160,
+      "duration": 5961660,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27422910,
+      "duration": 2884580,
+      "text": "吹"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30307500,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31653750,
+      "duration": 10577080,
+      "text": "一口气"
+    }
+  ]
+}

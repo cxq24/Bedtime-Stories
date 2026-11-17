@@ -1,0 +1,9 @@
+{
+  "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+  "referenced_image_paths": [
+    "/workspace/Bedtime-Stories/episodes/ep028/v001/assets/porch_anchor.png"
+  ],
+  "characters": [],
+  "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。 Prop anchor is visual appearance only. Obey shot-specific object placement in prompt. Use the shot-11 image only for LEAF_01 and PETAL_01 appearance; PEBBLE_01 is not present in shots 12–18.",
+  "user_visual_acceptance": "approved_for_initial_production_use"
+}

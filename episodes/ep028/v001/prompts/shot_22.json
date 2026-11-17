@@ -1,0 +1,35 @@
+{
+  "id": 22,
+  "title": "花瓣乘客安心休息",
+  "destination": "/workspace/Bedtime-Stories/episodes/ep028/v001/images/shot_22.png",
+  "prompt": "Use case: illustration-story. Asset type: ONE original full-bleed vertical 9:16 watercolor story illustration for one locked narration shot. Input 1: porch environment layout and watercolor style ONLY; keep the same low table, shallow terracotta dish, flowerpot to the left, and warm window lamp. Input 2: continuity reference ONLY for the single LEAF_01 with its single dry PETAL_01 and the single PEBBLE_01 outside the dish. Preserve exact placements. Do not copy any rabbit from any other source.\nVisible characters: none. Exact total number of visible characters: 0. No people, rabbits, animals, hands, or body parts.\nScene continuity: the same porch table and shallow terracotta dish at night; warm house light glows in the same position.\nThe SINGLE visual moment and framing: quiet close view of the leaf boat fully docked at the inner rim of the water-filled terracotta dish; the pink petal remains dry in the boat; the small flat pebble rests on the tabletop outside the dish, directly opposite the docking point.\nProp rules: exactly one leaf, one dry petal, one pebble. The pebble is outside the water. No extra props.\nVertical 9:16 gentle watercolor on fine warm paper, soft edges, muted natural colors. Keep the important dish and all three small story props in the upper 68%, bottom 32% low-detail space for subtitles. No words, text, watermark, logo, collage, panels, or extra characters. No new story events.",
+  "reference_inputs": [
+    "/workspace/Bedtime-Stories/episodes/ep028/v001/assets/porch_anchor.png",
+    "/workspace/Bedtime-Stories/episodes/ep028/v001/images/shot_21.png"
+  ],
+  "characters": [
+    "pipi"
+  ],
+  "outfits": {
+    "pipi": "sleep_v001"
+  },
+  "source_ranges": [
+    {
+      "unit_id": "u049",
+      "paragraph_id": "p006",
+      "start_char": 0,
+      "end_char": 14
+    },
+    {
+      "unit_id": "u050",
+      "paragraph_id": "p006",
+      "start_char": 0,
+      "end_char": 23
+    }
+  ],
+  "timing": {
+    "start_s": 195.76,
+    "end_s": 207.4
+  },
+  "assets_reference": true
+}

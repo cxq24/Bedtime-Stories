@@ -1,0 +1,35 @@
+{
+  "text": "优雅地航行起来。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "58483542c3f38fafd6f72cdb5e1f3d4fbf8e6cda477a1d03c5fe354a608bca53",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5961660,
+      "text": "优雅"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7230830,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8961660,
+      "duration": 6538330,
+      "text": "航行"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15692500,
+      "duration": 5961660,
+      "text": "起来"
+    }
+  ]
+}

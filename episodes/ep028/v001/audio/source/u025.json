@@ -1,0 +1,47 @@
+{
+  "text": "大家一定会不停地吹气，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "257bcff0e62cb7c1fd6f2fcdd967baa9f9e0bb30982b24a0d4217ec879b0b998",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5384580,
+      "text": "大家"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 5384580,
+      "text": "一定"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12230830,
+      "duration": 2500000,
+      "text": "会"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15115410,
+      "duration": 5384580,
+      "text": "不停"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20500000,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22038330,
+      "duration": 8269160,
+      "text": "吹气"
+    }
+  ]
+}
