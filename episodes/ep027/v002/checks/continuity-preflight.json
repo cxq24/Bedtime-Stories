@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "episode": "ep027",
+  "version": "v002",
+  "state_sequence": "wet socks remain on porch airing rack; dry spare socks stay on Pipi through indoor scenes and bedtime; rainy weather remains outside; bedtime transition is preserved.",
+  "contact_sheet": "checks/storyboard_contact.jpg",
+  "image_review": "checks/continuity-image-review.json"
+}

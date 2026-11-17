@@ -1,0 +1,16 @@
+{
+  "shot_id": 31,
+  "asset": "images/shot_31.png",
+  "size": [
+    941,
+    1672
+  ],
+  "sha256": "4deca9e5f097471e6f08ff3c415faaa30a4cb98d4b91a34a12dd1252b08f3793",
+  "method": "image_gen",
+  "prompt": "Vertical 9:16 final goodnight watercolor illustration, same bedroom, bed, window and warm lamp. Pipi sleeps peacefully under the honey-yellow blanket wearing the starry cap; socked feet tucked underneath, carrot plush beside the arm. Closed eyes, relaxed ears and body. Warm muted watercolor colors, fine paper texture, quiet lower 18% for subtitles. Single frame, no text.",
+  "references": [
+    "episodes/ep027/v002/images/shot_24.png",
+    "episodes/ep027/v002/images/shot_26.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+  ]
+}

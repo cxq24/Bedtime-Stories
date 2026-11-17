@@ -1,0 +1,107 @@
+{
+  "text": "而是先坐在玄关的矮木凳上，把两只小脚慢慢放稳，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "6751bc90b4cff382ea66510fedb623be72ce19b14cfdc1b6c00c0103e9be13cc",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 8653750,
+      "text": "而是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11269160,
+      "duration": 3653750,
+      "text": "先"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14922910,
+      "duration": 2115410,
+      "text": "坐"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17038330,
+      "duration": 2307500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19730830,
+      "duration": 6346250,
+      "text": "玄关"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26077080,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27807500,
+      "duration": 2500000,
+      "text": "矮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30307500,
+      "duration": 2307500,
+      "text": "木"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32615410,
+      "duration": 3269160,
+      "text": "凳"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35884580,
+      "duration": 4615410,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44730830,
+      "duration": 2115410,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47038330,
+      "duration": 3077080,
+      "text": "两"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50115410,
+      "duration": 1538330,
+      "text": "只"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51846250,
+      "duration": 7115410,
+      "text": "小脚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59346250,
+      "duration": 5769160,
+      "text": "慢慢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 65307500,
+      "duration": 7500000,
+      "text": "放稳"
+    }
+  ]
+}

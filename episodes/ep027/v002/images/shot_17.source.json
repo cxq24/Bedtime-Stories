@@ -1,0 +1,11 @@
+{
+  "shot_id": 17,
+  "asset": "images/shot_17.png",
+  "size": [
+    941,
+    1672
+  ],
+  "sha256": "ac9c9f41b31f13ed4e5328b08e845ef44d249220293a8db95da61e2348bbdfea",
+  "method": "image_gen",
+  "prompt": "Storyboard action: 近景表现同一双干袜包着脚，皮皮在软地垫上轻轻活动脚趾；动作轻柔，脸上露出放松的小笑意。"
+}

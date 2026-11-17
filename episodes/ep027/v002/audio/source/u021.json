@@ -1,0 +1,59 @@
+{
+  "text": "一点儿也不受外面湿气的影响。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "f362d2ee14c69bfe6f99bbedc10b8bb3e388f2d2d2050c3e17fcb5b6e476baa4",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5961660,
+      "text": "一点儿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7422910,
+      "duration": 2115410,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9538330,
+      "duration": 1730830,
+      "text": "不"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11269160,
+      "duration": 2692500,
+      "text": "受"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14346250,
+      "duration": 4422910,
+      "text": "外面"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18961660,
+      "duration": 5576660,
+      "text": "湿气"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24538330,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25884580,
+      "duration": 8269160,
+      "text": "影响"
+    }
+  ]
+}

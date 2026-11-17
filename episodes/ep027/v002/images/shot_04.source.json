@@ -1,0 +1,11 @@
+{
+  "shot_id": 4,
+  "asset": "images/shot_04.png",
+  "size": [
+    941,
+    1672
+  ],
+  "sha256": "fc11627be5e7d33441fefa638bc289a14e2b200edbccee545b853500248271dc",
+  "method": "image_gen",
+  "prompt": "Storyboard action: 小鼹鼠点点和皮皮在湿草丛边；被风吹来的画纸落在草里，皮皮俯身伸爪帮忙捡，点点专注看着画纸。动作温和，雨已停，地面仍潮湿。"
+}

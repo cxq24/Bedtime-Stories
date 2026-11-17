@@ -1,0 +1,11 @@
+{
+  "shot_id": 18,
+  "asset": "images/shot_18.png",
+  "size": [
+    941,
+    1672
+  ],
+  "sha256": "ef16233d583f739812d0406c1e02d410f38e0fbba9c79ae049280d9e22deb16c",
+  "method": "image_gen",
+  "prompt": "Storyboard action: 皮皮穿干袜站在软垫边，脚尖轻松抬起，眉眼舒展；地垫与木地板保持干燥整洁。"
+}

@@ -1,0 +1,11 @@
+{
+  "shot_id": 5,
+  "asset": "images/shot_05.png",
+  "size": [
+    941,
+    1672
+  ],
+  "sha256": "f343138765ef66996c7d41f8b4c9e7c77958212f6f6a61c9f1f27b78118a0eea",
+  "method": "image_gen",
+  "prompt": "Storyboard action: 皮皮跨过湿草后停下查看脚边，鞋尖和棉布袜沾了一点雨水；神情微微意外但平静，脚下是湿草和小水珠，不夸大泥泞。"
+}

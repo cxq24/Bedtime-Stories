@@ -1,0 +1,11 @@
+{
+  "shot_id": 6,
+  "asset": "images/shot_06.png",
+  "size": [
+    941,
+    1672
+  ],
+  "sha256": "4fc292eb2cd87b4a942dea3df4813ae388295245de4cb47355e3a2bb225e2d3d",
+  "method": "image_gen",
+  "prompt": "Storyboard action: 皮皮刚推开木屋门，停步观察自己沾湿的脚，神情认真、身体从容；远处有玩具但他没有跑去玩。仍在玄关，鞋袜尚穿着。"
+}

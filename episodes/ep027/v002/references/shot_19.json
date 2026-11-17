@@ -1,0 +1,16 @@
+{
+  "shot_id": 19,
+  "references": [
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+  ],
+  "continuity_refs": [
+    "PIPI",
+    "DRY_SOCKS",
+    "WOODEN_DOOR",
+    "WOODEN_FLOOR",
+    "WINDOW_RAIN",
+    "ENTRY_STOOL"
+  ],
+  "method": "image_gen"
+}

@@ -1,0 +1,89 @@
+{
+  "text": "今天下午放学的时候，森林里刚下过一场阵雨，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "feb10ee0c2b41fff5fb880681901a250e75e22fdcec99ebe778735e09c55ee00",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5000000,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6461660,
+      "duration": 5192500,
+      "text": "下午"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12038330,
+      "duration": 5769160,
+      "text": "放学"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17807500,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19346250,
+      "duration": 7115410,
+      "text": "时候"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30692500,
+      "duration": 5961250,
+      "text": "森林"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36653750,
+      "duration": 4230830,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41269160,
+      "duration": 3461660,
+      "text": "刚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44730830,
+      "duration": 3076660,
+      "text": "下"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47807500,
+      "duration": 1346250,
+      "text": "过"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 49346250,
+      "duration": 1730830,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51077080,
+      "duration": 3077080,
+      "text": "场"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54346250,
+      "duration": 7692500,
+      "text": "阵雨"
+    }
+  ]
+}

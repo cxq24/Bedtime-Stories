@@ -1,0 +1,47 @@
+{
+  "text": "脱下了潮湿的鞋袜。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "81e173a9e40df0b8dc7432644e3bbf75357690ec5e481db97571d9bd28296501",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3269160,
+      "text": "脱"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4538330,
+      "duration": 2884580,
+      "text": "下"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7422910,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8961660,
+      "duration": 6153750,
+      "text": "潮湿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15115410,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16846250,
+      "duration": 8077080,
+      "text": "鞋袜"
+    }
+  ]
+}

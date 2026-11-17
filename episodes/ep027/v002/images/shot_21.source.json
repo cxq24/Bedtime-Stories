@@ -1,0 +1,11 @@
+{
+  "shot_id": 21,
+  "asset": "images/shot_21.png",
+  "size": [
+    941,
+    1672
+  ],
+  "sha256": "3329e0d2e1694b00315f14b1e8d66473da6021f07a62e05db33a3683615b1335",
+  "method": "image_gen",
+  "prompt": "Storyboard action: 室内地板和软地垫保持干燥，皮皮穿着干袜在屋里安稳活动；窗外夜雨细小，不进入屋内。"
+}

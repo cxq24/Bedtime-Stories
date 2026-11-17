@@ -1,0 +1,16 @@
+{
+  "shot_id": 28,
+  "asset": "images/shot_28.png",
+  "size": [
+    941,
+    1672
+  ],
+  "sha256": "28568a4e2898b61a8a4502b10f62beaa1a01431293e783f90036a79edd3f4ce7",
+  "method": "image_gen",
+  "prompt": "Vertical 9:16 watercolor children’s storybook art. Continue the exact wooden bedroom, bed, yellow blanket, window, Pipi and carrot plush shown in references. Pipi in the familiar navy starry sleep cap sits gently propped on the bed, looking kindly toward the viewer as if asking a bedtime question; calm open eyes, small warm smile, relaxed ears. Carrot plush near one arm. Detailed watercolor washes, paper grain, consistent palette. Quiet lower 18%, no text or new characters.",
+  "references": [
+    "episodes/ep027/v002/images/shot_24.png",
+    "episodes/ep027/v002/images/shot_26.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+  ]
+}

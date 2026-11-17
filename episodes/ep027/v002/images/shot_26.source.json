@@ -1,0 +1,16 @@
+{
+  "shot_id": 26,
+  "asset": "images/shot_26.png",
+  "size": [
+    941,
+    1672
+  ],
+  "sha256": "aa936774af24ff2a5669b2ab186faa0f60912e651053bda236d4fb8ab25bbdcd",
+  "method": "image_gen",
+  "prompt": "Vertical 9:16 watercolor children’s book illustration, same Pipi and bedroom. Pipi in the navy starry sleep cap lies comfortably under the honey-yellow blanket. A small soft orange carrot plush with green leaves leans beside Pipi’s arm; establish one consistent toy. Pipi smiles contentedly with eyes softly open; sock feet stay tucked under covers. Detailed fur, textured paper, warm lamplight. Quiet lower 18%, single frame, no text.",
+  "references": [
+    "episodes/ep027/v002/images/shot_00.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "小朋友，今晚睡觉前，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "45f4883e383ea4f35a19a94a5bcdd50598a1ca29211f1e5c7bf01118a6d27aba",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 11153750,
+      "text": "小朋友"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15692500,
+      "duration": 5577080,
+      "text": "今晚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21461660,
+      "duration": 5769160,
+      "text": "睡觉"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27230830,
+      "duration": 5961660,
+      "text": "前"
+    }
+  ]
+}

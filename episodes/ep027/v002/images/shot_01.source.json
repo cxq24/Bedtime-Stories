@@ -1,0 +1,11 @@
+{
+  "shot_id": 1,
+  "asset": "images/shot_01.png",
+  "size": [
+    941,
+    1672
+  ],
+  "sha256": "9bf4b57329046bcceb39b558fb97e70d7c481b7d7ce39a676e8cfa9ff9409110",
+  "method": "image_gen",
+  "prompt": "Storyboard action: 象征性画面：雨后草叶上挂着几颗雨珠，一双小小棉袜以温暖柔软的意象出现；不出现皮皮、不提前呈现正文真实动作或卧室。"
+}
