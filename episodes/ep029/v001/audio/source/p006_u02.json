@@ -1,0 +1,113 @@
+{
+  "text": "小木屋里熟悉的原木香气和毛毯的暖意，离他这么近，这么真实。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "2214018ef90acc92a41ae71960fd6243171a921cb29268bbdf62cc28f8f07bee",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4038330,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5307500,
+      "duration": 5000000,
+      "text": "木屋"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10307500,
+      "duration": 4230830,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14922910,
+      "duration": 5769160,
+      "text": "熟悉"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20692500,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22615410,
+      "duration": 4422910,
+      "text": "原木"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27230830,
+      "duration": 9038330,
+      "text": "香气"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37807500,
+      "duration": 2500000,
+      "text": "和"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40500000,
+      "duration": 5577080,
+      "text": "毛毯"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46077080,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47422910,
+      "duration": 8077080,
+      "text": "暖意"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61077080,
+      "duration": 1922910,
+      "text": "离"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63000000,
+      "duration": 2115410,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 65307500,
+      "duration": 4422910,
+      "text": "这么"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 69730830,
+      "duration": 4038330,
+      "text": "近"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 77615410,
+      "duration": 4230830,
+      "text": "这么"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 82038330,
+      "duration": 8846250,
+      "text": "真实"
+    }
+  ]
+}

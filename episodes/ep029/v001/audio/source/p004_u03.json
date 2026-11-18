@@ -1,0 +1,191 @@
+{
+  "text": "他伸出小爪子，把叶子花窗帘往中间拉近了一点，让小木屋里暖融融的灯光，严严实实地留在自己和胡萝卜玩偶的身边。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "dcf5c29ba69ec2c41fdf0f7abaa707d403b6852da7c919bf2e8fb37db3e6a774",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2500000,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3769160,
+      "duration": 4807500,
+      "text": "伸出"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8769160,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12038330,
+      "duration": 7884580,
+      "text": "爪子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24730830,
+      "duration": 2115410,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27038330,
+      "duration": 7307500,
+      "text": "叶子花"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34538330,
+      "duration": 9615410,
+      "text": "窗帘"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45692500,
+      "duration": 2884580,
+      "text": "往"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48769160,
+      "duration": 5961660,
+      "text": "中间"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55115410,
+      "duration": 2307500,
+      "text": "拉"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57422910,
+      "duration": 2692500,
+      "text": "近"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60115410,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61461660,
+      "duration": 6922910,
+      "text": "一点"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 73769160,
+      "duration": 2692500,
+      "text": "让"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 76461660,
+      "duration": 3076660,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 79538330,
+      "duration": 5384580,
+      "text": "木屋"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 84922910,
+      "duration": 2692500,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 88000000,
+      "duration": 8269160,
+      "text": "暖融融"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 96269160,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 97807500,
+      "duration": 7307500,
+      "text": "灯光"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 108846250,
+      "duration": 13076660,
+      "text": "严严实实"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 121922910,
+      "duration": 4615410,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 128077080,
+      "duration": 2307500,
+      "text": "留"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 130384580,
+      "duration": 2500000,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 133077080,
+      "duration": 4615410,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 138077080,
+      "duration": 2115410,
+      "text": "和"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 140192500,
+      "duration": 7115410,
+      "text": "胡萝卜"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 147692500,
+      "duration": 5576660,
+      "text": "玩偶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 153269160,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 154807500,
+      "duration": 7500000,
+      "text": "身边"
+    }
+  ]
+}

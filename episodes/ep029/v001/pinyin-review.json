@@ -1,0 +1,187 @@
+{
+  "hanzi": 723,
+  "cues": 123,
+  "pinyin_coverage": 1.0,
+  "context_review": "completed_against_episode_text",
+  "target_font_px": {
+    "hanzi": 76,
+    "pinyin": 48
+  },
+  "libass_fontsize_calibration": {
+    "hanzi": 114,
+    "pinyin": 66,
+    "reason": "match actual rasterized glyph scale to bundled-font 76px/48px reference; libass normalizes font metrics"
+  },
+  "audio_pronunciation_listen_review": "not_certified",
+  "overrides": [
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "小朋友们，准备好听故事了吗？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "地方",
+      "pinyin": [
+        "dì",
+        "fang"
+      ],
+      "context": "夜雾轻轻围住小篱笆，熟悉的森林还在原来的地方吗？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮刚帮妈妈把门廊下的小花盆收好，一抬头，发现窗外的森林里，不知什么时候升起了一层白茫茫、薄薄的夜雾。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "那层薄雾慢悠悠地飘过来，把皮皮家院子外面的小木头篱笆轻轻围住了，远远看去，小篱笆就像披上了一条浅灰色的蓬松羊毛围巾。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮回到屋里，趴在卧室的窗台上往外看。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "团团",
+      "pinyin": [
+        "tuán",
+        "tuán"
+      ],
+      "context": "平时站在窗前，他能一直望见远处的小木桥和小松鼠团团家的大橡树；",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮心里冒出了一点点小小的担心：外面的路看不清了，小篱笆和远处的森林，会不会在雾里迷路不见了呀？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "他刚想走到门口去打开门看个究竟，却停住了脚步。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "地方",
+      "pinyin": [
+        "dì",
+        "fang"
+      ],
+      "context": "皮皮明白了：花盆在这里，小椅子在这里，院子外面的小篱笆和小木桥当然也还在原来的地方呀，它们哪里也没去，只是在夜晚暂时躲进了软绵绵的雾气被子里休息呢。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮明白了：花盆在这里，小椅子在这里，院子外面的小篱笆和小木桥当然也还在原来的地方呀，它们哪里也没去，只是在夜晚暂时躲进了软绵绵的雾气被子里休息呢。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "于是，皮皮没有再打开门出去找。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "窗帘",
+      "pinyin": [
+        "chuāng",
+        "lián"
+      ],
+      "context": "他伸出小爪子，把叶子花窗帘往中间拉近了一点，让小木屋里暖融融的灯光，严严实实地留在自己和胡萝卜玩偶的身边。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "爪子",
+      "pinyin": [
+        "zhuǎ",
+        "zi"
+      ],
+      "context": "他伸出小爪子，把叶子花窗帘往中间拉近了一点，让小木屋里暖融融的灯光，严严实实地留在自己和胡萝卜玩偶的身边。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "胡萝卜",
+      "pinyin": [
+        "hú",
+        "luó",
+        "bo"
+      ],
+      "context": "他伸出小爪子，把叶子花窗帘往中间拉近了一点，让小木屋里暖融融的灯光，严严实实地留在自己和胡萝卜玩偶的身边。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "窗外的薄雾像一个温柔的大拥抱，轻轻抱了抱小篱笆，没有敲门，也没有催促屋里的谁跟着它一起往看不清的远处走。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "爪子",
+      "pinyin": [
+        "zhuǎ",
+        "zi"
+      ],
+      "context": "皮皮安心地钻进被窝，把小爪子彻底放松下来。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮安心地钻进被窝，把小爪子彻底放松下来。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "今晚那些在雾里看不清楚的远方，等明天早上太阳升起来、雾气散去的时候，随时都可以再看个够。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "小朋友，到了晚上，看不清外面的大世界也没关系，因为所有美好的事物都还好好地待在原处。",
+      "review": "context_checked_not_audio_listen_certification"
+    }
+  ]
+}

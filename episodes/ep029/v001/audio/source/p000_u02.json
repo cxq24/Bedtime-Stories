@@ -1,0 +1,71 @@
+{
+  "text": "今天的故事叫《雾抱了抱小篱笆》。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "14115642e2323c684599535767dbdd7ef7ecc13a72bdd9295eb4c9c9d44d7b49",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5384580,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6653750,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8000000,
+      "duration": 7692500,
+      "text": "故事"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17230830,
+      "duration": 3846250,
+      "text": "叫"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21077080,
+      "duration": 4615410,
+      "text": "雾"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27230830,
+      "duration": 2500000,
+      "text": "抱"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29730830,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31077080,
+      "duration": 2307500,
+      "text": "抱"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33384580,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36653750,
+      "duration": 6730830,
+      "text": "篱笆"
+    }
+  ]
+}

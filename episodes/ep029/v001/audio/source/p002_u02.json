@@ -1,0 +1,77 @@
+{
+  "text": "皮皮回到屋里，趴在卧室的窗台上往外看。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "7c312f412caec92b97d58a079b278aff8be613e22b7eb66f6cd80745c687ddd7",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5384580,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 4615410,
+      "text": "回到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11846250,
+      "duration": 7500000,
+      "text": "屋里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23000000,
+      "duration": 2884580,
+      "text": "趴"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25884580,
+      "duration": 2307500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28384580,
+      "duration": 6153750,
+      "text": "卧室"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34538330,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36077080,
+      "duration": 5961250,
+      "text": "窗台"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42038330,
+      "duration": 3269160,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45692500,
+      "duration": 2500000,
+      "text": "往"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48192500,
+      "duration": 7692500,
+      "text": "外看"
+    }
+  ]
+}
