@@ -20,3 +20,7 @@
 - `images/shot_00.png`及`.source.json`：已生成片头候选及来源
 - `subtitles.ruby.json`、`episode.ass`、`episode.srt`、`pinyin-review.json`：拼音字幕初稿
 - `PRODUCTION_STATE.json`：机器可读阶段状态
+
+## 仓库同步
+
+2026-11-18，按用户指示将当前v001工程文件推送到GitHub `main`，提交 `ff86496`。同步范围为本目录现有全部69个文件（含配音WAV、句级MP3、两张插画与制作资料）；当前尚无渲染视频。
