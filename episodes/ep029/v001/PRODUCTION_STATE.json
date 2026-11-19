@@ -1,0 +1,50 @@
+{
+  "episode": "ep029",
+  "version": "v001",
+  "title": "雾抱了抱小篱笆",
+  "script_version": "v5",
+  "stage": "voice_complete_storyboard_locked_opening_art_started",
+  "script_source": "02_100集剧本/用户长稿v5/结构化JSON/ep029.json",
+  "script_sha256": "4e0e54174becf4aedaac015e34b58e606db5cd2839b766ef22c617b402f283b2",
+  "voice": {
+    "status": "synthesized",
+    "duration_s": 248.36,
+    "segments": 23,
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000,
+    "pronunciation_review": "not_certified"
+  },
+  "storyboard": {
+    "status": "33_shot_draft_locked_to_audio",
+    "full_text_coverage": "locked_by_tts_word_boundaries",
+    "duration_s": 248.36,
+    "max_visible_s": 11.0,
+    "shot_visual_review": "pending"
+  },
+  "continuity_preflight": "drafted_not_passed",
+  "illustrations": {
+    "status": "in_progress",
+    "generated": 2,
+    "required": 33,
+    "opening_image": "images/shot_02.png",
+    "generated_story_image": "images/shot_06.png",
+    "image_contact_review": "pending"
+  },
+  "cover": "not_started",
+  "pinyin": "generated_from_audio_word_boundaries; manual_review_pending",
+  "render": "not_started",
+  "technical_check": "not_started",
+  "human_full_watch": "not_certified",
+  "user_acceptance": "pending",
+  "publication": "not_published",
+  "github_sync": {
+    "status": "canonical_sync_in_progress",
+    "wrong_initial_target": "cxq24/Bedtime-Stories main",
+    "intended_repository": "Carlosxiaoqing/Bedtime-Stories",
+    "current_canonical_commit": "37d94a8510b1ba51e8479d08ef7f48f8f0fba430",
+    "note": "Episode files are being resubmitted from the canonical main base; no rendered video exists"
+  }
+}

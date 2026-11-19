@@ -1,0 +1,13 @@
+{
+  "shot_id": "shot_06",
+  "status": "generated_candidate_not_finally_audited",
+  "generator": "built-in image_gen",
+  "prompt": "Vertical 9:16 watercolor, rainy late-autumn forest garden; small low warm-brown wooden fence fixed in place, thin milky fog wrapping it like a fluffy scarf; no characters; no text; lower quarter low-detail.",
+  "reference_images": [],
+  "sha256": "7aa6d700e2715b78b05cd79770eaf332d0b7956ab50035572944e9227bd7c9af",
+  "dimensions": [
+    960,
+    1708
+  ],
+  "review": "story beat: fog curls around the small fence; image-to-shot and neighboring continuity review pending"
+}

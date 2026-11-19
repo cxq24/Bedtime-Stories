@@ -1,0 +1,215 @@
+{
+  "text": "那层薄雾慢悠悠地飘过来，把皮皮家院子外面的小木头篱笆轻轻围住了，远远看去，小篱笆就像披上了一条浅灰色的蓬松羊毛围巾。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "c4828e7c25b7adf749464672ceaef84f61fbb6e7189b962362ac3c775e643a10",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2500000,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3769160,
+      "duration": 3269160,
+      "text": "层"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 5000000,
+      "text": "薄雾"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12422910,
+      "duration": 7884580,
+      "text": "慢悠悠"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20307500,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21846250,
+      "duration": 3846250,
+      "text": "飘"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25692500,
+      "duration": 6346250,
+      "text": "过来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36653750,
+      "duration": 2115410,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38961660,
+      "duration": 2692080,
+      "text": "皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41653750,
+      "duration": 10384580,
+      "text": "皮家院子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52230830,
+      "duration": 4807500,
+      "text": "外面"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57038330,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58577080,
+      "duration": 3076660,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61653750,
+      "duration": 4807500,
+      "text": "木头"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 66653750,
+      "duration": 6730830,
+      "text": "篱笆"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 74922910,
+      "duration": 5961660,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 81077080,
+      "duration": 2884580,
+      "text": "围"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 83961660,
+      "duration": 3269160,
+      "text": "住"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 87230830,
+      "duration": 2307500,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 94346250,
+      "duration": 5769160,
+      "text": "远远"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 100307500,
+      "duration": 7884580,
+      "text": "看去"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 112115410,
+      "duration": 4422910,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 116538330,
+      "duration": 7307500,
+      "text": "篱笆"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 124230830,
+      "duration": 2307500,
+      "text": "就"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 126538330,
+      "duration": 2692500,
+      "text": "像"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 129422910,
+      "duration": 2692500,
+      "text": "披"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 132115410,
+      "duration": 2692080,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 134807500,
+      "duration": 961660,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 135961660,
+      "duration": 5192500,
+      "text": "一条"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 141538330,
+      "duration": 10000000,
+      "text": "浅灰色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 151538330,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 153269160,
+      "duration": 5769160,
+      "text": "蓬松"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 159230830,
+      "duration": 5384580,
+      "text": "羊毛"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 164807500,
+      "duration": 7500000,
+      "text": "围巾"
+    }
+  ]
+}

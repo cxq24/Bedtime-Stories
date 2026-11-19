@@ -1,0 +1,1097 @@
+{
+  "episode": "ep029",
+  "title": "雾抱了抱小篱笆",
+  "script_version": "v5",
+  "status": "draft_text_preflight_passed_pending_visual_reference_review",
+  "total_duration_s": 248.36,
+  "actual_audio_measured": true,
+  "max_visible_duration_s": 10.16,
+  "shots": [
+    {
+      "id": 0,
+      "source_ranges": [
+        {
+          "unit_id": "p000_u01",
+          "start_char": 0,
+          "end_char": 14
+        }
+      ],
+      "paragraph_id": "p000",
+      "text": "小朋友们，准备好听故事了吗？",
+      "title": "小朋友们，准备好听故事了吗？",
+      "location": "forest porch garden at early autumn dusk",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "visual_direction": "Picture-book watercolor illustration guided by this exact spoken beat: 小朋友们，准备好听故事了吗？ Scene: forest porch garden at early autumn dusk. Show only the story moment and props supported by the narration; keep identity consistent, quiet late-autumn palette, subtitle-safe lower area.",
+      "acting_note": "表情与视线按本镜口播逐镜设计；不复制身份参考图的表情。",
+      "actual_start_s": 0.0,
+      "actual_end_s": 4.88,
+      "visible_start_s": 0.0,
+      "visible_end_s": 5.359999999999999,
+      "visible_duration_s": 5.36,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "illustration_status": "not_generated",
+      "speech_start_s": 1.0,
+      "speech_end_s": 4.6634364999999995
+    },
+    {
+      "id": 1,
+      "source_ranges": [
+        {
+          "unit_id": "p000_u02",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "paragraph_id": "p000",
+      "text": "今天的故事叫《雾抱了抱小篱笆》。",
+      "title": "今天的故事叫《雾抱了抱小篱笆》。",
+      "location": "forest porch garden at early autumn dusk",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "visual_direction": "Picture-book watercolor illustration guided by this exact spoken beat: 今天的故事叫《雾抱了抱小篱笆》。 Scene: forest porch garden at early autumn dusk. Show only the story moment and props supported by the narration; keep identity consistent, quiet late-autumn palette, subtitle-safe lower area.",
+      "acting_note": "表情与视线按本镜口播逐镜设计；不复制身份参考图的表情。",
+      "actual_start_s": 4.88,
+      "actual_end_s": 9.56,
+      "visible_start_s": 4.4,
+      "visible_end_s": 10.040000000000001,
+      "visible_duration_s": 5.64,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "illustration_status": "not_generated",
+      "speech_start_s": 5.125125,
+      "speech_end_s": 9.328874666666668
+    },
+    {
+      "id": 2,
+      "source_ranges": [
+        {
+          "unit_id": "p000_u03",
+          "start_char": 0,
+          "end_char": 24
+        }
+      ],
+      "paragraph_id": "p000",
+      "text": "夜雾轻轻围住小篱笆，熟悉的森林还在原来的地方吗？",
+      "title": "夜雾轻轻围住小篱笆，熟悉的森林还在原来的",
+      "location": "forest porch garden at early autumn dusk",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "visual_direction": "Picture-book watercolor illustration guided by this exact spoken beat: 夜雾轻轻围住小篱笆，熟悉的森林还在原来的地方吗？ Scene: forest porch garden at early autumn dusk. Show only the story moment and props supported by the narration; keep identity consistent, quiet late-autumn palette, subtitle-safe lower area.",
+      "acting_note": "表情与视线按本镜口播逐镜设计；不复制身份参考图的表情。",
+      "actual_start_s": 9.56,
+      "actual_end_s": 17.16,
+      "visible_start_s": 9.08,
+      "visible_end_s": 17.64,
+      "visible_duration_s": 8.56,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "illustration_status": "not_generated",
+      "speech_start_s": 9.798479166666667,
+      "speech_end_s": 16.595875
+    },
+    {
+      "id": 3,
+      "source_ranges": [
+        {
+          "unit_id": "p001_u01",
+          "start_char": 0,
+          "end_char": 27
+        }
+      ],
+      "paragraph_id": "p001",
+      "text": "深秋的傍晚，森林里下过一阵小雨后，空气变得湿润又微凉。",
+      "title": "深秋的傍晚，森林里下过一阵小雨后，空气变",
+      "location": "porch of Pipi’s wooden home, after rain",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "visual_direction": "Picture-book watercolor illustration guided by this exact spoken beat: 深秋的傍晚，森林里下过一阵小雨后，空气变得湿润又微凉。 Scene: porch of Pipi’s wooden home, after rain. Show only the story moment and props supported by the narration; keep identity consistent, quiet late-autumn palette, subtitle-safe lower area.",
+      "acting_note": "表情与视线按本镜口播逐镜设计；不复制身份参考图的表情。",
+      "actual_start_s": 17.16,
+      "actual_end_s": 26.36,
+      "visible_start_s": 16.68,
+      "visible_end_s": 26.84,
+      "visible_duration_s": 10.16,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "illustration_status": "not_generated",
+      "speech_start_s": 17.738187500000002,
+      "speech_end_s": 26.106291000000002
+    },
+    {
+      "id": 4,
+      "source_ranges": [
+        {
+          "unit_id": "p001_u02",
+          "start_char": 0,
+          "end_char": 26
+        }
+      ],
+      "paragraph_id": "p001",
+      "text": "皮皮刚帮妈妈把门廊下的小花盆收好，一抬头，发现窗外的",
+      "title": "皮皮刚帮妈妈把门廊下的小花盆收好，一抬头",
+      "location": "porch of Pipi’s wooden home, after rain",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "visual_direction": "Picture-book watercolor illustration guided by this exact spoken beat: 皮皮刚帮妈妈把门廊下的小花盆收好，一抬头，发现窗外的 Scene: porch of Pipi’s wooden home, after rain. Show only the story moment and props supported by the narration; keep identity consistent, quiet late-autumn palette, subtitle-safe lower area.",
+      "acting_note": "表情与视线按本镜口播逐镜设计；不复制身份参考图的表情。",
+      "actual_start_s": 26.36,
+      "actual_end_s": 34.36,
+      "visible_start_s": 25.88,
+      "visible_end_s": 34.839999999999996,
+      "visible_duration_s": 8.96,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "illustration_status": "not_generated",
+      "speech_start_s": 26.58166666666667,
+      "speech_end_s": 34.34222916666667
+    },
+    {
+      "id": 5,
+      "source_ranges": [
+        {
+          "unit_id": "p001_u02",
+          "start_char": 26,
+          "end_char": 51
+        }
+      ],
+      "paragraph_id": "p001",
+      "text": "森林里，不知什么时候升起了一层白茫茫、薄薄的夜雾。",
+      "title": "森林里，不知什么时候升起了一层白茫茫、薄",
+      "location": "porch of Pipi’s wooden home, after rain",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "visual_direction": "Picture-book watercolor illustration guided by this exact spoken beat: 森林里，不知什么时候升起了一层白茫茫、薄薄的夜雾。 Scene: porch of Pipi’s wooden home, after rain. Show only the story moment and props supported by the narration; keep identity consistent, quiet late-autumn palette, subtitle-safe lower area.",
+      "acting_note": "表情与视线按本镜口播逐镜设计；不复制身份参考图的表情。",
+      "actual_start_s": 34.36,
+      "actual_end_s": 42.24,
+      "visible_start_s": 33.88,
+      "visible_end_s": 42.72,
+      "visible_duration_s": 8.84,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "illustration_status": "not_generated",
+      "speech_start_s": 34.36147916666667,
+      "speech_end_s": 41.65764516666667
+    },
+    {
+      "id": 6,
+      "source_ranges": [
+        {
+          "unit_id": "p002_u01",
+          "start_char": 0,
+          "end_char": 28
+        }
+      ],
+      "paragraph_id": "p002",
+      "text": "那层薄雾慢悠悠地飘过来，把皮皮家院子外面的小木头篱笆轻轻",
+      "title": "那层薄雾慢悠悠地飘过来，把皮皮家院子外面",
+      "location": "outside fence and Pipi’s bedroom window",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "visual_direction": "Picture-book watercolor illustration guided by this exact spoken beat: 那层薄雾慢悠悠地飘过来，把皮皮家院子外面的小木头篱笆轻轻 Scene: outside fence and Pipi’s bedroom window. Show only the story moment and props supported by the narration; keep identity consistent, quiet late-autumn palette, subtitle-safe lower area.",
+      "acting_note": "表情与视线按本镜口播逐镜设计；不复制身份参考图的表情。",
+      "actual_start_s": 42.24,
+      "actual_end_s": 50.72,
+      "visible_start_s": 41.760000000000005,
+      "visible_end_s": 51.199999999999996,
+      "visible_duration_s": 9.44,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "illustration_status": "not_generated",
+      "speech_start_s": 42.786833333333334,
+      "speech_end_s": 50.72112366666667
+    },
+    {
+      "id": 7,
+      "source_ranges": [
+        {
+          "unit_id": "p002_u01",
+          "start_char": 28,
+          "end_char": 53
+        },
+        {
+          "unit_id": "p002_u01",
+          "start_char": 53,
+          "end_char": 58
+        }
+      ],
+      "paragraph_id": "p002",
+      "text": "围住了，远远看去，小篱笆就像披上了一条浅灰色的蓬松羊毛围巾。",
+      "title": "围住了，远远看去，小篱笆就像披上了一条浅",
+      "location": "outside fence and Pipi’s bedroom window",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "visual_direction": "Picture-book watercolor illustration guided by this exact spoken beat: 围住了，远远看去，小篱笆就像披上了一条浅灰色的蓬松 Scene: outside fence and Pipi’s bedroom window. Show only the story moment and props supported by the narration; keep identity consistent, quiet late-autumn palette, subtitle-safe lower area. Then carry into the next spoken beat: 羊毛围巾。",
+      "acting_note": "表情与视线按本镜口播逐镜设计；不复制身份参考图的表情。",
+      "actual_start_s": 50.72,
+      "actual_end_s": 58.56,
+      "visible_start_s": 50.24,
+      "visible_end_s": 59.04,
+      "visible_duration_s": 8.8,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "illustration_status": "not_generated",
+      "speech_start_s": 50.74037466666667,
+      "speech_end_s": 58.53649866666667
+    },
+    {
+      "id": 8,
+      "source_ranges": [
+        {
+          "unit_id": "p002_u02",
+          "start_char": 0,
+          "end_char": 19
+        }
+      ],
+      "paragraph_id": "p002",
+      "text": "皮皮回到屋里，趴在卧室的窗台上往外看。",
+      "title": "皮皮回到屋里，趴在卧室的窗台上往外看。",
+      "location": "outside fence and Pipi’s bedroom window",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "visual_direction": "Picture-book watercolor illustration guided by this exact spoken beat: 皮皮回到屋里，趴在卧室的窗台上往外看。 Scene: outside fence and Pipi’s bedroom window. Show only the story moment and props supported by the narration; keep identity consistent, quiet late-autumn palette, subtitle-safe lower area.",
+      "acting_note": "表情与视线按本镜口播逐镜设计；不复制身份参考图的表情。",
+      "actual_start_s": 60.08,
+      "actual_end_s": 66.0,
+      "visible_start_s": 59.6,
+      "visible_end_s": 66.48,
+      "visible_duration_s": 6.88,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "illustration_status": "not_generated",
+      "speech_start_s": 60.32352083333333,
+      "speech_end_s": 65.75947916666667
+    },
+    {
+      "id": 9,
+      "source_ranges": [
+        {
+          "unit_id": "p002_u03",
+          "start_char": 0,
+          "end_char": 26
+        },
+        {
+          "unit_id": "p002_u03",
+          "start_char": 26,
+          "end_char": 31
+        }
+      ],
+      "paragraph_id": "p002",
+      "text": "平时站在窗前，他能一直望见远处的小木桥和小松鼠团团家的大橡树；",
+      "title": "平时站在窗前，他能一直望见远处的小木桥和",
+      "location": "outside fence and Pipi’s bedroom window",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "visual_direction": "Picture-book watercolor illustration guided by this exact spoken beat: 平时站在窗前，他能一直望见远处的小木桥和小松鼠团团家 Scene: outside fence and Pipi’s bedroom window. Show only the story moment and props supported by the narration; keep identity consistent, quiet late-autumn palette, subtitle-safe lower area. Then carry into the next spoken beat: 的大橡树；",
+      "acting_note": "表情与视线按本镜口播逐镜设计；不复制身份参考图的表情。",
+      "actual_start_s": 66.0,
+      "actual_end_s": 74.44,
+      "visible_start_s": 65.52,
+      "visible_end_s": 74.92,
+      "visible_duration_s": 9.4,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "illustration_status": "not_generated",
+      "speech_start_s": 66.203875,
+      "speech_end_s": 74.4272285
+    },
+    {
+      "id": 10,
+      "source_ranges": [
+        {
+          "unit_id": "p002_u04",
+          "start_char": 0,
+          "end_char": 26
+        }
+      ],
+      "paragraph_id": "p002",
+      "text": "可是今天，近处窗台边的绿叶子还清清楚楚的，远处的小路",
+      "title": "可是今天，近处窗台边的绿叶子还清清楚楚的",
+      "location": "outside fence and Pipi’s bedroom window",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "visual_direction": "Picture-book watercolor illustration guided by this exact spoken beat: 可是今天，近处窗台边的绿叶子还清清楚楚的，远处的小路 Scene: outside fence and Pipi’s bedroom window. Show only the story moment and props supported by the narration; keep identity consistent, quiet late-autumn palette, subtitle-safe lower area.",
+      "acting_note": "表情与视线按本镜口播逐镜设计；不复制身份参考图的表情。",
+      "actual_start_s": 75.92,
+      "actual_end_s": 84.44,
+      "visible_start_s": 75.44,
+      "visible_end_s": 84.92,
+      "visible_duration_s": 9.48,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "illustration_status": "not_generated",
+      "speech_start_s": 76.15297916666667,
+      "speech_end_s": 84.42820833333333
+    },
+    {
+      "id": 11,
+      "source_ranges": [
+        {
+          "unit_id": "p002_u04",
+          "start_char": 26,
+          "end_char": 53
+        },
+        {
+          "unit_id": "p002_u04",
+          "start_char": 53,
+          "end_char": 57
+        }
+      ],
+      "paragraph_id": "p002",
+      "text": "和小桥，却全都藏进了乳白色的雾气里，只剩下柔柔的、模糊的轮廓。",
+      "title": "和小桥，却全都藏进了乳白色的雾气里，只剩",
+      "location": "outside fence and Pipi’s bedroom window",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "visual_direction": "Picture-book watercolor illustration guided by this exact spoken beat: 和小桥，却全都藏进了乳白色的雾气里，只剩下柔柔的、模糊 Scene: outside fence and Pipi’s bedroom window. Show only the story moment and props supported by the narration; keep identity consistent, quiet late-autumn palette, subtitle-safe lower area. Then carry into the next spoken beat: 的轮廓。",
+      "acting_note": "表情与视线按本镜口播逐镜设计；不复制身份参考图的表情。",
+      "actual_start_s": 84.44,
+      "actual_end_s": 92.88,
+      "visible_start_s": 83.96,
+      "visible_end_s": 93.36,
+      "visible_duration_s": 9.4,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "illustration_status": "not_generated",
+      "speech_start_s": 84.46666633333334,
+      "speech_end_s": 92.89741633333333
+    },
+    {
+      "id": 12,
+      "source_ranges": [
+        {
+          "unit_id": "p003_u01",
+          "start_char": 0,
+          "end_char": 26
+        }
+      ],
+      "paragraph_id": "p003",
+      "text": "皮皮心里冒出了一点点小小的担心：外面的路看不清了，小",
+      "title": "皮皮心里冒出了一点点小小的担心：外面的路",
+      "location": "bedroom window and familiar room corner",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "visual_direction": "Picture-book watercolor illustration guided by this exact spoken beat: 皮皮心里冒出了一点点小小的担心：外面的路看不清了，小 Scene: bedroom window and familiar room corner. Show only the story moment and props supported by the narration; keep identity consistent, quiet late-autumn palette, subtitle-safe lower area.",
+      "acting_note": "表情与视线按本镜口播逐镜设计；不复制身份参考图的表情。",
+      "actual_start_s": 94.48,
+      "actual_end_s": 102.88,
+      "visible_start_s": 94.0,
+      "visible_end_s": 103.36,
+      "visible_duration_s": 9.36,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "illustration_status": "not_generated",
+      "speech_start_s": 95.02002083333333,
+      "speech_end_s": 102.86149933333333
+    },
+    {
+      "id": 13,
+      "source_ranges": [
+        {
+          "unit_id": "p003_u01",
+          "start_char": 26,
+          "end_char": 48
+        }
+      ],
+      "paragraph_id": "p003",
+      "text": "篱笆和远处的森林，会不会在雾里迷路不见了呀？",
+      "title": "篱笆和远处的森林，会不会在雾里迷路不见了",
+      "location": "bedroom window and familiar room corner",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "visual_direction": "Picture-book watercolor illustration guided by this exact spoken beat: 篱笆和远处的森林，会不会在雾里迷路不见了呀？ Scene: bedroom window and familiar room corner. Show only the story moment and props supported by the narration; keep identity consistent, quiet late-autumn palette, subtitle-safe lower area.",
+      "acting_note": "表情与视线按本镜口播逐镜设计；不复制身份参考图的表情。",
+      "actual_start_s": 102.88,
+      "actual_end_s": 109.0,
+      "visible_start_s": 102.39999999999999,
+      "visible_end_s": 109.48,
+      "visible_duration_s": 7.08,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "illustration_status": "not_generated",
+      "speech_start_s": 102.86149933333333,
+      "speech_end_s": 108.79229033333334
+    },
+    {
+      "id": 14,
+      "source_ranges": [
+        {
+          "unit_id": "p003_u02",
+          "start_char": 0,
+          "end_char": 23
+        }
+      ],
+      "paragraph_id": "p003",
+      "text": "他刚想走到门口去打开门看个究竟，却停住了脚步。",
+      "title": "他刚想走到门口去打开门看个究竟，却停住了",
+      "location": "bedroom window and familiar room corner",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "visual_direction": "Picture-book watercolor illustration guided by this exact spoken beat: 他刚想走到门口去打开门看个究竟，却停住了脚步。 Scene: bedroom window and familiar room corner. Show only the story moment and props supported by the narration; keep identity consistent, quiet late-autumn palette, subtitle-safe lower area.",
+      "acting_note": "表情与视线按本镜口播逐镜设计；不复制身份参考图的表情。",
+      "actual_start_s": 109.0,
+      "actual_end_s": 116.08,
+      "visible_start_s": 108.52,
+      "visible_end_s": 116.56,
+      "visible_duration_s": 8.04,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "illustration_status": "not_generated",
+      "speech_start_s": 109.19189583333333,
+      "speech_end_s": 115.81958266666666
+    },
+    {
+      "id": 15,
+      "source_ranges": [
+        {
+          "unit_id": "p003_u03",
+          "start_char": 0,
+          "end_char": 26
+        }
+      ],
+      "paragraph_id": "p003",
+      "text": "他看了看窗台内侧，自己刚放好的那盆小绿植还稳稳地待在",
+      "title": "他看了看窗台内侧，自己刚放好的那盆小绿植",
+      "location": "bedroom window and familiar room corner",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "visual_direction": "Picture-book watercolor illustration guided by this exact spoken beat: 他看了看窗台内侧，自己刚放好的那盆小绿植还稳稳地待在 Scene: bedroom window and familiar room corner. Show only the story moment and props supported by the narration; keep identity consistent, quiet late-autumn palette, subtitle-safe lower area.",
+      "acting_note": "表情与视线按本镜口播逐镜设计；不复制身份参考图的表情。",
+      "actual_start_s": 116.08,
+      "actual_end_s": 124.04,
+      "visible_start_s": 115.6,
+      "visible_end_s": 124.52000000000001,
+      "visible_duration_s": 8.92,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "illustration_status": "not_generated",
+      "speech_start_s": 116.30070833333333,
+      "speech_end_s": 124.02468683333333
+    },
+    {
+      "id": 16,
+      "source_ranges": [
+        {
+          "unit_id": "p003_u03",
+          "start_char": 26,
+          "end_char": 50
+        }
+      ],
+      "paragraph_id": "p003",
+      "text": "熟悉的角落里，床边的小木椅也还坐在原来的位置上。",
+      "title": "熟悉的角落里，床边的小木椅也还坐在原来的",
+      "location": "bedroom window and familiar room corner",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "visual_direction": "Picture-book watercolor illustration guided by this exact spoken beat: 熟悉的角落里，床边的小木椅也还坐在原来的位置上。 Scene: bedroom window and familiar room corner. Show only the story moment and props supported by the narration; keep identity consistent, quiet late-autumn palette, subtitle-safe lower area.",
+      "acting_note": "表情与视线按本镜口播逐镜设计；不复制身份参考图的表情。",
+      "actual_start_s": 124.04,
+      "actual_end_s": 131.6,
+      "visible_start_s": 123.56,
+      "visible_end_s": 132.07999999999998,
+      "visible_duration_s": 8.52,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "illustration_status": "not_generated",
+      "speech_start_s": 124.06314583333334,
+      "speech_end_s": 131.07081183333332
+    },
+    {
+      "id": 17,
+      "source_ranges": [
+        {
+          "unit_id": "p004_u01",
+          "start_char": 0,
+          "end_char": 27
+        }
+      ],
+      "paragraph_id": "p004",
+      "text": "皮皮明白了：花盆在这里，小椅子在这里，院子外面的小篱笆",
+      "title": "皮皮明白了：花盆在这里，小椅子在这里，院",
+      "location": "bedroom window, then curtain and bedside",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "visual_direction": "Picture-book watercolor illustration guided by this exact spoken beat: 皮皮明白了：花盆在这里，小椅子在这里，院子外面的小篱笆 Scene: bedroom window, then curtain and bedside. Show only the story moment and props supported by the narration; keep identity consistent, quiet late-autumn palette, subtitle-safe lower area.",
+      "acting_note": "表情与视线按本镜口播逐镜设计；不复制身份参考图的表情。",
+      "actual_start_s": 131.6,
+      "actual_end_s": 140.0,
+      "visible_start_s": 131.12,
+      "visible_end_s": 140.48,
+      "visible_duration_s": 9.36,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "illustration_status": "not_generated",
+      "speech_start_s": 132.14225,
+      "speech_end_s": 139.99083233333332
+    },
+    {
+      "id": 18,
+      "source_ranges": [
+        {
+          "unit_id": "p004_u01",
+          "start_char": 27,
+          "end_char": 56
+        }
+      ],
+      "paragraph_id": "p004",
+      "text": "和小木桥当然也还在原来的地方呀，它们哪里也没去，只是在夜晚",
+      "title": "和小木桥当然也还在原来的地方呀，它们哪里",
+      "location": "bedroom window, then curtain and bedside",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "visual_direction": "Picture-book watercolor illustration guided by this exact spoken beat: 和小木桥当然也还在原来的地方呀，它们哪里也没去，只是在夜晚 Scene: bedroom window, then curtain and bedside. Show only the story moment and props supported by the narration; keep identity consistent, quiet late-autumn palette, subtitle-safe lower area.",
+      "acting_note": "表情与视线按本镜口播逐镜设计；不复制身份参考图的表情。",
+      "actual_start_s": 140.0,
+      "actual_end_s": 148.4,
+      "visible_start_s": 139.52,
+      "visible_end_s": 148.88,
+      "visible_duration_s": 9.36,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "illustration_status": "not_generated",
+      "speech_start_s": 140.02929133333333,
+      "speech_end_s": 148.33699933333332
+    },
+    {
+      "id": 19,
+      "source_ranges": [
+        {
+          "unit_id": "p004_u01",
+          "start_char": 56,
+          "end_char": 74
+        }
+      ],
+      "paragraph_id": "p004",
+      "text": "暂时躲进了软绵绵的雾气被子里休息呢。",
+      "title": "暂时躲进了软绵绵的雾气被子里休息呢。",
+      "location": "bedroom window, then curtain and bedside",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "visual_direction": "Picture-book watercolor illustration guided by this exact spoken beat: 暂时躲进了软绵绵的雾气被子里休息呢。 Scene: bedroom window, then curtain and bedside. Show only the story moment and props supported by the narration; keep identity consistent, quiet late-autumn palette, subtitle-safe lower area.",
+      "acting_note": "表情与视线按本镜口播逐镜设计；不复制身份参考图的表情。",
+      "actual_start_s": 148.4,
+      "actual_end_s": 153.2,
+      "visible_start_s": 147.92000000000002,
+      "visible_end_s": 153.67999999999998,
+      "visible_duration_s": 5.76,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "illustration_status": "not_generated",
+      "speech_start_s": 148.4715833333333,
+      "speech_end_s": 152.99083233333332
+    },
+    {
+      "id": 20,
+      "source_ranges": [
+        {
+          "unit_id": "p004_u02",
+          "start_char": 0,
+          "end_char": 15
+        }
+      ],
+      "paragraph_id": "p004",
+      "text": "于是，皮皮没有再打开门出去找。",
+      "title": "于是，皮皮没有再打开门出去找。",
+      "location": "bedroom window, then curtain and bedside",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "visual_direction": "Picture-book watercolor illustration guided by this exact spoken beat: 于是，皮皮没有再打开门出去找。 Scene: bedroom window, then curtain and bedside. Show only the story moment and props supported by the narration; keep identity consistent, quiet late-autumn palette, subtitle-safe lower area.",
+      "acting_note": "表情与视线按本镜口播逐镜设计；不复制身份参考图的表情。",
+      "actual_start_s": 153.2,
+      "actual_end_s": 157.72,
+      "visible_start_s": 152.72,
+      "visible_end_s": 158.2,
+      "visible_duration_s": 5.48,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "illustration_status": "not_generated",
+      "speech_start_s": 153.4158125,
+      "speech_end_s": 157.51958266666665
+    },
+    {
+      "id": 21,
+      "source_ranges": [
+        {
+          "unit_id": "p004_u03",
+          "start_char": 0,
+          "end_char": 24
+        }
+      ],
+      "paragraph_id": "p004",
+      "text": "他伸出小爪子，把叶子花窗帘往中间拉近了一点，让小",
+      "title": "他伸出小爪子，把叶子花窗帘往中间拉近了一",
+      "location": "bedroom window, then curtain and bedside",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "visual_direction": "Picture-book watercolor illustration guided by this exact spoken beat: 他伸出小爪子，把叶子花窗帘往中间拉近了一点，让小 Scene: bedroom window, then curtain and bedside. Show only the story moment and props supported by the narration; keep identity consistent, quiet late-autumn palette, subtitle-safe lower area.",
+      "acting_note": "表情与视线按本镜口播逐镜设计；不复制身份参考图的表情。",
+      "actual_start_s": 157.72,
+      "actual_end_s": 165.76,
+      "visible_start_s": 157.24,
+      "visible_end_s": 166.23999999999998,
+      "visible_duration_s": 9.0,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "illustration_status": "not_generated",
+      "speech_start_s": 157.95610416666665,
+      "speech_end_s": 165.7531445
+    },
+    {
+      "id": 22,
+      "source_ranges": [
+        {
+          "unit_id": "p004_u03",
+          "start_char": 24,
+          "end_char": 53
+        }
+      ],
+      "paragraph_id": "p004",
+      "text": "木屋里暖融融的灯光，严严实实地留在自己和胡萝卜玩偶的身边。",
+      "title": "木屋里暖融融的灯光，严严实实地留在自己和",
+      "location": "bedroom window, then curtain and bedside",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "visual_direction": "Picture-book watercolor illustration guided by this exact spoken beat: 木屋里暖融融的灯光，严严实实地留在自己和胡萝卜玩偶的身边。 Scene: bedroom window, then curtain and bedside. Show only the story moment and props supported by the narration; keep identity consistent, quiet late-autumn palette, subtitle-safe lower area.",
+      "acting_note": "表情与视线按本镜口播逐镜设计；不复制身份参考图的表情。",
+      "actual_start_s": 165.76,
+      "actual_end_s": 174.6,
+      "visible_start_s": 165.28,
+      "visible_end_s": 175.07999999999998,
+      "visible_duration_s": 9.8,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "illustration_status": "not_generated",
+      "speech_start_s": 165.7531455,
+      "speech_end_s": 174.03006249999999
+    },
+    {
+      "id": 23,
+      "source_ranges": [
+        {
+          "unit_id": "p005_u01",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "paragraph_id": "p005",
+      "text": "窗外的薄雾像一个温柔的大拥抱，轻轻抱了抱小篱笆，没有敲门，",
+      "title": "窗外的薄雾像一个温柔的大拥抱，轻轻抱了抱",
+      "location": "foggy fence outside, then warm bedroom",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "visual_direction": "Picture-book watercolor illustration guided by this exact spoken beat: 窗外的薄雾像一个温柔的大拥抱，轻轻抱了抱小篱笆，没有敲门， Scene: foggy fence outside, then warm bedroom. Show only the story moment and props supported by the narration; keep identity consistent, quiet late-autumn palette, subtitle-safe lower area.",
+      "acting_note": "表情与视线按本镜口播逐镜设计；不复制身份参考图的表情。",
+      "actual_start_s": 174.6,
+      "actual_end_s": 183.56,
+      "visible_start_s": 174.12,
+      "visible_end_s": 184.04,
+      "visible_duration_s": 9.92,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "illustration_status": "not_generated",
+      "speech_start_s": 175.15868749999998,
+      "speech_end_s": 183.40268683333332
+    },
+    {
+      "id": 24,
+      "source_ranges": [
+        {
+          "unit_id": "p005_u01",
+          "start_char": 29,
+          "end_char": 52
+        }
+      ],
+      "paragraph_id": "p005",
+      "text": "也没有催促屋里的谁跟着它一起往看不清的远处走。",
+      "title": "也没有催促屋里的谁跟着它一起往看不清的远",
+      "location": "foggy fence outside, then warm bedroom",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "visual_direction": "Picture-book watercolor illustration guided by this exact spoken beat: 也没有催促屋里的谁跟着它一起往看不清的远处走。 Scene: foggy fence outside, then warm bedroom. Show only the story moment and props supported by the narration; keep identity consistent, quiet late-autumn palette, subtitle-safe lower area.",
+      "acting_note": "表情与视线按本镜口播逐镜设计；不复制身份参考图的表情。",
+      "actual_start_s": 183.56,
+      "actual_end_s": 190.56,
+      "visible_start_s": 183.08,
+      "visible_end_s": 191.04,
+      "visible_duration_s": 7.96,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "illustration_status": "not_generated",
+      "speech_start_s": 183.75652083333333,
+      "speech_end_s": 190.37189583333333
+    },
+    {
+      "id": 25,
+      "source_ranges": [
+        {
+          "unit_id": "p005_u02",
+          "start_char": 0,
+          "end_char": 21
+        }
+      ],
+      "paragraph_id": "p005",
+      "text": "皮皮安心地钻进被窝，把小爪子彻底放松下来。",
+      "title": "皮皮安心地钻进被窝，把小爪子彻底放松下来",
+      "location": "foggy fence outside, then warm bedroom",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "visual_direction": "Picture-book watercolor illustration guided by this exact spoken beat: 皮皮安心地钻进被窝，把小爪子彻底放松下来。 Scene: foggy fence outside, then warm bedroom. Show only the story moment and props supported by the narration; keep identity consistent, quiet late-autumn palette, subtitle-safe lower area.",
+      "acting_note": "表情与视线按本镜口播逐镜设计；不复制身份参考图的表情。",
+      "actual_start_s": 190.56,
+      "actual_end_s": 197.04,
+      "visible_start_s": 190.08,
+      "visible_end_s": 197.51999999999998,
+      "visible_duration_s": 7.44,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "illustration_status": "not_generated",
+      "speech_start_s": 190.76683333333332,
+      "speech_end_s": 196.80089483333333
+    },
+    {
+      "id": 26,
+      "source_ranges": [
+        {
+          "unit_id": "p005_u03",
+          "start_char": 0,
+          "end_char": 28
+        }
+      ],
+      "paragraph_id": "p005",
+      "text": "今晚那些在雾里看不清楚的远方，等明天早上太阳升起来、雾气",
+      "title": "今晚那些在雾里看不清楚的远方，等明天早上",
+      "location": "foggy fence outside, then warm bedroom",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "visual_direction": "Picture-book watercolor illustration guided by this exact spoken beat: 今晚那些在雾里看不清楚的远方，等明天早上太阳升起来、雾气 Scene: foggy fence outside, then warm bedroom. Show only the story moment and props supported by the narration; keep identity consistent, quiet late-autumn palette, subtitle-safe lower area.",
+      "acting_note": "表情与视线按本镜口播逐镜设计；不复制身份参考图的表情。",
+      "actual_start_s": 197.04,
+      "actual_end_s": 205.68,
+      "visible_start_s": 196.56,
+      "visible_end_s": 206.16,
+      "visible_duration_s": 9.6,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "illustration_status": "not_generated",
+      "speech_start_s": 197.26239583333333,
+      "speech_end_s": 205.654166
+    },
+    {
+      "id": 27,
+      "source_ranges": [
+        {
+          "unit_id": "p005_u03",
+          "start_char": 28,
+          "end_char": 44
+        }
+      ],
+      "paragraph_id": "p005",
+      "text": "散去的时候，随时都可以再看个够。",
+      "title": "散去的时候，随时都可以再看个够。",
+      "location": "foggy fence outside, then warm bedroom",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "visual_direction": "Picture-book watercolor illustration guided by this exact spoken beat: 散去的时候，随时都可以再看个够。 Scene: foggy fence outside, then warm bedroom. Show only the story moment and props supported by the narration; keep identity consistent, quiet late-autumn palette, subtitle-safe lower area.",
+      "acting_note": "表情与视线按本镜口播逐镜设计；不复制身份参考图的表情。",
+      "actual_start_s": 205.68,
+      "actual_end_s": 210.68,
+      "visible_start_s": 205.20000000000002,
+      "visible_end_s": 211.16,
+      "visible_duration_s": 5.96,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "illustration_status": "not_generated",
+      "speech_start_s": 205.673375,
+      "speech_end_s": 210.161832
+    },
+    {
+      "id": 28,
+      "source_ranges": [
+        {
+          "unit_id": "p006_u01",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "paragraph_id": "p006",
+      "text": "他靠住柔软的枕头，慢慢闭上眼睛。",
+      "title": "他靠住柔软的枕头，慢慢闭上眼睛。",
+      "location": "bedroom bed and pillow at night",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "visual_direction": "Picture-book watercolor illustration guided by this exact spoken beat: 他靠住柔软的枕头，慢慢闭上眼睛。 Scene: bedroom bed and pillow at night. Show only the story moment and props supported by the narration; keep identity consistent, quiet late-autumn palette, subtitle-safe lower area.",
+      "acting_note": "表情与视线按本镜口播逐镜设计；不复制身份参考图的表情。",
+      "actual_start_s": 210.68,
+      "actual_end_s": 216.12,
+      "visible_start_s": 210.20000000000002,
+      "visible_end_s": 216.6,
+      "visible_duration_s": 6.4,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "illustration_status": "not_generated",
+      "speech_start_s": 211.2375625,
+      "speech_end_s": 215.88514483333333
+    },
+    {
+      "id": 29,
+      "source_ranges": [
+        {
+          "unit_id": "p006_u02",
+          "start_char": 0,
+          "end_char": 26
+        },
+        {
+          "unit_id": "p006_u02",
+          "start_char": 26,
+          "end_char": 29
+        }
+      ],
+      "paragraph_id": "p006",
+      "text": "小木屋里熟悉的原木香气和毛毯的暖意，离他这么近，这么真实。",
+      "title": "小木屋里熟悉的原木香气和毛毯的暖意，离他",
+      "location": "bedroom bed and pillow at night",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "visual_direction": "Picture-book watercolor illustration guided by this exact spoken beat: 小木屋里熟悉的原木香气和毛毯的暖意，离他这么近，这么 Scene: bedroom bed and pillow at night. Show only the story moment and props supported by the narration; keep identity consistent, quiet late-autumn palette, subtitle-safe lower area. Then carry into the next spoken beat: 真实。",
+      "acting_note": "表情与视线按本镜口播逐镜设计；不复制身份参考图的表情。",
+      "actual_start_s": 216.12,
+      "actual_end_s": 224.44,
+      "visible_start_s": 215.64000000000001,
+      "visible_end_s": 224.92,
+      "visible_duration_s": 9.28,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "illustration_status": "not_generated",
+      "speech_start_s": 216.37520833333332,
+      "speech_end_s": 224.41708233333333
+    },
+    {
+      "id": 30,
+      "source_ranges": [
+        {
+          "unit_id": "p006_u03",
+          "start_char": 0,
+          "end_char": 27
+        }
+      ],
+      "paragraph_id": "p006",
+      "text": "小朋友，到了晚上，看不清外面的大世界也没关系，因为所有",
+      "title": "小朋友，到了晚上，看不清外面的大世界也没",
+      "location": "bedroom bed and pillow at night",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "visual_direction": "Picture-book watercolor illustration guided by this exact spoken beat: 小朋友，到了晚上，看不清外面的大世界也没关系，因为所有 Scene: bedroom bed and pillow at night. Show only the story moment and props supported by the narration; keep identity consistent, quiet late-autumn palette, subtitle-safe lower area.",
+      "acting_note": "表情与视线按本镜口播逐镜设计；不复制身份参考图的表情。",
+      "actual_start_s": 225.56,
+      "actual_end_s": 233.72,
+      "visible_start_s": 225.08,
+      "visible_end_s": 234.2,
+      "visible_duration_s": 9.12,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "illustration_status": "not_generated",
+      "speech_start_s": 225.77379166666665,
+      "speech_end_s": 233.71264516666665
+    },
+    {
+      "id": 31,
+      "source_ranges": [
+        {
+          "unit_id": "p006_u03",
+          "start_char": 27,
+          "end_char": 42
+        }
+      ],
+      "paragraph_id": "p006",
+      "text": "美好的事物都还好好地待在原处。",
+      "title": "美好的事物都还好好地待在原处。",
+      "location": "bedroom bed and pillow at night",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "visual_direction": "Picture-book watercolor illustration guided by this exact spoken beat: 美好的事物都还好好地待在原处。 Scene: bedroom bed and pillow at night. Show only the story moment and props supported by the narration; keep identity consistent, quiet late-autumn palette, subtitle-safe lower area.",
+      "acting_note": "表情与视线按本镜口播逐镜设计；不复制身份参考图的表情。",
+      "actual_start_s": 233.72,
+      "actual_end_s": 238.12,
+      "visible_start_s": 233.24,
+      "visible_end_s": 238.6,
+      "visible_duration_s": 5.36,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "illustration_status": "not_generated",
+      "speech_start_s": 233.73189516666665,
+      "speech_end_s": 237.88572816666667
+    },
+    {
+      "id": 32,
+      "source_ranges": [
+        {
+          "unit_id": "p006_u04",
+          "start_char": 0,
+          "end_char": 25
+        },
+        {
+          "unit_id": "p006_u04",
+          "start_char": 25,
+          "end_char": 29
+        },
+        {
+          "unit_id": "p006_u05",
+          "start_char": 0,
+          "end_char": 3
+        }
+      ],
+      "paragraph_id": "p006",
+      "text": "现在，先安心待在你熟悉的被窝里吧，有些风景留给明天的阳光。晚安。",
+      "title": "现在，先安心待在你熟悉的被窝里吧，有些风",
+      "location": "bedroom bed and pillow at night",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "visual_direction": "Picture-book watercolor illustration guided by this exact spoken beat: 现在，先安心待在你熟悉的被窝里吧，有些风景留给明天 Scene: bedroom bed and pillow at night. Show only the story moment and props supported by the narration; keep identity consistent, quiet late-autumn palette, subtitle-safe lower area. Then carry into the next spoken beat: 的阳光。 Then carry into the next spoken beat: 晚安。",
+      "acting_note": "表情与视线按本镜口播逐镜设计；不复制身份参考图的表情。",
+      "actual_start_s": 238.12,
+      "actual_end_s": 246.04,
+      "visible_start_s": 237.64000000000001,
+      "visible_end_s": 246.51999999999998,
+      "visible_duration_s": 8.88,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "illustration_status": "not_generated",
+      "speech_start_s": 238.324625,
+      "speech_end_s": 246.03416633333333
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "text": "皮皮明白了：花盆在这里，小椅子在这里，院子外面的小篱笆和小木桥当然也还在原来的地方呀，它们哪里也没去，只是在夜晚暂时躲进了软绵绵的雾气被子里休息呢。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "4cc541519b494dfb7036278a8104a5ccd71de7a0c0c750e002583a909576ee9b",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4807500,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6269160,
+      "duration": 6346250,
+      "text": "明白"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12615410,
+      "duration": 3461660,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21269160,
+      "duration": 5000000,
+      "text": "花盆"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26653750,
+      "duration": 2307500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28961660,
+      "duration": 7307500,
+      "text": "这里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40307500,
+      "duration": 3461660,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43769160,
+      "duration": 4038330,
+      "text": "椅子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48000000,
+      "duration": 2500000,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50500000,
+      "duration": 6538330,
+      "text": "这里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60769160,
+      "duration": 5000000,
+      "text": "院子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 65961660,
+      "duration": 5000000,
+      "text": "外面"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 70961660,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 72500000,
+      "duration": 3461660,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75961660,
+      "duration": 4038330,
+      "text": "篱笆"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 80384580,
+      "duration": 1730830,
+      "text": "和"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 82307500,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 85577080,
+      "duration": 7884580,
+      "text": "木桥"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 95192500,
+      "duration": 4807500,
+      "text": "当然"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 100192500,
+      "duration": 1346250,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 101730830,
+      "duration": 2307500,
+      "text": "还"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 104038330,
+      "duration": 2307500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 106730830,
+      "duration": 4615410,
+      "text": "原来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 111346250,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 112884580,
+      "duration": 5384580,
+      "text": "地方"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 118269160,
+      "duration": 3461660,
+      "text": "呀"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 126538330,
+      "duration": 3461660,
+      "text": "它们"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 130192500,
+      "duration": 4807500,
+      "text": "哪里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 135192500,
+      "duration": 1922910,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 137115410,
+      "duration": 3077080,
+      "text": "没"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 140192500,
+      "duration": 4422910,
+      "text": "去"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 147884580,
+      "duration": 4807500,
+      "text": "只是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 152692500,
+      "duration": 2500000,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 155384580,
+      "duration": 8077080,
+      "text": "夜晚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 164807500,
+      "duration": 5577080,
+      "text": "暂时"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 170577080,
+      "duration": 5192080,
+      "text": "躲进"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 175769160,
+      "duration": 1922910,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 178077080,
+      "duration": 7692080,
+      "text": "软绵绵"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 185769160,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 187692500,
+      "duration": 4807500,
+      "text": "雾气"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 192692500,
+      "duration": 5000000,
+      "text": "被子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 197692500,
+      "duration": 1922910,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 200000000,
+      "duration": 6538330,
+      "text": "休息"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 206538330,
+      "duration": 3461660,
+      "text": "呢"
+    }
+  ]
+}

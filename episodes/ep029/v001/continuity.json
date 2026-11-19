@@ -1,0 +1,756 @@
+{
+  "episode": "ep029",
+  "version": "v001",
+  "status": "continuity_draft_pending_editorial_preflight",
+  "rules": [
+    "fog lowers visibility but never relocates or removes objects",
+    "flowerpot continuity: porch -> bedroom windowsill; no teleport without shown movement",
+    "Pipi does not open the door and remains indoors after deciding to stay",
+    "curtain moves inward only in p004",
+    "carrot doll and blanket stay beside/on Pipi in bed scenes"
+  ],
+  "fixed_assets": [
+    {
+      "asset_id": "fence_wood_small",
+      "appearance": "院外矮小木篱笆，浅棕色不规则竖木桩与横木，雾只像浅灰蓬松围巾轻轻绕住，不改变篱笆实体",
+      "first_paragraph": "p000",
+      "reference_image": "to be established from first eligible story illustration"
+    },
+    {
+      "asset_id": "pipi_flowerpot",
+      "appearance": "同一盆小绿植/花盆：先由皮皮在雨后傍晚收好在门廊下；后续在卧室窗台内侧熟悉角落，陶土色花盆、绿色叶片清晰；从门廊到窗台需由回屋、放置动作承接。",
+      "first_paragraph": "p001",
+      "reference_image": "to be established"
+    },
+    {
+      "asset_id": "small_wooden_chair",
+      "appearance": "卧室床边一把小木椅，始终在原位置",
+      "first_paragraph": "p003",
+      "reference_image": "to be established"
+    },
+    {
+      "asset_id": "wooden_bridge",
+      "appearance": "森林远处的小木桥，雾中只剩模糊轮廓，不消失、不移动",
+      "first_paragraph": "p002",
+      "reference_image": "to be established"
+    },
+    {
+      "asset_id": "tuan_tuan_oak",
+      "appearance": "团团家附近的大橡树，远景固定在小木桥附近的森林方向",
+      "first_paragraph": "p002",
+      "reference_image": "to be established"
+    },
+    {
+      "asset_id": "leaf_pattern_curtain",
+      "appearance": "叶子花窗帘，两片布从两侧向中间轻轻拉近，最后遮住部分窗景",
+      "first_paragraph": "p004",
+      "reference_image": "to be established"
+    },
+    {
+      "asset_id": "carrot_doll",
+      "appearance": "橙色胡萝卜玩偶，在床边皮皮身旁",
+      "first_paragraph": "p004",
+      "reference_image": "to be established"
+    },
+    {
+      "asset_id": "warm_blanket",
+      "appearance": "暖黄色柔软毛毯，被窝状态保持卧室夜间连续",
+      "first_paragraph": "p005",
+      "reference_image": "to be established"
+    },
+    {
+      "asset_id": "soft_pillow",
+      "appearance": "柔软枕头，皮皮靠住后闭眼入睡",
+      "first_paragraph": "p006",
+      "reference_image": "to be established"
+    }
+  ],
+  "story_beats": [
+    {
+      "paragraph": "p000",
+      "place": "院外木篱笆与门廊",
+      "characters": [
+        "pipi"
+      ],
+      "entry_exit": "片头建立雾与篱笆，皮皮在门廊边抬头观察；尚未进入屋内",
+      "before": "雨后傍晚，森林可见",
+      "action": "薄雾升起并抱住篱笆",
+      "after": "篱笆仍在原处，远景开始朦胧"
+    },
+    {
+      "paragraph": "p001",
+      "place": "门廊",
+      "characters": [
+        "pipi"
+      ],
+      "entry_exit": "皮皮在门廊帮妈妈收花盆；随后注意窗外雾",
+      "before": "花盆在门廊下",
+      "action": "收好花盆并抬头看森林",
+      "after": "花盆已妥善收好，皮皮注意到雾"
+    },
+    {
+      "paragraph": "p002",
+      "place": "院外篱笆；卧室窗边",
+      "characters": [
+        "pipi"
+      ],
+      "entry_exit": "皮皮从门廊回屋，来到卧室窗台；团团只被提及不入镜",
+      "before": "雾绕篱笆，远处小路/桥/橡树可见",
+      "action": "从窗台观察近叶清楚、远景被雾遮挡",
+      "after": "篱笆/桥/橡树位置不变，仅能见度降低"
+    },
+    {
+      "paragraph": "p003",
+      "place": "卧室窗边与床边",
+      "characters": [
+        "pipi"
+      ],
+      "entry_exit": "皮皮准备去开门又停下，留在屋内",
+      "before": "皮皮在窗边担心外路看不清",
+      "action": "观察窗台内侧绿植与床边木椅",
+      "after": "室内熟悉物件都在原处，皮皮没有开门"
+    },
+    {
+      "paragraph": "p004",
+      "place": "卧室窗边",
+      "characters": [
+        "pipi"
+      ],
+      "entry_exit": "皮皮留在室内；胡萝卜玩偶已在身边",
+      "before": "绿植与小椅在熟悉位置，门未打开",
+      "action": "想通后拉近叶子花窗帘",
+      "after": "室内灯光留在皮皮和玩偶身边，窗帘更合拢"
+    },
+    {
+      "paragraph": "p005",
+      "place": "篱笆远景与卧室床",
+      "characters": [
+        "pipi"
+      ],
+      "entry_exit": "雾留在室外，皮皮钻进被窝",
+      "before": "窗帘已拉近，雾仍围住篱笆",
+      "action": "雾轻抱篱笆；皮皮放松爪子进入被窝",
+      "after": "皮皮在被窝安心休息，远处待明早再看"
+    },
+    {
+      "paragraph": "p006",
+      "place": "卧室床",
+      "characters": [
+        "pipi"
+      ],
+      "entry_exit": "皮皮始终在床上，无外出",
+      "before": "皮皮靠在被窝中",
+      "action": "靠住枕头、闭眼，旁白安慰观众",
+      "after": "安静入睡，木屋熟悉物件位置稳定"
+    }
+  ],
+  "shot_states_pending_refinement": true,
+  "shot_states": [
+    {
+      "shot_id": "shot_00",
+      "paragraph_id": "p000",
+      "location": "forest porch garden at early autumn dusk",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "fence_wood_small"
+      ],
+      "state_before": "雨后傍晚，森林可见",
+      "action": "小朋友们，准备好听故事了吗？",
+      "state_after": "篱笆仍在原处，远景开始朦胧",
+      "transition_from": null,
+      "review_status": "initial_draft_pending_editorial_review"
+    },
+    {
+      "shot_id": "shot_01",
+      "paragraph_id": "p000",
+      "location": "forest porch garden at early autumn dusk",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "fence_wood_small"
+      ],
+      "state_before": "雨后傍晚，森林可见",
+      "action": "今天的故事叫《雾抱了抱小篱笆》。",
+      "state_after": "篱笆仍在原处，远景开始朦胧",
+      "transition_from": "shot_00",
+      "review_status": "initial_draft_pending_editorial_review"
+    },
+    {
+      "shot_id": "shot_02",
+      "paragraph_id": "p000",
+      "location": "forest porch garden at early autumn dusk",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "fence_wood_small"
+      ],
+      "state_before": "雨后傍晚，森林可见",
+      "action": "夜雾轻轻围住小篱笆，熟悉的森林还在原来的地方吗？",
+      "state_after": "篱笆仍在原处，远景开始朦胧",
+      "transition_from": "shot_01",
+      "review_status": "initial_draft_pending_editorial_review"
+    },
+    {
+      "shot_id": "shot_03",
+      "paragraph_id": "p001",
+      "location": "porch of Pipi’s wooden home, after rain",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "pipi_flowerpot"
+      ],
+      "state_before": "花盆在门廊下",
+      "action": "深秋的傍晚，森林里下过一阵小雨后，空气变得湿润又微凉。",
+      "state_after": "花盆已妥善收好，皮皮注意到雾",
+      "transition_from": "shot_02",
+      "review_status": "initial_draft_pending_editorial_review"
+    },
+    {
+      "shot_id": "shot_04",
+      "paragraph_id": "p001",
+      "location": "porch of Pipi’s wooden home, after rain",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "pipi_flowerpot"
+      ],
+      "state_before": "花盆在门廊下",
+      "action": "皮皮刚帮妈妈把门廊下的小花盆收好，一抬头，发现窗外的",
+      "state_after": "花盆已妥善收好，皮皮注意到雾",
+      "transition_from": "shot_03",
+      "review_status": "initial_draft_pending_editorial_review"
+    },
+    {
+      "shot_id": "shot_05",
+      "paragraph_id": "p001",
+      "location": "porch of Pipi’s wooden home, after rain",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "pipi_flowerpot"
+      ],
+      "state_before": "花盆在门廊下",
+      "action": "森林里，不知什么时候升起了一层白茫茫、薄薄的夜雾。",
+      "state_after": "花盆已妥善收好，皮皮注意到雾",
+      "transition_from": "shot_04",
+      "review_status": "initial_draft_pending_editorial_review"
+    },
+    {
+      "shot_id": "shot_06",
+      "paragraph_id": "p002",
+      "location": "outside fence and Pipi’s bedroom window",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "fence_wood_small",
+        "wooden_bridge",
+        "tuan_tuan_oak",
+        "pipi_flowerpot"
+      ],
+      "state_before": "雾绕篱笆，远处小路/桥/橡树可见",
+      "action": "那层薄雾慢悠悠地飘过来，把皮皮家院子外面的小木头篱笆轻轻",
+      "state_after": "篱笆/桥/橡树位置不变，仅能见度降低",
+      "transition_from": "shot_05",
+      "review_status": "initial_draft_pending_editorial_review"
+    },
+    {
+      "shot_id": "shot_07",
+      "paragraph_id": "p002",
+      "location": "outside fence and Pipi’s bedroom window",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "fence_wood_small",
+        "wooden_bridge",
+        "tuan_tuan_oak",
+        "pipi_flowerpot"
+      ],
+      "state_before": "雾绕篱笆，远处小路/桥/橡树可见",
+      "action": "围住了，远远看去，小篱笆就像披上了一条浅灰色的蓬松羊毛围巾。",
+      "state_after": "篱笆/桥/橡树位置不变，仅能见度降低",
+      "transition_from": "shot_06",
+      "review_status": "initial_draft_pending_editorial_review"
+    },
+    {
+      "shot_id": "shot_08",
+      "paragraph_id": "p002",
+      "location": "outside fence and Pipi’s bedroom window",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "fence_wood_small",
+        "wooden_bridge",
+        "tuan_tuan_oak",
+        "pipi_flowerpot"
+      ],
+      "state_before": "雾绕篱笆，远处小路/桥/橡树可见",
+      "action": "皮皮回到屋里，趴在卧室的窗台上往外看。",
+      "state_after": "篱笆/桥/橡树位置不变，仅能见度降低",
+      "transition_from": "shot_07",
+      "review_status": "initial_draft_pending_editorial_review"
+    },
+    {
+      "shot_id": "shot_09",
+      "paragraph_id": "p002",
+      "location": "outside fence and Pipi’s bedroom window",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "fence_wood_small",
+        "wooden_bridge",
+        "tuan_tuan_oak",
+        "pipi_flowerpot"
+      ],
+      "state_before": "雾绕篱笆，远处小路/桥/橡树可见",
+      "action": "平时站在窗前，他能一直望见远处的小木桥和小松鼠团团家的大橡树；",
+      "state_after": "篱笆/桥/橡树位置不变，仅能见度降低",
+      "transition_from": "shot_08",
+      "review_status": "initial_draft_pending_editorial_review"
+    },
+    {
+      "shot_id": "shot_10",
+      "paragraph_id": "p002",
+      "location": "outside fence and Pipi’s bedroom window",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "fence_wood_small",
+        "wooden_bridge",
+        "tuan_tuan_oak",
+        "pipi_flowerpot"
+      ],
+      "state_before": "雾绕篱笆，远处小路/桥/橡树可见",
+      "action": "可是今天，近处窗台边的绿叶子还清清楚楚的，远处的小路",
+      "state_after": "篱笆/桥/橡树位置不变，仅能见度降低",
+      "transition_from": "shot_09",
+      "review_status": "initial_draft_pending_editorial_review"
+    },
+    {
+      "shot_id": "shot_11",
+      "paragraph_id": "p002",
+      "location": "outside fence and Pipi’s bedroom window",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "fence_wood_small",
+        "wooden_bridge",
+        "tuan_tuan_oak",
+        "pipi_flowerpot"
+      ],
+      "state_before": "雾绕篱笆，远处小路/桥/橡树可见",
+      "action": "和小桥，却全都藏进了乳白色的雾气里，只剩下柔柔的、模糊的轮廓。",
+      "state_after": "篱笆/桥/橡树位置不变，仅能见度降低",
+      "transition_from": "shot_10",
+      "review_status": "initial_draft_pending_editorial_review"
+    },
+    {
+      "shot_id": "shot_12",
+      "paragraph_id": "p003",
+      "location": "bedroom window and familiar room corner",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "pipi_flowerpot",
+        "small_wooden_chair"
+      ],
+      "state_before": "皮皮在窗边担心外路看不清",
+      "action": "皮皮心里冒出了一点点小小的担心：外面的路看不清了，小",
+      "state_after": "室内熟悉物件都在原处，皮皮没有开门",
+      "transition_from": "shot_11",
+      "review_status": "initial_draft_pending_editorial_review"
+    },
+    {
+      "shot_id": "shot_13",
+      "paragraph_id": "p003",
+      "location": "bedroom window and familiar room corner",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "pipi_flowerpot",
+        "small_wooden_chair"
+      ],
+      "state_before": "皮皮在窗边担心外路看不清",
+      "action": "篱笆和远处的森林，会不会在雾里迷路不见了呀？",
+      "state_after": "室内熟悉物件都在原处，皮皮没有开门",
+      "transition_from": "shot_12",
+      "review_status": "initial_draft_pending_editorial_review"
+    },
+    {
+      "shot_id": "shot_14",
+      "paragraph_id": "p003",
+      "location": "bedroom window and familiar room corner",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "pipi_flowerpot",
+        "small_wooden_chair"
+      ],
+      "state_before": "皮皮在窗边担心外路看不清",
+      "action": "他刚想走到门口去打开门看个究竟，却停住了脚步。",
+      "state_after": "室内熟悉物件都在原处，皮皮没有开门",
+      "transition_from": "shot_13",
+      "review_status": "initial_draft_pending_editorial_review"
+    },
+    {
+      "shot_id": "shot_15",
+      "paragraph_id": "p003",
+      "location": "bedroom window and familiar room corner",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "pipi_flowerpot",
+        "small_wooden_chair"
+      ],
+      "state_before": "皮皮在窗边担心外路看不清",
+      "action": "他看了看窗台内侧，自己刚放好的那盆小绿植还稳稳地待在",
+      "state_after": "室内熟悉物件都在原处，皮皮没有开门",
+      "transition_from": "shot_14",
+      "review_status": "initial_draft_pending_editorial_review"
+    },
+    {
+      "shot_id": "shot_16",
+      "paragraph_id": "p003",
+      "location": "bedroom window and familiar room corner",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "pipi_flowerpot",
+        "small_wooden_chair"
+      ],
+      "state_before": "皮皮在窗边担心外路看不清",
+      "action": "熟悉的角落里，床边的小木椅也还坐在原来的位置上。",
+      "state_after": "室内熟悉物件都在原处，皮皮没有开门",
+      "transition_from": "shot_15",
+      "review_status": "initial_draft_pending_editorial_review"
+    },
+    {
+      "shot_id": "shot_17",
+      "paragraph_id": "p004",
+      "location": "bedroom window, then curtain and bedside",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "pipi_flowerpot",
+        "small_wooden_chair",
+        "fence_wood_small",
+        "wooden_bridge",
+        "leaf_pattern_curtain",
+        "carrot_doll"
+      ],
+      "state_before": "绿植与小椅在熟悉位置，门未打开",
+      "action": "皮皮明白了：花盆在这里，小椅子在这里，院子外面的小篱笆",
+      "state_after": "室内灯光留在皮皮和玩偶身边，窗帘更合拢",
+      "transition_from": "shot_16",
+      "review_status": "initial_draft_pending_editorial_review"
+    },
+    {
+      "shot_id": "shot_18",
+      "paragraph_id": "p004",
+      "location": "bedroom window, then curtain and bedside",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "pipi_flowerpot",
+        "small_wooden_chair",
+        "fence_wood_small",
+        "wooden_bridge",
+        "leaf_pattern_curtain",
+        "carrot_doll"
+      ],
+      "state_before": "绿植与小椅在熟悉位置，门未打开",
+      "action": "和小木桥当然也还在原来的地方呀，它们哪里也没去，只是在夜晚",
+      "state_after": "室内灯光留在皮皮和玩偶身边，窗帘更合拢",
+      "transition_from": "shot_17",
+      "review_status": "initial_draft_pending_editorial_review"
+    },
+    {
+      "shot_id": "shot_19",
+      "paragraph_id": "p004",
+      "location": "bedroom window, then curtain and bedside",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "pipi_flowerpot",
+        "small_wooden_chair",
+        "fence_wood_small",
+        "wooden_bridge",
+        "leaf_pattern_curtain",
+        "carrot_doll"
+      ],
+      "state_before": "绿植与小椅在熟悉位置，门未打开",
+      "action": "暂时躲进了软绵绵的雾气被子里休息呢。",
+      "state_after": "室内灯光留在皮皮和玩偶身边，窗帘更合拢",
+      "transition_from": "shot_18",
+      "review_status": "initial_draft_pending_editorial_review"
+    },
+    {
+      "shot_id": "shot_20",
+      "paragraph_id": "p004",
+      "location": "bedroom window, then curtain and bedside",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "pipi_flowerpot",
+        "small_wooden_chair",
+        "fence_wood_small",
+        "wooden_bridge",
+        "leaf_pattern_curtain",
+        "carrot_doll"
+      ],
+      "state_before": "绿植与小椅在熟悉位置，门未打开",
+      "action": "于是，皮皮没有再打开门出去找。",
+      "state_after": "室内灯光留在皮皮和玩偶身边，窗帘更合拢",
+      "transition_from": "shot_19",
+      "review_status": "initial_draft_pending_editorial_review"
+    },
+    {
+      "shot_id": "shot_21",
+      "paragraph_id": "p004",
+      "location": "bedroom window, then curtain and bedside",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "pipi_flowerpot",
+        "small_wooden_chair",
+        "fence_wood_small",
+        "wooden_bridge",
+        "leaf_pattern_curtain",
+        "carrot_doll"
+      ],
+      "state_before": "绿植与小椅在熟悉位置，门未打开",
+      "action": "他伸出小爪子，把叶子花窗帘往中间拉近了一点，让小",
+      "state_after": "室内灯光留在皮皮和玩偶身边，窗帘更合拢",
+      "transition_from": "shot_20",
+      "review_status": "initial_draft_pending_editorial_review"
+    },
+    {
+      "shot_id": "shot_22",
+      "paragraph_id": "p004",
+      "location": "bedroom window, then curtain and bedside",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "pipi_flowerpot",
+        "small_wooden_chair",
+        "fence_wood_small",
+        "wooden_bridge",
+        "leaf_pattern_curtain",
+        "carrot_doll"
+      ],
+      "state_before": "绿植与小椅在熟悉位置，门未打开",
+      "action": "木屋里暖融融的灯光，严严实实地留在自己和胡萝卜玩偶的身边。",
+      "state_after": "室内灯光留在皮皮和玩偶身边，窗帘更合拢",
+      "transition_from": "shot_21",
+      "review_status": "initial_draft_pending_editorial_review"
+    },
+    {
+      "shot_id": "shot_23",
+      "paragraph_id": "p005",
+      "location": "foggy fence outside, then warm bedroom",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "fence_wood_small",
+        "leaf_pattern_curtain",
+        "carrot_doll",
+        "warm_blanket"
+      ],
+      "state_before": "窗帘已拉近，雾仍围住篱笆",
+      "action": "窗外的薄雾像一个温柔的大拥抱，轻轻抱了抱小篱笆，没有敲门，",
+      "state_after": "皮皮在被窝安心休息，远处待明早再看",
+      "transition_from": "shot_22",
+      "review_status": "initial_draft_pending_editorial_review"
+    },
+    {
+      "shot_id": "shot_24",
+      "paragraph_id": "p005",
+      "location": "foggy fence outside, then warm bedroom",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "fence_wood_small",
+        "leaf_pattern_curtain",
+        "carrot_doll",
+        "warm_blanket"
+      ],
+      "state_before": "窗帘已拉近，雾仍围住篱笆",
+      "action": "也没有催促屋里的谁跟着它一起往看不清的远处走。",
+      "state_after": "皮皮在被窝安心休息，远处待明早再看",
+      "transition_from": "shot_23",
+      "review_status": "initial_draft_pending_editorial_review"
+    },
+    {
+      "shot_id": "shot_25",
+      "paragraph_id": "p005",
+      "location": "foggy fence outside, then warm bedroom",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "fence_wood_small",
+        "leaf_pattern_curtain",
+        "carrot_doll",
+        "warm_blanket"
+      ],
+      "state_before": "窗帘已拉近，雾仍围住篱笆",
+      "action": "皮皮安心地钻进被窝，把小爪子彻底放松下来。",
+      "state_after": "皮皮在被窝安心休息，远处待明早再看",
+      "transition_from": "shot_24",
+      "review_status": "initial_draft_pending_editorial_review"
+    },
+    {
+      "shot_id": "shot_26",
+      "paragraph_id": "p005",
+      "location": "foggy fence outside, then warm bedroom",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "fence_wood_small",
+        "leaf_pattern_curtain",
+        "carrot_doll",
+        "warm_blanket"
+      ],
+      "state_before": "窗帘已拉近，雾仍围住篱笆",
+      "action": "今晚那些在雾里看不清楚的远方，等明天早上太阳升起来、雾气",
+      "state_after": "皮皮在被窝安心休息，远处待明早再看",
+      "transition_from": "shot_25",
+      "review_status": "initial_draft_pending_editorial_review"
+    },
+    {
+      "shot_id": "shot_27",
+      "paragraph_id": "p005",
+      "location": "foggy fence outside, then warm bedroom",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "fence_wood_small",
+        "leaf_pattern_curtain",
+        "carrot_doll",
+        "warm_blanket"
+      ],
+      "state_before": "窗帘已拉近，雾仍围住篱笆",
+      "action": "散去的时候，随时都可以再看个够。",
+      "state_after": "皮皮在被窝安心休息，远处待明早再看",
+      "transition_from": "shot_26",
+      "review_status": "initial_draft_pending_editorial_review"
+    },
+    {
+      "shot_id": "shot_28",
+      "paragraph_id": "p006",
+      "location": "bedroom bed and pillow at night",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "warm_blanket",
+        "soft_pillow",
+        "carrot_doll"
+      ],
+      "state_before": "皮皮靠在被窝中",
+      "action": "他靠住柔软的枕头，慢慢闭上眼睛。",
+      "state_after": "安静入睡，木屋熟悉物件位置稳定",
+      "transition_from": "shot_27",
+      "review_status": "initial_draft_pending_editorial_review"
+    },
+    {
+      "shot_id": "shot_29",
+      "paragraph_id": "p006",
+      "location": "bedroom bed and pillow at night",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "warm_blanket",
+        "soft_pillow",
+        "carrot_doll"
+      ],
+      "state_before": "皮皮靠在被窝中",
+      "action": "小木屋里熟悉的原木香气和毛毯的暖意，离他这么近，这么真实。",
+      "state_after": "安静入睡，木屋熟悉物件位置稳定",
+      "transition_from": "shot_28",
+      "review_status": "initial_draft_pending_editorial_review"
+    },
+    {
+      "shot_id": "shot_30",
+      "paragraph_id": "p006",
+      "location": "bedroom bed and pillow at night",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "warm_blanket",
+        "soft_pillow",
+        "carrot_doll"
+      ],
+      "state_before": "皮皮靠在被窝中",
+      "action": "小朋友，到了晚上，看不清外面的大世界也没关系，因为所有",
+      "state_after": "安静入睡，木屋熟悉物件位置稳定",
+      "transition_from": "shot_29",
+      "review_status": "initial_draft_pending_editorial_review"
+    },
+    {
+      "shot_id": "shot_31",
+      "paragraph_id": "p006",
+      "location": "bedroom bed and pillow at night",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "warm_blanket",
+        "soft_pillow",
+        "carrot_doll"
+      ],
+      "state_before": "皮皮靠在被窝中",
+      "action": "美好的事物都还好好地待在原处。",
+      "state_after": "安静入睡，木屋熟悉物件位置稳定",
+      "transition_from": "shot_30",
+      "review_status": "initial_draft_pending_editorial_review"
+    },
+    {
+      "shot_id": "shot_32",
+      "paragraph_id": "p006",
+      "location": "bedroom bed and pillow at night",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "warm_blanket",
+        "soft_pillow",
+        "carrot_doll"
+      ],
+      "state_before": "皮皮靠在被窝中",
+      "action": "现在，先安心待在你熟悉的被窝里吧，有些风景留给明天的阳光。晚安。",
+      "state_after": "安静入睡，木屋熟悉物件位置稳定",
+      "transition_from": "shot_31",
+      "review_status": "initial_draft_pending_editorial_review"
+    }
+  ]
+}

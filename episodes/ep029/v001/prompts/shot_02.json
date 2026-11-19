@@ -1,0 +1,9 @@
+{
+  "shot_id": "shot_02",
+  "prompt": "Vertical 9:16 watercolor opening for p000: Pipi the warm-gray rabbit in the star nightcap notices a thin pale fog rising around the same small wooden fence at a rainy autumn dusk; soft curious expression; no text; lower quarter subtitle-safe.",
+  "referenced_image_paths": [
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "generated_candidate"
+}
