@@ -7,4 +7,4 @@
 
 时长268.28秒，竖屏1080×1920，25fps。成片和母版均已完整解码，工程技术检查通过。
 
-工程与素材：`/workspace/Bedtime-Stories/episodes/ep030/v001/`。完整人工听看未认证，用户验收待审；尚未发布，也未同步GitHub。
+工程与素材：`/workspace/Bedtime-Stories/episodes/ep030/v001/`。完整人工听看未认证，用户验收待审；尚未发布；完整工程和交付已于2026-11-20同步到GitHub main。

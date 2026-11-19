@@ -17,7 +17,12 @@
   "human_watch": "not_certified",
   "user_acceptance": "pending",
   "publication": "not_published",
-  "github_sync": "not_synced",
+  "github_sync": {
+    "status": "synced_to_main",
+    "date": "2026-11-20",
+    "commit": "25d7480",
+    "scope": "complete_ep030_v001_project_and_delivery_including_both_videos"
+  },
   "next_action": "User review; human full watch not certified.",
   "character_reference": "pipi_identity_v001_copied",
   "prompt_count": 40,
