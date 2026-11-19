@@ -1,0 +1,53 @@
+{
+  "text": "今天的故事叫《雨珠回到花园》。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "01a2219bad505c1c7b46c17611ee35aebf12412442e7f03ca5e7f3513fc681a3",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5577080,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8384580,
+      "duration": 4615410,
+      "text": "故事"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13192500,
+      "duration": 4807500,
+      "text": "叫"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19538330,
+      "duration": 5769160,
+      "text": "雨珠"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25692500,
+      "duration": 4615410,
+      "text": "回到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30500000,
+      "duration": 8846250,
+      "text": "花园"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "shot_id": 22,
+  "image": "images/shot_22.png",
+  "sha256": "01897894f43d38e0118254a08dd92e438fc14195c7ca90a73827cf7be6a66a84",
+  "source": "OpenAI image_gen",
+  "generated_on": null,
+  "prompt_file": "prompts/shot_22.json",
+  "prompt_reference": null,
+  "continuity_refs": [
+    "roof_droplets",
+    "terracotta_pot",
+    "broad_leaf",
+    "droplet_02"
+  ],
+  "review_status": "reviewed_in_full_contact_sheet"
+}

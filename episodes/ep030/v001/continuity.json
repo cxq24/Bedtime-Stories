@@ -1,0 +1,771 @@
+{
+  "episode": "ep030",
+  "version": "v001",
+  "script_version": "v5",
+  "status": "image_review_passed_after_full_40_shot_contact_sheet",
+  "text_logic_review": "passed_for_preproduction_draft",
+  "image_review": "passed_full_40_shot_contact_sheet_2026-11-19; distinct late-rain states and bedroom awake-to-asleep sequence reviewed; 35-36 revised for identity continuity",
+  "render_gate": "continuity_preflight_and_full_image_review_passed",
+  "assets": [
+    {
+      "asset_id": "pipi",
+      "appearance": "小灰兔，暖灰毛、圆脸、粉色小鼻、自然下垂长耳；本集卧室保持深蓝星星睡帽与黄色帽球、同一睡衣。",
+      "reference": "角色图库 pipi_identity_v001；需实际加载。",
+      "continuity": "卧室内从床边到窗边再回床，不离开屋内。"
+    },
+    {
+      "asset_id": "wood_window",
+      "appearance": "卧室一扇木框窗，玻璃清洁，窗扇可推开小缝后重新关严。",
+      "reference": "本集场景首次定图后作为布局锚点。",
+      "continuity": "全片保持同一窗框、开合方向与室内外关系。"
+    },
+    {
+      "asset_id": "roof_droplets",
+      "appearance": "小木屋倾斜木屋檐尖的一排透明雨珠，雨停后逐渐减少。",
+      "reference": "需建立本集檐角标准参考图。",
+      "continuity": "水滴由多到少；按檐尖向下落入花盆，不逆向或突然恢复。"
+    },
+    {
+      "asset_id": "terracotta_pot",
+      "appearance": "窗外固定位置的一只赭红色陶土花盆，圆口略厚、盆身朴素，无图案。",
+      "reference": "需建立本集花盆标准参考图。",
+      "continuity": "整集保持在木窗外正下方同一位置。"
+    },
+    {
+      "asset_id": "broad_leaf",
+      "appearance": "花盆内一株植物伸出的一片宽阔椭圆绿叶，叶脉可见，叶柄连在植株上。",
+      "reference": "与花盆共同建立标准参考图。",
+      "continuity": "开始时倾向盆沿；皮皮温柔扶到侧边后持续保持侧开，不折断、不复位。"
+    },
+    {
+      "asset_id": "droplet_01",
+      "appearance": "首颗落下并造成轻微盆沿声响的小雨滴。",
+      "reference": "檐滴资产外观一致。",
+      "continuity": "从檐尖落至花盆沿附近；此后不再出现在檐角。"
+    },
+    {
+      "asset_id": "droplet_02",
+      "appearance": "叶片扶开后沿屋檐落下的下一颗雨滴。",
+      "reference": "与檐滴同样透明圆润。",
+      "continuity": "沿重力方向进入盆口湿润黑土，不碰盆沿。"
+    },
+    {
+      "asset_id": "garden_bed",
+      "appearance": "窗外小花园的湿润深色松土、低矮绿植与静谧夜色。",
+      "reference": "建立场景布局锚点，与窗和花盆保持地理相邻。",
+      "continuity": "夜雨停止后安静，土壤含水但无暴雨、积水或新物件。"
+    },
+    {
+      "asset_id": "yellow_blanket",
+      "appearance": "一条暖黄色柔软毛毯。",
+      "reference": "卧室床上固定道具。",
+      "continuity": "睡前拉到皮皮肩头后保持此位置。"
+    },
+    {
+      "asset_id": "carrot_doll",
+      "appearance": "橙色胡萝卜形玩偶，尺寸适合靠在皮皮手臂旁。",
+      "reference": "需建立本集玩偶标准参考图。",
+      "continuity": "结尾固定靠在皮皮温暖的小手臂旁。"
+    }
+  ],
+  "shot_states": [
+    {
+      "shot_id": 0,
+      "location": "花园外景",
+      "characters": [],
+      "spoken_text": "小朋友们，准备好听故事了吗？今天的故事叫《雨珠回到花园》。",
+      "continuity_refs": [],
+      "state_before": "雨停；檐角仍有雨珠。",
+      "state_after": "檐角一滴将落未落。",
+      "transition_from": null,
+      "actual_start_s": 0.0,
+      "actual_end_s": 9.84,
+      "visible_duration_s": 10.32
+    },
+    {
+      "shot_id": 1,
+      "location": "片头花园",
+      "characters": [],
+      "spoken_text": "雨停以后，花园里的最后一滴雨珠会落到哪里呢？",
+      "continuity_refs": [
+        "roof_droplets",
+        "garden_bed",
+        "wood_window"
+      ],
+      "state_before": "片头问题引出故事；檐滴仍挂在屋檐。",
+      "state_after": "雨珠仍将落未落；故事正文从皮皮听见滴答开始。",
+      "transition_from": 0,
+      "actual_start_s": 9.84,
+      "actual_end_s": 16.92,
+      "visible_duration_s": 8.04
+    },
+    {
+      "shot_id": 2,
+      "location": "小屋外",
+      "characters": [],
+      "spoken_text": "夜色深了，傍晚那场洗刷了整座森林的秋雨，已经彻底停了下来。",
+      "continuity_refs": [],
+      "state_before": "雨已停，夜色安稳。",
+      "state_after": "雨停；屋檐残留雨珠。",
+      "transition_from": 1,
+      "actual_start_s": 16.92,
+      "actual_end_s": 26.52,
+      "visible_duration_s": 10.56
+    },
+    {
+      "shot_id": 3,
+      "location": "卧室",
+      "characters": [
+        "pipi"
+      ],
+      "spoken_text": "皮皮洗漱完毕，坐在床边整理自己的睡衣。",
+      "continuity_refs": [
+        "pipi"
+      ],
+      "state_before": "雨停；屋檐残留雨珠。",
+      "state_after": "皮皮在床边；木窗关闭。",
+      "transition_from": 2,
+      "actual_start_s": 26.52,
+      "actual_end_s": 32.96,
+      "visible_duration_s": 7.4
+    },
+    {
+      "shot_id": 4,
+      "location": "卧室",
+      "characters": [
+        "pipi"
+      ],
+      "spoken_text": "屋里很安静，可就在这时，他竖起长长的兔耳朵，",
+      "continuity_refs": [
+        "pipi"
+      ],
+      "state_before": "皮皮在床边；木窗关闭。",
+      "state_after": "皮皮仍在床边；窗关闭。",
+      "transition_from": 3,
+      "actual_start_s": 32.96,
+      "actual_end_s": 40.0,
+      "visible_duration_s": 8.0
+    },
+    {
+      "shot_id": 5,
+      "location": "窗边内外",
+      "characters": [
+        "pipi"
+      ],
+      "spoken_text": "听见窗外传来一声很轻的：“滴答。”",
+      "continuity_refs": [
+        "pipi",
+        "roof_droplets"
+      ],
+      "state_before": "皮皮仍在床边；窗关闭。",
+      "state_after": "第一声滴答发生；木窗仍关闭。",
+      "transition_from": 4,
+      "actual_start_s": 40.0,
+      "actual_end_s": 45.04,
+      "visible_duration_s": 6.0
+    },
+    {
+      "shot_id": 6,
+      "location": "窗边内外",
+      "characters": [
+        "pipi"
+      ],
+      "spoken_text": "过了一小会儿，又是轻轻的一声：“滴答。”",
+      "continuity_refs": [
+        "pipi",
+        "roof_droplets"
+      ],
+      "state_before": "第一声滴答发生；木窗仍关闭。",
+      "state_after": "第二声滴答；皮皮尚未走到窗边。",
+      "transition_from": 5,
+      "actual_start_s": 45.04,
+      "actual_end_s": 50.72,
+      "visible_duration_s": 6.64
+    },
+    {
+      "shot_id": 7,
+      "location": "卧室窗边",
+      "characters": [
+        "pipi"
+      ],
+      "spoken_text": "皮皮好奇地走到窗边，",
+      "continuity_refs": [
+        "pipi"
+      ],
+      "state_before": "第二声滴答；皮皮尚未走到窗边。",
+      "state_after": "皮皮到达关闭的木窗前；未开窗。",
+      "transition_from": 6,
+      "actual_start_s": 50.72,
+      "actual_end_s": 54.16,
+      "visible_duration_s": 4.4
+    },
+    {
+      "shot_id": 8,
+      "location": "窗边内侧",
+      "characters": [
+        "pipi"
+      ],
+      "spoken_text": "隔着擦得干干净净的玻璃往上看。",
+      "continuity_refs": [
+        "pipi",
+        "wood_window"
+      ],
+      "state_before": "皮皮到达关闭的木窗前；未开窗。",
+      "state_after": "视线锁定倾斜木檐。",
+      "transition_from": 7,
+      "actual_start_s": 54.16,
+      "actual_end_s": 58.96,
+      "visible_duration_s": 5.76
+    },
+    {
+      "shot_id": 9,
+      "location": "小屋外檐角",
+      "characters": [],
+      "spoken_text": "原来，虽然天上的雨停了，但小木屋倾斜的木头屋檐边上，还挂着一排亮晶晶的小雨珠呢。",
+      "continuity_refs": [
+        "roof_droplets",
+        "wood_window"
+      ],
+      "state_before": "展示雨停后仍有檐滴。",
+      "state_after": "整排檐滴仍挂着；花盆在窗外正下方。",
+      "transition_from": 8,
+      "actual_start_s": 58.96,
+      "actual_end_s": 71.68,
+      "visible_duration_s": 13.68
+    },
+    {
+      "shot_id": 10,
+      "location": "檐角特写",
+      "characters": [],
+      "spoken_text": "它们正一颗接一颗，在屋檐尖上慢慢变圆、变大。",
+      "continuity_refs": [
+        "roof_droplets"
+      ],
+      "state_before": "突出水珠积聚。",
+      "state_after": "当前最大雨珠仍连在檐尖。",
+      "transition_from": 9,
+      "actual_start_s": 71.68,
+      "actual_end_s": 79.52,
+      "visible_duration_s": 8.8
+    },
+    {
+      "shot_id": 11,
+      "location": "窗边内外",
+      "characters": [
+        "pipi"
+      ],
+      "spoken_text": "就在皮皮看的时候，一颗攒够了力气的小雨珠落了下来，",
+      "continuity_refs": [
+        "pipi",
+        "roof_droplets",
+        "droplet_01"
+      ],
+      "state_before": "当前最大雨珠仍连在檐尖。",
+      "state_after": "首颗雨滴离开屋檐，向下落。",
+      "transition_from": 10,
+      "actual_start_s": 79.52,
+      "actual_end_s": 86.92,
+      "visible_duration_s": 8.36
+    },
+    {
+      "shot_id": 12,
+      "location": "窗外花盆",
+      "characters": [],
+      "spoken_text": "“啪嗒”一声，正好敲在窗外花盆的陶土边沿上，",
+      "continuity_refs": [
+        "terracotta_pot",
+        "broad_leaf",
+        "droplet_01"
+      ],
+      "state_before": "展示清脆声的来源，不夸张飞溅。",
+      "state_after": "花盆未移动；首滴打到盆沿。",
+      "transition_from": 11,
+      "actual_start_s": 86.92,
+      "actual_end_s": 93.12,
+      "visible_duration_s": 7.16
+    },
+    {
+      "shot_id": 13,
+      "location": "窗边内外",
+      "characters": [
+        "pipi"
+      ],
+      "spoken_text": "发出一声清脆又短促的小响声。",
+      "continuity_refs": [
+        "pipi",
+        "terracotta_pot",
+        "droplet_01"
+      ],
+      "state_before": "花盆未移动；首滴打到盆沿。",
+      "state_after": "短促声响已发生。",
+      "transition_from": 12,
+      "actual_start_s": 93.12,
+      "actual_end_s": 97.76,
+      "visible_duration_s": 5.6
+    },
+    {
+      "shot_id": 14,
+      "location": "窗边内侧",
+      "characters": [
+        "pipi"
+      ],
+      "spoken_text": "如果是平时，这断断续续的滴水声可能会让皮皮一直分心去数。",
+      "continuity_refs": [
+        "pipi",
+        "roof_droplets"
+      ],
+      "state_before": "短促声响已发生。",
+      "state_after": "他没有陷入数滴声，而是寻找声源。",
+      "transition_from": 13,
+      "actual_start_s": 97.76,
+      "actual_end_s": 107.36,
+      "visible_duration_s": 10.56
+    },
+    {
+      "shot_id": 15,
+      "location": "窗边内侧",
+      "characters": [
+        "pipi"
+      ],
+      "spoken_text": "但今天，皮皮仔细观察了一下，",
+      "continuity_refs": [
+        "pipi",
+        "terracotta_pot",
+        "broad_leaf"
+      ],
+      "state_before": "他没有陷入数滴声，而是寻找声源。",
+      "state_after": "发现花盆叶片位置异常。",
+      "transition_from": 14,
+      "actual_start_s": 107.36,
+      "actual_end_s": 112.12,
+      "visible_duration_s": 5.72
+    },
+    {
+      "shot_id": 16,
+      "location": "窗外花盆特写",
+      "characters": [],
+      "spoken_text": "发现是花盆里的一片大叶子歪向了盆沿，",
+      "continuity_refs": [
+        "terracotta_pot",
+        "broad_leaf"
+      ],
+      "state_before": "明确叶片歪向盆沿。",
+      "state_after": "叶片保持倾斜，部分遮住盆口落点。",
+      "transition_from": 15,
+      "actual_start_s": 112.12,
+      "actual_end_s": 118.16,
+      "visible_duration_s": 7.0
+    },
+    {
+      "shot_id": 17,
+      "location": "窗外花盆",
+      "characters": [],
+      "spoken_text": "接住了屋檐落下的水滴才发出响声的。",
+      "continuity_refs": [
+        "terracotta_pot",
+        "broad_leaf",
+        "roof_droplets"
+      ],
+      "state_before": "细节展现叶片与盆沿造成响声。",
+      "state_after": "叶片仍向盆沿；土面仍湿润。",
+      "transition_from": 16,
+      "actual_start_s": 118.16,
+      "actual_end_s": 123.64,
+      "visible_duration_s": 6.44
+    },
+    {
+      "shot_id": 18,
+      "location": "窗边内侧",
+      "characters": [
+        "pipi"
+      ],
+      "spoken_text": "皮皮轻轻推开一点点窗户，",
+      "continuity_refs": [
+        "pipi",
+        "wood_window"
+      ],
+      "state_before": "叶片仍向盆沿；土面仍湿润。",
+      "state_after": "窗从关闭变为微开；皮皮仍在窗边。",
+      "transition_from": 17,
+      "actual_start_s": 123.64,
+      "actual_end_s": 127.68,
+      "visible_duration_s": 5.0
+    },
+    {
+      "shot_id": 19,
+      "location": "窗边内外",
+      "characters": [
+        "pipi"
+      ],
+      "spoken_text": "伸出小爪子，",
+      "continuity_refs": [
+        "pipi",
+        "wood_window"
+      ],
+      "state_before": "窗从关闭变为微开；皮皮仍在窗边。",
+      "state_after": "皮皮未离开室内；窗微开。",
+      "transition_from": 18,
+      "actual_start_s": 127.68,
+      "actual_end_s": 129.68,
+      "visible_duration_s": 2.96
+    },
+    {
+      "shot_id": 20,
+      "location": "窗外花盆",
+      "characters": [
+        "pipi"
+      ],
+      "spoken_text": "把盆沿旁边那片歪斜的大叶子温柔地往旁边扶开了一点，",
+      "continuity_refs": [
+        "pipi",
+        "terracotta_pot",
+        "broad_leaf",
+        "wood_window"
+      ],
+      "state_before": "皮皮未离开室内；窗微开。",
+      "state_after": "叶片从搭近盆沿变为侧向；植株仍在原盆原位。",
+      "transition_from": 19,
+      "actual_start_s": 129.68,
+      "actual_end_s": 137.32,
+      "visible_duration_s": 8.6
+    },
+    {
+      "shot_id": 21,
+      "location": "窗外花盆特写",
+      "characters": [],
+      "spoken_text": "让出一个小小的空当；",
+      "continuity_refs": [
+        "terracotta_pot",
+        "broad_leaf"
+      ],
+      "state_before": "突出腾出的落点。",
+      "state_after": "叶片侧开；盆口空当形成。",
+      "transition_from": 20,
+      "actual_start_s": 137.32,
+      "actual_end_s": 140.44,
+      "visible_duration_s": 4.08
+    },
+    {
+      "shot_id": 22,
+      "location": "檐角与花盆",
+      "characters": [],
+      "spoken_text": "这样一来，后面再落下来的小水珠，",
+      "continuity_refs": [
+        "roof_droplets",
+        "terracotta_pot",
+        "broad_leaf",
+        "droplet_02"
+      ],
+      "state_before": "雨滴沿重力方向落向新空隙。",
+      "state_after": "叶片保持侧开；下一滴尚在檐尖。",
+      "transition_from": 21,
+      "actual_start_s": 140.44,
+      "actual_end_s": 145.48,
+      "visible_duration_s": 6.0
+    },
+    {
+      "shot_id": 23,
+      "location": "窗外花盆",
+      "characters": [],
+      "spoken_text": "就可以直接落进花盆里松软的泥土上了。",
+      "continuity_refs": [
+        "terracotta_pot",
+        "broad_leaf",
+        "droplet_02"
+      ],
+      "state_before": "明确水滴落向土面。",
+      "state_after": "第二滴将落/刚落在土上，不打盆沿。",
+      "transition_from": 22,
+      "actual_start_s": 145.48,
+      "actual_end_s": 150.76,
+      "visible_duration_s": 6.24
+    },
+    {
+      "shot_id": 24,
+      "location": "小屋外檐角",
+      "characters": [],
+      "spoken_text": "果然，当下一颗雨珠顺着屋檐滑落下来时，",
+      "continuity_refs": [
+        "roof_droplets",
+        "terracotta_pot",
+        "broad_leaf",
+        "droplet_02"
+      ],
+      "state_before": "展示屋檐到花盆的垂直关系。",
+      "state_after": "叶片侧开；水滴向盆内移动。",
+      "transition_from": 23,
+      "actual_start_s": 150.76,
+      "actual_end_s": 157.4,
+      "visible_duration_s": 7.6
+    },
+    {
+      "shot_id": 25,
+      "location": "窗外花盆特写",
+      "characters": [],
+      "spoken_text": "它直接钻进了湿润的黑泥土里，",
+      "continuity_refs": [
+        "terracotta_pot",
+        "broad_leaf",
+        "droplet_02"
+      ],
+      "state_before": "安静、细小的落土瞬间。",
+      "state_after": "水滴已进入土中；土面有轻微水痕。",
+      "transition_from": 24,
+      "actual_start_s": 157.4,
+      "actual_end_s": 161.28,
+      "visible_duration_s": 4.84
+    },
+    {
+      "shot_id": 26,
+      "location": "窗外花盆",
+      "characters": [],
+      "spoken_text": "只发出一声几乎听不见的“噗”，就像倦鸟归巢一样。",
+      "continuity_refs": [
+        "terracotta_pot",
+        "broad_leaf"
+      ],
+      "state_before": "将雨滴落土表现得轻柔自然，不画比喻实体。",
+      "state_after": "雨滴消失在土里；叶片位置不变。",
+      "transition_from": 25,
+      "actual_start_s": 161.28,
+      "actual_end_s": 168.24,
+      "visible_duration_s": 7.92
+    },
+    {
+      "shot_id": 27,
+      "location": "窗外小花园",
+      "characters": [],
+      "spoken_text": "窗外的小花园没有说话，只是敞开松软的泥土怀抱，",
+      "continuity_refs": [
+        "garden_bed",
+        "terracotta_pot",
+        "broad_leaf"
+      ],
+      "state_before": "宁静承接，不拟人化画嘴。",
+      "state_after": "花园接受雨水；檐滴继续减少。",
+      "transition_from": 26,
+      "actual_start_s": 168.24,
+      "actual_end_s": 175.6,
+      "visible_duration_s": 8.32
+    },
+    {
+      "shot_id": 28,
+      "location": "窗外小花园",
+      "characters": [],
+      "spoken_text": "把这一颗颗晚归的小雨珠全都轻轻接住了。",
+      "continuity_refs": [
+        "garden_bed",
+        "terracotta_pot",
+        "roof_droplets"
+      ],
+      "state_before": "呈现多滴逐渐落入泥土。",
+      "state_after": "剩余檐滴变少；土壤湿润。",
+      "transition_from": 27,
+      "actual_start_s": 175.6,
+      "actual_end_s": 181.48,
+      "visible_duration_s": 6.84
+    },
+    {
+      "shot_id": 29,
+      "location": "小屋外檐角",
+      "characters": [],
+      "spoken_text": "屋檐上挂着的雨珠越来越少，",
+      "continuity_refs": [
+        "roof_droplets"
+      ],
+      "state_before": "明确檐滴数量减少。",
+      "state_after": "檐滴从多变少。",
+      "transition_from": 28,
+      "actual_start_s": 181.48,
+      "actual_end_s": 185.76,
+      "visible_duration_s": 5.24
+    },
+    {
+      "shot_id": 30,
+      "location": "小屋外檐角",
+      "characters": [],
+      "spoken_text": "两滴水珠落下来的间隔也越来越长，",
+      "continuity_refs": [
+        "roof_droplets"
+      ],
+      "state_before": "留出安静等待感。",
+      "state_after": "落滴间隔变长；仍剩数颗。",
+      "transition_from": 29,
+      "actual_start_s": 185.76,
+      "actual_end_s": 190.92,
+      "visible_duration_s": 6.12
+    },
+    {
+      "shot_id": 31,
+      "location": "小屋窗外",
+      "characters": [],
+      "spoken_text": "窗外那细微的小响声，慢慢地隔得远了，最终彻底融进了夜色里。",
+      "continuity_refs": [
+        "wood_window",
+        "roof_droplets",
+        "garden_bed"
+      ],
+      "state_before": "展示声音渐远并消失，不用可视化声波。",
+      "state_after": "滴水声结束；檐角几乎无滴。",
+      "transition_from": 30,
+      "actual_start_s": 190.92,
+      "actual_end_s": 199.92,
+      "visible_duration_s": 9.96
+    },
+    {
+      "shot_id": 32,
+      "location": "卧室窗边",
+      "characters": [
+        "pipi"
+      ],
+      "spoken_text": "皮皮把木窗重新关严实，",
+      "continuity_refs": [
+        "pipi",
+        "wood_window"
+      ],
+      "state_before": "滴水声结束；檐角几乎无滴。",
+      "state_after": "窗由微开变为关闭；皮皮仍在窗边。",
+      "transition_from": 31,
+      "actual_start_s": 199.92,
+      "actual_end_s": 203.84,
+      "visible_duration_s": 4.88
+    },
+    {
+      "shot_id": 33,
+      "location": "卧室",
+      "characters": [
+        "pipi"
+      ],
+      "spoken_text": "拍拍手回到温暖的床边。",
+      "continuity_refs": [
+        "pipi",
+        "wood_window"
+      ],
+      "state_before": "窗由微开变为关闭；皮皮仍在窗边。",
+      "state_after": "窗已关；皮皮回到床边。",
+      "transition_from": 32,
+      "actual_start_s": 203.84,
+      "actual_end_s": 207.88,
+      "visible_duration_s": 5.0
+    },
+    {
+      "shot_id": 34,
+      "location": "卧室看向窗外",
+      "characters": [
+        "pipi"
+      ],
+      "spoken_text": "窗外的小花园已经收到了今晚所有的雨水礼物，再也不用添些什么了。",
+      "continuity_refs": [
+        "garden_bed",
+        "terracotta_pot",
+        "broad_leaf",
+        "wood_window"
+      ],
+      "state_before": "夜雨结束后的安稳全景。",
+      "state_after": "滴水停止；花园收下雨水。",
+      "transition_from": 33,
+      "actual_start_s": 207.88,
+      "actual_end_s": 216.88,
+      "visible_duration_s": 9.96
+    },
+    {
+      "shot_id": 35,
+      "location": "卧室床边",
+      "characters": [
+        "pipi"
+      ],
+      "spoken_text": "他把暖黄色的毛毯拉到肩头，让胡萝卜玩偶紧紧靠着自己温暖的小手臂。",
+      "continuity_refs": [
+        "pipi",
+        "yellow_blanket",
+        "carrot_doll"
+      ],
+      "state_before": "滴水停止；花园收下雨水。",
+      "state_after": "毛毯到肩；玩偶靠在皮皮手臂旁。",
+      "transition_from": 34,
+      "actual_start_s": 216.88,
+      "actual_end_s": 227.28,
+      "visible_duration_s": 11.36
+    },
+    {
+      "shot_id": 36,
+      "location": "卧室",
+      "characters": [
+        "pipi"
+      ],
+      "spoken_text": "最后一点零星的雨滴声也留在了窗外，屋里只剩下安静与温暖。",
+      "continuity_refs": [
+        "pipi",
+        "wood_window",
+        "yellow_blanket",
+        "carrot_doll"
+      ],
+      "state_before": "毛毯到肩；玩偶靠在皮皮手臂旁。",
+      "state_after": "窗关闭；雨滴声只在窗外并已停。",
+      "transition_from": 35,
+      "actual_start_s": 227.28,
+      "actual_end_s": 236.6,
+      "visible_duration_s": 10.28
+    },
+    {
+      "shot_id": 37,
+      "location": "卧室床边",
+      "characters": [
+        "pipi"
+      ],
+      "spoken_text": "皮皮的眼睛，慢慢地合上了。",
+      "continuity_refs": [
+        "pipi",
+        "yellow_blanket",
+        "carrot_doll"
+      ],
+      "state_before": "窗关闭；雨滴声只在窗外并已停。",
+      "state_after": "皮皮进入睡眠；道具位置不变。",
+      "transition_from": 36,
+      "actual_start_s": 236.6,
+      "actual_end_s": 241.24,
+      "visible_duration_s": 5.6
+    },
+    {
+      "shot_id": 38,
+      "location": "卧室",
+      "characters": [
+        "pipi"
+      ],
+      "spoken_text": "小朋友，今天耳朵听到的所有细小声音，都已经像小雨珠回到泥土里一样，找到自己的去处啦。",
+      "continuity_refs": [
+        "pipi",
+        "wood_window",
+        "yellow_blanket",
+        "carrot_doll",
+        "garden_bed"
+      ],
+      "state_before": "皮皮进入睡眠；道具位置不变。",
+      "state_after": "全片结束；花园与卧室状态稳定。",
+      "transition_from": 37,
+      "actual_start_s": 241.24,
+      "actual_end_s": 254.68,
+      "visible_duration_s": 14.4
+    },
+    {
+      "shot_id": 39,
+      "location": "卧室",
+      "characters": [],
+      "spoken_text": "你也舒舒服服地歇着吧，晚安。",
+      "continuity_refs": [
+        "pipi",
+        "wood_window",
+        "yellow_blanket",
+        "carrot_doll",
+        "garden_bed"
+      ],
+      "state_before": "雨滴声已消失；皮皮已躺在床上。",
+      "state_after": "皮皮安睡；屋内外保持安静。",
+      "transition_from": 38,
+      "actual_start_s": 254.68,
+      "actual_end_s": 268.28,
+      "visible_duration_s": 14.08
+    }
+  ],
+  "scene_reference": "references/window_garden_anchor.png"
+}

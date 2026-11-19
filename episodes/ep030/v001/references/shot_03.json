@@ -1,0 +1,13 @@
+{
+  "shot_id": 3,
+  "image": "images/shot_03.png",
+  "sha256": "0cb17fb4b9a594ea55cc7ad74941b865c251587cda3dffeacc361a35013b4e45",
+  "source": "OpenAI image_gen",
+  "generated_on": null,
+  "prompt_file": "prompts/shot_03.json",
+  "prompt_reference": null,
+  "continuity_refs": [
+    "pipi"
+  ],
+  "review_status": "reviewed_in_full_contact_sheet"
+}

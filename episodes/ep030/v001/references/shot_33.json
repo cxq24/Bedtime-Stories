@@ -1,0 +1,14 @@
+{
+  "shot_id": 33,
+  "image": "images/shot_33.png",
+  "sha256": "ed3087681903f350dce6543b8e917a9cdb940991331cef3a159ea0b6ba9aa0bb",
+  "source": "OpenAI image_gen",
+  "generated_on": null,
+  "prompt_file": "prompts/shot_33.json",
+  "prompt_reference": null,
+  "continuity_refs": [
+    "pipi",
+    "wood_window"
+  ],
+  "review_status": "reviewed_in_full_contact_sheet"
+}

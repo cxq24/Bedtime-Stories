@@ -1,0 +1,233 @@
+{
+  "text": "就在皮皮看的时候，一颗攒够了力气的小雨珠落了下来，“啪嗒”一声，正好敲在窗外花盆的陶土边沿上，发出一声清脆又短促的小响声。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "382c4e05431cb495d54153180bc1b181300f70c5e3dd40e6b36090c61d156dee",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2692500,
+      "text": "就"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3961660,
+      "duration": 2307500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6653750,
+      "duration": 4615410,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11461660,
+      "duration": 3269160,
+      "text": "看"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14730830,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16077080,
+      "duration": 7500000,
+      "text": "时候"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27615410,
+      "duration": 2307500,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29922910,
+      "duration": 3077080,
+      "text": "颗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33384580,
+      "duration": 5961660,
+      "text": "攒够"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39346250,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40884580,
+      "duration": 5000000,
+      "text": "力气"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45884580,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47422910,
+      "duration": 9422910,
+      "text": "小雨珠"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57230830,
+      "duration": 2692080,
+      "text": "落"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59922910,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61461660,
+      "duration": 6730830,
+      "text": "下来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 71653750,
+      "duration": 6153750,
+      "text": "啪嗒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78000000,
+      "duration": 2115410,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 80115410,
+      "duration": 4230830,
+      "text": "声"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 88077080,
+      "duration": 6730830,
+      "text": "正好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 95000000,
+      "duration": 3269160,
+      "text": "敲"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 98269160,
+      "duration": 2884580,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 101538330,
+      "duration": 4807500,
+      "text": "窗外"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 106538330,
+      "duration": 5577080,
+      "text": "花盆"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 112115410,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 113846250,
+      "duration": 5192500,
+      "text": "陶土"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 119230830,
+      "duration": 6153750,
+      "text": "边沿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 125384580,
+      "duration": 4038330,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 134422910,
+      "duration": 4422910,
+      "text": "发出"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 139038330,
+      "duration": 2115410,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 141153750,
+      "duration": 4230830,
+      "text": "声"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 145769160,
+      "duration": 7115410,
+      "text": "清脆"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 153269160,
+      "duration": 2307500,
+      "text": "又"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 155769160,
+      "duration": 6346250,
+      "text": "短促"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 162115410,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 163461660,
+      "duration": 2884580,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 166346250,
+      "duration": 7500000,
+      "text": "响声"
+    }
+  ]
+}

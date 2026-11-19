@@ -1,0 +1,173 @@
+{
+  "text": "但今天，皮皮仔细观察了一下，发现是花盆里的一片大叶子歪向了盆沿，接住了屋檐落下的水滴才发出响声的。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "0ac5cbf4bcfa1b598ef941c1198742d0eaf565b4f907cbdda285aaeaf8548eb1",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2884580,
+      "text": "但"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4346250,
+      "duration": 8077080,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17230830,
+      "duration": 8076660,
+      "text": "皮皮仔"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25307500,
+      "duration": 2884580,
+      "text": "细"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28384580,
+      "duration": 6538330,
+      "text": "观察"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34922910,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36269160,
+      "duration": 5961660,
+      "text": "一下"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47807500,
+      "duration": 8461660,
+      "text": "发现"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57615410,
+      "duration": 2307500,
+      "text": "是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60115410,
+      "duration": 5961660,
+      "text": "花盆"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 66077080,
+      "duration": 1730410,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 67807500,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 69153750,
+      "duration": 5000000,
+      "text": "一片"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 74538330,
+      "duration": 11538330,
+      "text": "大叶子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 87615410,
+      "duration": 6153750,
+      "text": "歪向"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 93769160,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 95115410,
+      "duration": 8269160,
+      "text": "盆沿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 107307500,
+      "duration": 5577080,
+      "text": "接住"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 112884580,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 114422910,
+      "duration": 5577080,
+      "text": "屋檐"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 120384580,
+      "duration": 4807500,
+      "text": "落下"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 125192500,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 126730830,
+      "duration": 8269160,
+      "text": "水滴"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 136538330,
+      "duration": 3077080,
+      "text": "才"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 139615410,
+      "duration": 4038330,
+      "text": "发出"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 143846250,
+      "duration": 8076660,
+      "text": "响声"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 151922910,
+      "duration": 2692500,
+      "text": "的"
+    }
+  ]
+}

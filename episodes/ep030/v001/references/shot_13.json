@@ -1,0 +1,15 @@
+{
+  "shot_id": 13,
+  "image": "images/shot_13.png",
+  "sha256": "657d7a023afc265f9fd5f2db9a73cca987fa80ff9634028a94a74308ea362a27",
+  "source": "OpenAI image_gen",
+  "generated_on": null,
+  "prompt_file": "prompts/shot_13.json",
+  "prompt_reference": null,
+  "continuity_refs": [
+    "pipi",
+    "terracotta_pot",
+    "droplet_01"
+  ],
+  "review_status": "reviewed_in_full_contact_sheet"
+}

@@ -1,0 +1,17 @@
+{
+  "shot_id": 39,
+  "image": "images/shot_39.png",
+  "sha256": "83081e41dc361b20e8e7ec984453e261a6a313b08d11bb3db1b7168a83a6298d",
+  "source": "OpenAI image_gen",
+  "generated_on": null,
+  "prompt_file": "prompts/shot_39.json",
+  "prompt_reference": null,
+  "continuity_refs": [
+    "pipi",
+    "wood_window",
+    "yellow_blanket",
+    "carrot_doll",
+    "garden_bed"
+  ],
+  "review_status": "reviewed_in_full_contact_sheet"
+}

@@ -1,0 +1,14 @@
+{
+  "shot_id": 9,
+  "image": "images/shot_09.png",
+  "sha256": "be6ed23ab547fdca97e42c42e9fd49459cd500b2c1ca2a7464fefb0cf10dfb59",
+  "source": "OpenAI image_gen",
+  "generated_on": null,
+  "prompt_file": "prompts/shot_09.json",
+  "prompt_reference": null,
+  "continuity_refs": [
+    "roof_droplets",
+    "wood_window"
+  ],
+  "review_status": "reviewed_in_full_contact_sheet"
+}

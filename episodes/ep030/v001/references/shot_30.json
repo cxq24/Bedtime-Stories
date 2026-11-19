@@ -1,0 +1,13 @@
+{
+  "shot_id": 30,
+  "image": "images/shot_30.png",
+  "sha256": "b7661e42c3eaa7a21207098c538a04d7686fa936fa38f7347a0c047892d185db",
+  "source": "OpenAI image_gen",
+  "generated_on": null,
+  "prompt_file": "prompts/shot_30.json",
+  "prompt_reference": null,
+  "continuity_refs": [
+    "roof_droplets"
+  ],
+  "review_status": "reviewed_in_full_contact_sheet"
+}

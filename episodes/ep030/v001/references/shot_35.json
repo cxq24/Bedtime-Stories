@@ -1,0 +1,15 @@
+{
+  "shot_id": 35,
+  "image": "images/shot_35.png",
+  "sha256": "1beed702e1e43e254059aab846d99e10738b8285a1404b1ec589b31f2c0985da",
+  "source": "OpenAI image_gen",
+  "generated_on": null,
+  "prompt_file": "prompts/shot_35.json",
+  "prompt_reference": null,
+  "continuity_refs": [
+    "pipi",
+    "yellow_blanket",
+    "carrot_doll"
+  ],
+  "review_status": "reviewed_in_full_contact_sheet"
+}

@@ -1,0 +1,14 @@
+{
+  "shot_id": 21,
+  "image": "images/shot_21.png",
+  "sha256": "9ba36d0ae7af72ae332a9eb8038fd8c4d277f834f083d0990fa7f3f895b9b4c8",
+  "source": "OpenAI image_gen edit",
+  "generated_on": null,
+  "prompt_file": "prompts/shot_21.json",
+  "prompt_reference": null,
+  "continuity_refs": [
+    "terracotta_pot",
+    "broad_leaf"
+  ],
+  "review_status": "reviewed_in_full_contact_sheet"
+}

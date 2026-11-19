@@ -1,0 +1,14 @@
+{
+  "shot_id": 5,
+  "image": "images/shot_05.png",
+  "sha256": "9d039f4b01ec914243634fa5287b23461a480c918ae1b93f3817873ceb06b6cd",
+  "source": "OpenAI image_gen",
+  "generated_on": null,
+  "prompt_file": "prompts/shot_05.json",
+  "prompt_reference": null,
+  "continuity_refs": [
+    "pipi",
+    "roof_droplets"
+  ],
+  "review_status": "reviewed_in_full_contact_sheet"
+}

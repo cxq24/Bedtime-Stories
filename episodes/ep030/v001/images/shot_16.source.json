@@ -1,0 +1,35 @@
+{
+  "episode": "ep030",
+  "shot_id": 16,
+  "script_version": "v5",
+  "status": "ready_for_image_generation",
+  "style": "竖屏9:16、单幅满版儿童绘本插画，手绘水彩、细纸纹、圆润简洁造型。暖琥珀灯光配静谧灰蓝夜色，米黄、柔暗橄榄绿、暖灰与低饱和赭色，柔和对比。人物与道具遵循参考图；单镜只呈现一个地点和明确可见的动作姿态。不要画文字、字幕、字母、商标、水印、拼贴边框；不要写实皮肤、3D塑料质感、闪白、荧光、惊吓表情。",
+  "aspect_ratio": "9:16",
+  "spoken_text": "发现是花盆里的一片大叶子歪向了盆沿，",
+  "visual_description": "大叶片向外倾斜并搭近陶盆边缘，叶尖接近水滴落点。",
+  "character_emotional_performance": "无角色",
+  "continuity_references": [
+    {
+      "asset_id": "terracotta_pot",
+      "appearance_anchor": "窗外固定位置的一只赭红色陶土花盆，圆口略厚、盆身朴素，无图案。"
+    },
+    {
+      "asset_id": "broad_leaf",
+      "appearance_anchor": "花盆内一株植物伸出的一片宽阔椭圆绿叶，叶脉可见，叶柄连在植株上。"
+    }
+  ],
+  "fixed_scene_reference": "../references/window_garden_anchor.png",
+  "composition_notes": "人物脸部和关键动作位于字幕安全区上方；采用单幅静态水彩绘本画面；本镜单一地点，保持窗内外方向与前镜状态连续。",
+  "negative_constraints": "画面内不生成文字、字幕、字母、商标、水印、拼贴边框；不添加剧本未出现的人物或动作；不画声波；保持角色身份但逐镜按本镜表演描述替换参考图表情；避免忧郁/困倦默认表情、3D塑料质感、荧光和夸张惊吓表演。",
+  "fixed_scene_references": [
+    "../references/window_garden_anchor.png"
+  ],
+  "image": "images/shot_16.png",
+  "source": "OpenAI image_gen",
+  "sha256": "52288b3e9907f99b66352009417e4d8c036de9a00834693f77b9b65df1767166",
+  "size": [
+    941,
+    1672
+  ],
+  "review_status": "pending_full_contact_sheet"
+}

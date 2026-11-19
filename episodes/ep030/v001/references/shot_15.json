@@ -1,0 +1,15 @@
+{
+  "shot_id": 15,
+  "image": "images/shot_15.png",
+  "sha256": "7b6f408e207c1a85301c2ea9d4c7996652bdc23e38b32c68819a337116fba8e7",
+  "source": "OpenAI image_gen",
+  "generated_on": null,
+  "prompt_file": "prompts/shot_15.json",
+  "prompt_reference": null,
+  "continuity_refs": [
+    "pipi",
+    "terracotta_pot",
+    "broad_leaf"
+  ],
+  "review_status": "reviewed_in_full_contact_sheet"
+}

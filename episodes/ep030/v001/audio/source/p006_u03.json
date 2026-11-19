@@ -1,0 +1,125 @@
+{
+  "text": "他把暖黄色的毛毯拉到肩头，让胡萝卜玩偶紧紧靠着自己温暖的小手臂。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "7acbc71e2a79ce8f825e59cf1adde7ecd1aa545f91cc2dca7627414d22cdc6f6",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2307500,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3577080,
+      "duration": 2115410,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6077080,
+      "duration": 3076660,
+      "text": "暖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9153750,
+      "duration": 6346250,
+      "text": "黄色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15500000,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17038330,
+      "duration": 7115410,
+      "text": "毛毯"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24538330,
+      "duration": 2307500,
+      "text": "拉"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26846250,
+      "duration": 2115410,
+      "text": "到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29153750,
+      "duration": 8653750,
+      "text": "肩头"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42230830,
+      "duration": 2500000,
+      "text": "让"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44922910,
+      "duration": 6730830,
+      "text": "胡萝卜"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51846250,
+      "duration": 8077080,
+      "text": "玩偶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61461660,
+      "duration": 5961660,
+      "text": "紧紧"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 67615410,
+      "duration": 5000000,
+      "text": "靠着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 72807500,
+      "duration": 4230830,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 77422910,
+      "duration": 5769160,
+      "text": "温暖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 83192500,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 84538330,
+      "duration": 3077080,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 87615410,
+      "duration": 8269160,
+      "text": "手臂"
+    }
+  ]
+}

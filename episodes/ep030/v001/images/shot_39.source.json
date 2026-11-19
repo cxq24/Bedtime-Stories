@@ -1,0 +1,47 @@
+{
+  "episode": "ep030",
+  "shot_id": 39,
+  "script_version": "v5",
+  "status": "ready_for_image_generation",
+  "style": "竖屏9:16、单幅满版儿童绘本插画，手绘水彩、细纸纹、圆润简洁造型。暖琥珀灯光配静谧灰蓝夜色，米黄、柔暗橄榄绿、暖灰与低饱和赭色，柔和对比。人物与道具遵循参考图；单镜只呈现一个地点和明确可见的动作姿态。不要画文字、字幕、字母、商标、水印、拼贴边框；不要写实皮肤、3D塑料质感、闪白、荧光、惊吓表情。",
+  "aspect_ratio": "9:16",
+  "spoken_text": "你也舒舒服服地歇着吧，晚安。",
+  "visual_description": "皮皮安睡在床上，暖黄毛毯到肩，胡萝卜玩偶靠在手臂旁；木窗关闭，窗外花园已静下来。画面安稳留白，作为结尾独立静帧。",
+  "character_emotional_performance": "皮皮平静熟睡、耳朵自然放松；不新增角色。",
+  "continuity_references": [
+    {
+      "asset_id": "pipi",
+      "appearance_anchor": "小灰兔，暖灰毛、圆脸、粉色小鼻、自然下垂长耳；本集卧室保持深蓝星星睡帽与黄色帽球、同一睡衣。"
+    },
+    {
+      "asset_id": "wood_window",
+      "appearance_anchor": "卧室一扇木框窗，玻璃清洁，窗扇可推开小缝后重新关严。"
+    },
+    {
+      "asset_id": "yellow_blanket",
+      "appearance_anchor": "一条暖黄色柔软毛毯。"
+    },
+    {
+      "asset_id": "carrot_doll",
+      "appearance_anchor": "橙色胡萝卜形玩偶，尺寸适合靠在皮皮手臂旁。"
+    },
+    {
+      "asset_id": "garden_bed",
+      "appearance_anchor": "窗外小花园的湿润深色松土、低矮绿植与静谧夜色。"
+    }
+  ],
+  "fixed_scene_reference": "../references/bedroom_layout_anchor.png",
+  "composition_notes": "人物脸部和关键动作位于字幕安全区上方；采用单幅静态水彩绘本画面；本镜单一地点，保持窗内外方向与前镜状态连续。",
+  "negative_constraints": "画面内不生成文字、字幕、字母、商标、水印、拼贴边框；不添加剧本未出现的人物或动作；不画声波；保持角色身份但逐镜按本镜表演描述替换参考图表情；避免忧郁/困倦默认表情、3D塑料质感、荧光和夸张惊吓表演。",
+  "fixed_scene_references": [
+    "../references/bedroom_layout_anchor.png"
+  ],
+  "image": "images/shot_39.png",
+  "source": "OpenAI image_gen",
+  "sha256": "83081e41dc361b20e8e7ec984453e261a6a313b08d11bb3db1b7168a83a6298d",
+  "size": [
+    941,
+    1672
+  ],
+  "review_status": "pending_full_contact_sheet"
+}

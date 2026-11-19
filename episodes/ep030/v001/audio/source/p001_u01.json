@@ -1,0 +1,119 @@
+{
+  "text": "夜色深了，傍晚那场洗刷了整座森林的秋雨，已经彻底停了下来。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "61c6baf550e3a7dbaba7f1c6c950d58684d03e8b55e064ab53a64e9ed43b7112",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5577080,
+      "text": "夜色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 3846250,
+      "text": "深"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10884580,
+      "duration": 3269160,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19730830,
+      "duration": 5000000,
+      "text": "傍晚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24922910,
+      "duration": 2500000,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27422910,
+      "duration": 5384580,
+      "text": "场"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33192500,
+      "duration": 6345830,
+      "text": "洗刷"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39538330,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41269160,
+      "duration": 3077080,
+      "text": "整"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44346250,
+      "duration": 2115410,
+      "text": "座"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46653750,
+      "duration": 5192500,
+      "text": "森林"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51846250,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53577080,
+      "duration": 8461660,
+      "text": "秋雨"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 65500000,
+      "duration": 4230830,
+      "text": "已经"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 69922910,
+      "duration": 5961660,
+      "text": "彻底"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 76077080,
+      "duration": 3461250,
+      "text": "停"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 79538330,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 81077080,
+      "duration": 6730830,
+      "text": "下来"
+    }
+  ]
+}

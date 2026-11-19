@@ -1,0 +1,15 @@
+{
+  "shot_id": 1,
+  "image": "images/shot_01.png",
+  "sha256": "6f633aae583a19a3b76687f830c37115e2d6e583aabce09b0544090a2464828f",
+  "source": "OpenAI image_gen",
+  "generated_on": "2026-11-18",
+  "prompt_file": "prompts/shot_01.json",
+  "prompt_reference": "references/window_garden_anchor.png",
+  "continuity_refs": [
+    "roof_droplets",
+    "garden_bed",
+    "wood_window"
+  ],
+  "review_status": "reviewed_in_full_contact_sheet"
+}

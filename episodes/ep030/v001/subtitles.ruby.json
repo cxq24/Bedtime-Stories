@@ -1,0 +1,7303 @@
+[
+  {
+    "cue_id": 1,
+    "unit_id": "p000_u01",
+    "paragraph_id": "p000",
+    "text": "小朋友们，",
+    "tokens": [
+      {
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "review": "context_checked",
+        "cell_center_x": 353.7,
+        "cell_width_px": 109.75
+      },
+      {
+        "hanzi": "朋",
+        "pinyin": "péng",
+        "review": "context_checked",
+        "cell_center_x": 474.46,
+        "cell_width_px": 131.78
+      },
+      {
+        "hanzi": "友",
+        "pinyin": "you",
+        "review": "context_checked",
+        "cell_center_x": 589.95,
+        "cell_width_px": 99.2
+      },
+      {
+        "hanzi": "们",
+        "pinyin": "men",
+        "review": "context_checked",
+        "cell_center_x": 698.37,
+        "cell_width_px": 117.62
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 769.18,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 1.0,
+    "end_s": 2.32,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 482.359375,
+    "rows": 1
+  },
+  {
+    "cue_id": 2,
+    "unit_id": "p000_u01",
+    "paragraph_id": "p000",
+    "text": "准备好听故事了吗？",
+    "tokens": [
+      {
+        "hanzi": "准",
+        "pinyin": "zhǔn",
+        "review": "context_checked",
+        "cell_center_x": 184.73,
+        "cell_width_px": 127.58
+      },
+      {
+        "hanzi": "备",
+        "pinyin": "bèi",
+        "review": "context_checked",
+        "cell_center_x": 296.52,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "review": "context_checked",
+        "cell_center_x": 395.34,
+        "cell_width_px": 101.64
+      },
+      {
+        "hanzi": "听",
+        "pinyin": "tīng",
+        "review": "context_checked",
+        "cell_center_x": 498.61,
+        "cell_width_px": 104.91
+      },
+      {
+        "hanzi": "故",
+        "pinyin": "gù",
+        "review": "context_checked",
+        "cell_center_x": 599.06,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "事",
+        "pinyin": "shì",
+        "review": "context_checked",
+        "cell_center_x": 695.06,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "了",
+        "pinyin": "le",
+        "review": "context_checked",
+        "cell_center_x": 791.06,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "review": "context_checked",
+        "cell_center_x": 887.06,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "？",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 947.06,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 2.6,
+    "end_s": 4.76,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 838.125,
+    "rows": 1
+  },
+  {
+    "cue_id": 3,
+    "unit_id": "p000_u02",
+    "paragraph_id": "p000",
+    "text": "今天的故事叫《",
+    "tokens": [
+      {
+        "hanzi": "今",
+        "pinyin": "jīn",
+        "review": "context_checked",
+        "cell_center_x": 284.47,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "review": "context_checked",
+        "cell_center_x": 383.62,
+        "cell_width_px": 102.31
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 482.78,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "故",
+        "pinyin": "gù",
+        "review": "context_checked",
+        "cell_center_x": 578.78,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "事",
+        "pinyin": "shì",
+        "review": "context_checked",
+        "cell_center_x": 674.78,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "review": "context_checked",
+        "cell_center_x": 771.16,
+        "cell_width_px": 96.75
+      },
+      {
+        "hanzi": "《",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 831.53,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 5.56,
+    "end_s": 7.32,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 607.0625,
+    "rows": 1
+  },
+  {
+    "cue_id": 4,
+    "unit_id": "p000_u02",
+    "paragraph_id": "p000",
+    "text": "雨珠回到花园》。",
+    "tokens": [
+      {
+        "hanzi": "雨",
+        "pinyin": "yǔ",
+        "review": "context_checked",
+        "cell_center_x": 253.8,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "珠",
+        "pinyin": "zhū",
+        "review": "context_checked",
+        "cell_center_x": 350.75,
+        "cell_width_px": 97.91
+      },
+      {
+        "hanzi": "回",
+        "pinyin": "huí",
+        "review": "context_checked",
+        "cell_center_x": 447.7,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "到",
+        "pinyin": "dào",
+        "review": "context_checked",
+        "cell_center_x": 546.45,
+        "cell_width_px": 101.48
+      },
+      {
+        "hanzi": "花",
+        "pinyin": "huā",
+        "review": "context_checked",
+        "cell_center_x": 648.32,
+        "cell_width_px": 102.27
+      },
+      {
+        "hanzi": "园",
+        "pinyin": "yuán",
+        "review": "context_checked",
+        "cell_center_x": 762.83,
+        "cell_width_px": 126.75
+      },
+      {
+        "hanzi": "》",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 838.2,
+        "cell_width_px": 24
+      },
+      {
+        "hanzi": "。",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 862.2,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 7.4,
+    "end_s": 9.44,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 668.40625,
+    "rows": 1
+  },
+  {
+    "cue_id": 5,
+    "unit_id": "p000_u03",
+    "paragraph_id": "p000",
+    "text": "雨停以后，",
+    "tokens": [
+      {
+        "hanzi": "雨",
+        "pinyin": "yǔ",
+        "review": "context_checked",
+        "cell_center_x": 375.35,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "停",
+        "pinyin": "tíng",
+        "review": "context_checked",
+        "cell_center_x": 475.8,
+        "cell_width_px": 104.91
+      },
+      {
+        "hanzi": "以",
+        "pinyin": "yǐ",
+        "review": "context_checked",
+        "cell_center_x": 576.26,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "review": "context_checked",
+        "cell_center_x": 676.45,
+        "cell_width_px": 104.39
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 740.65,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 10.28,
+    "end_s": 11.56,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 425.296875,
+    "rows": 1
+  },
+  {
+    "cue_id": 6,
+    "unit_id": "p000_u03",
+    "paragraph_id": "p000",
+    "text": "花园里的最后一",
+    "tokens": [
+      {
+        "hanzi": "花",
+        "pinyin": "huā",
+        "review": "context_checked",
+        "cell_center_x": 232.43,
+        "cell_width_px": 102.27
+      },
+      {
+        "hanzi": "园",
+        "pinyin": "yuán",
+        "review": "context_checked",
+        "cell_center_x": 346.94,
+        "cell_width_px": 126.75
+      },
+      {
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "review": "context_checked",
+        "cell_center_x": 458.31,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 554.31,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "最",
+        "pinyin": "zuì",
+        "review": "context_checked",
+        "cell_center_x": 650.31,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "review": "context_checked",
+        "cell_center_x": 750.51,
+        "cell_width_px": 104.39
+      },
+      {
+        "hanzi": "一",
+        "pinyin": "yì",
+        "review": "context_checked",
+        "cell_center_x": 850.7,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 11.92,
+    "end_s": 13.52,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 717.40625,
+    "rows": 1
+  },
+  {
+    "cue_id": 7,
+    "unit_id": "p000_u03",
+    "paragraph_id": "p000",
+    "text": "滴雨珠会落到",
+    "tokens": [
+      {
+        "hanzi": "滴",
+        "pinyin": "dī",
+        "review": "context_checked",
+        "cell_center_x": 296.3,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "雨",
+        "pinyin": "yǔ",
+        "review": "context_checked",
+        "cell_center_x": 392.3,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "珠",
+        "pinyin": "zhū",
+        "review": "context_checked",
+        "cell_center_x": 489.26,
+        "cell_width_px": 97.91
+      },
+      {
+        "hanzi": "会",
+        "pinyin": "huì",
+        "review": "context_checked",
+        "cell_center_x": 586.21,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "落",
+        "pinyin": "luò",
+        "review": "context_checked",
+        "cell_center_x": 682.21,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "到",
+        "pinyin": "dào",
+        "review": "context_checked",
+        "cell_center_x": 780.95,
+        "cell_width_px": 101.48
+      }
+    ],
+    "start_s": 13.52,
+    "end_s": 15.44,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 583.390625,
+    "rows": 1
+  },
+  {
+    "cue_id": 8,
+    "unit_id": "p000_u03",
+    "paragraph_id": "p000",
+    "text": "哪里呢？",
+    "tokens": [
+      {
+        "hanzi": "哪",
+        "pinyin": "nǎ",
+        "review": "context_checked",
+        "cell_center_x": 432.0,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "review": "context_checked",
+        "cell_center_x": 528.0,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "review": "context_checked",
+        "cell_center_x": 624.0,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "？",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 684.0,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 15.44,
+    "end_s": 16.44,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 312,
+    "rows": 1
+  },
+  {
+    "cue_id": 9,
+    "unit_id": "p001_u01",
+    "paragraph_id": "p001",
+    "text": "夜色深了，",
+    "tokens": [
+      {
+        "hanzi": "夜",
+        "pinyin": "yè",
+        "review": "context_checked",
+        "cell_center_x": 369.3,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "色",
+        "pinyin": "sè",
+        "review": "context_checked",
+        "cell_center_x": 465.3,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "深",
+        "pinyin": "shēn",
+        "review": "context_checked",
+        "cell_center_x": 576.0,
+        "cell_width_px": 125.41
+      },
+      {
+        "hanzi": "了",
+        "pinyin": "le",
+        "review": "context_checked",
+        "cell_center_x": 686.7,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 746.7,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 17.44,
+    "end_s": 18.8,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 437.40625,
+    "rows": 1
+  },
+  {
+    "cue_id": 10,
+    "unit_id": "p001_u01",
+    "paragraph_id": "p001",
+    "text": "傍晚那场洗刷了",
+    "tokens": [
+      {
+        "hanzi": "傍",
+        "pinyin": "bàng",
+        "review": "context_checked",
+        "cell_center_x": 200.8,
+        "cell_width_px": 131.62
+      },
+      {
+        "hanzi": "晚",
+        "pinyin": "wǎn",
+        "review": "context_checked",
+        "cell_center_x": 321.77,
+        "cell_width_px": 110.33
+      },
+      {
+        "hanzi": "那",
+        "pinyin": "nà",
+        "review": "context_checked",
+        "cell_center_x": 424.94,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "场",
+        "pinyin": "chǎng",
+        "review": "context_checked",
+        "cell_center_x": 550.35,
+        "cell_width_px": 154.83
+      },
+      {
+        "hanzi": "洗",
+        "pinyin": "xǐ",
+        "review": "context_checked",
+        "cell_center_x": 675.77,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "刷",
+        "pinyin": "shuā",
+        "review": "context_checked",
+        "cell_center_x": 786.39,
+        "cell_width_px": 125.25
+      },
+      {
+        "hanzi": "了",
+        "pinyin": "le",
+        "review": "context_checked",
+        "cell_center_x": 897.02,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 19.28,
+    "end_s": 21.44,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 810.03125,
+    "rows": 1
+  },
+  {
+    "cue_id": 11,
+    "unit_id": "p001_u01",
+    "paragraph_id": "p001",
+    "text": "整座森林的秋雨，",
+    "tokens": [
+      {
+        "hanzi": "整",
+        "pinyin": "zhěng",
+        "review": "context_checked",
+        "cell_center_x": 239.36,
+        "cell_width_px": 154.5
+      },
+      {
+        "hanzi": "座",
+        "pinyin": "zuò",
+        "review": "context_checked",
+        "cell_center_x": 365.25,
+        "cell_width_px": 97.28
+      },
+      {
+        "hanzi": "森",
+        "pinyin": "sēn",
+        "review": "context_checked",
+        "cell_center_x": 461.89,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "林",
+        "pinyin": "lín",
+        "review": "context_checked",
+        "cell_center_x": 557.89,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 653.89,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "秋",
+        "pinyin": "qiū",
+        "review": "context_checked",
+        "cell_center_x": 749.89,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "雨",
+        "pinyin": "yǔ",
+        "review": "context_checked",
+        "cell_center_x": 845.89,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 905.89,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 21.44,
+    "end_s": 23.6,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 755.78125,
+    "rows": 1
+  },
+  {
+    "cue_id": 12,
+    "unit_id": "p001_u01",
+    "paragraph_id": "p001",
+    "text": "已经彻底停了下来。",
+    "tokens": [
+      {
+        "hanzi": "已",
+        "pinyin": "yǐ",
+        "review": "context_checked",
+        "cell_center_x": 185.56,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "经",
+        "pinyin": "jīng",
+        "review": "context_checked",
+        "cell_center_x": 283.55,
+        "cell_width_px": 99.97
+      },
+      {
+        "hanzi": "彻",
+        "pinyin": "chè",
+        "review": "context_checked",
+        "cell_center_x": 381.53,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "底",
+        "pinyin": "dǐ",
+        "review": "context_checked",
+        "cell_center_x": 477.53,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "停",
+        "pinyin": "tíng",
+        "review": "context_checked",
+        "cell_center_x": 577.98,
+        "cell_width_px": 104.91
+      },
+      {
+        "hanzi": "了",
+        "pinyin": "le",
+        "review": "context_checked",
+        "cell_center_x": 678.44,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "下",
+        "pinyin": "xià",
+        "review": "context_checked",
+        "cell_center_x": 774.44,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "来",
+        "pinyin": "lái",
+        "review": "context_checked",
+        "cell_center_x": 870.44,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "。",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 930.44,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 23.84,
+    "end_s": 26.16,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 804.875,
+    "rows": 1
+  },
+  {
+    "cue_id": 13,
+    "unit_id": "p001_u02",
+    "paragraph_id": "p001",
+    "text": "皮皮洗漱完毕，",
+    "tokens": [
+      {
+        "hanzi": "皮",
+        "pinyin": "pí",
+        "review": "context_checked",
+        "cell_center_x": 279.67,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "皮",
+        "pinyin": "pí",
+        "review": "context_checked",
+        "cell_center_x": 375.67,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "洗",
+        "pinyin": "xǐ",
+        "review": "context_checked",
+        "cell_center_x": 471.67,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "漱",
+        "pinyin": "shù",
+        "review": "context_checked",
+        "cell_center_x": 568.84,
+        "cell_width_px": 98.33
+      },
+      {
+        "hanzi": "完",
+        "pinyin": "wán",
+        "review": "context_checked",
+        "cell_center_x": 673.16,
+        "cell_width_px": 110.33
+      },
+      {
+        "hanzi": "毕",
+        "pinyin": "bì",
+        "review": "context_checked",
+        "cell_center_x": 776.33,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 836.33,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 26.96,
+    "end_s": 28.92,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 616.65625,
+    "rows": 1
+  },
+  {
+    "cue_id": 14,
+    "unit_id": "p001_u02",
+    "paragraph_id": "p001",
+    "text": "坐在床边整理",
+    "tokens": [
+      {
+        "hanzi": "坐",
+        "pinyin": "zuò",
+        "review": "context_checked",
+        "cell_center_x": 217.25,
+        "cell_width_px": 97.28
+      },
+      {
+        "hanzi": "在",
+        "pinyin": "zài",
+        "review": "context_checked",
+        "cell_center_x": 313.89,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "床",
+        "pinyin": "chuáng",
+        "review": "context_checked",
+        "cell_center_x": 454.14,
+        "cell_width_px": 184.5
+      },
+      {
+        "hanzi": "边",
+        "pinyin": "biān",
+        "review": "context_checked",
+        "cell_center_x": 603.64,
+        "cell_width_px": 114.5
+      },
+      {
+        "hanzi": "整",
+        "pinyin": "zhěng",
+        "review": "context_checked",
+        "cell_center_x": 738.14,
+        "cell_width_px": 154.5
+      },
+      {
+        "hanzi": "理",
+        "pinyin": "lǐ",
+        "review": "context_checked",
+        "cell_center_x": 863.39,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 29.2,
+    "end_s": 31.16,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 742.78125,
+    "rows": 1
+  },
+  {
+    "cue_id": 15,
+    "unit_id": "p001_u02",
+    "paragraph_id": "p001",
+    "text": "自己的睡衣。",
+    "tokens": [
+      {
+        "hanzi": "自",
+        "pinyin": "zì",
+        "review": "context_checked",
+        "cell_center_x": 328.64,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "己",
+        "pinyin": "jǐ",
+        "review": "context_checked",
+        "cell_center_x": 424.64,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 520.64,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "睡",
+        "pinyin": "shuì",
+        "review": "context_checked",
+        "cell_center_x": 624.0,
+        "cell_width_px": 110.72
+      },
+      {
+        "hanzi": "衣",
+        "pinyin": "yī",
+        "review": "context_checked",
+        "cell_center_x": 727.36,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "。",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 787.36,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 31.16,
+    "end_s": 32.6,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 518.71875,
+    "rows": 1
+  },
+  {
+    "cue_id": 16,
+    "unit_id": "p001_u03",
+    "paragraph_id": "p001",
+    "text": "屋里很安静，",
+    "tokens": [
+      {
+        "hanzi": "屋",
+        "pinyin": "wū",
+        "review": "context_checked",
+        "cell_center_x": 330.8,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "review": "context_checked",
+        "cell_center_x": 426.8,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "review": "context_checked",
+        "cell_center_x": 526.02,
+        "cell_width_px": 102.42
+      },
+      {
+        "hanzi": "安",
+        "pinyin": "ān",
+        "review": "context_checked",
+        "cell_center_x": 625.23,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "静",
+        "pinyin": "jìng",
+        "review": "context_checked",
+        "cell_center_x": 723.21,
+        "cell_width_px": 99.97
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 785.2,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 33.44,
+    "end_s": 35.04,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 514.390625,
+    "rows": 1
+  },
+  {
+    "cue_id": 17,
+    "unit_id": "p001_u03",
+    "paragraph_id": "p001",
+    "text": "可就在这时，",
+    "tokens": [
+      {
+        "hanzi": "可",
+        "pinyin": "kě",
+        "review": "context_checked",
+        "cell_center_x": 336.0,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "review": "context_checked",
+        "cell_center_x": 432.0,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "在",
+        "pinyin": "zài",
+        "review": "context_checked",
+        "cell_center_x": 528.0,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "review": "context_checked",
+        "cell_center_x": 624.0,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "时",
+        "pinyin": "shí",
+        "review": "context_checked",
+        "cell_center_x": 720.0,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 780.0,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 35.28,
+    "end_s": 36.88,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 504,
+    "rows": 1
+  },
+  {
+    "cue_id": 18,
+    "unit_id": "p001_u03",
+    "paragraph_id": "p001",
+    "text": "他竖起长长的兔",
+    "tokens": [
+      {
+        "hanzi": "他",
+        "pinyin": "tā",
+        "review": "context_checked",
+        "cell_center_x": 192.01,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "竖",
+        "pinyin": "shù",
+        "review": "context_checked",
+        "cell_center_x": 289.17,
+        "cell_width_px": 98.33
+      },
+      {
+        "hanzi": "起",
+        "pinyin": "qǐ",
+        "review": "context_checked",
+        "cell_center_x": 386.34,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "长",
+        "pinyin": "cháng",
+        "review": "context_checked",
+        "cell_center_x": 511.75,
+        "cell_width_px": 154.83
+      },
+      {
+        "hanzi": "长",
+        "pinyin": "cháng",
+        "review": "context_checked",
+        "cell_center_x": 666.58,
+        "cell_width_px": 154.83
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 791.99,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "兔",
+        "pinyin": "tù",
+        "review": "context_checked",
+        "cell_center_x": 887.99,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 37.2,
+    "end_s": 39.12,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 791.984375,
+    "rows": 1
+  },
+  {
+    "cue_id": 19,
+    "unit_id": "p001_u03",
+    "paragraph_id": "p001",
+    "text": "耳朵，听见窗外",
+    "tokens": [
+      {
+        "hanzi": "耳",
+        "pinyin": "ěr",
+        "review": "context_checked",
+        "cell_center_x": 234.49,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "朵",
+        "pinyin": "duǒ",
+        "review": "context_checked",
+        "cell_center_x": 334.61,
+        "cell_width_px": 104.23
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 398.73,
+        "cell_width_px": 24
+      },
+      {
+        "hanzi": "听",
+        "pinyin": "tīng",
+        "review": "context_checked",
+        "cell_center_x": 463.18,
+        "cell_width_px": 104.91
+      },
+      {
+        "hanzi": "见",
+        "pinyin": "jiàn",
+        "review": "context_checked",
+        "cell_center_x": 564.32,
+        "cell_width_px": 97.38
+      },
+      {
+        "hanzi": "窗",
+        "pinyin": "chuāng",
+        "review": "context_checked",
+        "cell_center_x": 705.26,
+        "cell_width_px": 184.5
+      },
+      {
+        "hanzi": "外",
+        "pinyin": "wài",
+        "review": "context_checked",
+        "cell_center_x": 845.51,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 39.12,
+    "end_s": 41.52,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 707.015625,
+    "rows": 1
+  },
+  {
+    "cue_id": 20,
+    "unit_id": "p001_u03",
+    "paragraph_id": "p001",
+    "text": "传来一声很轻的：“",
+    "tokens": [
+      {
+        "hanzi": "传",
+        "pinyin": "zhuàn",
+        "review": "context_checked",
+        "cell_center_x": 184.78,
+        "cell_width_px": 154.5
+      },
+      {
+        "hanzi": "来",
+        "pinyin": "lái",
+        "review": "context_checked",
+        "cell_center_x": 310.03,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "一",
+        "pinyin": "yì",
+        "review": "context_checked",
+        "cell_center_x": 406.03,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "声",
+        "pinyin": "shēng",
+        "review": "context_checked",
+        "cell_center_x": 531.49,
+        "cell_width_px": 154.92
+      },
+      {
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "review": "context_checked",
+        "cell_center_x": 660.16,
+        "cell_width_px": 102.42
+      },
+      {
+        "hanzi": "轻",
+        "pinyin": "qīng",
+        "review": "context_checked",
+        "cell_center_x": 769.92,
+        "cell_width_px": 117.09
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 876.47,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "：",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 936.47,
+        "cell_width_px": 24
+      },
+      {
+        "hanzi": "“",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 960.47,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 41.52,
+    "end_s": 43.52,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 864.9375,
+    "rows": 1
+  },
+  {
+    "cue_id": 21,
+    "unit_id": "p001_u03",
+    "paragraph_id": "p001",
+    "text": "滴答。”",
+    "tokens": [
+      {
+        "hanzi": "滴",
+        "pinyin": "dī",
+        "review": "context_checked",
+        "cell_center_x": 468.0,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "答",
+        "pinyin": "dā",
+        "review": "context_checked",
+        "cell_center_x": 564.0,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "。",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 624.0,
+        "cell_width_px": 24
+      },
+      {
+        "hanzi": "”",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 648.0,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 43.88,
+    "end_s": 44.68,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 240,
+    "rows": 1
+  },
+  {
+    "cue_id": 22,
+    "unit_id": "p002_u01",
+    "paragraph_id": "p002",
+    "text": "过了一小会儿，",
+    "tokens": [
+      {
+        "hanzi": "过",
+        "pinyin": "guò",
+        "review": "context_checked",
+        "cell_center_x": 281.12,
+        "cell_width_px": 104.23
+      },
+      {
+        "hanzi": "了",
+        "pinyin": "le",
+        "review": "context_checked",
+        "cell_center_x": 381.24,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "一",
+        "pinyin": "yì",
+        "review": "context_checked",
+        "cell_center_x": 477.24,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "review": "context_checked",
+        "cell_center_x": 580.12,
+        "cell_width_px": 109.75
+      },
+      {
+        "hanzi": "会",
+        "pinyin": "huì",
+        "review": "context_checked",
+        "cell_center_x": 682.99,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "儿",
+        "pinyin": "er",
+        "review": "context_checked",
+        "cell_center_x": 778.99,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 838.99,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 45.52,
+    "end_s": 46.96,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 621.984375,
+    "rows": 1
+  },
+  {
+    "cue_id": 23,
+    "unit_id": "p002_u01",
+    "paragraph_id": "p002",
+    "text": "又是轻轻的一声：“",
+    "tokens": [
+      {
+        "hanzi": "又",
+        "pinyin": "yòu",
+        "review": "context_checked",
+        "cell_center_x": 177.45,
+        "cell_width_px": 99.2
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì",
+        "review": "context_checked",
+        "cell_center_x": 275.05,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "轻",
+        "pinyin": "qīng",
+        "review": "context_checked",
+        "cell_center_x": 381.59,
+        "cell_width_px": 117.09
+      },
+      {
+        "hanzi": "轻",
+        "pinyin": "qīng",
+        "review": "context_checked",
+        "cell_center_x": 498.69,
+        "cell_width_px": 117.09
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 605.23,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "一",
+        "pinyin": "yì",
+        "review": "context_checked",
+        "cell_center_x": 701.23,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "声",
+        "pinyin": "shēng",
+        "review": "context_checked",
+        "cell_center_x": 826.7,
+        "cell_width_px": 154.92
+      },
+      {
+        "hanzi": "：",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 916.16,
+        "cell_width_px": 24
+      },
+      {
+        "hanzi": "“",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 940.16,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 47.32,
+    "end_s": 49.24,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 824.3125,
+    "rows": 1
+  },
+  {
+    "cue_id": 24,
+    "unit_id": "p002_u01",
+    "paragraph_id": "p002",
+    "text": "滴答。”",
+    "tokens": [
+      {
+        "hanzi": "滴",
+        "pinyin": "dī",
+        "review": "context_checked",
+        "cell_center_x": 468.0,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "答",
+        "pinyin": "dā",
+        "review": "context_checked",
+        "cell_center_x": 564.0,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "。",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 624.0,
+        "cell_width_px": 24
+      },
+      {
+        "hanzi": "”",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 648.0,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 49.56,
+    "end_s": 50.36,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 240,
+    "rows": 1
+  },
+  {
+    "cue_id": 25,
+    "unit_id": "p002_u02",
+    "paragraph_id": "p002",
+    "text": "皮皮好奇地走到",
+    "tokens": [
+      {
+        "hanzi": "皮",
+        "pinyin": "pí",
+        "review": "context_checked",
+        "cell_center_x": 245.8,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "皮",
+        "pinyin": "pí",
+        "review": "context_checked",
+        "cell_center_x": 341.8,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "好",
+        "pinyin": "hào",
+        "review": "context_checked",
+        "cell_center_x": 440.62,
+        "cell_width_px": 101.64
+      },
+      {
+        "hanzi": "奇",
+        "pinyin": "qí",
+        "review": "context_checked",
+        "cell_center_x": 539.44,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "地",
+        "pinyin": "dì",
+        "review": "context_checked",
+        "cell_center_x": 635.44,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "走",
+        "pinyin": "zǒu",
+        "review": "context_checked",
+        "cell_center_x": 732.08,
+        "cell_width_px": 97.28
+      },
+      {
+        "hanzi": "到",
+        "pinyin": "dào",
+        "review": "context_checked",
+        "cell_center_x": 831.46,
+        "cell_width_px": 101.48
+      }
+    ],
+    "start_s": 51.2,
+    "end_s": 53.04,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 684.40625,
+    "rows": 1
+  },
+  {
+    "cue_id": 26,
+    "unit_id": "p002_u02",
+    "paragraph_id": "p002",
+    "text": "窗边，隔着擦得",
+    "tokens": [
+      {
+        "hanzi": "窗",
+        "pinyin": "chuāng",
+        "review": "context_checked",
+        "cell_center_x": 278.75,
+        "cell_width_px": 184.5
+      },
+      {
+        "hanzi": "边",
+        "pinyin": "biān",
+        "review": "context_checked",
+        "cell_center_x": 428.25,
+        "cell_width_px": 114.5
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 497.5,
+        "cell_width_px": 24
+      },
+      {
+        "hanzi": "隔",
+        "pinyin": "gé",
+        "review": "context_checked",
+        "cell_center_x": 557.5,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "着",
+        "pinyin": "zhe",
+        "review": "context_checked",
+        "cell_center_x": 653.5,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "擦",
+        "pinyin": "cā",
+        "review": "context_checked",
+        "cell_center_x": 749.5,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "得",
+        "pinyin": "dé",
+        "review": "context_checked",
+        "cell_center_x": 845.5,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 53.04,
+    "end_s": 55.56,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 707.0,
+    "rows": 1
+  },
+  {
+    "cue_id": 27,
+    "unit_id": "p002_u02",
+    "paragraph_id": "p002",
+    "text": "干干净净的玻璃",
+    "tokens": [
+      {
+        "hanzi": "干",
+        "pinyin": "gān",
+        "review": "context_checked",
+        "cell_center_x": 244.98,
+        "cell_width_px": 102.11
+      },
+      {
+        "hanzi": "干",
+        "pinyin": "gān",
+        "review": "context_checked",
+        "cell_center_x": 347.09,
+        "cell_width_px": 102.11
+      },
+      {
+        "hanzi": "净",
+        "pinyin": "jìng",
+        "review": "context_checked",
+        "cell_center_x": 448.12,
+        "cell_width_px": 99.97
+      },
+      {
+        "hanzi": "净",
+        "pinyin": "jìng",
+        "review": "context_checked",
+        "cell_center_x": 548.09,
+        "cell_width_px": 99.97
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 646.08,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "玻",
+        "pinyin": "bō",
+        "review": "context_checked",
+        "cell_center_x": 742.08,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "璃",
+        "pinyin": "lí",
+        "review": "context_checked",
+        "cell_center_x": 838.08,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 55.56,
+    "end_s": 57.4,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 692.15625,
+    "rows": 1
+  },
+  {
+    "cue_id": 28,
+    "unit_id": "p002_u02",
+    "paragraph_id": "p002",
+    "text": "往上看。",
+    "tokens": [
+      {
+        "hanzi": "往",
+        "pinyin": "wǎng",
+        "review": "context_checked",
+        "cell_center_x": 401.51,
+        "cell_width_px": 139.84
+      },
+      {
+        "hanzi": "上",
+        "pinyin": "shàng",
+        "review": "context_checked",
+        "cell_center_x": 548.81,
+        "cell_width_px": 154.77
+      },
+      {
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "review": "context_checked",
+        "cell_center_x": 675.3,
+        "cell_width_px": 98.22
+      },
+      {
+        "hanzi": "。",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 736.41,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 57.4,
+    "end_s": 58.6,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 416.828125,
+    "rows": 1
+  },
+  {
+    "cue_id": 29,
+    "unit_id": "p002_u03",
+    "paragraph_id": "p002",
+    "text": "原来，虽然天上的",
+    "tokens": [
+      {
+        "hanzi": "原",
+        "pinyin": "yuán",
+        "review": "context_checked",
+        "cell_center_x": 207.46,
+        "cell_width_px": 126.75
+      },
+      {
+        "hanzi": "来",
+        "pinyin": "lái",
+        "review": "context_checked",
+        "cell_center_x": 318.84,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 378.84,
+        "cell_width_px": 24
+      },
+      {
+        "hanzi": "虽",
+        "pinyin": "suī",
+        "review": "context_checked",
+        "cell_center_x": 438.84,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "然",
+        "pinyin": "rán",
+        "review": "context_checked",
+        "cell_center_x": 534.84,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "review": "context_checked",
+        "cell_center_x": 633.99,
+        "cell_width_px": 102.31
+      },
+      {
+        "hanzi": "上",
+        "pinyin": "shàng",
+        "review": "context_checked",
+        "cell_center_x": 762.53,
+        "cell_width_px": 154.77
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 887.91,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 59.4,
+    "end_s": 61.8,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 791.828125,
+    "rows": 1
+  },
+  {
+    "cue_id": 30,
+    "unit_id": "p002_u03",
+    "paragraph_id": "p002",
+    "text": "雨停了，",
+    "tokens": [
+      {
+        "hanzi": "雨",
+        "pinyin": "yǔ",
+        "review": "context_checked",
+        "cell_center_x": 427.55,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "停",
+        "pinyin": "tíng",
+        "review": "context_checked",
+        "cell_center_x": 528.0,
+        "cell_width_px": 104.91
+      },
+      {
+        "hanzi": "了",
+        "pinyin": "le",
+        "review": "context_checked",
+        "cell_center_x": 628.45,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 688.45,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 61.8,
+    "end_s": 62.84,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 320.90625,
+    "rows": 1
+  },
+  {
+    "cue_id": 31,
+    "unit_id": "p002_u03",
+    "paragraph_id": "p002",
+    "text": "但小木屋倾斜的",
+    "tokens": [
+      {
+        "hanzi": "但",
+        "pinyin": "dàn",
+        "review": "context_checked",
+        "cell_center_x": 234.58,
+        "cell_width_px": 102.11
+      },
+      {
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "review": "context_checked",
+        "cell_center_x": 340.51,
+        "cell_width_px": 109.75
+      },
+      {
+        "hanzi": "木",
+        "pinyin": "mù",
+        "review": "context_checked",
+        "cell_center_x": 443.38,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "屋",
+        "pinyin": "wū",
+        "review": "context_checked",
+        "cell_center_x": 539.38,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "倾",
+        "pinyin": "qīng",
+        "review": "context_checked",
+        "cell_center_x": 645.93,
+        "cell_width_px": 117.09
+      },
+      {
+        "hanzi": "斜",
+        "pinyin": "xié",
+        "review": "context_checked",
+        "cell_center_x": 752.48,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 848.48,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 63.24,
+    "end_s": 65.12,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 712.953125,
+    "rows": 1
+  },
+  {
+    "cue_id": 32,
+    "unit_id": "p002_u03",
+    "paragraph_id": "p002",
+    "text": "木头屋檐边上，",
+    "tokens": [
+      {
+        "hanzi": "木",
+        "pinyin": "mù",
+        "review": "context_checked",
+        "cell_center_x": 248.83,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "头",
+        "pinyin": "tou",
+        "review": "context_checked",
+        "cell_center_x": 344.83,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "屋",
+        "pinyin": "wū",
+        "review": "context_checked",
+        "cell_center_x": 440.83,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "檐",
+        "pinyin": "yán",
+        "review": "context_checked",
+        "cell_center_x": 537.37,
+        "cell_width_px": 97.08
+      },
+      {
+        "hanzi": "边",
+        "pinyin": "biān",
+        "review": "context_checked",
+        "cell_center_x": 643.16,
+        "cell_width_px": 114.5
+      },
+      {
+        "hanzi": "上",
+        "pinyin": "shàng",
+        "review": "context_checked",
+        "cell_center_x": 777.79,
+        "cell_width_px": 154.77
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 867.17,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 65.12,
+    "end_s": 67.08,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 678.34375,
+    "rows": 1
+  },
+  {
+    "cue_id": 33,
+    "unit_id": "p002_u03",
+    "paragraph_id": "p002",
+    "text": "还挂着一排亮",
+    "tokens": [
+      {
+        "hanzi": "还",
+        "pinyin": "hái",
+        "review": "context_checked",
+        "cell_center_x": 281.5,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "挂",
+        "pinyin": "guà",
+        "review": "context_checked",
+        "cell_center_x": 380.55,
+        "cell_width_px": 102.11
+      },
+      {
+        "hanzi": "着",
+        "pinyin": "zhe",
+        "review": "context_checked",
+        "cell_center_x": 479.61,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "一",
+        "pinyin": "yì",
+        "review": "context_checked",
+        "cell_center_x": 575.61,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "排",
+        "pinyin": "pái",
+        "review": "context_checked",
+        "cell_center_x": 671.61,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "亮",
+        "pinyin": "liàng",
+        "review": "context_checked",
+        "cell_center_x": 783.05,
+        "cell_width_px": 126.89
+      }
+    ],
+    "start_s": 67.4,
+    "end_s": 69.12,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 613.0,
+    "rows": 1
+  },
+  {
+    "cue_id": 34,
+    "unit_id": "p002_u03",
+    "paragraph_id": "p002",
+    "text": "晶晶的小雨珠呢。",
+    "tokens": [
+      {
+        "hanzi": "晶",
+        "pinyin": "jīng",
+        "review": "context_checked",
+        "cell_center_x": 230.19,
+        "cell_width_px": 99.97
+      },
+      {
+        "hanzi": "晶",
+        "pinyin": "jīng",
+        "review": "context_checked",
+        "cell_center_x": 330.16,
+        "cell_width_px": 99.97
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 428.14,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "review": "context_checked",
+        "cell_center_x": 531.02,
+        "cell_width_px": 109.75
+      },
+      {
+        "hanzi": "雨",
+        "pinyin": "yǔ",
+        "review": "context_checked",
+        "cell_center_x": 633.89,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "珠",
+        "pinyin": "zhū",
+        "review": "context_checked",
+        "cell_center_x": 730.84,
+        "cell_width_px": 97.91
+      },
+      {
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "review": "context_checked",
+        "cell_center_x": 827.8,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "。",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 887.8,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 69.2,
+    "end_s": 71.32,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 719.59375,
+    "rows": 1
+  },
+  {
+    "cue_id": 35,
+    "unit_id": "p002_u04",
+    "paragraph_id": "p002",
+    "text": "它们正一颗接一",
+    "tokens": [
+      {
+        "hanzi": "它",
+        "pinyin": "tā",
+        "review": "context_checked",
+        "cell_center_x": 211.94,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "们",
+        "pinyin": "men",
+        "review": "context_checked",
+        "cell_center_x": 318.75,
+        "cell_width_px": 117.62
+      },
+      {
+        "hanzi": "正",
+        "pinyin": "zhèng",
+        "review": "context_checked",
+        "cell_center_x": 454.81,
+        "cell_width_px": 154.5
+      },
+      {
+        "hanzi": "一",
+        "pinyin": "yì",
+        "review": "context_checked",
+        "cell_center_x": 580.06,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "颗",
+        "pinyin": "kē",
+        "review": "context_checked",
+        "cell_center_x": 676.06,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "接",
+        "pinyin": "jiē",
+        "review": "context_checked",
+        "cell_center_x": 772.06,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "一",
+        "pinyin": "yì",
+        "review": "context_checked",
+        "cell_center_x": 868.06,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 72.12,
+    "end_s": 73.72,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 752.125,
+    "rows": 1
+  },
+  {
+    "cue_id": 36,
+    "unit_id": "p002_u04",
+    "paragraph_id": "p002",
+    "text": "颗，在屋檐尖上",
+    "tokens": [
+      {
+        "hanzi": "颗",
+        "pinyin": "kē",
+        "review": "context_checked",
+        "cell_center_x": 257.39,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 317.39,
+        "cell_width_px": 24
+      },
+      {
+        "hanzi": "在",
+        "pinyin": "zài",
+        "review": "context_checked",
+        "cell_center_x": 377.39,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "屋",
+        "pinyin": "wū",
+        "review": "context_checked",
+        "cell_center_x": 473.39,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "檐",
+        "pinyin": "yán",
+        "review": "context_checked",
+        "cell_center_x": 569.93,
+        "cell_width_px": 97.08
+      },
+      {
+        "hanzi": "尖",
+        "pinyin": "jiān",
+        "review": "context_checked",
+        "cell_center_x": 667.16,
+        "cell_width_px": 97.38
+      },
+      {
+        "hanzi": "上",
+        "pinyin": "shàng",
+        "review": "context_checked",
+        "cell_center_x": 793.23,
+        "cell_width_px": 154.77
+      }
+    ],
+    "start_s": 73.72,
+    "end_s": 76.48,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 661.21875,
+    "rows": 1
+  },
+  {
+    "cue_id": 37,
+    "unit_id": "p002_u04",
+    "paragraph_id": "p002",
+    "text": "慢慢变圆、变大。",
+    "tokens": [
+      {
+        "hanzi": "慢",
+        "pinyin": "màn",
+        "review": "context_checked",
+        "cell_center_x": 231.39,
+        "cell_width_px": 117.47
+      },
+      {
+        "hanzi": "慢",
+        "pinyin": "màn",
+        "review": "context_checked",
+        "cell_center_x": 348.86,
+        "cell_width_px": 117.47
+      },
+      {
+        "hanzi": "变",
+        "pinyin": "biàn",
+        "review": "context_checked",
+        "cell_center_x": 464.84,
+        "cell_width_px": 114.5
+      },
+      {
+        "hanzi": "圆",
+        "pinyin": "yuán",
+        "review": "context_checked",
+        "cell_center_x": 585.47,
+        "cell_width_px": 126.75
+      },
+      {
+        "hanzi": "、",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 660.84,
+        "cell_width_px": 24
+      },
+      {
+        "hanzi": "变",
+        "pinyin": "biàn",
+        "review": "context_checked",
+        "cell_center_x": 730.09,
+        "cell_width_px": 114.5
+      },
+      {
+        "hanzi": "大",
+        "pinyin": "dà",
+        "review": "context_checked",
+        "cell_center_x": 835.34,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "。",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 895.34,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 76.56,
+    "end_s": 79.04,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 734.6875,
+    "rows": 1
+  },
+  {
+    "cue_id": 38,
+    "unit_id": "p003_u01",
+    "paragraph_id": "p003",
+    "text": "就在皮皮看的",
+    "tokens": [
+      {
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "review": "context_checked",
+        "cell_center_x": 298.89,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "在",
+        "pinyin": "zài",
+        "review": "context_checked",
+        "cell_center_x": 394.89,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "皮",
+        "pinyin": "pí",
+        "review": "context_checked",
+        "cell_center_x": 490.89,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "皮",
+        "pinyin": "pí",
+        "review": "context_checked",
+        "cell_center_x": 586.89,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "review": "context_checked",
+        "cell_center_x": 684.0,
+        "cell_width_px": 98.22
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 781.11,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 80.08,
+    "end_s": 81.56,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 578.21875,
+    "rows": 1
+  },
+  {
+    "cue_id": 39,
+    "unit_id": "p003_u01",
+    "paragraph_id": "p003",
+    "text": "时候，一颗攒够了",
+    "tokens": [
+      {
+        "hanzi": "时",
+        "pinyin": "shí",
+        "review": "context_checked",
+        "cell_center_x": 231.69,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "候",
+        "pinyin": "hòu",
+        "review": "context_checked",
+        "cell_center_x": 331.88,
+        "cell_width_px": 104.39
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 396.08,
+        "cell_width_px": 24
+      },
+      {
+        "hanzi": "一",
+        "pinyin": "yì",
+        "review": "context_checked",
+        "cell_center_x": 456.08,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "颗",
+        "pinyin": "kē",
+        "review": "context_checked",
+        "cell_center_x": 552.08,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "攒",
+        "pinyin": "zǎn",
+        "review": "context_checked",
+        "cell_center_x": 648.08,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "够",
+        "pinyin": "gòu",
+        "review": "context_checked",
+        "cell_center_x": 748.2,
+        "cell_width_px": 104.23
+      },
+      {
+        "hanzi": "了",
+        "pinyin": "le",
+        "review": "context_checked",
+        "cell_center_x": 848.31,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 81.56,
+    "end_s": 84.04,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 712.625,
+    "rows": 1
+  },
+  {
+    "cue_id": 40,
+    "unit_id": "p003_u01",
+    "paragraph_id": "p003",
+    "text": "力气的小雨珠落",
+    "tokens": [
+      {
+        "hanzi": "力",
+        "pinyin": "lì",
+        "review": "context_checked",
+        "cell_center_x": 244.17,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "气",
+        "pinyin": "qì",
+        "review": "context_checked",
+        "cell_center_x": 340.17,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 436.17,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "review": "context_checked",
+        "cell_center_x": 539.05,
+        "cell_width_px": 109.75
+      },
+      {
+        "hanzi": "雨",
+        "pinyin": "yǔ",
+        "review": "context_checked",
+        "cell_center_x": 641.92,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "珠",
+        "pinyin": "zhū",
+        "review": "context_checked",
+        "cell_center_x": 738.88,
+        "cell_width_px": 97.91
+      },
+      {
+        "hanzi": "落",
+        "pinyin": "luò",
+        "review": "context_checked",
+        "cell_center_x": 835.83,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 84.04,
+    "end_s": 85.92,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 687.65625,
+    "rows": 1
+  },
+  {
+    "cue_id": 41,
+    "unit_id": "p003_u01",
+    "paragraph_id": "p003",
+    "text": "了下来，“",
+    "tokens": [
+      {
+        "hanzi": "了",
+        "pinyin": "le",
+        "review": "context_checked",
+        "cell_center_x": 420.0,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "下",
+        "pinyin": "xià",
+        "review": "context_checked",
+        "cell_center_x": 516.0,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "来",
+        "pinyin": "lái",
+        "review": "context_checked",
+        "cell_center_x": 612.0,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 672.0,
+        "cell_width_px": 24
+      },
+      {
+        "hanzi": "“",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 696.0,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 85.92,
+    "end_s": 86.84,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 336,
+    "rows": 1
+  },
+  {
+    "cue_id": 42,
+    "unit_id": "p003_u01",
+    "paragraph_id": "p003",
+    "text": "啪嗒”一声，",
+    "tokens": [
+      {
+        "hanzi": "啪",
+        "pinyin": "pā",
+        "review": "context_checked",
+        "cell_center_x": 342.54,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "嗒",
+        "pinyin": "dā",
+        "review": "context_checked",
+        "cell_center_x": 438.54,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "”",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 498.54,
+        "cell_width_px": 24
+      },
+      {
+        "hanzi": "一",
+        "pinyin": "yì",
+        "review": "context_checked",
+        "cell_center_x": 558.54,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "声",
+        "pinyin": "shēng",
+        "review": "context_checked",
+        "cell_center_x": 684.0,
+        "cell_width_px": 154.92
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 773.46,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 87.08,
+    "end_s": 88.44,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 490.921875,
+    "rows": 1
+  },
+  {
+    "cue_id": 43,
+    "unit_id": "p003_u01",
+    "paragraph_id": "p003",
+    "text": "正好敲在窗外",
+    "tokens": [
+      {
+        "hanzi": "正",
+        "pinyin": "zhèng",
+        "review": "context_checked",
+        "cell_center_x": 243.99,
+        "cell_width_px": 154.5
+      },
+      {
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "review": "context_checked",
+        "cell_center_x": 372.06,
+        "cell_width_px": 101.64
+      },
+      {
+        "hanzi": "敲",
+        "pinyin": "qiāo",
+        "review": "context_checked",
+        "cell_center_x": 479.82,
+        "cell_width_px": 113.88
+      },
+      {
+        "hanzi": "在",
+        "pinyin": "zài",
+        "review": "context_checked",
+        "cell_center_x": 584.76,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "窗",
+        "pinyin": "chuāng",
+        "review": "context_checked",
+        "cell_center_x": 725.01,
+        "cell_width_px": 184.5
+      },
+      {
+        "hanzi": "外",
+        "pinyin": "wài",
+        "review": "context_checked",
+        "cell_center_x": 865.26,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 88.76,
+    "end_s": 90.6,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 746.515625,
+    "rows": 1
+  },
+  {
+    "cue_id": 44,
+    "unit_id": "p003_u01",
+    "paragraph_id": "p003",
+    "text": "花盆的陶土边沿",
+    "tokens": [
+      {
+        "hanzi": "花",
+        "pinyin": "huā",
+        "review": "context_checked",
+        "cell_center_x": 239.08,
+        "cell_width_px": 102.27
+      },
+      {
+        "hanzi": "盆",
+        "pinyin": "pén",
+        "review": "context_checked",
+        "cell_center_x": 341.34,
+        "cell_width_px": 102.27
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 440.48,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "陶",
+        "pinyin": "táo",
+        "review": "context_checked",
+        "cell_center_x": 536.48,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "土",
+        "pinyin": "tǔ",
+        "review": "context_checked",
+        "cell_center_x": 632.48,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "边",
+        "pinyin": "biān",
+        "review": "context_checked",
+        "cell_center_x": 737.73,
+        "cell_width_px": 114.5
+      },
+      {
+        "hanzi": "沿",
+        "pinyin": "yán",
+        "review": "context_checked",
+        "cell_center_x": 843.52,
+        "cell_width_px": 97.08
+      }
+    ],
+    "start_s": 90.6,
+    "end_s": 92.48,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 704.109375,
+    "rows": 1
+  },
+  {
+    "cue_id": 45,
+    "unit_id": "p003_u01",
+    "paragraph_id": "p003",
+    "text": "上，发出一声清脆",
+    "tokens": [
+      {
+        "hanzi": "上",
+        "pinyin": "shàng",
+        "review": "context_checked",
+        "cell_center_x": 198.8,
+        "cell_width_px": 154.77
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 288.18,
+        "cell_width_px": 24
+      },
+      {
+        "hanzi": "发",
+        "pinyin": "fā",
+        "review": "context_checked",
+        "cell_center_x": 348.18,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "出",
+        "pinyin": "chū",
+        "review": "context_checked",
+        "cell_center_x": 445.38,
+        "cell_width_px": 98.39
+      },
+      {
+        "hanzi": "一",
+        "pinyin": "yì",
+        "review": "context_checked",
+        "cell_center_x": 542.57,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "声",
+        "pinyin": "shēng",
+        "review": "context_checked",
+        "cell_center_x": 668.03,
+        "cell_width_px": 154.92
+      },
+      {
+        "hanzi": "清",
+        "pinyin": "qīng",
+        "review": "context_checked",
+        "cell_center_x": 804.04,
+        "cell_width_px": 117.09
+      },
+      {
+        "hanzi": "脆",
+        "pinyin": "cuì",
+        "review": "context_checked",
+        "cell_center_x": 910.59,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 92.48,
+    "end_s": 95.28,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 837.171875,
+    "rows": 1
+  },
+  {
+    "cue_id": 46,
+    "unit_id": "p003_u01",
+    "paragraph_id": "p003",
+    "text": "又短促的小响声。",
+    "tokens": [
+      {
+        "hanzi": "又",
+        "pinyin": "yòu",
+        "review": "context_checked",
+        "cell_center_x": 163.83,
+        "cell_width_px": 99.2
+      },
+      {
+        "hanzi": "短",
+        "pinyin": "duǎn",
+        "review": "context_checked",
+        "cell_center_x": 279.32,
+        "cell_width_px": 131.78
+      },
+      {
+        "hanzi": "促",
+        "pinyin": "cù",
+        "review": "context_checked",
+        "cell_center_x": 393.21,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 489.21,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "review": "context_checked",
+        "cell_center_x": 592.09,
+        "cell_width_px": 109.75
+      },
+      {
+        "hanzi": "响",
+        "pinyin": "xiǎng",
+        "review": "context_checked",
+        "cell_center_x": 716.91,
+        "cell_width_px": 139.89
+      },
+      {
+        "hanzi": "声",
+        "pinyin": "shēng",
+        "review": "context_checked",
+        "cell_center_x": 864.31,
+        "cell_width_px": 154.92
+      },
+      {
+        "hanzi": "。",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 953.77,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 95.28,
+    "end_s": 97.4,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 851.546875,
+    "rows": 1
+  },
+  {
+    "cue_id": 47,
+    "unit_id": "p003_u02",
+    "paragraph_id": "p003",
+    "text": "如果是平时，",
+    "tokens": [
+      {
+        "hanzi": "如",
+        "pinyin": "rú",
+        "review": "context_checked",
+        "cell_center_x": 321.34,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "果",
+        "pinyin": "guǒ",
+        "review": "context_checked",
+        "cell_center_x": 421.45,
+        "cell_width_px": 104.23
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì",
+        "review": "context_checked",
+        "cell_center_x": 521.57,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "平",
+        "pinyin": "píng",
+        "review": "context_checked",
+        "cell_center_x": 628.12,
+        "cell_width_px": 117.09
+      },
+      {
+        "hanzi": "时",
+        "pinyin": "shí",
+        "review": "context_checked",
+        "cell_center_x": 734.66,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 794.66,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 98.24,
+    "end_s": 99.88,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 533.328125,
+    "rows": 1
+  },
+  {
+    "cue_id": 48,
+    "unit_id": "p003_u02",
+    "paragraph_id": "p003",
+    "text": "这断断续续的",
+    "tokens": [
+      {
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "review": "context_checked",
+        "cell_center_x": 264.22,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "断",
+        "pinyin": "duàn",
+        "review": "context_checked",
+        "cell_center_x": 378.11,
+        "cell_width_px": 131.78
+      },
+      {
+        "hanzi": "断",
+        "pinyin": "duàn",
+        "review": "context_checked",
+        "cell_center_x": 509.89,
+        "cell_width_px": 131.78
+      },
+      {
+        "hanzi": "续",
+        "pinyin": "xù",
+        "review": "context_checked",
+        "cell_center_x": 623.78,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "续",
+        "pinyin": "xù",
+        "review": "context_checked",
+        "cell_center_x": 719.78,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 815.78,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 100.2,
+    "end_s": 101.8,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 647.5625,
+    "rows": 1
+  },
+  {
+    "cue_id": 49,
+    "unit_id": "p003_u02",
+    "paragraph_id": "p003",
+    "text": "滴水声可能会让",
+    "tokens": [
+      {
+        "hanzi": "滴",
+        "pinyin": "dī",
+        "review": "context_checked",
+        "cell_center_x": 184.72,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "水",
+        "pinyin": "shuǐ",
+        "review": "context_checked",
+        "cell_center_x": 288.08,
+        "cell_width_px": 110.72
+      },
+      {
+        "hanzi": "声",
+        "pinyin": "shēng",
+        "review": "context_checked",
+        "cell_center_x": 420.9,
+        "cell_width_px": 154.92
+      },
+      {
+        "hanzi": "可",
+        "pinyin": "kě",
+        "review": "context_checked",
+        "cell_center_x": 546.36,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "能",
+        "pinyin": "néng",
+        "review": "context_checked",
+        "cell_center_x": 660.33,
+        "cell_width_px": 131.94
+      },
+      {
+        "hanzi": "会",
+        "pinyin": "huì",
+        "review": "context_checked",
+        "cell_center_x": 774.3,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "让",
+        "pinyin": "ràng",
+        "review": "context_checked",
+        "cell_center_x": 882.79,
+        "cell_width_px": 120.98
+      }
+    ],
+    "start_s": 101.8,
+    "end_s": 103.96,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 806.5625,
+    "rows": 1
+  },
+  {
+    "cue_id": 50,
+    "unit_id": "p003_u02",
+    "paragraph_id": "p003",
+    "text": "皮皮一直分心去数。",
+    "tokens": [
+      {
+        "hanzi": "皮",
+        "pinyin": "pí",
+        "review": "context_checked",
+        "cell_center_x": 190.84,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "皮",
+        "pinyin": "pí",
+        "review": "context_checked",
+        "cell_center_x": 286.84,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "一",
+        "pinyin": "yì",
+        "review": "context_checked",
+        "cell_center_x": 382.84,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "直",
+        "pinyin": "zhí",
+        "review": "context_checked",
+        "cell_center_x": 478.84,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "分",
+        "pinyin": "fēn",
+        "review": "context_checked",
+        "cell_center_x": 574.84,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "心",
+        "pinyin": "xīn",
+        "review": "context_checked",
+        "cell_center_x": 670.84,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "去",
+        "pinyin": "qù",
+        "review": "context_checked",
+        "cell_center_x": 766.84,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "数",
+        "pinyin": "shù",
+        "review": "context_checked",
+        "cell_center_x": 864.0,
+        "cell_width_px": 98.33
+      },
+      {
+        "hanzi": "。",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 925.16,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 103.96,
+    "end_s": 107.0,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 794.328125,
+    "rows": 1
+  },
+  {
+    "cue_id": 51,
+    "unit_id": "p003_u03",
+    "paragraph_id": "p003",
+    "text": "但今天，",
+    "tokens": [
+      {
+        "hanzi": "但",
+        "pinyin": "dàn",
+        "review": "context_checked",
+        "cell_center_x": 428.84,
+        "cell_width_px": 102.11
+      },
+      {
+        "hanzi": "今",
+        "pinyin": "jīn",
+        "review": "context_checked",
+        "cell_center_x": 527.9,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "review": "context_checked",
+        "cell_center_x": 627.05,
+        "cell_width_px": 102.31
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 690.21,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 107.76,
+    "end_s": 108.92,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 324.421875,
+    "rows": 1
+  },
+  {
+    "cue_id": 52,
+    "unit_id": "p003_u03",
+    "paragraph_id": "p003",
+    "text": "皮皮仔细观察了",
+    "tokens": [
+      {
+        "hanzi": "皮",
+        "pinyin": "pí",
+        "review": "context_checked",
+        "cell_center_x": 234.11,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "皮",
+        "pinyin": "pí",
+        "review": "context_checked",
+        "cell_center_x": 330.11,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "仔",
+        "pinyin": "zǐ",
+        "review": "context_checked",
+        "cell_center_x": 426.11,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "细",
+        "pinyin": "xì",
+        "review": "context_checked",
+        "cell_center_x": 522.11,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "观",
+        "pinyin": "guān",
+        "review": "context_checked",
+        "cell_center_x": 636.0,
+        "cell_width_px": 131.78
+      },
+      {
+        "hanzi": "察",
+        "pinyin": "chá",
+        "review": "context_checked",
+        "cell_center_x": 749.89,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "了",
+        "pinyin": "le",
+        "review": "context_checked",
+        "cell_center_x": 845.89,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 109.32,
+    "end_s": 111.24,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 707.78125,
+    "rows": 1
+  },
+  {
+    "cue_id": 53,
+    "unit_id": "p003_u03",
+    "paragraph_id": "p003",
+    "text": "一下，发现是花盆",
+    "tokens": [
+      {
+        "hanzi": "一",
+        "pinyin": "yí",
+        "review": "context_checked",
+        "cell_center_x": 226.55,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "下",
+        "pinyin": "xià",
+        "review": "context_checked",
+        "cell_center_x": 322.55,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 382.55,
+        "cell_width_px": 24
+      },
+      {
+        "hanzi": "发",
+        "pinyin": "fā",
+        "review": "context_checked",
+        "cell_center_x": 442.55,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "现",
+        "pinyin": "xiàn",
+        "review": "context_checked",
+        "cell_center_x": 545.73,
+        "cell_width_px": 110.38
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì",
+        "review": "context_checked",
+        "cell_center_x": 648.92,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "花",
+        "pinyin": "huā",
+        "review": "context_checked",
+        "cell_center_x": 748.05,
+        "cell_width_px": 102.27
+      },
+      {
+        "hanzi": "盆",
+        "pinyin": "pén",
+        "review": "context_checked",
+        "cell_center_x": 850.32,
+        "cell_width_px": 102.27
+      }
+    ],
+    "start_s": 111.24,
+    "end_s": 114.2,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 722.90625,
+    "rows": 1
+  },
+  {
+    "cue_id": 54,
+    "unit_id": "p003_u03",
+    "paragraph_id": "p003",
+    "text": "里的一片大叶子",
+    "tokens": [
+      {
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "review": "context_checked",
+        "cell_center_x": 242.75,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 338.75,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "一",
+        "pinyin": "yí",
+        "review": "context_checked",
+        "cell_center_x": 434.75,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "片",
+        "pinyin": "piàn",
+        "review": "context_checked",
+        "cell_center_x": 540.0,
+        "cell_width_px": 114.5
+      },
+      {
+        "hanzi": "大",
+        "pinyin": "dà",
+        "review": "context_checked",
+        "cell_center_x": 645.25,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "叶",
+        "pinyin": "yè",
+        "review": "context_checked",
+        "cell_center_x": 741.25,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "子",
+        "pinyin": "zi",
+        "review": "context_checked",
+        "cell_center_x": 837.25,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 114.2,
+    "end_s": 116.28,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 690.5,
+    "rows": 1
+  },
+  {
+    "cue_id": 55,
+    "unit_id": "p003_u03",
+    "paragraph_id": "p003",
+    "text": "歪向了盆沿，",
+    "tokens": [
+      {
+        "hanzi": "歪",
+        "pinyin": "wāi",
+        "review": "context_checked",
+        "cell_center_x": 310.38,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "向",
+        "pinyin": "xiàng",
+        "review": "context_checked",
+        "cell_center_x": 428.33,
+        "cell_width_px": 139.89
+      },
+      {
+        "hanzi": "了",
+        "pinyin": "le",
+        "review": "context_checked",
+        "cell_center_x": 546.27,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "盆",
+        "pinyin": "pén",
+        "review": "context_checked",
+        "cell_center_x": 645.41,
+        "cell_width_px": 102.27
+      },
+      {
+        "hanzi": "沿",
+        "pinyin": "yán",
+        "review": "context_checked",
+        "cell_center_x": 745.08,
+        "cell_width_px": 97.08
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 805.62,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 116.36,
+    "end_s": 118.04,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 555.234375,
+    "rows": 1
+  },
+  {
+    "cue_id": 56,
+    "unit_id": "p003_u03",
+    "paragraph_id": "p003",
+    "text": "接住了屋檐落下",
+    "tokens": [
+      {
+        "hanzi": "接",
+        "pinyin": "jiē",
+        "review": "context_checked",
+        "cell_center_x": 250.51,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "住",
+        "pinyin": "zhù",
+        "review": "context_checked",
+        "cell_center_x": 347.46,
+        "cell_width_px": 97.91
+      },
+      {
+        "hanzi": "了",
+        "pinyin": "le",
+        "review": "context_checked",
+        "cell_center_x": 444.41,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "屋",
+        "pinyin": "wū",
+        "review": "context_checked",
+        "cell_center_x": 540.41,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "檐",
+        "pinyin": "yán",
+        "review": "context_checked",
+        "cell_center_x": 636.95,
+        "cell_width_px": 97.08
+      },
+      {
+        "hanzi": "落",
+        "pinyin": "là",
+        "review": "context_checked",
+        "cell_center_x": 733.49,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "下",
+        "pinyin": "xià",
+        "review": "context_checked",
+        "cell_center_x": 829.49,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 118.36,
+    "end_s": 120.12,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 674.984375,
+    "rows": 1
+  },
+  {
+    "cue_id": 57,
+    "unit_id": "p003_u03",
+    "paragraph_id": "p003",
+    "text": "的水滴才发出",
+    "tokens": [
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 291.45,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "水",
+        "pinyin": "shuǐ",
+        "review": "context_checked",
+        "cell_center_x": 394.8,
+        "cell_width_px": 110.72
+      },
+      {
+        "hanzi": "滴",
+        "pinyin": "dī",
+        "review": "context_checked",
+        "cell_center_x": 498.16,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "才",
+        "pinyin": "cái",
+        "review": "context_checked",
+        "cell_center_x": 594.16,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "发",
+        "pinyin": "fā",
+        "review": "context_checked",
+        "cell_center_x": 690.16,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "出",
+        "pinyin": "chū",
+        "review": "context_checked",
+        "cell_center_x": 787.36,
+        "cell_width_px": 98.39
+      }
+    ],
+    "start_s": 120.12,
+    "end_s": 122.0,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 593.109375,
+    "rows": 1
+  },
+  {
+    "cue_id": 58,
+    "unit_id": "p003_u03",
+    "paragraph_id": "p003",
+    "text": "响声的。",
+    "tokens": [
+      {
+        "hanzi": "响",
+        "pinyin": "xiǎng",
+        "review": "context_checked",
+        "cell_center_x": 402.54,
+        "cell_width_px": 139.89
+      },
+      {
+        "hanzi": "声",
+        "pinyin": "shēng",
+        "review": "context_checked",
+        "cell_center_x": 549.95,
+        "cell_width_px": 154.92
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 675.41,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "。",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 735.41,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 122.0,
+    "end_s": 123.16,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 414.8125,
+    "rows": 1
+  },
+  {
+    "cue_id": 59,
+    "unit_id": "p004_u01",
+    "paragraph_id": "p004",
+    "text": "皮皮轻轻推开",
+    "tokens": [
+      {
+        "hanzi": "皮",
+        "pinyin": "pí",
+        "review": "context_checked",
+        "cell_center_x": 278.91,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "皮",
+        "pinyin": "pí",
+        "review": "context_checked",
+        "cell_center_x": 374.91,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "轻",
+        "pinyin": "qīng",
+        "review": "context_checked",
+        "cell_center_x": 481.45,
+        "cell_width_px": 117.09
+      },
+      {
+        "hanzi": "轻",
+        "pinyin": "qīng",
+        "review": "context_checked",
+        "cell_center_x": 598.55,
+        "cell_width_px": 117.09
+      },
+      {
+        "hanzi": "推",
+        "pinyin": "tuī",
+        "review": "context_checked",
+        "cell_center_x": 705.09,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "开",
+        "pinyin": "kāi",
+        "review": "context_checked",
+        "cell_center_x": 801.09,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 124.2,
+    "end_s": 125.92,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 618.1875,
+    "rows": 1
+  },
+  {
+    "cue_id": 60,
+    "unit_id": "p004_u01",
+    "paragraph_id": "p004",
+    "text": "一点点窗户，",
+    "tokens": [
+      {
+        "hanzi": "一",
+        "pinyin": "yì",
+        "review": "context_checked",
+        "cell_center_x": 273.25,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "review": "context_checked",
+        "cell_center_x": 378.5,
+        "cell_width_px": 114.5
+      },
+      {
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "review": "context_checked",
+        "cell_center_x": 493.0,
+        "cell_width_px": 114.5
+      },
+      {
+        "hanzi": "窗",
+        "pinyin": "chuāng",
+        "review": "context_checked",
+        "cell_center_x": 642.5,
+        "cell_width_px": 184.5
+      },
+      {
+        "hanzi": "户",
+        "pinyin": "hù",
+        "review": "context_checked",
+        "cell_center_x": 782.75,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 842.75,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 125.92,
+    "end_s": 127.6,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 629.5,
+    "rows": 1
+  },
+  {
+    "cue_id": 61,
+    "unit_id": "p004_u01",
+    "paragraph_id": "p004",
+    "text": "伸出小爪子，",
+    "tokens": [
+      {
+        "hanzi": "伸",
+        "pinyin": "shēn",
+        "review": "context_checked",
+        "cell_center_x": 313.52,
+        "cell_width_px": 125.41
+      },
+      {
+        "hanzi": "出",
+        "pinyin": "chū",
+        "review": "context_checked",
+        "cell_center_x": 425.41,
+        "cell_width_px": 98.39
+      },
+      {
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "review": "context_checked",
+        "cell_center_x": 529.48,
+        "cell_width_px": 109.75
+      },
+      {
+        "hanzi": "爪",
+        "pinyin": "zhuǎ",
+        "review": "context_checked",
+        "cell_center_x": 646.77,
+        "cell_width_px": 124.83
+      },
+      {
+        "hanzi": "子",
+        "pinyin": "zi",
+        "review": "context_checked",
+        "cell_center_x": 757.19,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 817.19,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 127.88,
+    "end_s": 129.6,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 578.375,
+    "rows": 1
+  },
+  {
+    "cue_id": 62,
+    "unit_id": "p004_u01",
+    "paragraph_id": "p004",
+    "text": "把盆沿旁边那片",
+    "tokens": [
+      {
+        "hanzi": "把",
+        "pinyin": "bǎ",
+        "review": "context_checked",
+        "cell_center_x": 212.02,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "盆",
+        "pinyin": "pén",
+        "review": "context_checked",
+        "cell_center_x": 311.15,
+        "cell_width_px": 102.27
+      },
+      {
+        "hanzi": "沿",
+        "pinyin": "yán",
+        "review": "context_checked",
+        "cell_center_x": 410.82,
+        "cell_width_px": 97.08
+      },
+      {
+        "hanzi": "旁",
+        "pinyin": "páng",
+        "review": "context_checked",
+        "cell_center_x": 525.17,
+        "cell_width_px": 131.62
+      },
+      {
+        "hanzi": "边",
+        "pinyin": "biān",
+        "review": "context_checked",
+        "cell_center_x": 648.23,
+        "cell_width_px": 114.5
+      },
+      {
+        "hanzi": "那",
+        "pinyin": "nà",
+        "review": "context_checked",
+        "cell_center_x": 753.48,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "片",
+        "pinyin": "piàn",
+        "review": "context_checked",
+        "cell_center_x": 858.73,
+        "cell_width_px": 114.5
+      }
+    ],
+    "start_s": 129.88,
+    "end_s": 131.96,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 751.96875,
+    "rows": 1
+  },
+  {
+    "cue_id": 63,
+    "unit_id": "p004_u01",
+    "paragraph_id": "p004",
+    "text": "歪斜的大叶子",
+    "tokens": [
+      {
+        "hanzi": "歪",
+        "pinyin": "wāi",
+        "review": "context_checked",
+        "cell_center_x": 300.0,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "斜",
+        "pinyin": "xié",
+        "review": "context_checked",
+        "cell_center_x": 396.0,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 492.0,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "大",
+        "pinyin": "dà",
+        "review": "context_checked",
+        "cell_center_x": 588.0,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "叶",
+        "pinyin": "yè",
+        "review": "context_checked",
+        "cell_center_x": 684.0,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "子",
+        "pinyin": "zi",
+        "review": "context_checked",
+        "cell_center_x": 780.0,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 131.96,
+    "end_s": 133.88,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 576,
+    "rows": 1
+  },
+  {
+    "cue_id": 64,
+    "unit_id": "p004_u01",
+    "paragraph_id": "p004",
+    "text": "温柔地往旁边",
+    "tokens": [
+      {
+        "hanzi": "温",
+        "pinyin": "wēn",
+        "review": "context_checked",
+        "cell_center_x": 251.02,
+        "cell_width_px": 110.48
+      },
+      {
+        "hanzi": "柔",
+        "pinyin": "róu",
+        "review": "context_checked",
+        "cell_center_x": 354.26,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "地",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 450.26,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "往",
+        "pinyin": "wǎng",
+        "review": "context_checked",
+        "cell_center_x": 568.18,
+        "cell_width_px": 139.84
+      },
+      {
+        "hanzi": "旁",
+        "pinyin": "páng",
+        "review": "context_checked",
+        "cell_center_x": 703.91,
+        "cell_width_px": 131.62
+      },
+      {
+        "hanzi": "边",
+        "pinyin": "biān",
+        "review": "context_checked",
+        "cell_center_x": 826.98,
+        "cell_width_px": 114.5
+      }
+    ],
+    "start_s": 133.96,
+    "end_s": 135.72,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 688.453125,
+    "rows": 1
+  },
+  {
+    "cue_id": 65,
+    "unit_id": "p004_u01",
+    "paragraph_id": "p004",
+    "text": "扶开了一点，",
+    "tokens": [
+      {
+        "hanzi": "扶",
+        "pinyin": "fú",
+        "review": "context_checked",
+        "cell_center_x": 326.75,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "开",
+        "pinyin": "kāi",
+        "review": "context_checked",
+        "cell_center_x": 422.75,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "了",
+        "pinyin": "le",
+        "review": "context_checked",
+        "cell_center_x": 518.75,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "一",
+        "pinyin": "yì",
+        "review": "context_checked",
+        "cell_center_x": 614.75,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "review": "context_checked",
+        "cell_center_x": 720.0,
+        "cell_width_px": 114.5
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 789.25,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 135.72,
+    "end_s": 137.12,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 522.5,
+    "rows": 1
+  },
+  {
+    "cue_id": 66,
+    "unit_id": "p004_u01",
+    "paragraph_id": "p004",
+    "text": "让出一个小小的",
+    "tokens": [
+      {
+        "hanzi": "让",
+        "pinyin": "ràng",
+        "review": "context_checked",
+        "cell_center_x": 237.05,
+        "cell_width_px": 120.98
+      },
+      {
+        "hanzi": "出",
+        "pinyin": "chū",
+        "review": "context_checked",
+        "cell_center_x": 346.74,
+        "cell_width_px": 98.39
+      },
+      {
+        "hanzi": "一",
+        "pinyin": "yí",
+        "review": "context_checked",
+        "cell_center_x": 443.94,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "个",
+        "pinyin": "ge",
+        "review": "context_checked",
+        "cell_center_x": 539.94,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "review": "context_checked",
+        "cell_center_x": 642.81,
+        "cell_width_px": 109.75
+      },
+      {
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "review": "context_checked",
+        "cell_center_x": 752.56,
+        "cell_width_px": 109.75
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 855.44,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 137.56,
+    "end_s": 139.24,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 726.875,
+    "rows": 1
+  },
+  {
+    "cue_id": 67,
+    "unit_id": "p004_u01",
+    "paragraph_id": "p004",
+    "text": "空当；",
+    "tokens": [
+      {
+        "hanzi": "空",
+        "pinyin": "kōng",
+        "review": "context_checked",
+        "cell_center_x": 462.19,
+        "cell_width_px": 129.86
+      },
+      {
+        "hanzi": "当",
+        "pinyin": "dāng",
+        "review": "context_checked",
+        "cell_center_x": 592.93,
+        "cell_width_px": 131.62
+      },
+      {
+        "hanzi": "；",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 670.74,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 139.24,
+    "end_s": 140.12,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 285.484375,
+    "rows": 1
+  },
+  {
+    "cue_id": 68,
+    "unit_id": "p004_u02",
+    "paragraph_id": "p004",
+    "text": "这样一来，",
+    "tokens": [
+      {
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "review": "context_checked",
+        "cell_center_x": 368.7,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "样",
+        "pinyin": "yàng",
+        "review": "context_checked",
+        "cell_center_x": 480.0,
+        "cell_width_px": 126.59
+      },
+      {
+        "hanzi": "一",
+        "pinyin": "yì",
+        "review": "context_checked",
+        "cell_center_x": 591.3,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "来",
+        "pinyin": "lái",
+        "review": "context_checked",
+        "cell_center_x": 687.3,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 747.3,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 140.88,
+    "end_s": 142.12,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 438.59375,
+    "rows": 1
+  },
+  {
+    "cue_id": 69,
+    "unit_id": "p004_u02",
+    "paragraph_id": "p004",
+    "text": "后面再落下来的",
+    "tokens": [
+      {
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "review": "context_checked",
+        "cell_center_x": 235.07,
+        "cell_width_px": 104.39
+      },
+      {
+        "hanzi": "面",
+        "pinyin": "miàn",
+        "review": "context_checked",
+        "cell_center_x": 352.2,
+        "cell_width_px": 129.86
+      },
+      {
+        "hanzi": "再",
+        "pinyin": "zài",
+        "review": "context_checked",
+        "cell_center_x": 465.12,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "落",
+        "pinyin": "luò",
+        "review": "context_checked",
+        "cell_center_x": 561.12,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "下",
+        "pinyin": "xià",
+        "review": "context_checked",
+        "cell_center_x": 657.12,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "来",
+        "pinyin": "lái",
+        "review": "context_checked",
+        "cell_center_x": 753.12,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 849.12,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 142.48,
+    "end_s": 144.24,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 714.25,
+    "rows": 1
+  },
+  {
+    "cue_id": 70,
+    "unit_id": "p004_u02",
+    "paragraph_id": "p004",
+    "text": "小水珠，",
+    "tokens": [
+      {
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "review": "context_checked",
+        "cell_center_x": 423.69,
+        "cell_width_px": 109.75
+      },
+      {
+        "hanzi": "水",
+        "pinyin": "shuǐ",
+        "review": "context_checked",
+        "cell_center_x": 533.92,
+        "cell_width_px": 110.72
+      },
+      {
+        "hanzi": "珠",
+        "pinyin": "zhū",
+        "review": "context_checked",
+        "cell_center_x": 638.23,
+        "cell_width_px": 97.91
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 699.19,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 144.24,
+    "end_s": 145.36,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 342.375,
+    "rows": 1
+  },
+  {
+    "cue_id": 71,
+    "unit_id": "p004_u02",
+    "paragraph_id": "p004",
+    "text": "就可以直接落进",
+    "tokens": [
+      {
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "review": "context_checked",
+        "cell_center_x": 252.0,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "可",
+        "pinyin": "kě",
+        "review": "context_checked",
+        "cell_center_x": 348.0,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "以",
+        "pinyin": "yǐ",
+        "review": "context_checked",
+        "cell_center_x": 444.0,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "直",
+        "pinyin": "zhí",
+        "review": "context_checked",
+        "cell_center_x": 540.0,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "接",
+        "pinyin": "jiē",
+        "review": "context_checked",
+        "cell_center_x": 636.0,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "落",
+        "pinyin": "luò",
+        "review": "context_checked",
+        "cell_center_x": 732.0,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "进",
+        "pinyin": "jìn",
+        "review": "context_checked",
+        "cell_center_x": 828.0,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 145.64,
+    "end_s": 147.48,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 672,
+    "rows": 1
+  },
+  {
+    "cue_id": 72,
+    "unit_id": "p004_u02",
+    "paragraph_id": "p004",
+    "text": "花盆里松软的",
+    "tokens": [
+      {
+        "hanzi": "花",
+        "pinyin": "huā",
+        "review": "context_checked",
+        "cell_center_x": 268.21,
+        "cell_width_px": 102.27
+      },
+      {
+        "hanzi": "盆",
+        "pinyin": "pén",
+        "review": "context_checked",
+        "cell_center_x": 370.48,
+        "cell_width_px": 102.27
+      },
+      {
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "review": "context_checked",
+        "cell_center_x": 469.61,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "松",
+        "pinyin": "sōng",
+        "review": "context_checked",
+        "cell_center_x": 581.22,
+        "cell_width_px": 127.22
+      },
+      {
+        "hanzi": "软",
+        "pinyin": "ruǎn",
+        "review": "context_checked",
+        "cell_center_x": 705.88,
+        "cell_width_px": 122.09
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 814.92,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 147.48,
+    "end_s": 149.12,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 645.84375,
+    "rows": 1
+  },
+  {
+    "cue_id": 73,
+    "unit_id": "p004_u02",
+    "paragraph_id": "p004",
+    "text": "泥土上了。",
+    "tokens": [
+      {
+        "hanzi": "泥",
+        "pinyin": "ní",
+        "review": "context_checked",
+        "cell_center_x": 354.62,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "土",
+        "pinyin": "tǔ",
+        "review": "context_checked",
+        "cell_center_x": 450.62,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "上",
+        "pinyin": "shàng",
+        "review": "context_checked",
+        "cell_center_x": 576.0,
+        "cell_width_px": 154.77
+      },
+      {
+        "hanzi": "了",
+        "pinyin": "le",
+        "review": "context_checked",
+        "cell_center_x": 701.38,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "。",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 761.38,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 149.12,
+    "end_s": 150.4,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 466.765625,
+    "rows": 1
+  },
+  {
+    "cue_id": 74,
+    "unit_id": "p004_u03",
+    "paragraph_id": "p004",
+    "text": "果然，当下一颗",
+    "tokens": [
+      {
+        "hanzi": "果",
+        "pinyin": "guǒ",
+        "review": "context_checked",
+        "cell_center_x": 270.19,
+        "cell_width_px": 104.23
+      },
+      {
+        "hanzi": "然",
+        "pinyin": "rán",
+        "review": "context_checked",
+        "cell_center_x": 370.3,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 430.3,
+        "cell_width_px": 24
+      },
+      {
+        "hanzi": "当",
+        "pinyin": "dāng",
+        "review": "context_checked",
+        "cell_center_x": 508.12,
+        "cell_width_px": 131.62
+      },
+      {
+        "hanzi": "下",
+        "pinyin": "xià",
+        "review": "context_checked",
+        "cell_center_x": 621.93,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "一",
+        "pinyin": "yì",
+        "review": "context_checked",
+        "cell_center_x": 717.93,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "颗",
+        "pinyin": "kē",
+        "review": "context_checked",
+        "cell_center_x": 813.93,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 151.2,
+    "end_s": 153.56,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 643.859375,
+    "rows": 1
+  },
+  {
+    "cue_id": 75,
+    "unit_id": "p004_u03",
+    "paragraph_id": "p004",
+    "text": "雨珠顺着屋檐",
+    "tokens": [
+      {
+        "hanzi": "雨",
+        "pinyin": "yǔ",
+        "review": "context_checked",
+        "cell_center_x": 282.51,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "珠",
+        "pinyin": "zhū",
+        "review": "context_checked",
+        "cell_center_x": 379.46,
+        "cell_width_px": 97.91
+      },
+      {
+        "hanzi": "顺",
+        "pinyin": "shùn",
+        "review": "context_checked",
+        "cell_center_x": 492.41,
+        "cell_width_px": 128.0
+      },
+      {
+        "hanzi": "着",
+        "pinyin": "zhe",
+        "review": "context_checked",
+        "cell_center_x": 604.41,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "屋",
+        "pinyin": "wū",
+        "review": "context_checked",
+        "cell_center_x": 700.41,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "檐",
+        "pinyin": "yán",
+        "review": "context_checked",
+        "cell_center_x": 796.95,
+        "cell_width_px": 97.08
+      }
+    ],
+    "start_s": 153.56,
+    "end_s": 155.56,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 610.984375,
+    "rows": 1
+  },
+  {
+    "cue_id": 76,
+    "unit_id": "p004_u03",
+    "paragraph_id": "p004",
+    "text": "滑落下来时，",
+    "tokens": [
+      {
+        "hanzi": "滑",
+        "pinyin": "huá",
+        "review": "context_checked",
+        "cell_center_x": 336.0,
+        "cell_width_px": 102.27
+      },
+      {
+        "hanzi": "落",
+        "pinyin": "luò",
+        "review": "context_checked",
+        "cell_center_x": 435.13,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "下",
+        "pinyin": "xià",
+        "review": "context_checked",
+        "cell_center_x": 531.13,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "来",
+        "pinyin": "lái",
+        "review": "context_checked",
+        "cell_center_x": 627.13,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "时",
+        "pinyin": "shí",
+        "review": "context_checked",
+        "cell_center_x": 723.13,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 783.13,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 155.56,
+    "end_s": 157.28,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 510.265625,
+    "rows": 1
+  },
+  {
+    "cue_id": 77,
+    "unit_id": "p004_u03",
+    "paragraph_id": "p004",
+    "text": "它直接钻进了",
+    "tokens": [
+      {
+        "hanzi": "它",
+        "pinyin": "tā",
+        "review": "context_checked",
+        "cell_center_x": 285.59,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "直",
+        "pinyin": "zhí",
+        "review": "context_checked",
+        "cell_center_x": 381.59,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "接",
+        "pinyin": "jiē",
+        "review": "context_checked",
+        "cell_center_x": 477.59,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "钻",
+        "pinyin": "zuān",
+        "review": "context_checked",
+        "cell_center_x": 588.0,
+        "cell_width_px": 124.83
+      },
+      {
+        "hanzi": "进",
+        "pinyin": "jìn",
+        "review": "context_checked",
+        "cell_center_x": 698.41,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "了",
+        "pinyin": "le",
+        "review": "context_checked",
+        "cell_center_x": 794.41,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 157.6,
+    "end_s": 159.12,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 604.828125,
+    "rows": 1
+  },
+  {
+    "cue_id": 78,
+    "unit_id": "p004_u03",
+    "paragraph_id": "p004",
+    "text": "湿润的黑泥土里，",
+    "tokens": [
+      {
+        "hanzi": "湿",
+        "pinyin": "shī",
+        "review": "context_checked",
+        "cell_center_x": 240.0,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "润",
+        "pinyin": "rùn",
+        "review": "context_checked",
+        "cell_center_x": 336.0,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 432.0,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "黑",
+        "pinyin": "hēi",
+        "review": "context_checked",
+        "cell_center_x": 528.0,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "泥",
+        "pinyin": "ní",
+        "review": "context_checked",
+        "cell_center_x": 624.0,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "土",
+        "pinyin": "tǔ",
+        "review": "context_checked",
+        "cell_center_x": 720.0,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "review": "context_checked",
+        "cell_center_x": 816.0,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 876.0,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 159.12,
+    "end_s": 161.2,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 696,
+    "rows": 1
+  },
+  {
+    "cue_id": 79,
+    "unit_id": "p004_u03",
+    "paragraph_id": "p004",
+    "text": "只发出一声几乎",
+    "tokens": [
+      {
+        "hanzi": "只",
+        "pinyin": "zhǐ",
+        "review": "context_checked",
+        "cell_center_x": 221.34,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "发",
+        "pinyin": "fā",
+        "review": "context_checked",
+        "cell_center_x": 317.34,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "出",
+        "pinyin": "chū",
+        "review": "context_checked",
+        "cell_center_x": 414.54,
+        "cell_width_px": 98.39
+      },
+      {
+        "hanzi": "一",
+        "pinyin": "yì",
+        "review": "context_checked",
+        "cell_center_x": 511.73,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "声",
+        "pinyin": "shēng",
+        "review": "context_checked",
+        "cell_center_x": 637.2,
+        "cell_width_px": 154.92
+      },
+      {
+        "hanzi": "几",
+        "pinyin": "jī",
+        "review": "context_checked",
+        "cell_center_x": 762.66,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "乎",
+        "pinyin": "hū",
+        "review": "context_checked",
+        "cell_center_x": 858.66,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 161.48,
+    "end_s": 163.52,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 733.3125,
+    "rows": 1
+  },
+  {
+    "cue_id": 80,
+    "unit_id": "p004_u03",
+    "paragraph_id": "p004",
+    "text": "听不见的“噗”，",
+    "tokens": [
+      {
+        "hanzi": "听",
+        "pinyin": "tīng",
+        "review": "context_checked",
+        "cell_center_x": 311.31,
+        "cell_width_px": 104.91
+      },
+      {
+        "hanzi": "不",
+        "pinyin": "bú",
+        "review": "context_checked",
+        "cell_center_x": 411.77,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "见",
+        "pinyin": "jiàn",
+        "review": "context_checked",
+        "cell_center_x": 508.45,
+        "cell_width_px": 97.38
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 605.14,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "“",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 665.14,
+        "cell_width_px": 24
+      },
+      {
+        "hanzi": "噗",
+        "pinyin": "pū",
+        "review": "context_checked",
+        "cell_center_x": 725.14,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "”",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 785.14,
+        "cell_width_px": 24
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 809.14,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 163.52,
+    "end_s": 164.96,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 562.28125,
+    "rows": 1
+  },
+  {
+    "cue_id": 81,
+    "unit_id": "p004_u03",
+    "paragraph_id": "p004",
+    "text": "就像倦鸟归巢",
+    "tokens": [
+      {
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "review": "context_checked",
+        "cell_center_x": 245.37,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "像",
+        "pinyin": "xiàng",
+        "review": "context_checked",
+        "cell_center_x": 363.31,
+        "cell_width_px": 139.89
+      },
+      {
+        "hanzi": "倦",
+        "pinyin": "juàn",
+        "review": "context_checked",
+        "cell_center_x": 490.59,
+        "cell_width_px": 114.66
+      },
+      {
+        "hanzi": "鸟",
+        "pinyin": "niǎo",
+        "review": "context_checked",
+        "cell_center_x": 604.93,
+        "cell_width_px": 114.03
+      },
+      {
+        "hanzi": "归",
+        "pinyin": "guī",
+        "review": "context_checked",
+        "cell_center_x": 709.95,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "巢",
+        "pinyin": "cháo",
+        "review": "context_checked",
+        "cell_center_x": 820.29,
+        "cell_width_px": 124.69
+      }
+    ],
+    "start_s": 165.28,
+    "end_s": 167.12,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 685.265625,
+    "rows": 1
+  },
+  {
+    "cue_id": 82,
+    "unit_id": "p004_u03",
+    "paragraph_id": "p004",
+    "text": "一样。",
+    "tokens": [
+      {
+        "hanzi": "一",
+        "pinyin": "yí",
+        "review": "context_checked",
+        "cell_center_x": 464.7,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "样",
+        "pinyin": "yàng",
+        "review": "context_checked",
+        "cell_center_x": 576.0,
+        "cell_width_px": 126.59
+      },
+      {
+        "hanzi": "。",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 651.3,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 167.12,
+    "end_s": 167.76,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 246.59375,
+    "rows": 1
+  },
+  {
+    "cue_id": 83,
+    "unit_id": "p005_u01",
+    "paragraph_id": "p005",
+    "text": "窗外的小花园",
+    "tokens": [
+      {
+        "hanzi": "窗",
+        "pinyin": "chuāng",
+        "review": "context_checked",
+        "cell_center_x": 274.62,
+        "cell_width_px": 184.5
+      },
+      {
+        "hanzi": "外",
+        "pinyin": "wài",
+        "review": "context_checked",
+        "cell_center_x": 414.87,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 510.87,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "review": "context_checked",
+        "cell_center_x": 613.74,
+        "cell_width_px": 109.75
+      },
+      {
+        "hanzi": "花",
+        "pinyin": "huā",
+        "review": "context_checked",
+        "cell_center_x": 719.75,
+        "cell_width_px": 102.27
+      },
+      {
+        "hanzi": "园",
+        "pinyin": "yuán",
+        "review": "context_checked",
+        "cell_center_x": 834.26,
+        "cell_width_px": 126.75
+      }
+    ],
+    "start_s": 168.8,
+    "end_s": 170.48,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 715.265625,
+    "rows": 1
+  },
+  {
+    "cue_id": 84,
+    "unit_id": "p005_u01",
+    "paragraph_id": "p005",
+    "text": "没有说话，",
+    "tokens": [
+      {
+        "hanzi": "没",
+        "pinyin": "méi",
+        "review": "context_checked",
+        "cell_center_x": 363.58,
+        "cell_width_px": 100.34
+      },
+      {
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "review": "context_checked",
+        "cell_center_x": 463.35,
+        "cell_width_px": 99.2
+      },
+      {
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "review": "context_checked",
+        "cell_center_x": 576.64,
+        "cell_width_px": 127.38
+      },
+      {
+        "hanzi": "话",
+        "pinyin": "huà",
+        "review": "context_checked",
+        "cell_center_x": 691.46,
+        "cell_width_px": 102.27
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 754.59,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 170.48,
+    "end_s": 171.76,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 453.1875,
+    "rows": 1
+  },
+  {
+    "cue_id": 85,
+    "unit_id": "p005_u01",
+    "paragraph_id": "p005",
+    "text": "只是敞开松软的",
+    "tokens": [
+      {
+        "hanzi": "只",
+        "pinyin": "zhǐ",
+        "review": "context_checked",
+        "cell_center_x": 193.93,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì",
+        "review": "context_checked",
+        "cell_center_x": 289.93,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "敞",
+        "pinyin": "chǎng",
+        "review": "context_checked",
+        "cell_center_x": 415.34,
+        "cell_width_px": 154.83
+      },
+      {
+        "hanzi": "开",
+        "pinyin": "kāi",
+        "review": "context_checked",
+        "cell_center_x": 540.76,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "松",
+        "pinyin": "sōng",
+        "review": "context_checked",
+        "cell_center_x": 652.37,
+        "cell_width_px": 127.22
+      },
+      {
+        "hanzi": "软",
+        "pinyin": "ruǎn",
+        "review": "context_checked",
+        "cell_center_x": 777.02,
+        "cell_width_px": 122.09
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 886.07,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 172.12,
+    "end_s": 174.04,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 788.140625,
+    "rows": 1
+  },
+  {
+    "cue_id": 86,
+    "unit_id": "p005_u01",
+    "paragraph_id": "p005",
+    "text": "泥土怀抱，",
+    "tokens": [
+      {
+        "hanzi": "泥",
+        "pinyin": "ní",
+        "review": "context_checked",
+        "cell_center_x": 371.93,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "土",
+        "pinyin": "tǔ",
+        "review": "context_checked",
+        "cell_center_x": 467.93,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "怀",
+        "pinyin": "huái",
+        "review": "context_checked",
+        "cell_center_x": 573.26,
+        "cell_width_px": 114.66
+      },
+      {
+        "hanzi": "抱",
+        "pinyin": "bào",
+        "review": "context_checked",
+        "cell_center_x": 681.33,
+        "cell_width_px": 101.48
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 744.07,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 174.04,
+    "end_s": 175.48,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 432.140625,
+    "rows": 1
+  },
+  {
+    "cue_id": 87,
+    "unit_id": "p005_u01",
+    "paragraph_id": "p005",
+    "text": "把这一颗颗晚归",
+    "tokens": [
+      {
+        "hanzi": "把",
+        "pinyin": "bǎ",
+        "review": "context_checked",
+        "cell_center_x": 244.84,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "review": "context_checked",
+        "cell_center_x": 340.84,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "一",
+        "pinyin": "yì",
+        "review": "context_checked",
+        "cell_center_x": 436.84,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "颗",
+        "pinyin": "kē",
+        "review": "context_checked",
+        "cell_center_x": 532.84,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "颗",
+        "pinyin": "kē",
+        "review": "context_checked",
+        "cell_center_x": 628.84,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "晚",
+        "pinyin": "wǎn",
+        "review": "context_checked",
+        "cell_center_x": 732.0,
+        "cell_width_px": 110.33
+      },
+      {
+        "hanzi": "归",
+        "pinyin": "guī",
+        "review": "context_checked",
+        "cell_center_x": 835.16,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 175.8,
+    "end_s": 177.6,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 686.328125,
+    "rows": 1
+  },
+  {
+    "cue_id": 88,
+    "unit_id": "p005_u01",
+    "paragraph_id": "p005",
+    "text": "的小雨珠全都",
+    "tokens": [
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 270.16,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "review": "context_checked",
+        "cell_center_x": 373.04,
+        "cell_width_px": 109.75
+      },
+      {
+        "hanzi": "雨",
+        "pinyin": "yǔ",
+        "review": "context_checked",
+        "cell_center_x": 475.91,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "珠",
+        "pinyin": "zhū",
+        "review": "context_checked",
+        "cell_center_x": 572.87,
+        "cell_width_px": 97.91
+      },
+      {
+        "hanzi": "全",
+        "pinyin": "quán",
+        "review": "context_checked",
+        "cell_center_x": 687.71,
+        "cell_width_px": 131.78
+      },
+      {
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "review": "context_checked",
+        "cell_center_x": 805.72,
+        "cell_width_px": 104.23
+      }
+    ],
+    "start_s": 177.6,
+    "end_s": 179.6,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 635.671875,
+    "rows": 1
+  },
+  {
+    "cue_id": 89,
+    "unit_id": "p005_u01",
+    "paragraph_id": "p005",
+    "text": "轻轻接住了。",
+    "tokens": [
+      {
+        "hanzi": "轻",
+        "pinyin": "qīng",
+        "review": "context_checked",
+        "cell_center_x": 324.5,
+        "cell_width_px": 117.09
+      },
+      {
+        "hanzi": "轻",
+        "pinyin": "qīng",
+        "review": "context_checked",
+        "cell_center_x": 441.59,
+        "cell_width_px": 117.09
+      },
+      {
+        "hanzi": "接",
+        "pinyin": "jiē",
+        "review": "context_checked",
+        "cell_center_x": 548.14,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "住",
+        "pinyin": "zhù",
+        "review": "context_checked",
+        "cell_center_x": 645.09,
+        "cell_width_px": 97.91
+      },
+      {
+        "hanzi": "了",
+        "pinyin": "le",
+        "review": "context_checked",
+        "cell_center_x": 742.05,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "。",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 802.05,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 179.6,
+    "end_s": 181.12,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 548.09375,
+    "rows": 1
+  },
+  {
+    "cue_id": 90,
+    "unit_id": "p005_u02",
+    "paragraph_id": "p005",
+    "text": "屋檐上挂着的",
+    "tokens": [
+      {
+        "hanzi": "屋",
+        "pinyin": "wū",
+        "review": "context_checked",
+        "cell_center_x": 267.02,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "檐",
+        "pinyin": "yán",
+        "review": "context_checked",
+        "cell_center_x": 363.56,
+        "cell_width_px": 97.08
+      },
+      {
+        "hanzi": "上",
+        "pinyin": "shàng",
+        "review": "context_checked",
+        "cell_center_x": 489.48,
+        "cell_width_px": 154.77
+      },
+      {
+        "hanzi": "挂",
+        "pinyin": "guà",
+        "review": "context_checked",
+        "cell_center_x": 617.92,
+        "cell_width_px": 102.11
+      },
+      {
+        "hanzi": "着",
+        "pinyin": "zhe",
+        "review": "context_checked",
+        "cell_center_x": 716.98,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 812.98,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 181.92,
+    "end_s": 183.6,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 641.953125,
+    "rows": 1
+  },
+  {
+    "cue_id": 91,
+    "unit_id": "p005_u02",
+    "paragraph_id": "p005",
+    "text": "雨珠越来越少，",
+    "tokens": [
+      {
+        "hanzi": "雨",
+        "pinyin": "yǔ",
+        "review": "context_checked",
+        "cell_center_x": 271.5,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "珠",
+        "pinyin": "zhū",
+        "review": "context_checked",
+        "cell_center_x": 368.45,
+        "cell_width_px": 97.91
+      },
+      {
+        "hanzi": "越",
+        "pinyin": "yuè",
+        "review": "context_checked",
+        "cell_center_x": 466.02,
+        "cell_width_px": 97.23
+      },
+      {
+        "hanzi": "来",
+        "pinyin": "lái",
+        "review": "context_checked",
+        "cell_center_x": 562.64,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "越",
+        "pinyin": "yuè",
+        "review": "context_checked",
+        "cell_center_x": 659.26,
+        "cell_width_px": 97.23
+      },
+      {
+        "hanzi": "少",
+        "pinyin": "shǎo",
+        "review": "context_checked",
+        "cell_center_x": 770.19,
+        "cell_width_px": 124.62
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 844.5,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 183.6,
+    "end_s": 185.6,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 633.0,
+    "rows": 1
+  },
+  {
+    "cue_id": 92,
+    "unit_id": "p005_u02",
+    "paragraph_id": "p005",
+    "text": "两滴水珠落下来",
+    "tokens": [
+      {
+        "hanzi": "两",
+        "pinyin": "liǎng",
+        "review": "context_checked",
+        "cell_center_x": 243.69,
+        "cell_width_px": 126.89
+      },
+      {
+        "hanzi": "滴",
+        "pinyin": "dī",
+        "review": "context_checked",
+        "cell_center_x": 355.13,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "水",
+        "pinyin": "shuǐ",
+        "review": "context_checked",
+        "cell_center_x": 458.49,
+        "cell_width_px": 110.72
+      },
+      {
+        "hanzi": "珠",
+        "pinyin": "zhū",
+        "review": "context_checked",
+        "cell_center_x": 562.8,
+        "cell_width_px": 97.91
+      },
+      {
+        "hanzi": "落",
+        "pinyin": "luò",
+        "review": "context_checked",
+        "cell_center_x": 659.76,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "下",
+        "pinyin": "xià",
+        "review": "context_checked",
+        "cell_center_x": 755.76,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "来",
+        "pinyin": "lái",
+        "review": "context_checked",
+        "cell_center_x": 851.76,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 186.04,
+    "end_s": 187.96,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 719.515625,
+    "rows": 1
+  },
+  {
+    "cue_id": 93,
+    "unit_id": "p005_u02",
+    "paragraph_id": "p005",
+    "text": "的间隔也越来越",
+    "tokens": [
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 250.08,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "间",
+        "pinyin": "jiàn",
+        "review": "context_checked",
+        "cell_center_x": 346.77,
+        "cell_width_px": 97.38
+      },
+      {
+        "hanzi": "隔",
+        "pinyin": "gé",
+        "review": "context_checked",
+        "cell_center_x": 443.45,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "也",
+        "pinyin": "yě",
+        "review": "context_checked",
+        "cell_center_x": 539.45,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "越",
+        "pinyin": "yuè",
+        "review": "context_checked",
+        "cell_center_x": 636.07,
+        "cell_width_px": 97.23
+      },
+      {
+        "hanzi": "来",
+        "pinyin": "lái",
+        "review": "context_checked",
+        "cell_center_x": 732.69,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "越",
+        "pinyin": "yuè",
+        "review": "context_checked",
+        "cell_center_x": 829.3,
+        "cell_width_px": 97.23
+      }
+    ],
+    "start_s": 187.96,
+    "end_s": 190.12,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 675.84375,
+    "rows": 1
+  },
+  {
+    "cue_id": 94,
+    "unit_id": "p005_u02",
+    "paragraph_id": "p005",
+    "text": "长，窗外那细微的",
+    "tokens": [
+      {
+        "hanzi": "长",
+        "pinyin": "zhǎng",
+        "review": "context_checked",
+        "cell_center_x": 195.75,
+        "cell_width_px": 154.34
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 284.92,
+        "cell_width_px": 24
+      },
+      {
+        "hanzi": "窗",
+        "pinyin": "chuāng",
+        "review": "context_checked",
+        "cell_center_x": 389.17,
+        "cell_width_px": 184.5
+      },
+      {
+        "hanzi": "外",
+        "pinyin": "wài",
+        "review": "context_checked",
+        "cell_center_x": 529.42,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "那",
+        "pinyin": "nà",
+        "review": "context_checked",
+        "cell_center_x": 625.42,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "细",
+        "pinyin": "xì",
+        "review": "context_checked",
+        "cell_center_x": 721.42,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "微",
+        "pinyin": "wēi",
+        "review": "context_checked",
+        "cell_center_x": 817.42,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 913.42,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 190.12,
+    "end_s": 192.64,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 842.84375,
+    "rows": 1
+  },
+  {
+    "cue_id": 95,
+    "unit_id": "p005_u02",
+    "paragraph_id": "p005",
+    "text": "小响声，",
+    "tokens": [
+      {
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "review": "context_checked",
+        "cell_center_x": 380.59,
+        "cell_width_px": 109.75
+      },
+      {
+        "hanzi": "响",
+        "pinyin": "xiǎng",
+        "review": "context_checked",
+        "cell_center_x": 505.41,
+        "cell_width_px": 139.89
+      },
+      {
+        "hanzi": "声",
+        "pinyin": "shēng",
+        "review": "context_checked",
+        "cell_center_x": 652.82,
+        "cell_width_px": 154.92
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 742.28,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 192.64,
+    "end_s": 193.8,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 428.5625,
+    "rows": 1
+  },
+  {
+    "cue_id": 96,
+    "unit_id": "p005_u02",
+    "paragraph_id": "p005",
+    "text": "慢慢地隔得远了，",
+    "tokens": [
+      {
+        "hanzi": "慢",
+        "pinyin": "màn",
+        "review": "context_checked",
+        "cell_center_x": 213.89,
+        "cell_width_px": 117.47
+      },
+      {
+        "hanzi": "慢",
+        "pinyin": "màn",
+        "review": "context_checked",
+        "cell_center_x": 331.36,
+        "cell_width_px": 117.47
+      },
+      {
+        "hanzi": "地",
+        "pinyin": "dì",
+        "review": "context_checked",
+        "cell_center_x": 438.09,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "隔",
+        "pinyin": "gé",
+        "review": "context_checked",
+        "cell_center_x": 534.09,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "得",
+        "pinyin": "dé",
+        "review": "context_checked",
+        "cell_center_x": 630.09,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "远",
+        "pinyin": "yuǎn",
+        "review": "context_checked",
+        "cell_center_x": 741.47,
+        "cell_width_px": 126.75
+      },
+      {
+        "hanzi": "了",
+        "pinyin": "le",
+        "review": "context_checked",
+        "cell_center_x": 852.84,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 912.84,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 194.08,
+    "end_s": 196.16,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 769.6875,
+    "rows": 1
+  },
+  {
+    "cue_id": 97,
+    "unit_id": "p005_u02",
+    "paragraph_id": "p005",
+    "text": "最终彻底融进了",
+    "tokens": [
+      {
+        "hanzi": "最",
+        "pinyin": "zuì",
+        "review": "context_checked",
+        "cell_center_x": 208.21,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "终",
+        "pinyin": "zhōng",
+        "review": "context_checked",
+        "cell_center_x": 334.45,
+        "cell_width_px": 156.47
+      },
+      {
+        "hanzi": "彻",
+        "pinyin": "chè",
+        "review": "context_checked",
+        "cell_center_x": 460.68,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "底",
+        "pinyin": "dǐ",
+        "review": "context_checked",
+        "cell_center_x": 556.68,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "融",
+        "pinyin": "róng",
+        "review": "context_checked",
+        "cell_center_x": 666.23,
+        "cell_width_px": 123.11
+      },
+      {
+        "hanzi": "进",
+        "pinyin": "jìn",
+        "review": "context_checked",
+        "cell_center_x": 775.79,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "了",
+        "pinyin": "le",
+        "review": "context_checked",
+        "cell_center_x": 871.79,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 196.52,
+    "end_s": 198.36,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 759.578125,
+    "rows": 1
+  },
+  {
+    "cue_id": 98,
+    "unit_id": "p005_u02",
+    "paragraph_id": "p005",
+    "text": "夜色里。",
+    "tokens": [
+      {
+        "hanzi": "夜",
+        "pinyin": "yè",
+        "review": "context_checked",
+        "cell_center_x": 432.0,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "色",
+        "pinyin": "sè",
+        "review": "context_checked",
+        "cell_center_x": 528.0,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "review": "context_checked",
+        "cell_center_x": 624.0,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "。",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 684.0,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 198.36,
+    "end_s": 199.44,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 312,
+    "rows": 1
+  },
+  {
+    "cue_id": 99,
+    "unit_id": "p006_u01",
+    "paragraph_id": "p006",
+    "text": "皮皮把木窗重新",
+    "tokens": [
+      {
+        "hanzi": "皮",
+        "pinyin": "pí",
+        "review": "context_checked",
+        "cell_center_x": 177.27,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "皮",
+        "pinyin": "pí",
+        "review": "context_checked",
+        "cell_center_x": 273.27,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "把",
+        "pinyin": "bǎ",
+        "review": "context_checked",
+        "cell_center_x": 369.27,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "木",
+        "pinyin": "mù",
+        "review": "context_checked",
+        "cell_center_x": 465.27,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "窗",
+        "pinyin": "chuāng",
+        "review": "context_checked",
+        "cell_center_x": 605.52,
+        "cell_width_px": 184.5
+      },
+      {
+        "hanzi": "重",
+        "pinyin": "chóng",
+        "review": "context_checked",
+        "cell_center_x": 776.25,
+        "cell_width_px": 156.95
+      },
+      {
+        "hanzi": "新",
+        "pinyin": "xīn",
+        "review": "context_checked",
+        "cell_center_x": 902.73,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 200.48,
+    "end_s": 202.56,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 821.453125,
+    "rows": 1
+  },
+  {
+    "cue_id": 100,
+    "unit_id": "p006_u01",
+    "paragraph_id": "p006",
+    "text": "关严实，",
+    "tokens": [
+      {
+        "hanzi": "关",
+        "pinyin": "guān",
+        "review": "context_checked",
+        "cell_center_x": 431.46,
+        "cell_width_px": 131.78
+      },
+      {
+        "hanzi": "严",
+        "pinyin": "yán",
+        "review": "context_checked",
+        "cell_center_x": 545.89,
+        "cell_width_px": 97.08
+      },
+      {
+        "hanzi": "实",
+        "pinyin": "shí",
+        "review": "context_checked",
+        "cell_center_x": 642.43,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 702.43,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 202.56,
+    "end_s": 203.72,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 348.859375,
+    "rows": 1
+  },
+  {
+    "cue_id": 101,
+    "unit_id": "p006_u01",
+    "paragraph_id": "p006",
+    "text": "拍拍手回到温暖",
+    "tokens": [
+      {
+        "hanzi": "拍",
+        "pinyin": "pāi",
+        "review": "context_checked",
+        "cell_center_x": 208.36,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "拍",
+        "pinyin": "pāi",
+        "review": "context_checked",
+        "cell_center_x": 304.36,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "手",
+        "pinyin": "shǒu",
+        "review": "context_checked",
+        "cell_center_x": 416.05,
+        "cell_width_px": 127.38
+      },
+      {
+        "hanzi": "回",
+        "pinyin": "huí",
+        "review": "context_checked",
+        "cell_center_x": 527.73,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "到",
+        "pinyin": "dào",
+        "review": "context_checked",
+        "cell_center_x": 626.48,
+        "cell_width_px": 101.48
+      },
+      {
+        "hanzi": "温",
+        "pinyin": "wēn",
+        "review": "context_checked",
+        "cell_center_x": 732.46,
+        "cell_width_px": 110.48
+      },
+      {
+        "hanzi": "暖",
+        "pinyin": "nuǎn",
+        "review": "context_checked",
+        "cell_center_x": 853.67,
+        "cell_width_px": 131.94
+      }
+    ],
+    "start_s": 204.08,
+    "end_s": 206.44,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 759.28125,
+    "rows": 1
+  },
+  {
+    "cue_id": 102,
+    "unit_id": "p006_u01",
+    "paragraph_id": "p006",
+    "text": "的床边。",
+    "tokens": [
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 378.5,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "床",
+        "pinyin": "chuáng",
+        "review": "context_checked",
+        "cell_center_x": 518.75,
+        "cell_width_px": 184.5
+      },
+      {
+        "hanzi": "边",
+        "pinyin": "biān",
+        "review": "context_checked",
+        "cell_center_x": 668.25,
+        "cell_width_px": 114.5
+      },
+      {
+        "hanzi": "。",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 737.5,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 206.44,
+    "end_s": 207.52,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 419.0,
+    "rows": 1
+  },
+  {
+    "cue_id": 103,
+    "unit_id": "p006_u02",
+    "paragraph_id": "p006",
+    "text": "窗外的小花园",
+    "tokens": [
+      {
+        "hanzi": "窗",
+        "pinyin": "chuāng",
+        "review": "context_checked",
+        "cell_center_x": 274.62,
+        "cell_width_px": 184.5
+      },
+      {
+        "hanzi": "外",
+        "pinyin": "wài",
+        "review": "context_checked",
+        "cell_center_x": 414.87,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 510.87,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "review": "context_checked",
+        "cell_center_x": 613.74,
+        "cell_width_px": 109.75
+      },
+      {
+        "hanzi": "花",
+        "pinyin": "huā",
+        "review": "context_checked",
+        "cell_center_x": 719.75,
+        "cell_width_px": 102.27
+      },
+      {
+        "hanzi": "园",
+        "pinyin": "yuán",
+        "review": "context_checked",
+        "cell_center_x": 834.26,
+        "cell_width_px": 126.75
+      }
+    ],
+    "start_s": 208.32,
+    "end_s": 210.2,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 715.265625,
+    "rows": 1
+  },
+  {
+    "cue_id": 104,
+    "unit_id": "p006_u02",
+    "paragraph_id": "p006",
+    "text": "已经收到了今晚",
+    "tokens": [
+      {
+        "hanzi": "已",
+        "pinyin": "yǐ",
+        "review": "context_checked",
+        "cell_center_x": 224.42,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "经",
+        "pinyin": "jīng",
+        "review": "context_checked",
+        "cell_center_x": 322.41,
+        "cell_width_px": 99.97
+      },
+      {
+        "hanzi": "收",
+        "pinyin": "shōu",
+        "review": "context_checked",
+        "cell_center_x": 436.08,
+        "cell_width_px": 127.38
+      },
+      {
+        "hanzi": "到",
+        "pinyin": "dào",
+        "review": "context_checked",
+        "cell_center_x": 550.51,
+        "cell_width_px": 101.48
+      },
+      {
+        "hanzi": "了",
+        "pinyin": "le",
+        "review": "context_checked",
+        "cell_center_x": 649.25,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "今",
+        "pinyin": "jīn",
+        "review": "context_checked",
+        "cell_center_x": 745.25,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "晚",
+        "pinyin": "wǎn",
+        "review": "context_checked",
+        "cell_center_x": 848.41,
+        "cell_width_px": 110.33
+      }
+    ],
+    "start_s": 210.28,
+    "end_s": 211.92,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 727.15625,
+    "rows": 1
+  },
+  {
+    "cue_id": 105,
+    "unit_id": "p006_u02",
+    "paragraph_id": "p006",
+    "text": "所有的雨水礼物，",
+    "tokens": [
+      {
+        "hanzi": "所",
+        "pinyin": "suǒ",
+        "review": "context_checked",
+        "cell_center_x": 231.04,
+        "cell_width_px": 97.7
+      },
+      {
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "review": "context_checked",
+        "cell_center_x": 329.49,
+        "cell_width_px": 99.2
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 427.09,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "雨",
+        "pinyin": "yǔ",
+        "review": "context_checked",
+        "cell_center_x": 523.09,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "水",
+        "pinyin": "shuǐ",
+        "review": "context_checked",
+        "cell_center_x": 626.45,
+        "cell_width_px": 110.72
+      },
+      {
+        "hanzi": "礼",
+        "pinyin": "lǐ",
+        "review": "context_checked",
+        "cell_center_x": 729.81,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "物",
+        "pinyin": "wù",
+        "review": "context_checked",
+        "cell_center_x": 825.81,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 885.81,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 211.92,
+    "end_s": 213.88,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 715.625,
+    "rows": 1
+  },
+  {
+    "cue_id": 106,
+    "unit_id": "p006_u02",
+    "paragraph_id": "p006",
+    "text": "再也不用添些",
+    "tokens": [
+      {
+        "hanzi": "再",
+        "pinyin": "zài",
+        "review": "context_checked",
+        "cell_center_x": 280.48,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "也",
+        "pinyin": "yě",
+        "review": "context_checked",
+        "cell_center_x": 376.48,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "不",
+        "pinyin": "bú",
+        "review": "context_checked",
+        "cell_center_x": 472.48,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "用",
+        "pinyin": "yòng",
+        "review": "context_checked",
+        "cell_center_x": 584.84,
+        "cell_width_px": 128.72
+      },
+      {
+        "hanzi": "添",
+        "pinyin": "tiān",
+        "review": "context_checked",
+        "cell_center_x": 700.36,
+        "cell_width_px": 102.31
+      },
+      {
+        "hanzi": "些",
+        "pinyin": "xiē",
+        "review": "context_checked",
+        "cell_center_x": 799.52,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 214.28,
+    "end_s": 215.72,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 615.03125,
+    "rows": 1
+  },
+  {
+    "cue_id": 107,
+    "unit_id": "p006_u02",
+    "paragraph_id": "p006",
+    "text": "什么了。",
+    "tokens": [
+      {
+        "hanzi": "什",
+        "pinyin": "shén",
+        "review": "context_checked",
+        "cell_center_x": 432.0,
+        "cell_width_px": 125.41
+      },
+      {
+        "hanzi": "么",
+        "pinyin": "me",
+        "review": "context_checked",
+        "cell_center_x": 542.7,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "了",
+        "pinyin": "le",
+        "review": "context_checked",
+        "cell_center_x": 638.7,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "。",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 698.7,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 215.72,
+    "end_s": 216.52,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 341.40625,
+    "rows": 1
+  },
+  {
+    "cue_id": 108,
+    "unit_id": "p006_u03",
+    "paragraph_id": "p006",
+    "text": "他把暖黄色的",
+    "tokens": [
+      {
+        "hanzi": "他",
+        "pinyin": "tā",
+        "review": "context_checked",
+        "cell_center_x": 249.3,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "把",
+        "pinyin": "bǎ",
+        "review": "context_checked",
+        "cell_center_x": 345.3,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "暖",
+        "pinyin": "nuǎn",
+        "review": "context_checked",
+        "cell_center_x": 459.27,
+        "cell_width_px": 131.94
+      },
+      {
+        "hanzi": "黄",
+        "pinyin": "huáng",
+        "review": "context_checked",
+        "cell_center_x": 605.97,
+        "cell_width_px": 161.45
+      },
+      {
+        "hanzi": "色",
+        "pinyin": "sè",
+        "review": "context_checked",
+        "cell_center_x": 734.7,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 830.7,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 217.32,
+    "end_s": 218.88,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 677.390625,
+    "rows": 1
+  },
+  {
+    "cue_id": 109,
+    "unit_id": "p006_u03",
+    "paragraph_id": "p006",
+    "text": "毛毯拉到肩头，",
+    "tokens": [
+      {
+        "hanzi": "毛",
+        "pinyin": "máo",
+        "review": "context_checked",
+        "cell_center_x": 284.57,
+        "cell_width_px": 116.84
+      },
+      {
+        "hanzi": "毯",
+        "pinyin": "tǎn",
+        "review": "context_checked",
+        "cell_center_x": 390.99,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "拉",
+        "pinyin": "lā",
+        "review": "context_checked",
+        "cell_center_x": 486.99,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "到",
+        "pinyin": "dào",
+        "review": "context_checked",
+        "cell_center_x": 585.73,
+        "cell_width_px": 101.48
+      },
+      {
+        "hanzi": "肩",
+        "pinyin": "jiān",
+        "review": "context_checked",
+        "cell_center_x": 685.16,
+        "cell_width_px": 97.38
+      },
+      {
+        "hanzi": "头",
+        "pinyin": "tóu",
+        "review": "context_checked",
+        "cell_center_x": 781.85,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 841.85,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 218.88,
+    "end_s": 221.0,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 627.703125,
+    "rows": 1
+  },
+  {
+    "cue_id": 110,
+    "unit_id": "p006_u03",
+    "paragraph_id": "p006",
+    "text": "让胡萝卜玩偶",
+    "tokens": [
+      {
+        "hanzi": "让",
+        "pinyin": "ràng",
+        "review": "context_checked",
+        "cell_center_x": 292.84,
+        "cell_width_px": 120.98
+      },
+      {
+        "hanzi": "胡",
+        "pinyin": "hú",
+        "review": "context_checked",
+        "cell_center_x": 401.33,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "萝",
+        "pinyin": "luó",
+        "review": "context_checked",
+        "cell_center_x": 497.33,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "卜",
+        "pinyin": "bo",
+        "review": "context_checked",
+        "cell_center_x": 593.33,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "玩",
+        "pinyin": "wán",
+        "review": "context_checked",
+        "cell_center_x": 696.49,
+        "cell_width_px": 110.33
+      },
+      {
+        "hanzi": "偶",
+        "pinyin": "ǒu",
+        "review": "context_checked",
+        "cell_center_x": 799.66,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 221.4,
+    "end_s": 223.24,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 615.3125,
+    "rows": 1
+  },
+  {
+    "cue_id": 111,
+    "unit_id": "p006_u03",
+    "paragraph_id": "p006",
+    "text": "紧紧靠着自己",
+    "tokens": [
+      {
+        "hanzi": "紧",
+        "pinyin": "jǐn",
+        "review": "context_checked",
+        "cell_center_x": 299.2,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "紧",
+        "pinyin": "jǐn",
+        "review": "context_checked",
+        "cell_center_x": 395.2,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "靠",
+        "pinyin": "kào",
+        "review": "context_checked",
+        "cell_center_x": 492.0,
+        "cell_width_px": 97.59
+      },
+      {
+        "hanzi": "着",
+        "pinyin": "zhe",
+        "review": "context_checked",
+        "cell_center_x": 588.8,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "自",
+        "pinyin": "zì",
+        "review": "context_checked",
+        "cell_center_x": 684.8,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "己",
+        "pinyin": "jǐ",
+        "review": "context_checked",
+        "cell_center_x": 780.8,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 223.32,
+    "end_s": 224.92,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 577.59375,
+    "rows": 1
+  },
+  {
+    "cue_id": 112,
+    "unit_id": "p006_u03",
+    "paragraph_id": "p006",
+    "text": "温暖的小手臂。",
+    "tokens": [
+      {
+        "hanzi": "温",
+        "pinyin": "wēn",
+        "review": "context_checked",
+        "cell_center_x": 247.47,
+        "cell_width_px": 110.48
+      },
+      {
+        "hanzi": "暖",
+        "pinyin": "nuǎn",
+        "review": "context_checked",
+        "cell_center_x": 368.68,
+        "cell_width_px": 131.94
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 482.65,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "review": "context_checked",
+        "cell_center_x": 585.52,
+        "cell_width_px": 109.75
+      },
+      {
+        "hanzi": "手",
+        "pinyin": "shǒu",
+        "review": "context_checked",
+        "cell_center_x": 704.09,
+        "cell_width_px": 127.38
+      },
+      {
+        "hanzi": "臂",
+        "pinyin": "bì",
+        "review": "context_checked",
+        "cell_center_x": 815.77,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "。",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 875.77,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 224.92,
+    "end_s": 226.84,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 695.546875,
+    "rows": 1
+  },
+  {
+    "cue_id": 113,
+    "unit_id": "p007_u01",
+    "paragraph_id": "p007",
+    "text": "最后一点零星的",
+    "tokens": [
+      {
+        "hanzi": "最",
+        "pinyin": "zuì",
+        "review": "context_checked",
+        "cell_center_x": 228.09,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "review": "context_checked",
+        "cell_center_x": 328.28,
+        "cell_width_px": 104.39
+      },
+      {
+        "hanzi": "一",
+        "pinyin": "yì",
+        "review": "context_checked",
+        "cell_center_x": 428.48,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "review": "context_checked",
+        "cell_center_x": 533.73,
+        "cell_width_px": 114.5
+      },
+      {
+        "hanzi": "零",
+        "pinyin": "líng",
+        "review": "context_checked",
+        "cell_center_x": 640.96,
+        "cell_width_px": 99.97
+      },
+      {
+        "hanzi": "星",
+        "pinyin": "xīng",
+        "review": "context_checked",
+        "cell_center_x": 747.43,
+        "cell_width_px": 112.97
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 851.91,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 227.84,
+    "end_s": 229.6,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 719.828125,
+    "rows": 1
+  },
+  {
+    "cue_id": 114,
+    "unit_id": "p007_u01",
+    "paragraph_id": "p007",
+    "text": "雨滴声也留在了",
+    "tokens": [
+      {
+        "hanzi": "雨",
+        "pinyin": "yǔ",
+        "review": "context_checked",
+        "cell_center_x": 222.54,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "滴",
+        "pinyin": "dī",
+        "review": "context_checked",
+        "cell_center_x": 318.54,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "声",
+        "pinyin": "shēng",
+        "review": "context_checked",
+        "cell_center_x": 444.0,
+        "cell_width_px": 154.92
+      },
+      {
+        "hanzi": "也",
+        "pinyin": "yě",
+        "review": "context_checked",
+        "cell_center_x": 569.46,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "留",
+        "pinyin": "liú",
+        "review": "context_checked",
+        "cell_center_x": 665.46,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "在",
+        "pinyin": "zài",
+        "review": "context_checked",
+        "cell_center_x": 761.46,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "了",
+        "pinyin": "le",
+        "review": "context_checked",
+        "cell_center_x": 857.46,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 229.6,
+    "end_s": 231.64,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 730.921875,
+    "rows": 1
+  },
+  {
+    "cue_id": 115,
+    "unit_id": "p007_u01",
+    "paragraph_id": "p007",
+    "text": "窗外，屋里只剩下",
+    "tokens": [
+      {
+        "hanzi": "窗",
+        "pinyin": "chuāng",
+        "review": "context_checked",
+        "cell_center_x": 210.54,
+        "cell_width_px": 184.5
+      },
+      {
+        "hanzi": "外",
+        "pinyin": "wài",
+        "review": "context_checked",
+        "cell_center_x": 350.79,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 410.79,
+        "cell_width_px": 24
+      },
+      {
+        "hanzi": "屋",
+        "pinyin": "wū",
+        "review": "context_checked",
+        "cell_center_x": 470.79,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "review": "context_checked",
+        "cell_center_x": 566.79,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "只",
+        "pinyin": "zhǐ",
+        "review": "context_checked",
+        "cell_center_x": 662.79,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "剩",
+        "pinyin": "shèng",
+        "review": "context_checked",
+        "cell_center_x": 788.25,
+        "cell_width_px": 154.92
+      },
+      {
+        "hanzi": "下",
+        "pinyin": "xià",
+        "review": "context_checked",
+        "cell_center_x": 913.71,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 231.64,
+    "end_s": 234.68,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 843.421875,
+    "rows": 1
+  },
+  {
+    "cue_id": 116,
+    "unit_id": "p007_u01",
+    "paragraph_id": "p007",
+    "text": "安静与温暖。",
+    "tokens": [
+      {
+        "hanzi": "安",
+        "pinyin": "ān",
+        "review": "context_checked",
+        "cell_center_x": 308.8,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "静",
+        "pinyin": "jìng",
+        "review": "context_checked",
+        "cell_center_x": 406.79,
+        "cell_width_px": 99.97
+      },
+      {
+        "hanzi": "与",
+        "pinyin": "yǔ",
+        "review": "context_checked",
+        "cell_center_x": 504.77,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "温",
+        "pinyin": "wēn",
+        "review": "context_checked",
+        "cell_center_x": 608.02,
+        "cell_width_px": 110.48
+      },
+      {
+        "hanzi": "暖",
+        "pinyin": "nuǎn",
+        "review": "context_checked",
+        "cell_center_x": 729.23,
+        "cell_width_px": 131.94
+      },
+      {
+        "hanzi": "。",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 807.2,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 234.68,
+    "end_s": 236.24,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 558.390625,
+    "rows": 1
+  },
+  {
+    "cue_id": 117,
+    "unit_id": "p007_u02",
+    "paragraph_id": "p007",
+    "text": "皮皮的眼睛，",
+    "tokens": [
+      {
+        "hanzi": "皮",
+        "pinyin": "pí",
+        "review": "context_checked",
+        "cell_center_x": 333.48,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "皮",
+        "pinyin": "pí",
+        "review": "context_checked",
+        "cell_center_x": 429.48,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 525.48,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "眼",
+        "pinyin": "yǎn",
+        "review": "context_checked",
+        "cell_center_x": 622.02,
+        "cell_width_px": 97.08
+      },
+      {
+        "hanzi": "睛",
+        "pinyin": "jīng",
+        "review": "context_checked",
+        "cell_center_x": 720.54,
+        "cell_width_px": 99.97
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 782.52,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 237.04,
+    "end_s": 238.68,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 509.046875,
+    "rows": 1
+  },
+  {
+    "cue_id": 118,
+    "unit_id": "p007_u02",
+    "paragraph_id": "p007",
+    "text": "慢慢地合上了。",
+    "tokens": [
+      {
+        "hanzi": "慢",
+        "pinyin": "màn",
+        "review": "context_checked",
+        "cell_center_x": 247.88,
+        "cell_width_px": 117.47
+      },
+      {
+        "hanzi": "慢",
+        "pinyin": "màn",
+        "review": "context_checked",
+        "cell_center_x": 365.35,
+        "cell_width_px": 117.47
+      },
+      {
+        "hanzi": "地",
+        "pinyin": "dì",
+        "review": "context_checked",
+        "cell_center_x": 472.09,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "合",
+        "pinyin": "hé",
+        "review": "context_checked",
+        "cell_center_x": 568.09,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "上",
+        "pinyin": "shàng",
+        "review": "context_checked",
+        "cell_center_x": 693.47,
+        "cell_width_px": 154.77
+      },
+      {
+        "hanzi": "了",
+        "pinyin": "le",
+        "review": "context_checked",
+        "cell_center_x": 818.85,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "。",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 878.85,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 238.96,
+    "end_s": 240.88,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 701.703125,
+    "rows": 1
+  },
+  {
+    "cue_id": 119,
+    "unit_id": "p007_u03",
+    "paragraph_id": "p007",
+    "text": "小朋友，",
+    "tokens": [
+      {
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "review": "context_checked",
+        "cell_center_x": 412.51,
+        "cell_width_px": 109.75
+      },
+      {
+        "hanzi": "朋",
+        "pinyin": "péng",
+        "review": "context_checked",
+        "cell_center_x": 533.27,
+        "cell_width_px": 131.78
+      },
+      {
+        "hanzi": "友",
+        "pinyin": "you",
+        "review": "context_checked",
+        "cell_center_x": 648.77,
+        "cell_width_px": 99.2
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 710.37,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 241.68,
+    "end_s": 242.84,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 364.734375,
+    "rows": 1
+  },
+  {
+    "cue_id": 120,
+    "unit_id": "p007_u03",
+    "paragraph_id": "p007",
+    "text": "今天耳朵听到的",
+    "tokens": [
+      {
+        "hanzi": "今",
+        "pinyin": "jīn",
+        "review": "context_checked",
+        "cell_center_x": 237.53,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "review": "context_checked",
+        "cell_center_x": 336.69,
+        "cell_width_px": 102.31
+      },
+      {
+        "hanzi": "耳",
+        "pinyin": "ěr",
+        "review": "context_checked",
+        "cell_center_x": 435.84,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "朵",
+        "pinyin": "duǒ",
+        "review": "context_checked",
+        "cell_center_x": 535.96,
+        "cell_width_px": 104.23
+      },
+      {
+        "hanzi": "听",
+        "pinyin": "tīng",
+        "review": "context_checked",
+        "cell_center_x": 640.53,
+        "cell_width_px": 104.91
+      },
+      {
+        "hanzi": "到",
+        "pinyin": "dào",
+        "review": "context_checked",
+        "cell_center_x": 743.73,
+        "cell_width_px": 101.48
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 842.47,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 243.24,
+    "end_s": 245.32,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 700.9375,
+    "rows": 1
+  },
+  {
+    "cue_id": 121,
+    "unit_id": "p007_u03",
+    "paragraph_id": "p007",
+    "text": "所有细小声音，",
+    "tokens": [
+      {
+        "hanzi": "所",
+        "pinyin": "suǒ",
+        "review": "context_checked",
+        "cell_center_x": 250.06,
+        "cell_width_px": 97.7
+      },
+      {
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "review": "context_checked",
+        "cell_center_x": 348.52,
+        "cell_width_px": 99.2
+      },
+      {
+        "hanzi": "细",
+        "pinyin": "xì",
+        "review": "context_checked",
+        "cell_center_x": 446.12,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "review": "context_checked",
+        "cell_center_x": 548.99,
+        "cell_width_px": 109.75
+      },
+      {
+        "hanzi": "声",
+        "pinyin": "shēng",
+        "review": "context_checked",
+        "cell_center_x": 681.33,
+        "cell_width_px": 154.92
+      },
+      {
+        "hanzi": "音",
+        "pinyin": "yīn",
+        "review": "context_checked",
+        "cell_center_x": 806.79,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 866.79,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 245.32,
+    "end_s": 247.2,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 677.578125,
+    "rows": 1
+  },
+  {
+    "cue_id": 122,
+    "unit_id": "p007_u03",
+    "paragraph_id": "p007",
+    "text": "都已经像小雨珠",
+    "tokens": [
+      {
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "review": "context_checked",
+        "cell_center_x": 220.24,
+        "cell_width_px": 104.23
+      },
+      {
+        "hanzi": "已",
+        "pinyin": "yǐ",
+        "review": "context_checked",
+        "cell_center_x": 320.36,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "经",
+        "pinyin": "jīng",
+        "review": "context_checked",
+        "cell_center_x": 418.34,
+        "cell_width_px": 99.97
+      },
+      {
+        "hanzi": "像",
+        "pinyin": "xiàng",
+        "review": "context_checked",
+        "cell_center_x": 538.27,
+        "cell_width_px": 139.89
+      },
+      {
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "review": "context_checked",
+        "cell_center_x": 663.09,
+        "cell_width_px": 109.75
+      },
+      {
+        "hanzi": "雨",
+        "pinyin": "yǔ",
+        "review": "context_checked",
+        "cell_center_x": 765.97,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "珠",
+        "pinyin": "zhū",
+        "review": "context_checked",
+        "cell_center_x": 862.92,
+        "cell_width_px": 97.91
+      }
+    ],
+    "start_s": 247.56,
+    "end_s": 249.6,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 743.75,
+    "rows": 1
+  },
+  {
+    "cue_id": 123,
+    "unit_id": "p007_u03",
+    "paragraph_id": "p007",
+    "text": "回到泥土里一样，",
+    "tokens": [
+      {
+        "hanzi": "回",
+        "pinyin": "huí",
+        "review": "context_checked",
+        "cell_center_x": 221.96,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "到",
+        "pinyin": "dào",
+        "review": "context_checked",
+        "cell_center_x": 320.7,
+        "cell_width_px": 101.48
+      },
+      {
+        "hanzi": "泥",
+        "pinyin": "ní",
+        "review": "context_checked",
+        "cell_center_x": 419.45,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "土",
+        "pinyin": "tǔ",
+        "review": "context_checked",
+        "cell_center_x": 515.45,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "review": "context_checked",
+        "cell_center_x": 611.45,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "一",
+        "pinyin": "yí",
+        "review": "context_checked",
+        "cell_center_x": 707.45,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "样",
+        "pinyin": "yàng",
+        "review": "context_checked",
+        "cell_center_x": 818.74,
+        "cell_width_px": 126.59
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 894.04,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 249.6,
+    "end_s": 251.68,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 732.078125,
+    "rows": 1
+  },
+  {
+    "cue_id": 124,
+    "unit_id": "p007_u03",
+    "paragraph_id": "p007",
+    "text": "找到自己的去处啦。",
+    "tokens": [
+      {
+        "hanzi": "找",
+        "pinyin": "zhǎo",
+        "review": "context_checked",
+        "cell_center_x": 188.06,
+        "cell_width_px": 124.2
+      },
+      {
+        "hanzi": "到",
+        "pinyin": "dào",
+        "review": "context_checked",
+        "cell_center_x": 300.91,
+        "cell_width_px": 101.48
+      },
+      {
+        "hanzi": "自",
+        "pinyin": "zì",
+        "review": "context_checked",
+        "cell_center_x": 399.65,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "己",
+        "pinyin": "jǐ",
+        "review": "context_checked",
+        "cell_center_x": 495.65,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de",
+        "review": "context_checked",
+        "cell_center_x": 591.65,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "去",
+        "pinyin": "qù",
+        "review": "context_checked",
+        "cell_center_x": 687.65,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "处",
+        "pinyin": "chù",
+        "review": "context_checked",
+        "cell_center_x": 784.84,
+        "cell_width_px": 98.39
+      },
+      {
+        "hanzi": "啦",
+        "pinyin": "la",
+        "review": "context_checked",
+        "cell_center_x": 882.04,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "。",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 942.04,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 251.96,
+    "end_s": 254.32,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 828.078125,
+    "rows": 1
+  },
+  {
+    "cue_id": 125,
+    "unit_id": "p007_u04",
+    "paragraph_id": "p007",
+    "text": "你也舒舒服服地",
+    "tokens": [
+      {
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "review": "context_checked",
+        "cell_center_x": 249.67,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "也",
+        "pinyin": "yě",
+        "review": "context_checked",
+        "cell_center_x": 345.67,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "舒",
+        "pinyin": "shū",
+        "review": "context_checked",
+        "cell_center_x": 442.84,
+        "cell_width_px": 98.33
+      },
+      {
+        "hanzi": "舒",
+        "pinyin": "shū",
+        "review": "context_checked",
+        "cell_center_x": 541.16,
+        "cell_width_px": 98.33
+      },
+      {
+        "hanzi": "服",
+        "pinyin": "fu",
+        "review": "context_checked",
+        "cell_center_x": 638.33,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "服",
+        "pinyin": "fú",
+        "review": "context_checked",
+        "cell_center_x": 734.33,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "地",
+        "pinyin": "dì",
+        "review": "context_checked",
+        "cell_center_x": 830.33,
+        "cell_width_px": 96
+      }
+    ],
+    "start_s": 255.12,
+    "end_s": 256.92,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 676.65625,
+    "rows": 1
+  },
+  {
+    "cue_id": 126,
+    "unit_id": "p007_u04",
+    "paragraph_id": "p007",
+    "text": "歇着吧，晚安。",
+    "tokens": [
+      {
+        "hanzi": "歇",
+        "pinyin": "xiē",
+        "review": "context_checked",
+        "cell_center_x": 316.84,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "着",
+        "pinyin": "zhe",
+        "review": "context_checked",
+        "cell_center_x": 412.84,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "review": "context_checked",
+        "cell_center_x": 508.84,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "，",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 568.84,
+        "cell_width_px": 24
+      },
+      {
+        "hanzi": "晚",
+        "pinyin": "wǎn",
+        "review": "context_checked",
+        "cell_center_x": 636.0,
+        "cell_width_px": 110.33
+      },
+      {
+        "hanzi": "安",
+        "pinyin": "ān",
+        "review": "context_checked",
+        "cell_center_x": 739.16,
+        "cell_width_px": 96
+      },
+      {
+        "hanzi": "。",
+        "pinyin": "",
+        "review": "punctuation",
+        "cell_center_x": 799.16,
+        "cell_width_px": 24
+      }
+    ],
+    "start_s": 256.92,
+    "end_s": 259.04,
+    "alignment": "actual_tts_word_boundaries_phrase_groups",
+    "layout_width_px": 542.328125,
+    "rows": 1
+  }
+]

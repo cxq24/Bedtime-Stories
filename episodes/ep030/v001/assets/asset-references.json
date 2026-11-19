@@ -1,0 +1,28 @@
+{
+  "assets": [
+    {
+      "asset_id": "window_garden_scene_anchor",
+      "path": "references/window_garden_anchor.png",
+      "asset_copy": "assets/window_garden_anchor.png",
+      "source": "OpenAI image_gen, generated 2026-11-18",
+      "sha256": "97f780896d61392874e6f62f987657f8dd681f3c60ea68316cb7b72cab2b8323",
+      "size": [
+        941,
+        1672
+      ],
+      "description": "night forest cottage after rain; slanted wooden eaves above clean wood window; fixed terracotta flowerpot directly outside/below window; one broad green leaf initially leaning over rim; droplets on eaves. This is a scene/layout reference, not a final storyboard frame."
+    },
+    {
+      "asset_id": "bedroom_layout_anchor",
+      "path": "references/bedroom_layout_anchor.png",
+      "asset_copy": "assets/bedroom_layout_anchor.png",
+      "source": "OpenAI image_gen, generated 2026-11-18",
+      "sha256": "68a41b9772e0cdc28b0e4fe0f492a9d1559c1aaeaaefe7ed30e60a62e4093562",
+      "size": [
+        941,
+        1672
+      ],
+      "description": "bedroom scene layout: bed at left, single wood-framed window at right, bedside lamp, yellow blanket and carrot plush on bed; scene anchor not final frame."
+    }
+  ]
+}

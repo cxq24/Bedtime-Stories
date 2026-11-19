@@ -1,0 +1,233 @@
+{
+  "text": "屋檐上挂着的雨珠越来越少，两滴水珠落下来的间隔也越来越长，窗外那细微的小响声，慢慢地隔得远了，最终彻底融进了夜色里。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "84b383ce2f1fc27548e3f03ee5347bb163c5f8d0f2a51cb9c98ddbce076a4944",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5577080,
+      "text": "屋檐"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 4615410,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11846250,
+      "duration": 3076660,
+      "text": "挂"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14922910,
+      "duration": 1730830,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16653750,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18384580,
+      "duration": 5769160,
+      "text": "雨珠"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24538330,
+      "duration": 7307500,
+      "text": "越来越"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31846250,
+      "duration": 5577080,
+      "text": "少"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42422910,
+      "duration": 3077080,
+      "text": "两"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45500000,
+      "duration": 2115410,
+      "text": "滴"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47807500,
+      "duration": 6922910,
+      "text": "水珠"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55115410,
+      "duration": 2307500,
+      "text": "落"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57422910,
+      "duration": 4230830,
+      "text": "下来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61653750,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63000000,
+      "duration": 9038330,
+      "text": "间隔"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 73577080,
+      "duration": 2307500,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 76077080,
+      "duration": 7307500,
+      "text": "越来越"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 83384580,
+      "duration": 5384580,
+      "text": "长"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 93769160,
+      "duration": 5384580,
+      "text": "窗外"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 99346250,
+      "duration": 1922910,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 101461660,
+      "duration": 5769160,
+      "text": "细微"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 107230830,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 108577080,
+      "duration": 2884580,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 111461660,
+      "duration": 7884580,
+      "text": "响声"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 123077080,
+      "duration": 6153750,
+      "text": "慢慢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 129230830,
+      "duration": 1538330,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 131153750,
+      "duration": 2307500,
+      "text": "隔"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 133461660,
+      "duration": 1730830,
+      "text": "得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 135192500,
+      "duration": 4038330,
+      "text": "远"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 139230830,
+      "duration": 3653750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 147500000,
+      "duration": 5769160,
+      "text": "最终"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 153653750,
+      "duration": 5577080,
+      "text": "彻底"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 159422910,
+      "duration": 2884580,
+      "text": "融"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 162307500,
+      "duration": 2115410,
+      "text": "进"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 164422910,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 165769160,
+      "duration": 7115410,
+      "text": "夜色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 172884580,
+      "duration": 3077080,
+      "text": "里"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "text": "雨停以后，花园里的最后一滴雨珠会落到哪里呢？",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "7a5200cfbf4ae8f765775ab0139d9fb922d9734fc5e41c766e2553281fcbdcac",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2115410,
+      "text": "雨"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3384580,
+      "duration": 2500000,
+      "text": "停"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6077080,
+      "duration": 7307500,
+      "text": "以后"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17807500,
+      "duration": 7115410,
+      "text": "花园里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24922910,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26653750,
+      "duration": 5192500,
+      "text": "最后"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32038330,
+      "duration": 1922910,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33961660,
+      "duration": 2500000,
+      "text": "滴"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36653750,
+      "duration": 7692500,
+      "text": "雨珠"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45692500,
+      "duration": 2500000,
+      "text": "会"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48384580,
+      "duration": 1922910,
+      "text": "落"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50307500,
+      "duration": 2307500,
+      "text": "到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52807500,
+      "duration": 5577080,
+      "text": "哪里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58384580,
+      "duration": 3653750,
+      "text": "呢"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "shot_id": 34,
+  "image": "images/shot_34.png",
+  "sha256": "5decf02197848eb45cfb7fea751f49decb125ad8cd410b17411002168d491dfa",
+  "source": "OpenAI image_gen",
+  "generated_on": null,
+  "prompt_file": "prompts/shot_34.json",
+  "prompt_reference": null,
+  "continuity_refs": [
+    "garden_bed",
+    "terracotta_pot",
+    "broad_leaf",
+    "wood_window"
+  ],
+  "review_status": "reviewed_in_full_contact_sheet"
+}

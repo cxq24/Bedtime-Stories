@@ -1,0 +1,107 @@
+{
+  "text": "皮皮好奇地走到窗边，隔着擦得干干净净的玻璃往上看。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "fcb44dd07006ade9f0ec0477998f4046dab421cf38a4aa46ffc1ede79757c2b5",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5384580,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 6153750,
+      "text": "好奇"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13192500,
+      "duration": 1730830,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15307500,
+      "duration": 2500000,
+      "text": "走"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17807500,
+      "duration": 2115410,
+      "text": "到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20115410,
+      "duration": 4422910,
+      "text": "窗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24538330,
+      "duration": 4230830,
+      "text": "边"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33577080,
+      "duration": 3076660,
+      "text": "隔"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36653750,
+      "duration": 1730830,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38577080,
+      "duration": 3269160,
+      "text": "擦"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41846250,
+      "duration": 3077080,
+      "text": "得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45307500,
+      "duration": 10961660,
+      "text": "干干净净"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56269160,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58000000,
+      "duration": 5384580,
+      "text": "玻璃"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63769160,
+      "duration": 6153750,
+      "text": "往上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 69922910,
+      "duration": 4807500,
+      "text": "看"
+    }
+  ]
+}

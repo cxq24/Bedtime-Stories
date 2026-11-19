@@ -1,0 +1,13 @@
+{
+  "episode": "ep030",
+  "references": [
+    {
+      "character_id": "pipi",
+      "reference_version": "v001",
+      "source_path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "local_copy": "references/pipi_identity_v001.png",
+      "sha256": "6f754c72b9fa7281790bb1fce42bb18701ea055446fda2cdec7ae58b92232674",
+      "status": "copied_for_identity_reference_not_expression_reference"
+    }
+  ]
+}

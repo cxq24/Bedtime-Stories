@@ -1,0 +1,29 @@
+{
+  "episode": "ep030",
+  "shot_id": 5,
+  "script_version": "v5",
+  "status": "ready_for_image_generation",
+  "style": "竖屏9:16、单幅满版儿童绘本插画，手绘水彩、细纸纹、圆润简洁造型。暖琥珀灯光配静谧灰蓝夜色，米黄、柔暗橄榄绿、暖灰与低饱和赭色，柔和对比。人物与道具遵循参考图；单镜只呈现一个地点和明确可见的动作姿态。不要画文字、字幕、字母、商标、水印、拼贴边框；不要写实皮肤、3D塑料质感、闪白、荧光、惊吓表情。",
+  "aspect_ratio": "9:16",
+  "spoken_text": "听见窗外传来一声很轻的：“滴答。”",
+  "visual_description": "窗边特写：窗外檐角一滴雨水落下，室内皮皮侧耳倾听。",
+  "character_emotional_performance": "皮皮：好奇聆听；身体朝窗。",
+  "continuity_references": [
+    {
+      "asset_id": "pipi",
+      "appearance_anchor": "小灰兔，暖灰毛、圆脸、粉色小鼻、自然下垂长耳；本集卧室保持深蓝星星睡帽与黄色帽球、同一睡衣。"
+    },
+    {
+      "asset_id": "roof_droplets",
+      "appearance_anchor": "小木屋倾斜木屋檐尖的一排透明雨珠，雨停后逐渐减少。"
+    }
+  ],
+  "fixed_scene_reference": "../references/bedroom_layout_anchor.png",
+  "composition_notes": "人物脸部和关键动作位于字幕安全区上方；采用单幅静态水彩绘本画面；本镜单一地点，保持窗内外方向与前镜状态连续。",
+  "negative_constraints": "画面内不生成文字、字幕、字母、商标、水印、拼贴边框；不添加剧本未出现的人物或动作；不画声波；保持角色身份但逐镜按本镜表演描述替换参考图表情；避免忧郁/困倦默认表情、3D塑料质感、荧光和夸张惊吓表演。",
+  "character_identity_reference": "../references/pipi_identity_v001.png",
+  "fixed_scene_references": [
+    "../references/bedroom_layout_anchor.png",
+    "../references/window_garden_anchor.png"
+  ]
+}

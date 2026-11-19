@@ -1,0 +1,77 @@
+{
+  "text": "过了一小会儿，又是轻轻的一声：“滴答。”",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "2f0171020b303705e8c41ec03787943c6ecb2f6f36e77763f05acee5ed40bb31",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2884580,
+      "text": "过"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4153750,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5500000,
+      "duration": 2307500,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7807500,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11077080,
+      "duration": 4230830,
+      "text": "会儿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19730830,
+      "duration": 4615410,
+      "text": "又是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24538330,
+      "duration": 5577080,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30115410,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31461660,
+      "duration": 2307500,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33769160,
+      "duration": 4422910,
+      "text": "声"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42230830,
+      "duration": 7115410,
+      "text": "滴答"
+    }
+  ]
+}
