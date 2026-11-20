@@ -46,5 +46,7 @@
   "technical_check": "passed_full_decode_both_versions_dimensions_duration_fps_audio_streams",
   "human_full_watch": "not_certified",
   "user_acceptance": "pending",
-  "publication": "not_published"
+  "publication": "not_published",
+  "github_sync": "synced_to_main",
+  "github_sync_commit": "edbaf87"
 }
