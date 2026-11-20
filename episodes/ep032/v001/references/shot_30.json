@@ -1,0 +1,16 @@
+{
+  "episode": "ep032",
+  "shot_id": 30,
+  "image": "images/shot_30.png",
+  "source_manifest": "images/shot_30.source.json",
+  "source_sha256": "e0a3b9130f5ead70580cee1ba29153997e0d30300b5dfe1871383b271ba5c71a",
+  "prompt_file": "prompts/shot_30.json",
+  "prompt_sha256": "d1d662aaa352b2d44cf2bcbdb01b7626dd79ee77a4e1f917bf1d70acdf9a32b4",
+  "loaded_references": [
+    "images/shot_27.png",
+    "images/shot_06.png",
+    "assets/night_identity_anchor.png"
+  ],
+  "storyboard_title": "舒服可以有许多不一样的样子",
+  "continuity_refs": "小床承托皮皮侧身。"
+}

@@ -1,0 +1,18 @@
+{
+  "episode": "ep032",
+  "shot_id": 7,
+  "image": "images/shot_07.png",
+  "source_manifest": "images/shot_07.source.json",
+  "source_sha256": "5d23d4d3f074718625fea1e178b76f26eafe3ffc9638207d8b96b0483a2d9207",
+  "prompt_file": "prompts/shot_07.json",
+  "prompt_sha256": "723684ed87e8609cd85b25f5f076bcdd5ed0356b77054a4db502be6a4ee08e09",
+  "loaded_references": [
+    "images/shot_06.png",
+    "images/shot_04.png",
+    "assets/pinecone_anchor.png",
+    "references/pipi_identity_v001.png",
+    "assets/day_wardrobe_anchor.png"
+  ],
+  "storyboard_title": "皮皮想让松果像小士兵一样站立",
+  "continuity_refs": "松果刚被带回卧室，尚未放置。"
+}

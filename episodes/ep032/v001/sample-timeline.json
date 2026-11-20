@@ -1,0 +1,63 @@
+{
+  "duration_s": 5.6,
+  "fps": 25,
+  "sample_rate": 48000,
+  "voice": {
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%"
+  },
+  "units": [
+    {
+      "id": "p000_u01",
+      "paragraph_id": "p000",
+      "text": "小朋友们，准备好听故事了吗？",
+      "pause_after_s": 0.72,
+      "start_s": 1.0,
+      "end_s": 4.8451249999999995,
+      "source": "audio/source/p000_u01.mp3",
+      "source_trim_start_s": 0.1365625,
+      "word_boundaries": [
+        {
+          "text": "小朋友",
+          "start_s": 1.0,
+          "end_s": 1.8749785
+        },
+        {
+          "text": "们",
+          "start_s": 1.8749785,
+          "end_s": 2.2596035
+        },
+        {
+          "text": "准备",
+          "start_s": 2.6057285,
+          "end_s": 2.9903535000000003
+        },
+        {
+          "text": "好听",
+          "start_s": 3.0096035,
+          "end_s": 3.5865194999999996
+        },
+        {
+          "text": "故事",
+          "start_s": 3.6057284999999997,
+          "end_s": 4.124978499999999
+        },
+        {
+          "text": "了",
+          "start_s": 4.124978499999999,
+          "end_s": 4.2596035
+        },
+        {
+          "text": "吗",
+          "start_s": 4.2596035,
+          "end_s": 4.6634364999999995
+        }
+      ],
+      "source_peak": 0.5681527853012085,
+      "normalized_active_rms": 0.105
+    }
+  ],
+  "is_sample": true
+}

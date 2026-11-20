@@ -1,0 +1,18 @@
+{
+  "episode": "ep032",
+  "shot_id": 3,
+  "image": "images/shot_03.png",
+  "source_manifest": "images/shot_03.source.json",
+  "source_sha256": "4d3d6894328b24afcdf688fbf0f91274f6bfaa492868668384eb737f373af7cf",
+  "prompt_file": "prompts/shot_03.json",
+  "prompt_sha256": "4ce5062c082371f7f5a3fb3f42c3f3d379b50b07cb61506565f6c233b66cd081",
+  "loaded_references": [
+    "images/shot_02.png",
+    "references/pipi_identity_v001.png",
+    "assets/day_wardrobe_anchor.png",
+    "references/yaya_identity_v001.png",
+    "references/rongrong_identity_v001.png"
+  ],
+  "storyboard_title": "小朋友们把秋果摆上课桌",
+  "continuity_refs": "教室果实展刚开始。"
+}

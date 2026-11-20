@@ -23,7 +23,7 @@ def write_wave(path, data):
         f.writeframes((data * 32767).clip(-32768, 32767).astype('<i2').tobytes())
 
 
-def prepare_assets(out, duration, title):
+def prepare_assets(out, duration, title, title_lines=None):
     for name in ('NotoSansCJKsc-Regular.otf', 'NotoSansCJKsc-Bold.otf', 'NotoSans-Regular.ttf',
                  'Noto-CJK-copyright.txt', 'Noto-Sans-copyright.txt'):
         target = out / 'fonts' / name
@@ -75,7 +75,9 @@ def prepare_assets(out, duration, title):
         draw = ImageDraw.Draw(layer)
         draw.rounded_rectangle((108, 1140, 972, 1580), radius=48, fill=(255, 244, 220, 240))
         font = ImageFont.truetype(str(out / 'fonts/NotoSansCJKsc-Bold.otf'), 112)
-        if len(title) <= 4:
+        if title_lines:
+            lines = title_lines
+        elif len(title) <= 4:
             lines = [title]
         else:
             split_at = min(4, (len(title) + 1) // 2)
@@ -108,7 +110,7 @@ def main():
     title = plan.get('cover_title') or (out / 'cover-title.txt').read_text().strip()
     title = ''.join(title.splitlines())
     assert 4 <= len(title) <= 8, '封面与发布标题须统一，标题通常4–8个汉字'
-    prepare_assets(out, plan['total_duration_s'], title)
+    prepare_assets(out, plan['total_duration_s'], title, plan.get('cover_title_lines'))
     if args.assets_only:
         print('AUDIO_BEDS_COVER_FONTS_READY', flush=True)
         return

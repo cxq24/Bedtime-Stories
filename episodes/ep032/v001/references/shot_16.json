@@ -1,0 +1,15 @@
+{
+  "episode": "ep032",
+  "shot_id": 16,
+  "image": "images/shot_16.png",
+  "source_manifest": "images/shot_16.source.json",
+  "source_sha256": "08af31aad962b495bc9bef6ea42eaf777370afc738d442ecf7ce445c6753ee85",
+  "prompt_file": "prompts/shot_16.json",
+  "prompt_sha256": "296fb9e956fad4314582b4a4fee90326dd817ae5d6de5154e3e99f32e897bc19",
+  "loaded_references": [
+    "images/shot_06.png",
+    "assets/pinecone_anchor.png"
+  ],
+  "storyboard_title": "拿来原木小托盘和米色软绒布",
+  "continuity_refs": "皮皮已接受松果侧躺，硬纸板移开。"
+}

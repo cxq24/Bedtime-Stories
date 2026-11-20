@@ -1,0 +1,15 @@
+{
+  "episode": "ep032",
+  "shot_id": 27,
+  "image": "images/shot_27.png",
+  "source_manifest": "images/shot_27.source.json",
+  "source_sha256": "0155fc5656225bf91ccb4151bd0b3c6833c40ee4050f1ed493a1ade749fcdbe8",
+  "prompt_file": "prompts/shot_27.json",
+  "prompt_sha256": "bbf8b5ca76b8f588b90dea19e3db2513d583036a0c7c7fb645353ce10b16fc20",
+  "loaded_references": [
+    "images/shot_25.png",
+    "assets/night_identity_anchor.png"
+  ],
+  "storyboard_title": "皮皮也转过身抱住胡萝卜玩偶",
+  "continuity_refs": "皮皮靠回大枕头。"
+}

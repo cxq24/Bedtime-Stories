@@ -1,0 +1,15 @@
+{
+  "episode": "ep032",
+  "shot_id": 29,
+  "image": "images/shot_29.png",
+  "source_manifest": "images/shot_29.source.json",
+  "source_sha256": "4d6c1ce5fdbfc3c2731e4e89d7436bebf7432325e1b587d0628913f025bd6dba",
+  "prompt_file": "prompts/shot_29.json",
+  "prompt_sha256": "91d0608263aef2cf611dd8cd8050a49ccf23a7a46dda5b1c389844a8d9257b0b",
+  "loaded_references": [
+    "images/shot_27.png",
+    "assets/night_identity_anchor.png"
+  ],
+  "storyboard_title": "柔软小床稳稳托住侧身",
+  "continuity_refs": "皮皮已侧卧，睡帽帽尖垂下。"
+}

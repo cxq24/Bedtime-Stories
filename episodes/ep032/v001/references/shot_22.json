@@ -1,0 +1,15 @@
+{
+  "episode": "ep032",
+  "shot_id": 22,
+  "image": "images/shot_22.png",
+  "source_manifest": "images/shot_22.source.json",
+  "source_sha256": "a5e6af44dffe6ea1bfa68c177b8bf2d4c864282b5f8a439445167dd9c27b587c",
+  "prompt_file": "prompts/shot_22.json",
+  "prompt_sha256": "525c50cbdd81422e57d4e25b688fc2f6a27b207575177a2aec9a6187e7aadbaa",
+  "loaded_references": [
+    "images/shot_21.png",
+    "assets/pinecone_anchor.png"
+  ],
+  "storyboard_title": "每一枚松果都有自己的方向",
+  "continuity_refs": "皮皮在窗内看见老松树。"
+}

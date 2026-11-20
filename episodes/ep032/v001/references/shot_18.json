@@ -1,0 +1,15 @@
+{
+  "episode": "ep032",
+  "shot_id": 18,
+  "image": "images/shot_18.png",
+  "source_manifest": "images/shot_18.source.json",
+  "source_sha256": "eb451f9bb0fc42c5d25925857c3605855050ae08aeff4d58746a58a250cfc9b4",
+  "prompt_file": "prompts/shot_18.json",
+  "prompt_sha256": "611caab8ca8dd2281d07e1ae02dab8e44a48562f14f6d16dd4bf6c6c1ad50b36",
+  "loaded_references": [
+    "images/shot_16.png",
+    "assets/pinecone_anchor.png"
+  ],
+  "storyboard_title": "这回松果再也不摇晃了",
+  "continuity_refs": "松果刚被放在绒布托盘上。"
+}

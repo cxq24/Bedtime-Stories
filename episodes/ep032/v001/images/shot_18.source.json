@@ -1,0 +1,15 @@
+{
+  "image": "images/shot_18.png",
+  "source": "OpenAI image_gen",
+  "generated_on": "2026-11-20",
+  "loaded_references": [
+    "images/shot_16.png",
+    "assets/pinecone_anchor.png"
+  ],
+  "sha256": "eb451f9bb0fc42c5d25925857c3605855050ae08aeff4d58746a58a250cfc9b4",
+  "size": [
+    941,
+    1672
+  ],
+  "review_status": "pending_full_contact_sheet"
+}

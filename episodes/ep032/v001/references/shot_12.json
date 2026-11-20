@@ -1,0 +1,18 @@
+{
+  "episode": "ep032",
+  "shot_id": 12,
+  "image": "images/shot_12.png",
+  "source_manifest": "images/shot_12.source.json",
+  "source_sha256": "ad0697002af888836f05c2eb4a4207b93cfa7277012ca17987df05944e5e7f2d",
+  "prompt_file": "prompts/shot_12.json",
+  "prompt_sha256": "12b26c448c4d75a7170951b04a3af1def6a5616b59678d403134d9a6f3b97a79",
+  "loaded_references": [
+    "images/shot_06.png",
+    "images/shot_04.png",
+    "assets/pinecone_anchor.png",
+    "references/pipi_identity_v001.png",
+    "assets/day_wardrobe_anchor.png"
+  ],
+  "storyboard_title": "松果总爱靠侧面躺着",
+  "continuity_refs": "松果在纸板支撑下短暂竖立。"
+}

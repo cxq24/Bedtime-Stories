@@ -1,0 +1,15 @@
+{
+  "image": "images/shot_14.png",
+  "source": "OpenAI image_gen",
+  "generated_on": "2026-11-20",
+  "loaded_references": [
+    "images/shot_02.png",
+    "references/rongrong_identity_v001.png"
+  ],
+  "sha256": "68c9b3c08d59010e5d5720c120a0e3f1583a68d01aabfee5b31fe99fe6b3d7a7",
+  "size": [
+    941,
+    1672
+  ],
+  "review_status": "pending_full_contact_sheet"
+}

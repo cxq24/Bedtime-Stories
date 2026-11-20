@@ -1,0 +1,59 @@
+{
+  "text": "这回，松果再也不摇晃了。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "cb615403e12c8996f6c5c0652334896946b370c9d2b861871b117c45b14d6f14",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3461660,
+      "text": "这"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4730830,
+      "duration": 4807500,
+      "text": "回"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13192500,
+      "duration": 5000000,
+      "text": "松果"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18577080,
+      "duration": 3076660,
+      "text": "再"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21653750,
+      "duration": 1346250,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23192500,
+      "duration": 1538330,
+      "text": "不"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24730830,
+      "duration": 6922910,
+      "text": "摇晃"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31653750,
+      "duration": 2500000,
+      "text": "了"
+    }
+  ]
+}

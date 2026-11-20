@@ -1,0 +1,11 @@
+{
+  "episode": "ep032",
+  "script_version": "v5",
+  "source_file": "02_100集剧本/用户长稿v5/结构化JSON/ep032.json",
+  "source_sha256": "774f1e52eac1c6a4d02ec045ce6fb720bea8f314341ae90b1173abce5096683f",
+  "paragraphs": 8,
+  "spoken_hanzi": 764,
+  "narration_coverage": "100_percent_after_ignoring_editorial_line_breaks",
+  "p000_included": true,
+  "script_snapshot": "script.snapshot.json"
+}

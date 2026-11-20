@@ -1,0 +1,10 @@
+{
+  "source": "Copied from images/shot_06.png as canonical bedroom layout anchor",
+  "image": "assets/bedroom_layout_anchor.png",
+  "sha256": "76c747bd5a4f83b251a3d8d4d929e1483005157742a59e200d6c8bfd626b07e0",
+  "size": [
+    941,
+    1670
+  ],
+  "review_status": "continuity_anchor"
+}

@@ -1,0 +1,15 @@
+{
+  "episode": "ep032",
+  "shot_id": 21,
+  "image": "images/shot_21.png",
+  "source_manifest": "images/shot_21.source.json",
+  "source_sha256": "ae511a52602d721ecaa4ee2d13492e340159a4a060db7283f01797a12dd8ad70",
+  "prompt_file": "prompts/shot_21.json",
+  "prompt_sha256": "1faf8b1ff8fb00dd97b308427a7e87e4500f51324d41b3d242ada680b7d745f5",
+  "loaded_references": [
+    "images/shot_06.png",
+    "assets/pinecone_anchor.png"
+  ],
+  "storyboard_title": "皮皮抬头望见窗外老松树",
+  "continuity_refs": "松果斜向窗外，托盘仍在窗台一角。"
+}

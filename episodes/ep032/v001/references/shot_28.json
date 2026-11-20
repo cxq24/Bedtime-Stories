@@ -1,0 +1,15 @@
+{
+  "episode": "ep032",
+  "shot_id": 28,
+  "image": "images/shot_28.png",
+  "source_manifest": "images/shot_28.source.json",
+  "source_sha256": "65ca753b972c4ba167a7cadfc70818893d527700e6e1ddcc80c59cf5e09c300d",
+  "prompt_file": "prompts/shot_28.json",
+  "prompt_sha256": "fe99b8c86f3ea4b1326bf1fbcec0e3838134346856d42bc0f0533d00e84687cb",
+  "loaded_references": [
+    "images/shot_27.png",
+    "assets/night_identity_anchor.png"
+  ],
+  "storyboard_title": "睡帽帽尖垂下，长耳朵放松",
+  "continuity_refs": "皮皮抱着玩偶侧卧。"
+}

@@ -1,0 +1,89 @@
+{
+  "text": "今天下午，森林学堂举办了一场小小的“秋日果实展”。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "fd7f055f65f84aa872f26ba23cadd7bb2609f24b8953e973063c12e88ed1d480",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5192500,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6653750,
+      "duration": 7884580,
+      "text": "下午"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19538330,
+      "duration": 4807500,
+      "text": "森林"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24538330,
+      "duration": 8269160,
+      "text": "学堂"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33192500,
+      "duration": 4615000,
+      "text": "举办"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37807500,
+      "duration": 961660,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38961660,
+      "duration": 1922910,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40884580,
+      "duration": 3653750,
+      "text": "场"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44922910,
+      "duration": 5961660,
+      "text": "小小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50884580,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52807500,
+      "duration": 5384580,
+      "text": "秋日"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58384580,
+      "duration": 6153750,
+      "text": "果实"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64538330,
+      "duration": 4807500,
+      "text": "展"
+    }
+  ]
+}

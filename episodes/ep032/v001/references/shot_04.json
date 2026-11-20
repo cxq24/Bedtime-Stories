@@ -1,0 +1,17 @@
+{
+  "episode": "ep032",
+  "shot_id": 4,
+  "image": "images/shot_04.png",
+  "source_manifest": "images/shot_04.source.json",
+  "source_sha256": "8afcbdf5c2ecbe0d3be5e6f272efcf1317063d5bf214c09e32d94e35442d1e59",
+  "prompt_file": "prompts/shot_04.json",
+  "prompt_sha256": "93d6e8eb85f01858d71ba647049c40457538106b6cfbd11af5c6c1e2bda1d7ec",
+  "loaded_references": [
+    "images/shot_02.png",
+    "assets/pinecone_anchor.png",
+    "references/pipi_identity_v001.png",
+    "assets/day_wardrobe_anchor.png"
+  ],
+  "storyboard_title": "皮皮展示在松树林捡到的大松果",
+  "continuity_refs": "皮皮带来的松果仍在爪中。"
+}

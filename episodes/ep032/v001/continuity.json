@@ -1,0 +1,664 @@
+{
+  "episode": "ep032",
+  "version": "v001",
+  "script_version": "v5",
+  "status": "continuity_review_complete",
+  "text_logic_review": "passed_before_image_generation",
+  "assets": [
+    {
+      "asset_id": "pipi",
+      "appearance": "暖灰毛小灰兔，圆脸、粉鼻、自然下垂长耳；下午穿米色上衣、灰蓝背带裤、蓝布鞋；睡前换为深蓝星星睡帽和睡衣。",
+      "reference": "references/pipi_identity_v001.png + references/pipi_wardrobe_v001.png",
+      "continuity": "白天从学校回家保持日装；洗漱后明确换睡衣；全程身份不变。"
+    },
+    {
+      "asset_id": "yaya",
+      "appearance": "浅赭色小鹿、奶油色斑点、深绿围巾，圆润口鼻。",
+      "reference": "references/yaya_identity_v001.png",
+      "continuity": "只在学校果实展及皮皮的展览回忆里。"
+    },
+    {
+      "asset_id": "rongrong",
+      "appearance": "浅棕色小熊、圆耳、米色口鼻、暗绿小马甲。",
+      "reference": "references/rongrong_identity_v001.png",
+      "continuity": "只在学校果实展及皮皮的展览回忆里。"
+    },
+    {
+      "asset_id": "pinecone_big",
+      "appearance": "一枚约手臂长的饱满栗褐色大松果，椭圆、尖端略偏向一侧；厚实木质鳞片层叠，尾端底座不平，鳞片排列和尖端不变。",
+      "reference": "images/shot_04.png（标准外观建立镜）",
+      "continuity": "展桌→皮皮携带回家→窗台反复尝试→软绒托盘中侧躺→夜间仍在窗台。"
+    },
+    {
+      "asset_id": "hard_cardboard",
+      "appearance": "一小块平直、无字、浅棕色硬纸板。",
+      "reference": "images/shot_10.png",
+      "continuity": "仅用于尝试垫底；失败后移到松果一旁，不进入最终托盘。"
+    },
+    {
+      "asset_id": "school_room",
+      "appearance": "暖色森林学堂木构教室，长木课桌、明亮窗户、秋季果实展桌，轻柔水彩。",
+      "reference": "images/shot_02.png",
+      "continuity": "只在学校场景与回忆插镜；不与卧室混接。"
+    },
+    {
+      "asset_id": "gourd_yaya",
+      "appearance": "芽芽带来的浅绿色、小巧、平滑的葫芦，横向安放。",
+      "reference": "images/shot_13.png",
+      "continuity": "仅在学校果实展和回忆插镜中横放。"
+    },
+    {
+      "asset_id": "chestnuts_rongrong",
+      "appearance": "几枚栗褐色、有自然纹理的圆润板栗，小堆叠放。",
+      "reference": "images/shot_14.png",
+      "continuity": "仅在学校果实展和回忆插镜中堆放。"
+    },
+    {
+      "asset_id": "bedroom_room",
+      "appearance": "同一间木屋卧室，温暖木窗台、床和大枕头、柔和台灯；竖窗外可看见远处老松树。",
+      "reference": "assets/bedroom_layout_anchor.png及images/shot_06.png",
+      "continuity": "白天暮色到夜晚灯光渐柔；窗、窗帘、床相对位置固定。"
+    },
+    {
+      "asset_id": "wood_window",
+      "appearance": "一扇竖向木框窗和宽木窗台，窗台板平整。",
+      "reference": "assets/bedroom_layout_anchor.png",
+      "continuity": "松果一直在窗内侧，未移动到室外。"
+    },
+    {
+      "asset_id": "curtain",
+      "appearance": "一片浅米色布窗帘，沿窗台边活动。",
+      "reference": "assets/bedroom_layout_anchor.png",
+      "continuity": "窗帘滑动路径留空，托盘置于窗台角落，不压住窗帘。"
+    },
+    {
+      "asset_id": "tray_wood",
+      "appearance": "浅浅的、圆角矩形原木小托盘，浅蜂蜜木色，边沿低而连续。",
+      "reference": "images/shot_16.png",
+      "continuity": "窗台角固定摆放，始终承托松果和绒布。"
+    },
+    {
+      "asset_id": "felt_pad",
+      "appearance": "一小片厚实、柔软的米色绒布，裁成与托盘底部相近的圆角矩形。",
+      "reference": "images/shot_16.png",
+      "continuity": "铺平在托盘底部，松果放上后不移动。"
+    },
+    {
+      "asset_id": "pine_tree_outside",
+      "appearance": "卧室窗外不远处一棵高大的老松树，枝头挂有多个不同朝向的松果。",
+      "reference": "images/shot_20.png",
+      "continuity": "始终在窗外远景，不与室内松果混淆。"
+    },
+    {
+      "asset_id": "carrot_doll",
+      "appearance": "橙色胡萝卜形小玩偶，绿色叶冠、柔软圆润、适合皮皮抱在怀里。",
+      "reference": "images/shot_26.png",
+      "continuity": "仅睡前入镜，固定在皮皮怀中。"
+    },
+    {
+      "asset_id": "pipi_bed",
+      "appearance": "木质小床、同一只大枕头、柔软被褥。",
+      "reference": "images/shot_28.png",
+      "continuity": "支撑皮皮侧卧，位置不变。"
+    }
+  ],
+  "shot_states": [
+    {
+      "shot_id": 0,
+      "location": "问候后引出本集故事。",
+      "reality": "opening",
+      "characters": [],
+      "continuity_refs": "开场：准备听故事。",
+      "state_before": "独立开场画面，和正文、封面图完全分开。",
+      "state_after": [],
+      "transition_from": null
+    },
+    {
+      "shot_id": 1,
+      "location": "引出下午的森林学堂果实展。",
+      "reality": "opening",
+      "characters": [],
+      "continuity_refs": "故事标题与问题出现。",
+      "state_before": "独立开场第二镜；以松果“寻找支撑”的疑问承接正文。",
+      "state_after": [],
+      "transition_from": 0
+    },
+    {
+      "shot_id": 2,
+      "location": "果实展开放，三位小朋友在同一教室参观。",
+      "reality": "story_time",
+      "characters": [
+        "school_room",
+        "pipi_day",
+        "yaya",
+        "rongrong"
+      ],
+      "continuity_refs": "下午；皮皮带着大松果来到学校。",
+      "state_before": "同一教室全景，建立教室空间和展览桌位置。",
+      "state_after": [
+        "pipi",
+        "yaya",
+        "rongrong"
+      ],
+      "transition_from": 1
+    },
+    {
+      "shot_id": 3,
+      "location": "多张桌面摆好秋果，大家参观。",
+      "reality": "story_time",
+      "characters": [
+        "school_room",
+        "exhibit_fruits",
+        "pipi_day",
+        "yaya",
+        "rongrong"
+      ],
+      "continuity_refs": "教室果实展刚开始。",
+      "state_before": "沿用同一课桌布局，展品固定摆位。",
+      "state_after": [
+        "pipi",
+        "yaya",
+        "rongrong"
+      ],
+      "transition_from": 2
+    },
+    {
+      "shot_id": 4,
+      "location": "大松果安放在展桌中央，皮皮松开爪子。",
+      "reality": "story_time",
+      "characters": [
+        "school_room",
+        "pinecone_big",
+        "pipi_day"
+      ],
+      "continuity_refs": "皮皮带来的松果仍在爪中。",
+      "state_before": "松果首次出现的标准外观和展桌位置。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 3
+    },
+    {
+      "shot_id": 5,
+      "location": "突出鳞片纹理和后续可识别外观。",
+      "reality": "story_time",
+      "characters": [
+        "pinecone_big",
+        "school_room"
+      ],
+      "continuity_refs": "展桌中央的松果稳定摆放。",
+      "state_before": "同一枚松果，形状和鳞片方向沿用shot_04。",
+      "state_after": [
+        "pinecone_big"
+      ],
+      "transition_from": 4
+    },
+    {
+      "shot_id": 6,
+      "location": "皮皮已回家，仍抱着松果来到卧室窗台边。",
+      "reality": "story_time",
+      "characters": [
+        "pipi_day",
+        "pinecone_big",
+        "bedroom_room"
+      ],
+      "continuity_refs": "展览结束；皮皮手持同一枚松果。",
+      "state_before": "从学校切到家中卧室，明确已放学且松果随身带回。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 5
+    },
+    {
+      "shot_id": 7,
+      "location": "松果第一次尝试在平窗台上竖立。",
+      "reality": "story_time",
+      "characters": [
+        "pipi_day",
+        "pinecone_big",
+        "bedroom_room",
+        "wood_window",
+        "curtain"
+      ],
+      "continuity_refs": "松果刚被带回卧室，尚未放置。",
+      "state_before": "固定窗台、窗框和米色窗帘位置；松果先竖立。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 6
+    },
+    {
+      "shot_id": 8,
+      "location": "底部接触面不平，松果摇晃。",
+      "reality": "story_time",
+      "characters": [
+        "pinecone_big",
+        "bedroom_room",
+        "wood_window"
+      ],
+      "continuity_refs": "松果尖端朝上，皮皮的爪子离开。",
+      "state_before": "位置沿用同一窗台，镜头聚焦松果轻晃。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 7
+    },
+    {
+      "shot_id": 9,
+      "location": "松果朝侧面躺在窗台上，第一次尝试失败。",
+      "reality": "story_time",
+      "characters": [
+        "pinecone_big",
+        "bedroom_room",
+        "wood_window"
+      ],
+      "continuity_refs": "松果正在摇晃。",
+      "state_before": "同一松果倒在原处，窗台与背景不变。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 8
+    },
+    {
+      "shot_id": 10,
+      "location": "皮皮扶起松果并试着垫纸板。",
+      "reality": "story_time",
+      "characters": [
+        "pinecone_big",
+        "hard_cardboard",
+        "bedroom_room",
+        "wood_window",
+        "pipi_day"
+      ],
+      "continuity_refs": "松果侧躺在窗台。",
+      "state_before": "松果、窗台和皮皮衣服保持相同。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 9
+    },
+    {
+      "shot_id": 11,
+      "location": "爪子移开，松果再次失去平衡。",
+      "reality": "story_time",
+      "characters": [
+        "pinecone_big",
+        "hard_cardboard",
+        "bedroom_room",
+        "wood_window"
+      ],
+      "continuity_refs": "皮皮用爪子扶住已垫纸板的松果。",
+      "state_before": "纸板在松果底部，松果又要倾斜。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 10
+    },
+    {
+      "shot_id": 12,
+      "location": "松果再次向左倒下，侧面是自然稳定姿势。",
+      "reality": "story_time",
+      "characters": [
+        "pinecone_big",
+        "hard_cardboard",
+        "bedroom_room",
+        "wood_window"
+      ],
+      "continuity_refs": "松果在纸板支撑下短暂竖立。",
+      "state_before": "松果侧躺朝向固定为左侧，纸板仍在底座旁。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 11
+    },
+    {
+      "shot_id": 13,
+      "location": "回想果实展中横放的葫芦。",
+      "reality": "memory",
+      "characters": [
+        "school_room",
+        "gourd_yaya"
+      ],
+      "continuity_refs": "皮皮在家观察侧躺的松果。",
+      "state_before": "这是皮皮回忆中的展览，不是芽芽来到家中；只出现展品与同一教室。",
+      "state_after": [],
+      "transition_from": 12
+    },
+    {
+      "shot_id": 14,
+      "location": "看见绒绒的板栗堆放，打破果实必须站直的想法。",
+      "reality": "memory",
+      "characters": [
+        "school_room",
+        "chestnuts_rongrong"
+      ],
+      "continuity_refs": "回忆中的芽芽葫芦横放。",
+      "state_before": "仍然是学校果实展的回忆插镜；板栗堆放状态清楚。",
+      "state_after": [],
+      "transition_from": 13
+    },
+    {
+      "shot_id": 15,
+      "location": "决定接纳松果自然的侧躺姿势。",
+      "reality": "story_time",
+      "characters": [
+        "pinecone_big",
+        "hard_cardboard",
+        "bedroom_room",
+        "wood_window",
+        "pipi_day"
+      ],
+      "continuity_refs": "皮皮从回忆中回到卧室，松果侧躺。",
+      "state_before": "回到同一卧室与同一窗台；松果仍侧躺，纸板放旁边。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 14
+    },
+    {
+      "shot_id": 16,
+      "location": "托盘和绒布准备好，放在窗台上。",
+      "reality": "story_time",
+      "characters": [
+        "pinecone_big",
+        "tray_wood",
+        "felt_pad",
+        "bedroom_room",
+        "wood_window"
+      ],
+      "continuity_refs": "皮皮已接受松果侧躺，硬纸板移开。",
+      "state_before": "同一木托盘与一块小米色绒布首次入镜，形状材质固定。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 15
+    },
+    {
+      "shot_id": 17,
+      "location": "松果安稳侧躺在软绒托盘中。",
+      "reality": "story_time",
+      "characters": [
+        "pinecone_big",
+        "tray_wood",
+        "felt_pad",
+        "bedroom_room",
+        "wood_window"
+      ],
+      "continuity_refs": "空托盘和绒布已摆好，松果仍在旁。",
+      "state_before": "托盘、绒布、松果位置构成固定陈列；不增加垫块。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 16
+    },
+    {
+      "shot_id": 18,
+      "location": "松果稳定不摇，托盘位置未变。",
+      "reality": "story_time",
+      "characters": [
+        "pinecone_big",
+        "tray_wood",
+        "felt_pad",
+        "bedroom_room"
+      ],
+      "continuity_refs": "松果刚被放在绒布托盘上。",
+      "state_before": "只呈现同一托盘中的同一松果，绒布不起皱移位。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 17
+    },
+    {
+      "shot_id": 19,
+      "location": "鳞片细节安静可辨。",
+      "reality": "story_time",
+      "characters": [
+        "pinecone_big",
+        "felt_pad"
+      ],
+      "continuity_refs": "松果在浅托盘内稳定侧躺。",
+      "state_before": "特写仍是固定那枚松果，不改颜色、尖端和鳞片密度。",
+      "state_after": [
+        "pinecone_big"
+      ],
+      "transition_from": 18
+    },
+    {
+      "shot_id": 20,
+      "location": "看出它侧放后更自在好看。",
+      "reality": "story_time",
+      "characters": [
+        "pinecone_big",
+        "tray_wood",
+        "felt_pad",
+        "bedroom_room",
+        "wood_window",
+        "curtain"
+      ],
+      "continuity_refs": "松果鳞片纹理近景。",
+      "state_before": "窗帘与松果方向固定；此时画面明确松果不再站立。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 19
+    },
+    {
+      "shot_id": 21,
+      "location": "视线从松果移向窗外的老松树。",
+      "reality": "story_time",
+      "characters": [
+        "pine_tree_outside",
+        "bedroom_room",
+        "wood_window",
+        "pinecone_big"
+      ],
+      "continuity_refs": "松果斜向窗外，托盘仍在窗台一角。",
+      "state_before": "皮皮仍在窗内，未出屋；床与窗台/托盘仍在原处。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 20
+    },
+    {
+      "shot_id": 22,
+      "location": "多个不同方向的松果呈现自然差异。",
+      "reality": "story_time",
+      "characters": [
+        "pine_tree_outside"
+      ],
+      "continuity_refs": "皮皮在窗内看见老松树。",
+      "state_before": "同一棵窗外老松树；松果仍附着枝头，不掉落。",
+      "state_after": [
+        "pine_tree_outside"
+      ],
+      "transition_from": 21
+    },
+    {
+      "shot_id": 23,
+      "location": "托盘放稳，窗帘留有活动空间。",
+      "reality": "story_time",
+      "characters": [
+        "pinecone_big",
+        "tray_wood",
+        "felt_pad",
+        "wood_window",
+        "curtain",
+        "bedroom_room"
+      ],
+      "continuity_refs": "老松树和枝头松果在窗外。",
+      "state_before": "托盘中松果保持侧躺、绒布仍在；窗帘不被压住。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 22
+    },
+    {
+      "shot_id": 24,
+      "location": "皮皮彻底接受松果不用站直。",
+      "reality": "story_time",
+      "characters": [
+        "pinecone_big",
+        "tray_wood",
+        "felt_pad",
+        "wood_window",
+        "curtain",
+        "bedroom_room"
+      ],
+      "continuity_refs": "皮皮把托盘在窗台角落放稳。",
+      "state_before": "托盘、绒布、松果方向和窗帘空间都保持不变。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 23
+    },
+    {
+      "shot_id": 25,
+      "location": "洗漱后回到床边，换上睡衣。",
+      "reality": "story_time",
+      "characters": [
+        "pipi_night",
+        "bedroom_room",
+        "pinecone_big",
+        "tray_wood",
+        "felt_pad"
+      ],
+      "continuity_refs": "傍晚托盘在窗台，皮皮仍穿白天衣服。",
+      "state_before": "明确从白天服装过渡到夜间睡衣；没有移动窗台物件。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 24
+    },
+    {
+      "shot_id": 26,
+      "location": "皮皮意识到自己不必规矩平躺。",
+      "reality": "story_time",
+      "characters": [
+        "pipi_night",
+        "carrot_doll",
+        "bedroom_room"
+      ],
+      "continuity_refs": "皮皮洗漱后靠回大枕头。",
+      "state_before": "夜间衣服和枕头不变，玩偶尚未抱入怀中。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 25
+    },
+    {
+      "shot_id": 27,
+      "location": "皮皮选择侧卧并抱住玩偶。",
+      "reality": "story_time",
+      "characters": [
+        "pipi_night",
+        "carrot_doll",
+        "bedroom_room"
+      ],
+      "continuity_refs": "皮皮靠回大枕头。",
+      "state_before": "睡帽睡衣、床、枕头、胡萝卜玩偶保持固定外观和位置。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 26
+    },
+    {
+      "shot_id": 28,
+      "location": "帽尖垂下，长耳自然放松。",
+      "reality": "story_time",
+      "characters": [
+        "pipi_night",
+        "bedroom_room"
+      ],
+      "continuity_refs": "皮皮抱着玩偶侧卧。",
+      "state_before": "睡帽、帽球、耳朵方向连续，同一睡姿。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 27
+    },
+    {
+      "shot_id": 29,
+      "location": "身体获得支撑，姿势自然稳定。",
+      "reality": "story_time",
+      "characters": [
+        "pipi_night",
+        "carrot_doll",
+        "bedroom_room",
+        "pinecone_big",
+        "tray_wood",
+        "felt_pad"
+      ],
+      "continuity_refs": "皮皮已侧卧，睡帽帽尖垂下。",
+      "state_before": "床和被褥位置不变，窗台上的松果托盘保持安全稳定。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 28
+    },
+    {
+      "shot_id": 30,
+      "location": "旁白告诉孩子舒服有很多样子。",
+      "reality": "story_time",
+      "characters": [
+        "pipi_night",
+        "bedroom_room",
+        "pine_tree_outside"
+      ],
+      "continuity_refs": "小床承托皮皮侧身。",
+      "state_before": "承接前镜侧卧姿势，场景与物件不变。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 29
+    },
+    {
+      "shot_id": 31,
+      "location": "画面进入最终安睡状态。",
+      "reality": "story_time",
+      "characters": [
+        "pipi_night",
+        "carrot_doll",
+        "bedroom_room",
+        "pinecone_big",
+        "tray_wood",
+        "felt_pad"
+      ],
+      "continuity_refs": "皮皮安稳侧卧。",
+      "state_before": "睡眠状态持续，松果仍在窗台托盘里，窗帘空隙保留。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 30
+    },
+    {
+      "shot_id": 32,
+      "location": "晚安后安静渐暗，保持8秒尾声。",
+      "reality": "story_time",
+      "characters": [
+        "pipi_night",
+        "carrot_doll",
+        "bedroom_room",
+        "pinecone_big",
+        "tray_wood",
+        "felt_pad"
+      ],
+      "continuity_refs": "皮皮已找到舒服侧卧姿势。",
+      "state_before": "最后镜持续完整8秒尾声，角色和松果状态不变。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 31
+    }
+  ],
+  "critical_transitions": [
+    "school exhibit→home: explicit dusk/return-home shot carries the same pinecone",
+    "upward attempt→fall: one cone changes posture from upright to tilted to lying left; no identity/shape change",
+    "paperboard test→memory: failed prop remains beside cone; memories are school exhibit inserts, not real-time visit",
+    "memory→decision: clear cut back to bedroom where cone still lies on windowsill",
+    "tray/felt introduction→placement: same tray and beige pad receive same cone sideways; felt remains between cone and tray",
+    "window arrangement→bedtime: cone stays on windowsill with curtain path clear; Pipi changes from day clothes to sleepwear and moves to bed",
+    "last narration→quiet tail: final image remains stable through 8s fade"
+  ],
+  "image_review": "contact_sheet_reviewed",
+  "image_review_notes": "33 unique 9:16 watercolor images reviewed in a full contact sheet; scenes remain in the classroom, bedroom, and final night locations with a consistent pinecone and tray/felt motif. Close-ups intentionally omit characters."
+}

@@ -1,0 +1,14 @@
+{
+  "episode": "ep032",
+  "shot_id": 1,
+  "image": "images/shot_01.png",
+  "source_manifest": "images/shot_01.source.json",
+  "source_sha256": "5f94656bd593d474d1ed7543afbedbae6114ef6a7a0921fedc01e2450036c797",
+  "prompt_file": "prompts/shot_01.json",
+  "prompt_sha256": "dbbbe735ccd207ed9074389dbb683e1aebb4cd9887d92a934dbb2c2640e6d928",
+  "loaded_references": [
+    "assets/pinecone_anchor.png"
+  ],
+  "storyboard_title": "故事提问：松果要怎样站稳",
+  "continuity_refs": "故事标题与问题出现。"
+}

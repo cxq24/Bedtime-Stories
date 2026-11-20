@@ -1,0 +1,18 @@
+{
+  "image": "v001/images/shot_03.png",
+  "source": "OpenAI image_gen",
+  "generated_on": "2026-11-20",
+  "loaded_references": [
+    "images/shot_02.png",
+    "references/pipi_identity_v001.png",
+    "assets/day_wardrobe_anchor.png",
+    "references/yaya_identity_v001.png",
+    "references/rongrong_identity_v001.png"
+  ],
+  "sha256": "4d3d6894328b24afcdf688fbf0f91274f6bfaa492868668384eb737f373af7cf",
+  "size": [
+    941,
+    1672
+  ],
+  "review_status": "pending_full_contact_sheet"
+}

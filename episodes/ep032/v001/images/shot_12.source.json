@@ -1,0 +1,18 @@
+{
+  "image": "images/shot_12.png",
+  "source": "OpenAI image_gen",
+  "generated_on": "2026-11-20",
+  "loaded_references": [
+    "images/shot_06.png",
+    "images/shot_04.png",
+    "assets/pinecone_anchor.png",
+    "references/pipi_identity_v001.png",
+    "assets/day_wardrobe_anchor.png"
+  ],
+  "sha256": "ad0697002af888836f05c2eb4a4207b93cfa7277012ca17987df05944e5e7f2d",
+  "size": [
+    941,
+    1672
+  ],
+  "review_status": "pending_full_contact_sheet"
+}

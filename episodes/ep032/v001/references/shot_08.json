@@ -1,0 +1,18 @@
+{
+  "episode": "ep032",
+  "shot_id": 8,
+  "image": "images/shot_08.png",
+  "source_manifest": "images/shot_08.source.json",
+  "source_sha256": "0d69392a432019a5227a268ffb8de27eb9e95a5a44babf820fe7e19e3918c54c",
+  "prompt_file": "prompts/shot_08.json",
+  "prompt_sha256": "5c64e8eed06313102c45d70b0d1108eea7458d1cbe7cf7582b4fee8a51143f0c",
+  "loaded_references": [
+    "images/shot_06.png",
+    "images/shot_04.png",
+    "assets/pinecone_anchor.png",
+    "references/pipi_identity_v001.png",
+    "assets/day_wardrobe_anchor.png"
+  ],
+  "storyboard_title": "松果底座不平，轻轻摇晃",
+  "continuity_refs": "松果尖端朝上，皮皮的爪子离开。"
+}

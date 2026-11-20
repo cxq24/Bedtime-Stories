@@ -1,0 +1,15 @@
+{
+  "episode": "ep032",
+  "shot_id": 20,
+  "image": "images/shot_20.png",
+  "source_manifest": "images/shot_20.source.json",
+  "source_sha256": "33eb057e76464f8da84c2ff837f1862e26d57193f8ce0d38bd197187304912c2",
+  "prompt_file": "prompts/shot_20.json",
+  "prompt_sha256": "c9a54fac97537ae621d28ada074d0a4753405b4c4edbd16d4bcb543ed4a4413a",
+  "loaded_references": [
+    "images/shot_16.png",
+    "assets/pinecone_anchor.png"
+  ],
+  "storyboard_title": "松果斜斜对着窗外",
+  "continuity_refs": "松果鳞片纹理近景。"
+}

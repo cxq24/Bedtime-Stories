@@ -1,0 +1,15 @@
+{
+  "episode": "ep032",
+  "shot_id": 13,
+  "image": "images/shot_13.png",
+  "source_manifest": "images/shot_13.source.json",
+  "source_sha256": "3438035c4f878919500ba31500ce8a98bbd5e6431f1df9c81a69506ed625ddd0",
+  "prompt_file": "prompts/shot_13.json",
+  "prompt_sha256": "1664c974d3d0996f18b975ef4d377ec9fc9ea04fa727c8d622c1b8c1ef5d660a",
+  "loaded_references": [
+    "images/shot_02.png",
+    "references/yaya_identity_v001.png"
+  ],
+  "storyboard_title": "记起芽芽横放的葫芦",
+  "continuity_refs": "皮皮在家观察侧躺的松果。"
+}

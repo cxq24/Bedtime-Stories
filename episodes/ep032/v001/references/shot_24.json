@@ -1,0 +1,16 @@
+{
+  "episode": "ep032",
+  "shot_id": 24,
+  "image": "images/shot_24.png",
+  "source_manifest": "images/shot_24.source.json",
+  "source_sha256": "90c597e78dc446c6db62b8153e4ed7f484b0b41fe10108be8d1634b93c095b5e",
+  "prompt_file": "prompts/shot_24.json",
+  "prompt_sha256": "9f5166d56a956b4a00fec17b4232a4ff893483de4590d2b235fa608ddeb29ac5",
+  "loaded_references": [
+    "images/shot_16.png",
+    "references/pipi_identity_v001.png",
+    "assets/day_wardrobe_anchor.png"
+  ],
+  "storyboard_title": "皮皮放下让松果笔直站立的念头",
+  "continuity_refs": "皮皮把托盘在窗台角落放稳。"
+}

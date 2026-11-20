@@ -1,0 +1,16 @@
+{
+  "episode": "ep032",
+  "shot_id": 23,
+  "image": "images/shot_23.png",
+  "source_manifest": "images/shot_23.source.json",
+  "source_sha256": "5982cce4fe864965ba9fb0cb758b835b8cd0fba75aebb2da82d44a3a2eeb6f17",
+  "prompt_file": "prompts/shot_23.json",
+  "prompt_sha256": "980728a03b9eabe62703cf2e254dd32d80b3fbc5bafa9dde7e729b323bd88394",
+  "loaded_references": [
+    "images/shot_16.png",
+    "images/shot_06.png",
+    "references/pipi_identity_v001.png"
+  ],
+  "storyboard_title": "托盘放稳并给窗帘留出空位",
+  "continuity_refs": "老松树和枝头松果在窗外。"
+}

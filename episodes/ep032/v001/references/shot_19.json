@@ -1,0 +1,15 @@
+{
+  "episode": "ep032",
+  "shot_id": 19,
+  "image": "images/shot_19.png",
+  "source_manifest": "images/shot_19.source.json",
+  "source_sha256": "fcfccf971a5f494ca0a84e50d08fd2dbbd698f3948184f5393305b6f6a09b35c",
+  "prompt_file": "prompts/shot_19.json",
+  "prompt_sha256": "b6574228fdc5835ec7f289298bff1ec0798e9662bf008811d67834d41d8534b9",
+  "loaded_references": [
+    "images/shot_16.png",
+    "assets/pinecone_anchor.png"
+  ],
+  "storyboard_title": "松果鳞片安静地挨在一起",
+  "continuity_refs": "松果在浅托盘内稳定侧躺。"
+}

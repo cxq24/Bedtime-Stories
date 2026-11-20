@@ -1,0 +1,15 @@
+{
+  "episode": "ep032",
+  "shot_id": 5,
+  "image": "images/shot_05.png",
+  "source_manifest": "images/shot_05.source.json",
+  "source_sha256": "c0560736ccfa3b74b1efc4522f3cb4ed269315c4ad038c06656ca39be992f24b",
+  "prompt_file": "prompts/shot_05.json",
+  "prompt_sha256": "983dea0226190370580f65c2fd258362308ac48e4aac93bf0f99b3c368835601",
+  "loaded_references": [
+    "images/shot_04.png",
+    "assets/pinecone_anchor.png"
+  ],
+  "storyboard_title": "饱满的松果像层叠木花",
+  "continuity_refs": "展桌中央的松果稳定摆放。"
+}

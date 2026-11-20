@@ -1,0 +1,16 @@
+{
+  "image": "images/shot_31.png",
+  "source": "OpenAI image_gen",
+  "generated_on": "2026-11-20",
+  "loaded_references": [
+    "images/shot_27.png",
+    "images/shot_29.png",
+    "assets/night_identity_anchor.png"
+  ],
+  "sha256": "b1ce5dad04c5a9a2cfdc801d999d5c4694e68c25cf6be56b41c58d79a14481ec",
+  "size": [
+    941,
+    1672
+  ],
+  "review_status": "pending_full_contact_sheet"
+}

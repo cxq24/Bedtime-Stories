@@ -1,0 +1,18 @@
+{
+  "episode": "ep032",
+  "shot_id": 10,
+  "image": "images/shot_10.png",
+  "source_manifest": "images/shot_10.source.json",
+  "source_sha256": "fca3a2f47bd43d6f821ed9a94d6e5f17acd0d16f602a8175885ee109c94c79e2",
+  "prompt_file": "prompts/shot_10.json",
+  "prompt_sha256": "a3283ddf46478fb3e19e3c2ef01cca15ea4a4354c4cf43620c9ad239ac38bd6b",
+  "loaded_references": [
+    "images/shot_06.png",
+    "images/shot_04.png",
+    "assets/pinecone_anchor.png",
+    "references/pipi_identity_v001.png",
+    "assets/day_wardrobe_anchor.png"
+  ],
+  "storyboard_title": "皮皮扶稳松果并垫硬纸板",
+  "continuity_refs": "松果侧躺在窗台。"
+}

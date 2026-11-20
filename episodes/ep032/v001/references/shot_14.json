@@ -1,0 +1,15 @@
+{
+  "episode": "ep032",
+  "shot_id": 14,
+  "image": "images/shot_14.png",
+  "source_manifest": "images/shot_14.source.json",
+  "source_sha256": "68c9b3c08d59010e5d5720c120a0e3f1583a68d01aabfee5b31fe99fe6b3d7a7",
+  "prompt_file": "prompts/shot_14.json",
+  "prompt_sha256": "b585382966bc9e41c03646fbfdfa53bc0bfb97b1661b6c3ea32c7ddb9e457363",
+  "loaded_references": [
+    "images/shot_02.png",
+    "references/rongrong_identity_v001.png"
+  ],
+  "storyboard_title": "记起绒绒堆放的板栗",
+  "continuity_refs": "回忆中的芽芽葫芦横放。"
+}

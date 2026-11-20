@@ -1,0 +1,17 @@
+{
+  "episode": "ep032",
+  "shot_id": 6,
+  "image": "images/shot_06.png",
+  "source_manifest": "images/shot_06.source.json",
+  "source_sha256": "76c747bd5a4f83b251a3d8d4d929e1483005157742a59e200d6c8bfd626b07e0",
+  "prompt_file": "prompts/shot_06.json",
+  "prompt_sha256": "0dbee22de95987aed8d339e76f864c009b35cfc43a38e4f0b885b1c7cdea550e",
+  "loaded_references": [
+    "images/shot_04.png",
+    "assets/pinecone_anchor.png",
+    "references/pipi_identity_v001.png",
+    "assets/day_wardrobe_anchor.png"
+  ],
+  "storyboard_title": "放学后皮皮把松果带回家",
+  "continuity_refs": "展览结束；皮皮手持同一枚松果。"
+}

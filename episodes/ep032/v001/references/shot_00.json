@@ -1,0 +1,12 @@
+{
+  "episode": "ep032",
+  "shot_id": 0,
+  "image": "images/shot_00.png",
+  "source_manifest": "images/shot_00.source.json",
+  "source_sha256": "927c9fc581f17d1968112743b9cecfa2b4ed6981006239342f2d513575b3aa0e",
+  "prompt_file": "prompts/shot_00.json",
+  "prompt_sha256": "a746712b339e9e624b3c26f9b304b8764fce280dd970f68d32f8b261377de473",
+  "loaded_references": [],
+  "storyboard_title": "开场问候：翻开的绘本与一枚小小松果",
+  "continuity_refs": "开场：准备听故事。"
+}

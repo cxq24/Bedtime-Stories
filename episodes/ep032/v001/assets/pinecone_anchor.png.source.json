@@ -1,0 +1,12 @@
+{
+  "asset_id": "pinecone_big",
+  "source": "OpenAI image_gen",
+  "sha256": "da94ed8d7e2e3ec6da9e3ed812c6b6948771d6398f43be2bf265045ade17b38c",
+  "size": [
+    941,
+    1672
+  ],
+  "role": "canonical visual anchor for the one recurring pinecone",
+  "generated_on": "2026-11-20",
+  "review_status": "pending_contact_sheet_review"
+}\n

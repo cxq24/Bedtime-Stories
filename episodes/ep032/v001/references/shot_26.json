@@ -1,0 +1,15 @@
+{
+  "episode": "ep032",
+  "shot_id": 26,
+  "image": "images/shot_26.png",
+  "source_manifest": "images/shot_26.source.json",
+  "source_sha256": "9d33ab8e4544995fab4c2865aef0d84d17a614d7951998a7be8e2dd38ab4147d",
+  "prompt_file": "prompts/shot_26.json",
+  "prompt_sha256": "ab34018e10246d0a93db10846f42ed475d9bbab936200da85e7991ae5bbc2911",
+  "loaded_references": [
+    "images/shot_25.png",
+    "assets/night_identity_anchor.png"
+  ],
+  "storyboard_title": "今晚皮皮也不再平躺",
+  "continuity_refs": "皮皮洗漱后靠回大枕头。"
+}

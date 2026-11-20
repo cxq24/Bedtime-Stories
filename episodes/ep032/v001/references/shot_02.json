@@ -1,0 +1,17 @@
+{
+  "episode": "ep032",
+  "shot_id": 2,
+  "image": "images/shot_02.png",
+  "source_manifest": "images/shot_02.source.json",
+  "source_sha256": "d7fa957963ce7ff9f9194f1e289e36e2eded5eb0eba7f9ea6f0b008dfa8a4fe3",
+  "prompt_file": "prompts/shot_02.json",
+  "prompt_sha256": "345e611c6e5798e39f3c23f1c295444f4a433bf361c3065ace5566f050fe1158",
+  "loaded_references": [
+    "references/pipi_identity_v001.png",
+    "assets/day_wardrobe_anchor.png",
+    "references/yaya_identity_v001.png",
+    "references/rongrong_identity_v001.png"
+  ],
+  "storyboard_title": "森林学堂的秋日果实展",
+  "continuity_refs": "下午；皮皮带着大松果来到学校。"
+}

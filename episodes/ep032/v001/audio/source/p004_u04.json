@@ -1,0 +1,161 @@
+{
+  "text": "它层层叠叠的小鳞片安安静静地挨在一起，斜斜地对着窗外，看上去比刚才硬撑着站立的时候，要自在、好看得多。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "f88fdce71f1b7836f4f5a9782ce9c33f3b3ae931ab2c1138288a7830eb70493b",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2307500,
+      "text": "它"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3769160,
+      "duration": 11153750,
+      "text": "层层叠叠"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14922910,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16461660,
+      "duration": 11538330,
+      "text": "小鳞片"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29538330,
+      "duration": 11153750,
+      "text": "安安静静"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40692500,
+      "duration": 1730830,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42807500,
+      "duration": 5384580,
+      "text": "挨在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48384580,
+      "duration": 8077080,
+      "text": "一起"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61269160,
+      "duration": 6538330,
+      "text": "斜斜"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 67807500,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 69538330,
+      "duration": 3653750,
+      "text": "对着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 73384580,
+      "duration": 8269160,
+      "text": "窗外"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 85577080,
+      "duration": 11730830,
+      "text": "看上去"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 97692500,
+      "duration": 2307500,
+      "text": "比"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 100192500,
+      "duration": 5769160,
+      "text": "刚才"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 106346250,
+      "duration": 5384580,
+      "text": "硬撑"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 111730830,
+      "duration": 1346250,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 113461660,
+      "duration": 5192080,
+      "text": "站立"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 118653750,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 120192500,
+      "duration": 7115410,
+      "text": "时候"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 130769160,
+      "duration": 2884580,
+      "text": "要"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 133653750,
+      "duration": 8077080,
+      "text": "自在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 145384580,
+      "duration": 6538330,
+      "text": "好看"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 151922910,
+      "duration": 1730830,
+      "text": "得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 153653750,
+      "duration": 4615410,
+      "text": "多"
+    }
+  ]
+}

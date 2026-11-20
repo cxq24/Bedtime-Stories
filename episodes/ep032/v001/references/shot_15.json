@@ -1,0 +1,18 @@
+{
+  "episode": "ep032",
+  "shot_id": 15,
+  "image": "images/shot_15.png",
+  "source_manifest": "images/shot_15.source.json",
+  "source_sha256": "cbe1c15106e4ae83879161f12d886b27fc1651bda321c63586bd7e3360414ba7",
+  "prompt_file": "prompts/shot_15.json",
+  "prompt_sha256": "e24f8b69a72361fa7a52ffb20d9f0d45c6f23a238345bb534068e6d8162d1574",
+  "loaded_references": [
+    "images/shot_06.png",
+    "images/shot_04.png",
+    "assets/pinecone_anchor.png",
+    "references/pipi_identity_v001.png",
+    "assets/day_wardrobe_anchor.png"
+  ],
+  "storyboard_title": "皮皮决定不再逼松果立正",
+  "continuity_refs": "皮皮从回忆中回到卧室，松果侧躺。"
+}

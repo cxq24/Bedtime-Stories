@@ -1,0 +1,18 @@
+{
+  "episode": "ep032",
+  "shot_id": 9,
+  "image": "images/shot_09.png",
+  "source_manifest": "images/shot_09.source.json",
+  "source_sha256": "03b4d7f1f4469b0e288d8d9052c7bb9bc5ee27a7b42126fb9d35abe1e96c357a",
+  "prompt_file": "prompts/shot_09.json",
+  "prompt_sha256": "73b96683150297bf812eb1a34f168df3e4ea2927d6de5e455261bc19fdda7804",
+  "loaded_references": [
+    "images/shot_06.png",
+    "images/shot_04.png",
+    "assets/pinecone_anchor.png",
+    "references/pipi_identity_v001.png",
+    "assets/day_wardrobe_anchor.png"
+  ],
+  "storyboard_title": "松果骨碌歪倒躺在旁边",
+  "continuity_refs": "松果正在摇晃。"
+}

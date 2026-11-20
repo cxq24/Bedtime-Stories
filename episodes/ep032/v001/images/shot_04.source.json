@@ -1,0 +1,17 @@
+{
+  "image": "v001/images/shot_04.png",
+  "source": "OpenAI image_gen",
+  "generated_on": "2026-11-20",
+  "loaded_references": [
+    "images/shot_02.png",
+    "assets/pinecone_anchor.png",
+    "references/pipi_identity_v001.png",
+    "assets/day_wardrobe_anchor.png"
+  ],
+  "sha256": "8afcbdf5c2ecbe0d3be5e6f272efcf1317063d5bf214c09e32d94e35442d1e59",
+  "size": [
+    941,
+    1671
+  ],
+  "review_status": "pending_full_contact_sheet"
+}

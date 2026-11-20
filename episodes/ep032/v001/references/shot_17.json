@@ -1,0 +1,16 @@
+{
+  "episode": "ep032",
+  "shot_id": 17,
+  "image": "images/shot_17.png",
+  "source_manifest": "images/shot_17.source.json",
+  "source_sha256": "3fb03bc6aebf52b5314801997048c881275e43276a57fa4e979fb91f9f796771",
+  "prompt_file": "prompts/shot_17.json",
+  "prompt_sha256": "d7f0d7e0d8dae02ea958bff0fe5088b22c836cb43668ad3427f315f3122ab3be",
+  "loaded_references": [
+    "images/shot_16.png",
+    "images/shot_06.png",
+    "assets/pinecone_anchor.png"
+  ],
+  "storyboard_title": "让松果顺着侧面舒适地躺好",
+  "continuity_refs": "空托盘和绒布已摆好，松果仍在旁。"
+}

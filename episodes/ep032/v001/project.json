@@ -1,0 +1,1555 @@
+{
+  "episode": "ep032",
+  "duration_s": 282.68,
+  "fps": 25,
+  "frames": 7067,
+  "preview": false,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "shot_count": 33,
+  "crossfade_s": 0.96,
+  "curve": "linear",
+  "within_shot_motion": "none",
+  "subtitles_after_picture_transitions": true,
+  "clean": "/workspace/Bedtime-Stories/Outputs/2026-11-20/ep032-v001/ep032_clean.mp4",
+  "publish": "/workspace/Bedtime-Stories/Outputs/2026-11-20/ep032-v001/ep032.mp4",
+  "delivery_directory": "/workspace/Bedtime-Stories/Outputs/2026-11-20/ep032-v001",
+  "shots": [
+    {
+      "id": 0,
+      "title": "开场问候：翻开的绘本与一枚小小松果",
+      "text": "小朋友们，准备好听故事了吗？",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u01",
+          "paragraph_id": "p000",
+          "start_char": 0,
+          "end_char": 14
+        }
+      ],
+      "paragraph_id": "p000",
+      "characters": [],
+      "outfits": {
+        "pipi": ""
+      },
+      "setting": "问候后引出本集故事。",
+      "action": "一页泛暖光的无字故事书和松枝剪影，轻松邀请；不出现任何角色或文字。 无角色",
+      "visual_description": "一页泛暖光的无字故事书和松枝剪影，轻松邀请；不出现任何角色或文字。",
+      "emotional_performance": "无角色",
+      "reality": "opening",
+      "motion": "fixed",
+      "opening": true,
+      "image": "images/shot_00.png",
+      "prompt_file": "prompts/shot_00.json",
+      "reference_manifest": "references/shot_00.json",
+      "continuity_refs": "开场：准备听故事。",
+      "state_before": "独立开场画面，和正文、封面图完全分开。",
+      "state_after": [],
+      "transition_from": null,
+      "speech_start_s": 1.0,
+      "speech_end_s": 4.6634364999999995,
+      "actual_start_s": 0.0,
+      "actual_end_s": 5.12,
+      "visible_start_s": 0.0,
+      "visible_end_s": 5.6,
+      "visible_duration_s": 5.6
+    },
+    {
+      "id": 1,
+      "title": "故事提问：松果要怎样站稳",
+      "text": "今天的故事叫《松果转身坐好了》。一枚大松果转了转身，怎样才能找到稳稳的支撑呢？",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u02",
+          "paragraph_id": "p000",
+          "start_char": 0,
+          "end_char": 16
+        },
+        {
+          "unit_id": "p000_u03",
+          "paragraph_id": "p000",
+          "start_char": 0,
+          "end_char": 23
+        }
+      ],
+      "paragraph_id": "p000",
+      "characters": [],
+      "outfits": {
+        "pipi": ""
+      },
+      "setting": "引出下午的森林学堂果实展。",
+      "action": "月光下的大松果在柔和的抽象绘本舞台上轻轻转身，旁边留出问号般的弧形松针；无文字、无角色，不使用正文画面构图。 无角色",
+      "visual_description": "月光下的大松果在柔和的抽象绘本舞台上轻轻转身，旁边留出问号般的弧形松针；无文字、无角色，不使用正文画面构图。",
+      "emotional_performance": "无角色",
+      "reality": "opening",
+      "motion": "fixed",
+      "opening": true,
+      "image": "images/shot_01.png",
+      "prompt_file": "prompts/shot_01.json",
+      "reference_manifest": "references/shot_01.json",
+      "continuity_refs": "故事标题与问题出现。",
+      "state_before": "独立开场第二镜；以松果“寻找支撑”的疑问承接正文。",
+      "state_after": [],
+      "transition_from": 0,
+      "speech_start_s": 5.565125,
+      "speech_end_s": 16.741165666666667,
+      "actual_start_s": 5.12,
+      "actual_end_s": 17.32,
+      "visible_start_s": 4.640000000000001,
+      "visible_end_s": 17.8,
+      "visible_duration_s": 13.16
+    },
+    {
+      "id": 2,
+      "title": "森林学堂的秋日果实展",
+      "text": "今天下午，森林学堂举办了一场小小的“秋日果实展”。",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u01",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 25
+        }
+      ],
+      "paragraph_id": "p001",
+      "characters": [
+        "school_room",
+        "pipi_day",
+        "yaya",
+        "rongrong"
+      ],
+      "outfits": {
+        "pipi": ""
+      },
+      "setting": "果实展开放，三位小朋友在同一教室参观。",
+      "action": "下午的森林学堂，宽阔教室里每张木课桌摆着不同秋果；皮皮、芽芽和绒绒在教室中自然参观，温暖秋色。 皮皮：好奇、眉眼明亮，轻轻环顾展桌；芽芽和绒绒平静友善。",
+      "visual_description": "下午的森林学堂，宽阔教室里每张木课桌摆着不同秋果；皮皮、芽芽和绒绒在教室中自然参观，温暖秋色。",
+      "emotional_performance": "皮皮：好奇、眉眼明亮，轻轻环顾展桌；芽芽和绒绒平静友善。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_02.png",
+      "prompt_file": "prompts/shot_02.json",
+      "reference_manifest": "references/shot_02.json",
+      "continuity_refs": "下午；皮皮带着大松果来到学校。",
+      "state_before": "同一教室全景，建立教室空间和展览桌位置。",
+      "state_after": [
+        "pipi",
+        "yaya",
+        "rongrong"
+      ],
+      "transition_from": 1,
+      "speech_start_s": 17.8765,
+      "speech_end_s": 24.669458,
+      "actual_start_s": 17.32,
+      "actual_end_s": 25.08,
+      "visible_start_s": 16.84,
+      "visible_end_s": 25.56,
+      "visible_duration_s": 8.72
+    },
+    {
+      "id": 3,
+      "title": "小朋友们把秋果摆上课桌",
+      "text": "每个小朋友都把自己捡到的最漂亮的秋果摆在课桌上，互相参观。",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u02",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "paragraph_id": "p001",
+      "characters": [
+        "school_room",
+        "exhibit_fruits",
+        "pipi_day",
+        "yaya",
+        "rongrong"
+      ],
+      "outfits": {
+        "pipi": ""
+      },
+      "setting": "多张桌面摆好秋果，大家参观。",
+      "action": "教室桌面视角，整齐摆放的松果、葫芦、板栗和其他秋果；皮皮与同学们在后方互相参观。 皮皮：认真、好奇地看不同果实；芽芽和绒绒微笑交流但不说话。",
+      "visual_description": "教室桌面视角，整齐摆放的松果、葫芦、板栗和其他秋果；皮皮与同学们在后方互相参观。",
+      "emotional_performance": "皮皮：认真、好奇地看不同果实；芽芽和绒绒微笑交流但不说话。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_03.png",
+      "prompt_file": "prompts/shot_03.json",
+      "reference_manifest": "references/shot_03.json",
+      "continuity_refs": "教室果实展刚开始。",
+      "state_before": "沿用同一课桌布局，展品固定摆位。",
+      "state_after": [
+        "pipi",
+        "yaya",
+        "rongrong"
+      ],
+      "transition_from": 2,
+      "speech_start_s": 25.5159375,
+      "speech_end_s": 34.410957333333336,
+      "actual_start_s": 25.08,
+      "actual_end_s": 34.84,
+      "visible_start_s": 24.599999999999998,
+      "visible_end_s": 35.32,
+      "visible_duration_s": 10.72
+    },
+    {
+      "id": 4,
+      "title": "皮皮展示在松树林捡到的大松果",
+      "text": "皮皮带去了一枚他在后山松树林里捡到的大松果。",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u03",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 22
+        }
+      ],
+      "paragraph_id": "p001",
+      "characters": [
+        "school_room",
+        "pinecone_big",
+        "pipi_day"
+      ],
+      "outfits": {
+        "pipi": ""
+      },
+      "setting": "大松果安放在展桌中央，皮皮松开爪子。",
+      "action": "皮皮把一枚饱满的大松果小心放在自己的展桌正中，旁边有标签空白卡但没有文字；松果有不对称尖端和厚实的鳞片。 皮皮：珍惜、带一点得意的微笑，低头看自己的松果。",
+      "visual_description": "皮皮把一枚饱满的大松果小心放在自己的展桌正中，旁边有标签空白卡但没有文字；松果有不对称尖端和厚实的鳞片。",
+      "emotional_performance": "皮皮：珍惜、带一点得意的微笑，低头看自己的松果。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_04.png",
+      "prompt_file": "prompts/shot_04.json",
+      "reference_manifest": "references/shot_04.json",
+      "continuity_refs": "皮皮带来的松果仍在爪中。",
+      "state_before": "松果首次出现的标准外观和展桌位置。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 3,
+      "speech_start_s": 35.305729166666666,
+      "speech_end_s": 41.8189365,
+      "actual_start_s": 34.84,
+      "actual_end_s": 42.24,
+      "visible_start_s": 34.36000000000001,
+      "visible_end_s": 42.72,
+      "visible_duration_s": 8.36
+    },
+    {
+      "id": 5,
+      "title": "饱满的松果像层叠木花",
+      "text": "那枚松果饱满极了，鳞片像一朵层层叠叠盛开的木头花。",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u04",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 25
+        }
+      ],
+      "paragraph_id": "p001",
+      "characters": [
+        "pinecone_big",
+        "school_room"
+      ],
+      "outfits": {
+        "pipi": ""
+      },
+      "setting": "突出鳞片纹理和后续可识别外观。",
+      "action": "松果微距特写，暖褐色木质鳞片层层叠叠向尖端收拢，轮廓饱满，桌面只有柔和秋色。 无新增角色；通过近景表现纹理，不夸张拟人表情。",
+      "visual_description": "松果微距特写，暖褐色木质鳞片层层叠叠向尖端收拢，轮廓饱满，桌面只有柔和秋色。",
+      "emotional_performance": "无新增角色；通过近景表现纹理，不夸张拟人表情。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_05.png",
+      "prompt_file": "prompts/shot_05.json",
+      "reference_manifest": "references/shot_05.json",
+      "continuity_refs": "展桌中央的松果稳定摆放。",
+      "state_before": "同一枚松果，形状和鳞片方向沿用shot_04。",
+      "state_after": [
+        "pinecone_big"
+      ],
+      "transition_from": 4,
+      "speech_start_s": 42.67752083333333,
+      "speech_end_s": 49.958624,
+      "actual_start_s": 42.24,
+      "actual_end_s": 50.52,
+      "visible_start_s": 41.760000000000005,
+      "visible_end_s": 51.0,
+      "visible_duration_s": 9.24
+    },
+    {
+      "id": 6,
+      "title": "放学后皮皮把松果带回家",
+      "text": "傍晚放学后，皮皮把这枚心爱的大松果带回了家，想把它摆在卧室的窗台上当装饰。",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u01",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 37
+        }
+      ],
+      "paragraph_id": "p002",
+      "characters": [
+        "pipi_day",
+        "pinecone_big",
+        "bedroom_room"
+      ],
+      "outfits": {
+        "pipi": ""
+      },
+      "setting": "皮皮已回家，仍抱着松果来到卧室窗台边。",
+      "action": "傍晚，皮皮穿同一身灰蓝背带裤和米色上衣，抱着松果从家门进入卧室，走向木窗台；画面能看出携带路线。 皮皮：专注、珍惜地双爪抱松果，目光看向窗台。",
+      "visual_description": "傍晚，皮皮穿同一身灰蓝背带裤和米色上衣，抱着松果从家门进入卧室，走向木窗台；画面能看出携带路线。",
+      "emotional_performance": "皮皮：专注、珍惜地双爪抱松果，目光看向窗台。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_06.png",
+      "prompt_file": "prompts/shot_06.json",
+      "reference_manifest": "references/shot_06.json",
+      "continuity_refs": "展览结束；皮皮手持同一枚松果。",
+      "state_before": "从学校切到家中卧室，明确已放学且松果随身带回。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 5,
+      "speech_start_s": 51.073791666666665,
+      "speech_end_s": 62.24497783333333,
+      "actual_start_s": 50.52,
+      "actual_end_s": 62.68,
+      "visible_start_s": 50.040000000000006,
+      "visible_end_s": 63.16,
+      "visible_duration_s": 13.12
+    },
+    {
+      "id": 7,
+      "title": "皮皮想让松果像小士兵一样站立",
+      "text": "皮皮想让松果像个站岗的小士兵一样，尖尖的头朝上，笔直地立在窗台木板上。",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u02",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 35
+        }
+      ],
+      "paragraph_id": "p002",
+      "characters": [
+        "pipi_day",
+        "pinecone_big",
+        "bedroom_room",
+        "wood_window",
+        "curtain"
+      ],
+      "outfits": {
+        "pipi": ""
+      },
+      "setting": "松果第一次尝试在平窗台上竖立。",
+      "action": "卧室木窗台近景，皮皮把松果的尖尖头朝上、粗糙底座落在平木板上，正轻轻松开双爪。 皮皮：期待、眉眼专注，爪子刚离开松果，身体微微前倾。",
+      "visual_description": "卧室木窗台近景，皮皮把松果的尖尖头朝上、粗糙底座落在平木板上，正轻轻松开双爪。",
+      "emotional_performance": "皮皮：期待、眉眼专注，爪子刚离开松果，身体微微前倾。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_07.png",
+      "prompt_file": "prompts/shot_07.json",
+      "reference_manifest": "references/shot_07.json",
+      "continuity_refs": "松果刚被带回卧室，尚未放置。",
+      "state_before": "固定窗台、窗框和米色窗帘位置；松果先竖立。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 6,
+      "speech_start_s": 63.12329166666667,
+      "speech_end_s": 73.540958,
+      "actual_start_s": 62.68,
+      "actual_end_s": 73.96,
+      "visible_start_s": 62.2,
+      "visible_end_s": 74.44,
+      "visible_duration_s": 12.24
+    },
+    {
+      "id": 8,
+      "title": "松果底座不平，轻轻摇晃",
+      "text": "可是，松果的底座并不是平平的，皮皮刚松开爪子，",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u03",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 23
+        }
+      ],
+      "paragraph_id": "p002",
+      "characters": [
+        "pinecone_big",
+        "bedroom_room",
+        "wood_window"
+      ],
+      "outfits": {
+        "pipi": ""
+      },
+      "setting": "底部接触面不平，松果摇晃。",
+      "action": "松果竖立在窗台上左右摇摆，皮皮的两只爪子已松开但停在旁边准备接住；截取即将倒下前一刻。 皮皮：小心专注，眼睛跟着摇晃的松果，耳朵略抬。",
+      "visual_description": "松果竖立在窗台上左右摇摆，皮皮的两只爪子已松开但停在旁边准备接住；截取即将倒下前一刻。",
+      "emotional_performance": "皮皮：小心专注，眼睛跟着摇晃的松果，耳朵略抬。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_08.png",
+      "prompt_file": "prompts/shot_08.json",
+      "reference_manifest": "references/shot_08.json",
+      "continuity_refs": "松果尖端朝上，皮皮的爪子离开。",
+      "state_before": "位置沿用同一窗台，镜头聚焦松果轻晃。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 7,
+      "speech_start_s": 74.3984375,
+      "speech_end_s": 81.34804133333333,
+      "actual_start_s": 73.96,
+      "actual_end_s": 81.6,
+      "visible_start_s": 73.47999999999999,
+      "visible_end_s": 82.08,
+      "visible_duration_s": 8.6
+    },
+    {
+      "id": 9,
+      "title": "松果骨碌歪倒躺在旁边",
+      "text": "松果就轻轻晃了两下，“骨碌”一下歪倒了，慢慢躺到了旁边。",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u03",
+          "paragraph_id": "p002",
+          "start_char": 23,
+          "end_char": 51
+        }
+      ],
+      "paragraph_id": "p002",
+      "characters": [
+        "pinecone_big",
+        "bedroom_room",
+        "wood_window"
+      ],
+      "outfits": {
+        "pipi": ""
+      },
+      "setting": "松果朝侧面躺在窗台上，第一次尝试失败。",
+      "action": "松果从竖立位置歪倒，侧面落在窗台木板上；皮皮停在一旁，没有让松果摔到窗外。 皮皮：轻轻惊讶但不惊慌，身体往前探看松果。",
+      "visual_description": "松果从竖立位置歪倒，侧面落在窗台木板上；皮皮停在一旁，没有让松果摔到窗外。",
+      "emotional_performance": "皮皮：轻轻惊讶但不惊慌，身体往前探看松果。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_09.png",
+      "prompt_file": "prompts/shot_09.json",
+      "reference_manifest": "references/shot_09.json",
+      "continuity_refs": "松果正在摇晃。",
+      "state_before": "同一松果倒在原处，窗台与背景不变。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 8,
+      "speech_start_s": 81.82879133333333,
+      "speech_end_s": 89.25958333333334,
+      "actual_start_s": 81.6,
+      "actual_end_s": 89.8,
+      "visible_start_s": 81.11999999999999,
+      "visible_end_s": 90.28,
+      "visible_duration_s": 9.16
+    },
+    {
+      "id": 10,
+      "title": "皮皮扶稳松果并垫硬纸板",
+      "text": "皮皮不甘心，又伸出两只小爪子试着扶了扶，还在它底下垫了一小块硬纸板。",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u01",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 34
+        }
+      ],
+      "paragraph_id": "p003",
+      "characters": [
+        "pinecone_big",
+        "hard_cardboard",
+        "bedroom_room",
+        "wood_window",
+        "pipi_day"
+      ],
+      "outfits": {
+        "pipi": ""
+      },
+      "setting": "皮皮扶起松果并试着垫纸板。",
+      "action": "皮皮用两只小爪子扶起松果，另一只爪边有一小块矩形硬纸板，准备垫在不平底座下；桌面物件简洁。 皮皮：认真、不甘心但仍温和，眉毛微收，目光落在底座。",
+      "visual_description": "皮皮用两只小爪子扶起松果，另一只爪边有一小块矩形硬纸板，准备垫在不平底座下；桌面物件简洁。",
+      "emotional_performance": "皮皮：认真、不甘心但仍温和，眉毛微收，目光落在底座。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_10.png",
+      "prompt_file": "prompts/shot_10.json",
+      "reference_manifest": "references/shot_10.json",
+      "continuity_refs": "松果侧躺在窗台。",
+      "state_before": "松果、窗台和皮皮衣服保持相同。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 9,
+      "speech_start_s": 90.3650625,
+      "speech_end_s": 100.5713945,
+      "actual_start_s": 89.8,
+      "actual_end_s": 101.04,
+      "visible_start_s": 89.32,
+      "visible_end_s": 101.52000000000001,
+      "visible_duration_s": 12.2
+    },
+    {
+      "id": 11,
+      "title": "拿开手后松果仍坐不稳",
+      "text": "可只要手一拿开，松果还是坐不稳，",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u02",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "paragraph_id": "p003",
+      "characters": [
+        "pinecone_big",
+        "hard_cardboard",
+        "bedroom_room",
+        "wood_window"
+      ],
+      "outfits": {
+        "pipi": ""
+      },
+      "setting": "爪子移开，松果再次失去平衡。",
+      "action": "硬纸板垫在松果底下，皮皮慢慢收回双爪，松果刚开始倾向左边；动作定格在失去支撑的瞬间。 皮皮：紧盯松果，仍想判断它能不能立住。",
+      "visual_description": "硬纸板垫在松果底下，皮皮慢慢收回双爪，松果刚开始倾向左边；动作定格在失去支撑的瞬间。",
+      "emotional_performance": "皮皮：紧盯松果，仍想判断它能不能立住。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_11.png",
+      "prompt_file": "prompts/shot_11.json",
+      "reference_manifest": "references/shot_11.json",
+      "continuity_refs": "皮皮用爪子扶住已垫纸板的松果。",
+      "state_before": "纸板在松果底部，松果又要倾斜。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 10,
+      "speech_start_s": 101.46910416666665,
+      "speech_end_s": 105.95574899999998,
+      "actual_start_s": 101.04,
+      "actual_end_s": 106.12,
+      "visible_start_s": 100.56,
+      "visible_end_s": 106.60000000000001,
+      "visible_duration_s": 6.04
+    },
+    {
+      "id": 12,
+      "title": "松果总爱靠侧面躺着",
+      "text": "总是固执地往左边倒下去，好像它天生就只喜欢靠着自己的侧面躺着。",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u02",
+          "paragraph_id": "p003",
+          "start_char": 16,
+          "end_char": 47
+        }
+      ],
+      "paragraph_id": "p003",
+      "characters": [
+        "pinecone_big",
+        "hard_cardboard",
+        "bedroom_room",
+        "wood_window"
+      ],
+      "outfits": {
+        "pipi": ""
+      },
+      "setting": "松果再次向左倒下，侧面是自然稳定姿势。",
+      "action": "松果自然向左侧倒下并安稳落回窗台，硬纸板滑在旁边；皮皮看着侧躺的松果若有所思。 皮皮：从挫败转为观察，眉眼放松一点，目光追随松果侧面。",
+      "visual_description": "松果自然向左侧倒下并安稳落回窗台，硬纸板滑在旁边；皮皮看着侧躺的松果若有所思。",
+      "emotional_performance": "皮皮：从挫败转为观察，眉眼放松一点，目光追随松果侧面。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_12.png",
+      "prompt_file": "prompts/shot_12.json",
+      "reference_manifest": "references/shot_12.json",
+      "continuity_refs": "松果在纸板支撑下短暂竖立。",
+      "state_before": "松果侧躺朝向固定为左侧，纸板仍在底座旁。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 11,
+      "speech_start_s": 106.32116599999999,
+      "speech_end_s": 115.19424999999998,
+      "actual_start_s": 106.12,
+      "actual_end_s": 115.64,
+      "visible_start_s": 105.64,
+      "visible_end_s": 116.12,
+      "visible_duration_s": 10.48
+    },
+    {
+      "id": 13,
+      "title": "记起芽芽横放的葫芦",
+      "text": "今天在果实展上，皮皮看到小鹿芽芽的葫芦是横着放的，",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u03",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 25
+        }
+      ],
+      "paragraph_id": "p003",
+      "characters": [
+        "school_room",
+        "gourd_yaya"
+      ],
+      "outfits": {
+        "pipi": ""
+      },
+      "setting": "回想果实展中横放的葫芦。",
+      "action": "记忆插叙：秋日果实展的木桌上，小鹿芽芽的浅绿葫芦横着安稳摆放；温暖柔和记忆色调，仍是学校展桌。 无新增人物；若出现芽芽，需按其身份参考，并保持安静友善。",
+      "visual_description": "记忆插叙：秋日果实展的木桌上，小鹿芽芽的浅绿葫芦横着安稳摆放；温暖柔和记忆色调，仍是学校展桌。",
+      "emotional_performance": "无新增人物；若出现芽芽，需按其身份参考，并保持安静友善。",
+      "reality": "memory",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_13.png",
+      "prompt_file": "prompts/shot_13.json",
+      "reference_manifest": "references/shot_13.json",
+      "continuity_refs": "皮皮在家观察侧躺的松果。",
+      "state_before": "这是皮皮回忆中的展览，不是芽芽来到家中；只出现展品与同一教室。",
+      "state_after": [],
+      "transition_from": 12,
+      "speech_start_s": 116.07489583333331,
+      "speech_end_s": 123.29310383333332,
+      "actual_start_s": 115.64,
+      "actual_end_s": 123.6,
+      "visible_start_s": 115.16,
+      "visible_end_s": 124.08,
+      "visible_duration_s": 8.92
+    },
+    {
+      "id": 14,
+      "title": "记起绒绒堆放的板栗",
+      "text": "小熊绒绒的板栗是堆着放的，没有谁规定果实一定要笔直地站着呀。",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u03",
+          "paragraph_id": "p003",
+          "start_char": 25,
+          "end_char": 55
+        }
+      ],
+      "paragraph_id": "p003",
+      "characters": [
+        "school_room",
+        "chestnuts_rongrong"
+      ],
+      "outfits": {
+        "pipi": ""
+      },
+      "setting": "看见绒绒的板栗堆放，打破果实必须站直的想法。",
+      "action": "记忆插叙：同一秋日果实展桌上，几枚栗褐色板栗自然堆叠着；不强迫任何果实竖直，柔和记忆色调。 无新增人物；若出现绒绒，需按身份参考且仅作为展览回忆。",
+      "visual_description": "记忆插叙：同一秋日果实展桌上，几枚栗褐色板栗自然堆叠着；不强迫任何果实竖直，柔和记忆色调。",
+      "emotional_performance": "无新增人物；若出现绒绒，需按身份参考且仅作为展览回忆。",
+      "reality": "memory",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_14.png",
+      "prompt_file": "prompts/shot_14.json",
+      "reference_manifest": "references/shot_14.json",
+      "continuity_refs": "回忆中的芽芽葫芦横放。",
+      "state_before": "仍然是学校果实展的回忆插镜；板栗堆放状态清楚。",
+      "state_after": [],
+      "transition_from": 13,
+      "speech_start_s": 123.88922883333332,
+      "speech_end_s": 132.35847883333332,
+      "actual_start_s": 123.6,
+      "actual_end_s": 132.92,
+      "visible_start_s": 123.11999999999999,
+      "visible_end_s": 133.39999999999998,
+      "visible_duration_s": 10.28
+    },
+    {
+      "id": 15,
+      "title": "皮皮决定不再逼松果立正",
+      "text": "于是，皮皮不再强迫松果立正了。",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u01",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 15
+        }
+      ],
+      "paragraph_id": "p004",
+      "characters": [
+        "pinecone_big",
+        "hard_cardboard",
+        "bedroom_room",
+        "wood_window",
+        "pipi_day"
+      ],
+      "outfits": {
+        "pipi": ""
+      },
+      "setting": "决定接纳松果自然的侧躺姿势。",
+      "action": "回到卧室，皮皮轻轻把硬纸板放到一旁，不再用爪子强扶松果；神情缓和。 皮皮：由皱眉转为释然，肩膀放松，平静看松果。",
+      "visual_description": "回到卧室，皮皮轻轻把硬纸板放到一旁，不再用爪子强扶松果；神情缓和。",
+      "emotional_performance": "皮皮：由皱眉转为释然，肩膀放松，平静看松果。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_15.png",
+      "prompt_file": "prompts/shot_15.json",
+      "reference_manifest": "references/shot_15.json",
+      "continuity_refs": "皮皮从回忆中回到卧室，松果侧躺。",
+      "state_before": "回到同一卧室与同一窗台；松果仍侧躺，纸板放旁边。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 14,
+      "speech_start_s": 133.4548333333333,
+      "speech_end_s": 137.82085349999997,
+      "actual_start_s": 132.92,
+      "actual_end_s": 138.24,
+      "visible_start_s": 132.44,
+      "visible_end_s": 138.72,
+      "visible_duration_s": 6.28
+    },
+    {
+      "id": 16,
+      "title": "拿来原木小托盘和米色软绒布",
+      "text": "他从桌角拿来一只浅浅的原木小托盘，在盘底铺上一小片厚实的米色软绒布，",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u02",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 34
+        }
+      ],
+      "paragraph_id": "p004",
+      "characters": [
+        "pinecone_big",
+        "tray_wood",
+        "felt_pad",
+        "bedroom_room",
+        "wood_window"
+      ],
+      "outfits": {
+        "pipi": ""
+      },
+      "setting": "托盘和绒布准备好，放在窗台上。",
+      "action": "皮皮从窗台桌角拿来浅浅原木托盘，将一小片厚实米色软绒布平整铺在盘底；松果在手边等待。 皮皮：专注而温和，双爪小心铺开绒布。",
+      "visual_description": "皮皮从窗台桌角拿来浅浅原木托盘，将一小片厚实米色软绒布平整铺在盘底；松果在手边等待。",
+      "emotional_performance": "皮皮：专注而温和，双爪小心铺开绒布。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_16.png",
+      "prompt_file": "prompts/shot_16.json",
+      "reference_manifest": "references/shot_16.json",
+      "continuity_refs": "皮皮已接受松果侧躺，硬纸板移开。",
+      "state_before": "同一木托盘与一块小米色绒布首次入镜，形状材质固定。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 15,
+      "speech_start_s": 138.68812499999999,
+      "speech_end_s": 148.63927016666665,
+      "actual_start_s": 138.24,
+      "actual_end_s": 148.84,
+      "visible_start_s": 137.76000000000002,
+      "visible_end_s": 149.32,
+      "visible_duration_s": 11.56
+    },
+    {
+      "id": 17,
+      "title": "让松果顺着侧面舒适地躺好",
+      "text": "然后把松果放上去，任由它顺着自己最舒服的原来的样子，侧着身子躺好。",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u02",
+          "paragraph_id": "p004",
+          "start_char": 34,
+          "end_char": 67
+        }
+      ],
+      "paragraph_id": "p004",
+      "characters": [
+        "pinecone_big",
+        "tray_wood",
+        "felt_pad",
+        "bedroom_room",
+        "wood_window"
+      ],
+      "outfits": {
+        "pipi": ""
+      },
+      "setting": "松果安稳侧躺在软绒托盘中。",
+      "action": "皮皮将同一枚大松果轻放进铺有米色绒布的原木浅托盘里，松果侧面贴着软绒，尖端斜向上。 皮皮：轻轻托放后露出期待的温柔神情。",
+      "visual_description": "皮皮将同一枚大松果轻放进铺有米色绒布的原木浅托盘里，松果侧面贴着软绒，尖端斜向上。",
+      "emotional_performance": "皮皮：轻轻托放后露出期待的温柔神情。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_17.png",
+      "prompt_file": "prompts/shot_17.json",
+      "reference_manifest": "references/shot_17.json",
+      "continuity_refs": "空托盘和绒布已摆好，松果仍在旁。",
+      "state_before": "托盘、绒布、松果位置构成固定陈列；不增加垫块。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 16,
+      "speech_start_s": 149.03160416666665,
+      "speech_end_s": 158.72389516666667,
+      "actual_start_s": 148.84,
+      "actual_end_s": 159.16,
+      "visible_start_s": 148.36,
+      "visible_end_s": 159.64,
+      "visible_duration_s": 11.28
+    },
+    {
+      "id": 18,
+      "title": "这回松果再也不摇晃了",
+      "text": "这回，松果再也不摇晃了。",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u03",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 12
+        }
+      ],
+      "paragraph_id": "p004",
+      "characters": [
+        "pinecone_big",
+        "tray_wood",
+        "felt_pad",
+        "bedroom_room"
+      ],
+      "outfits": {
+        "pipi": ""
+      },
+      "setting": "松果稳定不摇，托盘位置未变。",
+      "action": "同一托盘的中近景，松果侧躺稳定，窗台平稳，皮皮的爪子已经完全收回。 皮皮：观察后眼睛微亮、嘴角轻松，感到安心。",
+      "visual_description": "同一托盘的中近景，松果侧躺稳定，窗台平稳，皮皮的爪子已经完全收回。",
+      "emotional_performance": "皮皮：观察后眼睛微亮、嘴角轻松，感到安心。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_18.png",
+      "prompt_file": "prompts/shot_18.json",
+      "reference_manifest": "references/shot_18.json",
+      "continuity_refs": "松果刚被放在绒布托盘上。",
+      "state_before": "只呈现同一托盘中的同一松果，绒布不起皱移位。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 17,
+      "speech_start_s": 159.5744375,
+      "speech_end_s": 162.8327708333333,
+      "actual_start_s": 159.16,
+      "actual_end_s": 163.28,
+      "visible_start_s": 158.68,
+      "visible_end_s": 163.76,
+      "visible_duration_s": 5.08
+    },
+    {
+      "id": 19,
+      "title": "松果鳞片安静地挨在一起",
+      "text": "它层层叠叠的小鳞片安安静静地挨在一起，",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u04",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 19
+        }
+      ],
+      "paragraph_id": "p004",
+      "characters": [
+        "pinecone_big",
+        "felt_pad"
+      ],
+      "outfits": {
+        "pipi": ""
+      },
+      "setting": "鳞片细节安静可辨。",
+      "action": "松果木质鳞片微距特写，层叠鳞片整齐贴合；暖柔光表现纹理与安静，不画拟人脸。 无角色近景，氛围平静。",
+      "visual_description": "松果木质鳞片微距特写，层叠鳞片整齐贴合；暖柔光表现纹理与安静，不画拟人脸。",
+      "emotional_performance": "无角色近景，氛围平静。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_19.png",
+      "prompt_file": "prompts/shot_19.json",
+      "reference_manifest": "references/shot_19.json",
+      "continuity_refs": "松果在浅托盘内稳定侧躺。",
+      "state_before": "特写仍是固定那枚松果，不改颜色、尖端和鳞片密度。",
+      "state_after": [
+        "pinecone_big"
+      ],
+      "transition_from": 18,
+      "speech_start_s": 163.73658333333333,
+      "speech_end_s": 169.21462433333332,
+      "actual_start_s": 163.28,
+      "actual_end_s": 169.44,
+      "visible_start_s": 162.8,
+      "visible_end_s": 169.92,
+      "visible_duration_s": 7.12
+    },
+    {
+      "id": 20,
+      "title": "松果斜斜对着窗外",
+      "text": "斜斜地对着窗外，看上去比刚才硬撑着站立的时候，要自在、好看得多。",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u04",
+          "paragraph_id": "p004",
+          "start_char": 19,
+          "end_char": 51
+        }
+      ],
+      "paragraph_id": "p004",
+      "characters": [
+        "pinecone_big",
+        "tray_wood",
+        "felt_pad",
+        "bedroom_room",
+        "wood_window",
+        "curtain"
+      ],
+      "outfits": {
+        "pipi": ""
+      },
+      "setting": "看出它侧放后更自在好看。",
+      "action": "同一松果斜躺在托盘里，尖端朝向窗外的暮色；窗帘垂在窗边，没有遮住窗台。 皮皮可在画面后方露出柔和的安心神情，目光望向窗外。",
+      "visual_description": "同一松果斜躺在托盘里，尖端朝向窗外的暮色；窗帘垂在窗边，没有遮住窗台。",
+      "emotional_performance": "皮皮可在画面后方露出柔和的安心神情，目光望向窗外。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_20.png",
+      "prompt_file": "prompts/shot_20.json",
+      "reference_manifest": "references/shot_20.json",
+      "continuity_refs": "松果鳞片纹理近景。",
+      "state_before": "窗帘与松果方向固定；此时画面明确松果不再站立。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 19,
+      "speech_start_s": 169.69537433333332,
+      "speech_end_s": 179.39537433333334,
+      "actual_start_s": 169.44,
+      "actual_end_s": 179.96,
+      "visible_start_s": 168.96,
+      "visible_end_s": 180.44,
+      "visible_duration_s": 11.48
+    },
+    {
+      "id": 21,
+      "title": "皮皮抬头望见窗外老松树",
+      "text": "皮皮抬头望向窗外，不远处就有一棵高大的老松树，",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u01",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 23
+        }
+      ],
+      "paragraph_id": "p005",
+      "characters": [
+        "pine_tree_outside",
+        "bedroom_room",
+        "wood_window",
+        "pinecone_big"
+      ],
+      "outfits": {
+        "pipi": ""
+      },
+      "setting": "视线从松果移向窗外的老松树。",
+      "action": "从卧室窗内向外看，皮皮抬头望向不远处高大的老松树，树冠和几枚松果在远处可见。 皮皮：眼睛明亮、神情恍然，耳朵自然抬起，朝窗外看。",
+      "visual_description": "从卧室窗内向外看，皮皮抬头望向不远处高大的老松树，树冠和几枚松果在远处可见。",
+      "emotional_performance": "皮皮：眼睛明亮、神情恍然，耳朵自然抬起，朝窗外看。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_21.png",
+      "prompt_file": "prompts/shot_21.json",
+      "reference_manifest": "references/shot_21.json",
+      "continuity_refs": "松果斜向窗外，托盘仍在窗台一角。",
+      "state_before": "皮皮仍在窗内，未出屋；床与窗台/托盘仍在原处。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 20,
+      "speech_start_s": 180.5044375,
+      "speech_end_s": 187.24987433333334,
+      "actual_start_s": 179.96,
+      "actual_end_s": 187.48,
+      "visible_start_s": 179.48000000000002,
+      "visible_end_s": 187.95999999999998,
+      "visible_duration_s": 8.48
+    },
+    {
+      "id": 22,
+      "title": "每一枚松果都有自己的方向",
+      "text": "枝头也挂着好几枚松果，有的朝东，有的朝西，有的垂着头，每一枚都有自己生长的方向。",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u01",
+          "paragraph_id": "p005",
+          "start_char": 23,
+          "end_char": 63
+        }
+      ],
+      "paragraph_id": "p005",
+      "characters": [
+        "pine_tree_outside"
+      ],
+      "outfits": {
+        "pipi": ""
+      },
+      "setting": "多个不同方向的松果呈现自然差异。",
+      "action": "老松树枝头近景，几枚松果有的朝左、有的朝右、有的垂下，各自在枝上自然生长；柔和晚霞。 无人物特写，突出不同朝向。",
+      "visual_description": "老松树枝头近景，几枚松果有的朝左、有的朝右、有的垂下，各自在枝上自然生长；柔和晚霞。",
+      "emotional_performance": "无人物特写，突出不同朝向。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_22.png",
+      "prompt_file": "prompts/shot_22.json",
+      "reference_manifest": "references/shot_22.json",
+      "continuity_refs": "皮皮在窗内看见老松树。",
+      "state_before": "同一棵窗外老松树；松果仍附着枝头，不掉落。",
+      "state_after": [
+        "pine_tree_outside"
+      ],
+      "transition_from": 21,
+      "speech_start_s": 187.74987433333334,
+      "speech_end_s": 199.58449933333333,
+      "actual_start_s": 187.48,
+      "actual_end_s": 200.0,
+      "visible_start_s": 187.0,
+      "visible_end_s": 200.48,
+      "visible_duration_s": 13.48
+    },
+    {
+      "id": 23,
+      "title": "托盘放稳并给窗帘留出空位",
+      "text": "皮皮把木托盘在窗台一角放稳，给旁边的窗帘留出活动的空间，",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u02",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 28
+        }
+      ],
+      "paragraph_id": "p005",
+      "characters": [
+        "pinecone_big",
+        "tray_wood",
+        "felt_pad",
+        "wood_window",
+        "curtain",
+        "bedroom_room"
+      ],
+      "outfits": {
+        "pipi": ""
+      },
+      "setting": "托盘放稳，窗帘留有活动空间。",
+      "action": "回卧室内，皮皮把托盘移到窗台一角，旁边留足窗帘滑动的空隙；帘子可以自然活动。 皮皮：谨慎调整位置后点点头，视线检查窗帘路径。",
+      "visual_description": "回卧室内，皮皮把托盘移到窗台一角，旁边留足窗帘滑动的空隙；帘子可以自然活动。",
+      "emotional_performance": "皮皮：谨慎调整位置后点点头，视线检查窗帘路径。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_23.png",
+      "prompt_file": "prompts/shot_23.json",
+      "reference_manifest": "references/shot_23.json",
+      "continuity_refs": "老松树和枝头松果在窗外。",
+      "state_before": "托盘中松果保持侧躺、绒布仍在；窗帘不被压住。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 22,
+      "speech_start_s": 200.45322916666666,
+      "speech_end_s": 208.789083,
+      "actual_start_s": 200.0,
+      "actual_end_s": 209.0,
+      "visible_start_s": 199.52,
+      "visible_end_s": 209.48,
+      "visible_duration_s": 9.96
+    },
+    {
+      "id": 24,
+      "title": "皮皮放下让松果笔直站立的念头",
+      "text": "彻底放下了让松果“坐得直直的”念头。",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u02",
+          "paragraph_id": "p005",
+          "start_char": 28,
+          "end_char": 46
+        }
+      ],
+      "paragraph_id": "p005",
+      "characters": [
+        "pinecone_big",
+        "tray_wood",
+        "felt_pad",
+        "wood_window",
+        "curtain",
+        "bedroom_room"
+      ],
+      "outfits": {
+        "pipi": ""
+      },
+      "setting": "皮皮彻底接受松果不用站直。",
+      "action": "皮皮安静看着侧卧且稳稳摆好的松果，窗帘在旁边留有空隙；肩膀放松，眼神释然。 皮皮：放松微笑，不再皱眉；自然接受松果侧躺。",
+      "visual_description": "皮皮安静看着侧卧且稳稳摆好的松果，窗帘在旁边留有空隙；肩膀放松，眼神释然。",
+      "emotional_performance": "皮皮：放松微笑，不再皱眉；自然接受松果侧躺。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_24.png",
+      "prompt_file": "prompts/shot_24.json",
+      "reference_manifest": "references/shot_24.json",
+      "continuity_refs": "皮皮把托盘在窗台角落放稳。",
+      "state_before": "托盘、绒布、松果方向和窗帘空间都保持不变。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 23,
+      "speech_start_s": 209.181375,
+      "speech_end_s": 213.912124,
+      "actual_start_s": 209.0,
+      "actual_end_s": 214.44,
+      "visible_start_s": 208.52,
+      "visible_end_s": 214.92,
+      "visible_duration_s": 6.4
+    },
+    {
+      "id": 25,
+      "title": "洗漱后皮皮靠回大枕头",
+      "text": "洗漱完毕，皮皮靠回床上的大枕头。",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u01",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "paragraph_id": "p006",
+      "characters": [
+        "pipi_night",
+        "bedroom_room",
+        "pinecone_big",
+        "tray_wood",
+        "felt_pad"
+      ],
+      "outfits": {
+        "pipi": ""
+      },
+      "setting": "洗漱后回到床边，换上睡衣。",
+      "action": "夜晚卧室，皮皮已换深蓝星星睡帽和简单睡衣，靠回床上的大枕头；窗台角落的松果托盘仍安稳摆放。 皮皮：疲倦但安心，肩背靠枕头，目光柔和。",
+      "visual_description": "夜晚卧室，皮皮已换深蓝星星睡帽和简单睡衣，靠回床上的大枕头；窗台角落的松果托盘仍安稳摆放。",
+      "emotional_performance": "皮皮：疲倦但安心，肩背靠枕头，目光柔和。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_25.png",
+      "prompt_file": "prompts/shot_25.json",
+      "reference_manifest": "references/shot_25.json",
+      "continuity_refs": "傍晚托盘在窗台，皮皮仍穿白天衣服。",
+      "state_before": "明确从白天服装过渡到夜间睡衣；没有移动窗台物件。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 24,
+      "speech_start_s": 215.00502083333333,
+      "speech_end_s": 219.8530205,
+      "actual_start_s": 214.44,
+      "actual_end_s": 220.28,
+      "visible_start_s": 213.96,
+      "visible_end_s": 220.76,
+      "visible_duration_s": 6.8
+    },
+    {
+      "id": 26,
+      "title": "今晚皮皮也不再平躺",
+      "text": "今晚，他也没有规规矩矩地平躺着，",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u02",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "paragraph_id": "p006",
+      "characters": [
+        "pipi_night",
+        "carrot_doll",
+        "bedroom_room"
+      ],
+      "outfits": {
+        "pipi": ""
+      },
+      "setting": "皮皮意识到自己不必规矩平躺。",
+      "action": "皮皮靠在大枕头上，刚准备改变一直平躺的姿势，眼神安静地寻找舒服位置；胡萝卜玩偶在身边等待。 皮皮：轻松犹豫，肩背靠枕头，目光柔和。",
+      "visual_description": "皮皮靠在大枕头上，刚准备改变一直平躺的姿势，眼神安静地寻找舒服位置；胡萝卜玩偶在身边等待。",
+      "emotional_performance": "皮皮：轻松犹豫，肩背靠枕头，目光柔和。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_26.png",
+      "prompt_file": "prompts/shot_26.json",
+      "reference_manifest": "references/shot_26.json",
+      "continuity_refs": "皮皮洗漱后靠回大枕头。",
+      "state_before": "夜间衣服和枕头不变，玩偶尚未抱入怀中。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 25,
+      "speech_start_s": 220.71341666666666,
+      "speech_end_s": 225.5693535,
+      "actual_start_s": 220.28,
+      "actual_end_s": 225.84,
+      "visible_start_s": 219.8,
+      "visible_end_s": 226.32,
+      "visible_duration_s": 6.52
+    },
+    {
+      "id": 27,
+      "title": "皮皮也转过身抱住胡萝卜玩偶",
+      "text": "而是学着那枚松果的样子，转了个身，找了一个侧着身子、把胡萝卜玩偶抱在怀里的舒服姿势。",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u02",
+          "paragraph_id": "p006",
+          "start_char": 16,
+          "end_char": 58
+        }
+      ],
+      "paragraph_id": "p006",
+      "characters": [
+        "pipi_night",
+        "carrot_doll",
+        "bedroom_room"
+      ],
+      "outfits": {
+        "pipi": ""
+      },
+      "setting": "皮皮选择侧卧并抱住玩偶。",
+      "action": "皮皮侧身躺下，把熟悉的胡萝卜玩偶抱在怀里，枕头承托头肩；不再平躺。 皮皮：舒服放松、自然微笑，目光轻柔，身体侧卧。",
+      "visual_description": "皮皮侧身躺下，把熟悉的胡萝卜玩偶抱在怀里，枕头承托头肩；不再平躺。",
+      "emotional_performance": "皮皮：舒服放松、自然微笑，目光轻柔，身体侧卧。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_27.png",
+      "prompt_file": "prompts/shot_27.json",
+      "reference_manifest": "references/shot_27.json",
+      "continuity_refs": "皮皮靠回大枕头。",
+      "state_before": "睡帽睡衣、床、枕头、胡萝卜玩偶保持固定外观和位置。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 26,
+      "speech_start_s": 226.0886035,
+      "speech_end_s": 237.82706149999999,
+      "actual_start_s": 225.84,
+      "actual_end_s": 238.28,
+      "visible_start_s": 225.36,
+      "visible_end_s": 238.76,
+      "visible_duration_s": 13.4
+    },
+    {
+      "id": 28,
+      "title": "睡帽帽尖垂下，长耳朵放松",
+      "text": "睡帽的帽尖轻轻垂下，长耳朵自然地放松。",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u03",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 19
+        }
+      ],
+      "paragraph_id": "p006",
+      "characters": [
+        "pipi_night",
+        "bedroom_room"
+      ],
+      "outfits": {
+        "pipi": ""
+      },
+      "setting": "帽尖垂下，长耳自然放松。",
+      "action": "半身近景，深蓝星星睡帽的帽尖自然垂下，皮皮长耳朵松弛地沿枕边垂落。 皮皮：眼睛轻合或半闭，眉眼舒展；不是悲伤脸。",
+      "visual_description": "半身近景，深蓝星星睡帽的帽尖自然垂下，皮皮长耳朵松弛地沿枕边垂落。",
+      "emotional_performance": "皮皮：眼睛轻合或半闭，眉眼舒展；不是悲伤脸。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_28.png",
+      "prompt_file": "prompts/shot_28.json",
+      "reference_manifest": "references/shot_28.json",
+      "continuity_refs": "皮皮抱着玩偶侧卧。",
+      "state_before": "睡帽、帽球、耳朵方向连续，同一睡姿。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 27,
+      "speech_start_s": 238.69725,
+      "speech_end_s": 244.22595833333332,
+      "actual_start_s": 238.28,
+      "actual_end_s": 244.68,
+      "visible_start_s": 237.8,
+      "visible_end_s": 245.16,
+      "visible_duration_s": 7.36
+    },
+    {
+      "id": 29,
+      "title": "柔软小床稳稳托住侧身",
+      "text": "柔软的小床稳稳地托着他的侧身，再也不用费力气去扶住什么了。",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u04",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "paragraph_id": "p006",
+      "characters": [
+        "pipi_night",
+        "carrot_doll",
+        "bedroom_room",
+        "pinecone_big",
+        "tray_wood",
+        "felt_pad"
+      ],
+      "outfits": {
+        "pipi": ""
+      },
+      "setting": "身体获得支撑，姿势自然稳定。",
+      "action": "侧向远景，柔软床垫托住皮皮的侧身，枕头和毯子自然承托；皮皮不再费力支撑。 皮皮：安静舒展，身体松弛，胡萝卜玩偶仍抱在怀里。",
+      "visual_description": "侧向远景，柔软床垫托住皮皮的侧身，枕头和毯子自然承托；皮皮不再费力支撑。",
+      "emotional_performance": "皮皮：安静舒展，身体松弛，胡萝卜玩偶仍抱在怀里。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_29.png",
+      "prompt_file": "prompts/shot_29.json",
+      "reference_manifest": "references/shot_29.json",
+      "continuity_refs": "皮皮已侧卧，睡帽帽尖垂下。",
+      "state_before": "床和被褥位置不变，窗台上的松果托盘保持安全稳定。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 28,
+      "speech_start_s": 245.15891666666667,
+      "speech_end_s": 253.15462433333335,
+      "actual_start_s": 244.68,
+      "actual_end_s": 253.72,
+      "visible_start_s": 244.20000000000002,
+      "visible_end_s": 254.2,
+      "visible_duration_s": 10.0
+    },
+    {
+      "id": 30,
+      "title": "舒服可以有许多不一样的样子",
+      "text": "小朋友，舒服本来就可以有许许多多不一样的样子。",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u01",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 23
+        }
+      ],
+      "paragraph_id": "p007",
+      "characters": [
+        "pipi_night",
+        "bedroom_room",
+        "pine_tree_outside"
+      ],
+      "outfits": {
+        "pipi": ""
+      },
+      "setting": "旁白告诉孩子舒服有很多样子。",
+      "action": "温暖卧室宽景，皮皮舒适侧卧休息，窗外松树剪影安静；画面留白柔和，适合晚安收束。 皮皮：安心、呼吸平稳、眼睛轻闭。",
+      "visual_description": "温暖卧室宽景，皮皮舒适侧卧休息，窗外松树剪影安静；画面留白柔和，适合晚安收束。",
+      "emotional_performance": "皮皮：安心、呼吸平稳、眼睛轻闭。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_30.png",
+      "prompt_file": "prompts/shot_30.json",
+      "reference_manifest": "references/shot_30.json",
+      "continuity_refs": "小床承托皮皮侧身。",
+      "state_before": "承接前镜侧卧姿势，场景与物件不变。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 29,
+      "speech_start_s": 254.25272916666665,
+      "speech_end_s": 260.358416,
+      "actual_start_s": 253.72,
+      "actual_end_s": 260.8,
+      "visible_start_s": 253.24,
+      "visible_end_s": 261.28000000000003,
+      "visible_duration_s": 8.04
+    },
+    {
+      "id": 31,
+      "title": "找到身体最放松的位置慢慢休息",
+      "text": "今晚，不管是平躺还是侧卧，让你的身体自己找到最放松的位置，慢慢休息吧。",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u02",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 35
+        }
+      ],
+      "paragraph_id": "p007",
+      "characters": [
+        "pipi_night",
+        "carrot_doll",
+        "bedroom_room",
+        "pinecone_big",
+        "tray_wood",
+        "felt_pad"
+      ],
+      "outfits": {
+        "pipi": ""
+      },
+      "setting": "画面进入最终安睡状态。",
+      "action": "镜头回到皮皮侧身抱着玩偶、被柔软枕被承托的舒适睡姿，夜灯渐柔。 皮皮：自然安睡，耳朵放松，脸部宁静。",
+      "visual_description": "镜头回到皮皮侧身抱着玩偶、被柔软枕被承托的舒适睡姿，夜灯渐柔。",
+      "emotional_performance": "皮皮：自然安睡，耳朵放松，脸部宁静。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_31.png",
+      "prompt_file": "prompts/shot_31.json",
+      "reference_manifest": "references/shot_31.json",
+      "continuity_refs": "皮皮安稳侧卧。",
+      "state_before": "睡眠状态持续，松果仍在窗台托盘里，窗帘空隙保留。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 30,
+      "speech_start_s": 261.26631249999997,
+      "speech_end_s": 271.89172849999994,
+      "actual_start_s": 260.8,
+      "actual_end_s": 272.32,
+      "visible_start_s": 260.32,
+      "visible_end_s": 272.8,
+      "visible_duration_s": 12.48
+    },
+    {
+      "id": 32,
+      "title": "晚安",
+      "text": "晚安。",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u03",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 3
+        }
+      ],
+      "paragraph_id": "p007",
+      "characters": [
+        "pipi_night",
+        "carrot_doll",
+        "bedroom_room",
+        "pinecone_big",
+        "tray_wood",
+        "felt_pad"
+      ],
+      "outfits": {
+        "pipi": ""
+      },
+      "setting": "晚安后安静渐暗，保持8秒尾声。",
+      "action": "安静的卧室夜景收尾，皮皮在床上安睡，窗台上的松果静静侧躺在托盘中；暖灯柔和渐暗。 皮皮：安睡，眼睛闭合，呼吸平缓。",
+      "visual_description": "安静的卧室夜景收尾，皮皮在床上安睡，窗台上的松果静静侧躺在托盘中；暖灯柔和渐暗。",
+      "emotional_performance": "皮皮：安睡，眼睛闭合，呼吸平缓。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_32.png",
+      "prompt_file": "prompts/shot_32.json",
+      "reference_manifest": "references/shot_32.json",
+      "continuity_refs": "皮皮已找到舒服侧卧姿势。",
+      "state_before": "最后镜持续完整8秒尾声，角色和松果状态不变。",
+      "state_after": [
+        "pipi"
+      ],
+      "transition_from": 31,
+      "speech_start_s": 272.7830833333333,
+      "speech_end_s": 273.549374,
+      "actual_start_s": 272.32,
+      "actual_end_s": 282.68,
+      "visible_start_s": 271.84,
+      "visible_end_s": 282.68,
+      "visible_duration_s": 10.84
+    }
+  ],
+  "audio": "mix.wav",
+  "subtitles": "episode.ass",
+  "character_registry": "references/",
+  "fonts": [
+    {
+      "path": "fonts/NotoSans-Regular.ttf",
+      "sha256": "89c3c497f618fdaa0b2d1e98fef93582f28c71debd2c4a8cdf41f190ced2909d"
+    },
+    {
+      "path": "fonts/Noto-CJK-copyright.txt",
+      "sha256": "849f4ea9c214fa4ac3593b770c699f387534b11ce671264c1b10d85bdcb5997b"
+    },
+    {
+      "path": "fonts/NotoSansCJKsc-Regular.otf",
+      "sha256": "82e9bdfd176ce68c51f6ff89ca7e2abae7fdb82b4591aa7338638598ae3c91c8"
+    },
+    {
+      "path": "fonts/Noto-Sans-copyright.txt",
+      "sha256": "075f91382875da1c4b491f1facf2586f55448705133264d98ce15cab6211b125"
+    },
+    {
+      "path": "fonts/NotoSansCJKsc-Bold.otf",
+      "sha256": "85c969dbb2f927c8dbbe440d5755b7c9a714f13a7a58339459df43cfff3583b3"
+    }
+  ]
+}

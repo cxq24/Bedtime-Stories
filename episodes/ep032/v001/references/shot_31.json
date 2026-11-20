@@ -1,0 +1,16 @@
+{
+  "episode": "ep032",
+  "shot_id": 31,
+  "image": "images/shot_31.png",
+  "source_manifest": "images/shot_31.source.json",
+  "source_sha256": "b1ce5dad04c5a9a2cfdc801d999d5c4694e68c25cf6be56b41c58d79a14481ec",
+  "prompt_file": "prompts/shot_31.json",
+  "prompt_sha256": "62a1156c42b7bd24471a4125c050e929034372041d04b1eaedb076229a6b9ec3",
+  "loaded_references": [
+    "images/shot_27.png",
+    "images/shot_29.png",
+    "assets/night_identity_anchor.png"
+  ],
+  "storyboard_title": "找到身体最放松的位置慢慢休息",
+  "continuity_refs": "皮皮安稳侧卧。"
+}

@@ -1,0 +1,227 @@
+{
+  "text": "今晚，他也没有规规矩矩地平躺着，而是学着那枚松果的样子，转了个身，找了一个侧着身子、把胡萝卜玩偶抱在怀里的舒服姿势。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "765fbbb82b2a149692ca763312ae996cc5863fa56ba6c490cb7c70dc6d12be50",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 8269160,
+      "text": "今晚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14730830,
+      "duration": 2692080,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17422910,
+      "duration": 1730830,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19346250,
+      "duration": 4230830,
+      "text": "没有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23961660,
+      "duration": 11730830,
+      "text": "规规矩矩"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35884580,
+      "duration": 5192500,
+      "text": "地平"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41269160,
+      "duration": 4615410,
+      "text": "躺"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45884580,
+      "duration": 4038330,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55115410,
+      "duration": 4422910,
+      "text": "而是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59730830,
+      "duration": 3076660,
+      "text": "学"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 62807500,
+      "duration": 1730830,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64730830,
+      "duration": 2307500,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 67038330,
+      "duration": 2307500,
+      "text": "枚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 69730830,
+      "duration": 5961660,
+      "text": "松果"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75692500,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 77230830,
+      "duration": 7884580,
+      "text": "样子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 88577080,
+      "duration": 3269160,
+      "text": "转"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 91846250,
+      "duration": 1538330,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 93384580,
+      "duration": 1346250,
+      "text": "个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 94922910,
+      "duration": 4807500,
+      "text": "身"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 103653750,
+      "duration": 3461660,
+      "text": "找"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 107115410,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 108461660,
+      "duration": 3269160,
+      "text": "一个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 112115410,
+      "duration": 2692080,
+      "text": "侧"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 114807500,
+      "duration": 1538330,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 116538330,
+      "duration": 8269160,
+      "text": "身子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 128653750,
+      "duration": 2115410,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 130769160,
+      "duration": 7500000,
+      "text": "胡萝卜"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 138461660,
+      "duration": 8077080,
+      "text": "玩偶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 146922910,
+      "duration": 2884580,
+      "text": "抱"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 149807500,
+      "duration": 2115410,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 152115410,
+      "duration": 3653750,
+      "text": "怀"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 155769160,
+      "duration": 1730830,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 157500000,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 159230830,
+      "duration": 5000000,
+      "text": "舒服"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 164422910,
+      "duration": 8077080,
+      "text": "姿势"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "episode": "ep032",
+  "shot_id": 32,
+  "image": "images/shot_32.png",
+  "source_manifest": "images/shot_32.source.json",
+  "source_sha256": "6ce5730d5499d710784e61e8492ce09ed27265592e87bf17a514b9a7524fdb95",
+  "prompt_file": "prompts/shot_32.json",
+  "prompt_sha256": "9e58291fc640b416cc131f035fb45405b241e43cdcbc4bcd3720e7f09d1a990b",
+  "loaded_references": [
+    "images/shot_27.png",
+    "images/shot_16.png",
+    "images/shot_06.png",
+    "assets/night_identity_anchor.png"
+  ],
+  "storyboard_title": "晚安",
+  "continuity_refs": "皮皮已找到舒服侧卧姿势。"
+}

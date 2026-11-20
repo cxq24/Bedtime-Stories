@@ -1,0 +1,113 @@
+{
+  "text": "今晚，不管是平躺还是侧卧，让你的身体自己找到最放松的位置，慢慢休息吧。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "c7e7ac39ef846ff8681ae4a17159b6e1b05ac67949177b1f95e1af98e1d489d4",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 7884580,
+      "text": "今晚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14153750,
+      "duration": 4615410,
+      "text": "不管"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18769160,
+      "duration": 1730830,
+      "text": "是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20692500,
+      "duration": 5769160,
+      "text": "平躺"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26846250,
+      "duration": 4038330,
+      "text": "还是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31077080,
+      "duration": 8461660,
+      "text": "侧卧"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44346250,
+      "duration": 2500000,
+      "text": "让"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47038330,
+      "duration": 11730830,
+      "text": "你的身体"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60307500,
+      "duration": 4422910,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64922910,
+      "duration": 5384580,
+      "text": "找到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 70692500,
+      "duration": 3269160,
+      "text": "最"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 73961660,
+      "duration": 5769160,
+      "text": "放松"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 79730830,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 81461660,
+      "duration": 7115410,
+      "text": "位置"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 92615410,
+      "duration": 5000000,
+      "text": "慢慢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 97807500,
+      "duration": 6153750,
+      "text": "休息"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 103961660,
+      "duration": 3653750,
+      "text": "吧"
+    }
+  ]
+}
