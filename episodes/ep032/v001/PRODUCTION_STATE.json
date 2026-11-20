@@ -17,8 +17,13 @@
   "human_watch": "not_certified",
   "user_acceptance": "pending",
   "publication": "not_published",
-  "github_sync": "authorized_by_user_pending_push",
-  "next_action": "同步工程与双视频到GitHub main；等待用户验收与人工完整听看。",
+  "github_sync": {
+    "status": "synced_to_main",
+    "date": "2026-11-20",
+    "commit": "6f24b7a",
+    "scope": "complete_ep032_v001_project_and_delivery_including_both_videos"
+  },
+  "next_action": "等待用户验收与人工完整听看；尚未发布。",
   "prompt_count": 33,
   "audio_duration_s": 282.68,
   "speech_end_s": 273.7187,
