@@ -1,0 +1,50 @@
+{
+  "episode": "ep033",
+  "version": "v001",
+  "title": "树梢上的一只苹果",
+  "script_version": "v5",
+  "script_sha256": "26c584f2ef41631fd314f48336ff90b310b07052aeab1b4d5c5fd2fbcb2d5cf7",
+  "stage": "rendered_technical_check_passed_pending_user_review",
+  "voice": {
+    "status": "synthesized",
+    "duration_s": 266.64,
+    "units": 26,
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000,
+    "sample_audio": "generated_not_audition_certified",
+    "pronunciation_review": "pending_audio_listen_review"
+  },
+  "storyboard": {
+    "status": "locked_to_actual_tts_all_29_images_generated",
+    "text_coverage": "complete_763_hanzi",
+    "max_visible_s": 14.84,
+    "illustrations_remaining": 0
+  },
+  "continuity": {
+    "status": "image_contact_sheet_review_passed",
+    "image_review": "passed: all 29 images reviewed; corrected shot 04 cast roles and shot 21 autumn night continuity"
+  },
+  "illustrations": {
+    "status": "all_29_generated_and_visual_reviewed",
+    "generated": 29,
+    "required": 29,
+    "remaining": 0,
+    "user_acceptance": "pending"
+  },
+  "cover": "complete_1080x1920_title_matches_platform_copy",
+  "pinyin": {
+    "status": "generated_and_context_reviewed",
+    "cues": 129,
+    "hanzi": 763,
+    "context_review": "completed_against_episode_text",
+    "audio_listen_review": "not_certified"
+  },
+  "render": "complete_both_publish_and_clean_masters",
+  "technical_check": "passed_full_decode_both_versions_dimensions_duration_fps_audio_streams",
+  "human_full_watch": "not_certified",
+  "user_acceptance": "pending",
+  "publication": "not_published"
+}

@@ -1,0 +1,14 @@
+{
+  "shot_id": "shot_10",
+  "file": "images/shot_10.png",
+  "sha256": "7048431cee65b7068944f513369fc68c3677abc87864a1612ea9218cf0058a53",
+  "source": "built-in image_gen",
+  "reference_images": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "episodes/ep033/v001/references/orchard_assets_ep033_v001.png"
+  ],
+  "prompt_summary": "Pipi stands small below the old apple tree at orange sunset; the specific highest red apple remains attached to the thin branch and glows against the sky; no ladder.",
+  "visual_review": "passed: action/composition, wardrobe, no hat, apple attachment, safe climbing continuity checked",
+  "user_acceptance": "pending"
+}

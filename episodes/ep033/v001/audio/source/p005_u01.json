@@ -1,0 +1,143 @@
+{
+  "text": "皮皮把那片树叶轻轻放在苹果篮的最上面，今天热闹的采摘劳动，就算圆满收尾啦。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "4f65f2165e9ff4562260bf6467069050ea2c0b8d429f3a75aefeae592c3a0568",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5769160,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7422910,
+      "duration": 2115410,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9730830,
+      "duration": 1730830,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11461660,
+      "duration": 2884580,
+      "text": "片"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14538330,
+      "duration": 7692500,
+      "text": "树叶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23769160,
+      "duration": 6730830,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30692500,
+      "duration": 2692080,
+      "text": "放"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33384580,
+      "duration": 2307500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36077080,
+      "duration": 5576660,
+      "text": "苹果"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41653750,
+      "duration": 2500000,
+      "text": "篮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44153750,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45884580,
+      "duration": 3077080,
+      "text": "最"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48961660,
+      "duration": 7307500,
+      "text": "上面"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61653750,
+      "duration": 5577080,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 67615410,
+      "duration": 4807500,
+      "text": "热闹"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 72422910,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 74153750,
+      "duration": 5577080,
+      "text": "采摘"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 79922910,
+      "duration": 6922910,
+      "text": "劳动"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 90115410,
+      "duration": 5577080,
+      "text": "就算"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 96077080,
+      "duration": 5961660,
+      "text": "圆满"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 102230830,
+      "duration": 6346250,
+      "text": "收尾"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 108577080,
+      "duration": 3461660,
+      "text": "啦"
+    }
+  ]
+}

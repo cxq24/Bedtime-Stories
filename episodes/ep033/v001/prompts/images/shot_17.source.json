@@ -1,0 +1,14 @@
+{
+  "shot_id": "shot_17",
+  "file": "images/shot_17.png",
+  "sha256": "5585815694b896c95660a2d74f4f23492688d52b41566b5cc5987fbdd2abbdfd",
+  "source": "built-in image_gen",
+  "reference_images": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "episodes/ep033/v001/references/orchard_assets_ep033_v001.png"
+  ],
+  "prompt_summary": "Pipi picks up a golden leaf by the tree roots; basket rests on porch; high apple remains attached.",
+  "visual_review": "passed: exact outfit, no hat, action/location continuity, high apple attachment checked",
+  "user_acceptance": "pending"
+}

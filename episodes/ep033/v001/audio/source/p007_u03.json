@@ -1,0 +1,53 @@
+{
+  "text": "\n小朋友，明天还有明天的新鲜事和阳光。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "5b001fe8893877cfbe30dff60ffafef5f5a44d6ec91945eef7975c0d375f79c9",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 11153750,
+      "text": "小朋友"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17422910,
+      "duration": 5769160,
+      "text": "明天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23384580,
+      "duration": 9807500,
+      "text": "还有明天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33192500,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34730830,
+      "duration": 8846250,
+      "text": "新鲜事"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43961660,
+      "duration": 1730830,
+      "text": "和"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45884580,
+      "duration": 8077080,
+      "text": "阳光"
+    }
+  ]
+}

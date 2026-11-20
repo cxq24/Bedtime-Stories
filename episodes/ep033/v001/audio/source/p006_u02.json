@@ -1,0 +1,173 @@
+{
+  "text": "\n回到卧室里，小枕头不高，暖黄毛毯也不远，不用踮脚也不用爬高，皮皮轻轻松松就钻进了属于自己的舒服被窝里。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "15e6ed2684a7995d2d00f2bb5bc32b2e29e6b16d590eaba353759da902f58d2d",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4807500,
+      "text": "回到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6269160,
+      "duration": 6730830,
+      "text": "卧室"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13000000,
+      "duration": 3846250,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20307500,
+      "duration": 8846250,
+      "text": "小枕头"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29153750,
+      "duration": 2115410,
+      "text": "不"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31269160,
+      "duration": 4038330,
+      "text": "高"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40115410,
+      "duration": 2500000,
+      "text": "暖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42615410,
+      "duration": 2692080,
+      "text": "黄"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45307500,
+      "duration": 6153750,
+      "text": "毛毯"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51846250,
+      "duration": 1538330,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53577080,
+      "duration": 2500000,
+      "text": "不"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56077080,
+      "duration": 4422910,
+      "text": "远"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 65884580,
+      "duration": 4230830,
+      "text": "不用"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 70307500,
+      "duration": 8653750,
+      "text": "踮脚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 80692500,
+      "duration": 2115410,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 83000000,
+      "duration": 3653750,
+      "text": "不用"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 86846250,
+      "duration": 7692500,
+      "text": "爬高"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 98269160,
+      "duration": 6153750,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 104807500,
+      "duration": 14230830,
+      "text": "轻轻松松"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 119422910,
+      "duration": 2692500,
+      "text": "就"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 122307500,
+      "duration": 5577080,
+      "text": "钻进"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 127884580,
+      "duration": 1922910,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 130192500,
+      "duration": 9422910,
+      "text": "属于自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 139615410,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 141538330,
+      "duration": 5192500,
+      "text": "舒服"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 146922910,
+      "duration": 6922910,
+      "text": "被窝"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 153846250,
+      "duration": 3461660,
+      "text": "里"
+    }
+  ]
+}

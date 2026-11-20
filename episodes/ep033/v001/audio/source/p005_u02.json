@@ -1,0 +1,185 @@
+{
+  "text": "至于树梢上那最后一只红苹果，就让它在高高的枝头多待一晚，陪陪夜晚的星星和路过的小鸟吧。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "b176df043c977b1c66548cffc4926d7e141710c89539b69326111afeca6b4190",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4615410,
+      "text": "至于"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6269160,
+      "duration": 6346250,
+      "text": "树梢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12615410,
+      "duration": 2884580,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15884580,
+      "duration": 1730830,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17807500,
+      "duration": 6346250,
+      "text": "最后"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24346250,
+      "duration": 1922910,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26269160,
+      "duration": 1730830,
+      "text": "只"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28384580,
+      "duration": 3269160,
+      "text": "红"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31653750,
+      "duration": 7692500,
+      "text": "苹果"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43384580,
+      "duration": 2115410,
+      "text": "就"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45500000,
+      "duration": 2307500,
+      "text": "让"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48000000,
+      "duration": 2115410,
+      "text": "它"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50115410,
+      "duration": 2307500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52807500,
+      "duration": 5384580,
+      "text": "高高"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58192500,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59922910,
+      "duration": 7307500,
+      "text": "枝头"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 67615410,
+      "duration": 3077080,
+      "text": "多"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 70692500,
+      "duration": 2500000,
+      "text": "待"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 73384580,
+      "duration": 2307500,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75692500,
+      "duration": 3846250,
+      "text": "晚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 83269160,
+      "duration": 5384580,
+      "text": "陪陪"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 89038330,
+      "duration": 4230830,
+      "text": "夜晚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 93269160,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 94615410,
+      "duration": 8846250,
+      "text": "星星"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 105000000,
+      "duration": 2692500,
+      "text": "和"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 107884580,
+      "duration": 4422910,
+      "text": "路过"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 112307500,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 113846250,
+      "duration": 6922910,
+      "text": "小鸟"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 120769160,
+      "duration": 4038330,
+      "text": "吧"
+    }
+  ]
+}

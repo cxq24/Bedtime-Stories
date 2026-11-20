@@ -1,0 +1,13 @@
+{
+  "shot_id": "shot_26",
+  "file": "images/shot_26.png",
+  "sha256": "23311b7087fcb24674a4b9e3482dc3f417a8395cc39ff0596b6180efff13f5bb",
+  "source": "built-in image_gen",
+  "reference_images": [
+    "episodes/ep033/v001/references/pipi_sleepwear_v001.png",
+    "episodes/ep033/v001/references/bedroom_assets_ep033_v001.png"
+  ],
+  "prompt_summary": "Pipi sleeps hugging the same orange carrot plush, same pillow and yellow blanket.",
+  "visual_review": "passed: wardrobe/location/prop continuity, sleeping pose and no unintended waking verified",
+  "user_acceptance": "pending"
+}

@@ -1,0 +1,13 @@
+{
+  "shot_id": "shot_27",
+  "file": "images/shot_27.png",
+  "sha256": "eacb7da66d0b6fd3f41e890ebd0afbc7b9024f564448ce65273aaeb096bdcc76",
+  "source": "built-in image_gen",
+  "reference_images": [
+    "episodes/ep033/v001/references/pipi_sleepwear_v001.png",
+    "episodes/ep033/v001/references/bedroom_assets_ep033_v001.png"
+  ],
+  "prompt_summary": "Pipi remains asleep hugging the same carrot plush; night remains in window with faint horizon hint.",
+  "visual_review": "passed: wardrobe/location/prop continuity, sleeping pose and no unintended waking verified",
+  "user_acceptance": "pending"
+}

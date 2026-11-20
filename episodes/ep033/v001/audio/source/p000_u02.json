@@ -1,0 +1,71 @@
+{
+  "text": "今天的故事叫《树梢上的一只苹果》。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "9a040077c9baae2c6c71daade27607d56cd30af3f858abee4a33326819be1295",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5769160,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8769160,
+      "duration": 4807500,
+      "text": "故事"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13769160,
+      "duration": 5192500,
+      "text": "叫"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20307500,
+      "duration": 6922910,
+      "text": "树梢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27230830,
+      "duration": 2692080,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29922910,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31461660,
+      "duration": 1922910,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33384580,
+      "duration": 2115410,
+      "text": "只"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35692500,
+      "duration": 9038330,
+      "text": "苹果"
+    }
+  ]
+}

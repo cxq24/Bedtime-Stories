@@ -1,0 +1,14 @@
+{
+  "shot_id": "shot_15",
+  "file": "images/shot_15.png",
+  "sha256": "790ef0c6ad1acdca4e56b90bb0c8255a2a9300ed4a3322114c0cab24606a653b",
+  "source": "built-in image_gen",
+  "reference_images": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "episodes/ep033/v001/references/orchard_assets_ep033_v001.png"
+  ],
+  "prompt_summary": "Pipi turns toward the porch and basket; bare ground, no ladder/stool; high apple remains attached.",
+  "visual_review": "passed: exact outfit, no hat, action/location continuity, high apple attachment checked",
+  "user_acceptance": "pending"
+}

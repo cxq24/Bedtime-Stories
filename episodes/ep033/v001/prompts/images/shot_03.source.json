@@ -1,0 +1,16 @@
+{
+  "shot_id": "shot_03",
+  "file": "images/shot_03.png",
+  "sha256": "be34a33e9a988a8ea098be3fadf79143d0e39394e1e0e618a2f708b3e1249175",
+  "source": "built-in image_gen",
+  "reference_images": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/rongrong_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/tuantuan_identity_v001.png",
+    "episodes/ep033/v001/references/orchard_assets_ep033_v001.png"
+  ],
+  "prompt_summary": "Story shot 03: Pipi warmly welcomes Rongrong, light-brown bear in olive vest, and Tuantuan, brown squirrel with cream chest and rust-orange scarf. Same orchard, harvest has not begun; cheerful but distinct expressions, all three clear, highest apple remains attached. Portrait watercolor, no text.",
+  "visual_review": "passed: identity, outfit, story beat, high apple attachment and subtitle-safe layout reviewed",
+  "user_acceptance": "pending"
+}

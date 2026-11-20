@@ -1,0 +1,14 @@
+{
+  "shot_id": "shot_01",
+  "file": "images/shot_01.png",
+  "sha256": "019679580e383289488223bc3ad4da94ae1bbb8bc27f0c9fbf6ea01c423a5ac6",
+  "source": "built-in image_gen",
+  "reference_images": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "episodes/ep033/v001/references/orchard_assets_ep033_v001.png"
+  ],
+  "prompt_summary": "Dedicated standalone p000 question illustration, same Pipi identity, day outfit and tree as shot_00. Closer low-angle view: Pipi thoughtfully looks at the same small red apple still attached to the highest thin branch; uncovered head, no hat, no title, no words, portrait watercolor, subtitle-safe lower 20%.",
+  "visual_review": "passed: identity, outfit, story beat, high apple attachment and subtitle-safe layout reviewed",
+  "user_acceptance": "pending"
+}

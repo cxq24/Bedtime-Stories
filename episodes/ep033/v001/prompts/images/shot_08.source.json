@@ -1,0 +1,14 @@
+{
+  "shot_id": "shot_08",
+  "file": "images/shot_08.png",
+  "sha256": "11795430a7aff050619a51be750d3c8eddc6bcd4d3a51133a404d764610752ba",
+  "source": "built-in image_gen",
+  "reference_images": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "episodes/ep033/v001/references/orchard_assets_ep033_v001.png"
+  ],
+  "prompt_summary": "At dusk after friends left, Pipi finishes arranging the same final basket and pats hands, turning toward cottage but pausing before looking upward. Same tree and unique high apple in background; Pipi alone, exact day outfit.",
+  "visual_review": "passed: cast presence/exit, outfit, orchard progression, high apple continuity and frame composition checked",
+  "user_acceptance": "pending"
+}

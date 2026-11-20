@@ -1,0 +1,13 @@
+{
+  "shot_id": "shot_24",
+  "file": "images/shot_24.png",
+  "sha256": "e972ec2099c68c497fede3715b79988e80677ce69778af1510e34aa8e689238e",
+  "source": "built-in image_gen",
+  "reference_images": [
+    "episodes/ep033/v001/references/pipi_sleepwear_v001.png",
+    "episodes/ep033/v001/references/bedroom_assets_ep033_v001.png"
+  ],
+  "prompt_summary": "Pipi in cream-yellow pajamas sits at the low bed, with cream pillow and yellow blanket prepared; stable bedroom layout.",
+  "visual_review": "passed: wardrobe/location/prop continuity, sleeping pose and no unintended waking verified",
+  "user_acceptance": "pending"
+}

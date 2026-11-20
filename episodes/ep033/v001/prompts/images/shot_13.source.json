@@ -1,0 +1,14 @@
+{
+  "shot_id": "shot_13",
+  "file": "images/shot_13.png",
+  "sha256": "26ad910774310c2c3fd95b4a48133f344a29dd67e631ba801545caf1f0d3694d",
+  "source": "built-in image_gen",
+  "reference_images": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "episodes/ep033/v001/references/orchard_assets_ep033_v001.png"
+  ],
+  "prompt_summary": "Pipi kneels and gently touches the same full apple basket, feeling settled; high red apple remains visible and attached.",
+  "visual_review": "passed: action/composition, wardrobe, no hat, apple attachment, safe climbing continuity checked",
+  "user_acceptance": "pending"
+}

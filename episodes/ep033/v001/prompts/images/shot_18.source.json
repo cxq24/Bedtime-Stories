@@ -1,0 +1,13 @@
+{
+  "shot_id": "shot_18",
+  "file": "images/shot_18.png",
+  "sha256": "ced6c96d8f2cd6e1da83398c217726049b7acccc83e5baf3af352084bfacd022",
+  "source": "built-in image_gen",
+  "reference_images": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "episodes/ep033/v001/references/orchard_assets_ep033_v001.png"
+  ],
+  "prompt_summary": "Pipi puts the single golden leaf gently on top of the full apple basket on the porch; high apple remains attached in dusk background.",
+  "visual_review": "passed: evening-to-night transition, high apple attached, no anthropomorphism; leaf/basket continuity reviewed",
+  "user_acceptance": "pending"
+}

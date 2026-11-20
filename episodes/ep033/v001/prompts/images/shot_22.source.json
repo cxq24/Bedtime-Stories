@@ -1,0 +1,13 @@
+{
+  "shot_id": "shot_22",
+  "file": "images/shot_22.png",
+  "sha256": "1525c0987cd72d08cb8bd3d4e53bad7170db719f4dc9835a419fc687100a7f81",
+  "source": "built-in image_gen",
+  "reference_images": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+  ],
+  "prompt_summary": "Pipi looks back at the high apple through the cottage doorway at night, while standing inside; warm indoor light and dark orchard.",
+  "visual_review": "passed: wardrobe/location/prop continuity, sleeping pose and no unintended waking verified",
+  "user_acceptance": "pending"
+}

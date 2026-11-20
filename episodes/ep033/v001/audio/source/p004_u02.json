@@ -1,0 +1,77 @@
+{
+  "text": "\n于是，皮皮没有再去搬凳子或梯子往上够。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "a19abc37414023c65b9fbf3ca587801afcec698ab56f4fe566aa875587f0efd4",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 8077080,
+      "text": "于是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14538330,
+      "duration": 4807500,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19538330,
+      "duration": 4422910,
+      "text": "没有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24153750,
+      "duration": 2692500,
+      "text": "再"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26846250,
+      "duration": 1922910,
+      "text": "去"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28961660,
+      "duration": 3076660,
+      "text": "搬"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32038330,
+      "duration": 7692500,
+      "text": "凳子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41269160,
+      "duration": 2692500,
+      "text": "或"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44153750,
+      "duration": 4807500,
+      "text": "梯子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 49346250,
+      "duration": 5961250,
+      "text": "往上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55307500,
+      "duration": 4230830,
+      "text": "够"
+    }
+  ]
+}

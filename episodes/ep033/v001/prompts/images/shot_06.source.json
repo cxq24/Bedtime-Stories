@@ -1,0 +1,16 @@
+{
+  "shot_id": "shot_06",
+  "file": "images/shot_06.png",
+  "sha256": "ef7329d988ba9cb29d59b1d6406e9963e02089afc8fa7fb2b29136ee1dc2c30e",
+  "source": "built-in image_gen",
+  "reference_images": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/rongrong_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/tuantuan_identity_v001.png",
+    "episodes/ep033/v001/references/orchard_assets_ep033_v001.png"
+  ],
+  "prompt_summary": "Afternoon harvest finished: three friends exchange and carry several full woven baskets home to share; nobody eats. Same cottage yard and tree, fewer apples on lower branches while one unique red apple remains attached to highest twig; exact approved outfits, Pipi no cap.",
+  "visual_review": "passed: cast presence/exit, outfit, orchard progression, high apple continuity and frame composition checked",
+  "user_acceptance": "pending"
+}

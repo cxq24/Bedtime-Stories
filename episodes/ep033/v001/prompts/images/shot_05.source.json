@@ -1,0 +1,16 @@
+{
+  "shot_id": "shot_05",
+  "file": "images/shot_05.png",
+  "sha256": "36664b68a225cfe087ae264c1389fece7ef910a9a6db47dc66cfe99117ef1f7c",
+  "source": "built-in image_gen",
+  "reference_images": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/rongrong_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/tuantuan_identity_v001.png",
+    "episodes/ep033/v001/references/orchard_assets_ep033_v001.png"
+  ],
+  "prompt_summary": "Story shot 05: same orchard and characters; Pipi uses long bamboo pole with round net to catch a low apple, Rongrong supports basket, Tuantuan picks only from safe middle branch. A few apples now in basket; highest unique apple untouched. Pipi uncovered head in exact day outfit, no hat of any kind. Portrait watercolor, no text.",
+  "visual_review": "passed: identity, outfit, story beat, high apple attachment and subtitle-safe layout reviewed",
+  "user_acceptance": "pending"
+}

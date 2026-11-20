@@ -1,0 +1,11 @@
+{
+  "file": "cover_base.png",
+  "sha256": "ab89ac7ca42774e5e599a1757e008b857f73b2ad40b368c2f9f194dcb7166f5e",
+  "source": "built-in image_gen",
+  "prompt_summary": "独立竖版水彩无字封面底图：秋夜苹果树梢上一颗红苹果、小木屋暖窗，画面下段留白供统一模板排标题。",
+  "title": "皮皮发现树梢苹果",
+  "layout": "bedtime-cover-v3",
+  "title_source": "storyboard.json cover_title",
+  "reference_images": [],
+  "review": "1080x1920 cover and 360px mobile reduction checked; important apple remains above text card"
+}

@@ -1,0 +1,312 @@
+{
+  "hanzi": 763,
+  "cues": 129,
+  "pinyin_coverage": 1.0,
+  "context_review": "completed_against_episode_text",
+  "target_font_px": {
+    "hanzi": 76,
+    "pinyin": 48
+  },
+  "libass_fontsize_calibration": {
+    "hanzi": 114,
+    "pinyin": 66,
+    "reason": "match actual rasterized glyph scale to bundled-font 76px/48px reference; libass normalizes font metrics"
+  },
+  "audio_pronunciation_listen_review": "not_certified",
+  "overrides": [
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "小朋友们，准备好听故事了吗？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "秋天是收获的季节，皮皮家小木屋门前的那棵老苹果树，结满了红彤彤、散发着甜香的苹果。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "散发",
+      "pinyin": [
+        "sàn",
+        "fā"
+      ],
+      "context": "秋天是收获的季节，皮皮家小木屋门前的那棵老苹果树，结满了红彤彤、散发着甜香的苹果。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒绒",
+      "pinyin": [
+        "róng",
+        "róng"
+      ],
+      "context": "\n今天是个晴朗的周末，皮皮约了小熊绒绒和小松鼠团团一起帮忙摘苹果。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "\n今天是个晴朗的周末，皮皮约了小熊绒绒和小松鼠团团一起帮忙摘苹果。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "团团",
+      "pinyin": [
+        "tuán",
+        "tuán"
+      ],
+      "context": "\n今天是个晴朗的周末，皮皮约了小熊绒绒和小松鼠团团一起帮忙摘苹果。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "\n今天是个晴朗的周末，皮皮约了小熊绒绒和小松鼠团团一起帮忙摘苹果。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒绒",
+      "pinyin": [
+        "róng",
+        "róng"
+      ],
+      "context": "绒绒力气大，负责在树下扶着竹筐；",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "团团",
+      "pinyin": [
+        "tuán",
+        "tuán"
+      ],
+      "context": "团团会爬树，负责摘中间树枝上的果子；",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮则拿着带小网兜的长竹竿，把低处的苹果一个个接进篮子里。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "皮皮则拿着带小网兜的长竹竿，把低处的苹果一个个接进篮子里。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "皮皮则拿着带小网兜的长竹竿，把低处的苹果一个个接进篮子里。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒绒",
+      "pinyin": [
+        "róng",
+        "róng"
+      ],
+      "context": "大家忙活了一个下午，分装了好几篮子苹果，让团团和绒绒带回家去和家人分享。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "团团",
+      "pinyin": [
+        "tuán",
+        "tuán"
+      ],
+      "context": "大家忙活了一个下午，分装了好几篮子苹果，让团团和绒绒带回家去和家人分享。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "大家忙活了一个下午，分装了好几篮子苹果，让团团和绒绒带回家去和家人分享。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "\n到了傍晚，好朋友们都回家了，皮皮独自在院子里收拾最后一只小竹篮。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "\n到了傍晚，好朋友们都回家了，皮皮独自在院子里收拾最后一只小竹篮。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "\n皮皮站在树下仰头看了看，那根树枝太高太细了，竹竿够不着；",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮摸了摸竹篮里已经装得满满当当的苹果，心想：今天摘的苹果已经足够吃好久好久了，为什么一定要把树上的每一只果子都摘光呢？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "\n于是，皮皮没有再去搬凳子或梯子往上够。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮把那片树叶轻轻放在苹果篮的最上面，今天热闹的采摘劳动，就算圆满收尾啦。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "晃了",
+      "pinyin": [
+        "huàng",
+        "le"
+      ],
+      "context": "\n一阵秋日的晚风吹过，树梢上的小苹果慢慢地晃了一下，就像在对着小木屋点头说：“谢谢你呀皮皮，我也找到今晚休息的好地方啦。”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "地方",
+      "pinyin": [
+        "dì",
+        "fang"
+      ],
+      "context": "\n一阵秋日的晚风吹过，树梢上的小苹果慢慢地晃了一下，就像在对着小木屋点头说：“谢谢你呀皮皮，我也找到今晚休息的好地方啦。”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "\n一阵秋日的晚风吹过，树梢上的小苹果慢慢地晃了一下，就像在对着小木屋点头说：“谢谢你呀皮皮，我也找到今晚休息的好地方啦。”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮站在门口回头望了望，对着陪伴自己长大的老果树轻声道了句“晚安”，然后把小木门合到了熟悉的位置。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "舒服",
+      "pinyin": [
+        "shū",
+        "fu"
+      ],
+      "context": "\n回到卧室里，小枕头不高，暖黄毛毯也不远，不用踮脚也不用爬高，皮皮轻轻松松就钻进了属于自己的舒服被窝里。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "不用",
+      "pinyin": [
+        "bú",
+        "yòng"
+      ],
+      "context": "\n回到卧室里，小枕头不高，暖黄毛毯也不远，不用踮脚也不用爬高，皮皮轻轻松松就钻进了属于自己的舒服被窝里。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "不用",
+      "pinyin": [
+        "bú",
+        "yòng"
+      ],
+      "context": "\n回到卧室里，小枕头不高，暖黄毛毯也不远，不用踮脚也不用爬高，皮皮轻轻松松就钻进了属于自己的舒服被窝里。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "\n回到卧室里，小枕头不高，暖黄毛毯也不远，不用踮脚也不用爬高，皮皮轻轻松松就钻进了属于自己的舒服被窝里。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "胡萝卜",
+      "pinyin": [
+        "hú",
+        "luó",
+        "bo"
+      ],
+      "context": "他抱住胡萝卜玩偶，慢慢闭上眼睛。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "不用",
+      "pinyin": [
+        "bú",
+        "yòng"
+      ],
+      "context": "今晚，不用把每一只苹果都带回家，也不用把每一件小事都做完。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "不用",
+      "pinyin": [
+        "bú",
+        "yòng"
+      ],
+      "context": "今晚，不用把每一只苹果都带回家，也不用把每一件小事都做完。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "\n小朋友，明天还有明天的新鲜事和阳光。",
+      "review": "context_checked_not_audio_listen_certification"
+    }
+  ]
+}

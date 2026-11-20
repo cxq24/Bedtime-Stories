@@ -1,0 +1,31 @@
+{
+  "pipi_sleepwear_v001.png": {
+    "file": "episodes/ep033/v001/references/pipi_sleepwear_v001.png",
+    "sha256": "1e0dcf78efe223cef2f4199d71936566d595c0c6d1df7bd10c1061e4dd483234",
+    "source": "built-in image_gen",
+    "prompt": "Wardrobe reference derived from Pipi identity, plain pale cream-yellow long-sleeve cotton pajamas, no print; front and three-quarter views.",
+    "reference_inputs": [
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+    ],
+    "review": "visually_reviewed_as_identity_or_continuity_reference",
+    "user_acceptance": "pending"
+  },
+  "orchard_assets_ep033_v001.png": {
+    "file": "episodes/ep033/v001/references/orchard_assets_ep033_v001.png",
+    "sha256": "d773e76845303df499269034fc91c22ad8afcfc57bbd47992b1b69637aa004c6",
+    "source": "built-in image_gen",
+    "prompt": "One mature apple tree with final red apple on highest thin twig, bamboo pole with round net, honey-color basket of apples, one golden autumn leaf, separated on warm paper.",
+    "reference_inputs": [],
+    "review": "visually_reviewed_as_identity_or_continuity_reference",
+    "user_acceptance": "pending"
+  },
+  "bedroom_assets_ep033_v001.png": {
+    "file": "episodes/ep033/v001/references/bedroom_assets_ep033_v001.png",
+    "sha256": "e3593a6d8fb9722fcf907d4168f7fa2c0cccc7e3fe78d74be89f4d09921cdcb0",
+    "source": "built-in image_gen",
+    "prompt": "Stable night bedroom layout with low wooden bed lower-left, window upper-right, warm lamp, cream pillow, yellow blanket, carrot plush.",
+    "reference_inputs": [],
+    "review": "visually_reviewed_as_identity_or_continuity_reference",
+    "user_acceptance": "pending"
+  }
+}

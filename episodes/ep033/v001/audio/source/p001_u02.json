@@ -1,0 +1,119 @@
+{
+  "text": "\n今天是个晴朗的周末，皮皮约了小熊绒绒和小松鼠团团一起帮忙摘苹果。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "faea756670cfd0028fa95f0f342227a7c6ead9f1721a542af8cc319ce91ca1c6",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6538330,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8192500,
+      "duration": 3269160,
+      "text": "是个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11846250,
+      "duration": 6922910,
+      "text": "晴朗的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18961660,
+      "duration": 7884580,
+      "text": "周末"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31461660,
+      "duration": 5769160,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37422910,
+      "duration": 2692500,
+      "text": "约"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40115410,
+      "duration": 1538330,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42038330,
+      "duration": 3077080,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45115410,
+      "duration": 5961660,
+      "text": "熊绒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51077080,
+      "duration": 4807500,
+      "text": "绒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57422910,
+      "duration": 2307500,
+      "text": "和"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59922910,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63192500,
+      "duration": 8461660,
+      "text": "松鼠"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 73192500,
+      "duration": 6730830,
+      "text": "团团"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 80115410,
+      "duration": 5577080,
+      "text": "一起"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 86077080,
+      "duration": 5192500,
+      "text": "帮忙"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 91461660,
+      "duration": 2884580,
+      "text": "摘"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 94346250,
+      "duration": 8653750,
+      "text": "苹果"
+    }
+  ]
+}

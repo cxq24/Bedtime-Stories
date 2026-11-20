@@ -1,0 +1,14 @@
+{
+  "shot_id": "shot_02",
+  "file": "images/shot_02.png",
+  "sha256": "93ba040b1cf965ade627f6bf67ca527a365c2d4164062a50179a74d9deea9395",
+  "source": "built-in image_gen",
+  "reference_images": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "episodes/ep033/v001/references/orchard_assets_ep033_v001.png"
+  ],
+  "prompt_summary": "Story shot 02: establish same cottage yard, mature apple tree full of ripe red apples; Pipi in exact approved cream shirt, slate overalls, blue shoes and yellow backpack looks up happily, no hat; unique highest apple visible, no friends or harvest yet. Portrait watercolor, no text.",
+  "visual_review": "passed: identity, outfit, story beat, high apple attachment and subtitle-safe layout reviewed",
+  "user_acceptance": "pending"
+}

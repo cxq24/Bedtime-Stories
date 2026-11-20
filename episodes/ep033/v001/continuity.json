@@ -1,0 +1,742 @@
+{
+  "episode": "ep033",
+  "version": "v001",
+  "status": "image_review_passed",
+  "rules": [
+    "老苹果树始终固定于院子同一位置；红苹果数量随采摘减少，最高细枝上同一苹果留到次日。",
+    "三位朋友在傍晚离开后不再入镜；皮皮仍在院子收尾。",
+    "最后小篮与分享篮保持区分；金黄叶从树根地面被拾起，最后留在篮顶。",
+    "梯子/凳子不实际进入采摘场景；竹竿不触及最高细枝或红苹果。",
+    "关门后转入卧室，皮皮换睡衣；不再回院中，卧室物件固定位置。",
+    "夜风只轻晃细枝与苹果，苹果始终连接树枝，不落地、不出现脸。"
+  ],
+  "review_status": {
+    "pass_1_story_walkthrough": "passed: 29 shots walked in order for location, cast, carried props and cause/effect; added a separate final goodnight shot to keep the end frame under 15 seconds",
+    "pass_2_asset_state_review": "passed: same tree, last apple, baskets, pole, picked leaf, door and bed objects traced through all 29 shot states",
+    "image_contact_sheet_review": "passed: all 29 frames reviewed; shot 04 role/outfit and shot 21 season/props regenerated; persistent highest apple and bedtime transition checked"
+  },
+  "fixed_assets": [
+    {
+      "asset_id": "old_apple_tree",
+      "appearance": "院前同一棵老苹果树：温暖褐色略弯主干，向左上伸展的不对称树冠，细椭圆橄榄绿与金绿叶片；不可换树、变干枯或移动。",
+      "first_shot": "shot_00",
+      "recurring_shots": "shot_00-shot_23",
+      "holder_or_position": "固定生长在小木屋院中",
+      "reference_image": "references/orchard_assets_ep033_v001.png"
+    },
+    {
+      "asset_id": "orchard_fruit",
+      "appearance": "树上多颗圆润、饱满、红彤彤的苹果；采摘过程中数量逐渐减少，不变成其他水果。",
+      "first_shot": "shot_02",
+      "recurring_shots": "shot_02-shot_06",
+      "holder_or_position": "仍挂在树枝上，采下后进入竹篮",
+      "reference_image": "references/orchard_assets_ep033_v001.png"
+    },
+    {
+      "asset_id": "high_red_apple",
+      "appearance": "同一只小而鲜红的苹果，短棕果梗；始终挂在树冠最高最细的枝梢上。晴天到夜晚形状、颜色、大小一致；风吹时轻晃但不脱落、不挪位、不出现脸。",
+      "first_shot": "shot_00",
+      "recurring_shots": "shot_00-shot_22",
+      "holder_or_position": "始终挂在最高细枝，未被皮皮触碰或摘下",
+      "reference_image": "references/orchard_assets_ep033_v001.png"
+    },
+    {
+      "asset_id": "bamboo_basket",
+      "appearance": "同一只浅蜂蜜色细竹篾小圆篮，椭圆口沿、两侧小提耳；篮中苹果逐步装满，收工后一直是皮皮整理并放上叶子的那一篮。",
+      "first_shot": "shot_04",
+      "recurring_shots": "shot_04-shot_18",
+      "holder_or_position": "树下被绒绒扶、逐渐装果；皮皮收拾后提到门廊并放置，叶最后留在篮顶",
+      "reference_image": "references/orchard_assets_ep033_v001.png"
+    },
+    {
+      "asset_id": "harvest_baskets",
+      "appearance": "采摘期间的数只同款浅蜂蜜色小竹篮，形状编织一致；分装后团团和绒绒各带一篮离开。它们不是最后留在门廊的那只篮子。",
+      "first_shot": "shot_06",
+      "recurring_shots": "shot_06-shot_07",
+      "holder_or_position": "院中装满苹果；朋友分别拎走",
+      "reference_image": "references/orchard_assets_ep033_v001.png"
+    },
+    {
+      "asset_id": "bamboo_pole_net",
+      "appearance": "同一根长而直的浅褐竹竿，末端绑一只圆形小网兜；只用于低处苹果，够不到最高细梢；不触碰或摇落那只最终苹果。",
+      "first_shot": "shot_05",
+      "recurring_shots": "shot_05-shot_11",
+      "holder_or_position": "皮皮手持采低处果；收工后靠在树干旁，不再用于高枝",
+      "reference_image": "references/orchard_assets_ep033_v001.png"
+    },
+    {
+      "asset_id": "golden_leaf",
+      "appearance": "同一片金黄色小型秋叶，掌心大小、尖端、清楚细脉、一侧略卷；院风从老苹果树根旁带来，皮皮拾起后放在同一苹果篮顶部。",
+      "first_shot": "shot_17",
+      "recurring_shots": "shot_17-shot_18",
+      "holder_or_position": "先在树根边地面，之后被皮皮拾起并放在门廊篮顶，不再移动",
+      "reference_image": "references/orchard_assets_ep033_v001.png"
+    },
+    {
+      "asset_id": "orchard_yard",
+      "appearance": "同一处小木屋前院，老苹果树在院子偏左、门廊和小门在右后；留出树与门廊之间短路径。",
+      "first_shot": "shot_00",
+      "recurring_shots": "shot_00-shot_16",
+      "holder_or_position": "固定场景",
+      "reference_image": "references/orchard_assets_ep033_v001.png"
+    },
+    {
+      "asset_id": "cabin_exterior",
+      "appearance": "同一幢暖褐色小木屋，木墙、窗与门廊结构固定，树从院中可以看见屋门。",
+      "first_shot": "shot_02",
+      "recurring_shots": "shot_02-shot_21",
+      "holder_or_position": "固定于苹果树后方，门廊朝向院子",
+      "reference_image": "text scene anchor"
+    },
+    {
+      "asset_id": "porch",
+      "appearance": "小木屋前的窄木门廊，浅棕木板，贴近门口；放篮的位置固定为门左侧靠墙。",
+      "first_shot": "shot_16",
+      "recurring_shots": "shot_16-shot_18",
+      "holder_or_position": "篮子放下后一直留在门廊",
+      "reference_image": "text scene anchor"
+    },
+    {
+      "asset_id": "cabin_door",
+      "appearance": "同一扇深蜂蜜色竖木板小门，右侧合页、圆木把手；打开后皮皮轻轻合回原位。",
+      "first_shot": "shot_16",
+      "recurring_shots": "shot_16-shot_23",
+      "holder_or_position": "皮皮先站门槛内侧，之后门合上",
+      "reference_image": "text scene anchor"
+    },
+    {
+      "asset_id": "sunset_sky",
+      "appearance": "橘红色日落渐为深蓝夜色，变化按镜头时间单向推进，不骤然回到白天。",
+      "first_shot": "shot_10",
+      "recurring_shots": "shot_10-shot_12",
+      "holder_or_position": "同一院子天空",
+      "reference_image": "text color anchor"
+    },
+    {
+      "asset_id": "starry_night",
+      "appearance": "安静的深靛蓝秋夜天空，少量细小柔金星点，不出现月亮特写或文字。",
+      "first_shot": "shot_19",
+      "recurring_shots": "shot_19-shot_20",
+      "holder_or_position": "果树与木屋上方夜空",
+      "reference_image": "text scene anchor"
+    },
+    {
+      "asset_id": "bird",
+      "appearance": "一只远处经过的小型普通夜鸟剪影，体量很小、自然飞过；不与苹果接触，不另加角色剧情。",
+      "first_shot": "shot_19",
+      "recurring_shots": "shot_19-shot_19",
+      "holder_or_position": "从夜空远处经过",
+      "reference_image": "text scene anchor"
+    },
+    {
+      "asset_id": "bedroom",
+      "appearance": "同一温暖小卧室：矮木床在左下，窗在右上，床头灯发暖光；镜头保持窗、床及门相对位置一致。",
+      "first_shot": "shot_24",
+      "recurring_shots": "shot_24-shot_28",
+      "holder_or_position": "固定室内场景",
+      "reference_image": "references/bedroom_assets_ep033_v001.png"
+    },
+    {
+      "asset_id": "bedroom_pillow",
+      "appearance": "同一只浅奶油色小长方圆角软枕，无花纹，低而蓬松；皮皮躺下后头部落在中央，长耳自然垂在两侧。",
+      "first_shot": "shot_24",
+      "recurring_shots": "shot_24-shot_28",
+      "holder_or_position": "先在床头位置；再托住皮皮头部",
+      "reference_image": "references/bedroom_assets_ep033_v001.png"
+    },
+    {
+      "asset_id": "bedroom_blanket",
+      "appearance": "同一条暖黄色柔软毛毯，无图案；平铺后盖至皮皮肩下，之后褶皱和覆盖高度固定。",
+      "first_shot": "shot_24",
+      "recurring_shots": "shot_24-shot_28",
+      "holder_or_position": "先铺床；再盖住皮皮至肩下",
+      "reference_image": "references/bedroom_assets_ep033_v001.png"
+    },
+    {
+      "asset_id": "carrot_plush",
+      "appearance": "同一只柔软橙色胡萝卜玩偶，细长圆锥身形、顶端三片小绿叶布片、无表情五官；皮皮抱住它入睡。",
+      "first_shot": "shot_26",
+      "recurring_shots": "shot_26-shot_28",
+      "holder_or_position": "在皮皮怀里，不在床上漂移",
+      "reference_image": "references/bedroom_assets_ep033_v001.png"
+    },
+    {
+      "asset_id": "pipi_sleepwear",
+      "appearance": "皮皮室内睡衣：浅奶油黄长袖棉布上下套装、细小领口、无图案无帽；进入卧室后连续穿着，身份保持暖灰圆脸、粉鼻、长垂耳。",
+      "first_shot": "shot_24",
+      "recurring_shots": "shot_24-shot_28",
+      "holder_or_position": "穿在皮皮身上",
+      "reference_image": "references/pipi_sleepwear_v001.png"
+    },
+    {
+      "asset_id": "rongrong_v001",
+      "appearance": "绒绒身份图锚点：浅棕绒毛、圆耳、米色口鼻、深橄榄绿马甲；保持体型和五官。",
+      "first_shot": "shot_03",
+      "recurring_shots": "shot_03-shot_07",
+      "holder_or_position": "院中协助扶筐；shot_07带篮离场后不再出现",
+      "reference_image": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/rongrong_identity_v001.png"
+    },
+    {
+      "asset_id": "tuantuan_v001",
+      "appearance": "团团身份图锚点：暖棕圆脸、蓬松弯曲大尾巴、奶油色胸前、短耳、橘棕围巾。",
+      "first_shot": "shot_03",
+      "recurring_shots": "shot_03-shot_07",
+      "holder_or_position": "院中在中层枝采果；shot_07带篮离场后不再出现",
+      "reference_image": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/tuantuan_identity_v001.png"
+    }
+  ],
+  "shot_states": [
+    {
+      "shot_id": "shot_00",
+      "location": "院门前老苹果树",
+      "time_of_day": "day",
+      "characters_present": [
+        "pipi"
+      ],
+      "character_positions": "开场：晴朗秋日院门前，皮皮停在老苹果树下，抬头看枝上的红苹果，神情好奇期待。",
+      "continuity_refs": [
+        "old_apple_tree",
+        "high_red_apple",
+        "orchard_yard"
+      ],
+      "state_before": "皮皮在自家院前，苹果仍挂在树梢。",
+      "action": "开场：晴朗秋日院门前，皮皮停在老苹果树下，抬头看枝上的红苹果，神情好奇期待。",
+      "state_after": "树与角色建立；皮皮看向高处。",
+      "transition_from": null
+    },
+    {
+      "shot_id": "shot_01",
+      "location": "同一院前树下",
+      "time_of_day": "day",
+      "characters_present": [
+        "pipi"
+      ],
+      "character_positions": "近景表现树梢红苹果与抬头的皮皮，提出今天没摘完的事能否留到明天；不出现字卡。",
+      "continuity_refs": [
+        "old_apple_tree",
+        "high_red_apple"
+      ],
+      "state_before": "苹果尚未摘下，皮皮仍在树下。",
+      "action": "近景表现树梢红苹果与抬头的皮皮，提出今天没摘完的事能否留到明天；不出现字卡。",
+      "state_after": "疑问引向故事；还未开始采摘。",
+      "transition_from": "shot_00"
+    },
+    {
+      "shot_id": "shot_02",
+      "location": "小木屋前院",
+      "time_of_day": "day",
+      "characters_present": [
+        "pipi"
+      ],
+      "character_positions": "周末晴天，建立同一棵枝干粗壮的老苹果树，满树红苹果；皮皮抬头欣赏，神情期待。",
+      "continuity_refs": [
+        "old_apple_tree",
+        "orchard_fruit",
+        "orchard_yard",
+        "cabin_exterior"
+      ],
+      "state_before": "采摘未开始，树上果实很多。",
+      "action": "周末晴天，建立同一棵枝干粗壮的老苹果树，满树红苹果；皮皮抬头欣赏，神情期待。",
+      "state_after": "树和院落固定，果树成为采摘场景。",
+      "transition_from": "shot_01"
+    },
+    {
+      "shot_id": "shot_03",
+      "location": "同一院子树下",
+      "time_of_day": "day",
+      "characters_present": [
+        "pipi",
+        "rongrong",
+        "tuantuan"
+      ],
+      "character_positions": "皮皮迎接绒绒和团团到老树下；三人准备采摘，皮皮欢喜招呼，绒绒稳重、团团灵巧。",
+      "continuity_refs": [
+        "old_apple_tree",
+        "orchard_yard",
+        "rongrong_v001",
+        "tuantuan_v001"
+      ],
+      "state_before": "树上苹果多，朋友刚到院中。",
+      "action": "皮皮迎接绒绒和团团到老树下；三人准备采摘，皮皮欢喜招呼，绒绒稳重、团团灵巧。",
+      "state_after": "三位朋友开始分工，均留在院子。",
+      "transition_from": "shot_02"
+    },
+    {
+      "shot_id": "shot_04",
+      "location": "同一树下",
+      "time_of_day": "day",
+      "characters_present": [
+        "pipi",
+        "rongrong",
+        "tuantuan"
+      ],
+      "character_positions": "绒绒在树下稳稳扶竹筐；团团只在安全的中层粗枝摘果；皮皮准备长竹竿。三人专注友善。",
+      "continuity_refs": [
+        "old_apple_tree",
+        "orchard_fruit",
+        "bamboo_basket",
+        "rongrong_v001",
+        "tuantuan_v001"
+      ],
+      "state_before": "竹筐为空，树上果实仍多；朋友刚到。",
+      "action": "绒绒在树下稳稳扶竹筐；团团只在安全的中层粗枝摘果；皮皮准备长竹竿。三人专注友善。",
+      "state_after": "绒绒扶筐、团团摘中层果、皮皮准备接低处果子。",
+      "transition_from": "shot_03"
+    },
+    {
+      "shot_id": "shot_05",
+      "location": "同一树下",
+      "time_of_day": "day",
+      "characters_present": [
+        "pipi",
+        "rongrong",
+        "tuantuan"
+      ],
+      "character_positions": "皮皮用带小网兜的长竹竿接低处苹果放进篮；绒绒扶筐，团团继续摘中层果。皮皮专注开心。",
+      "continuity_refs": [
+        "old_apple_tree",
+        "orchard_fruit",
+        "bamboo_pole_net",
+        "bamboo_basket",
+        "rongrong_v001",
+        "tuantuan_v001"
+      ],
+      "state_before": "篮中已有苹果，最高枝的苹果仍在。",
+      "action": "皮皮用带小网兜的长竹竿接低处苹果放进篮；绒绒扶筐，团团继续摘中层果。皮皮专注开心。",
+      "state_after": "采摘继续，更多低处苹果进入篮筐。",
+      "transition_from": "shot_04"
+    },
+    {
+      "shot_id": "shot_06",
+      "location": "同一院子",
+      "time_of_day": "afternoon",
+      "characters_present": [
+        "pipi",
+        "rongrong",
+        "tuantuan"
+      ],
+      "character_positions": "地上摆着几只装满苹果的竹篮，皮皮把篮子递给团团和绒绒带回家分享；三人劳动后满足愉快，树上果子已减少。",
+      "continuity_refs": [
+        "old_apple_tree",
+        "harvest_baskets",
+        "orchard_fruit",
+        "rongrong_v001",
+        "tuantuan_v001"
+      ],
+      "state_before": "下午采摘后有多篮苹果，三位朋友在场。",
+      "action": "地上摆着几只装满苹果的竹篮，皮皮把篮子递给团团和绒绒带回家分享；三人劳动后满足愉快，树上果子已减少。",
+      "state_after": "团团和绒绒带分享篮准备回家。",
+      "transition_from": "shot_05"
+    },
+    {
+      "shot_id": "shot_07",
+      "location": "同一院子",
+      "time_of_day": "dusk",
+      "characters_present": [
+        "pipi",
+        "rongrong",
+        "tuantuan"
+      ],
+      "character_positions": "团团和绒绒背影沿院门小路离开；皮皮独自收拾最后一只装满苹果的小竹篮，疲倦但满足。",
+      "continuity_refs": [
+        "orchard_yard",
+        "bamboo_basket",
+        "harvest_baskets",
+        "rongrong_v001",
+        "tuantuan_v001"
+      ],
+      "state_before": "朋友带分享篮离开，皮皮在院中收最后小篮。",
+      "action": "团团和绒绒背影沿院门小路离开；皮皮独自收拾最后一只装满苹果的小竹篮，疲倦但满足。",
+      "state_after": "两位朋友离场且不再入镜；皮皮独自留下。",
+      "transition_from": "shot_06"
+    },
+    {
+      "shot_id": "shot_08",
+      "location": "院中老树旁",
+      "time_of_day": "dusk",
+      "characters_present": [
+        "pipi"
+      ],
+      "character_positions": "皮皮整理好最后的小篮、拍拍手，身体转向木屋；准备回去时停下。",
+      "continuity_refs": [
+        "old_apple_tree",
+        "bamboo_basket",
+        "orchard_yard"
+      ],
+      "state_before": "皮皮独自收尾，小篮已收好。",
+      "action": "皮皮整理好最后的小篮、拍拍手，身体转向木屋；准备回去时停下。",
+      "state_after": "尚未进屋，停下并开始抬头。",
+      "transition_from": "shot_07"
+    },
+    {
+      "shot_id": "shot_09",
+      "location": "同一院子树冠仰视",
+      "time_of_day": "dusk",
+      "characters_present": [
+        "pipi"
+      ],
+      "character_positions": "皮皮略微惊讶地抬头看向最高最细的树梢，那里仍挂着唯一一只小红苹果，果子牢牢连枝。",
+      "continuity_refs": [
+        "old_apple_tree",
+        "high_red_apple"
+      ],
+      "state_before": "皮皮刚要回屋，树上尚有一颗果子。",
+      "action": "皮皮略微惊讶地抬头看向最高最细的树梢，那里仍挂着唯一一只小红苹果，果子牢牢连枝。",
+      "state_after": "他发现高处苹果，未触碰。",
+      "transition_from": "shot_08"
+    },
+    {
+      "shot_id": "shot_10",
+      "location": "老苹果树上方",
+      "time_of_day": "dusk",
+      "characters_present": [
+        "pipi"
+      ],
+      "character_positions": "高处小红苹果靠着橘红晚霞，像树顶小红灯笼；不把苹果画成有脸角色。",
+      "continuity_refs": [
+        "old_apple_tree",
+        "high_red_apple",
+        "sunset_sky"
+      ],
+      "state_before": "果子在最高细枝，皮皮在树下。",
+      "action": "高处小红苹果靠着橘红晚霞，像树顶小红灯笼；不把苹果画成有脸角色。",
+      "state_after": "晚霞与苹果颜色呼应，果子仍在枝上。",
+      "transition_from": "shot_09"
+    },
+    {
+      "shot_id": "shot_11",
+      "location": "同一树下",
+      "time_of_day": "dusk",
+      "characters_present": [
+        "pipi"
+      ],
+      "character_positions": "皮皮站树下举起长竹竿估量距离，网兜够不到最高细枝；他眉头微蹙，保持安全距离。",
+      "continuity_refs": [
+        "old_apple_tree",
+        "high_red_apple",
+        "bamboo_pole_net"
+      ],
+      "state_before": "苹果在最高细枝，竹竿在皮皮手中。",
+      "action": "皮皮站树下举起长竹竿估量距离，网兜够不到最高细枝；他眉头微蹙，保持安全距离。",
+      "state_after": "确认竹竿够不到，没有碰树梢苹果。",
+      "transition_from": "shot_10"
+    },
+    {
+      "shot_id": "shot_12",
+      "location": "院子边",
+      "time_of_day": "dusk",
+      "characters_present": [
+        "pipi"
+      ],
+      "character_positions": "皮皮看看渐暗天空和高树梢；地面没有架起梯子，他不搬梯、不攀树，神情谨慎平和。",
+      "continuity_refs": [
+        "old_apple_tree",
+        "high_red_apple",
+        "sunset_sky"
+      ],
+      "state_before": "竹竿够不到，黄昏转暗。",
+      "action": "皮皮看看渐暗天空和高树梢；地面没有架起梯子，他不搬梯、不攀树，神情谨慎平和。",
+      "state_after": "选择安全，不搬梯、不爬树；苹果留在枝头。",
+      "transition_from": "shot_11"
+    },
+    {
+      "shot_id": "shot_13",
+      "location": "同一老树下",
+      "time_of_day": "dusk",
+      "characters_present": [
+        "pipi"
+      ],
+      "character_positions": "皮皮俯身轻摸同一只装满苹果的小竹篮，神情由犹豫转踏实；高枝红苹果仍可见。",
+      "continuity_refs": [
+        "old_apple_tree",
+        "high_red_apple",
+        "bamboo_basket"
+      ],
+      "state_before": "树上仍有苹果，篮中已装满。",
+      "action": "皮皮俯身轻摸同一只装满苹果的小竹篮，神情由犹豫转踏实；高枝红苹果仍可见。",
+      "state_after": "皮皮触摸已收获果子，开始思考今天是否足够。",
+      "transition_from": "shot_12"
+    },
+    {
+      "shot_id": "shot_14",
+      "location": "同一老树下",
+      "time_of_day": "dusk",
+      "characters_present": [
+        "pipi"
+      ],
+      "character_positions": "皮皮看着满篮苹果，眉眼放松、肩膀自然；身后树上仍有果子，不加文字气泡。",
+      "continuity_refs": [
+        "old_apple_tree",
+        "high_red_apple",
+        "bamboo_basket"
+      ],
+      "state_before": "皮皮刚摸过篮中苹果。",
+      "action": "皮皮看着满篮苹果，眉眼放松、肩膀自然；身后树上仍有果子，不加文字气泡。",
+      "state_after": "认识到收获足够，不必摘光树上的果子。",
+      "transition_from": "shot_13"
+    },
+    {
+      "shot_id": "shot_15",
+      "location": "院中",
+      "time_of_day": "dusk",
+      "characters_present": [
+        "pipi"
+      ],
+      "character_positions": "皮皮把手收回，转身朝竹篮和门廊走；地面没有梯凳，也不攀爬。动作轻松坚定。",
+      "continuity_refs": [
+        "old_apple_tree",
+        "high_red_apple",
+        "bamboo_basket"
+      ],
+      "state_before": "皮皮已决定留下高处苹果，梯凳未搬。",
+      "action": "皮皮把手收回，转身朝竹篮和门廊走；地面没有梯凳，也不攀爬。动作轻松坚定。",
+      "state_after": "不再尝试高处采摘，转去收篮。",
+      "transition_from": "shot_14"
+    },
+    {
+      "shot_id": "shot_16",
+      "location": "院子到木屋门廊",
+      "time_of_day": "dusk",
+      "characters_present": [
+        "pipi"
+      ],
+      "character_positions": "皮皮双手拎起同一只满苹果小篮，沿院中短路走到门廊，轻轻放在门边木地板。",
+      "continuity_refs": [
+        "bamboo_basket",
+        "orchard_yard",
+        "porch",
+        "cabin_door"
+      ],
+      "state_before": "篮子在树下，门廊在院子另一侧。",
+      "action": "皮皮双手拎起同一只满苹果小篮，沿院中短路走到门廊，轻轻放在门边木地板。",
+      "state_after": "篮子留在门廊，皮皮转向树根拾叶。",
+      "transition_from": "shot_15"
+    },
+    {
+      "shot_id": "shot_17",
+      "location": "老苹果树根边",
+      "time_of_day": "dusk",
+      "characters_present": [
+        "pipi"
+      ],
+      "character_positions": "皮皮沿老树根弯身轻拾一片被晚风卷来的金黄叶，轻捏叶柄；门廊上的苹果篮不动。",
+      "continuity_refs": [
+        "old_apple_tree",
+        "golden_leaf",
+        "bamboo_basket",
+        "porch"
+      ],
+      "state_before": "苹果篮已在门廊，树根旁有一片风吹来的叶子。",
+      "action": "皮皮沿老树根弯身轻拾一片被晚风卷来的金黄叶，轻捏叶柄；门廊上的苹果篮不动。",
+      "state_after": "皮皮拿起同一片叶，准备放入篮中。",
+      "transition_from": "shot_16"
+    },
+    {
+      "shot_id": "shot_18",
+      "location": "同一门廊",
+      "time_of_day": "dusk",
+      "characters_present": [
+        "pipi"
+      ],
+      "character_positions": "皮皮把刚拾起的金黄叶轻放在满苹果篮最上方，叶片清晰可辨；皮皮温柔满足。",
+      "continuity_refs": [
+        "golden_leaf",
+        "bamboo_basket",
+        "porch"
+      ],
+      "state_before": "叶片在皮皮手里，篮在门廊。",
+      "action": "皮皮把刚拾起的金黄叶轻放在满苹果篮最上方，叶片清晰可辨；皮皮温柔满足。",
+      "state_after": "叶片留在篮顶，采摘劳动收尾。",
+      "transition_from": "shot_17"
+    },
+    {
+      "shot_id": "shot_19",
+      "location": "同一果树",
+      "time_of_day": "night",
+      "characters_present": [
+        "pipi"
+      ],
+      "character_positions": "夜空有星，最高枝上同一只小红苹果仍挂着；一只小鸟从远处飞过、不触碰苹果。苹果不拟人化。",
+      "continuity_refs": [
+        "old_apple_tree",
+        "high_red_apple",
+        "starry_night",
+        "bird"
+      ],
+      "state_before": "采摘已结束，苹果未摘，金黄叶在篮顶。",
+      "action": "夜空有星，最高枝上同一只小红苹果仍挂着；一只小鸟从远处飞过、不触碰苹果。苹果不拟人化。",
+      "state_after": "苹果多留一晚，星星和飞鸟陪伴它。",
+      "transition_from": "shot_18"
+    },
+    {
+      "shot_id": "shot_20",
+      "location": "同一院子星空下",
+      "time_of_day": "night",
+      "characters_present": [
+        "pipi"
+      ],
+      "character_positions": "晚风掠过，只有最高细枝轻轻晃，同一红苹果微微摇一下仍连在枝头；小屋安静在后方。",
+      "continuity_refs": [
+        "old_apple_tree",
+        "high_red_apple",
+        "starry_night",
+        "cabin_exterior"
+      ],
+      "state_before": "苹果在枝头过夜，枝叶静止。",
+      "action": "晚风掠过，只有最高细枝轻轻晃，同一红苹果微微摇一下仍连在枝头；小屋安静在后方。",
+      "state_after": "枝梢和苹果轻晃后稳定，果子不掉落。",
+      "transition_from": "shot_19"
+    },
+    {
+      "shot_id": "shot_21",
+      "location": "树梢望向小木屋",
+      "time_of_day": "night",
+      "characters_present": [
+        "pipi"
+      ],
+      "character_positions": "红苹果随枝轻轻倾一下，像向木屋道谢；不画嘴眼和气泡字，不离开夜晚院子现实场景。",
+      "continuity_refs": [
+        "old_apple_tree",
+        "high_red_apple",
+        "cabin_exterior"
+      ],
+      "state_before": "苹果仍挂在枝头，随晚风微晃。",
+      "action": "红苹果随枝轻轻倾一下，像向木屋道谢；不画嘴眼和气泡字，不离开夜晚院子现实场景。",
+      "state_after": "苹果安稳下来，仍在同一枝上。",
+      "transition_from": "shot_20"
+    },
+    {
+      "shot_id": "shot_22",
+      "location": "小木屋门口",
+      "time_of_day": "night",
+      "characters_present": [
+        "pipi"
+      ],
+      "character_positions": "皮皮站在门槛内侧，身体朝屋内、脸和眼睛回望院中老树，神情眷恋安心。",
+      "continuity_refs": [
+        "cabin_door",
+        "old_apple_tree",
+        "high_red_apple"
+      ],
+      "state_before": "皮皮从院子走到门口，门仍开着。",
+      "action": "皮皮站在门槛内侧，身体朝屋内、脸和眼睛回望院中老树，神情眷恋安心。",
+      "state_after": "皮皮向老树道晚安，仍在门边。",
+      "transition_from": "shot_21"
+    },
+    {
+      "shot_id": "shot_23",
+      "location": "同一木屋门口",
+      "time_of_day": "night",
+      "characters_present": [
+        "pipi"
+      ],
+      "character_positions": "皮皮轻轻合上熟悉的小木门，手搭门沿；门位置不变，不上锁。",
+      "continuity_refs": [
+        "cabin_door",
+        "old_apple_tree"
+      ],
+      "state_before": "皮皮刚与老树道晚安，门开着。",
+      "action": "皮皮轻轻合上熟悉的小木门，手搭门沿；门位置不变，不上锁。",
+      "state_after": "门合拢，皮皮进入屋内，转到卧室。",
+      "transition_from": "shot_22"
+    },
+    {
+      "shot_id": "shot_24",
+      "location": "卧室矮床边",
+      "time_of_day": "night",
+      "characters_present": [
+        "pipi"
+      ],
+      "character_positions": "皮皮已换浅奶油色长袖睡衣，坐在矮床边；浅奶油色小枕头在床头，暖黄毛毯铺好。神情放松。",
+      "continuity_refs": [
+        "bedroom",
+        "bedroom_pillow",
+        "bedroom_blanket",
+        "pipi_sleepwear"
+      ],
+      "state_before": "关门后转入卧室；寝具就位，皮皮换上睡衣。",
+      "action": "皮皮已换浅奶油色长袖睡衣，坐在矮床边；浅奶油色小枕头在床头，暖黄毛毯铺好。神情放松。",
+      "state_after": "皮皮在床边准备休息，枕头和毛毯位置固定。",
+      "transition_from": "shot_23"
+    },
+    {
+      "shot_id": "shot_25",
+      "location": "同一卧室矮床",
+      "time_of_day": "night",
+      "characters_present": [
+        "pipi"
+      ],
+      "character_positions": "皮皮不踮脚、不爬高，轻松钻进被窝，头靠同一小枕头，暖黄毛毯盖到肩下；长耳自然舒展。",
+      "continuity_refs": [
+        "bedroom",
+        "bedroom_pillow",
+        "bedroom_blanket",
+        "pipi_sleepwear"
+      ],
+      "state_before": "皮皮坐在床边，寝具位置不变。",
+      "action": "皮皮不踮脚、不爬高，轻松钻进被窝，头靠同一小枕头，暖黄毛毯盖到肩下；长耳自然舒展。",
+      "state_after": "皮皮躺好，头枕小枕头，毛毯盖到肩下。",
+      "transition_from": "shot_24"
+    },
+    {
+      "shot_id": "shot_26",
+      "location": "同一卧室床上",
+      "time_of_day": "night",
+      "characters_present": [
+        "pipi"
+      ],
+      "character_positions": "皮皮抱住同一只橙色胡萝卜玩偶，慢慢闭眼；暖黄毯盖到肩下。安睡画面承接“今晚不必做完每件小事”。",
+      "continuity_refs": [
+        "bedroom",
+        "bedroom_pillow",
+        "bedroom_blanket",
+        "carrot_plush",
+        "pipi_sleepwear"
+      ],
+      "state_before": "皮皮已躺好，毛毯盖到肩下，眼睛将闭。",
+      "action": "皮皮抱住同一只橙色胡萝卜玩偶，慢慢闭眼；暖黄毯盖到肩下。安睡画面承接“今晚不必做完每件小事”。",
+      "state_after": "皮皮抱住玩偶并安睡，心意落在安心休息。",
+      "transition_from": "shot_25"
+    },
+    {
+      "shot_id": "shot_27",
+      "location": "同一卧室",
+      "time_of_day": "night",
+      "characters_present": [
+        "pipi"
+      ],
+      "character_positions": "皮皮抱着胡萝卜玩偶安睡，窗外仍是深蓝夜空，只用极淡天边色暗示明日；不切到清晨，不让皮皮醒来。",
+      "continuity_refs": [
+        "bedroom",
+        "bedroom_pillow",
+        "bedroom_blanket",
+        "carrot_plush",
+        "pipi_sleepwear"
+      ],
+      "state_before": "皮皮在卧室熟睡，物件状态固定。",
+      "action": "皮皮抱着胡萝卜玩偶安睡，窗外仍是深蓝夜空，只用极淡天边色暗示明日；不切到清晨，不让皮皮醒来。",
+      "state_after": "以明天的新鲜事和阳光留下温柔期待；仍是夜晚。",
+      "transition_from": "shot_26"
+    },
+    {
+      "shot_id": "shot_28",
+      "location": "同一卧室收束镜头",
+      "time_of_day": "night",
+      "characters_present": [
+        "pipi"
+      ],
+      "character_positions": "保持皮皮抱着胡萝卜玩偶睡在矮床上，暖黄毛毯、枕头、睡衣和姿势与前镜一致；安静留白并渐暗。",
+      "continuity_refs": [
+        "bedroom",
+        "bedroom_pillow",
+        "bedroom_blanket",
+        "carrot_plush",
+        "pipi_sleepwear"
+      ],
+      "state_before": "皮皮仍熟睡，环境与物件状态不变。",
+      "action": "保持皮皮抱着胡萝卜玩偶睡在矮床上，暖黄毛毯、枕头、睡衣和姿势与前镜一致；安静留白并渐暗。",
+      "state_after": "故事以晚安结束，画面留出片尾安静尾声。",
+      "transition_from": "shot_27"
+    }
+  ]
+}

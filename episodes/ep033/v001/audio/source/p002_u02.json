@@ -1,0 +1,131 @@
+{
+  "text": "\n到了傍晚，好朋友们都回家了，皮皮独自在院子里收拾最后一只小竹篮。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "b7beb2193afa314f2f65d3ca18e8d2ac12040bf15ddc3bd7cf17dd0e213155b5",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2692500,
+      "text": "到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3961660,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5307500,
+      "duration": 7500000,
+      "text": "傍晚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17038330,
+      "duration": 2307500,
+      "text": "好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19346250,
+      "duration": 4422910,
+      "text": "朋友"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23769160,
+      "duration": 2500000,
+      "text": "们"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26653750,
+      "duration": 1922910,
+      "text": "都"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28769160,
+      "duration": 7115410,
+      "text": "回家"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35884580,
+      "duration": 2884580,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44538330,
+      "duration": 5192500,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50115410,
+      "duration": 4615410,
+      "text": "独自"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54730830,
+      "duration": 2500000,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57422910,
+      "duration": 5961660,
+      "text": "院子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63384580,
+      "duration": 4230830,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 69153750,
+      "duration": 5577080,
+      "text": "收拾"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75115410,
+      "duration": 5769160,
+      "text": "最后"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 81077080,
+      "duration": 1922910,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 83000000,
+      "duration": 1730830,
+      "text": "只"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 85115410,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 88384580,
+      "duration": 7307500,
+      "text": "竹篮"
+    }
+  ]
+}

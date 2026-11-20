@@ -1,0 +1,1568 @@
+{
+  "episode": "ep033",
+  "title": "树梢上的一只苹果",
+  "script_version": "v5",
+  "status": "all_images_generated_visual_reviewed",
+  "timing_basis": "pending_actual_tts",
+  "estimated_shot_count": 29,
+  "shots": [
+    {
+      "id": 0,
+      "paragraph_id": "p000",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u01",
+          "start_char": 0,
+          "end_char": 14
+        },
+        {
+          "unit_id": "p000_u02",
+          "start_char": 0,
+          "end_char": 17
+        }
+      ],
+      "text": "小朋友们，准备好听故事了吗？今天的故事叫《树梢上的一只苹果》。",
+      "title": "皮皮仰望苹果树",
+      "location": "院门前老苹果树",
+      "time_of_day": "day",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "开场：晴朗秋日院门前，皮皮停在老苹果树下，抬头看枝上的红苹果，神情好奇期待。 竖屏9:16水彩绘本、细纸纹；主角和关键动作留在字幕安全区上方，画内不带字。",
+      "action": "开场：晴朗秋日院门前，皮皮停在老苹果树下，抬头看枝上的红苹果，神情好奇期待。",
+      "continuity_refs": [
+        "old_apple_tree",
+        "high_red_apple",
+        "orchard_yard"
+      ],
+      "state_before": "皮皮在自家院前，苹果仍挂在树梢。",
+      "state_after": "树与角色建立；皮皮看向高处。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 0.0,
+      "actual_end_s": 9.68,
+      "visible_start_s": 0.0,
+      "visible_end_s": 10.16,
+      "visible_duration_s": 10.16,
+      "transition_from": null,
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_00.png",
+      "speech_start_s": 1.0,
+      "speech_end_s": 9.459416333333333,
+      "image": "images/shot_00.png"
+    },
+    {
+      "id": 1,
+      "paragraph_id": "p000",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u03",
+          "start_char": 0,
+          "end_char": 25
+        }
+      ],
+      "text": "苹果还挂在树梢上，今天没摘完的事情可以留到明天吗？",
+      "title": "树梢苹果的明天问题",
+      "location": "同一院前树下",
+      "time_of_day": "day",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "近景表现树梢红苹果与抬头的皮皮，提出今天没摘完的事能否留到明天；不出现字卡。 竖屏9:16水彩绘本、细纸纹；主角和关键动作留在字幕安全区上方，画内不带字。",
+      "action": "近景表现树梢红苹果与抬头的皮皮，提出今天没摘完的事能否留到明天；不出现字卡。",
+      "continuity_refs": [
+        "old_apple_tree",
+        "high_red_apple"
+      ],
+      "state_before": "苹果尚未摘下，皮皮仍在树下。",
+      "state_after": "疑问引向故事；还未开始采摘。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 9.68,
+      "actual_end_s": 17.56,
+      "visible_start_s": 9.2,
+      "visible_end_s": 18.04,
+      "visible_duration_s": 8.84,
+      "transition_from": 0,
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_01.png",
+      "speech_start_s": 9.915583333333334,
+      "speech_end_s": 16.974083333333333,
+      "image": "images/shot_01.png"
+    },
+    {
+      "id": 2,
+      "paragraph_id": "p001",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u01",
+          "start_char": 0,
+          "end_char": 41
+        }
+      ],
+      "text": "秋天是收获的季节，皮皮家小木屋门前的那棵老苹果树，结满了红彤彤、散发着甜香的苹果。",
+      "title": "门前老苹果树丰收",
+      "location": "小木屋前院",
+      "time_of_day": "day",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "周末晴天，建立同一棵枝干粗壮的老苹果树，满树红苹果；皮皮抬头欣赏，神情期待。 竖屏9:16水彩绘本、细纸纹；主角和关键动作留在字幕安全区上方，画内不带字。",
+      "action": "周末晴天，建立同一棵枝干粗壮的老苹果树，满树红苹果；皮皮抬头欣赏，神情期待。",
+      "continuity_refs": [
+        "old_apple_tree",
+        "orchard_fruit",
+        "orchard_yard",
+        "cabin_exterior"
+      ],
+      "state_before": "采摘未开始，树上果实很多。",
+      "state_after": "树和院落固定，果树成为采摘场景。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 17.56,
+      "actual_end_s": 31.08,
+      "visible_start_s": 17.08,
+      "visible_end_s": 31.56,
+      "visible_duration_s": 14.48,
+      "transition_from": 1,
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_02.png",
+      "speech_start_s": 18.106833333333334,
+      "speech_end_s": 30.8553125,
+      "image": "images/shot_02.png"
+    },
+    {
+      "id": 3,
+      "paragraph_id": "p001",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u02",
+          "start_char": 0,
+          "end_char": 33
+        }
+      ],
+      "text": "\n今天是个晴朗的周末，皮皮约了小熊绒绒和小松鼠团团一起帮忙摘苹果。",
+      "title": "朋友来帮忙采苹果",
+      "location": "同一院子树下",
+      "time_of_day": "day",
+      "layer": "real_world",
+      "characters": [
+        "pipi",
+        "rongrong",
+        "tuantuan"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ],
+        "rongrong": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/rongrong_identity_v001.png"
+        ],
+        "tuantuan": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/tuantuan_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮迎接绒绒和团团到老树下；三人准备采摘，皮皮欢喜招呼，绒绒稳重、团团灵巧。 竖屏9:16水彩绘本、细纸纹；主角和关键动作留在字幕安全区上方，画内不带字。",
+      "action": "皮皮迎接绒绒和团团到老树下；三人准备采摘，皮皮欢喜招呼，绒绒稳重、团团灵巧。",
+      "continuity_refs": [
+        "old_apple_tree",
+        "orchard_yard",
+        "rongrong_v001",
+        "tuantuan_v001"
+      ],
+      "state_before": "树上苹果多，朋友刚到院中。",
+      "state_after": "三位朋友开始分工，均留在院子。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 31.08,
+      "actual_end_s": 41.68,
+      "visible_start_s": 30.599999999999998,
+      "visible_end_s": 42.16,
+      "visible_duration_s": 11.56,
+      "transition_from": 2,
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_03.png",
+      "speech_start_s": 31.3064375,
+      "speech_end_s": 41.46354166666667,
+      "image": "images/shot_03.png"
+    },
+    {
+      "id": 4,
+      "paragraph_id": "p001",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u03",
+          "start_char": 0,
+          "end_char": 16
+        },
+        {
+          "unit_id": "p001_u04",
+          "start_char": 0,
+          "end_char": 18
+        }
+      ],
+      "text": "绒绒力气大，负责在树下扶着竹筐；团团会爬树，负责摘中间树枝上的果子；",
+      "title": "分工扶筐与摘枝",
+      "location": "同一树下",
+      "time_of_day": "day",
+      "layer": "real_world",
+      "characters": [
+        "pipi",
+        "rongrong",
+        "tuantuan"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ],
+        "rongrong": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/rongrong_identity_v001.png"
+        ],
+        "tuantuan": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/tuantuan_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "绒绒在树下稳稳扶竹筐；团团只在安全的中层粗枝摘果；皮皮准备长竹竿。三人专注友善。 竖屏9:16水彩绘本、细纸纹；主角和关键动作留在字幕安全区上方，画内不带字。",
+      "action": "绒绒在树下稳稳扶竹筐；团团只在安全的中层粗枝摘果；皮皮准备长竹竿。三人专注友善。",
+      "continuity_refs": [
+        "old_apple_tree",
+        "orchard_fruit",
+        "bamboo_basket",
+        "rongrong_v001",
+        "tuantuan_v001"
+      ],
+      "state_before": "竹筐为空，树上果实仍多；朋友刚到。",
+      "state_after": "绒绒扶筐、团团摘中层果、皮皮准备接低处果子。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 41.68,
+      "actual_end_s": 52.84,
+      "visible_start_s": 41.2,
+      "visible_end_s": 53.32,
+      "visible_duration_s": 12.12,
+      "transition_from": 3,
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_04.png",
+      "speech_start_s": 41.876333333333335,
+      "speech_end_s": 52.596458,
+      "image": "images/shot_04.png"
+    },
+    {
+      "id": 5,
+      "paragraph_id": "p001",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u05",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "text": "皮皮则拿着带小网兜的长竹竿，把低处的苹果一个个接进篮子里。",
+      "title": "皮皮用网兜接苹果",
+      "location": "同一树下",
+      "time_of_day": "day",
+      "layer": "real_world",
+      "characters": [
+        "pipi",
+        "rongrong",
+        "tuantuan"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ],
+        "rongrong": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/rongrong_identity_v001.png"
+        ],
+        "tuantuan": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/tuantuan_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮用带小网兜的长竹竿接低处苹果放进篮；绒绒扶筐，团团继续摘中层果。皮皮专注开心。 竖屏9:16水彩绘本、细纸纹；主角和关键动作留在字幕安全区上方，画内不带字。",
+      "action": "皮皮用带小网兜的长竹竿接低处苹果放进篮；绒绒扶筐，团团继续摘中层果。皮皮专注开心。",
+      "continuity_refs": [
+        "old_apple_tree",
+        "orchard_fruit",
+        "bamboo_pole_net",
+        "bamboo_basket",
+        "rongrong_v001",
+        "tuantuan_v001"
+      ],
+      "state_before": "篮中已有苹果，最高枝的苹果仍在。",
+      "state_after": "采摘继续，更多低处苹果进入篮筐。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 52.84,
+      "actual_end_s": 62.32,
+      "visible_start_s": 52.36000000000001,
+      "visible_end_s": 62.8,
+      "visible_duration_s": 10.44,
+      "transition_from": 4,
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_05.png",
+      "speech_start_s": 53.0688125,
+      "speech_end_s": 61.77112366666667,
+      "image": "images/shot_05.png"
+    },
+    {
+      "id": 6,
+      "paragraph_id": "p002",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u01",
+          "start_char": 0,
+          "end_char": 36
+        }
+      ],
+      "text": "大家忙活了一个下午，分装了好几篮子苹果，让团团和绒绒带回家去和家人分享。",
+      "title": "几篮苹果准备分享",
+      "location": "同一院子",
+      "time_of_day": "afternoon",
+      "layer": "real_world",
+      "characters": [
+        "pipi",
+        "rongrong",
+        "tuantuan"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ],
+        "rongrong": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/rongrong_identity_v001.png"
+        ],
+        "tuantuan": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/tuantuan_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "地上摆着几只装满苹果的竹篮，皮皮把篮子递给团团和绒绒带回家分享；三人劳动后满足愉快，树上果子已减少。 竖屏9:16水彩绘本、细纸纹；主角和关键动作留在字幕安全区上方，画内不带字。",
+      "action": "地上摆着几只装满苹果的竹篮，皮皮把篮子递给团团和绒绒带回家分享；三人劳动后满足愉快，树上果子已减少。",
+      "continuity_refs": [
+        "old_apple_tree",
+        "harvest_baskets",
+        "orchard_fruit",
+        "rongrong_v001",
+        "tuantuan_v001"
+      ],
+      "state_before": "下午采摘后有多篮苹果，三位朋友在场。",
+      "state_after": "团团和绒绒带分享篮准备回家。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 62.32,
+      "actual_end_s": 74.0,
+      "visible_start_s": 61.84,
+      "visible_end_s": 74.48,
+      "visible_duration_s": 12.64,
+      "transition_from": 5,
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_06.png",
+      "speech_start_s": 62.86952083333333,
+      "speech_end_s": 73.7947705,
+      "image": "images/shot_06.png"
+    },
+    {
+      "id": 7,
+      "paragraph_id": "p002",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u02",
+          "start_char": 0,
+          "end_char": 33
+        }
+      ],
+      "text": "\n到了傍晚，好朋友们都回家了，皮皮独自在院子里收拾最后一只小竹篮。",
+      "title": "朋友回家皮皮收最后小篮",
+      "location": "同一院子",
+      "time_of_day": "dusk",
+      "layer": "real_world",
+      "characters": [
+        "pipi",
+        "rongrong",
+        "tuantuan"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ],
+        "rongrong": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/rongrong_identity_v001.png"
+        ],
+        "tuantuan": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/tuantuan_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "团团和绒绒背影沿院门小路离开；皮皮独自收拾最后一只装满苹果的小竹篮，疲倦但满足。 竖屏9:16水彩绘本、细纸纹；主角和关键动作留在字幕安全区上方，画内不带字。",
+      "action": "团团和绒绒背影沿院门小路离开；皮皮独自收拾最后一只装满苹果的小竹篮，疲倦但满足。",
+      "continuity_refs": [
+        "orchard_yard",
+        "bamboo_basket",
+        "harvest_baskets",
+        "rongrong_v001",
+        "tuantuan_v001"
+      ],
+      "state_before": "朋友带分享篮离开，皮皮在院中收最后小篮。",
+      "state_after": "两位朋友离场且不再入镜；皮皮独自留下。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 74.0,
+      "actual_end_s": 83.88,
+      "visible_start_s": 73.52,
+      "visible_end_s": 84.36,
+      "visible_duration_s": 10.84,
+      "transition_from": 6,
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_07.png",
+      "speech_start_s": 74.228625,
+      "speech_end_s": 83.64087466666666,
+      "image": "images/shot_07.png"
+    },
+    {
+      "id": 8,
+      "paragraph_id": "p002",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u03",
+          "start_char": 0,
+          "end_char": 12
+        }
+      ],
+      "text": "就在他拍拍手准备回屋时，",
+      "title": "皮皮拍拍手准备回屋",
+      "location": "院中老树旁",
+      "time_of_day": "dusk",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮整理好最后的小篮、拍拍手，身体转向木屋；准备回去时停下。 竖屏9:16水彩绘本、细纸纹；主角和关键动作留在字幕安全区上方，画内不带字。",
+      "action": "皮皮整理好最后的小篮、拍拍手，身体转向木屋；准备回去时停下。",
+      "continuity_refs": [
+        "old_apple_tree",
+        "bamboo_basket",
+        "orchard_yard"
+      ],
+      "state_before": "皮皮独自收尾，小篮已收好。",
+      "state_after": "尚未进屋，停下并开始抬头。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 83.88,
+      "actual_end_s": 87.36,
+      "visible_start_s": 83.39999999999999,
+      "visible_end_s": 87.84,
+      "visible_duration_s": 4.44,
+      "transition_from": 7,
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_08.png",
+      "speech_start_s": 84.09754166666666,
+      "speech_end_s": 87.20604099999998,
+      "image": "images/shot_08.png"
+    },
+    {
+      "id": 9,
+      "paragraph_id": "p002",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u03",
+          "start_char": 12,
+          "end_char": 46
+        }
+      ],
+      "text": "一抬头，忽然看见在最高、最细的那根树梢尖尖上，还留着最后一只红苹果！",
+      "title": "发现最高枝还剩一只",
+      "location": "同一院子树冠仰视",
+      "time_of_day": "dusk",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮略微惊讶地抬头看向最高最细的树梢，那里仍挂着唯一一只小红苹果，果子牢牢连枝。 竖屏9:16水彩绘本、细纸纹；主角和关键动作留在字幕安全区上方，画内不带字。",
+      "action": "皮皮略微惊讶地抬头看向最高最细的树梢，那里仍挂着唯一一只小红苹果，果子牢牢连枝。",
+      "continuity_refs": [
+        "old_apple_tree",
+        "high_red_apple"
+      ],
+      "state_before": "皮皮刚要回屋，树上尚有一颗果子。",
+      "state_after": "他发现高处苹果，未触碰。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 87.36,
+      "actual_end_s": 98.12,
+      "visible_start_s": 86.88,
+      "visible_end_s": 98.60000000000001,
+      "visible_duration_s": 11.72,
+      "transition_from": 8,
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_09.png",
+      "speech_start_s": 87.51374999999999,
+      "speech_end_s": 97.55991599999999,
+      "image": "images/shot_09.png"
+    },
+    {
+      "id": 10,
+      "paragraph_id": "p003",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u01",
+          "start_char": 0,
+          "end_char": 30
+        }
+      ],
+      "text": "那只小苹果正贴着天边橘红色的晚霞，像一盏挂在树顶的小红灯笼。",
+      "title": "晚霞衬着小红苹果",
+      "location": "老苹果树上方",
+      "time_of_day": "dusk",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "高处小红苹果靠着橘红晚霞，像树顶小红灯笼；不把苹果画成有脸角色。 竖屏9:16水彩绘本、细纸纹；主角和关键动作留在字幕安全区上方，画内不带字。",
+      "action": "高处小红苹果靠着橘红晚霞，像树顶小红灯笼；不把苹果画成有脸角色。",
+      "continuity_refs": [
+        "old_apple_tree",
+        "high_red_apple",
+        "sunset_sky"
+      ],
+      "state_before": "果子在最高细枝，皮皮在树下。",
+      "state_after": "晚霞与苹果颜色呼应，果子仍在枝上。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 98.12,
+      "actual_end_s": 107.96,
+      "visible_start_s": 97.64,
+      "visible_end_s": 108.44,
+      "visible_duration_s": 10.8,
+      "transition_from": 9,
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_10.png",
+      "speech_start_s": 98.66108333333332,
+      "speech_end_s": 107.71504133333332,
+      "image": "images/shot_10.png"
+    },
+    {
+      "id": 11,
+      "paragraph_id": "p003",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u02",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "text": "\n皮皮站在树下仰头看了看，那根树枝太高太细了，竹竿够不着；",
+      "title": "竹竿也够不到树梢",
+      "location": "同一树下",
+      "time_of_day": "dusk",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮站树下举起长竹竿估量距离，网兜够不到最高细枝；他眉头微蹙，保持安全距离。 竖屏9:16水彩绘本、细纸纹；主角和关键动作留在字幕安全区上方，画内不带字。",
+      "action": "皮皮站树下举起长竹竿估量距离，网兜够不到最高细枝；他眉头微蹙，保持安全距离。",
+      "continuity_refs": [
+        "old_apple_tree",
+        "high_red_apple",
+        "bamboo_pole_net"
+      ],
+      "state_before": "苹果在最高细枝，竹竿在皮皮手中。",
+      "state_after": "确认竹竿够不到，没有碰树梢苹果。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 107.96,
+      "actual_end_s": 116.72,
+      "visible_start_s": 107.47999999999999,
+      "visible_end_s": 117.2,
+      "visible_duration_s": 9.72,
+      "transition_from": 10,
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_11.png",
+      "speech_start_s": 108.17608333333332,
+      "speech_end_s": 116.46175,
+      "image": "images/shot_11.png"
+    },
+    {
+      "id": 12,
+      "paragraph_id": "p003",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u03",
+          "start_char": 0,
+          "end_char": 30
+        }
+      ],
+      "text": "如果现在再去搬高梯子往上爬，天已经快黑了，既费力气又不安全。",
+      "title": "天色渐暗不搬高梯",
+      "location": "院子边",
+      "time_of_day": "dusk",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮看看渐暗天空和高树梢；地面没有架起梯子，他不搬梯、不攀树，神情谨慎平和。 竖屏9:16水彩绘本、细纸纹；主角和关键动作留在字幕安全区上方，画内不带字。",
+      "action": "皮皮看看渐暗天空和高树梢；地面没有架起梯子，他不搬梯、不攀树，神情谨慎平和。",
+      "continuity_refs": [
+        "old_apple_tree",
+        "high_red_apple",
+        "sunset_sky"
+      ],
+      "state_before": "竹竿够不到，黄昏转暗。",
+      "state_after": "选择安全，不搬梯、不爬树；苹果留在枝头。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 116.72,
+      "actual_end_s": 126.72,
+      "visible_start_s": 116.24,
+      "visible_end_s": 127.2,
+      "visible_duration_s": 10.96,
+      "transition_from": 11,
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_12.png",
+      "speech_start_s": 116.94358333333332,
+      "speech_end_s": 126.16756183333332,
+      "image": "images/shot_12.png"
+    },
+    {
+      "id": 13,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u01",
+          "start_char": 0,
+          "end_char": 20
+        }
+      ],
+      "text": "皮皮摸了摸竹篮里已经装得满满当当的苹果，",
+      "title": "摸摸装满苹果的竹篮",
+      "location": "同一老树下",
+      "time_of_day": "dusk",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮俯身轻摸同一只装满苹果的小竹篮，神情由犹豫转踏实；高枝红苹果仍可见。 竖屏9:16水彩绘本、细纸纹；主角和关键动作留在字幕安全区上方，画内不带字。",
+      "action": "皮皮俯身轻摸同一只装满苹果的小竹篮，神情由犹豫转踏实；高枝红苹果仍可见。",
+      "continuity_refs": [
+        "old_apple_tree",
+        "high_red_apple",
+        "bamboo_basket"
+      ],
+      "state_before": "树上仍有苹果，篮中已装满。",
+      "state_after": "皮皮触摸已收获果子，开始思考今天是否足够。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 126.72,
+      "actual_end_s": 132.88,
+      "visible_start_s": 126.24,
+      "visible_end_s": 133.35999999999999,
+      "visible_duration_s": 7.12,
+      "transition_from": 12,
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_13.png",
+      "speech_start_s": 127.30460416666665,
+      "speech_end_s": 132.6796868333333,
+      "image": "images/shot_13.png"
+    },
+    {
+      "id": 14,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u01",
+          "start_char": 20,
+          "end_char": 60
+        }
+      ],
+      "text": "心想：今天摘的苹果已经足够吃好久好久了，为什么一定要把树上的每一只果子都摘光呢？",
+      "title": "今天的收获已经足够",
+      "location": "同一老树下",
+      "time_of_day": "dusk",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮看着满篮苹果，眉眼放松、肩膀自然；身后树上仍有果子，不加文字气泡。 竖屏9:16水彩绘本、细纸纹；主角和关键动作留在字幕安全区上方，画内不带字。",
+      "action": "皮皮看着满篮苹果，眉眼放松、肩膀自然；身后树上仍有果子，不加文字气泡。",
+      "continuity_refs": [
+        "old_apple_tree",
+        "high_red_apple",
+        "bamboo_basket"
+      ],
+      "state_before": "皮皮刚摸过篮中苹果。",
+      "state_after": "认识到收获足够，不必摘光树上的果子。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 132.88,
+      "actual_end_s": 144.6,
+      "visible_start_s": 132.4,
+      "visible_end_s": 145.07999999999998,
+      "visible_duration_s": 12.68,
+      "transition_from": 13,
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_14.png",
+      "speech_start_s": 133.10272883333332,
+      "speech_end_s": 144.36043683333332,
+      "image": "images/shot_14.png"
+    },
+    {
+      "id": 15,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u02",
+          "start_char": 0,
+          "end_char": 20
+        }
+      ],
+      "text": "\n于是，皮皮没有再去搬凳子或梯子往上够。",
+      "title": "决定不搬凳子或梯子",
+      "location": "院中",
+      "time_of_day": "dusk",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮把手收回，转身朝竹篮和门廊走；地面没有梯凳，也不攀爬。动作轻松坚定。 竖屏9:16水彩绘本、细纸纹；主角和关键动作留在字幕安全区上方，画内不带字。",
+      "action": "皮皮把手收回，转身朝竹篮和门廊走；地面没有梯凳，也不攀爬。动作轻松坚定。",
+      "continuity_refs": [
+        "old_apple_tree",
+        "high_red_apple",
+        "bamboo_basket"
+      ],
+      "state_before": "皮皮已决定留下高处苹果，梯凳未搬。",
+      "state_after": "不再尝试高处采摘，转去收篮。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 144.6,
+      "actual_end_s": 150.8,
+      "visible_start_s": 144.12,
+      "visible_end_s": 151.28,
+      "visible_duration_s": 7.16,
+      "transition_from": 14,
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_15.png",
+      "speech_start_s": 144.80274999999997,
+      "speech_end_s": 150.60858299999998,
+      "image": "images/shot_15.png"
+    },
+    {
+      "id": 16,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u03",
+          "start_char": 0,
+          "end_char": 13
+        }
+      ],
+      "text": "他拎起竹篮走到门廊下放好，",
+      "title": "把苹果篮拎到门廊",
+      "location": "院子到木屋门廊",
+      "time_of_day": "dusk",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮双手拎起同一只满苹果小篮，沿院中短路走到门廊，轻轻放在门边木地板。 竖屏9:16水彩绘本、细纸纹；主角和关键动作留在字幕安全区上方，画内不带字。",
+      "action": "皮皮双手拎起同一只满苹果小篮，沿院中短路走到门廊，轻轻放在门边木地板。",
+      "continuity_refs": [
+        "bamboo_basket",
+        "orchard_yard",
+        "porch",
+        "cabin_door"
+      ],
+      "state_before": "篮子在树下，门廊在院子另一侧。",
+      "state_after": "篮子留在门廊，皮皮转向树根拾叶。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 150.8,
+      "actual_end_s": 155.16,
+      "visible_start_s": 150.32000000000002,
+      "visible_end_s": 155.64,
+      "visible_duration_s": 5.32,
+      "transition_from": 15,
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_16.png",
+      "speech_start_s": 151.02143749999996,
+      "speech_end_s": 154.9105208333333,
+      "image": "images/shot_16.png"
+    },
+    {
+      "id": 17,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u03",
+          "start_char": 13,
+          "end_char": 42
+        }
+      ],
+      "text": "顺便沿着老苹果树的树根，捡起了一片被晚风卷过来的金黄树叶。",
+      "title": "树根边拾起金黄树叶",
+      "location": "老苹果树根边",
+      "time_of_day": "dusk",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮沿老树根弯身轻拾一片被晚风卷来的金黄叶，轻捏叶柄；门廊上的苹果篮不动。 竖屏9:16水彩绘本、细纸纹；主角和关键动作留在字幕安全区上方，画内不带字。",
+      "action": "皮皮沿老树根弯身轻拾一片被晚风卷来的金黄叶，轻捏叶柄；门廊上的苹果篮不动。",
+      "continuity_refs": [
+        "old_apple_tree",
+        "golden_leaf",
+        "bamboo_basket",
+        "porch"
+      ],
+      "state_before": "苹果篮已在门廊，树根旁有一片风吹来的叶子。",
+      "state_after": "皮皮拿起同一片叶，准备放入篮中。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 155.16,
+      "actual_end_s": 164.32,
+      "visible_start_s": 154.68,
+      "visible_end_s": 164.79999999999998,
+      "visible_duration_s": 10.12,
+      "transition_from": 16,
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_17.png",
+      "speech_start_s": 155.44897883333329,
+      "speech_end_s": 163.7836038333333,
+      "image": "images/shot_17.png"
+    },
+    {
+      "id": 18,
+      "paragraph_id": "p005",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u01",
+          "start_char": 0,
+          "end_char": 37
+        }
+      ],
+      "text": "皮皮把那片树叶轻轻放在苹果篮的最上面，今天热闹的采摘劳动，就算圆满收尾啦。",
+      "title": "把金黄叶放在篮顶",
+      "location": "同一门廊",
+      "time_of_day": "dusk",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮把刚拾起的金黄叶轻放在满苹果篮最上方，叶片清晰可辨；皮皮温柔满足。 竖屏9:16水彩绘本、细纸纹；主角和关键动作留在字幕安全区上方，画内不带字。",
+      "action": "皮皮把刚拾起的金黄叶轻放在满苹果篮最上方，叶片清晰可辨；皮皮温柔满足。",
+      "continuity_refs": [
+        "golden_leaf",
+        "bamboo_basket",
+        "porch"
+      ],
+      "state_before": "叶片在皮皮手里，篮在门廊。",
+      "state_after": "叶片留在篮顶，采摘劳动收尾。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 164.32,
+      "actual_end_s": 176.16,
+      "visible_start_s": 163.84,
+      "visible_end_s": 176.64,
+      "visible_duration_s": 12.8,
+      "transition_from": 17,
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_18.png",
+      "speech_start_s": 164.86412499999997,
+      "speech_end_s": 175.91874899999996,
+      "image": "images/shot_18.png"
+    },
+    {
+      "id": 19,
+      "paragraph_id": "p005",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u02",
+          "start_char": 0,
+          "end_char": 43
+        }
+      ],
+      "text": "至于树梢上那最后一只红苹果，就让它在高高的枝头多待一晚，陪陪夜晚的星星和路过的小鸟吧。",
+      "title": "苹果留枝陪伴星星",
+      "location": "同一果树",
+      "time_of_day": "night",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "夜空有星，最高枝上同一只小红苹果仍挂着；一只小鸟从远处飞过、不触碰苹果。苹果不拟人化。 竖屏9:16水彩绘本、细纸纹；主角和关键动作留在字幕安全区上方，画内不带字。",
+      "action": "夜空有星，最高枝上同一只小红苹果仍挂着；一只小鸟从远处飞过、不触碰苹果。苹果不拟人化。",
+      "continuity_refs": [
+        "old_apple_tree",
+        "high_red_apple",
+        "starry_night",
+        "bird"
+      ],
+      "state_before": "采摘已结束，苹果未摘，金黄叶在篮顶。",
+      "state_after": "苹果多留一晚，星星和飞鸟陪伴它。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 176.16,
+      "actual_end_s": 188.92,
+      "visible_start_s": 175.68,
+      "visible_end_s": 189.39999999999998,
+      "visible_duration_s": 13.72,
+      "transition_from": 18,
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_19.png",
+      "speech_start_s": 176.37116666666662,
+      "speech_end_s": 188.69643649999995,
+      "image": "images/shot_19.png"
+    },
+    {
+      "id": 20,
+      "paragraph_id": "p005",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u03",
+          "start_char": 0,
+          "end_char": 26
+        }
+      ],
+      "text": "\n一阵秋日的晚风吹过，树梢上的小苹果慢慢地晃了一下，",
+      "title": "晚风轻轻摇树梢",
+      "location": "同一院子星空下",
+      "time_of_day": "night",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "晚风掠过，只有最高细枝轻轻晃，同一红苹果微微摇一下仍连在枝头；小屋安静在后方。 竖屏9:16水彩绘本、细纸纹；主角和关键动作留在字幕安全区上方，画内不带字。",
+      "action": "晚风掠过，只有最高细枝轻轻晃，同一红苹果微微摇一下仍连在枝头；小屋安静在后方。",
+      "continuity_refs": [
+        "old_apple_tree",
+        "high_red_apple",
+        "starry_night",
+        "cabin_exterior"
+      ],
+      "state_before": "苹果在枝头过夜，枝叶静止。",
+      "state_after": "枝梢和苹果轻晃后稳定，果子不掉落。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 188.92,
+      "actual_end_s": 196.6,
+      "visible_start_s": 188.44,
+      "visible_end_s": 197.07999999999998,
+      "visible_duration_s": 8.64,
+      "transition_from": 19,
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_20.png",
+      "speech_start_s": 189.1310833333333,
+      "speech_end_s": 196.37285316666663,
+      "image": "images/shot_20.png"
+    },
+    {
+      "id": 21,
+      "paragraph_id": "p005",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u03",
+          "start_char": 26,
+          "end_char": 61
+        }
+      ],
+      "text": "就像在对着小木屋点头说：“谢谢你呀皮皮，我也找到今晚休息的好地方啦。”",
+      "title": "苹果像在向小屋道谢",
+      "location": "树梢望向小木屋",
+      "time_of_day": "night",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "红苹果随枝轻轻倾一下，像向木屋道谢；不画嘴眼和气泡字，不离开夜晚院子现实场景。 竖屏9:16水彩绘本、细纸纹；主角和关键动作留在字幕安全区上方，画内不带字。",
+      "action": "红苹果随枝轻轻倾一下，像向木屋道谢；不画嘴眼和气泡字，不离开夜晚院子现实场景。",
+      "continuity_refs": [
+        "old_apple_tree",
+        "high_red_apple",
+        "cabin_exterior"
+      ],
+      "state_before": "苹果仍挂在枝头，随晚风微晃。",
+      "state_after": "苹果安稳下来，仍在同一枝上。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 196.6,
+      "actual_end_s": 206.48,
+      "visible_start_s": 196.12,
+      "visible_end_s": 206.95999999999998,
+      "visible_duration_s": 10.84,
+      "transition_from": 20,
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_21.png",
+      "speech_start_s": 196.85364516666664,
+      "speech_end_s": 205.91902016666663,
+      "image": "images/shot_21.png"
+    },
+    {
+      "id": 22,
+      "paragraph_id": "p006",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u01",
+          "start_char": 0,
+          "end_char": 34
+        }
+      ],
+      "text": "皮皮站在门口回头望了望，对着陪伴自己长大的老果树轻声道了句“晚安”，",
+      "title": "门口回望老果树",
+      "location": "小木屋门口",
+      "time_of_day": "night",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮站在门槛内侧，身体朝屋内、脸和眼睛回望院中老树，神情眷恋安心。 竖屏9:16水彩绘本、细纸纹；主角和关键动作留在字幕安全区上方，画内不带字。",
+      "action": "皮皮站在门槛内侧，身体朝屋内、脸和眼睛回望院中老树，神情眷恋安心。",
+      "continuity_refs": [
+        "cabin_door",
+        "old_apple_tree",
+        "high_red_apple"
+      ],
+      "state_before": "皮皮从院子走到门口，门仍开着。",
+      "state_after": "皮皮向老树道晚安，仍在门边。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 206.48,
+      "actual_end_s": 216.84,
+      "visible_start_s": 206.0,
+      "visible_end_s": 217.32,
+      "visible_duration_s": 11.32,
+      "transition_from": 21,
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_22.png",
+      "speech_start_s": 207.03545833333328,
+      "speech_end_s": 216.66204166666662,
+      "image": "images/shot_22.png"
+    },
+    {
+      "id": 23,
+      "paragraph_id": "p006",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u01",
+          "start_char": 34,
+          "end_char": 49
+        }
+      ],
+      "text": "然后把小木门合到了熟悉的位置。",
+      "title": "轻声告别并合上木门",
+      "location": "同一木屋门口",
+      "time_of_day": "night",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮轻轻合上熟悉的小木门，手搭门沿；门位置不变，不上锁。 竖屏9:16水彩绘本、细纸纹；主角和关键动作留在字幕安全区上方，画内不带字。",
+      "action": "皮皮轻轻合上熟悉的小木门，手搭门沿；门位置不变，不上锁。",
+      "continuity_refs": [
+        "cabin_door",
+        "old_apple_tree"
+      ],
+      "state_before": "皮皮刚与老树道晚安，门开着。",
+      "state_after": "门合拢，皮皮进入屋内，转到卧室。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 216.84,
+      "actual_end_s": 221.32,
+      "visible_start_s": 216.36,
+      "visible_end_s": 221.79999999999998,
+      "visible_duration_s": 5.44,
+      "transition_from": 22,
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_23.png",
+      "speech_start_s": 217.0351246666666,
+      "speech_end_s": 221.0927916666666,
+      "image": "images/shot_23.png"
+    },
+    {
+      "id": 24,
+      "paragraph_id": "p006",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u02",
+          "start_char": 0,
+          "end_char": 21
+        }
+      ],
+      "text": "\n回到卧室里，小枕头不高，暖黄毛毯也不远，",
+      "title": "卧室里的小枕头和暖毯",
+      "location": "卧室矮床边",
+      "time_of_day": "night",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "references/pipi_sleepwear_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "皮皮已换浅奶油色长袖睡衣，坐在矮床边；浅奶油色小枕头在床头，暖黄毛毯铺好。神情放松。 竖屏9:16水彩绘本、细纸纹；主角和关键动作留在字幕安全区上方，画内不带字。",
+      "action": "皮皮已换浅奶油色长袖睡衣，坐在矮床边；浅奶油色小枕头在床头，暖黄毛毯铺好。神情放松。",
+      "continuity_refs": [
+        "bedroom",
+        "bedroom_pillow",
+        "bedroom_blanket",
+        "pipi_sleepwear"
+      ],
+      "state_before": "关门后转入卧室；寝具就位，皮皮换上睡衣。",
+      "state_after": "皮皮在床边准备休息，枕头和毛毯位置固定。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 221.32,
+      "actual_end_s": 227.68,
+      "visible_start_s": 220.84,
+      "visible_end_s": 228.16,
+      "visible_duration_s": 7.32,
+      "transition_from": 23,
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_24.png",
+      "speech_start_s": 221.53899999999996,
+      "speech_end_s": 227.42618649999997,
+      "image": "images/shot_24.png"
+    },
+    {
+      "id": 25,
+      "paragraph_id": "p006",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u02",
+          "start_char": 21,
+          "end_char": 52
+        }
+      ],
+      "text": "不用踮脚也不用爬高，皮皮轻轻松松就钻进了属于自己的舒服被窝里。",
+      "title": "轻松钻进舒服被窝",
+      "location": "同一卧室矮床",
+      "time_of_day": "night",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "references/pipi_sleepwear_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "皮皮不踮脚、不爬高，轻松钻进被窝，头靠同一小枕头，暖黄毛毯盖到肩下；长耳自然舒展。 竖屏9:16水彩绘本、细纸纹；主角和关键动作留在字幕安全区上方，画内不带字。",
+      "action": "皮皮不踮脚、不爬高，轻松钻进被窝，头靠同一小枕头，暖黄毛毯盖到肩下；长耳自然舒展。",
+      "continuity_refs": [
+        "bedroom",
+        "bedroom_pillow",
+        "bedroom_blanket",
+        "pipi_sleepwear"
+      ],
+      "state_before": "皮皮坐在床边，寝具位置不变。",
+      "state_after": "皮皮躺好，头枕小枕头，毛毯盖到肩下。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 227.68,
+      "actual_end_s": 237.64,
+      "visible_start_s": 227.20000000000002,
+      "visible_end_s": 238.11999999999998,
+      "visible_duration_s": 10.92,
+      "transition_from": 24,
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_25.png",
+      "speech_start_s": 227.96464549999996,
+      "speech_end_s": 237.10697849999997,
+      "image": "images/shot_25.png"
+    },
+    {
+      "id": 26,
+      "paragraph_id": "p007",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u01",
+          "start_char": 0,
+          "end_char": 16
+        },
+        {
+          "unit_id": "p007_u02",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "text": "他抱住胡萝卜玩偶，慢慢闭上眼睛。今晚，不用把每一只苹果都带回家，也不用把每一件小事都做完。",
+      "title": "抱着胡萝卜玩偶安心入睡",
+      "location": "同一卧室床上",
+      "time_of_day": "night",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "references/pipi_sleepwear_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "皮皮抱住同一只橙色胡萝卜玩偶，慢慢闭眼；暖黄毯盖到肩下。安睡画面承接“今晚不必做完每件小事”。 竖屏9:16水彩绘本、细纸纹；主角和关键动作留在字幕安全区上方，画内不带字。",
+      "action": "皮皮抱住同一只橙色胡萝卜玩偶，慢慢闭眼；暖黄毯盖到肩下。安睡画面承接“今晚不必做完每件小事”。",
+      "continuity_refs": [
+        "bedroom",
+        "bedroom_pillow",
+        "bedroom_blanket",
+        "carrot_plush",
+        "pipi_sleepwear"
+      ],
+      "state_before": "皮皮已躺好，毛毯盖到肩下，眼睛将闭。",
+      "state_after": "皮皮抱住玩偶并安睡，心意落在安心休息。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 237.64,
+      "actual_end_s": 251.52,
+      "visible_start_s": 237.16,
+      "visible_end_s": 252.0,
+      "visible_duration_s": 14.84,
+      "transition_from": 25,
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_26.png",
+      "speech_start_s": 238.18554166666664,
+      "speech_end_s": 251.28179099999997,
+      "image": "images/shot_26.png"
+    },
+    {
+      "id": 27,
+      "paragraph_id": "p007",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u03",
+          "start_char": 0,
+          "end_char": 19
+        }
+      ],
+      "text": "\n小朋友，明天还有明天的新鲜事和阳光。",
+      "title": "明天还有新的阳光",
+      "location": "同一卧室",
+      "time_of_day": "night",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "references/pipi_sleepwear_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "皮皮抱着胡萝卜玩偶安睡，窗外仍是深蓝夜空，只用极淡天边色暗示明日；不切到清晨，不让皮皮醒来。 竖屏9:16水彩绘本、细纸纹；主角和关键动作留在字幕安全区上方，画内不带字。",
+      "action": "皮皮抱着胡萝卜玩偶安睡，窗外仍是深蓝夜空，只用极淡天边色暗示明日；不切到清晨，不让皮皮醒来。",
+      "continuity_refs": [
+        "bedroom",
+        "bedroom_pillow",
+        "bedroom_blanket",
+        "carrot_plush",
+        "pipi_sleepwear"
+      ],
+      "state_before": "皮皮在卧室熟睡，物件状态固定。",
+      "state_after": "以明天的新鲜事和阳光留下温柔期待；仍是夜晚。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 251.52,
+      "actual_end_s": 257.24,
+      "visible_start_s": 251.04000000000002,
+      "visible_end_s": 257.72,
+      "visible_duration_s": 6.68,
+      "transition_from": 26,
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_27.png",
+      "speech_start_s": 251.75189583333332,
+      "speech_end_s": 257.010791,
+      "image": "images/shot_27.png"
+    },
+    {
+      "id": 28,
+      "paragraph_id": "p007",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u04",
+          "start_char": 0,
+          "end_char": 26
+        }
+      ],
+      "text": "现在，让今天的一切安安稳稳地结束吧，闭上眼睛，晚安。",
+      "title": "闭上眼睛晚安",
+      "location": "同一卧室收束镜头",
+      "time_of_day": "night",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "references/pipi_sleepwear_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "保持皮皮抱着胡萝卜玩偶睡在矮床上，暖黄毛毯、枕头、睡衣和姿势与前镜一致；安静留白并渐暗。 竖屏9:16水彩绘本、细纸纹；主角和关键动作留在字幕安全区上方，画内不带字。",
+      "action": "保持皮皮抱着胡萝卜玩偶睡在矮床上，暖黄毛毯、枕头、睡衣和姿势与前镜一致；安静留白并渐暗。",
+      "continuity_refs": [
+        "bedroom",
+        "bedroom_pillow",
+        "bedroom_blanket",
+        "carrot_plush",
+        "pipi_sleepwear"
+      ],
+      "state_before": "皮皮仍熟睡，环境与物件状态不变。",
+      "state_after": "故事以晚安结束，画面留出片尾安静尾声。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 257.24,
+      "actual_end_s": 266.64,
+      "visible_start_s": 256.76,
+      "visible_end_s": 266.64,
+      "visible_duration_s": 9.88,
+      "transition_from": 27,
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_28.png",
+      "speech_start_s": 257.4935,
+      "speech_end_s": 265.49116566666663,
+      "image": "images/shot_28.png"
+    }
+  ],
+  "total_duration_s": 266.64,
+  "actual_audio_measured": true,
+  "max_visible_duration_s": 14.84,
+  "cover_title": "皮皮发现树梢苹果"
+}

@@ -1,0 +1,107 @@
+{
+  "text": "苹果还挂在树梢上，今天没摘完的事情可以留到明天吗？",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "3050a974a9e45de0a16250fedfb26aca0d83f9c168916478fa31b408cac7c264",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6346250,
+      "text": "苹果"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8000000,
+      "duration": 2115410,
+      "text": "还"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10307500,
+      "duration": 2307500,
+      "text": "挂"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12615410,
+      "duration": 1922910,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14730830,
+      "duration": 5961660,
+      "text": "树梢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20692500,
+      "duration": 4230830,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29730830,
+      "duration": 4422910,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34346250,
+      "duration": 2500000,
+      "text": "没"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36846250,
+      "duration": 2692080,
+      "text": "摘"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39538330,
+      "duration": 2692500,
+      "text": "完"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42230830,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43577080,
+      "duration": 8077080,
+      "text": "事情"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53192500,
+      "duration": 3846250,
+      "text": "可以"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57230830,
+      "duration": 4422910,
+      "text": "留到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61846250,
+      "duration": 6346250,
+      "text": "明天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 68192500,
+      "duration": 3846250,
+      "text": "吗"
+    }
+  ]
+}

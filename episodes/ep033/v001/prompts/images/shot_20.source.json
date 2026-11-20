@@ -1,0 +1,12 @@
+{
+  "shot_id": "shot_20",
+  "file": "images/shot_20.png",
+  "sha256": "2e0bdc938be5e3b2ba04cfbfe382782182d1550f8b6c51ca5e06dff0ea415ec7",
+  "source": "built-in image_gen",
+  "reference_images": [
+    "episodes/ep033/v001/references/orchard_assets_ep033_v001.png"
+  ],
+  "prompt_summary": "Only the high thin branch and its attached apple are depicted against the night sky, quiet cottage below, no foreground props.",
+  "visual_review": "passed: evening-to-night transition, high apple attached, no anthropomorphism; leaf/basket continuity reviewed",
+  "user_acceptance": "pending"
+}

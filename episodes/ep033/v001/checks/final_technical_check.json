@@ -1,0 +1,25 @@
+{
+  "episode": "ep033",
+  "versions": [
+    "Outputs/2026-11-20/ep033-v001/ep033.mp4",
+    "Outputs/2026-11-20/ep033-v001/ep033_clean.mp4"
+  ],
+  "full_decode": "passed_with_ffmpeg_v_error",
+  "format": "H.264/AAC, 1080x1920, 25 fps, 48000 Hz mono audio",
+  "duration_s": 266.64,
+  "frames": 6666,
+  "cover": "1080x1920 PNG, title checked at 360x640 mobile preview",
+  "subtitle": "129 cues, 763 Hanzi, 100% coverage; contextual pinyin review complete",
+  "continuity": "29-shot contact sheet reviewed; corrected shot 04 and 21 before final render",
+  "full_audio_listening": "not_certified",
+  "full_video_watch": "not_certified",
+  "user_acceptance": "pending",
+  "files": {
+    "publish_video_bytes": 74187558,
+    "clean_video_bytes": 70519153,
+    "cover_size_px": [
+      1080,
+      1920
+    ]
+  }
+}

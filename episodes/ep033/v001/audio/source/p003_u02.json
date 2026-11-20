@@ -1,0 +1,119 @@
+{
+  "text": "\n皮皮站在树下仰头看了看，那根树枝太高太细了，竹竿够不着；",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "4a4090f8a4ad761a8febdc2ae6b185366739b92a8cb93e287e66089278fa4c75",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 9038330,
+      "text": "皮皮站"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10500000,
+      "duration": 2307500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13000000,
+      "duration": 3077080,
+      "text": "树"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16077080,
+      "duration": 3077080,
+      "text": "下"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19538330,
+      "duration": 5577080,
+      "text": "仰头"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25307500,
+      "duration": 3077080,
+      "text": "看"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28384580,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29730830,
+      "duration": 4038330,
+      "text": "看"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39346250,
+      "duration": 1730830,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41077080,
+      "duration": 2115410,
+      "text": "根"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43384580,
+      "duration": 5000000,
+      "text": "树枝"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48769160,
+      "duration": 3653750,
+      "text": "太"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52422910,
+      "duration": 2692500,
+      "text": "高"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55500000,
+      "duration": 3269160,
+      "text": "太"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58769160,
+      "duration": 4038330,
+      "text": "细"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 62807500,
+      "duration": 2692500,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 69153750,
+      "duration": 5961660,
+      "text": "竹竿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75500000,
+      "duration": 8846250,
+      "text": "够不着"
+    }
+  ]
+}

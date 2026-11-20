@@ -1,0 +1,13 @@
+{
+  "shot_id": "shot_23",
+  "file": "images/shot_23.png",
+  "sha256": "905a6b569e9570f350eaa386be7523ccd54d7e5dca7c97d2b02b1dd41187deb6",
+  "source": "built-in image_gen",
+  "reference_images": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+  ],
+  "prompt_summary": "Pipi gently closes the cottage door at night; through its narrowing opening, the same apple remains attached to the orchard tree.",
+  "visual_review": "passed: wardrobe/location/prop continuity, sleeping pose and no unintended waking verified",
+  "user_acceptance": "pending"
+}

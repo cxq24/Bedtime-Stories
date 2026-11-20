@@ -1,0 +1,233 @@
+{
+  "text": "\n一阵秋日的晚风吹过，树梢上的小苹果慢慢地晃了一下，就像在对着小木屋点头说：“谢谢你呀皮皮，我也找到今晚休息的好地方啦。”",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "60fd88203cdb7a263a92e06b973a0880d9972e2352724b6690abf0865030a8cf",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5192500,
+      "text": "一阵"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 5384580,
+      "text": "秋日"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12230830,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13769160,
+      "duration": 5577080,
+      "text": "晚风"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19538330,
+      "duration": 3846250,
+      "text": "吹"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23384580,
+      "duration": 4230830,
+      "text": "过"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32422910,
+      "duration": 6153750,
+      "text": "树梢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38577080,
+      "duration": 2307500,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40884580,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42230830,
+      "duration": 2884580,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45115410,
+      "duration": 8461660,
+      "text": "苹果"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55115410,
+      "duration": 5384580,
+      "text": "慢慢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60500000,
+      "duration": 1538330,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 62422910,
+      "duration": 3653750,
+      "text": "晃"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 66077080,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 67422910,
+      "duration": 6538330,
+      "text": "一下"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78769160,
+      "duration": 2307500,
+      "text": "就"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 81077080,
+      "duration": 2884580,
+      "text": "像"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 84346250,
+      "duration": 2115410,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 86461660,
+      "duration": 3653750,
+      "text": "对着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 90307500,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 93577080,
+      "duration": 4230830,
+      "text": "木屋"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 98192500,
+      "duration": 6730410,
+      "text": "点头"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 104922910,
+      "duration": 5000000,
+      "text": "说"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 112884580,
+      "duration": 6153750,
+      "text": "谢谢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 119230830,
+      "duration": 1730830,
+      "text": "你"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 120961660,
+      "duration": 2115410,
+      "text": "呀"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 123269160,
+      "duration": 7692500,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 135384580,
+      "duration": 2307500,
+      "text": "我"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 137692500,
+      "duration": 1730830,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 139615410,
+      "duration": 5577080,
+      "text": "找到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 145577080,
+      "duration": 5000000,
+      "text": "今晚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 150769160,
+      "duration": 4807500,
+      "text": "休息"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 155577080,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 157307500,
+      "duration": 2884580,
+      "text": "好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 160192500,
+      "duration": 5961250,
+      "text": "地方"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 166153750,
+      "duration": 3269160,
+      "text": "啦"
+    }
+  ]
+}

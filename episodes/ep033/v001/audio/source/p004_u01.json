@@ -1,0 +1,233 @@
+{
+  "text": "皮皮摸了摸竹篮里已经装得满满当当的苹果，心想：今天摘的苹果已经足够吃好久好久了，为什么一定要把树上的每一只果子都摘光呢？",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "c003cb28c9c8ec63381baf8b00e91d84065474821295c32fea51fbff46d5b55d",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5192500,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 2884580,
+      "text": "摸"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9730830,
+      "duration": 1538330,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11269160,
+      "duration": 2692500,
+      "text": "摸"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14346250,
+      "duration": 6538330,
+      "text": "竹篮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20884580,
+      "duration": 4230830,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25500000,
+      "duration": 4615410,
+      "text": "已经"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30307500,
+      "duration": 2884580,
+      "text": "装"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33192500,
+      "duration": 1346250,
+      "text": "得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34922910,
+      "duration": 10961660,
+      "text": "满满当当"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45884580,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47230830,
+      "duration": 8077080,
+      "text": "苹果"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59538330,
+      "duration": 8846250,
+      "text": "心想"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 71730830,
+      "duration": 5961660,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 77884580,
+      "duration": 2115410,
+      "text": "摘"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 80000000,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 81346250,
+      "duration": 8846250,
+      "text": "苹果"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 91730830,
+      "duration": 4422910,
+      "text": "已经"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 96346250,
+      "duration": 5000000,
+      "text": "足够"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 101538330,
+      "duration": 2307500,
+      "text": "吃"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 103846250,
+      "duration": 5769160,
+      "text": "好久"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 109807500,
+      "duration": 6730830,
+      "text": "好久"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 116538330,
+      "duration": 3077080,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 125384580,
+      "duration": 5961660,
+      "text": "为什么"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 131730830,
+      "duration": 3846250,
+      "text": "一定"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 135769160,
+      "duration": 2307500,
+      "text": "要"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 138077080,
+      "duration": 2307500,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 140769160,
+      "duration": 3077080,
+      "text": "树"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 143846250,
+      "duration": 2692080,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 146538330,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 148269160,
+      "duration": 2692500,
+      "text": "每"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 150961660,
+      "duration": 1730830,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 152692500,
+      "duration": 2115410,
+      "text": "只"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 155000000,
+      "duration": 5000000,
+      "text": "果子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 160384580,
+      "duration": 1346250,
+      "text": "都"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 161922910,
+      "duration": 6730830,
+      "text": "摘光"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 168653750,
+      "duration": 3461660,
+      "text": "呢"
+    }
+  ]
+}

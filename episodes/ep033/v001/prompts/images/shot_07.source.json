@@ -1,0 +1,16 @@
+{
+  "shot_id": "shot_07",
+  "file": "images/shot_07.png",
+  "sha256": "34413a3d2896f4f060fbbeca6930855ef68942714e882036f137f8293b6c0bf9",
+  "source": "built-in image_gen",
+  "reference_images": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/rongrong_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/tuantuan_identity_v001.png",
+    "episodes/ep033/v001/references/orchard_assets_ep033_v001.png"
+  ],
+  "prompt_summary": "At dusk, Pipi alone in foreground tidies final full basket; Rongrong and Tuantuan are small rear-facing figures leaving through garden gate with their own baskets. Same tree now has fewer apples; one red apple on highest twig remains attached. Pipi in exact day outfit, no coat/jacket/hat.",
+  "visual_review": "passed: cast presence/exit, outfit, orchard progression, high apple continuity and frame composition checked",
+  "user_acceptance": "pending"
+}

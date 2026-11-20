@@ -1,0 +1,14 @@
+{
+  "shot_id": "shot_00",
+  "file": "images/shot_00.png",
+  "sha256": "83a538380d5dbd8d16824a5315d043d91ac664b4f704797b6261a9aa379efe5f",
+  "source": "built-in image_gen",
+  "reference_images": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "episodes/ep033/v001/references/orchard_assets_ep033_v001.png"
+  ],
+  "prompt_summary": "Dedicated standalone p000 opening illustration: sunny autumn morning in Pipi’s cottage yard; Pipi beneath the old apple tree gazes at the unique small red apple attached to the highest twig. Approved day outfit exactly, no hat. Wide establishing view of tree and cottage, portrait watercolor, subtitle-safe lower 20%, no words.",
+  "visual_review": "passed: identity, outfit, story beat, high apple attachment and subtitle-safe layout reviewed",
+  "user_acceptance": "pending"
+}

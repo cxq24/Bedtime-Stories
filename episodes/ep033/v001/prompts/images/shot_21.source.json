@@ -1,0 +1,12 @@
+{
+  "shot_id": "shot_21",
+  "file": "images/shot_21.png",
+  "sha256": "927dbd00ac3e065df104446213f2dee86e641434c9391721e61db0cf4b949d83",
+  "source": "built-in image_gen",
+  "reference_images": [
+    "episodes/ep033/v001/images/shot_19.png"
+  ],
+  "prompt_summary": "Night shot matching orchard tree silhouette and autumn foliage; attached red apple on highest branch leans subtly toward cottage, no face or props.",
+  "visual_review": "passed after correction: night tree returns to autumn golden/olive leaves consistent with prior orchard images; high apple remains attached; no extraneous orchard props.",
+  "user_acceptance": "pending"
+}

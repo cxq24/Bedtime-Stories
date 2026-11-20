@@ -1,0 +1,12 @@
+{
+  "shot_id": "shot_19",
+  "file": "images/shot_19.png",
+  "sha256": "f60afc15bdeb8dd39a4080f2c819246e2e161251e52e5d616beaf1239dbf0642",
+  "source": "built-in image_gen",
+  "reference_images": [
+    "episodes/ep033/v001/references/orchard_assets_ep033_v001.png"
+  ],
+  "prompt_summary": "Night orchard under stars, same high red apple remains attached to thin branch, warm cottage window, distant bird far away.",
+  "visual_review": "passed: evening-to-night transition, high apple attached, no anthropomorphism; leaf/basket continuity reviewed",
+  "user_acceptance": "pending"
+}

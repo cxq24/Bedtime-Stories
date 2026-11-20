@@ -1,0 +1,16 @@
+{
+  "shot_id": "shot_04",
+  "file": "images/shot_04.png",
+  "sha256": "cfdee0a158b639b9193294b479508f607863a27e22a1b445a428d0708681dda1",
+  "source": "built-in image_gen",
+  "reference_images": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/rongrong_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/tuantuan_identity_v001.png",
+    "episodes/ep033/v001/references/orchard_assets_ep033_v001.png"
+  ],
+  "prompt_summary": "Three friends in roles matching storyboard: Pipi holds bamboo pole bareheaded, bear Rongrong supports basket, squirrel Tuantuan safely picks a middle apple.",
+  "visual_review": "passed after correction: Pipi hatless with correct bamboo-pole role; Rongrong steadies basket; Tuantuan picks on safe middle branch.",
+  "user_acceptance": "pending"
+}
