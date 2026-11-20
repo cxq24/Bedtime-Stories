@@ -181,12 +181,15 @@
       "delivery": "Outputs/2026-11-20/ep034-v001/README.md",
       "published": false,
       "user_acceptance": "pending",
-      "github_sync": "sync_in_progress",
+      "github_sync": "synced_to_main",
       "technical_checks": "passed",
       "continuity_preflight": "passed",
       "continuity_image_review": "passed_with_minor_overhead_lamp_note",
       "human_full_watch": "not_certified",
-      "phone_subtitle_review": "passed_sampled_opening_middle_ending"
+      "phone_subtitle_review": "passed_sampled_opening_middle_ending",
+      "github_sync_date": "2026-11-20",
+      "github_sync_commit": "2b33146",
+      "github_sync_scope": "complete_ep034_v001_project_and_delivery_including_both_mp4s"
     },
     {
       "id": "ep032",

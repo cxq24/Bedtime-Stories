@@ -18,6 +18,7 @@
   "human_watch": "not_certified",
   "user_acceptance": "pending",
   "publication": "not_published",
-  "github_sync": "sync_in_progress",
-  "next_action": "同步完整工程与交付视频到GitHub main；同步完成后登记提交信息。"
+  "github_sync": "synced_to_main",
+  "next_action": "已同步GitHub main；等待用户审看与验收。",
+  "github_sync_commit": "2b33146"
 }
