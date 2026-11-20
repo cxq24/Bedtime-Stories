@@ -1,0 +1,17 @@
+{
+  "image": "images/shot_07.png",
+  "source": "OpenAI image_gen",
+  "generated_on": "2026-11-20",
+  "loaded_references": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "assets/day_wardrobe_anchor.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/goat_teacher_identity_v001.png",
+    "images/shot_03.png"
+  ],
+  "sha256": "96c24e53935fca80d611fdb2caea2be6c95fe046a4435f5c795af671f8cf42b8",
+  "size": [
+    941,
+    1671
+  ],
+  "review_status": "visually_reviewed_full_35_shot_contact_sheet"
+}

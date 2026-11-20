@@ -1,0 +1,17 @@
+{
+  "image": "images/shot_10.png",
+  "source": "OpenAI image_gen",
+  "generated_on": "2026-11-20",
+  "loaded_references": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "assets/day_wardrobe_anchor.png",
+    "images/shot_09.png",
+    "images/shot_08.png"
+  ],
+  "sha256": "cc9f909fbd8089cfd5c2a0486886d1a1d352c47022196d2cd85c3c8e93eb75ea",
+  "size": [
+    941,
+    1671
+  ],
+  "review_status": "visually_reviewed_full_35_shot_contact_sheet"
+}

@@ -1,0 +1,14 @@
+{
+  "source": "OpenAI image_gen edit",
+  "generated_on": "2026-11-20",
+  "loaded_references": [
+    "cover_base.png (pre-edit source)"
+  ],
+  "edit": "switched off porch overhead lamp to match story",
+  "sha256": "bda5be3bf0bb412c4b34231e72a9bbbdc5356c6463d6f152cd24884754a44461",
+  "size": [
+    941,
+    1672
+  ],
+  "review_status": "pending_cover_review"
+}

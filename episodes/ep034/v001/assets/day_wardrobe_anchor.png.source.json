@@ -1,0 +1,15 @@
+{
+  "source_path": "references/pipi_wardrobe_v001.png",
+  "crop_box": [
+    0,
+    90,
+    515,
+    1010
+  ],
+  "sha256": "d8c2d7e75edcedba93830fe2812e8b39917c971a17c430f6040b23eb6a295af5",
+  "size": [
+    515,
+    920
+  ],
+  "use": "only the selected Pipi wardrobe variant; excludes other models"
+}

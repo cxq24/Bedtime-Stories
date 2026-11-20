@@ -1,0 +1,10 @@
+{
+  "image": "assets/porch_layout_anchor.png",
+  "source": "copied from images/shot_09.png as episode-specific continuity anchor",
+  "sha256": "8b276f9fbd4e356aebde6026f299c898cbc710b2b1a4e67b2500e2aa30ab76fe",
+  "size": [
+    941,
+    1672
+  ],
+  "review_status": "continuity_anchor"
+}

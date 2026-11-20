@@ -1,0 +1,41 @@
+{
+  "text": "稍微有一点点晃眼睛。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "ff5aeccb250fde3e6f7cbeb2891fdc3e1659660087ee62283fb6c39d3b970067",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6922910,
+      "text": "稍微"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8384580,
+      "duration": 1922910,
+      "text": "有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10500000,
+      "duration": 7500000,
+      "text": "一点点"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18192500,
+      "duration": 3269160,
+      "text": "晃"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21461660,
+      "duration": 7692500,
+      "text": "眼睛"
+    }
+  ]
+}

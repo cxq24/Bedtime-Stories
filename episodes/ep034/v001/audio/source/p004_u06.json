@@ -1,0 +1,47 @@
+{
+  "text": "又不会直直地刺痛眼睛。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "4faac15acdb5275dd61c9d64bf128f89c9495c001ec840b8ff93d0df6f06d4b4",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3461660,
+      "text": "又"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4730830,
+      "duration": 5000000,
+      "text": "不会"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10115410,
+      "duration": 6153750,
+      "text": "直直"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16269160,
+      "duration": 1538330,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18192500,
+      "duration": 5961660,
+      "text": "刺痛"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24346250,
+      "duration": 8461660,
+      "text": "眼睛"
+    }
+  ]
+}

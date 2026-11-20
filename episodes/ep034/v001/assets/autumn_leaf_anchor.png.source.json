@@ -1,0 +1,10 @@
+{
+  "image": "assets/autumn_leaf_anchor.png",
+  "source": "copied from images/shot_18.png as episode-specific continuity anchor",
+  "sha256": "87dd53be9600f8a2ac78c5fa7f90b89249f79be57575f845659b96bc7f4f9ce9",
+  "size": [
+    941,
+    1672
+  ],
+  "review_status": "continuity_anchor"
+}

@@ -1,0 +1,16 @@
+{
+  "image": "images/shot_19.png",
+  "source": "OpenAI image_gen",
+  "generated_on": "2026-11-20",
+  "loaded_references": [
+    "images/shot_09.png",
+    "images/shot_08.png",
+    "images/shot_18.png"
+  ],
+  "sha256": "fd4f4d6cec5f5a619a90c06405f8302f611dc45a452d1086f6f1471a42375f14",
+  "size": [
+    941,
+    1672
+  ],
+  "review_status": "visually_reviewed_full_35_shot_contact_sheet"
+}

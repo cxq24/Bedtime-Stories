@@ -1,0 +1,101 @@
+{
+  "text": "好像这片秋叶也在夜晚借到了一小块温暖的阳光。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "749aaee0820c79a9619c1b9776b00da4c552deb6492982a8f9a367d6dc548c8e",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5769160,
+      "text": "好像"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7422910,
+      "duration": 1730830,
+      "text": "这"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9153750,
+      "duration": 3077080,
+      "text": "片"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12422910,
+      "duration": 8461660,
+      "text": "秋叶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22422910,
+      "duration": 2307500,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24730830,
+      "duration": 2115410,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27038330,
+      "duration": 6730830,
+      "text": "夜晚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34153750,
+      "duration": 4807500,
+      "text": "借到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38961660,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40500000,
+      "duration": 1730830,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42230830,
+      "duration": 2884580,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45115410,
+      "duration": 2884580,
+      "text": "块"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48384580,
+      "duration": 5384580,
+      "text": "温暖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53769160,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55115410,
+      "duration": 7884580,
+      "text": "阳光"
+    }
+  ]
+}

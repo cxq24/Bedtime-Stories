@@ -1,0 +1,65 @@
+{
+  "text": "今天的故事叫《南瓜小灯的窗户》。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "1c84cda08f60a2e5e6ae8c9e11557f019c6854dd972afac1fd54caf0255a9f83",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5577080,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8384580,
+      "duration": 5577080,
+      "text": "故事"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14153750,
+      "duration": 5000000,
+      "text": "叫"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20692500,
+      "duration": 5769160,
+      "text": "南瓜"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26653750,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29922910,
+      "duration": 2500000,
+      "text": "灯"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32422910,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33961660,
+      "duration": 8461660,
+      "text": "窗户"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "text": "于是，他伸出小爪子，把南瓜小灯轻轻转了一个小角度，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "735a9500b2033d397a28e47c24710e4fdd56be54fab4c40caff2bdd917ba4475",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 8077080,
+      "text": "于是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14346250,
+      "duration": 2115410,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16461660,
+      "duration": 4807500,
+      "text": "伸出"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21461660,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24730830,
+      "duration": 8269160,
+      "text": "爪子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37422910,
+      "duration": 1922910,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39538330,
+      "duration": 5192500,
+      "text": "南瓜"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44922910,
+      "duration": 8077080,
+      "text": "小灯"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54346250,
+      "duration": 6153750,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60692500,
+      "duration": 3076660,
+      "text": "转"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63769160,
+      "duration": 961660,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64922910,
+      "duration": 2500000,
+      "text": "一个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 67807500,
+      "duration": 2884580,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 70692500,
+      "duration": 7884580,
+      "text": "角度"
+    }
+  ]
+}

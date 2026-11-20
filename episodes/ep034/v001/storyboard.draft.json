@@ -1,0 +1,1239 @@
+{
+  "episode": "ep034",
+  "version": "v001",
+  "title": "南瓜小灯的窗户",
+  "script_version": "v5",
+  "cover_title": "皮皮转动南瓜灯",
+  "cover_title_lines": [
+    "皮皮转动",
+    "南瓜灯"
+  ],
+  "status": "draft_full_text_coverage",
+  "actual_audio_measured": false,
+  "shots": [
+    {
+      "id": 0,
+      "title": "开场问候：安静翻开的绘本",
+      "text": "小朋友们，准备好听故事了吗？",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u01",
+          "paragraph_id": "p000",
+          "start_char": 0,
+          "end_char": 14
+        }
+      ],
+      "paragraph_id": "p000",
+      "characters": [],
+      "outfits": {},
+      "setting": "暖米色桌面上的绘本微微翻开，窗外秋日天色渐暗；轻柔、欢迎的故事开始画面。",
+      "action": "暖米色桌面上的绘本微微翻开，窗外秋日天色渐暗；轻柔、欢迎的故事开始画面。",
+      "visual_description": "暖米色桌面上的绘本微微翻开，窗外秋日天色渐暗；轻柔、欢迎的故事开始画面。",
+      "emotional_performance": "角色表情、视线与姿势随本镜动作自然变化；不复制图库的默认困倦/忧郁表情。",
+      "reality": "standalone_opening",
+      "motion": "fixed",
+      "opening": true,
+      "image": "images/shot_00.png",
+      "prompt_file": "prompts/shot_00.json",
+      "reference_manifest": "references/shot_00.json",
+      "continuity_refs": "按 continuity.json 固定物件与空间；本镜承接上一镜动作结果。",
+      "state_before": "清晨暖光中，绘本静置。",
+      "state_after": "绘本微微翻开，故事开始。",
+      "transition_from": null,
+      "visual_constraints": "无画中文字或水印；只画剧本中在场角色，不新增来客；灯、蜡烛、南瓜外观及门廊方向保持连续。",
+      "environment_reference": null
+    },
+    {
+      "id": 1,
+      "title": "开场提问：南瓜小灯与窗边",
+      "text": "今天的故事叫《南瓜小灯的窗户》。天黑得早了，一盏南瓜小灯怎样照亮熟悉的窗边呢？",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u02",
+          "paragraph_id": "p000",
+          "start_char": 0,
+          "end_char": 16
+        },
+        {
+          "unit_id": "p000_u03",
+          "paragraph_id": "p000",
+          "start_char": 0,
+          "end_char": 23
+        }
+      ],
+      "paragraph_id": "p000",
+      "characters": [],
+      "outfits": {},
+      "setting": "独立诗意开场：一枚尚未点亮的小南瓜剪影靠近一扇熟悉的窗，窗外秋夜提早降临；画面留白温柔，不出现剧情中的皮皮或门廊。",
+      "action": "独立诗意开场：一枚尚未点亮的小南瓜剪影靠近一扇熟悉的窗，窗外秋夜提早降临；画面留白温柔，不出现剧情中的皮皮或门廊。",
+      "visual_description": "独立诗意开场：一枚尚未点亮的小南瓜剪影靠近一扇熟悉的窗，窗外秋夜提早降临；画面留白温柔，不出现剧情中的皮皮或门廊。",
+      "emotional_performance": "角色表情、视线与姿势随本镜动作自然变化；不复制图库的默认困倦/忧郁表情。",
+      "reality": "standalone_opening",
+      "motion": "fixed",
+      "opening": true,
+      "image": "images/shot_01.png",
+      "prompt_file": "prompts/shot_01.json",
+      "reference_manifest": "references/shot_01.json",
+      "continuity_refs": "按 continuity.json 固定物件与空间；本镜承接上一镜动作结果。",
+      "state_before": "绘本开启。",
+      "state_after": "用南瓜和窗户提出故事问题。",
+      "transition_from": 0,
+      "visual_constraints": "无画中文字或水印；只画剧本中在场角色，不新增来客；灯、蜡烛、南瓜外观及门廊方向保持连续。",
+      "environment_reference": null
+    },
+    {
+      "id": 2,
+      "title": "秋天的森林天黑得早",
+      "text": "秋天的森林里，天黑得比夏天早了许多。",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u01",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 18
+        }
+      ],
+      "paragraph_id": "p001",
+      "characters": [],
+      "outfits": {},
+      "setting": "秋天的森林小路与树梢被暮色包围，晚霞很快退去，熟悉林间小屋的远景隐约可见。",
+      "action": "秋天的森林小路与树梢被暮色包围，晚霞很快退去，熟悉林间小屋的远景隐约可见。",
+      "visual_description": "秋天的森林小路与树梢被暮色包围，晚霞很快退去，熟悉林间小屋的远景隐约可见。",
+      "emotional_performance": "角色表情、视线与姿势随本镜动作自然变化；不复制图库的默认困倦/忧郁表情。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_02.png",
+      "prompt_file": "prompts/shot_02.json",
+      "reference_manifest": "references/shot_02.json",
+      "continuity_refs": "按 continuity.json 固定物件与空间；本镜承接上一镜动作结果。",
+      "state_before": "白日森林。",
+      "state_after": "秋季暮色提前降临。",
+      "transition_from": 1,
+      "visual_constraints": "无画中文字或水印；只画剧本中在场角色，不新增来客；灯、蜡烛、南瓜外观及门廊方向保持连续。",
+      "environment_reference": null
+    },
+    {
+      "id": 3,
+      "title": "森林学堂的南瓜手工课",
+      "text": "今天下午在森林学堂的手工课上，山羊老师带着大家一起做“秋日南瓜小灯”。",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u02",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 35
+        }
+      ],
+      "paragraph_id": "p001",
+      "characters": [
+        "pipi",
+        "tuantuan",
+        "goat_teacher"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "明亮木质教室的手工桌边，山羊老师带着皮皮和团团做秋日南瓜灯；三者身份比例清楚，桌上工具安全摆放。",
+      "action": "明亮木质教室的手工桌边，山羊老师带着皮皮和团团做秋日南瓜灯；三者身份比例清楚，桌上工具安全摆放。",
+      "visual_description": "明亮木质教室的手工桌边，山羊老师带着皮皮和团团做秋日南瓜灯；三者身份比例清楚，桌上工具安全摆放。",
+      "emotional_performance": "角色表情、视线与姿势随本镜动作自然变化；不复制图库的默认困倦/忧郁表情。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_03.png",
+      "prompt_file": "prompts/shot_03.json",
+      "reference_manifest": "references/shot_03.json",
+      "continuity_refs": "按 continuity.json 固定物件与空间；本镜承接上一镜动作结果。",
+      "state_before": "下午手工课开始，南瓜尚未雕刻。",
+      "state_after": "老师示范南瓜灯制作。",
+      "transition_from": 2,
+      "visual_constraints": "无画中文字或水印；只画剧本中在场角色，不新增来客；灯、蜡烛、南瓜外观及门廊方向保持连续。",
+      "environment_reference": null
+    },
+    {
+      "id": 4,
+      "title": "每个孩子领到圆滚滚的小南瓜",
+      "text": "每个小朋友都分到了一个圆滚滚、金灿灿的小南瓜。",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u03",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 23
+        }
+      ],
+      "paragraph_id": "p001",
+      "characters": [
+        "pipi",
+        "tuantuan"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "皮皮与团团分别捧着圆润金黄小南瓜，手工桌上另有少量未分配南瓜；温馨课堂，延续同一桌位。",
+      "action": "皮皮与团团分别捧着圆润金黄小南瓜，手工桌上另有少量未分配南瓜；温馨课堂，延续同一桌位。",
+      "visual_description": "皮皮与团团分别捧着圆润金黄小南瓜，手工桌上另有少量未分配南瓜；温馨课堂，延续同一桌位。",
+      "emotional_performance": "角色表情、视线与姿势随本镜动作自然变化；不复制图库的默认困倦/忧郁表情。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_04.png",
+      "prompt_file": "prompts/shot_04.json",
+      "reference_manifest": "references/shot_04.json",
+      "continuity_refs": "按 continuity.json 固定物件与空间；本镜承接上一镜动作结果。",
+      "state_before": "老师正在带领手工课。",
+      "state_after": "两位小伙伴各自得到南瓜。",
+      "transition_from": 3,
+      "visual_constraints": "无画中文字或水印；只画剧本中在场角色，不新增来客；灯、蜡烛、南瓜外观及门廊方向保持连续。",
+      "environment_reference": "images/shot_03.png"
+    },
+    {
+      "id": 5,
+      "title": "团团想让南瓜灯最亮",
+      "text": "小松鼠团团想让自己的南瓜灯最亮，他在南瓜肚子上挖了七八个大大的圆洞；",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u01",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 34
+        }
+      ],
+      "paragraph_id": "p002",
+      "characters": [
+        "pipi",
+        "tuantuan"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "小松鼠团团兴致勃勃地展示自己的南瓜，表面已有七八个较大的圆形开孔；皮皮的南瓜仍完整，清楚区分两枚南瓜。",
+      "action": "小松鼠团团兴致勃勃地展示自己的南瓜，表面已有七八个较大的圆形开孔；皮皮的南瓜仍完整，清楚区分两枚南瓜。",
+      "visual_description": "小松鼠团团兴致勃勃地展示自己的南瓜，表面已有七八个较大的圆形开孔；皮皮的南瓜仍完整，清楚区分两枚南瓜。",
+      "emotional_performance": "角色表情、视线与姿势随本镜动作自然变化；不复制图库的默认困倦/忧郁表情。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_05.png",
+      "prompt_file": "prompts/shot_05.json",
+      "reference_manifest": "references/shot_05.json",
+      "continuity_refs": "按 continuity.json 固定物件与空间；本镜承接上一镜动作结果。",
+      "state_before": "团团和皮皮各自拿着自己的南瓜。",
+      "state_after": "团团的大圆洞南瓜灯完成，皮皮尚未雕刻。",
+      "transition_from": 4,
+      "visual_constraints": "无画中文字或水印；只画剧本中在场角色，不新增来客；灯、蜡烛、南瓜外观及门廊方向保持连续。",
+      "environment_reference": "images/shot_03.png"
+    },
+    {
+      "id": 6,
+      "title": "皮皮仔细想自己的南瓜窗户",
+      "text": "而皮皮捧着自己的小南瓜，仔细地想了想，",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u02",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 19
+        }
+      ],
+      "paragraph_id": "p002",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "皮皮用双爪捧着完整无孔的小南瓜，认真观察圆鼓鼓表面，桌边放一把儿童安全小木刀；团团的多圆洞南瓜在远处桌面。",
+      "action": "皮皮用双爪捧着完整无孔的小南瓜，认真观察圆鼓鼓表面，桌边放一把儿童安全小木刀；团团的多圆洞南瓜在远处桌面。",
+      "visual_description": "皮皮用双爪捧着完整无孔的小南瓜，认真观察圆鼓鼓表面，桌边放一把儿童安全小木刀；团团的多圆洞南瓜在远处桌面。",
+      "emotional_performance": "角色表情、视线与姿势随本镜动作自然变化；不复制图库的默认困倦/忧郁表情。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_06.png",
+      "prompt_file": "prompts/shot_06.json",
+      "reference_manifest": "references/shot_06.json",
+      "continuity_refs": "按 continuity.json 固定物件与空间；本镜承接上一镜动作结果。",
+      "state_before": "皮皮拿着自己的完整南瓜。",
+      "state_after": "皮皮想好要刻出小窗。",
+      "transition_from": 5,
+      "visual_constraints": "无画中文字或水印；只画剧本中在场角色，不新增来客；灯、蜡烛、南瓜外观及门廊方向保持连续。",
+      "environment_reference": "images/shot_03.png"
+    },
+    {
+      "id": 7,
+      "title": "皮皮用安全木刀轻轻刻窗",
+      "text": "用安全小木刀在南瓜圆鼓鼓的肚皮上，",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u03",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 17
+        }
+      ],
+      "paragraph_id": "p002",
+      "characters": [
+        "pipi",
+        "goat_teacher"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "近景展示皮皮在山羊老师陪伴下用安全小木刀轻轻刻南瓜表面；随后显出两道叶片形刻线。",
+      "action": "近景展示皮皮在山羊老师陪伴下用安全小木刀轻轻刻南瓜表面；随后显出两道叶片形刻线。",
+      "visual_description": "近景展示皮皮在山羊老师陪伴下用安全小木刀轻轻刻南瓜表面；随后显出两道叶片形刻线。",
+      "emotional_performance": "角色表情、视线与姿势随本镜动作自然变化；不复制图库的默认困倦/忧郁表情。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_07.png",
+      "prompt_file": "prompts/shot_07.json",
+      "reference_manifest": "references/shot_07.json",
+      "continuity_refs": "按 continuity.json 固定物件与空间；本镜承接上一镜动作结果。",
+      "state_before": "皮皮想好窗户形状，南瓜尚无孔。",
+      "state_after": "南瓜上出现两道叶片形刻线。",
+      "transition_from": 6,
+      "visual_constraints": "无画中文字或水印；只画剧本中在场角色，不新增来客；灯、蜡烛、南瓜外观及门廊方向保持连续。",
+      "environment_reference": "images/shot_03.png"
+    },
+    {
+      "id": 8,
+      "title": "南瓜完成两扇叶形小窗",
+      "text": "轻轻刻出了两扇小小的、像树叶形状一样的窗户。",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u04",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 22
+        }
+      ],
+      "paragraph_id": "p002",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "呈现完成后的两扇小叶形窗，数量准确，南瓜圆润金黄；皮皮满意地看着自己的作品。",
+      "action": "呈现完成后的两扇小叶形窗，数量准确，南瓜圆润金黄；皮皮满意地看着自己的作品。",
+      "visual_description": "呈现完成后的两扇小叶形窗，数量准确，南瓜圆润金黄；皮皮满意地看着自己的作品。",
+      "emotional_performance": "角色表情、视线与姿势随本镜动作自然变化；不复制图库的默认困倦/忧郁表情。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_08.png",
+      "prompt_file": "prompts/shot_08.json",
+      "reference_manifest": "references/shot_08.json",
+      "continuity_refs": "按 continuity.json 固定物件与空间；本镜承接上一镜动作结果。",
+      "state_before": "皮皮刚刻好两道叶片形刻线。",
+      "state_after": "同一枚南瓜上完成恰好两扇叶形小窗。",
+      "transition_from": 7,
+      "visual_constraints": "无画中文字或水印；只画剧本中在场角色，不新增来客；灯、蜡烛、南瓜外观及门廊方向保持连续。",
+      "environment_reference": "images/shot_03.png"
+    },
+    {
+      "id": 9,
+      "title": "皮皮把南瓜灯带回木屋门廊",
+      "text": "傍晚放学回到家，皮皮把这盏南瓜小灯摆在了小木屋门廊的木栏杆上，",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u01",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 31
+        }
+      ],
+      "paragraph_id": "p003",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "傍晚回家，皮皮把自制南瓜灯摆到熟悉小木屋门廊的木栏杆上；门、木栏、台阶和门前小路建立固定方位。",
+      "action": "傍晚回家，皮皮把自制南瓜灯摆到熟悉小木屋门廊的木栏杆上；门、木栏、台阶和门前小路建立固定方位。",
+      "visual_description": "傍晚回家，皮皮把自制南瓜灯摆到熟悉小木屋门廊的木栏杆上；门、木栏、台阶和门前小路建立固定方位。",
+      "emotional_performance": "角色表情、视线与姿势随本镜动作自然变化；不复制图库的默认困倦/忧郁表情。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_09.png",
+      "prompt_file": "prompts/shot_09.json",
+      "reference_manifest": "references/shot_09.json",
+      "continuity_refs": "按 continuity.json 固定物件与空间；本镜承接上一镜动作结果。",
+      "state_before": "学校手工完成，皮皮携同一盏南瓜灯回家。",
+      "state_after": "灯放在门廊木栏杆，蜡烛未点燃。",
+      "transition_from": 8,
+      "visual_constraints": "无画中文字或水印；只画剧本中在场角色，不新增来客；灯、蜡烛、南瓜外观及门廊方向保持连续。",
+      "environment_reference": null
+    },
+    {
+      "id": 10,
+      "title": "点亮里面的小蜡烛",
+      "text": "点亮了里面的暖光小蜡烛。",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u02",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 12
+        }
+      ],
+      "paragraph_id": "p003",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "近景：同一南瓜灯内部的小蜡烛已经发出微小稳定的火光，皮皮在旁安静看着；不出现火柴或点火工具。两扇叶形窗和南瓜外壳保持不变。",
+      "action": "近景：同一南瓜灯内部的小蜡烛已经发出微小稳定的火光，皮皮在旁安静看着；不出现火柴或点火工具。两扇叶形窗和南瓜外壳保持不变。",
+      "visual_description": "近景：同一南瓜灯内部的小蜡烛已经发出微小稳定的火光，皮皮在旁安静看着；不出现火柴或点火工具。两扇叶形窗和南瓜外壳保持不变。",
+      "emotional_performance": "角色表情、视线与姿势随本镜动作自然变化；不复制图库的默认困倦/忧郁表情。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_10.png",
+      "prompt_file": "prompts/shot_10.json",
+      "reference_manifest": "references/shot_10.json",
+      "continuity_refs": "按 continuity.json 固定物件与空间；本镜承接上一镜动作结果。",
+      "state_before": "同一盏南瓜灯放在栏杆上，内部未点亮。",
+      "state_after": "小蜡烛点亮，暖光即将透出。",
+      "transition_from": 9,
+      "visual_constraints": "无画中文字或水印；只画剧本中在场角色，不新增来客；灯、蜡烛、南瓜外观及门廊方向保持连续。",
+      "environment_reference": "images/shot_09.png"
+    },
+    {
+      "id": 11,
+      "title": "叶窗透出柔和橘黄光",
+      "text": "瞬间，圆圆的南瓜灯罩透出了柔和的橘黄色光芒，那两扇小小的叶子窗，",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u03",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 32
+        }
+      ],
+      "paragraph_id": "p003",
+      "characters": [],
+      "outfits": {},
+      "setting": "同一盏金黄南瓜灯亮起，暖橘光从两扇叶形小窗柔和透出；门廊布局固定。",
+      "action": "同一盏金黄南瓜灯亮起，暖橘光从两扇叶形小窗柔和透出；门廊布局固定。",
+      "visual_description": "同一盏金黄南瓜灯亮起，暖橘光从两扇叶形小窗柔和透出；门廊布局固定。",
+      "emotional_performance": "角色表情、视线与姿势随本镜动作自然变化；不复制图库的默认困倦/忧郁表情。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_11.png",
+      "prompt_file": "prompts/shot_11.json",
+      "reference_manifest": "references/shot_11.json",
+      "continuity_refs": "按 continuity.json 固定物件与空间；本镜承接上一镜动作结果。",
+      "state_before": "蜡烛刚刚点亮。",
+      "state_after": "两扇叶窗透光，光线温暖柔和。",
+      "transition_from": 10,
+      "visual_constraints": "无画中文字或水印；只画剧本中在场角色，不新增来客；灯、蜡烛、南瓜外观及门廊方向保持连续。",
+      "environment_reference": "images/shot_09.png"
+    },
+    {
+      "id": 12,
+      "title": "叶窗像温柔的眼睛",
+      "text": "就像两只温柔的眼睛，静静地望着门前的小路。",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u04",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 21
+        }
+      ],
+      "paragraph_id": "p003",
+      "characters": [],
+      "outfits": {},
+      "setting": "同一盏南瓜灯的两扇小叶窗映着橘光，像两只温柔眼睛静静望向门前小路；南瓜形状与栏杆位置不变。",
+      "action": "同一盏南瓜灯的两扇小叶窗映着橘光，像两只温柔眼睛静静望向门前小路；南瓜形状与栏杆位置不变。",
+      "visual_description": "同一盏南瓜灯的两扇小叶窗映着橘光，像两只温柔眼睛静静望向门前小路；南瓜形状与栏杆位置不变。",
+      "emotional_performance": "角色表情、视线与姿势随本镜动作自然变化；不复制图库的默认困倦/忧郁表情。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_12.png",
+      "prompt_file": "prompts/shot_12.json",
+      "reference_manifest": "references/shot_12.json",
+      "continuity_refs": "按 continuity.json 固定物件与空间；本镜承接上一镜动作结果。",
+      "state_before": "南瓜小灯发出柔和橘光。",
+      "state_after": "暖光静静望向门前小路。",
+      "transition_from": 11,
+      "visual_constraints": "无画中文字或水印；只画剧本中在场角色，不新增来客；灯、蜡烛、南瓜外观及门廊方向保持连续。",
+      "environment_reference": "images/shot_09.png"
+    },
+    {
+      "id": 13,
+      "title": "正面的光稍微晃眼睛",
+      "text": "皮皮站在门廊下看了一会儿，发现有一缕光从正面直直地照过来，稍微有一点点晃眼睛。",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u01",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 29
+        },
+        {
+          "unit_id": "p004_u02",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 10
+        }
+      ],
+      "paragraph_id": "p004",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "皮皮站在门廊下看灯，南瓜灯两扇小窗正对前方，光束直直照向皮皮脸侧；皮皮轻轻眯眼，神情只是略感晃眼，不惊慌。",
+      "action": "皮皮站在门廊下看灯，南瓜灯两扇小窗正对前方，光束直直照向皮皮脸侧；皮皮轻轻眯眼，神情只是略感晃眼，不惊慌。",
+      "visual_description": "皮皮站在门廊下看灯，南瓜灯两扇小窗正对前方，光束直直照向皮皮脸侧；皮皮轻轻眯眼，神情只是略感晃眼，不惊慌。",
+      "emotional_performance": "角色表情、视线与姿势随本镜动作自然变化；不复制图库的默认困倦/忧郁表情。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_13.png",
+      "prompt_file": "prompts/shot_13.json",
+      "reference_manifest": "references/shot_13.json",
+      "continuity_refs": "按 continuity.json 固定物件与空间；本镜承接上一镜动作结果。",
+      "state_before": "南瓜灯朝向正前方。",
+      "state_after": "皮皮发现直射的光略晃眼。",
+      "transition_from": 12,
+      "visual_constraints": "无画中文字或水印；只画剧本中在场角色，不新增来客；灯、蜡烛、南瓜外观及门廊方向保持连续。",
+      "environment_reference": "images/shot_09.png"
+    },
+    {
+      "id": 14,
+      "title": "皮皮伸爪轻轻转动南瓜灯",
+      "text": "于是，他伸出小爪子，把南瓜小灯轻轻转了一个小角度，",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u03",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 25
+        }
+      ],
+      "paragraph_id": "p004",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "皮皮伸出小爪，轻轻把栏杆上同一盏南瓜灯转过一个小角度；动作温和，灯体没有离开栏杆。",
+      "action": "皮皮伸出小爪，轻轻把栏杆上同一盏南瓜灯转过一个小角度；动作温和，灯体没有离开栏杆。",
+      "visual_description": "皮皮伸出小爪，轻轻把栏杆上同一盏南瓜灯转过一个小角度；动作温和，灯体没有离开栏杆。",
+      "emotional_performance": "角色表情、视线与姿势随本镜动作自然变化；不复制图库的默认困倦/忧郁表情。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_14.png",
+      "prompt_file": "prompts/shot_14.json",
+      "reference_manifest": "references/shot_14.json",
+      "continuity_refs": "按 continuity.json 固定物件与空间；本镜承接上一镜动作结果。",
+      "state_before": "灯的叶形窗口正朝前方。",
+      "state_after": "南瓜灯角度略微改变。",
+      "transition_from": 13,
+      "visual_constraints": "无画中文字或水印；只画剧本中在场角色，不新增来客；灯、蜡烛、南瓜外观及门廊方向保持连续。",
+      "environment_reference": "images/shot_09.png"
+    },
+    {
+      "id": 15,
+      "title": "两扇叶窗转向门廊台阶",
+      "text": "让那两扇叶子窗朝着门廊的台阶。",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u04",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 15
+        }
+      ],
+      "paragraph_id": "p004",
+      "characters": [],
+      "outfits": {},
+      "setting": "灯上的两扇叶形小窗现在朝向门廊台阶，南瓜灯仍在原栏杆位置，暖光方向随之改变。",
+      "action": "灯上的两扇叶形小窗现在朝向门廊台阶，南瓜灯仍在原栏杆位置，暖光方向随之改变。",
+      "visual_description": "灯上的两扇叶形小窗现在朝向门廊台阶，南瓜灯仍在原栏杆位置，暖光方向随之改变。",
+      "emotional_performance": "角色表情、视线与姿势随本镜动作自然变化；不复制图库的默认困倦/忧郁表情。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_15.png",
+      "prompt_file": "prompts/shot_15.json",
+      "reference_manifest": "references/shot_15.json",
+      "continuity_refs": "按 continuity.json 固定物件与空间；本镜承接上一镜动作结果。",
+      "state_before": "皮皮刚转动南瓜灯。",
+      "state_after": "叶形小窗朝向台阶。",
+      "transition_from": 14,
+      "visual_constraints": "无画中文字或水印；只画剧本中在场角色，不新增来客；灯、蜡烛、南瓜外观及门廊方向保持连续。",
+      "environment_reference": "images/shot_09.png"
+    },
+    {
+      "id": 16,
+      "title": "暖光铺在木门槛与台阶上",
+      "text": "这样一来，暖光刚好铺在木头门槛和台阶上，既能照亮回家的路，",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u05",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "paragraph_id": "p004",
+      "characters": [],
+      "outfits": {},
+      "setting": "从门廊侧面看，南瓜暖光平稳铺在木门槛和几级木台阶上，木纹清楚可见。",
+      "action": "从门廊侧面看，南瓜暖光平稳铺在木门槛和几级木台阶上，木纹清楚可见。",
+      "visual_description": "从门廊侧面看，南瓜暖光平稳铺在木门槛和几级木台阶上，木纹清楚可见。",
+      "emotional_performance": "角色表情、视线与姿势随本镜动作自然变化；不复制图库的默认困倦/忧郁表情。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_16.png",
+      "prompt_file": "prompts/shot_16.json",
+      "reference_manifest": "references/shot_16.json",
+      "continuity_refs": "按 continuity.json 固定物件与空间；本镜承接上一镜动作结果。",
+      "state_before": "南瓜灯已转向台阶。",
+      "state_after": "门槛和台阶被暖光照亮。",
+      "transition_from": 15,
+      "visual_constraints": "无画中文字或水印；只画剧本中在场角色，不新增来客；灯、蜡烛、南瓜外观及门廊方向保持连续。",
+      "environment_reference": "images/shot_09.png"
+    },
+    {
+      "id": 17,
+      "title": "小路亮起而森林仍安静",
+      "text": "又不会直直地刺痛眼睛。",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u06",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 11
+        }
+      ],
+      "paragraph_id": "p004",
+      "characters": [],
+      "outfits": {},
+      "setting": "近处回家小路微亮，皮皮脸不再被直射；森林深处仍保留柔和夜色，不被照成白天。",
+      "action": "近处回家小路微亮，皮皮脸不再被直射；森林深处仍保留柔和夜色，不被照成白天。",
+      "visual_description": "近处回家小路微亮，皮皮脸不再被直射；森林深处仍保留柔和夜色，不被照成白天。",
+      "emotional_performance": "角色表情、视线与姿势随本镜动作自然变化；不复制图库的默认困倦/忧郁表情。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_17.png",
+      "prompt_file": "prompts/shot_17.json",
+      "reference_manifest": "references/shot_17.json",
+      "continuity_refs": "按 continuity.json 固定物件与空间；本镜承接上一镜动作结果。",
+      "state_before": "门槛和台阶被暖光照亮。",
+      "state_after": "脚下路径可见，周围仍保留夜色。",
+      "transition_from": 16,
+      "visual_constraints": "无画中文字或水印；只画剧本中在场角色，不新增来客；灯、蜡烛、南瓜外观及门廊方向保持连续。",
+      "environment_reference": "images/shot_09.png"
+    },
+    {
+      "id": 18,
+      "title": "金黄落叶停在灯旁",
+      "text": "这时，一片金黄的落叶被晚风吹过来，刚好停在了南瓜小灯的旁边。",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u01",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 30
+        }
+      ],
+      "paragraph_id": "p005",
+      "characters": [],
+      "outfits": {},
+      "setting": "一片金黄色秋叶乘着晚风飘落，轻轻停在南瓜灯旁的木栏杆上；南瓜灯保持同一位置和朝向。",
+      "action": "一片金黄色秋叶乘着晚风飘落，轻轻停在南瓜灯旁的木栏杆上；南瓜灯保持同一位置和朝向。",
+      "visual_description": "一片金黄色秋叶乘着晚风飘落，轻轻停在南瓜灯旁的木栏杆上；南瓜灯保持同一位置和朝向。",
+      "emotional_performance": "角色表情、视线与姿势随本镜动作自然变化；不复制图库的默认困倦/忧郁表情。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_18.png",
+      "prompt_file": "prompts/shot_18.json",
+      "reference_manifest": "references/shot_18.json",
+      "continuity_refs": "按 continuity.json 固定物件与空间；本镜承接上一镜动作结果。",
+      "state_before": "木栏杆旁南瓜灯亮着。",
+      "state_after": "一片秋叶停在灯旁。",
+      "transition_from": 17,
+      "visual_constraints": "无画中文字或水印；只画剧本中在场角色，不新增来客；灯、蜡烛、南瓜外观及门廊方向保持连续。",
+      "environment_reference": "images/shot_09.png"
+    },
+    {
+      "id": 19,
+      "title": "灯光照亮落叶细细叶脉",
+      "text": "柔和的灯光照在落叶上，把叶子上每一根细细的叶脉都照得清清楚楚，",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u02",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 31
+        }
+      ],
+      "paragraph_id": "p005",
+      "characters": [],
+      "outfits": {},
+      "setting": "落叶近景，南瓜灯的暖光照出每一道纤细叶脉，像夜里的一小块阳光；同一片叶子靠近灯侧，木栏杆与背景柔和虚化。",
+      "action": "落叶近景，南瓜灯的暖光照出每一道纤细叶脉，像夜里的一小块阳光；同一片叶子靠近灯侧，木栏杆与背景柔和虚化。",
+      "visual_description": "落叶近景，南瓜灯的暖光照出每一道纤细叶脉，像夜里的一小块阳光；同一片叶子靠近灯侧，木栏杆与背景柔和虚化。",
+      "emotional_performance": "角色表情、视线与姿势随本镜动作自然变化；不复制图库的默认困倦/忧郁表情。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_19.png",
+      "prompt_file": "prompts/shot_19.json",
+      "reference_manifest": "references/shot_19.json",
+      "continuity_refs": "按 continuity.json 固定物件与空间；本镜承接上一镜动作结果。",
+      "state_before": "金黄秋叶停在灯旁。",
+      "state_after": "叶脉在柔光中清楚可见。",
+      "transition_from": 18,
+      "visual_constraints": "无画中文字或水印；只画剧本中在场角色，不新增来客；灯、蜡烛、南瓜外观及门廊方向保持连续。",
+      "environment_reference": "images/shot_09.png"
+    },
+    {
+      "id": 20,
+      "title": "叶子也借到一小块暖阳",
+      "text": "好像这片秋叶也在夜晚借到了一小块温暖的阳光。",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u03",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 22
+        }
+      ],
+      "paragraph_id": "p005",
+      "characters": [],
+      "outfits": {},
+      "setting": "同一片叶子在南瓜灯旁被金色光温柔包住，背景是安静夜色；画面表现温暖而不出现拟人五官。",
+      "action": "同一片叶子在南瓜灯旁被金色光温柔包住，背景是安静夜色；画面表现温暖而不出现拟人五官。",
+      "visual_description": "同一片叶子在南瓜灯旁被金色光温柔包住，背景是安静夜色；画面表现温暖而不出现拟人五官。",
+      "emotional_performance": "角色表情、视线与姿势随本镜动作自然变化；不复制图库的默认困倦/忧郁表情。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_20.png",
+      "prompt_file": "prompts/shot_20.json",
+      "reference_manifest": "references/shot_20.json",
+      "continuity_refs": "按 continuity.json 固定物件与空间；本镜承接上一镜动作结果。",
+      "state_before": "灯照亮落叶叶脉。",
+      "state_after": "落叶像在夜里借到一小片暖阳。",
+      "transition_from": 19,
+      "visual_constraints": "无画中文字或水印；只画剧本中在场角色，不新增来客；灯、蜡烛、南瓜外观及门廊方向保持连续。",
+      "environment_reference": "images/shot_09.png"
+    },
+    {
+      "id": 21,
+      "title": "皮皮看着小灯没有开大吊灯",
+      "text": "皮皮原本还想把门廊顶上的大吊灯也打开，但看了看这盏安静的南瓜小灯，他就打消了这个念头。",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u01",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 33
+        },
+        {
+          "unit_id": "p006_u02",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 10
+        }
+      ],
+      "paragraph_id": "p006",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "皮皮抬眼望向门廊顶上的大吊灯，随后低头看那盏安静发光的南瓜灯；吊灯仍未开启，皮皮神情思考后释然。",
+      "action": "皮皮抬眼望向门廊顶上的大吊灯，随后低头看那盏安静发光的南瓜灯；吊灯仍未开启，皮皮神情思考后释然。",
+      "visual_description": "皮皮抬眼望向门廊顶上的大吊灯，随后低头看那盏安静发光的南瓜灯；吊灯仍未开启，皮皮神情思考后释然。",
+      "emotional_performance": "角色表情、视线与姿势随本镜动作自然变化；不复制图库的默认困倦/忧郁表情。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_21.png",
+      "prompt_file": "prompts/shot_21.json",
+      "reference_manifest": "references/shot_21.json",
+      "continuity_refs": "按 continuity.json 固定物件与空间；本镜承接上一镜动作结果。",
+      "state_before": "南瓜灯安静照着门廊，顶灯关闭。",
+      "state_after": "皮皮决定不开顶灯。",
+      "transition_from": 20,
+      "visual_constraints": "无画中文字或水印；只画剧本中在场角色，不新增来客；灯、蜡烛、南瓜外观及门廊方向保持连续。",
+      "environment_reference": "images/shot_09.png"
+    },
+    {
+      "id": 22,
+      "title": "门槛台阶和近处小路刚刚好",
+      "text": "门槛看得见，台阶看得见，门前小路的近处也已经亮得刚刚好，",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u03",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 28
+        }
+      ],
+      "paragraph_id": "p006",
+      "characters": [],
+      "outfits": {},
+      "setting": "视角从门廊向外，暖光刚好照到门槛、台阶及小路近处，森林仍保留深蓝夜色；不过亮、不过暗。",
+      "action": "视角从门廊向外，暖光刚好照到门槛、台阶及小路近处，森林仍保留深蓝夜色；不过亮、不过暗。",
+      "visual_description": "视角从门廊向外，暖光刚好照到门槛、台阶及小路近处，森林仍保留深蓝夜色；不过亮、不过暗。",
+      "emotional_performance": "角色表情、视线与姿势随本镜动作自然变化；不复制图库的默认困倦/忧郁表情。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_22.png",
+      "prompt_file": "prompts/shot_22.json",
+      "reference_manifest": "references/shot_22.json",
+      "continuity_refs": "按 continuity.json 固定物件与空间；本镜承接上一镜动作结果。",
+      "state_before": "顶灯关闭，南瓜灯继续照明。",
+      "state_after": "近处回家路径可见。",
+      "transition_from": 21,
+      "visual_constraints": "无画中文字或水印；只画剧本中在场角色，不新增来客；灯、蜡烛、南瓜外观及门廊方向保持连续。",
+      "environment_reference": "images/shot_09.png"
+    },
+    {
+      "id": 23,
+      "title": "不必把森林照得像白天",
+      "text": "根本不需要再点亮别的灯，把黑漆漆的森林照得像白天一样亮了。",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u04",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "paragraph_id": "p006",
+      "characters": [],
+      "outfits": {},
+      "setting": "门廊外景：小范围暖灯与周围安静的秋夜形成对比，远处森林树影留在暗蓝色中，不出现另一盏灯或额外人物。",
+      "action": "门廊外景：小范围暖灯与周围安静的秋夜形成对比，远处森林树影留在暗蓝色中，不出现另一盏灯或额外人物。",
+      "visual_description": "门廊外景：小范围暖灯与周围安静的秋夜形成对比，远处森林树影留在暗蓝色中，不出现另一盏灯或额外人物。",
+      "emotional_performance": "角色表情、视线与姿势随本镜动作自然变化；不复制图库的默认困倦/忧郁表情。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_23.png",
+      "prompt_file": "prompts/shot_23.json",
+      "reference_manifest": "references/shot_23.json",
+      "continuity_refs": "按 continuity.json 固定物件与空间；本镜承接上一镜动作结果。",
+      "state_before": "近处路径已被照亮。",
+      "state_after": "接受夜色，无需照亮整片森林。",
+      "transition_from": 22,
+      "visual_constraints": "无画中文字或水印；只画剧本中在场角色，不新增来客；灯、蜡烛、南瓜外观及门廊方向保持连续。",
+      "environment_reference": "images/shot_09.png"
+    },
+    {
+      "id": 24,
+      "title": "皮皮摆稳门廊下的小木凳",
+      "text": "皮皮把门廊下的小木凳摆稳，让晚归的脚步可以在这里慢慢停下来。",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u01",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 30
+        }
+      ],
+      "paragraph_id": "p007",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "皮皮把一只低矮结实的小木凳摆在门廊墙边，远离台阶通道；南瓜灯仍在栏杆上照路。",
+      "action": "皮皮把一只低矮结实的小木凳摆在门廊墙边，远离台阶通道；南瓜灯仍在栏杆上照路。",
+      "visual_description": "皮皮把一只低矮结实的小木凳摆在门廊墙边，远离台阶通道；南瓜灯仍在栏杆上照路。",
+      "emotional_performance": "角色表情、视线与姿势随本镜动作自然变化；不复制图库的默认困倦/忧郁表情。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_24.png",
+      "prompt_file": "prompts/shot_24.json",
+      "reference_manifest": "references/shot_24.json",
+      "continuity_refs": "按 continuity.json 固定物件与空间；本镜承接上一镜动作结果。",
+      "state_before": "门槛和近处路径被南瓜灯照亮。",
+      "state_after": "小木凳摆稳，通行空间未挡住。",
+      "transition_from": 23,
+      "visual_constraints": "无画中文字或水印；只画剧本中在场角色，不新增来客；灯、蜡烛、南瓜外观及门廊方向保持连续。",
+      "environment_reference": "images/shot_09.png"
+    },
+    {
+      "id": 25,
+      "title": "进屋后隔窗回头看灯",
+      "text": "推门走进屋里后，皮皮隔着窗户回头看了一眼。",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u02",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 21
+        }
+      ],
+      "paragraph_id": "p007",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "皮皮推门进屋后，从窗户回头看门廊；窗框内可见外面亮着的同一盏南瓜灯，门廊栏杆与台阶方位相同。",
+      "action": "皮皮推门进屋后，从窗户回头看门廊；窗框内可见外面亮着的同一盏南瓜灯，门廊栏杆与台阶方位相同。",
+      "visual_description": "皮皮推门进屋后，从窗户回头看门廊；窗框内可见外面亮着的同一盏南瓜灯，门廊栏杆与台阶方位相同。",
+      "emotional_performance": "角色表情、视线与姿势随本镜动作自然变化；不复制图库的默认困倦/忧郁表情。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_25.png",
+      "prompt_file": "prompts/shot_25.json",
+      "reference_manifest": "references/shot_25.json",
+      "continuity_refs": "按 continuity.json 固定物件与空间；本镜承接上一镜动作结果。",
+      "state_before": "皮皮在门廊摆稳木凳。",
+      "state_after": "皮皮进入室内，隔窗回望。",
+      "transition_from": 24,
+      "visual_constraints": "无画中文字或水印；只画剧本中在场角色，不新增来客；灯、蜡烛、南瓜外观及门廊方向保持连续。",
+      "environment_reference": "images/shot_09.png"
+    },
+    {
+      "id": 26,
+      "title": "门廊上的南瓜小灯安静发亮",
+      "text": "门廊上的南瓜小灯正安安静静地亮着，没有喧闹，也没有催促谁赶紧来做客，",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u03",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 34
+        }
+      ],
+      "paragraph_id": "p007",
+      "characters": [],
+      "outfits": {},
+      "setting": "从屋内窗边望向门廊，南瓜小灯安静地照亮小屋入口和门槛；没有来客或等待动作。",
+      "action": "从屋内窗边望向门廊，南瓜小灯安静地照亮小屋入口和门槛；没有来客或等待动作。",
+      "visual_description": "从屋内窗边望向门廊，南瓜小灯安静地照亮小屋入口和门槛；没有来客或等待动作。",
+      "emotional_performance": "角色表情、视线与姿势随本镜动作自然变化；不复制图库的默认困倦/忧郁表情。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_26.png",
+      "prompt_file": "prompts/shot_26.json",
+      "reference_manifest": "references/shot_26.json",
+      "continuity_refs": "按 continuity.json 固定物件与空间；本镜承接上一镜动作结果。",
+      "state_before": "皮皮在屋内隔窗回望。",
+      "state_after": "南瓜小灯继续温暖照明。",
+      "transition_from": 25,
+      "visual_constraints": "无画中文字或水印；只画剧本中在场角色，不新增来客；灯、蜡烛、南瓜外观及门廊方向保持连续。",
+      "environment_reference": "images/shot_09.png"
+    },
+    {
+      "id": 27,
+      "title": "暖光温柔地守着小屋入口",
+      "text": "只是温柔地守着小木屋的入口。",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u04",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 14
+        }
+      ],
+      "paragraph_id": "p007",
+      "characters": [],
+      "outfits": {},
+      "setting": "同一门廊夜景，南瓜灯没有喧闹也没有催促，只静静照亮木屋入口；门廊和灯的位置保持不变。",
+      "action": "同一门廊夜景，南瓜灯没有喧闹也没有催促，只静静照亮木屋入口；门廊和灯的位置保持不变。",
+      "visual_description": "同一门廊夜景，南瓜灯没有喧闹也没有催促，只静静照亮木屋入口；门廊和灯的位置保持不变。",
+      "emotional_performance": "角色表情、视线与姿势随本镜动作自然变化；不复制图库的默认困倦/忧郁表情。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_27.png",
+      "prompt_file": "prompts/shot_27.json",
+      "reference_manifest": "references/shot_27.json",
+      "continuity_refs": "按 continuity.json 固定物件与空间；本镜承接上一镜动作结果。",
+      "state_before": "南瓜小灯在门廊安静发亮。",
+      "state_after": "暖光温柔地守着入口。",
+      "transition_from": 26,
+      "visual_constraints": "无画中文字或水印；只画剧本中在场角色，不新增来客；灯、蜡烛、南瓜外观及门廊方向保持连续。",
+      "environment_reference": "images/shot_09.png"
+    },
+    {
+      "id": 28,
+      "title": "洗漱后皮皮调暗床头台灯",
+      "text": "洗漱完毕，皮皮爬上小床，把床头那盏熟悉的台灯也调暗了一点。",
+      "source_ranges": [
+        {
+          "unit_id": "p008_u01",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "paragraph_id": "p008",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜间卧室，皮皮爬上小床，伸爪把熟悉的床头台灯调暗；床、枕头、毛毯和窗户形成固定睡前布局。",
+      "action": "夜间卧室，皮皮爬上小床，伸爪把熟悉的床头台灯调暗；床、枕头、毛毯和窗户形成固定睡前布局。",
+      "visual_description": "夜间卧室，皮皮爬上小床，伸爪把熟悉的床头台灯调暗；床、枕头、毛毯和窗户形成固定睡前布局。",
+      "emotional_performance": "角色表情、视线与姿势随本镜动作自然变化；不复制图库的默认困倦/忧郁表情。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_28.png",
+      "prompt_file": "prompts/shot_28.json",
+      "reference_manifest": "references/shot_28.json",
+      "continuity_refs": "按 continuity.json 固定物件与空间；本镜承接上一镜动作结果。",
+      "state_before": "皮皮已进屋，卧室灯光正常。",
+      "state_after": "皮皮上床并调低台灯亮度。",
+      "transition_from": 27,
+      "visual_constraints": "无画中文字或水印；只画剧本中在场角色，不新增来客；灯、蜡烛、南瓜外观及门廊方向保持连续。",
+      "environment_reference": null
+    },
+    {
+      "id": 29,
+      "title": "暖色留在毛毯上",
+      "text": "暖融融的颜色留在毛毯上，整个房间慢慢变得像南瓜灯一样柔和。",
+      "source_ranges": [
+        {
+          "unit_id": "p008_u02",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "paragraph_id": "p008",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "床头台灯的暖色轻轻落在毛毯上，房间逐渐安静柔和；窗外是深蓝夜色，保留卧室同一布局。",
+      "action": "床头台灯的暖色轻轻落在毛毯上，房间逐渐安静柔和；窗外是深蓝夜色，保留卧室同一布局。",
+      "visual_description": "床头台灯的暖色轻轻落在毛毯上，房间逐渐安静柔和；窗外是深蓝夜色，保留卧室同一布局。",
+      "emotional_performance": "角色表情、视线与姿势随本镜动作自然变化；不复制图库的默认困倦/忧郁表情。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_29.png",
+      "prompt_file": "prompts/shot_29.json",
+      "reference_manifest": "references/shot_29.json",
+      "continuity_refs": "按 continuity.json 固定物件与空间；本镜承接上一镜动作结果。",
+      "state_before": "台灯已调暗。",
+      "state_after": "毛毯和房间笼罩温和暖光。",
+      "transition_from": 28,
+      "visual_constraints": "无画中文字或水印；只画剧本中在场角色，不新增来客；灯、蜡烛、南瓜外观及门廊方向保持连续。",
+      "environment_reference": "images/shot_28.png"
+    },
+    {
+      "id": 30,
+      "title": "皮皮放松长耳朵闭上眼睛",
+      "text": "皮皮放松长耳朵，闭上眼睛。",
+      "source_ranges": [
+        {
+          "unit_id": "p008_u03",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 13
+        }
+      ],
+      "paragraph_id": "p008",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "皮皮靠着大枕头，长耳朵松松落下，眼睛慢慢合上；表情安宁，不复制图库默认困倦或忧郁脸。",
+      "action": "皮皮靠着大枕头，长耳朵松松落下，眼睛慢慢合上；表情安宁，不复制图库默认困倦或忧郁脸。",
+      "visual_description": "皮皮靠着大枕头，长耳朵松松落下，眼睛慢慢合上；表情安宁，不复制图库默认困倦或忧郁脸。",
+      "emotional_performance": "角色表情、视线与姿势随本镜动作自然变化；不复制图库的默认困倦/忧郁表情。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_30.png",
+      "prompt_file": "prompts/shot_30.json",
+      "reference_manifest": "references/shot_30.json",
+      "continuity_refs": "按 continuity.json 固定物件与空间；本镜承接上一镜动作结果。",
+      "state_before": "皮皮已在床上，暖光留在毛毯。",
+      "state_after": "皮皮放松长耳朵并闭眼。",
+      "transition_from": 29,
+      "visual_constraints": "无画中文字或水印；只画剧本中在场角色，不新增来客；灯、蜡烛、南瓜外观及门廊方向保持连续。",
+      "environment_reference": "images/shot_28.png"
+    },
+    {
+      "id": 31,
+      "title": "夜里舒服的灯光陪伴好梦",
+      "text": "原来在夜晚，一点点舒服的亮光，就已经足够陪伴一个好梦了。",
+      "source_ranges": [
+        {
+          "unit_id": "p008_u04",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 28
+        }
+      ],
+      "paragraph_id": "p008",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "安静卧室里，一点舒服的暖光在毛毯旁轻轻停留，皮皮依偎大枕头安睡。",
+      "action": "安静卧室里，一点舒服的暖光在毛毯旁轻轻停留，皮皮依偎大枕头安睡。",
+      "visual_description": "安静卧室里，一点舒服的暖光在毛毯旁轻轻停留，皮皮依偎大枕头安睡。",
+      "emotional_performance": "角色表情、视线与姿势随本镜动作自然变化；不复制图库的默认困倦/忧郁表情。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_31.png",
+      "prompt_file": "prompts/shot_31.json",
+      "reference_manifest": "references/shot_31.json",
+      "continuity_refs": "按 continuity.json 固定物件与空间；本镜承接上一镜动作结果。",
+      "state_before": "皮皮已放松闭眼。",
+      "state_after": "柔和灯光陪伴好梦。",
+      "transition_from": 30,
+      "visual_constraints": "无画中文字或水印；只画剧本中在场角色，不新增来客；灯、蜡烛、南瓜外观及门廊方向保持连续。",
+      "environment_reference": "images/shot_28.png"
+    },
+    {
+      "id": 32,
+      "title": "一点点舒服的光陪着好梦",
+      "text": "小朋友，今晚也把舒服的暖意留在身边吧。",
+      "source_ranges": [
+        {
+          "unit_id": "p009_u01",
+          "paragraph_id": "p009",
+          "start_char": 0,
+          "end_char": 19
+        }
+      ],
+      "paragraph_id": "p009",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "安静卧室中，皮皮在柔软床上侧身休息，枕头与毛毯自然承托；床头台灯是小小暖光源。",
+      "action": "安静卧室中，皮皮在柔软床上侧身休息，枕头与毛毯自然承托；床头台灯是小小暖光源。",
+      "visual_description": "安静卧室中，皮皮在柔软床上侧身休息，枕头与毛毯自然承托；床头台灯是小小暖光源。",
+      "emotional_performance": "角色表情、视线与姿势随本镜动作自然变化；不复制图库的默认困倦/忧郁表情。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_32.png",
+      "prompt_file": "prompts/shot_32.json",
+      "reference_manifest": "references/shot_32.json",
+      "continuity_refs": "按 continuity.json 固定物件与空间；本镜承接上一镜动作结果。",
+      "state_before": "皮皮闭上眼睛。",
+      "state_after": "舒适的光陪伴入睡。",
+      "transition_from": 31,
+      "visual_constraints": "无画中文字或水印；只画剧本中在场角色，不新增来客；灯、蜡烛、南瓜外观及门廊方向保持连续。",
+      "environment_reference": "images/shot_28.png"
+    },
+    {
+      "id": 33,
+      "title": "不必把每个角落照亮",
+      "text": "不用让每个角落都亮堂堂地忙起来，",
+      "source_ranges": [
+        {
+          "unit_id": "p009_u02",
+          "paragraph_id": "p009",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "paragraph_id": "p009",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "温暖卧室宽景，皮皮在床上安心闭目，只有床头一盏柔和灯光，房间边角保留深夜蓝影。",
+      "action": "温暖卧室宽景，皮皮在床上安心闭目，只有床头一盏柔和灯光，房间边角保留深夜蓝影。",
+      "visual_description": "温暖卧室宽景，皮皮在床上安心闭目，只有床头一盏柔和灯光，房间边角保留深夜蓝影。",
+      "emotional_performance": "角色表情、视线与姿势随本镜动作自然变化；不复制图库的默认困倦/忧郁表情。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_33.png",
+      "prompt_file": "prompts/shot_33.json",
+      "reference_manifest": "references/shot_33.json",
+      "continuity_refs": "卧室灯光低亮，房间其它角落保持夜色。",
+      "state_before": "皮皮准备休息，床头灯已调暗。",
+      "state_after": "房间保留一小片暖光，不再把每个角落照亮。",
+      "transition_from": 32,
+      "visual_constraints": "无画中文字或水印；只画剧本中在场角色，不新增来客；灯、蜡烛、南瓜外观及门廊方向保持连续。",
+      "environment_reference": "images/shot_28.png"
+    },
+    {
+      "id": 34,
+      "title": "轻轻闭上眼睛，晚安",
+      "text": "轻轻闭上眼睛，晚安。",
+      "source_ranges": [
+        {
+          "unit_id": "p009_u02",
+          "paragraph_id": "p009",
+          "start_char": 16,
+          "end_char": 26
+        }
+      ],
+      "paragraph_id": "p009",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "同一卧室的安静收尾宽景，皮皮在软床上闭眼安睡，窗外仍是秋夜，床头灯低亮。",
+      "action": "同一卧室的安静收尾宽景，皮皮在软床上闭眼安睡，窗外仍是秋夜，床头灯低亮。",
+      "visual_description": "同一卧室的安静收尾宽景，皮皮在软床上闭眼安睡，窗外仍是秋夜，床头灯低亮。",
+      "emotional_performance": "角色表情、视线与姿势随本镜动作自然变化；不复制图库的默认困倦/忧郁表情。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_34.png",
+      "prompt_file": "prompts/shot_34.json",
+      "reference_manifest": "references/shot_34.json",
+      "continuity_refs": "同一床、毛毯、睡帽和低亮台灯，保持安睡状态。",
+      "state_before": "皮皮已在床上安静闭眼，卧室边角留有夜色。",
+      "state_after": "最后8秒保持安睡画面，南瓜灯故事以安静晚安结束。",
+      "transition_from": 33,
+      "visual_constraints": "无画中文字或水印；只画剧本中在场角色，不新增来客；灯、蜡烛、南瓜外观及门廊方向保持连续。",
+      "environment_reference": "images/shot_28.png"
+    }
+  ],
+  "shot_count": 35
+}

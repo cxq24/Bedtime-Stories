@@ -168,6 +168,27 @@
   },
   "recent_productions": [
     {
+      "id": "ep034",
+      "version": "v001",
+      "title": "南瓜小灯的窗户",
+      "script_version": "v5",
+      "duration_s": 297.12,
+      "shots": 35,
+      "hanzi": 784,
+      "subtitle_cues": 137,
+      "status": "technical_passed_human_watch_pending",
+      "record": "episodes/ep034/v001/RECORD.md",
+      "delivery": "Outputs/2026-11-20/ep034-v001/README.md",
+      "published": false,
+      "user_acceptance": "pending",
+      "github_sync": "sync_in_progress",
+      "technical_checks": "passed",
+      "continuity_preflight": "passed",
+      "continuity_image_review": "passed_with_minor_overhead_lamp_note",
+      "human_full_watch": "not_certified",
+      "phone_subtitle_review": "passed_sampled_opening_middle_ending"
+    },
+    {
       "id": "ep032",
       "version": "v001",
       "title": "松果转身坐好了",

@@ -1,0 +1,10 @@
+{
+  "image": "assets/pipi_pumpkin_anchor.png",
+  "source": "copied from images/shot_08.png as episode-specific continuity anchor",
+  "sha256": "83ee8909727457e3362ac5b47ec6b2eb3db3c6b9ca035df5e981d16e3df02765",
+  "size": [
+    941,
+    1672
+  ],
+  "review_status": "continuity_anchor"
+}

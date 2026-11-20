@@ -1,0 +1,41 @@
+{
+  "text": "皮皮放松长耳朵，闭上眼睛。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "c9ca1bb9ae15422524f732c9e208cd425cddfb004b8b1b8a245c4f06c66c63e6",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5577080,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 5577080,
+      "text": "放松"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13000000,
+      "duration": 3269160,
+      "text": "长"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16269160,
+      "duration": 7500000,
+      "text": "耳朵"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27230830,
+      "duration": 13269160,
+      "text": "闭上眼睛"
+    }
+  ]
+}

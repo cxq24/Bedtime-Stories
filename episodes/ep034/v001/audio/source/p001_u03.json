@@ -1,0 +1,77 @@
+{
+  "text": "每个小朋友都分到了一个圆滚滚、金灿灿的小南瓜。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "f9f396ed8e2d683057057daf2b95acc04049ebf887178c0afef1115654a59f90",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4807500,
+      "text": "每个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6269160,
+      "duration": 10961660,
+      "text": "小朋友"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18769160,
+      "duration": 2884580,
+      "text": "都"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21653750,
+      "duration": 5384580,
+      "text": "分到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27038330,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28384580,
+      "duration": 2884580,
+      "text": "一个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31653750,
+      "duration": 10769160,
+      "text": "圆滚滚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46846250,
+      "duration": 9230830,
+      "text": "金灿灿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56077080,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57422910,
+      "duration": 3077080,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60500000,
+      "duration": 7500000,
+      "text": "南瓜"
+    }
+  ]
+}

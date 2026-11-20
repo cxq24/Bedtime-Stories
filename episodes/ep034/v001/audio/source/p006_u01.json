@@ -1,0 +1,155 @@
+{
+  "text": "皮皮原本还想把门廊顶上的大吊灯也打开，但看了看这盏安静的南瓜小灯，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "b363735b2dbfb6b731f1b6a1bb183fe973bd43abaac3de81bdc8f5fb3d02f27b",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5384580,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 6730830,
+      "text": "原本"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13961660,
+      "duration": 2884580,
+      "text": "还"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16846250,
+      "duration": 2884580,
+      "text": "想"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19922910,
+      "duration": 2115410,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22422910,
+      "duration": 5192500,
+      "text": "门廊"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27807500,
+      "duration": 2692500,
+      "text": "顶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30500000,
+      "duration": 2884580,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33384580,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35115410,
+      "duration": 2307500,
+      "text": "大"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37422910,
+      "duration": 5961660,
+      "text": "吊灯"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43769160,
+      "duration": 1922910,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45884580,
+      "duration": 7307500,
+      "text": "打开"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59538330,
+      "duration": 2115410,
+      "text": "但"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61846250,
+      "duration": 2884580,
+      "text": "看"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64730830,
+      "duration": 1538330,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 66269160,
+      "duration": 3077080,
+      "text": "看"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 69538330,
+      "duration": 1922910,
+      "text": "这"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 71461660,
+      "duration": 2692500,
+      "text": "盏"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 74538330,
+      "duration": 5577080,
+      "text": "安静"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 80115410,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 81846250,
+      "duration": 5577080,
+      "text": "南瓜"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 87615410,
+      "duration": 3653750,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 91269160,
+      "duration": 4230830,
+      "text": "灯"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "images/shot_30.png",
+  "source": "OpenAI image_gen edit",
+  "generated_on": "2026-11-20",
+  "loaded_references": [
+    "images/shot_30.png (pre-edit source)"
+  ],
+  "sha256": "bff55ac6bb0d732f7e36c5849929ff8dc31d4bae296a88aae4e7cc0dd9e0294b",
+  "size": [
+    941,
+    1672
+  ],
+  "edit": "removed extra carrot plush absent from ep034 script",
+  "review_status": "visually_reviewed_full_35_shot_contact_sheet"
+}

@@ -1,0 +1,107 @@
+{
+  "text": "天黑得早了，一盏南瓜小灯怎样照亮熟悉的窗边呢？",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "36d366b5f3e9d09def14192135af6d5529851f61d9cc1bbd5245cc1f7d6460d8",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5961660,
+      "text": "天黑"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7230830,
+      "duration": 1346250,
+      "text": "得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8769160,
+      "duration": 3653750,
+      "text": "早"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12422910,
+      "duration": 3653750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20884580,
+      "duration": 2307500,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23192500,
+      "duration": 2692500,
+      "text": "盏"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26269160,
+      "duration": 5000000,
+      "text": "南瓜"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31461660,
+      "duration": 3461250,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34922910,
+      "duration": 4422910,
+      "text": "灯"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40884580,
+      "duration": 5769160,
+      "text": "怎样"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46846250,
+      "duration": 5000000,
+      "text": "照亮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52230830,
+      "duration": 4615410,
+      "text": "熟悉"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56846250,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58192500,
+      "duration": 3461250,
+      "text": "窗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61653750,
+      "duration": 3077080,
+      "text": "边"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64730830,
+      "duration": 3461660,
+      "text": "呢"
+    }
+  ]
+}

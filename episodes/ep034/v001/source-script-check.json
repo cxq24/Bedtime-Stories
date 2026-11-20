@@ -1,0 +1,11 @@
+{
+  "episode": "ep034",
+  "script_version": "v5",
+  "source_file": "02_100集剧本/用户长稿v5/结构化JSON/ep034.json",
+  "source_sha256": "a4a757187e8dd551f483ad7ee5a1184d9ef909d3a85256c2c0e0170f3db3085d",
+  "paragraphs": 10,
+  "spoken_hanzi": 784,
+  "narration_coverage": "100_percent_after_ignoring_editorial_line_breaks",
+  "p000_included": true,
+  "script_snapshot": "script.snapshot.json"
+}

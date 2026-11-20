@@ -1,0 +1,10 @@
+{
+  "image": "assets/tuantuan_pumpkin_anchor.png",
+  "source": "copied from images/shot_05.png as episode-specific continuity anchor",
+  "sha256": "921718ddea99984d67a76fd5a3c8a2fdfee127162488a926347fed6c56304897",
+  "size": [
+    941,
+    1671
+  ],
+  "review_status": "continuity_anchor"
+}

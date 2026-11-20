@@ -1,0 +1,274 @@
+{
+  "hanzi": 784,
+  "cues": 137,
+  "pinyin_coverage": 1.0,
+  "context_review": "completed_against_episode_text",
+  "target_font_px": {
+    "hanzi": 76,
+    "pinyin": 48
+  },
+  "libass_fontsize_calibration": {
+    "hanzi": 114,
+    "pinyin": 66,
+    "reason": "match actual rasterized glyph scale to bundled-font 76px/48px reference; libass normalizes font metrics"
+  },
+  "audio_pronunciation_listen_review": "not_certified",
+  "overrides": [
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "小朋友们，准备好听故事了吗？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "每个小朋友都分到了一个圆滚滚、金灿灿的小南瓜。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "每个小朋友都分到了一个圆滚滚、金灿灿的小南瓜。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "每个小朋友都分到了一个圆滚滚、金灿灿的小南瓜。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "团团",
+      "pinyin": [
+        "tuán",
+        "tuán"
+      ],
+      "context": "小松鼠团团想让自己的南瓜灯最亮，他在南瓜肚子上挖了七八个大大的圆洞；",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "小松鼠团团想让自己的南瓜灯最亮，他在南瓜肚子上挖了七八个大大的圆洞；",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "而皮皮捧着自己的小南瓜，仔细地想了想，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "傍晚放学回到家，皮皮把这盏南瓜小灯摆在了小木屋门廊的木栏杆上，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "一会儿",
+      "pinyin": [
+        "yí",
+        "huìr",
+        "r"
+      ],
+      "context": "皮皮站在门廊下看了一会儿，发现有一缕光从正面直直地照过来，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮站在门廊下看了一会儿，发现有一缕光从正面直直地照过来，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "爪子",
+      "pinyin": [
+        "zhuǎ",
+        "zi"
+      ],
+      "context": "于是，他伸出小爪子，把南瓜小灯轻轻转了一个小角度，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "于是，他伸出小爪子，把南瓜小灯轻轻转了一个小角度，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "铺在",
+      "pinyin": [
+        "pū",
+        "zài"
+      ],
+      "context": "这样一来，暖光刚好铺在木头门槛和台阶上，既能照亮回家的路，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮原本还想把门廊顶上的大吊灯也打开，但看了看这盏安静的南瓜小灯，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "他就打消了这个念头。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮把门廊下的小木凳摆稳，让晚归的脚步可以在这里慢慢停下来。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "推门走进屋里后，皮皮隔着窗户回头看了一眼。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "温柔地",
+      "pinyin": [
+        "wēn",
+        "róu",
+        "de"
+      ],
+      "context": "只是温柔地守着小木屋的入口。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "洗漱完毕，皮皮爬上小床，把床头那盏熟悉的台灯也调暗了一点。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "调暗",
+      "pinyin": [
+        "tiáo",
+        "àn"
+      ],
+      "context": "洗漱完毕，皮皮爬上小床，把床头那盏熟悉的台灯也调暗了一点。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "暖融融的颜色留在毛毯上，整个房间慢慢变得像南瓜灯一样柔和。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "长耳朵",
+      "pinyin": [
+        "cháng",
+        "ěr",
+        "duo"
+      ],
+      "context": "皮皮放松长耳朵，闭上眼睛。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮放松长耳朵，闭上眼睛。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "舒服",
+      "pinyin": [
+        "shū",
+        "fu"
+      ],
+      "context": "原来在夜晚，一点点舒服的亮光，就已经足够陪伴一个好梦了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "原来在夜晚，一点点舒服的亮光，就已经足够陪伴一个好梦了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "舒服",
+      "pinyin": [
+        "shū",
+        "fu"
+      ],
+      "context": "小朋友，今晚也把舒服的暖意留在身边吧。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "小朋友，今晚也把舒服的暖意留在身边吧。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "不用",
+      "pinyin": [
+        "bú",
+        "yòng"
+      ],
+      "context": "不用让每个角落都亮堂堂地忙起来，轻轻闭上眼睛，晚安。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "不用让每个角落都亮堂堂地忙起来，轻轻闭上眼睛，晚安。",
+      "review": "context_checked_not_audio_listen_certification"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "text": "瞬间，圆圆的南瓜灯罩透出了柔和的橘黄色光芒，那两扇小小的叶子窗，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "4ed1fd2decc3f7e0b2fe2db1bb32a302df2ef45ec21340376e2f33ccdd96a14b",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 9422910,
+      "text": "瞬间"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15884580,
+      "duration": 5577080,
+      "text": "圆圆"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21461660,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23192500,
+      "duration": 5192500,
+      "text": "南瓜"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28577080,
+      "duration": 7884580,
+      "text": "灯罩"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38192500,
+      "duration": 5961250,
+      "text": "透出"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44153750,
+      "duration": 1730830,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46269160,
+      "duration": 5961660,
+      "text": "柔和"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52230830,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54153750,
+      "duration": 5577080,
+      "text": "橘黄"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59730830,
+      "duration": 2692500,
+      "text": "色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 62615410,
+      "duration": 7692500,
+      "text": "光芒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75500000,
+      "duration": 1922910,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 77422910,
+      "duration": 2884580,
+      "text": "两"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 80307500,
+      "duration": 3461660,
+      "text": "扇"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 84153750,
+      "duration": 5961660,
+      "text": "小小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 90115410,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 91461660,
+      "duration": 4807500,
+      "text": "叶子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 96269160,
+      "duration": 5384580,
+      "text": "窗"
+    }
+  ]
+}

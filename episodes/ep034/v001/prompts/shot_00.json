@@ -1,0 +1,21 @@
+{
+  "id": 0,
+  "title": "开场问候：安静翻开的绘本",
+  "destination": "/workspace/Bedtime-Stories/episodes/ep034/v001/images/shot_00.png",
+  "prompt": "Use case: illustration-story. Asset type: ONE original full-bleed vertical 9:16 watercolor story illustration for one locked narration shot. Use every input according to its explicitly labelled role; preserve the existing named identities, not just their species. \nVisible characters: NONE; no animals or people visible. Exact total number of visible characters: 0. Do not draw extra background animals. Scene continuity: 暖米色桌面上的绘本微微翻开，窗外秋日天色渐暗；轻柔、欢迎的故事开始画面。\nThe SINGLE visual moment and framing: 暖米色桌面上的绘本微微翻开，窗外秋日天色渐暗；轻柔、欢迎的故事开始画面。\nMandatory pose/prop state (overrides neutral model-sheet poses): 无画中文字或水印；只画剧本中在场角色，不新增来客；灯、蜡烛、南瓜外观及门廊方向保持连续。\nStyle: hand-painted gentle watercolor on fine warm paper, muted natural hues, soft edges and rounded shapes, quiet storybook mood, no glossy 3D or photorealism. Daylight scenes use soft greens and warm daylight, not bedroom amber tint. Night scenes use soft warm lamplight and muted gray-blue windows. Composition: full-bleed vertical 9:16. Keep all important faces, hands, feet, biscuits, fabric folds and other story actions in the upper 68% of the image. Bottom 32% is low-detail negative space for later subtitles, with no crucial objects there. Make the specified story state visually understandable. Text: NONE. No words, labels, subtitles, numbers, logos, watermark, speech bubbles, panels, frames or collage. Do not reproduce model sheets, multiple versions of a character, or wardrobe lineups. Each named character appears exactly once. This is a new single coherent scene, not a copy of the references. No motion streaks or implied camera zoom. Never turn a metaphor into a real transformation: yellow blankets remain fabric, imagined grassy softness is not actual grass growing in bed. No new story events. ",
+  "reference_inputs": [],
+  "characters": [],
+  "outfits": {},
+  "source_ranges": [
+    {
+      "unit_id": "p000_u01",
+      "paragraph_id": "p000",
+      "start_char": 0,
+      "end_char": 14
+    }
+  ],
+  "timing": {
+    "start_s": 0.0,
+    "end_s": 5.24
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "image": "assets/bedroom_layout_anchor.png",
+  "source": "copied from images/shot_28.png as episode-specific continuity anchor",
+  "sha256": "323c0f10026b580c64bf51c6a9c2d2c492e657ce5f6e331a15737e1f2b73b4e7",
+  "size": [
+    941,
+    1672
+  ],
+  "review_status": "continuity_anchor"
+}
