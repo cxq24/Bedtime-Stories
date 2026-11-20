@@ -1,0 +1,275 @@
+{
+  "text": "枯枝一拿走，下面那丛绿油油、软绵绵的细草立刻慢慢弹了起来，稳稳地托住了浅黄秋叶的背面，就像给这片刚从高处落下来的叶子，铺好了一只充满弹性的绿色小枕头！",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "0c484112578014c56adc7ae5499368ff4d65e1add5dd7e8990eb4161a7155424",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5000000,
+      "text": "枯枝"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6461660,
+      "duration": 2115410,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8577080,
+      "duration": 8077080,
+      "text": "拿走"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22230830,
+      "duration": 4615410,
+      "text": "下面"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27038330,
+      "duration": 2307500,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29346250,
+      "duration": 3077080,
+      "text": "丛"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32807500,
+      "duration": 9615410,
+      "text": "绿油油"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45500000,
+      "duration": 7692500,
+      "text": "软绵绵"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53192500,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54730830,
+      "duration": 8461660,
+      "text": "细草"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64922910,
+      "duration": 5577080,
+      "text": "立刻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 70692500,
+      "duration": 5000000,
+      "text": "慢慢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75884580,
+      "duration": 3269160,
+      "text": "弹"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 79153750,
+      "duration": 1538330,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 80884580,
+      "duration": 5961660,
+      "text": "起来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 90577080,
+      "duration": 5769160,
+      "text": "稳稳"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 96346250,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 97884580,
+      "duration": 5769160,
+      "text": "托住"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 103653750,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 105384580,
+      "duration": 6730830,
+      "text": "浅黄"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 112307500,
+      "duration": 5192500,
+      "text": "秋叶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 117500000,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 119038330,
+      "duration": 8077080,
+      "text": "背面"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 132115410,
+      "duration": 2307500,
+      "text": "就"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 134422910,
+      "duration": 2500000,
+      "text": "像"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 137115410,
+      "duration": 1922910,
+      "text": "给"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 139230830,
+      "duration": 2692080,
+      "text": "这"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 141922910,
+      "duration": 5961660,
+      "text": "片"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 148269160,
+      "duration": 3269160,
+      "text": "刚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 151538330,
+      "duration": 2692500,
+      "text": "从"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 154422910,
+      "duration": 5961660,
+      "text": "高处"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 160769160,
+      "duration": 2500000,
+      "text": "落"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 163269160,
+      "duration": 4615410,
+      "text": "下来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 167884580,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 169230830,
+      "duration": 7692500,
+      "text": "叶子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 180577080,
+      "duration": 5961250,
+      "text": "铺好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 186538330,
+      "duration": 961660,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 187692500,
+      "duration": 2307500,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 190000000,
+      "duration": 3653750,
+      "text": "只"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 194038330,
+      "duration": 5769160,
+      "text": "充满"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 200000000,
+      "duration": 6730830,
+      "text": "弹性"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 206730830,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 208653750,
+      "duration": 4807500,
+      "text": "绿色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 213653750,
+      "duration": 11538330,
+      "text": "小枕头"
+    }
+  ]
+}

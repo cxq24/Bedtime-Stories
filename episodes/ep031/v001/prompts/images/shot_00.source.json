@@ -1,0 +1,13 @@
+{
+  "shot_id": "shot_00",
+  "file": "images/shot_00.png",
+  "sha256": "e2fcb20144f321eb413aac5f5ecb0fa9eb03d6e5b94d2280943c9c5d9e258005",
+  "source": "built-in image_gen",
+  "reference_images": [
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+  ],
+  "prompt": "episode 031 dedicated standalone opening illustration. Portrait 9:16 watercolor birch forest in daytime. Pipi is warm-gray with round face, pink nose, long drooping ears, gently curious and looking up. Exact cream shirt, slate-blue overalls, blue shoes, yellow backpack from approved day wardrobe plus consistent plain muted-ochre short autumn jacket. Medium-wide, airy canopy, calm lower 20% subtitle-safe. No extra animals or text. Distinct from cover and plot scenes.",
+  "review": "assistant_visually_reviewed_for_identity_composition_and_opening_distinction",
+  "user_acceptance": "pending"
+}

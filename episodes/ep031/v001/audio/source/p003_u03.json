@@ -1,0 +1,281 @@
+{
+  "text": "它的边缘有一点点向上卷曲，叶子的正中间被下面一根硬邦邦的小枯枝顶住了，风一吹，它就翘来翘去的，像是在床上翻来覆去，怎么也找不到一个舒服的睡觉姿势。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "6d4a6d8a3ca09fd4b3229a2f5247174190939d5ad95a3a671efd948c539012a4",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2307500,
+      "text": "它"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3577080,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5115410,
+      "duration": 9038330,
+      "text": "边缘"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15692500,
+      "duration": 2115410,
+      "text": "有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18000000,
+      "duration": 8077080,
+      "text": "一点点"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26461660,
+      "duration": 5769160,
+      "text": "向上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32422910,
+      "duration": 8269160,
+      "text": "卷曲"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45884580,
+      "duration": 4807500,
+      "text": "叶子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50692500,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52422910,
+      "duration": 2692500,
+      "text": "正"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55115410,
+      "duration": 7884580,
+      "text": "中间"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64538330,
+      "duration": 2692500,
+      "text": "被"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 67230830,
+      "duration": 5192500,
+      "text": "下面"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 72615410,
+      "duration": 2115410,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 74730830,
+      "duration": 2692500,
+      "text": "根"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 77807500,
+      "duration": 8077080,
+      "text": "硬邦邦"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 85884580,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 87230830,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 90500000,
+      "duration": 4807500,
+      "text": "枯枝"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 95692500,
+      "duration": 6922910,
+      "text": "顶住"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 102615410,
+      "duration": 2500000,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 110307500,
+      "duration": 2884580,
+      "text": "风"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 113384580,
+      "duration": 2307500,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 115692500,
+      "duration": 4615410,
+      "text": "吹"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 124038330,
+      "duration": 2115410,
+      "text": "它"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 126346250,
+      "duration": 1922910,
+      "text": "就"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 128461660,
+      "duration": 5576660,
+      "text": "翘来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 134038330,
+      "duration": 4422910,
+      "text": "翘"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 138461660,
+      "duration": 3269160,
+      "text": "去"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 141730830,
+      "duration": 2884580,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 150192500,
+      "duration": 5000000,
+      "text": "像是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 155384580,
+      "duration": 2115410,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 157692500,
+      "duration": 3653750,
+      "text": "床"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 161346250,
+      "duration": 2884580,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 164615410,
+      "duration": 12884580,
+      "text": "翻来覆去"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 182115410,
+      "duration": 4038330,
+      "text": "怎么"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 186153750,
+      "duration": 2115410,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 188461660,
+      "duration": 3076660,
+      "text": "找"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 191538330,
+      "duration": 1346250,
+      "text": "不"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 192884580,
+      "duration": 2692500,
+      "text": "到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 195769160,
+      "duration": 3077080,
+      "text": "一个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 199230830,
+      "duration": 5576660,
+      "text": "舒服"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 204807500,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 206730830,
+      "duration": 5384580,
+      "text": "睡觉"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 212307500,
+      "duration": 7884580,
+      "text": "姿势"
+    }
+  ]
+}

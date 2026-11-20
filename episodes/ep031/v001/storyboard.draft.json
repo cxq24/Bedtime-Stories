@@ -1,0 +1,1192 @@
+{
+  "episode": "ep031",
+  "title": "秋叶的软枕头",
+  "script_version": "v5",
+  "status": "draft_pre_audio_lock",
+  "timing_basis": "actual_audio",
+  "estimated_shot_count": 31,
+  "shots": [
+    {
+      "id": 0,
+      "paragraph_id": "p000",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u01",
+          "start_char": 0,
+          "end_char": 14
+        },
+        {
+          "unit_id": "p000_u02",
+          "start_char": 0,
+          "end_char": 15
+        }
+      ],
+      "text": "小朋友们，准备好听故事了吗？今天的故事叫《秋叶的软枕头》。",
+      "title": "小朋友们，准备好听故事了吗？今天的故",
+      "location": "秋日森林的白桦树冠与放学小路，片头建立秋叶飘落的疑问",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "秋日森林的白桦树冠与放学小路，片头建立秋叶飘落的疑问。本镜口播对应：小朋友们，准备好听故事了吗？今天的故事叫《秋叶的软枕头》。。皮皮仰头，神情好奇而期待；视线跟随空中的秋叶，耳朵自然张开，不沿用参考图表情。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visible_duration_s": null,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "image_status": "not_generated",
+      "image_path": null
+    },
+    {
+      "id": 1,
+      "paragraph_id": "p000",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u03",
+          "start_char": 0,
+          "end_char": 23
+        }
+      ],
+      "text": "秋叶落下来时，怎样找到一个柔软又安稳的地方呢？",
+      "title": "秋叶落下来时，怎样找到一个柔软又安稳",
+      "location": "秋日森林的白桦树冠与放学小路，片头建立秋叶飘落的疑问",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "秋日森林的白桦树冠与放学小路，片头建立秋叶飘落的疑问。本镜口播对应：秋叶落下来时，怎样找到一个柔软又安稳的地方呢？。皮皮仰头，神情好奇而期待；视线跟随空中的秋叶，耳朵自然张开，不沿用参考图表情。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visible_duration_s": null,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "image_status": "not_generated",
+      "image_path": null
+    },
+    {
+      "id": 2,
+      "paragraph_id": "p001",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u01",
+          "start_char": 0,
+          "end_char": 25
+        }
+      ],
+      "text": "森林里的秋天来啦，树叶纷纷换上了金黄色和浅橘色的新",
+      "title": "森林里的秋天来啦，树叶纷纷换上了金黄",
+      "location": "放学回家路上的森林林道与高处树冠，白天",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "放学回家路上的森林林道与高处树冠，白天。本镜口播对应：森林里的秋天来啦，树叶纷纷换上了金黄色和浅橘色的新。皮皮边走边仰头观察树冠，眼里有发现时的专注与轻快；叶片动作轻盈。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visible_duration_s": null,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "image_status": "not_generated",
+      "image_path": null
+    },
+    {
+      "id": 3,
+      "paragraph_id": "p001",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u01",
+          "start_char": 25,
+          "end_char": 28
+        },
+        {
+          "unit_id": "p001_u02",
+          "start_char": 0,
+          "end_char": 22
+        }
+      ],
+      "text": "衣裳。皮皮今天在放学回家的路上，一直仰着头看树冠。",
+      "title": "衣裳。皮皮今天在放学回家的路上，一直",
+      "location": "放学回家路上的森林林道与高处树冠，白天",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "放学回家路上的森林林道与高处树冠，白天。本镜口播对应：衣裳。皮皮今天在放学回家的路上，一直仰着头看树冠。。皮皮边走边仰头观察树冠，眼里有发现时的专注与轻快；叶片动作轻盈。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visible_duration_s": null,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "image_status": "not_generated",
+      "image_path": null
+    },
+    {
+      "id": 4,
+      "paragraph_id": "p001",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u03",
+          "start_char": 0,
+          "end_char": 40
+        }
+      ],
+      "text": "他发现好多树叶在离开树枝妈妈的时候，都会在空中打着旋儿跳一支舞，然后才落到地上。",
+      "title": "他发现好多树叶在离开树枝妈妈的时候，",
+      "location": "放学回家路上的森林林道与高处树冠，白天",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "放学回家路上的森林林道与高处树冠，白天。本镜口播对应：他发现好多树叶在离开树枝妈妈的时候，都会在空中打着旋儿跳一支舞，然后才落到地上。。皮皮边走边仰头观察树冠，眼里有发现时的专注与轻快；叶片动作轻盈。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visible_duration_s": null,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "image_status": "not_generated",
+      "image_path": null
+    },
+    {
+      "id": 5,
+      "paragraph_id": "p002",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u01",
+          "start_char": 0,
+          "end_char": 27
+        }
+      ],
+      "text": "同路的小刺猬栗栗看着满地的落叶，有点担心地问：“皮皮，",
+      "title": "同路的小刺猬栗栗看着满地的落叶，有点",
+      "location": "同一条回家林道，白天；皮皮与栗栗并肩对话",
+      "layer": "real_world",
+      "characters": [
+        "pipi",
+        "lili"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001",
+        "lili": "default_v001"
+      },
+      "visual_direction": "同一条回家林道，白天；皮皮与栗栗并肩对话。本镜口播对应：同路的小刺猬栗栗看着满地的落叶，有点担心地问：“皮皮，。栗栗眉眼带一点担忧，望向落叶再看皮皮；皮皮认真倾听、随后平静思考和回应，二人姿态有区别。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visible_duration_s": null,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "image_status": "not_generated",
+      "image_path": null
+    },
+    {
+      "id": 6,
+      "paragraph_id": "p002",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u01",
+          "start_char": 27,
+          "end_char": 56
+        }
+      ],
+      "text": "树叶从那么高的树枝上掉下来，离开了自己原本的地方，会不会摔",
+      "title": "树叶从那么高的树枝上掉下来，离开了自",
+      "location": "同一条回家林道，白天；皮皮与栗栗并肩对话",
+      "layer": "real_world",
+      "characters": [
+        "pipi",
+        "lili"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001",
+        "lili": "default_v001"
+      },
+      "visual_direction": "同一条回家林道，白天；皮皮与栗栗并肩对话。本镜口播对应：树叶从那么高的树枝上掉下来，离开了自己原本的地方，会不会摔。栗栗眉眼带一点担忧，望向落叶再看皮皮；皮皮认真倾听、随后平静思考和回应，二人姿态有区别。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visible_duration_s": null,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "image_status": "not_generated",
+      "image_path": null
+    },
+    {
+      "id": 7,
+      "paragraph_id": "p002",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u01",
+          "start_char": 56,
+          "end_char": 68
+        },
+        {
+          "unit_id": "p002_u02",
+          "start_char": 0,
+          "end_char": 28
+        }
+      ],
+      "text": "疼，会不会睡不好觉呀？”皮皮当时想了想，说：“我们回家的时候，帮它们看一看吧。”",
+      "title": "疼，会不会睡不好觉呀？”皮皮当时想了",
+      "location": "同一条回家林道，白天；皮皮与栗栗并肩对话",
+      "layer": "real_world",
+      "characters": [
+        "pipi",
+        "lili"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001",
+        "lili": "default_v001"
+      },
+      "visual_direction": "同一条回家林道，白天；皮皮与栗栗并肩对话。本镜口播对应：疼，会不会睡不好觉呀？”皮皮当时想了想，说：“我们回家的时候，帮它们看一看吧。”。栗栗眉眼带一点担忧，望向落叶再看皮皮；皮皮认真倾听、随后平静思考和回应，二人姿态有区别。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visible_duration_s": null,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "image_status": "not_generated",
+      "image_path": null
+    },
+    {
+      "id": 8,
+      "paragraph_id": "p003",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u01",
+          "start_char": 0,
+          "end_char": 27
+        }
+      ],
+      "text": "到了傍晚，皮皮走到自己家小木屋门前时，正好有一片浅黄色",
+      "title": "到了傍晚，皮皮走到自己家小木屋门前时",
+      "location": "皮皮家小木屋门前门廊台阶，傍晚",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮家小木屋门前门廊台阶，傍晚。本镜口播对应：到了傍晚，皮皮走到自己家小木屋门前时，正好有一片浅黄色。皮皮到家时留意飘落的叶子，表情温和好奇；叶片自然下落，不拟人化成夸张表情。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visible_duration_s": null,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "image_status": "not_generated",
+      "image_path": null
+    },
+    {
+      "id": 9,
+      "paragraph_id": "p003",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u01",
+          "start_char": 27,
+          "end_char": 53
+        }
+      ],
+      "text": "的白桦树叶，从头顶飘飘悠悠地落了下来，轻轻靠在了门廊",
+      "title": "的白桦树叶，从头顶飘飘悠悠地落了下来",
+      "location": "皮皮家小木屋门前门廊台阶，傍晚",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮家小木屋门前门廊台阶，傍晚。本镜口播对应：的白桦树叶，从头顶飘飘悠悠地落了下来，轻轻靠在了门廊。皮皮到家时留意飘落的叶子，表情温和好奇；叶片自然下落，不拟人化成夸张表情。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visible_duration_s": null,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "image_status": "not_generated",
+      "image_path": null
+    },
+    {
+      "id": 10,
+      "paragraph_id": "p003",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u01",
+          "start_char": 53,
+          "end_char": 63
+        },
+        {
+          "unit_id": "p003_u02",
+          "start_char": 0,
+          "end_char": 14
+        }
+      ],
+      "text": "台阶旁的一丛细草上。可是，这片秋叶并没有平平展展",
+      "title": "台阶旁的一丛细草上。可是，这片秋叶并",
+      "location": "皮皮家小木屋门前门廊台阶，傍晚",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮家小木屋门前门廊台阶，傍晚。本镜口播对应：台阶旁的一丛细草上。可是，这片秋叶并没有平平展展。皮皮到家时留意飘落的叶子，表情温和好奇；叶片自然下落，不拟人化成夸张表情。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visible_duration_s": null,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "image_status": "not_generated",
+      "image_path": null
+    },
+    {
+      "id": 11,
+      "paragraph_id": "p003",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u02",
+          "start_char": 14,
+          "end_char": 18
+        },
+        {
+          "unit_id": "p003_u03",
+          "start_char": 0,
+          "end_char": 20
+        }
+      ],
+      "text": "地躺好。它的边缘有一点点向上卷曲，叶子的正中间被",
+      "title": "地躺好。它的边缘有一点点向上卷曲，叶",
+      "location": "皮皮家小木屋门前门廊台阶，傍晚",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮家小木屋门前门廊台阶，傍晚。本镜口播对应：地躺好。它的边缘有一点点向上卷曲，叶子的正中间被。皮皮到家时留意飘落的叶子，表情温和好奇；叶片自然下落，不拟人化成夸张表情。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visible_duration_s": null,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "image_status": "not_generated",
+      "image_path": null
+    },
+    {
+      "id": 12,
+      "paragraph_id": "p003",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u03",
+          "start_char": 20,
+          "end_char": 47
+        }
+      ],
+      "text": "下面一根硬邦邦的小枯枝顶住了，风一吹，它就翘来翘去的，",
+      "title": "下面一根硬邦邦的小枯枝顶住了，风一吹",
+      "location": "皮皮家小木屋门前门廊台阶，傍晚",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮家小木屋门前门廊台阶，傍晚。本镜口播对应：下面一根硬邦邦的小枯枝顶住了，风一吹，它就翘来翘去的，。皮皮到家时留意飘落的叶子，表情温和好奇；叶片自然下落，不拟人化成夸张表情。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visible_duration_s": null,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "image_status": "not_generated",
+      "image_path": null
+    },
+    {
+      "id": 13,
+      "paragraph_id": "p003",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u03",
+          "start_char": 47,
+          "end_char": 73
+        }
+      ],
+      "text": "像是在床上翻来覆去，怎么也找不到一个舒服的睡觉姿势。",
+      "title": "像是在床上翻来覆去，怎么也找不到一个",
+      "location": "皮皮家小木屋门前门廊台阶，傍晚",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮家小木屋门前门廊台阶，傍晚。本镜口播对应：像是在床上翻来覆去，怎么也找不到一个舒服的睡觉姿势。。皮皮到家时留意飘落的叶子，表情温和好奇；叶片自然下落，不拟人化成夸张表情。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visible_duration_s": null,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "image_status": "not_generated",
+      "image_path": null
+    },
+    {
+      "id": 14,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u01",
+          "start_char": 0,
+          "end_char": 13
+        },
+        {
+          "unit_id": "p004_u02",
+          "start_char": 0,
+          "end_char": 13
+        }
+      ],
+      "text": "皮皮想起了栗栗白天问的话。他轻轻蹲在细草丛旁边，没有",
+      "title": "皮皮想起了栗栗白天问的话。他轻轻蹲在",
+      "location": "同一门廊台阶旁的细草丛与小路边，傍晚",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "同一门廊台阶旁的细草丛与小路边，傍晚。本镜口播对应：皮皮想起了栗栗白天问的话。他轻轻蹲在细草丛旁边，没有。皮皮轻柔蹲低，专注看着叶背和枯枝，用两根小手指小心抽枝；动作轻而精准。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visible_duration_s": null,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "image_status": "not_generated",
+      "image_path": null
+    },
+    {
+      "id": 15,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u02",
+          "start_char": 13,
+          "end_char": 38
+        }
+      ],
+      "text": "粗鲁地把秋叶抓起来，而是伸出两根小手指，把压在秋叶",
+      "title": "粗鲁地把秋叶抓起来，而是伸出两根小手",
+      "location": "同一门廊台阶旁的细草丛与小路边，傍晚",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "同一门廊台阶旁的细草丛与小路边，傍晚。本镜口播对应：粗鲁地把秋叶抓起来，而是伸出两根小手指，把压在秋叶。皮皮轻柔蹲低，专注看着叶背和枯枝，用两根小手指小心抽枝；动作轻而精准。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visible_duration_s": null,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "image_status": "not_generated",
+      "image_path": null
+    },
+    {
+      "id": 16,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u02",
+          "start_char": 38,
+          "end_char": 64
+        }
+      ],
+      "text": "背面底下那一小段硬硬的枯枝，小心翼翼地抽了出来，挪到",
+      "title": "背面底下那一小段硬硬的枯枝，小心翼翼",
+      "location": "同一门廊台阶旁的细草丛与小路边，傍晚",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "同一门廊台阶旁的细草丛与小路边，傍晚。本镜口播对应：背面底下那一小段硬硬的枯枝，小心翼翼地抽了出来，挪到。皮皮轻柔蹲低，专注看着叶背和枯枝，用两根小手指小心抽枝；动作轻而精准。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visible_duration_s": null,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "image_status": "not_generated",
+      "image_path": null
+    },
+    {
+      "id": 17,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u02",
+          "start_char": 64,
+          "end_char": 69
+        },
+        {
+          "unit_id": "p004_u03",
+          "start_char": 0,
+          "end_char": 20
+        }
+      ],
+      "text": "了小路边。枯枝一拿走，下面那丛绿油油、软绵绵的细草",
+      "title": "了小路边。枯枝一拿走，下面那丛绿油油",
+      "location": "同一门廊台阶旁的细草丛与小路边，傍晚",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "同一门廊台阶旁的细草丛与小路边，傍晚。本镜口播对应：了小路边。枯枝一拿走，下面那丛绿油油、软绵绵的细草。皮皮轻柔蹲低，专注看着叶背和枯枝，用两根小手指小心抽枝；动作轻而精准。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visible_duration_s": null,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "image_status": "not_generated",
+      "image_path": null
+    },
+    {
+      "id": 18,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u03",
+          "start_char": 20,
+          "end_char": 47
+        }
+      ],
+      "text": "立刻慢慢弹了起来，稳稳地托住了浅黄秋叶的背面，就像给这",
+      "title": "立刻慢慢弹了起来，稳稳地托住了浅黄秋",
+      "location": "同一门廊台阶旁的细草丛与小路边，傍晚",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "同一门廊台阶旁的细草丛与小路边，傍晚。本镜口播对应：立刻慢慢弹了起来，稳稳地托住了浅黄秋叶的背面，就像给这。皮皮轻柔蹲低，专注看着叶背和枯枝，用两根小手指小心抽枝；动作轻而精准。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visible_duration_s": null,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "image_status": "not_generated",
+      "image_path": null
+    },
+    {
+      "id": 19,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u03",
+          "start_char": 47,
+          "end_char": 75
+        }
+      ],
+      "text": "片刚从高处落下来的叶子，铺好了一只充满弹性的绿色小枕头！",
+      "title": "片刚从高处落下来的叶子，铺好了一只充",
+      "location": "同一门廊台阶旁的细草丛与小路边，傍晚",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "同一门廊台阶旁的细草丛与小路边，傍晚。本镜口播对应：片刚从高处落下来的叶子，铺好了一只充满弹性的绿色小枕头！。皮皮轻柔蹲低，专注看着叶背和枯枝，用两根小手指小心抽枝；动作轻而精准。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visible_duration_s": null,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "image_status": "not_generated",
+      "image_path": null
+    },
+    {
+      "id": 20,
+      "paragraph_id": "p005",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u01",
+          "start_char": 0,
+          "end_char": 24
+        }
+      ],
+      "text": "一阵晚风再次经过门廊，这回，那片秋叶只是惬意地动",
+      "title": "一阵晚风再次经过门廊，这回，那片秋叶",
+      "location": "同一门廊台阶旁草丛，晚风经过、天色渐暗",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "同一门廊台阶旁草丛，晚风经过、天色渐暗。本镜口播对应：一阵晚风再次经过门廊，这回，那片秋叶只是惬意地动。皮皮观察叶片稳住后露出轻松微笑，慢慢站起；叶片只因风轻动边角，始终留在草丛。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visible_duration_s": null,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "image_status": "not_generated",
+      "image_path": null
+    },
+    {
+      "id": 21,
+      "paragraph_id": "p005",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u01",
+          "start_char": 24,
+          "end_char": 50
+        }
+      ],
+      "text": "了动边角，稳稳地陷在细草丛的怀抱里，再也没有翻过身来",
+      "title": "了动边角，稳稳地陷在细草丛的怀抱里，",
+      "location": "同一门廊台阶旁草丛，晚风经过、天色渐暗",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "同一门廊台阶旁草丛，晚风经过、天色渐暗。本镜口播对应：了动边角，稳稳地陷在细草丛的怀抱里，再也没有翻过身来。皮皮观察叶片稳住后露出轻松微笑，慢慢站起；叶片只因风轻动边角，始终留在草丛。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visible_duration_s": null,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "image_status": "not_generated",
+      "image_path": null
+    },
+    {
+      "id": 22,
+      "paragraph_id": "p005",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u01",
+          "start_char": 50,
+          "end_char": 58
+        },
+        {
+          "unit_id": "p005_u02",
+          "start_char": 0,
+          "end_char": 18
+        },
+        {
+          "unit_id": "p005_u03",
+          "start_char": 0,
+          "end_char": 1
+        }
+      ],
+      "text": "追着小路乱跑了。皮皮看着它安稳的样子，微笑着站起身。他",
+      "title": "追着小路乱跑了。皮皮看着它安稳的样子",
+      "location": "同一门廊台阶旁草丛，晚风经过、天色渐暗",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "同一门廊台阶旁草丛，晚风经过、天色渐暗。本镜口播对应：追着小路乱跑了。皮皮看着它安稳的样子，微笑着站起身。他。皮皮观察叶片稳住后露出轻松微笑，慢慢站起；叶片只因风轻动边角，始终留在草丛。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visible_duration_s": null,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "image_status": "not_generated",
+      "image_path": null
+    },
+    {
+      "id": 23,
+      "paragraph_id": "p005",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u03",
+          "start_char": 1,
+          "end_char": 41
+        }
+      ],
+      "text": "没有把这片秋叶捡进屋里夹进书本，而是让它留在自己选好的、有草叶托着的泥土小床上。",
+      "title": "没有把这片秋叶捡进屋里夹进书本，而是",
+      "location": "同一门廊台阶旁草丛，晚风经过、天色渐暗",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "同一门廊台阶旁草丛，晚风经过、天色渐暗。本镜口播对应：没有把这片秋叶捡进屋里夹进书本，而是让它留在自己选好的、有草叶托着的泥土小床上。。皮皮观察叶片稳住后露出轻松微笑，慢慢站起；叶片只因风轻动边角，始终留在草丛。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visible_duration_s": null,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "image_status": "not_generated",
+      "image_path": null
+    },
+    {
+      "id": 24,
+      "paragraph_id": "p006",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u01",
+          "start_char": 0,
+          "end_char": 27
+        }
+      ],
+      "text": "回到卧室的床边，皮皮脱下小外套，在躺下之前，也学着刚才",
+      "title": "回到卧室的床边，皮皮脱下小外套，在躺",
+      "location": "小木屋卧室床边，夜晚",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "小木屋卧室床边，夜晚。本镜口播对应：回到卧室的床边，皮皮脱下小外套，在躺下之前，也学着刚才。皮皮动作放松，把小枕头拨松并居中，眼神温柔；两只长耳朵自然垂落、不折叠。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visible_duration_s": null,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "image_status": "not_generated",
+      "image_path": null
+    },
+    {
+      "id": 25,
+      "paragraph_id": "p006",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u01",
+          "start_char": 27,
+          "end_char": 53
+        }
+      ],
+      "text": "照顾秋叶的样子，把自己的小枕头往中间拨松了一点，让两",
+      "title": "照顾秋叶的样子，把自己的小枕头往中间",
+      "location": "小木屋卧室床边，夜晚",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "小木屋卧室床边，夜晚。本镜口播对应：照顾秋叶的样子，把自己的小枕头往中间拨松了一点，让两。皮皮动作放松，把小枕头拨松并居中，眼神温柔；两只长耳朵自然垂落、不折叠。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visible_duration_s": null,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "image_status": "not_generated",
+      "image_path": null
+    },
+    {
+      "id": 26,
+      "paragraph_id": "p006",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u01",
+          "start_char": 53,
+          "end_char": 76
+        },
+        {
+          "unit_id": "p006_u02",
+          "start_char": 0,
+          "end_char": 1
+        }
+      ],
+      "text": "只长耳朵不必委屈地折着，能够平平顺顺地垂下来。暖",
+      "title": "只长耳朵不必委屈地折着，能够平平顺顺",
+      "location": "小木屋卧室床边，夜晚",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "小木屋卧室床边，夜晚。本镜口播对应：只长耳朵不必委屈地折着，能够平平顺顺地垂下来。暖。皮皮动作放松，把小枕头拨松并居中，眼神温柔；两只长耳朵自然垂落、不折叠。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visible_duration_s": null,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "image_status": "not_generated",
+      "image_path": null
+    },
+    {
+      "id": 27,
+      "paragraph_id": "p006",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u02",
+          "start_char": 1,
+          "end_char": 19
+        },
+        {
+          "unit_id": "p006_u03",
+          "start_char": 0,
+          "end_char": 7
+        }
+      ],
+      "text": "黄色的毛毯盖住身体，皮皮闭上了眼睛。门外有细草做的",
+      "title": "黄色的毛毯盖住身体，皮皮闭上了眼睛。",
+      "location": "小木屋卧室床边，夜晚",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "小木屋卧室床边，夜晚。本镜口播对应：黄色的毛毯盖住身体，皮皮闭上了眼睛。门外有细草做的。皮皮动作放松，把小枕头拨松并居中，眼神温柔；两只长耳朵自然垂落、不折叠。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visible_duration_s": null,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "image_status": "not_generated",
+      "image_path": null
+    },
+    {
+      "id": 28,
+      "paragraph_id": "p006",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u03",
+          "start_char": 7,
+          "end_char": 31
+        }
+      ],
+      "text": "绿枕头托着秋叶，屋里有棉花做的软枕头托着小兔子。",
+      "title": "绿枕头托着秋叶，屋里有棉花做的软枕头",
+      "location": "小木屋卧室床边，夜晚",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "小木屋卧室床边，夜晚。本镜口播对应：绿枕头托着秋叶，屋里有棉花做的软枕头托着小兔子。。皮皮动作放松，把小枕头拨松并居中，眼神温柔；两只长耳朵自然垂落、不折叠。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visible_duration_s": null,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "image_status": "not_generated",
+      "image_path": null
+    },
+    {
+      "id": 29,
+      "paragraph_id": "p007",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u01",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "text": "小朋友，如果今天你的心里也有一些像落叶一样飘下来的小事情、",
+      "title": "小朋友，如果今天你的心里也有一些像落",
+      "location": "同一卧室床上，夜晚安静收尾",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "同一卧室床上，夜晚安静收尾。本镜口播对应：小朋友，如果今天你的心里也有一些像落叶一样飘下来的小事情、。皮皮盖着毛毯闭眼，安静、安心；画面保持卧室现实，不新增漂浮意象或新剧情。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visible_duration_s": null,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "image_status": "not_generated",
+      "image_path": null
+    },
+    {
+      "id": 30,
+      "paragraph_id": "p007",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u01",
+          "start_char": 29,
+          "end_char": 52
+        },
+        {
+          "unit_id": "p007_u02",
+          "start_char": 0,
+          "end_char": 12
+        }
+      ],
+      "text": "小失落，没关系，把它们轻轻放在软软的枕头上吧。找个最舒服的姿势，晚安。",
+      "title": "小失落，没关系，把它们轻轻放在软软的",
+      "location": "同一卧室床上，夜晚安静收尾",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "同一卧室床上，夜晚安静收尾。本镜口播对应：小失落，没关系，把它们轻轻放在软软的枕头上吧。找个最舒服的姿势，晚安。。皮皮盖着毛毯闭眼，安静、安心；画面保持卧室现实，不新增漂浮意象或新剧情。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_start_s": null,
+      "visible_end_s": null,
+      "visible_duration_s": null,
+      "continuity_refs": [],
+      "state_before": null,
+      "state_after": null,
+      "transition_from": null,
+      "image_status": "not_generated",
+      "image_path": null
+    }
+  ]
+}

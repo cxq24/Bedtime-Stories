@@ -1,0 +1,239 @@
+{
+  "text": "到了傍晚，皮皮走到自己家小木屋门前时，正好有一片浅黄色的白桦树叶，从头顶飘飘悠悠地落了下来，轻轻靠在了门廊台阶旁的一丛细草上。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "21865d98dce2c6941ebe1f35f7ab303ee99b18ce9e2ac40ef9b0850ae58cb36e",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2692500,
+      "text": "到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3961660,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5307500,
+      "duration": 7500000,
+      "text": "傍晚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17807500,
+      "duration": 5192500,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23192500,
+      "duration": 2307500,
+      "text": "走"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25500000,
+      "duration": 2115410,
+      "text": "到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28000000,
+      "duration": 4807500,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33000000,
+      "duration": 6153750,
+      "text": "家小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39346250,
+      "duration": 4422910,
+      "text": "木屋"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43961660,
+      "duration": 7307500,
+      "text": "门前"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51269160,
+      "duration": 5000000,
+      "text": "时"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60500000,
+      "duration": 5961660,
+      "text": "正好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 66653750,
+      "duration": 2115410,
+      "text": "有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 68769160,
+      "duration": 5384580,
+      "text": "一片"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 74538330,
+      "duration": 9422910,
+      "text": "浅黄色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 83961660,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 85692500,
+      "duration": 5577080,
+      "text": "白桦"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 91461660,
+      "duration": 8269160,
+      "text": "树叶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 103653750,
+      "duration": 3653750,
+      "text": "从"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 107500000,
+      "duration": 6346250,
+      "text": "头顶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 114230830,
+      "duration": 11346250,
+      "text": "飘飘悠悠"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 125577080,
+      "duration": 1922910,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 127884580,
+      "duration": 2692500,
+      "text": "落"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 130577080,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 132115410,
+      "duration": 7115410,
+      "text": "下来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 144038330,
+      "duration": 7884580,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 152115410,
+      "duration": 3269160,
+      "text": "靠"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 155384580,
+      "duration": 2692500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 158077080,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 159807500,
+      "duration": 5192500,
+      "text": "门廊"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 165192500,
+      "duration": 5576660,
+      "text": "台阶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 170769160,
+      "duration": 3269160,
+      "text": "旁"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 174038330,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 175577080,
+      "duration": 1922910,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 177500000,
+      "duration": 2884580,
+      "text": "丛"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 180769160,
+      "duration": 2884580,
+      "text": "细"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 183653750,
+      "duration": 3846250,
+      "text": "草"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 187500000,
+      "duration": 5000000,
+      "text": "上"
+    }
+  ]
+}

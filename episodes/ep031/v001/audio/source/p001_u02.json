@@ -1,0 +1,89 @@
+{
+  "text": "皮皮今天在放学回家的路上，一直仰着头看树冠。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "bd027e3039081de29e10b161baab3d65345061f67e781a3cea0b7502ddb3799d",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5192500,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6653750,
+      "duration": 8269160,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16269160,
+      "duration": 2692500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19153750,
+      "duration": 5000000,
+      "text": "放学"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24346250,
+      "duration": 5961250,
+      "text": "回家"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30307500,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32038330,
+      "duration": 7307500,
+      "text": "路上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43577080,
+      "duration": 5000000,
+      "text": "一直"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48769160,
+      "duration": 3269160,
+      "text": "仰"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52038330,
+      "duration": 1730830,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53769160,
+      "duration": 3269160,
+      "text": "头"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57422910,
+      "duration": 3077080,
+      "text": "看"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60500000,
+      "duration": 7115410,
+      "text": "树冠"
+    }
+  ]
+}

@@ -1,0 +1,774 @@
+{
+  "episode": "ep031",
+  "version": "v001",
+  "status": "text_preflight_passed_ready_for_image_generation",
+  "preflight_passes": {
+    "narrative_order_review": "passed_manual_31_shot_walkthrough",
+    "asset_state_review": "passed_manual_leaf_twig_grass_jacket_bedding_trace",
+    "image_review": "not_started"
+  },
+  "rules": [
+    "The same pale-gold birch leaf remains the same asset from fall through settling; no leaf pickup or relocation indoors.",
+    "The same twig starts under the leaf midline, is removed by Pipi with two fingers, and remains at the path edge.",
+    "The same grass patch compresses before the twig is removed and springs back to support the leaf afterward.",
+    "Lili appears only in the daytime path conversation; she is absent from evening porch and bedroom scenes.",
+    "Pipi keeps the same light autumn jacket through outdoor beats and removes it once in p006; it never reappears worn.",
+    "The same bedroom pillow and warm-yellow blanket remain consistent across p006-p007."
+  ],
+  "fixed_assets": [
+    {
+      "asset_id": "birch_leaf_pale_gold",
+      "appearance": "同一片掌心大小的浅金黄色白桦叶，完整清楚的白桦叶形与醒目中脉，一侧叶缘微微上卷；薄叶、哑光，落在门廊台阶旁细草上，抽枝后仍留原地，仅边角随风轻动。",
+      "first_shot": "shot_09",
+      "recurring_shots": "shot_09-shot_25",
+      "reference_image": "references/plot_assets_ep031_v001.png",
+      "holder": "落下后无人持有；全程留在门廊台阶边细草上"
+    },
+    {
+      "asset_id": "short_hard_twig",
+      "appearance": "同一小段干燥棕色硬枯枝，约叶片宽度三分之一长，单枝略弯、无分叉；最初位于叶背中部下方顶起叶片，之后被皮皮两指抽出放在小路边，永不回到叶下。",
+      "first_shot": "shot_10",
+      "recurring_shots": "shot_10-shot_20",
+      "reference_image": "references/plot_assets_ep031_v001.png",
+      "holder": "先在叶下；随后由皮皮两指轻抽；最终静置小路边"
+    },
+    {
+      "asset_id": "grass_pillow_patch",
+      "appearance": "同一小丛鲜绿细草，长在泥土边缘、靠木门廊台阶右侧，草尖柔韧有弹性。先被叶与枝压低；抽枝后逐渐回弹，从叶背托住同一片叶；不移位、不增大。",
+      "first_shot": "shot_09",
+      "recurring_shots": "shot_09-shot_25",
+      "reference_image": "references/plot_assets_ep031_v001.png",
+      "holder": "固定生长在台阶右侧，后托住叶片"
+    },
+    {
+      "asset_id": "pipi_outer_jacket",
+      "appearance": "同一件轻薄短款秋日小外套，低饱和赭黄色，圆润小翻领，前襟简洁无图案；套在日常米色上衣之外，灰蓝背带裤、蓝鞋和黄色书包按参考图。白天林道至傍晚门廊一直穿着；卧室脱下后搭在床边椅背，不再穿回。",
+      "first_shot": "shot_00",
+      "recurring_shots": "shot_00-shot_29",
+      "reference_image": "text-based costume anchor; no registered jacket reference",
+      "holder": "先穿在皮皮身上；卧室脱下后搭在床边椅背"
+    },
+    {
+      "asset_id": "bedroom_pillow",
+      "appearance": "同一只长方圆角、浅奶油色棉布枕头，柔软饱满、细布纹、无花纹；床中央偏左。拨松后仍保持该形状，之后托住皮皮头部，两只长耳朵舒展垂在枕两侧。",
+      "first_shot": "shot_26",
+      "recurring_shots": "shot_26-shot_30",
+      "reference_image": "pending scene illustration",
+      "holder": "先置于床上；之后托住皮皮头部"
+    },
+    {
+      "asset_id": "bedroom_blanket_yellow",
+      "appearance": "同一张暖芥末黄色细绒薄毯，无图案；夜间盖到皮皮肩下，睡眠镜头连续保持相同覆盖高度和褶皱方向。",
+      "first_shot": "shot_29",
+      "recurring_shots": "shot_29-shot_30",
+      "reference_image": "pending scene illustration",
+      "holder": "盖在皮皮身上"
+    },
+    {
+      "asset_id": "birch_grove",
+      "appearance": "白天同一条回家林道，细长白桦树干、浅金与淡橙树冠、柔和斜阳，儿童绘本水彩；镜头连续保持树干疏密与林道方向。",
+      "first_shot": "shot_00",
+      "recurring_shots": "shot_00-shot_08",
+      "holder": "场景固定",
+      "reference_image": "text scene anchor"
+    },
+    {
+      "asset_id": "background_fallen_leaves",
+      "appearance": "只作泛指的普通秋叶，浅金和淡橘的不同小叶片；不是门廊剧情中那一片特定的浅金白桦叶。",
+      "first_shot": "shot_04",
+      "recurring_shots": "shot_04-shot_08",
+      "holder": "散落林道背景，不作为剧情道具",
+      "reference_image": "text scene anchor"
+    },
+    {
+      "asset_id": "porch_step",
+      "appearance": "皮皮家同一座简朴木屋门廊，褐色木台阶在画面左侧，台阶右边泥土边缘长固定细草；门廊不出现文字招牌。昼暮色渐暗，空间布局不变。",
+      "first_shot": "shot_08",
+      "recurring_shots": "shot_08-shot_25",
+      "holder": "场景固定",
+      "reference_image": "text scene anchor"
+    },
+    {
+      "asset_id": "lili_v001",
+      "appearance": "栗栗，浅棕色小刺猬，圆脸和可辨认小刺，灰绿色小背心；身形和刺形按已注册identity_v001。与皮皮并肩走林道，shot_07结束后离场，不再入镜。",
+      "first_shot": "shot_05",
+      "recurring_shots": "shot_05-shot_07",
+      "holder": "与皮皮并肩走林道；shot_07结束后离场，不再入镜",
+      "reference_image": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+    }
+  ],
+  "story_beats": [
+    {
+      "paragraph_id": "p000",
+      "place": "秋日森林/白桦林与林道",
+      "cast": [
+        "pipi"
+      ],
+      "before": "白天放学回家的秋林环境已建立",
+      "action": "独立片头提出秋叶怎样落到柔软安稳处的问题",
+      "after": "转入皮皮观察秋林的正文；片头图不得复用封面或正文图"
+    },
+    {
+      "paragraph_id": "p001",
+      "place": "放学回家林道",
+      "cast": [
+        "pipi"
+      ],
+      "before": "白天，皮皮在回家路上",
+      "action": "皮皮抬头观察金黄、浅橘树冠和旋转落叶",
+      "after": "继续沿林道同行，为栗栗对话建立场景"
+    },
+    {
+      "paragraph_id": "p002",
+      "place": "同一回家林道",
+      "cast": [
+        "pipi",
+        "lili"
+      ],
+      "before": "皮皮与栗栗同路；皮皮持续穿秋日外套，栗栗穿灰绿色背心",
+      "action": "栗栗担心落叶摔疼睡不好；皮皮答应回家路上帮看",
+      "after": "日间对话结束；后续傍晚转为皮皮独自在家门前，栗栗不再入镜"
+    },
+    {
+      "paragraph_id": "p003",
+      "place": "皮皮家门廊台阶旁",
+      "cast": [
+        "pipi"
+      ],
+      "before": "傍晚，皮皮到家，身穿同一件秋日外套；草丛在台阶旁",
+      "action": "同一片浅黄色白桦叶飘落到细草上；同一小枯枝顶住叶背中部，叶缘微卷、被风吹得翘动",
+      "after": "叶片、枯枝、草丛位置清楚锁定，皮皮观察但未触碰"
+    },
+    {
+      "paragraph_id": "p004",
+      "place": "同一门廊台阶旁与小路边",
+      "cast": [
+        "pipi"
+      ],
+      "before": "叶片仍被枯枝顶起，草丛压低；皮皮在叶旁",
+      "action": "皮皮两指抽出枯枝，移到小路边；草丛回弹托稳同一片叶",
+      "after": "枯枝在路边，叶片在草丛上安稳，皮皮手指离开"
+    },
+    {
+      "paragraph_id": "p005",
+      "place": "同一门廊草丛",
+      "cast": [
+        "pipi"
+      ],
+      "before": "叶片被弹起的草丛稳托；枯枝仍在路边",
+      "action": "晚风掠过，叶片仅动边角；皮皮微笑起身并让叶片留在原处",
+      "after": "叶片不跑动、不被拾进屋；皮皮从门廊回屋，栗栗不在场"
+    },
+    {
+      "paragraph_id": "p006",
+      "place": "卧室床边与床上",
+      "cast": [
+        "pipi"
+      ],
+      "before": "夜晚，皮皮回到卧室；身上仍是外套和内搭",
+      "action": "脱下同一件外套，把枕头拨松居中，再盖暖黄毛毯躺下闭眼",
+      "after": "皮皮在同一张床上，外套已脱下，枕头托住头部，耳朵平顺垂下"
+    },
+    {
+      "paragraph_id": "p007",
+      "place": "同一卧室床上",
+      "cast": [
+        "pipi"
+      ],
+      "before": "皮皮已闭眼，仍盖着暖黄色毛毯",
+      "action": "旁白对小朋友说晚安；画面保持现实卧室的安稳状态",
+      "after": "皮皮安睡，画面渐暗收尾；不新增角色或梦境"
+    }
+  ],
+  "shot_states_pending_expansion": false,
+  "shot_states": [
+    {
+      "shot_id": "shot_00",
+      "paragraph_id": "p000",
+      "location": "秋日森林的白桦树冠与放学小路，片头建立秋叶飘落的疑问",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "birch_grove",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "片头建立秋日森林，皮皮沿林道出现、外套穿好。",
+      "action": "以温和好奇的仰视姿态引出故事；片头用林道全景，不与正文重复。",
+      "state_after": "进入正文的白桦林树冠；角色仍沿回家路，服装不变。",
+      "transition_from": null,
+      "review_status": "text_preflight_passed_image_review_pending"
+    },
+    {
+      "shot_id": "shot_01",
+      "paragraph_id": "p000",
+      "location": "秋日森林的白桦树冠与放学小路，片头建立秋叶飘落的疑问",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "birch_grove",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "白桦树冠已建立，皮皮在路上。",
+      "action": "一片秋叶在树冠下旋转下降，皮皮仰头追随，秋叶仍在林道森林层，不切到门廊叶片。",
+      "state_after": "转入白天林道正文；片头问题未造成叶片已经落到家门口的误解。",
+      "transition_from": "shot_00",
+      "review_status": "text_preflight_passed_image_review_pending"
+    },
+    {
+      "shot_id": "shot_02",
+      "paragraph_id": "p001",
+      "location": "放学回家路上的森林林道与高处树冠，白天",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "birch_grove",
+        "background_fallen_leaves",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "白天，皮皮沿林道回家，秋树叶尚在树上或飘落。",
+      "action": "皮皮抬头观察金黄/浅橘树冠。",
+      "state_after": "皮皮仍在同一条回家林道，外套在身。",
+      "transition_from": "shot_01",
+      "review_status": "text_preflight_passed_image_review_pending"
+    },
+    {
+      "shot_id": "shot_03",
+      "paragraph_id": "p001",
+      "location": "放学回家路上的森林林道与高处树冠，白天",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "birch_grove",
+        "background_fallen_leaves",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "皮皮仍在林道，树冠可见。",
+      "action": "皮皮继续行走并仰望；只在背景展示金黄、浅橘树冠，不添加新人物。",
+      "state_after": "同一林道，皮皮注意到落叶。",
+      "transition_from": "shot_02",
+      "review_status": "text_preflight_passed_image_review_pending"
+    },
+    {
+      "shot_id": "shot_04",
+      "paragraph_id": "p001",
+      "location": "放学回家路上的森林林道与高处树冠，白天",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "birch_grove",
+        "background_fallen_leaves",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "树叶仍在树冠和林道附近，皮皮走路。",
+      "action": "多片普通秋叶旋转飘落，保留它们为泛指背景叶，不标成之后那片白桦叶。",
+      "state_after": "同一林道；皮皮仍穿同一外套，路线连续。",
+      "transition_from": "shot_03",
+      "review_status": "text_preflight_passed_image_review_pending"
+    },
+    {
+      "shot_id": "shot_05",
+      "paragraph_id": "p002",
+      "location": "同一条回家林道，白天；皮皮与栗栗并肩对话",
+      "characters": [
+        "pipi",
+        "lili"
+      ],
+      "continuity_refs": [
+        "background_fallen_leaves",
+        "pipi_outer_jacket",
+        "lili_v001"
+      ],
+      "state_before": "皮皮在回家林道，栗栗进入/在场。",
+      "action": "栗栗看向林道旁的普通落叶，神情略担忧；皮皮在旁倾听。",
+      "state_after": "两人同路，栗栗尚未离开；对话继续。",
+      "transition_from": "shot_04",
+      "review_status": "text_preflight_passed_image_review_pending"
+    },
+    {
+      "shot_id": "shot_06",
+      "paragraph_id": "p002",
+      "location": "同一条回家林道，白天；皮皮与栗栗并肩对话",
+      "characters": [
+        "pipi",
+        "lili"
+      ],
+      "continuity_refs": [
+        "background_fallen_leaves",
+        "pipi_outer_jacket",
+        "lili_v001"
+      ],
+      "state_before": "两人并肩在同一路段，背景有非特定落叶。",
+      "action": "栗栗提出树叶会不会摔疼、睡不好，视线落在落叶，再看皮皮。",
+      "state_after": "栗栗的担心被清楚呈现；皮皮在同一地点聆听。",
+      "transition_from": "shot_05",
+      "review_status": "text_preflight_passed_image_review_pending"
+    },
+    {
+      "shot_id": "shot_07",
+      "paragraph_id": "p002",
+      "location": "同一条回家林道，白天；皮皮与栗栗并肩对话",
+      "characters": [
+        "pipi",
+        "lili"
+      ],
+      "continuity_refs": [
+        "background_fallen_leaves",
+        "pipi_outer_jacket",
+        "lili_v001"
+      ],
+      "state_before": "栗栗提问结束；两人仍在林道。",
+      "action": "皮皮思考后答应回家路上帮忙看看；克制、认真。",
+      "state_after": "对话结束；下一镜转到傍晚皮皮家门口，栗栗不再出现。",
+      "transition_from": "shot_06",
+      "review_status": "text_preflight_passed_image_review_pending"
+    },
+    {
+      "shot_id": "shot_08",
+      "paragraph_id": "p003",
+      "location": "皮皮家小木屋门前门廊台阶，傍晚",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "birch_leaf_pale_gold",
+        "short_hard_twig",
+        "grass_pillow_patch",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "傍晚皮皮到家门前，穿同一秋日外套；栗栗已离场。",
+      "action": "皮皮走到小木屋门前时，第一片特定浅黄色白桦叶开始从头顶飘落。",
+      "state_after": "同一特定叶片向门廊台阶旁草丛下落；皮皮仍未触碰。",
+      "transition_from": "shot_07",
+      "review_status": "text_preflight_passed_image_review_pending"
+    },
+    {
+      "shot_id": "shot_09",
+      "paragraph_id": "p003",
+      "location": "皮皮家小木屋门前门廊台阶，傍晚",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "birch_leaf_pale_gold",
+        "short_hard_twig",
+        "grass_pillow_patch",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "同一门廊傍晚，特定叶片在空中；草丛位于台阶旁。",
+      "action": "叶片缓缓落下，画面明确台阶、草丛和落点方位。",
+      "state_after": "同一叶片接触台阶旁草丛；位置固定。",
+      "transition_from": "shot_08",
+      "review_status": "text_preflight_passed_image_review_pending"
+    },
+    {
+      "shot_id": "shot_10",
+      "paragraph_id": "p003",
+      "location": "皮皮家小木屋门前门廊台阶，傍晚",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "birch_leaf_pale_gold",
+        "short_hard_twig",
+        "grass_pillow_patch",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "叶片落在草丛，枝条位于叶背下方。",
+      "action": "显示叶片没有平展，边缘微卷；草丛与门廊位置不变。",
+      "state_after": "同一叶片保持原位，枯枝顶住叶背中部。",
+      "transition_from": "shot_09",
+      "review_status": "text_preflight_passed_image_review_pending"
+    },
+    {
+      "shot_id": "shot_11",
+      "paragraph_id": "p003",
+      "location": "皮皮家小木屋门前门廊台阶，傍晚",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "birch_leaf_pale_gold",
+        "short_hard_twig",
+        "grass_pillow_patch",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "同一叶片微卷，枯枝仍在叶背中部。",
+      "action": "近景揭示枯枝支点与叶片边缘，草叶被压低。",
+      "state_after": "空间关系清楚：叶在上、枝在下、草丛在下方。",
+      "transition_from": "shot_10",
+      "review_status": "text_preflight_passed_image_review_pending"
+    },
+    {
+      "shot_id": "shot_12",
+      "paragraph_id": "p003",
+      "location": "皮皮家小木屋门前门廊台阶，傍晚",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "birch_leaf_pale_gold",
+        "short_hard_twig",
+        "grass_pillow_patch",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "叶、枝、草丛静置同一地点。",
+      "action": "风吹来，叶缘在枯枝支撑处翘动；不让叶片滚走。",
+      "state_after": "同一组物件未换位，皮皮尚未动手。",
+      "transition_from": "shot_11",
+      "review_status": "text_preflight_passed_image_review_pending"
+    },
+    {
+      "shot_id": "shot_13",
+      "paragraph_id": "p003",
+      "location": "皮皮家小木屋门前门廊台阶，傍晚",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "birch_leaf_pale_gold",
+        "short_hard_twig",
+        "grass_pillow_patch",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "同一叶片仍被枯枝顶着，边缘卷曲。",
+      "action": "以静态构图表现翻来覆去、找不到舒服姿势；不添加人脸表情。",
+      "state_after": "皮皮准备帮忙但尚未介入，叶与枝状态不变。",
+      "transition_from": "shot_12",
+      "review_status": "text_preflight_passed_image_review_pending"
+    },
+    {
+      "shot_id": "shot_14",
+      "paragraph_id": "p004",
+      "location": "同一门廊台阶旁的细草丛与小路边，傍晚",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "birch_leaf_pale_gold",
+        "short_hard_twig",
+        "grass_pillow_patch",
+        "porch_step",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "皮皮在门廊旁，叶片仍不安稳，栗栗不在场。",
+      "action": "皮皮想起白天问题后轻轻蹲到草丛旁。",
+      "state_after": "皮皮保持外套；手未触叶、枝仍在原位。",
+      "transition_from": "shot_13",
+      "review_status": "text_preflight_passed_image_review_pending"
+    },
+    {
+      "shot_id": "shot_15",
+      "paragraph_id": "p004",
+      "location": "同一门廊台阶旁的细草丛与小路边，傍晚",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "birch_leaf_pale_gold",
+        "short_hard_twig",
+        "grass_pillow_patch",
+        "porch_step",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "皮皮蹲在叶旁，枝条仍在叶背下，草丛受压。",
+      "action": "皮皮没有抓叶，伸出两根手指接近枯枝。",
+      "state_after": "动作谨慎，叶片未被拿起，物件位置仍稳定。",
+      "transition_from": "shot_14",
+      "review_status": "text_preflight_passed_image_review_pending"
+    },
+    {
+      "shot_id": "shot_16",
+      "paragraph_id": "p004",
+      "location": "同一门廊台阶旁的细草丛与小路边，傍晚",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "birch_leaf_pale_gold",
+        "short_hard_twig",
+        "grass_pillow_patch",
+        "porch_step",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "两指靠近枝条，叶未被举起。",
+      "action": "皮皮将同一小枯枝从叶背下轻轻抽出。",
+      "state_after": "枝条从叶下移开，叶仍落在原草丛；皮皮随后把枝移到小路边。",
+      "transition_from": "shot_15",
+      "review_status": "text_preflight_passed_image_review_pending"
+    },
+    {
+      "shot_id": "shot_17",
+      "paragraph_id": "p004",
+      "location": "同一门廊台阶旁的细草丛与小路边，傍晚",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "birch_leaf_pale_gold",
+        "short_hard_twig",
+        "grass_pillow_patch",
+        "porch_step",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "枯枝已经放到小路边，不再接触叶片；草丛仍压低。",
+      "action": "抽枝动作结束，草丛开始回弹。",
+      "state_after": "枯枝固定在路边，叶片仍在原位；草丛逐渐抬起。",
+      "transition_from": "shot_16",
+      "review_status": "text_preflight_passed_image_review_pending"
+    },
+    {
+      "shot_id": "shot_18",
+      "paragraph_id": "p004",
+      "location": "同一门廊台阶旁的细草丛与小路边，傍晚",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "birch_leaf_pale_gold",
+        "short_hard_twig",
+        "grass_pillow_patch",
+        "porch_step",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "同一草丛回弹，叶片没有移动到别处。",
+      "action": "草叶弹起后托住叶背，支点消失。",
+      "state_after": "叶片稳稳由草丛托住；枯枝仍在路边。",
+      "transition_from": "shot_17",
+      "review_status": "text_preflight_passed_image_review_pending"
+    },
+    {
+      "shot_id": "shot_19",
+      "paragraph_id": "p004",
+      "location": "同一门廊台阶旁的细草丛与小路边，傍晚",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "birch_leaf_pale_gold",
+        "short_hard_twig",
+        "grass_pillow_patch",
+        "porch_step",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "叶片稳定、草丛弹起，枝条在路边。",
+      "action": "温柔展示绿色细草像有弹性的枕头托住叶背。",
+      "state_after": "物件状态稳定；皮皮手离开，未捡叶。",
+      "transition_from": "shot_18",
+      "review_status": "text_preflight_passed_image_review_pending"
+    },
+    {
+      "shot_id": "shot_20",
+      "paragraph_id": "p005",
+      "location": "同一门廊台阶旁草丛，晚风经过、天色渐暗",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "birch_leaf_pale_gold",
+        "grass_pillow_patch",
+        "short_hard_twig",
+        "porch_step",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "傍晚天色更暗，叶仍在草丛、枝在路边。",
+      "action": "晚风再次吹过，叶片只动边角。",
+      "state_after": "叶没有翻面、移动或离开草丛。",
+      "transition_from": "shot_19",
+      "review_status": "text_preflight_passed_image_review_pending"
+    },
+    {
+      "shot_id": "shot_21",
+      "paragraph_id": "p005",
+      "location": "同一门廊台阶旁草丛，晚风经过、天色渐暗",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "birch_leaf_pale_gold",
+        "grass_pillow_patch",
+        "short_hard_twig",
+        "porch_step",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "风吹后同一叶片在草丛中。",
+      "action": "叶片安稳不再追着小路乱跑。",
+      "state_after": "叶、草、枝的状态保持：叶在草，枝在路边。",
+      "transition_from": "shot_20",
+      "review_status": "text_preflight_passed_image_review_pending"
+    },
+    {
+      "shot_id": "shot_22",
+      "paragraph_id": "p005",
+      "location": "同一门廊台阶旁草丛，晚风经过、天色渐暗",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "birch_leaf_pale_gold",
+        "grass_pillow_patch",
+        "short_hard_twig",
+        "porch_step",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "叶片安稳留在草丛，皮皮蹲/站在旁边。",
+      "action": "皮皮看叶后微笑站起，表现安心与温柔。",
+      "state_after": "皮皮站起但仍在门廊旁，没有捡叶。",
+      "transition_from": "shot_21",
+      "review_status": "text_preflight_passed_image_review_pending"
+    },
+    {
+      "shot_id": "shot_23",
+      "paragraph_id": "p005",
+      "location": "同一门廊台阶旁草丛，晚风经过、天色渐暗",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "birch_leaf_pale_gold",
+        "grass_pillow_patch",
+        "short_hard_twig",
+        "porch_step",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "皮皮在门廊旁，叶片在草丛、枝在路边。",
+      "action": "皮皮选择不把叶夹进书本，让它留在泥土草床；随后离开门廊回室内。",
+      "state_after": "叶留在原处；皮皮与户外场景分离，进入卧室转场。",
+      "transition_from": "shot_22",
+      "review_status": "text_preflight_passed_image_review_pending"
+    },
+    {
+      "shot_id": "shot_24",
+      "paragraph_id": "p006",
+      "location": "小木屋卧室床边，夜晚",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "bedroom_pillow",
+        "bedroom_blanket_yellow",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "夜晚，皮皮回到卧室床边，仍穿户外外套。",
+      "action": "皮皮脱下同一件小外套，为躺下做准备。",
+      "state_after": "外套从身上移除；后续镜头不再穿回。",
+      "transition_from": "shot_23",
+      "review_status": "text_preflight_passed_image_review_pending"
+    },
+    {
+      "shot_id": "shot_25",
+      "paragraph_id": "p006",
+      "location": "小木屋卧室床边，夜晚",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "bedroom_pillow",
+        "bedroom_blanket_yellow",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "皮皮已脱外套，站/坐在同一床边；小枕头在床面。",
+      "action": "将同一小枕头拨松并往中间移动。",
+      "state_after": "枕头居中且蓬松，外套放在床边近处，不凭空消失。",
+      "transition_from": "shot_24",
+      "review_status": "text_preflight_passed_image_review_pending"
+    },
+    {
+      "shot_id": "shot_26",
+      "paragraph_id": "p006",
+      "location": "小木屋卧室床边，夜晚",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "bedroom_pillow",
+        "bedroom_blanket_yellow",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "枕头位于床中，皮皮仍未盖好毛毯。",
+      "action": "皮皮调整姿势，让两只长耳朵舒展地垂在枕边。",
+      "state_after": "耳朵不再折叠，枕头与人物相对位置固定。",
+      "transition_from": "shot_25",
+      "review_status": "text_preflight_passed_image_review_pending"
+    },
+    {
+      "shot_id": "shot_27",
+      "paragraph_id": "p006",
+      "location": "小木屋卧室床边，夜晚",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "bedroom_pillow",
+        "bedroom_blanket_yellow",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "皮皮在床上，枕头托头；外套已脱。",
+      "action": "暖黄色毛毯盖住皮皮，皮皮闭眼。",
+      "state_after": "皮皮在同一床上安睡，毛毯、枕头固定。",
+      "transition_from": "shot_26",
+      "review_status": "text_preflight_passed_image_review_pending"
+    },
+    {
+      "shot_id": "shot_28",
+      "paragraph_id": "p006",
+      "location": "小木屋卧室床边，夜晚",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "bedroom_pillow",
+        "bedroom_blanket_yellow",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "卧室夜景，皮皮被棉花枕头托住，毛毯盖好。",
+      "action": "旁白对照门外草枕与屋内软枕；画面留在室内安睡的皮皮，不加分屏/梦境。",
+      "state_after": "户外叶子的安稳状态在叙述中承接，人物仍在卧室。",
+      "transition_from": "shot_27",
+      "review_status": "text_preflight_passed_image_review_pending"
+    },
+    {
+      "shot_id": "shot_29",
+      "paragraph_id": "p007",
+      "location": "同一卧室床上，夜晚安静收尾",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "bedroom_pillow",
+        "bedroom_blanket_yellow"
+      ],
+      "state_before": "皮皮在床上安睡，衣着与寝具一致。",
+      "action": "旁白向小朋友说心里的小事像落叶，可轻放在软枕上；画面保持平静。",
+      "state_after": "无新增角色，故事仍发生在卧室。",
+      "transition_from": "shot_28",
+      "review_status": "text_preflight_passed_image_review_pending"
+    },
+    {
+      "shot_id": "shot_30",
+      "paragraph_id": "p007",
+      "location": "同一卧室床上，夜晚安静收尾",
+      "characters": [
+        "pipi"
+      ],
+      "continuity_refs": [
+        "bedroom_pillow",
+        "bedroom_blanket_yellow"
+      ],
+      "state_before": "同一床上，皮皮的头落在枕头上、毛毯盖好。",
+      "action": "呈现“找舒服姿势、晚安”的收束瞬间。",
+      "state_after": "无新动作；留出末句后的安静尾声并按规范渐暗。",
+      "transition_from": "shot_29",
+      "review_status": "text_preflight_passed_image_review_pending"
+    }
+  ],
+  "review_status": {
+    "textual_pass_1": "passed: walked all 31 frames in order, verified location, cast, props, action prerequisites and outcomes",
+    "textual_pass_2": "passed: checked fixed asset anchors and state changes across references",
+    "image_contact_sheet_review": "pending; must complete after all 31 images exist"
+  }
+}

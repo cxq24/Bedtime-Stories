@@ -1,0 +1,13 @@
+{
+  "shot_id": "shot_01",
+  "file": "images/shot_01.png",
+  "sha256": "bc1ec5c2b0ff79368e4e6931056457db22c56ede9eb748572c4c80a01e1417c4",
+  "source": "built-in image_gen",
+  "reference_images": [
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+  ],
+  "prompt": "Second dedicated standalone opening illustration. Same daytime birch forest, same Pipi identity and exact same clothes/jacket as shot_00. One generic small golden leaf twirls airborne through pale sky; Pipi looks up with quiet delight, does not touch it. It is not the special later porch leaf. Portrait 9:16 watercolor, calm lower 20% subtitle-safe. No text or extra characters.",
+  "review": "assistant_visually_reviewed_for_identity_composition_and_opening_distinction",
+  "user_acceptance": "pending"
+}

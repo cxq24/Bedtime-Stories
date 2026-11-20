@@ -1,0 +1,185 @@
+{
+  "text": "他没有把这片秋叶捡进屋里夹进书本，而是让它留在自己选好的、有草叶托着的泥土小床上。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "ba3b3efd674bf03d5875ee97552c798b2a3f1d13f98f11f938f201386c6a5109",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2500000,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3769160,
+      "duration": 4038330,
+      "text": "没有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8000000,
+      "duration": 1922910,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10115410,
+      "duration": 1922910,
+      "text": "这"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12038330,
+      "duration": 2884580,
+      "text": "片"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15115410,
+      "duration": 8653750,
+      "text": "秋叶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25307500,
+      "duration": 3653750,
+      "text": "捡"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28961660,
+      "duration": 2307500,
+      "text": "进"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31461660,
+      "duration": 5769160,
+      "text": "屋里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37615410,
+      "duration": 2500000,
+      "text": "夹"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40115410,
+      "duration": 2500000,
+      "text": "进"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42807500,
+      "duration": 7500000,
+      "text": "书本"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56461660,
+      "duration": 4230830,
+      "text": "而是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60884580,
+      "duration": 2884580,
+      "text": "让"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63769160,
+      "duration": 5384580,
+      "text": "它"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 70692500,
+      "duration": 2307500,
+      "text": "留"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 73000000,
+      "duration": 2307500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75692500,
+      "duration": 4038330,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 79922910,
+      "duration": 4038330,
+      "text": "选"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 83961660,
+      "duration": 4230830,
+      "text": "好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 88192500,
+      "duration": 3077080,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 95000000,
+      "duration": 2884580,
+      "text": "有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 97884580,
+      "duration": 6922910,
+      "text": "草叶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 105000000,
+      "duration": 3269160,
+      "text": "托"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 108269160,
+      "duration": 1730830,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 110000000,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 111730830,
+      "duration": 4615410,
+      "text": "泥土"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 116538330,
+      "duration": 7692500,
+      "text": "小床"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 124230830,
+      "duration": 4615410,
+      "text": "上"
+    }
+  ]
+}

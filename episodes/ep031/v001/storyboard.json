@@ -1,0 +1,1640 @@
+{
+  "episode": "ep031",
+  "title": "秋叶的软枕头",
+  "script_version": "v5",
+  "status": "locked_after_audio_and_textual_continuity_review",
+  "timing_basis": "actual_tts_and_locked_storyboard",
+  "shots": [
+    {
+      "id": 0,
+      "paragraph_id": "p000",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u01",
+          "start_char": 0,
+          "end_char": 14
+        },
+        {
+          "unit_id": "p000_u02",
+          "start_char": 0,
+          "end_char": 15
+        }
+      ],
+      "text": "小朋友们，准备好听故事了吗？今天的故事叫《秋叶的软枕头》。",
+      "title": "小朋友们，准备好听故事了吗？今天的故",
+      "location": "秋日森林的白桦树冠与放学小路，片头建立秋叶飘落的疑问",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "秋日森林的白桦树冠与放学小路，片头建立秋叶飘落的疑问。本镜口播对应：小朋友们，准备好听故事了吗？今天的故事叫《秋叶的软枕头》。。皮皮仰头，神情好奇而期待；视线跟随空中的秋叶，耳朵自然张开，不沿用参考图表情。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。 片头独立构图：用白桦林与空中金黄叶片建立故事问题，不复用后续门廊落叶画面，也不充当封面。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 0.0,
+      "actual_end_s": 9.08,
+      "visible_start_s": 0.0,
+      "visible_end_s": 9.56,
+      "visible_duration_s": 9.56,
+      "continuity_refs": [
+        "birch_grove",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "片头：白天回家林道，皮皮穿好赭黄色短外套。",
+      "state_after": "进入正文的白桦林树冠；角色仍沿回家路，服装不变。",
+      "transition_from": null,
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_00.png",
+      "speech_start_s": 1.0,
+      "speech_end_s": 8.861415999999998,
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "action": "以温和好奇的仰视姿态引出故事；片头用林道全景，不与正文重复。"
+    },
+    {
+      "id": 1,
+      "paragraph_id": "p000",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u03",
+          "start_char": 0,
+          "end_char": 23
+        }
+      ],
+      "text": "秋叶落下来时，怎样找到一个柔软又安稳的地方呢？",
+      "title": "秋叶落下来时，怎样找到一个柔软又安稳",
+      "location": "秋日森林的白桦树冠与放学小路，片头建立秋叶飘落的疑问",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "秋日森林的白桦树冠与放学小路，片头建立秋叶飘落的疑问。本镜口播对应：秋叶落下来时，怎样找到一个柔软又安稳的地方呢？。皮皮仰头，神情好奇而期待；视线跟随空中的秋叶，耳朵自然张开，不沿用参考图表情。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。 片头独立构图：用白桦林与空中金黄叶片建立故事问题，不复用后续门廊落叶画面，也不充当封面。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 9.08,
+      "actual_end_s": 16.12,
+      "visible_start_s": 8.6,
+      "visible_end_s": 16.6,
+      "visible_duration_s": 8.0,
+      "continuity_refs": [
+        "birch_grove",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "白桦树冠已建立，皮皮在路上。",
+      "state_after": "转入白天林道正文；片头问题未造成叶片已经落到家门口的误解。",
+      "transition_from": "shot_00",
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_01.png",
+      "speech_start_s": 9.290832666666667,
+      "speech_end_s": 15.560082666666666,
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "action": "一片秋叶在树冠下旋转下降，皮皮仰头追随，秋叶仍在林道森林层，不切到门廊叶片。"
+    },
+    {
+      "id": 2,
+      "paragraph_id": "p001",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u01",
+          "start_char": 0,
+          "end_char": 25
+        }
+      ],
+      "text": "森林里的秋天来啦，树叶纷纷换上了金黄色和浅橘色的新",
+      "title": "森林里的秋天来啦，树叶纷纷换上了金黄",
+      "location": "放学回家路上的森林林道与高处树冠，白天",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "放学回家路上的森林林道与高处树冠，白天。本镜口播对应：森林里的秋天来啦，树叶纷纷换上了金黄色和浅橘色的新。皮皮边走边仰头观察树冠，眼里有发现时的专注与轻快；叶片动作轻盈。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 16.12,
+      "actual_end_s": 24.4,
+      "visible_start_s": 15.64,
+      "visible_end_s": 24.88,
+      "visible_duration_s": 9.24,
+      "continuity_refs": [
+        "birch_grove",
+        "background_fallen_leaves",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "白天，皮皮沿林道回家，秋树叶尚在树上或飘落。",
+      "state_after": "皮皮仍在同一条回家林道，外套在身。",
+      "transition_from": "shot_01",
+      "image_status": "not_generated",
+      "image_path": null,
+      "speech_start_s": 16.6975,
+      "speech_end_s": 24.406186166666668,
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "action": "皮皮抬头观察金黄/浅橘树冠。"
+    },
+    {
+      "id": 3,
+      "paragraph_id": "p001",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u01",
+          "start_char": 25,
+          "end_char": 28
+        },
+        {
+          "unit_id": "p001_u02",
+          "start_char": 0,
+          "end_char": 22
+        }
+      ],
+      "text": "衣裳。皮皮今天在放学回家的路上，一直仰着头看树冠。",
+      "title": "衣裳。皮皮今天在放学回家的路上，一直",
+      "location": "放学回家路上的森林林道与高处树冠，白天",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "放学回家路上的森林林道与高处树冠，白天。本镜口播对应：衣裳。皮皮今天在放学回家的路上，一直仰着头看树冠。。皮皮边走边仰头观察树冠，眼里有发现时的专注与轻快；叶片动作轻盈。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 24.4,
+      "actual_end_s": 32.4,
+      "visible_start_s": 23.919999999999998,
+      "visible_end_s": 32.879999999999995,
+      "visible_duration_s": 8.96,
+      "continuity_refs": [
+        "birch_grove",
+        "background_fallen_leaves",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "皮皮仍在林道，树冠可见。",
+      "state_after": "同一林道，皮皮注意到落叶。",
+      "transition_from": "shot_02",
+      "image_status": "not_generated",
+      "image_path": null,
+      "speech_start_s": 24.40618716666667,
+      "speech_end_s": 32.17320766666667,
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "action": "皮皮继续行走并仰望；只在背景展示金黄、浅橘树冠，不添加新人物。"
+    },
+    {
+      "id": 4,
+      "paragraph_id": "p001",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u03",
+          "start_char": 0,
+          "end_char": 40
+        }
+      ],
+      "text": "他发现好多树叶在离开树枝妈妈的时候，都会在空中打着旋儿跳一支舞，然后才落到地上。",
+      "title": "他发现好多树叶在离开树枝妈妈的时候，",
+      "location": "放学回家路上的森林林道与高处树冠，白天",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "放学回家路上的森林林道与高处树冠，白天。本镜口播对应：他发现好多树叶在离开树枝妈妈的时候，都会在空中打着旋儿跳一支舞，然后才落到地上。。皮皮边走边仰头观察树冠，眼里有发现时的专注与轻快；叶片动作轻盈。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 32.4,
+      "actual_end_s": 44.84,
+      "visible_start_s": 31.919999999999998,
+      "visible_end_s": 45.32,
+      "visible_duration_s": 13.4,
+      "continuity_refs": [
+        "birch_grove",
+        "background_fallen_leaves",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "树叶仍在树冠和林道附近，皮皮走路。",
+      "state_after": "同一林道；皮皮仍穿同一外套，路线连续。",
+      "transition_from": "shot_03",
+      "image_status": "not_generated",
+      "image_path": null,
+      "speech_start_s": 32.62835416666667,
+      "speech_end_s": 44.274894833333335,
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "action": "多片普通秋叶旋转飘落，保留它们为泛指背景叶，不标成之后那片白桦叶。"
+    },
+    {
+      "id": 5,
+      "paragraph_id": "p002",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u01",
+          "start_char": 0,
+          "end_char": 27
+        }
+      ],
+      "text": "同路的小刺猬栗栗看着满地的落叶，有点担心地问：“皮皮，",
+      "title": "同路的小刺猬栗栗看着满地的落叶，有点",
+      "location": "同一条回家林道，白天；皮皮与栗栗并肩对话",
+      "layer": "real_world",
+      "characters": [
+        "pipi",
+        "lili"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001",
+        "lili": "default_v001"
+      },
+      "visual_direction": "同一条回家林道，白天；皮皮与栗栗并肩对话。本镜口播对应：同路的小刺猬栗栗看着满地的落叶，有点担心地问：“皮皮，。栗栗眉眼带一点担忧，望向落叶再看皮皮；皮皮认真倾听、随后平静思考和回应，二人姿态有区别。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。 皮皮和栗栗是林道同伴：栗栗担心、看向落叶，皮皮认真倾听/平静回答；明确两人的差异表演。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 44.84,
+      "actual_end_s": 53.48,
+      "visible_start_s": 44.36000000000001,
+      "visible_end_s": 53.959999999999994,
+      "visible_duration_s": 9.6,
+      "continuity_refs": [
+        "background_fallen_leaves",
+        "pipi_outer_jacket",
+        "lili_v001",
+        "birch_grove"
+      ],
+      "state_before": "皮皮在回家林道，栗栗进入/在场。",
+      "state_after": "两人同路，栗栗尚未离开；对话继续。",
+      "transition_from": "shot_04",
+      "image_status": "not_generated",
+      "image_path": null,
+      "speech_start_s": 45.37460416666667,
+      "speech_end_s": 53.21389550000001,
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ],
+        "lili": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+        ]
+      },
+      "action": "栗栗看向林道旁的普通落叶，神情略担忧；皮皮在旁倾听。"
+    },
+    {
+      "id": 6,
+      "paragraph_id": "p002",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u01",
+          "start_char": 27,
+          "end_char": 56
+        }
+      ],
+      "text": "树叶从那么高的树枝上掉下来，离开了自己原本的地方，会不会摔",
+      "title": "树叶从那么高的树枝上掉下来，离开了自",
+      "location": "同一条回家林道，白天；皮皮与栗栗并肩对话",
+      "layer": "real_world",
+      "characters": [
+        "pipi",
+        "lili"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001",
+        "lili": "default_v001"
+      },
+      "visual_direction": "同一条回家林道，白天；皮皮与栗栗并肩对话。本镜口播对应：树叶从那么高的树枝上掉下来，离开了自己原本的地方，会不会摔。栗栗眉眼带一点担忧，望向落叶再看皮皮；皮皮认真倾听、随后平静思考和回应，二人姿态有区别。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。 皮皮和栗栗是林道同伴：栗栗担心、看向落叶，皮皮认真倾听/平静回答；明确两人的差异表演。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 53.48,
+      "actual_end_s": 61.72,
+      "visible_start_s": 53.0,
+      "visible_end_s": 62.199999999999996,
+      "visible_duration_s": 9.2,
+      "continuity_refs": [
+        "background_fallen_leaves",
+        "pipi_outer_jacket",
+        "lili_v001",
+        "birch_grove"
+      ],
+      "state_before": "两人并肩在同一路段，背景有非特定落叶。",
+      "state_after": "栗栗的担心被清楚呈现；皮皮在同一地点聆听。",
+      "transition_from": "shot_05",
+      "image_status": "not_generated",
+      "image_path": null,
+      "speech_start_s": 53.7523125,
+      "speech_end_s": 61.702312500000005,
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ],
+        "lili": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+        ]
+      },
+      "action": "栗栗提出树叶会不会摔疼、睡不好，视线落在落叶，再看皮皮。"
+    },
+    {
+      "id": 7,
+      "paragraph_id": "p002",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u01",
+          "start_char": 56,
+          "end_char": 68
+        },
+        {
+          "unit_id": "p002_u02",
+          "start_char": 0,
+          "end_char": 28
+        }
+      ],
+      "text": "疼，会不会睡不好觉呀？”皮皮当时想了想，说：“我们回家的时候，帮它们看一看吧。”",
+      "title": "疼，会不会睡不好觉呀？”皮皮当时想了",
+      "location": "同一条回家林道，白天；皮皮与栗栗并肩对话",
+      "layer": "real_world",
+      "characters": [
+        "pipi",
+        "lili"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001",
+        "lili": "default_v001"
+      },
+      "visual_direction": "同一条回家林道，白天；皮皮与栗栗并肩对话。本镜口播对应：疼，会不会睡不好觉呀？”皮皮当时想了想，说：“我们回家的时候，帮它们看一看吧。”。栗栗眉眼带一点担忧，望向落叶再看皮皮；皮皮认真倾听、随后平静思考和回应，二人姿态有区别。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。 皮皮和栗栗是林道同伴：栗栗担心、看向落叶，皮皮认真倾听/平静回答；明确两人的差异表演。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 61.72,
+      "actual_end_s": 73.04,
+      "visible_start_s": 61.24,
+      "visible_end_s": 73.52000000000001,
+      "visible_duration_s": 12.28,
+      "continuity_refs": [
+        "background_fallen_leaves",
+        "pipi_outer_jacket",
+        "lili_v001",
+        "birch_grove"
+      ],
+      "state_before": "栗栗提问结束；两人仍在林道。",
+      "state_after": "对话结束；下一镜转到傍晚皮皮家门口，栗栗不再出现。",
+      "transition_from": "shot_06",
+      "image_status": "not_generated",
+      "image_path": null,
+      "speech_start_s": 61.702312500000005,
+      "speech_end_s": 72.46281183333333,
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ],
+        "lili": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+        ]
+      },
+      "action": "皮皮思考后答应回家路上帮忙看看；克制、认真。"
+    },
+    {
+      "id": 8,
+      "paragraph_id": "p003",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u01",
+          "start_char": 0,
+          "end_char": 27
+        }
+      ],
+      "text": "到了傍晚，皮皮走到自己家小木屋门前时，正好有一片浅黄色",
+      "title": "到了傍晚，皮皮走到自己家小木屋门前时",
+      "location": "皮皮家小木屋门前门廊台阶，傍晚",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮家小木屋门前门廊台阶，傍晚。本镜口播对应：到了傍晚，皮皮走到自己家小木屋门前时，正好有一片浅黄色。皮皮到家时留意飘落的叶子，表情温和好奇；叶片自然下落，不拟人化成夸张表情。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。 重复道具形状严格按 continuity.json 的同一叶片、枯枝、草丛锚点；禁止变色、变形、换地点。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 73.04,
+      "actual_end_s": 81.84,
+      "visible_start_s": 72.56,
+      "visible_end_s": 82.32000000000001,
+      "visible_duration_s": 9.76,
+      "continuity_refs": [
+        "birch_leaf_pale_gold",
+        "short_hard_twig",
+        "grass_pillow_patch",
+        "pipi_outer_jacket",
+        "background_fallen_leaves",
+        "porch_step"
+      ],
+      "state_before": "傍晚皮皮到家门前，穿同一秋日外套；栗栗已离场。",
+      "state_after": "同一特定叶片向门廊台阶旁草丛下落；皮皮仍未触碰。",
+      "transition_from": "shot_07",
+      "image_status": "not_generated",
+      "image_path": null,
+      "speech_start_s": 73.60266666666666,
+      "speech_end_s": 81.84001983333333,
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "action": "皮皮走到小木屋门前时，第一片特定浅黄色白桦叶开始从头顶飘落。"
+    },
+    {
+      "id": 9,
+      "paragraph_id": "p003",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u01",
+          "start_char": 27,
+          "end_char": 53
+        }
+      ],
+      "text": "的白桦树叶，从头顶飘飘悠悠地落了下来，轻轻靠在了门廊",
+      "title": "的白桦树叶，从头顶飘飘悠悠地落了下来",
+      "location": "皮皮家小木屋门前门廊台阶，傍晚",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮家小木屋门前门廊台阶，傍晚。本镜口播对应：的白桦树叶，从头顶飘飘悠悠地落了下来，轻轻靠在了门廊。皮皮到家时留意飘落的叶子，表情温和好奇；叶片自然下落，不拟人化成夸张表情。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。 重复道具形状严格按 continuity.json 的同一叶片、枯枝、草丛锚点；禁止变色、变形、换地点。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 81.84,
+      "actual_end_s": 89.96,
+      "visible_start_s": 81.36,
+      "visible_end_s": 90.44,
+      "visible_duration_s": 9.08,
+      "continuity_refs": [
+        "birch_leaf_pale_gold",
+        "short_hard_twig",
+        "grass_pillow_patch",
+        "pipi_outer_jacket",
+        "porch_step"
+      ],
+      "state_before": "同一门廊傍晚，特定叶片在空中；草丛位于台阶旁。",
+      "state_after": "同一叶片接触台阶旁草丛；位置固定。",
+      "transition_from": "shot_08",
+      "image_status": "not_generated",
+      "image_path": null,
+      "speech_start_s": 81.84006183333332,
+      "speech_end_s": 89.94389583333333,
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "action": "叶片缓缓落下，画面明确台阶、草丛和落点方位。"
+    },
+    {
+      "id": 10,
+      "paragraph_id": "p003",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u01",
+          "start_char": 53,
+          "end_char": 63
+        },
+        {
+          "unit_id": "p003_u02",
+          "start_char": 0,
+          "end_char": 14
+        }
+      ],
+      "text": "台阶旁的一丛细草上。可是，这片秋叶并没有平平展展",
+      "title": "台阶旁的一丛细草上。可是，这片秋叶并",
+      "location": "皮皮家小木屋门前门廊台阶，傍晚",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮家小木屋门前门廊台阶，傍晚。本镜口播对应：台阶旁的一丛细草上。可是，这片秋叶并没有平平展展。皮皮到家时留意飘落的叶子，表情温和好奇；叶片自然下落，不拟人化成夸张表情。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。 重复道具形状严格按 continuity.json 的同一叶片、枯枝、草丛锚点；禁止变色、变形、换地点。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 89.96,
+      "actual_end_s": 97.76,
+      "visible_start_s": 89.47999999999999,
+      "visible_end_s": 98.24000000000001,
+      "visible_duration_s": 8.76,
+      "continuity_refs": [
+        "birch_leaf_pale_gold",
+        "short_hard_twig",
+        "grass_pillow_patch",
+        "pipi_outer_jacket",
+        "porch_step"
+      ],
+      "state_before": "叶片落在草丛，枝条位于叶背下方。",
+      "state_after": "同一叶片保持原位，枯枝顶住叶背中部。",
+      "transition_from": "shot_09",
+      "image_status": "not_generated",
+      "image_path": null,
+      "speech_start_s": 89.96314583333333,
+      "speech_end_s": 97.77431216666666,
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "action": "显示叶片没有平展，边缘微卷；草丛与门廊位置不变。"
+    },
+    {
+      "id": 11,
+      "paragraph_id": "p003",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u02",
+          "start_char": 14,
+          "end_char": 18
+        },
+        {
+          "unit_id": "p003_u03",
+          "start_char": 0,
+          "end_char": 20
+        }
+      ],
+      "text": "地躺好。它的边缘有一点点向上卷曲，叶子的正中间被",
+      "title": "地躺好。它的边缘有一点点向上卷曲，叶",
+      "location": "皮皮家小木屋门前门廊台阶，傍晚",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮家小木屋门前门廊台阶，傍晚。本镜口播对应：地躺好。它的边缘有一点点向上卷曲，叶子的正中间被。皮皮到家时留意飘落的叶子，表情温和好奇；叶片自然下落，不拟人化成夸张表情。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。 重复道具形状严格按 continuity.json 的同一叶片、枯枝、草丛锚点；禁止变色、变形、换地点。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 97.76,
+      "actual_end_s": 105.8,
+      "visible_start_s": 97.28,
+      "visible_end_s": 106.28,
+      "visible_duration_s": 9.0,
+      "continuity_refs": [
+        "birch_leaf_pale_gold",
+        "short_hard_twig",
+        "grass_pillow_patch",
+        "pipi_outer_jacket",
+        "porch_step"
+      ],
+      "state_before": "同一叶片微卷，枯枝仍在叶背中部。",
+      "state_after": "空间关系清楚：叶在上、枝在下、草丛在下方。",
+      "transition_from": "shot_10",
+      "image_status": "not_generated",
+      "image_path": null,
+      "speech_start_s": 97.77431216666666,
+      "speech_end_s": 105.79206216666665,
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "action": "近景揭示枯枝支点与叶片边缘，草叶被压低。"
+    },
+    {
+      "id": 12,
+      "paragraph_id": "p003",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u03",
+          "start_char": 20,
+          "end_char": 47
+        }
+      ],
+      "text": "下面一根硬邦邦的小枯枝顶住了，风一吹，它就翘来翘去的，",
+      "title": "下面一根硬邦邦的小枯枝顶住了，风一吹",
+      "location": "皮皮家小木屋门前门廊台阶，傍晚",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮家小木屋门前门廊台阶，傍晚。本镜口播对应：下面一根硬邦邦的小枯枝顶住了，风一吹，它就翘来翘去的，。皮皮到家时留意飘落的叶子，表情温和好奇；叶片自然下落，不拟人化成夸张表情。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。 重复道具形状严格按 continuity.json 的同一叶片、枯枝、草丛锚点；禁止变色、变形、换地点。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 105.8,
+      "actual_end_s": 113.8,
+      "visible_start_s": 105.32,
+      "visible_end_s": 114.28,
+      "visible_duration_s": 8.96,
+      "continuity_refs": [
+        "birch_leaf_pale_gold",
+        "short_hard_twig",
+        "grass_pillow_patch",
+        "pipi_outer_jacket",
+        "porch_step"
+      ],
+      "state_before": "叶、枝、草丛静置同一地点。",
+      "state_after": "同一组物件未换位，皮皮尚未动手。",
+      "transition_from": "shot_11",
+      "image_status": "not_generated",
+      "image_path": null,
+      "speech_start_s": 105.79206216666665,
+      "speech_end_s": 113.53052016666666,
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "action": "风吹来，叶缘在枯枝支撑处翘动；不让叶片滚走。"
+    },
+    {
+      "id": 13,
+      "paragraph_id": "p003",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u03",
+          "start_char": 47,
+          "end_char": 73
+        }
+      ],
+      "text": "像是在床上翻来覆去，怎么也找不到一个舒服的睡觉姿势。",
+      "title": "像是在床上翻来覆去，怎么也找不到一个",
+      "location": "皮皮家小木屋门前门廊台阶，傍晚",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮家小木屋门前门廊台阶，傍晚。本镜口播对应：像是在床上翻来覆去，怎么也找不到一个舒服的睡觉姿势。。皮皮到家时留意飘落的叶子，表情温和好奇；叶片自然下落，不拟人化成夸张表情。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。 重复道具形状严格按 continuity.json 的同一叶片、枯枝、草丛锚点；禁止变色、变形、换地点。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 113.8,
+      "actual_end_s": 121.64,
+      "visible_start_s": 113.32,
+      "visible_end_s": 122.12,
+      "visible_duration_s": 8.8,
+      "continuity_refs": [
+        "birch_leaf_pale_gold",
+        "short_hard_twig",
+        "grass_pillow_patch",
+        "pipi_outer_jacket",
+        "porch_step"
+      ],
+      "state_before": "同一叶片仍被枯枝顶着，边缘卷曲。",
+      "state_after": "皮皮准备帮忙但尚未介入，叶与枝状态不变。",
+      "transition_from": "shot_12",
+      "image_status": "not_generated",
+      "image_path": null,
+      "speech_start_s": 114.08822916666665,
+      "speech_end_s": 121.08818716666666,
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "action": "以静态构图表现翻来覆去、找不到舒服姿势；不添加人脸表情。"
+    },
+    {
+      "id": 14,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u01",
+          "start_char": 0,
+          "end_char": 13
+        },
+        {
+          "unit_id": "p004_u02",
+          "start_char": 0,
+          "end_char": 13
+        }
+      ],
+      "text": "皮皮想起了栗栗白天问的话。他轻轻蹲在细草丛旁边，没有",
+      "title": "皮皮想起了栗栗白天问的话。他轻轻蹲在",
+      "location": "同一门廊台阶旁的细草丛与小路边，傍晚",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "同一门廊台阶旁的细草丛与小路边，傍晚。本镜口播对应：皮皮想起了栗栗白天问的话。他轻轻蹲在细草丛旁边，没有。皮皮轻柔蹲低，专注看着叶背和枯枝，用两根小手指小心抽枝；动作轻而精准。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。 重复道具形状严格按 continuity.json 的同一叶片、枯枝、草丛锚点；禁止变色、变形、换地点。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 121.64,
+      "actual_end_s": 130.36,
+      "visible_start_s": 121.16,
+      "visible_end_s": 130.84,
+      "visible_duration_s": 9.68,
+      "continuity_refs": [
+        "birch_leaf_pale_gold",
+        "short_hard_twig",
+        "grass_pillow_patch",
+        "porch_step",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "皮皮在门廊旁，叶片仍不安稳，栗栗不在场。",
+      "state_after": "皮皮保持外套；手未触叶、枝仍在原位。",
+      "transition_from": "shot_13",
+      "image_status": "not_generated",
+      "image_path": null,
+      "speech_start_s": 122.2274375,
+      "speech_end_s": 130.35245833333332,
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "action": "皮皮想起白天问题后轻轻蹲到草丛旁。"
+    },
+    {
+      "id": 15,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u02",
+          "start_char": 13,
+          "end_char": 38
+        }
+      ],
+      "text": "粗鲁地把秋叶抓起来，而是伸出两根小手指，把压在秋叶",
+      "title": "粗鲁地把秋叶抓起来，而是伸出两根小手",
+      "location": "同一门廊台阶旁的细草丛与小路边，傍晚",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "同一门廊台阶旁的细草丛与小路边，傍晚。本镜口播对应：粗鲁地把秋叶抓起来，而是伸出两根小手指，把压在秋叶。皮皮轻柔蹲低，专注看着叶背和枯枝，用两根小手指小心抽枝；动作轻而精准。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。 重复道具形状严格按 continuity.json 的同一叶片、枯枝、草丛锚点；禁止变色、变形、换地点。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 130.36,
+      "actual_end_s": 138.4,
+      "visible_start_s": 129.88000000000002,
+      "visible_end_s": 138.88,
+      "visible_duration_s": 9.0,
+      "continuity_refs": [
+        "birch_leaf_pale_gold",
+        "short_hard_twig",
+        "grass_pillow_patch",
+        "porch_step",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "皮皮蹲在叶旁，枝条仍在叶背下，草丛受压。",
+      "state_after": "动作谨慎，叶片未被拿起，物件位置仍稳定。",
+      "transition_from": "shot_14",
+      "image_status": "not_generated",
+      "image_path": null,
+      "speech_start_s": 130.37166633333334,
+      "speech_end_s": 138.37937433333332,
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "action": "皮皮没有抓叶，伸出两根手指接近枯枝。"
+    },
+    {
+      "id": 16,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u02",
+          "start_char": 38,
+          "end_char": 64
+        }
+      ],
+      "text": "背面底下那一小段硬硬的枯枝，小心翼翼地抽了出来，挪到",
+      "title": "背面底下那一小段硬硬的枯枝，小心翼翼",
+      "location": "同一门廊台阶旁的细草丛与小路边，傍晚",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "同一门廊台阶旁的细草丛与小路边，傍晚。本镜口播对应：背面底下那一小段硬硬的枯枝，小心翼翼地抽了出来，挪到。皮皮轻柔蹲低，专注看着叶背和枯枝，用两根小手指小心抽枝；动作轻而精准。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。 重复道具形状严格按 continuity.json 的同一叶片、枯枝、草丛锚点；禁止变色、变形、换地点。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 138.4,
+      "actual_end_s": 146.12,
+      "visible_start_s": 137.92000000000002,
+      "visible_end_s": 146.6,
+      "visible_duration_s": 8.68,
+      "continuity_refs": [
+        "birch_leaf_pale_gold",
+        "short_hard_twig",
+        "grass_pillow_patch",
+        "porch_step",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "两指靠近枝条，叶未被举起。",
+      "state_after": "枝条从叶下移开，叶仍落在原草丛；皮皮随后把枝移到小路边。",
+      "transition_from": "shot_15",
+      "image_status": "not_generated",
+      "image_path": null,
+      "speech_start_s": 138.39858333333333,
+      "speech_end_s": 146.11008333333334,
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "action": "皮皮将同一小枯枝从叶背下轻轻抽出。"
+    },
+    {
+      "id": 17,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u02",
+          "start_char": 64,
+          "end_char": 69
+        },
+        {
+          "unit_id": "p004_u03",
+          "start_char": 0,
+          "end_char": 20
+        }
+      ],
+      "text": "了小路边。枯枝一拿走，下面那丛绿油油、软绵绵的细草",
+      "title": "了小路边。枯枝一拿走，下面那丛绿油油",
+      "location": "同一门廊台阶旁的细草丛与小路边，傍晚",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "同一门廊台阶旁的细草丛与小路边，傍晚。本镜口播对应：了小路边。枯枝一拿走，下面那丛绿油油、软绵绵的细草。皮皮轻柔蹲低，专注看着叶背和枯枝，用两根小手指小心抽枝；动作轻而精准。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。 重复道具形状严格按 continuity.json 的同一叶片、枯枝、草丛锚点；禁止变色、变形、换地点。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 146.12,
+      "actual_end_s": 153.96,
+      "visible_start_s": 145.64000000000001,
+      "visible_end_s": 154.44,
+      "visible_duration_s": 8.8,
+      "continuity_refs": [
+        "birch_leaf_pale_gold",
+        "short_hard_twig",
+        "grass_pillow_patch",
+        "porch_step",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "枯枝已经放到小路边，不再接触叶片；草丛仍压低。",
+      "state_after": "枯枝固定在路边，叶片仍在原位；草丛逐渐抬起。",
+      "transition_from": "shot_16",
+      "image_status": "not_generated",
+      "image_path": null,
+      "speech_start_s": 146.11012433333332,
+      "speech_end_s": 153.85504066666667,
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "action": "抽枝动作结束，草丛开始回弹。"
+    },
+    {
+      "id": 18,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u03",
+          "start_char": 20,
+          "end_char": 47
+        }
+      ],
+      "text": "立刻慢慢弹了起来，稳稳地托住了浅黄秋叶的背面，就像给这",
+      "title": "立刻慢慢弹了起来，稳稳地托住了浅黄秋",
+      "location": "同一门廊台阶旁的细草丛与小路边，傍晚",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "同一门廊台阶旁的细草丛与小路边，傍晚。本镜口播对应：立刻慢慢弹了起来，稳稳地托住了浅黄秋叶的背面，就像给这。皮皮轻柔蹲低，专注看着叶背和枯枝，用两根小手指小心抽枝；动作轻而精准。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。 重复道具形状严格按 continuity.json 的同一叶片、枯枝、草丛锚点；禁止变色、变形、换地点。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 153.96,
+      "actual_end_s": 161.72,
+      "visible_start_s": 153.48000000000002,
+      "visible_end_s": 162.2,
+      "visible_duration_s": 8.72,
+      "continuity_refs": [
+        "birch_leaf_pale_gold",
+        "short_hard_twig",
+        "grass_pillow_patch",
+        "porch_step",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "同一草丛回弹，叶片没有移动到别处。",
+      "state_after": "叶片稳稳由草丛托住；枯枝仍在路边。",
+      "transition_from": "shot_17",
+      "image_status": "not_generated",
+      "image_path": null,
+      "speech_start_s": 154.02808266666665,
+      "speech_end_s": 161.72808266666667,
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "action": "草叶弹起后托住叶背，支点消失。"
+    },
+    {
+      "id": 19,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u03",
+          "start_char": 47,
+          "end_char": 75
+        }
+      ],
+      "text": "片刚从高处落下来的叶子，铺好了一只充满弹性的绿色小枕头！",
+      "title": "片刚从高处落下来的叶子，铺好了一只充",
+      "location": "同一门廊台阶旁的细草丛与小路边，傍晚",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "同一门廊台阶旁的细草丛与小路边，傍晚。本镜口播对应：片刚从高处落下来的叶子，铺好了一只充满弹性的绿色小枕头！。皮皮轻柔蹲低，专注看着叶背和枯枝，用两根小手指小心抽枝；动作轻而精准。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。 重复道具形状严格按 continuity.json 的同一叶片、枯枝、草丛锚点；禁止变色、变形、换地点。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 161.72,
+      "actual_end_s": 170.6,
+      "visible_start_s": 161.24,
+      "visible_end_s": 171.07999999999998,
+      "visible_duration_s": 9.84,
+      "continuity_refs": [
+        "birch_leaf_pale_gold",
+        "short_hard_twig",
+        "grass_pillow_patch",
+        "porch_step",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "叶片稳定、草丛弹起，枝条在路边。",
+      "state_after": "物件状态稳定；皮皮手离开，未捡叶。",
+      "transition_from": "shot_18",
+      "image_status": "not_generated",
+      "image_path": null,
+      "speech_start_s": 161.72808266666667,
+      "speech_end_s": 170.05499966666665,
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "action": "温柔展示绿色细草像有弹性的枕头托住叶背。"
+    },
+    {
+      "id": 20,
+      "paragraph_id": "p005",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u01",
+          "start_char": 0,
+          "end_char": 24
+        }
+      ],
+      "text": "一阵晚风再次经过门廊，这回，那片秋叶只是惬意地动",
+      "title": "一阵晚风再次经过门廊，这回，那片秋叶",
+      "location": "同一门廊台阶旁草丛，晚风经过、天色渐暗",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "同一门廊台阶旁草丛，晚风经过、天色渐暗。本镜口播对应：一阵晚风再次经过门廊，这回，那片秋叶只是惬意地动。皮皮观察叶片稳住后露出轻松微笑，慢慢站起；叶片只因风轻动边角，始终留在草丛。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。 重复道具形状严格按 continuity.json 的同一叶片、枯枝、草丛锚点；禁止变色、变形、换地点。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 170.6,
+      "actual_end_s": 178.96,
+      "visible_start_s": 170.12,
+      "visible_end_s": 179.44,
+      "visible_duration_s": 9.32,
+      "continuity_refs": [
+        "birch_leaf_pale_gold",
+        "grass_pillow_patch",
+        "short_hard_twig",
+        "porch_step",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "傍晚天色更暗，叶仍在草丛、枝在路边。",
+      "state_after": "叶没有翻面、移动或离开草丛。",
+      "transition_from": "shot_19",
+      "image_status": "not_generated",
+      "image_path": null,
+      "speech_start_s": 171.17416666666665,
+      "speech_end_s": 178.95254133333333,
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "action": "晚风再次吹过，叶片只动边角。"
+    },
+    {
+      "id": 21,
+      "paragraph_id": "p005",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u01",
+          "start_char": 24,
+          "end_char": 50
+        }
+      ],
+      "text": "了动边角，稳稳地陷在细草丛的怀抱里，再也没有翻过身来",
+      "title": "了动边角，稳稳地陷在细草丛的怀抱里，",
+      "location": "同一门廊台阶旁草丛，晚风经过、天色渐暗",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "同一门廊台阶旁草丛，晚风经过、天色渐暗。本镜口播对应：了动边角，稳稳地陷在细草丛的怀抱里，再也没有翻过身来。皮皮观察叶片稳住后露出轻松微笑，慢慢站起；叶片只因风轻动边角，始终留在草丛。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。 重复道具形状严格按 continuity.json 的同一叶片、枯枝、草丛锚点；禁止变色、变形、换地点。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 178.96,
+      "actual_end_s": 187.04,
+      "visible_start_s": 178.48000000000002,
+      "visible_end_s": 187.51999999999998,
+      "visible_duration_s": 9.04,
+      "continuity_refs": [
+        "birch_leaf_pale_gold",
+        "grass_pillow_patch",
+        "short_hard_twig",
+        "porch_step",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "风吹后同一叶片在草丛中。",
+      "state_after": "叶、草、枝的状态保持：叶在草，枝在路边。",
+      "transition_from": "shot_20",
+      "image_status": "not_generated",
+      "image_path": null,
+      "speech_start_s": 178.9525833333333,
+      "speech_end_s": 186.94104033333332,
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "action": "叶片安稳不再追着小路乱跑。"
+    },
+    {
+      "id": 22,
+      "paragraph_id": "p005",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u01",
+          "start_char": 50,
+          "end_char": 58
+        },
+        {
+          "unit_id": "p005_u02",
+          "start_char": 0,
+          "end_char": 18
+        },
+        {
+          "unit_id": "p005_u03",
+          "start_char": 0,
+          "end_char": 1
+        }
+      ],
+      "text": "追着小路乱跑了。皮皮看着它安稳的样子，微笑着站起身。他",
+      "title": "追着小路乱跑了。皮皮看着它安稳的样子",
+      "location": "同一门廊台阶旁草丛，晚风经过、天色渐暗",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "同一门廊台阶旁草丛，晚风经过、天色渐暗。本镜口播对应：追着小路乱跑了。皮皮看着它安稳的样子，微笑着站起身。他。皮皮观察叶片稳住后露出轻松微笑，慢慢站起；叶片只因风轻动边角，始终留在草丛。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。 重复道具形状严格按 continuity.json 的同一叶片、枯枝、草丛锚点；禁止变色、变形、换地点。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 187.04,
+      "actual_end_s": 195.48,
+      "visible_start_s": 186.56,
+      "visible_end_s": 195.95999999999998,
+      "visible_duration_s": 9.4,
+      "continuity_refs": [
+        "birch_leaf_pale_gold",
+        "grass_pillow_patch",
+        "short_hard_twig",
+        "porch_step",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "叶片安稳留在草丛，皮皮蹲/站在旁边。",
+      "state_after": "皮皮站起但仍在门廊旁，没有捡叶。",
+      "transition_from": "shot_21",
+      "image_status": "not_generated",
+      "image_path": null,
+      "speech_start_s": 187.1141243333333,
+      "speech_end_s": 195.48027016666668,
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "action": "皮皮看叶后微笑站起，表现安心与温柔。"
+    },
+    {
+      "id": 23,
+      "paragraph_id": "p005",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u03",
+          "start_char": 1,
+          "end_char": 41
+        }
+      ],
+      "text": "没有把这片秋叶捡进屋里夹进书本，而是让它留在自己选好的、有草叶托着的泥土小床上。",
+      "title": "没有把这片秋叶捡进屋里夹进书本，而是",
+      "location": "同一门廊台阶旁草丛，晚风经过、天色渐暗",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "同一门廊台阶旁草丛，晚风经过、天色渐暗。本镜口播对应：没有把这片秋叶捡进屋里夹进书本，而是让它留在自己选好的、有草叶托着的泥土小床上。。皮皮观察叶片稳住后露出轻松微笑，慢慢站起；叶片只因风轻动边角，始终留在草丛。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。 重复道具形状严格按 continuity.json 的同一叶片、枯枝、草丛锚点；禁止变色、变形、换地点。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 195.48,
+      "actual_end_s": 208.52,
+      "visible_start_s": 195.0,
+      "visible_end_s": 209.0,
+      "visible_duration_s": 14.0,
+      "continuity_refs": [
+        "birch_leaf_pale_gold",
+        "grass_pillow_patch",
+        "short_hard_twig",
+        "porch_step",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "皮皮在门廊旁，叶片在草丛、枝在路边。",
+      "state_after": "叶留在原处；皮皮与户外场景分离，进入卧室转场。",
+      "transition_from": "shot_22",
+      "image_status": "not_generated",
+      "image_path": null,
+      "speech_start_s": 195.48027016666668,
+      "speech_end_s": 207.98797816666666,
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "action": "皮皮选择不把叶夹进书本，让它留在泥土草床；随后离开门廊回室内。"
+    },
+    {
+      "id": 24,
+      "paragraph_id": "p006",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u01",
+          "start_char": 0,
+          "end_char": 27
+        }
+      ],
+      "text": "回到卧室的床边，皮皮脱下小外套，在躺下之前，也学着刚才",
+      "title": "回到卧室的床边，皮皮脱下小外套，在躺",
+      "location": "小木屋卧室床边，夜晚",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "小木屋卧室床边，夜晚。本镜口播对应：回到卧室的床边，皮皮脱下小外套，在躺下之前，也学着刚才。皮皮动作放松，把小枕头拨松并居中，眼神温柔；两只长耳朵自然垂落、不折叠。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。 保持同一卧室床、枕头、暖黄毛毯与服装状态；皮皮外套只脱下一次，长耳朵自然展开，不折起。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 208.52,
+      "actual_end_s": 217.44,
+      "visible_start_s": 208.04000000000002,
+      "visible_end_s": 217.92,
+      "visible_duration_s": 9.88,
+      "continuity_refs": [
+        "bedroom_pillow",
+        "bedroom_blanket_yellow",
+        "pipi_outer_jacket",
+        "porch_step"
+      ],
+      "state_before": "夜晚，皮皮回到卧室床边，仍穿户外外套。",
+      "state_after": "外套从身上移除；后续镜头不再穿回。",
+      "transition_from": "shot_23",
+      "image_status": "not_generated",
+      "image_path": null,
+      "speech_start_s": 209.0513125,
+      "speech_end_s": 217.43816566666666,
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "action": "皮皮脱下同一件小外套，为躺下做准备。"
+    },
+    {
+      "id": 25,
+      "paragraph_id": "p006",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u01",
+          "start_char": 27,
+          "end_char": 53
+        }
+      ],
+      "text": "照顾秋叶的样子，把自己的小枕头往中间拨松了一点，让两",
+      "title": "照顾秋叶的样子，把自己的小枕头往中间",
+      "location": "小木屋卧室床边，夜晚",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "小木屋卧室床边，夜晚。本镜口播对应：照顾秋叶的样子，把自己的小枕头往中间拨松了一点，让两。皮皮动作放松，把小枕头拨松并居中，眼神温柔；两只长耳朵自然垂落、不折叠。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。 保持同一卧室床、枕头、暖黄毛毯与服装状态；皮皮外套只脱下一次，长耳朵自然展开，不折起。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 217.44,
+      "actual_end_s": 225.44,
+      "visible_start_s": 216.96,
+      "visible_end_s": 225.92,
+      "visible_duration_s": 8.96,
+      "continuity_refs": [
+        "bedroom_pillow",
+        "bedroom_blanket_yellow",
+        "pipi_outer_jacket",
+        "porch_step"
+      ],
+      "state_before": "皮皮已脱外套，站/坐在同一床边；小枕头在床面。",
+      "state_after": "枕头居中且蓬松，外套放在床边近处，不凭空消失。",
+      "transition_from": "shot_24",
+      "image_status": "not_generated",
+      "image_path": null,
+      "speech_start_s": 217.47662466666665,
+      "speech_end_s": 225.44587466666667,
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "action": "将同一小枕头拨松并往中间移动。"
+    },
+    {
+      "id": 26,
+      "paragraph_id": "p006",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u01",
+          "start_char": 53,
+          "end_char": 76
+        },
+        {
+          "unit_id": "p006_u02",
+          "start_char": 0,
+          "end_char": 1
+        }
+      ],
+      "text": "只长耳朵不必委屈地折着，能够平平顺顺地垂下来。暖",
+      "title": "只长耳朵不必委屈地折着，能够平平顺顺",
+      "location": "小木屋卧室床边，夜晚",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "小木屋卧室床边，夜晚。本镜口播对应：只长耳朵不必委屈地折着，能够平平顺顺地垂下来。暖。皮皮动作放松，把小枕头拨松并居中，眼神温柔；两只长耳朵自然垂落、不折叠。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。 保持同一卧室床、枕头、暖黄毛毯与服装状态；皮皮外套只脱下一次，长耳朵自然展开，不折起。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 225.44,
+      "actual_end_s": 233.2,
+      "visible_start_s": 224.96,
+      "visible_end_s": 233.67999999999998,
+      "visible_duration_s": 8.72,
+      "continuity_refs": [
+        "bedroom_pillow",
+        "bedroom_blanket_yellow",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "枕头位于床中，皮皮仍未盖好毛毯。",
+      "state_after": "耳朵不再折叠，枕头与人物相对位置固定。",
+      "transition_from": "shot_25",
+      "image_status": "not_generated",
+      "image_path": null,
+      "speech_start_s": 225.44587466666667,
+      "speech_end_s": 233.18654033333334,
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "action": "皮皮调整姿势，让两只长耳朵舒展地垂在枕边。"
+    },
+    {
+      "id": 27,
+      "paragraph_id": "p006",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u02",
+          "start_char": 1,
+          "end_char": 19
+        },
+        {
+          "unit_id": "p006_u03",
+          "start_char": 0,
+          "end_char": 7
+        }
+      ],
+      "text": "黄色的毛毯盖住身体，皮皮闭上了眼睛。门外有细草做的",
+      "title": "黄色的毛毯盖住身体，皮皮闭上了眼睛。",
+      "location": "小木屋卧室床边，夜晚",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "小木屋卧室床边，夜晚。本镜口播对应：黄色的毛毯盖住身体，皮皮闭上了眼睛。门外有细草做的。皮皮动作放松，把小枕头拨松并居中，眼神温柔；两只长耳朵自然垂落、不折叠。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。 保持同一卧室床、枕头、暖黄毛毯与服装状态；皮皮外套只脱下一次，长耳朵自然展开，不折起。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 233.2,
+      "actual_end_s": 240.92,
+      "visible_start_s": 232.72,
+      "visible_end_s": 241.39999999999998,
+      "visible_duration_s": 8.68,
+      "continuity_refs": [
+        "bedroom_pillow",
+        "bedroom_blanket_yellow",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "皮皮在床上，枕头托头；外套已脱。",
+      "state_after": "皮皮在同一床上安睡，毛毯、枕头固定。",
+      "transition_from": "shot_26",
+      "image_status": "not_generated",
+      "image_path": null,
+      "speech_start_s": 233.18654133333334,
+      "speech_end_s": 240.90414483333333,
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "action": "暖黄色毛毯盖住皮皮，皮皮闭眼。"
+    },
+    {
+      "id": 28,
+      "paragraph_id": "p006",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u03",
+          "start_char": 7,
+          "end_char": 31
+        }
+      ],
+      "text": "绿枕头托着秋叶，屋里有棉花做的软枕头托着小兔子。",
+      "title": "绿枕头托着秋叶，屋里有棉花做的软枕头",
+      "location": "小木屋卧室床边，夜晚",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "小木屋卧室床边，夜晚。本镜口播对应：绿枕头托着秋叶，屋里有棉花做的软枕头托着小兔子。。皮皮动作放松，把小枕头拨松并居中，眼神温柔；两只长耳朵自然垂落、不折叠。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。 保持同一卧室床、枕头、暖黄毛毯与服装状态；皮皮外套只脱下一次，长耳朵自然展开，不折起。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 240.92,
+      "actual_end_s": 249.12,
+      "visible_start_s": 240.44,
+      "visible_end_s": 249.6,
+      "visible_duration_s": 9.16,
+      "continuity_refs": [
+        "bedroom_pillow",
+        "bedroom_blanket_yellow",
+        "pipi_outer_jacket"
+      ],
+      "state_before": "卧室夜景，皮皮被棉花枕头托住，毛毯盖好。",
+      "state_after": "户外叶子的安稳状态在叙述中承接，人物仍在卧室。",
+      "transition_from": "shot_27",
+      "image_status": "not_generated",
+      "image_path": null,
+      "speech_start_s": 240.94264583333333,
+      "speech_end_s": 248.55801983333333,
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "action": "旁白对照门外草枕与屋内软枕；画面留在室内安睡的皮皮，不加分屏/梦境。"
+    },
+    {
+      "id": 29,
+      "paragraph_id": "p007",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u01",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "text": "小朋友，如果今天你的心里也有一些像落叶一样飘下来的小事情、",
+      "title": "小朋友，如果今天你的心里也有一些像落",
+      "location": "同一卧室床上，夜晚安静收尾",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "同一卧室床上，夜晚安静收尾。本镜口播对应：小朋友，如果今天你的心里也有一些像落叶一样飘下来的小事情、。皮皮盖着毛毯闭眼，安静、安心；画面保持卧室现实，不新增漂浮意象或新剧情。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。 保持同一卧室床、枕头、暖黄毛毯与服装状态；皮皮外套只脱下一次，长耳朵自然展开，不折起。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 249.12,
+      "actual_end_s": 257.8,
+      "visible_start_s": 248.64000000000001,
+      "visible_end_s": 258.28000000000003,
+      "visible_duration_s": 9.64,
+      "continuity_refs": [
+        "bedroom_pillow",
+        "bedroom_blanket_yellow"
+      ],
+      "state_before": "皮皮在床上安睡，衣着与寝具一致。",
+      "state_after": "无新增角色，故事仍发生在卧室。",
+      "transition_from": "shot_28",
+      "image_status": "not_generated",
+      "image_path": null,
+      "speech_start_s": 249.66770833333334,
+      "speech_end_s": 257.651541,
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "action": "旁白向小朋友说心里的小事像落叶，可轻放在软枕上；画面保持平静。"
+    },
+    {
+      "id": 30,
+      "paragraph_id": "p007",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u01",
+          "start_char": 29,
+          "end_char": 52
+        },
+        {
+          "unit_id": "p007_u02",
+          "start_char": 0,
+          "end_char": 12
+        }
+      ],
+      "text": "小失落，没关系，把它们轻轻放在软软的枕头上吧。找个最舒服的姿势，晚安。",
+      "title": "小失落，没关系，把它们轻轻放在软软的",
+      "location": "同一卧室床上，夜晚安静收尾",
+      "layer": "real_world",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast_outdoor.json",
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "同一卧室床上，夜晚安静收尾。本镜口播对应：小失落，没关系，把它们轻轻放在软软的枕头上吧。找个最舒服的姿势，晚安。。皮皮盖着毛毯闭眼，安静、安心；画面保持卧室现实，不新增漂浮意象或新剧情。竖屏水彩绘本、细纸纹，人物和关键动作置于字幕安全区上方；图内不带字。 保持同一卧室床、枕头、暖黄毛毯与服装状态；皮皮外套只脱下一次，长耳朵自然展开，不折起。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "actual_start_s": 257.8,
+      "actual_end_s": 269.96,
+      "visible_start_s": 257.32,
+      "visible_end_s": 269.96,
+      "visible_duration_s": 12.64,
+      "continuity_refs": [
+        "bedroom_pillow",
+        "bedroom_blanket_yellow"
+      ],
+      "state_before": "同一床上，皮皮的头落在枕头上、毛毯盖好。",
+      "state_after": "无新动作；留出末句后的安静尾声并按规范渐暗。",
+      "transition_from": "shot_29",
+      "image_status": "not_generated",
+      "image_path": null,
+      "speech_start_s": 257.978458,
+      "speech_end_s": 268.66120766666666,
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "action": "呈现“找舒服姿势、晚安”的收束瞬间。"
+    }
+  ],
+  "total_duration_s": 269.96,
+  "actual_audio_measured": true,
+  "max_visible_duration_s": 14.0
+}

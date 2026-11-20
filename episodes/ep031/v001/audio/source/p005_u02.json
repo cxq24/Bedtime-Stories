@@ -1,0 +1,77 @@
+{
+  "text": "皮皮看着它安稳的样子，微笑着站起身。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "0d5ef8d7de45797b3543b9bae944a2ca3675330972bb0a79ebfb29e52d079ef9",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5384580,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 2884580,
+      "text": "看"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9922910,
+      "duration": 1346250,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11269160,
+      "duration": 2307500,
+      "text": "它"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13961660,
+      "duration": 5576660,
+      "text": "安稳"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19538330,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20884580,
+      "duration": 8077080,
+      "text": "样子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33769160,
+      "duration": 6538330,
+      "text": "微笑"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40307500,
+      "duration": 1538330,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42230830,
+      "duration": 3076660,
+      "text": "站"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45307500,
+      "duration": 7692500,
+      "text": "起身"
+    }
+  ]
+}

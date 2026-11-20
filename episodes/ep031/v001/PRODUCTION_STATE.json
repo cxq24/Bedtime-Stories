@@ -1,0 +1,51 @@
+{
+  "episode": "ep031",
+  "version": "v001",
+  "title": "秋叶的软枕头",
+  "script_version": "v5",
+  "script_sha256": "aa439c57e9b62d5fb40a5cc45ddb85d316a3232c397083f2feac77f033a8945c",
+  "stage": "voice_storyboard_text_continuity_passed_p000_images_generated",
+  "voice": {
+    "status": "synthesized",
+    "duration_s": 269.96,
+    "units": 22,
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000,
+    "sample_audio": "generated_not_audition_certified",
+    "pronunciation_review": "not_certified"
+  },
+  "storyboard": {
+    "status": "31_shots_locked_to_actual_tts",
+    "text_coverage": "complete",
+    "max_visible_s": 14.0,
+    "illustrations_remaining": 31,
+    "p000_images_generated": 2,
+    "images_remaining": 29
+  },
+  "continuity": {
+    "status": "text_preflight_passed",
+    "image_review": "pending_until_all_31_images_exist"
+  },
+  "illustrations": {
+    "status": "2_p000_candidates_generated_and_visually_reviewed",
+    "generated": 2,
+    "required": 31,
+    "remaining": 29,
+    "user_acceptance": "pending"
+  },
+  "cover": "not_started",
+  "pinyin": {
+    "status": "132_cues_generated_773_hanzi_coverage",
+    "context_review": "completed",
+    "audio_listen_review": "pending",
+    "erhua_override": "旋儿 rendered xuánr"
+  },
+  "render": "not_started",
+  "technical_check": "not_started",
+  "human_full_watch": "not_certified",
+  "user_acceptance": "pending",
+  "publication": "not_published"
+}

@@ -1,0 +1,14 @@
+{
+  "asset_id": "episode_plot_assets_reference",
+  "file": "references/plot_assets_ep031_v001.png",
+  "sha256": "9d44001227e0ac50cecc0e6a77aac71fb09479aac9f09acd225255f7ef254172",
+  "source": "built-in image_gen",
+  "review": "visually_reviewed; birch leaf has pointed ovate serrated outline, no maple lobes; twig and tuft distinct",
+  "prompt": "Continuity reference sheet: one palm-sized pale golden ovate pointed serrated birch leaf with central vein and slightly curled edge (no lobes), one short gently bent brown twig, and one small rooted resilient green grass tuft; separate on warm white paper, soft watercolor, no labels or other objects.",
+  "used_for": [
+    "birch_leaf_pale_gold",
+    "short_hard_twig",
+    "grass_pillow_patch"
+  ],
+  "user_acceptance": "pending"
+}
