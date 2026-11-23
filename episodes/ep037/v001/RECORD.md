@@ -11,4 +11,4 @@
 - 三平台发布文案：抖音、小红书、微信视频号标题均与封面一致，见`发布文案.md`。
 - 渲染：发布版`Outputs/2026-11-23/ep037-v001/ep037.mp4`，无字幕母版`Outputs/2026-11-23/ep037-v001/ep037_clean.mp4`；均H.264/AAC、1080×1920、25fps、48kHz单声道，262.92秒；两版完整解码通过。规格、文件大小和混音数据见`checks/final_technical_check.json`。
 - 人工完整听看：未执行/未认证。用户验收：待审。平台发布：未发布。
-- GitHub同步：待完成。
+- GitHub同步：已按用户要求同步至`cxq24/Bedtime-Stories`的`main`分支及`Outputs/2026-11-23/ep037-v001/`；内容提交：`d6517f6`；视频远端文件已核实。同步明细见`docs/production/维护记录/2026-11-23_第037集GitHub同步/RECORD.md`。

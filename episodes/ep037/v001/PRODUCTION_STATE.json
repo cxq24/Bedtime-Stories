@@ -26,5 +26,9 @@
   "user_acceptance": "pending",
   "published": false,
   "delivery_directory": "Outputs/2026-11-23/ep037-v001",
-  "github_sync": "pending"
+  "github_sync": "synced_to_main",
+  "github_sync_commit": "d6517f6",
+  "github_sync_date": "2026-11-23",
+  "github_sync_scope": "complete_ep037_v001_project_and_delivery_including_main_and_clean_videos",
+  "github_sync_record": "docs/production/维护记录/2026-11-23_第037集GitHub同步/RECORD.md"
 }
