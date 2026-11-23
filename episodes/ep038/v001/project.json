@@ -1,0 +1,1601 @@
+{
+  "episode": "ep038",
+  "duration_s": 282.36,
+  "fps": 25,
+  "frames": 7059,
+  "preview": false,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "shot_count": 34,
+  "crossfade_s": 0.96,
+  "curve": "linear",
+  "within_shot_motion": "none",
+  "subtitles_after_picture_transitions": true,
+  "clean": "/workspace/Bedtime-Stories/Outputs/2026-11-23/ep038-v001/ep038_clean.mp4",
+  "publish": "/workspace/Bedtime-Stories/Outputs/2026-11-23/ep038-v001/ep038.mp4",
+  "delivery_directory": "/workspace/Bedtime-Stories/Outputs/2026-11-23/ep038-v001",
+  "shots": [
+    {
+      "id": 0,
+      "title": "秋日小围巾",
+      "text": "小朋友们，准备好听故事了吗？",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u01",
+          "paragraph_id": "p000",
+          "start_char": 0,
+          "end_char": 14
+        }
+      ],
+      "paragraph_id": "p000",
+      "characters": [],
+      "outfits": {},
+      "setting": "秋日清晨的门廊外，一段浅黄色针织围巾安静地搭在矮灌木枝上，留白柔和。",
+      "action": "无人物；用清晨微凉的空气建立睡前故事氛围。",
+      "visual_description": "无人物；用清晨微凉的空气建立睡前故事氛围。",
+      "emotional_performance": "按本镜台词设计眉眼、视线、耳姿和姿势；温柔克制，不复制默认困倦/忧郁脸。",
+      "reality": "standalone_opening",
+      "motion": "fixed",
+      "opening": true,
+      "image": "images/shot_00.png",
+      "prompt_file": "prompts/shot_00.json",
+      "reference_manifest": "references/shot_00.json",
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch"
+      ],
+      "state_before": "清晨门廊；皮皮尚未出场。",
+      "state_after": "清晨庭院建立；围巾意象出现，无人物。",
+      "transition_from": null,
+      "visual_constraints": "单幅竖屏水彩，无文字/气泡/拼贴/额外角色；字幕区留低细节；围巾、枝杈、芽苞及角色位置按continuity.json保持一致。",
+      "environment_reference": null,
+      "speech_start_s": 1.0,
+      "speech_end_s": 4.6634364999999995,
+      "actual_start_s": 0.0,
+      "actual_end_s": 5.12,
+      "visible_start_s": 0.0,
+      "visible_end_s": 5.6,
+      "visible_duration_s": 5.6
+    },
+    {
+      "id": 1,
+      "title": "故事名字",
+      "text": "今天的故事叫《树枝给围巾让个座》。",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u02",
+          "paragraph_id": "p000",
+          "start_char": 0,
+          "end_char": 17
+        }
+      ],
+      "paragraph_id": "p000",
+      "characters": [],
+      "outfits": {},
+      "setting": "竖幅绘本构图：矮枝像手臂一样托着浅黄色围巾，背景是温暖小屋与深秋庭院。",
+      "action": "无人物；准确提出故事意象，不出现文字。",
+      "visual_description": "无人物；准确提出故事意象，不出现文字。",
+      "emotional_performance": "按本镜台词设计眉眼、视线、耳姿和姿势；温柔克制，不复制默认困倦/忧郁脸。",
+      "reality": "standalone_opening",
+      "motion": "fixed",
+      "opening": true,
+      "image": "images/shot_01.png",
+      "prompt_file": "prompts/shot_01.json",
+      "reference_manifest": "references/shot_01.json",
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch"
+      ],
+      "state_before": "庭院与围巾意象已建立。",
+      "state_after": "矮枝托着浅黄围巾，提出故事主题。",
+      "transition_from": 0,
+      "visual_constraints": "单幅竖屏水彩，无文字/气泡/拼贴/额外角色；字幕区留低细节；围巾、枝杈、芽苞及角色位置按continuity.json保持一致。",
+      "environment_reference": null,
+      "speech_start_s": 5.565125,
+      "speech_end_s": 9.8062285,
+      "actual_start_s": 5.12,
+      "actual_end_s": 10.24,
+      "visible_start_s": 4.640000000000001,
+      "visible_end_s": 10.72,
+      "visible_duration_s": 6.08
+    },
+    {
+      "id": 2,
+      "title": "围巾找座位",
+      "text": "皮皮跑热了，浅黄色围巾怎样找到一个舒服的小位置呢？",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u03",
+          "paragraph_id": "p000",
+          "start_char": 0,
+          "end_char": 25
+        }
+      ],
+      "paragraph_id": "p000",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "小兔皮皮站在门廊边看向矮树枝上的浅黄围巾，像在思考怎样让它找到舒适位置。",
+      "action": "皮皮神情温和好奇，目光落在围巾和枝杈上。",
+      "visual_description": "皮皮神情温和好奇，目光落在围巾和枝杈上。",
+      "emotional_performance": "按本镜台词设计眉眼、视线、耳姿和姿势；温柔克制，不复制默认困倦/忧郁脸。",
+      "reality": "standalone_opening",
+      "motion": "fixed",
+      "opening": true,
+      "image": "images/shot_02.png",
+      "prompt_file": "prompts/shot_02.json",
+      "reference_manifest": "references/shot_02.json",
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch"
+      ],
+      "state_before": "清晨庭院；皮皮日常装。",
+      "state_after": "皮皮在门廊看向围巾，仍穿日常装，尚未戴围巾。",
+      "transition_from": 1,
+      "visual_constraints": "单幅竖屏水彩，无文字/气泡/拼贴/额外角色；字幕区留低细节；围巾、枝杈、芽苞及角色位置按continuity.json保持一致。",
+      "environment_reference": null,
+      "speech_start_s": 10.692479166666667,
+      "speech_end_s": 17.917874333333334,
+      "actual_start_s": 10.24,
+      "actual_end_s": 18.36,
+      "visible_start_s": 9.76,
+      "visible_end_s": 18.84,
+      "visible_duration_s": 9.08
+    },
+    {
+      "id": 3,
+      "title": "早晨戴上新围巾",
+      "text": "深秋的早晨和傍晚有了一点点凉意，今天去上学的时候，",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u01",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 25
+        }
+      ],
+      "paragraph_id": "p001",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "深秋清晨，皮皮穿日常蓝色背带裤、围着浅黄色软毛线围巾，背小书包出门去上学。",
+      "action": "皮皮步伐轻快，稍缩肩感受清晨凉意；围巾第一次出现并戴在颈间。",
+      "visual_description": "皮皮步伐轻快，稍缩肩感受清晨凉意；围巾第一次出现并戴在颈间。",
+      "emotional_performance": "按本镜台词设计眉眼、视线、耳姿和姿势；温柔克制，不复制默认困倦/忧郁脸。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_03.png",
+      "prompt_file": "prompts/shot_03.json",
+      "reference_manifest": "references/shot_03.json",
+      "continuity_refs": [
+        "pipi_scarf"
+      ],
+      "state_before": "皮皮在门廊，围巾在枝上。",
+      "state_after": "皮皮出门上学，第一次把浅黄围巾戴在颈间。",
+      "transition_from": 2,
+      "visual_constraints": "单幅竖屏水彩，无文字/气泡/拼贴/额外角色；字幕区留低细节；围巾、枝杈、芽苞及角色位置按continuity.json保持一致。",
+      "environment_reference": null,
+      "speech_start_s": 18.803333333333335,
+      "speech_end_s": 26.138227833333335,
+      "actual_start_s": 18.36,
+      "actual_end_s": 26.6,
+      "visible_start_s": 17.88,
+      "visible_end_s": 27.080000000000002,
+      "visible_duration_s": 9.2
+    },
+    {
+      "id": 4,
+      "title": "摸摸浅黄围巾",
+      "text": "皮皮第一次戴上了他那条用软毛线织成的浅黄色小围巾。",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u02",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 25
+        }
+      ],
+      "paragraph_id": "p001",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "皮皮低头摸摸新围巾，浅黄色软毛线在晨光中柔和清晰，脸上带一点新鲜喜爱。",
+      "action": "围巾松松围在颈间，没有遮住皮皮的脸。",
+      "visual_description": "围巾松松围在颈间，没有遮住皮皮的脸。",
+      "emotional_performance": "按本镜台词设计眉眼、视线、耳姿和姿势；温柔克制，不复制默认困倦/忧郁脸。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_04.png",
+      "prompt_file": "prompts/shot_04.json",
+      "reference_manifest": "references/shot_04.json",
+      "continuity_refs": [
+        "pipi_scarf"
+      ],
+      "state_before": "皮皮戴着围巾上学途中。",
+      "state_after": "近景确认浅黄软毛线围巾外观与佩戴位置。",
+      "transition_from": 3,
+      "visual_constraints": "单幅竖屏水彩，无文字/气泡/拼贴/额外角色；字幕区留低细节；围巾、枝杈、芽苞及角色位置按continuity.json保持一致。",
+      "environment_reference": null,
+      "speech_start_s": 27.0528125,
+      "speech_end_s": 34.162249333333335,
+      "actual_start_s": 26.6,
+      "actual_end_s": 34.6,
+      "visible_start_s": 26.12,
+      "visible_end_s": 35.08,
+      "visible_duration_s": 8.96
+    },
+    {
+      "id": 5,
+      "title": "院子里玩沙包",
+      "text": "下午，小鹿芽芽和小熊绒绒来皮皮家院子里玩丢沙包。",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u03",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 24
+        }
+      ],
+      "paragraph_id": "p001",
+      "characters": [
+        "pipi",
+        "yaya",
+        "rongrong"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "yaya": "default_v001",
+        "rongrong": "default_v001"
+      },
+      "setting": "下午皮皮家院子里，皮皮和小鹿芽芽、小熊绒绒围着沙包玩耍，门廊与矮灌木在旁边。",
+      "action": "三位伙伴轻松玩丢沙包，皮皮仍戴着浅黄围巾；各自身份和服装遵从角色参考。",
+      "visual_description": "三位伙伴轻松玩丢沙包，皮皮仍戴着浅黄围巾；各自身份和服装遵从角色参考。",
+      "emotional_performance": "按本镜台词设计眉眼、视线、耳姿和姿势；温柔克制，不复制默认困倦/忧郁脸。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_05.png",
+      "prompt_file": "prompts/shot_05.json",
+      "reference_manifest": "references/shot_05.json",
+      "continuity_refs": [
+        "pipi_scarf"
+      ],
+      "state_before": "下午；皮皮戴围巾在家院，芽芽和绒绒到达。",
+      "state_after": "三位伙伴在院子玩丢沙包；围巾仍戴在皮皮颈间。",
+      "transition_from": 4,
+      "visual_constraints": "单幅竖屏水彩，无文字/气泡/拼贴/额外角色；字幕区留低细节；围巾、枝杈、芽苞及角色位置按continuity.json保持一致。",
+      "environment_reference": null,
+      "speech_start_s": 35.04839583333334,
+      "speech_end_s": 42.32974966666667,
+      "actual_start_s": 34.6,
+      "actual_end_s": 42.76,
+      "visible_start_s": 34.120000000000005,
+      "visible_end_s": 43.239999999999995,
+      "visible_duration_s": 9.12
+    },
+    {
+      "id": 6,
+      "title": "跑热了摘围巾",
+      "text": "跑了几圈后，皮皮觉得身上暖烘烘的有点出汗，就随手把浅黄小围巾解下来，",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u04",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 34
+        }
+      ],
+      "paragraph_id": "p001",
+      "characters": [
+        "pipi",
+        "yaya",
+        "rongrong"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "yaya": "default_v001",
+        "rongrong": "default_v001"
+      },
+      "setting": "跑了几圈后，皮皮停下来觉得身上暖烘烘的，脸颊微红，用爪子解开围巾。",
+      "action": "皮皮有些热但神情轻松；芽芽和绒绒仍在院子玩，围巾尚未离开皮皮。",
+      "visual_description": "皮皮有些热但神情轻松；芽芽和绒绒仍在院子玩，围巾尚未离开皮皮。",
+      "emotional_performance": "按本镜台词设计眉眼、视线、耳姿和姿势；温柔克制，不复制默认困倦/忧郁脸。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_06.png",
+      "prompt_file": "prompts/shot_06.json",
+      "reference_manifest": "references/shot_06.json",
+      "continuity_refs": [
+        "pipi_scarf"
+      ],
+      "state_before": "三人玩了一阵，围巾仍在皮皮颈间。",
+      "state_after": "皮皮跑热出汗，开始解下围巾；伙伴仍在院内。",
+      "transition_from": 5,
+      "visual_constraints": "单幅竖屏水彩，无文字/气泡/拼贴/额外角色；字幕区留低细节；围巾、枝杈、芽苞及角色位置按continuity.json保持一致。",
+      "environment_reference": null,
+      "speech_start_s": 43.22997916666667,
+      "speech_end_s": 53.27991633333334,
+      "actual_start_s": 42.76,
+      "actual_end_s": 53.72,
+      "visible_start_s": 42.28,
+      "visible_end_s": 54.199999999999996,
+      "visible_duration_s": 11.92
+    },
+    {
+      "id": 7,
+      "title": "围巾搭在矮枝上",
+      "text": "搭在了门廊旁边一棵矮灌木的树枝上。",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u05",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 17
+        }
+      ],
+      "paragraph_id": "p001",
+      "characters": [
+        "pipi",
+        "yaya",
+        "rongrong"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "yaya": "default_v001",
+        "rongrong": "default_v001"
+      },
+      "setting": "皮皮把同一条浅黄围巾松松搭在门廊旁矮灌木的一根低树枝上，伙伴们在后方继续游戏。",
+      "action": "围巾中央搭在枝上，松散边缘自然垂下；不要缠绕或打结。",
+      "visual_description": "围巾中央搭在枝上，松散边缘自然垂下；不要缠绕或打结。",
+      "emotional_performance": "按本镜台词设计眉眼、视线、耳姿和姿势；温柔克制，不复制默认困倦/忧郁脸。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_07.png",
+      "prompt_file": "prompts/shot_07.json",
+      "reference_manifest": "references/shot_07.json",
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch",
+        "bud_cluster"
+      ],
+      "state_before": "围巾刚从皮皮颈上解下。",
+      "state_after": "皮皮把围巾搭在门廊旁同一矮枝上；枝芽未受影响。",
+      "transition_from": 6,
+      "visual_constraints": "单幅竖屏水彩，无文字/气泡/拼贴/额外角色；字幕区留低细节；围巾、枝杈、芽苞及角色位置按continuity.json保持一致。",
+      "environment_reference": null,
+      "speech_start_s": 54.13958333333334,
+      "speech_end_s": 58.97497883333334,
+      "actual_start_s": 53.72,
+      "actual_end_s": 59.4,
+      "visible_start_s": 53.24,
+      "visible_end_s": 59.879999999999995,
+      "visible_duration_s": 6.64
+    },
+    {
+      "id": 8,
+      "title": "树枝托住围巾",
+      "text": "那棵矮树枝像一只伸出来的小手臂，稳稳地替皮皮托了一整个下午的围巾。",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u01",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 33
+        }
+      ],
+      "paragraph_id": "p002",
+      "characters": [],
+      "outfits": {},
+      "setting": "近景：矮树枝向外伸展像小手臂，稳稳托住浅黄色围巾，枝头圆润小芽苞完整。",
+      "action": "围巾静置枝上一个下午，线圈未被挂住，枝芽完好。",
+      "visual_description": "围巾静置枝上一个下午，线圈未被挂住，枝芽完好。",
+      "emotional_performance": "按本镜台词设计眉眼、视线、耳姿和姿势；温柔克制，不复制默认困倦/忧郁脸。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_08.png",
+      "prompt_file": "prompts/shot_08.json",
+      "reference_manifest": "references/shot_08.json",
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch",
+        "bud_cluster"
+      ],
+      "state_before": "围巾松松搭在矮枝上。",
+      "state_after": "枝条承托围巾整个下午；毛线圈未挂住，小芽苞完整。",
+      "transition_from": 7,
+      "visual_constraints": "单幅竖屏水彩，无文字/气泡/拼贴/额外角色；字幕区留低细节；围巾、枝杈、芽苞及角色位置按continuity.json保持一致。",
+      "environment_reference": null,
+      "speech_start_s": 59.84114583333334,
+      "speech_end_s": 69.37227083333335,
+      "actual_start_s": 59.4,
+      "actual_end_s": 69.84,
+      "visible_start_s": 58.92,
+      "visible_end_s": 70.32000000000001,
+      "visible_duration_s": 11.4
+    },
+    {
+      "id": 9,
+      "title": "傍晚晚风轻吹",
+      "text": "到了傍晚，伙伴们都回家了，晚风吹过来，矮树枝上的围巾布角跟着风一晃一晃的。",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u02",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 37
+        }
+      ],
+      "paragraph_id": "p002",
+      "characters": [],
+      "outfits": {},
+      "setting": "傍晚院子安静下来，芽芽和绒绒已告别离开；微风轻轻吹动枝上围巾的布角。",
+      "action": "伙伴不再入镜；矮枝和围巾位置不变，只有围巾角轻轻摆动。",
+      "visual_description": "伙伴不再入镜；矮枝和围巾位置不变，只有围巾角轻轻摆动。",
+      "emotional_performance": "按本镜台词设计眉眼、视线、耳姿和姿势；温柔克制，不复制默认困倦/忧郁脸。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_09.png",
+      "prompt_file": "prompts/shot_09.json",
+      "reference_manifest": "references/shot_09.json",
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch",
+        "bud_cluster"
+      ],
+      "state_before": "傍晚；伙伴离场，围巾仍搭枝。",
+      "state_after": "晚风轻吹围巾角；芽芽和绒绒已回家，不再出现。",
+      "transition_from": 8,
+      "visual_constraints": "单幅竖屏水彩，无文字/气泡/拼贴/额外角色；字幕区留低细节；围巾、枝杈、芽苞及角色位置按continuity.json保持一致。",
+      "environment_reference": null,
+      "speech_start_s": 70.27527083333334,
+      "speech_end_s": 81.30058233333334,
+      "actual_start_s": 69.84,
+      "actual_end_s": 81.72,
+      "visible_start_s": 69.36,
+      "visible_end_s": 82.2,
+      "visible_duration_s": 12.84
+    },
+    {
+      "id": 10,
+      "title": "皮皮伸手收围巾",
+      "text": "皮皮走到门廊边，伸出小爪子想把围巾收进屋里。",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u03",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 22
+        }
+      ],
+      "paragraph_id": "p002",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "皮皮走到门廊边，伸出一只小爪子想把枝上的围巾收回屋里。",
+      "action": "皮皮神情平常、专注；围巾仍完整搭在同一根矮枝上。",
+      "visual_description": "皮皮神情平常、专注；围巾仍完整搭在同一根矮枝上。",
+      "emotional_performance": "按本镜台词设计眉眼、视线、耳姿和姿势；温柔克制，不复制默认困倦/忧郁脸。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_10.png",
+      "prompt_file": "prompts/shot_10.json",
+      "reference_manifest": "references/shot_10.json",
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch",
+        "bud_cluster"
+      ],
+      "state_before": "伙伴已离开；围巾在矮枝上。",
+      "state_after": "皮皮走到门廊伸手准备收围巾，向门口移动。",
+      "transition_from": 9,
+      "visual_constraints": "单幅竖屏水彩，无文字/气泡/拼贴/额外角色；字幕区留低细节；围巾、枝杈、芽苞及角色位置按continuity.json保持一致。",
+      "environment_reference": null,
+      "speech_start_s": 82.1710625,
+      "speech_end_s": 88.9935205,
+      "actual_start_s": 81.72,
+      "actual_end_s": 89.44,
+      "visible_start_s": 81.24,
+      "visible_end_s": 89.92,
+      "visible_duration_s": 8.68
+    },
+    {
+      "id": 11,
+      "title": "松散线圈靠近枝杈",
+      "text": "可是，就在皮皮往回一拉的时候，围巾边缘有一小段松散的毛线线圈，",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u01",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 31
+        }
+      ],
+      "paragraph_id": "p003",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "皮皮轻轻往回拉围巾时，近景看到围巾边缘一小段松散毛线线圈靠近细枝分叉。",
+      "action": "动作刚开始，线圈仍完整，枝条小芽苞没有受损。",
+      "visual_description": "动作刚开始，线圈仍完整，枝条小芽苞没有受损。",
+      "emotional_performance": "按本镜台词设计眉眼、视线、耳姿和姿势；温柔克制，不复制默认困倦/忧郁脸。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_11.png",
+      "prompt_file": "prompts/shot_11.json",
+      "reference_manifest": "references/shot_11.json",
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch",
+        "bud_cluster"
+      ],
+      "state_before": "皮皮伸手触到围巾并向回拉一点。",
+      "state_after": "围巾边缘松散线圈靠近细枝分叉；线圈完整。",
+      "transition_from": 10,
+      "visual_constraints": "单幅竖屏水彩，无文字/气泡/拼贴/额外角色；字幕区留低细节；围巾、枝杈、芽苞及角色位置按continuity.json保持一致。",
+      "environment_reference": null,
+      "speech_start_s": 89.86920833333333,
+      "speech_end_s": 99.31904033333333,
+      "actual_start_s": 89.44,
+      "actual_end_s": 99.76,
+      "visible_start_s": 88.96,
+      "visible_end_s": 100.24000000000001,
+      "visible_duration_s": 11.28
+    },
+    {
+      "id": 12,
+      "title": "线圈挂住细枝",
+      "text": "不小心挂在了细树枝分叉的小尖尖上，卡住了，没有马上松开。",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u02",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 28
+        }
+      ],
+      "paragraph_id": "p003",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "松散的浅黄毛线圈挂在一根细枝分叉尖端上，围巾暂时卡住，皮皮停在旁边查看。",
+      "action": "明确线圈卡在枝尖，纱线与芽苞均完整；位置关系清楚。",
+      "visual_description": "明确线圈卡在枝尖，纱线与芽苞均完整；位置关系清楚。",
+      "emotional_performance": "按本镜台词设计眉眼、视线、耳姿和姿势；温柔克制，不复制默认困倦/忧郁脸。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_12.png",
+      "prompt_file": "prompts/shot_12.json",
+      "reference_manifest": "references/shot_12.json",
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch",
+        "bud_cluster"
+      ],
+      "state_before": "松散线圈在细枝旁。",
+      "state_after": "线圈挂住同一枝尖，围巾暂时卡住，未断线、未损芽。",
+      "transition_from": 11,
+      "visual_constraints": "单幅竖屏水彩，无文字/气泡/拼贴/额外角色；字幕区留低细节；围巾、枝杈、芽苞及角色位置按continuity.json保持一致。",
+      "environment_reference": null,
+      "speech_start_s": 100.22845833333334,
+      "speech_end_s": 108.37537400000001,
+      "actual_start_s": 99.76,
+      "actual_end_s": 108.84,
+      "visible_start_s": 99.28,
+      "visible_end_s": 109.32000000000001,
+      "visible_duration_s": 10.04
+    },
+    {
+      "id": 13,
+      "title": "毛线可能被拉坏",
+      "text": "如果是性子急的时候，使劲往回一扯，不仅毛线会被拉断，",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u03",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 26
+        }
+      ],
+      "paragraph_id": "p003",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "小兔皮皮意识到如果着急使劲，紧绷的毛线圈可能被拉坏；画面只呈现轻微拉力，没有断线。",
+      "action": "皮皮眉眼显出克制的担心，身体停住；树枝芽苞保持完好。",
+      "visual_description": "皮皮眉眼显出克制的担心，身体停住；树枝芽苞保持完好。",
+      "emotional_performance": "按本镜台词设计眉眼、视线、耳姿和姿势；温柔克制，不复制默认困倦/忧郁脸。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_13.png",
+      "prompt_file": "prompts/shot_13.json",
+      "reference_manifest": "references/shot_13.json",
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch",
+        "bud_cluster"
+      ],
+      "state_before": "围巾卡在枝尖；皮皮察觉潜在拉力。",
+      "state_after": "表现“若急拉可能损坏”的担忧；纱线和枝芽均完好。",
+      "transition_from": 12,
+      "visual_constraints": "单幅竖屏水彩，无文字/气泡/拼贴/额外角色；字幕区留低细节；围巾、枝杈、芽苞及角色位置按continuity.json保持一致。",
+      "environment_reference": null,
+      "speech_start_s": 109.302375,
+      "speech_end_s": 116.93935416666666,
+      "actual_start_s": 108.84,
+      "actual_end_s": 117.4,
+      "visible_start_s": 108.36,
+      "visible_end_s": 117.88000000000001,
+      "visible_duration_s": 9.52
+    },
+    {
+      "id": 14,
+      "title": "芽苞也需要保护",
+      "text": "细树枝上刚刚长出来的过冬小芽苞也会被拽掉。",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u04",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 21
+        }
+      ],
+      "paragraph_id": "p003",
+      "characters": [],
+      "outfits": {},
+      "setting": "同一根细枝尖端旁的小芽苞圆圆地长着，围巾线圈仍挂住但尚未伤到枝条。",
+      "action": "表达潜在风险，不画芽苞掉落或实际损伤。",
+      "visual_description": "表达潜在风险，不画芽苞掉落或实际损伤。",
+      "emotional_performance": "按本镜台词设计眉眼、视线、耳姿和姿势；温柔克制，不复制默认困倦/忧郁脸。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_14.png",
+      "prompt_file": "prompts/shot_14.json",
+      "reference_manifest": "references/shot_14.json",
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch",
+        "bud_cluster"
+      ],
+      "state_before": "围巾仍卡住；树枝小芽苞在枝上。",
+      "state_after": "潜在风险被注意到，但芽苞没有掉落或损坏。",
+      "transition_from": 13,
+      "visual_constraints": "单幅竖屏水彩，无文字/气泡/拼贴/额外角色；字幕区留低细节；围巾、枝杈、芽苞及角色位置按continuity.json保持一致。",
+      "environment_reference": null,
+      "speech_start_s": 117.82214583333334,
+      "speech_end_s": 124.16960383333334,
+      "actual_start_s": 117.4,
+      "actual_end_s": 124.6,
+      "visible_start_s": 116.92,
+      "visible_end_s": 125.08,
+      "visible_duration_s": 8.16
+    },
+    {
+      "id": 15,
+      "title": "皮皮停下拉扯",
+      "text": "皮皮立刻停住了往回拉的爪子。",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u01",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 14
+        }
+      ],
+      "paragraph_id": "p004",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "皮皮立刻停住往回拉的爪子，手松开拉力，围巾线圈仍挂在树枝上。",
+      "action": "皮皮神情专注转稳，姿势从拉扯转为停止。",
+      "visual_description": "皮皮神情专注转稳，姿势从拉扯转为停止。",
+      "emotional_performance": "按本镜台词设计眉眼、视线、耳姿和姿势；温柔克制，不复制默认困倦/忧郁脸。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_15.png",
+      "prompt_file": "prompts/shot_15.json",
+      "reference_manifest": "references/shot_15.json",
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch",
+        "bud_cluster"
+      ],
+      "state_before": "皮皮还握着围巾，线圈卡住。",
+      "state_after": "皮皮立刻停止往回拉，张力解除；围巾仍挂枝尖。",
+      "transition_from": 14,
+      "visual_constraints": "单幅竖屏水彩，无文字/气泡/拼贴/额外角色；字幕区留低细节；围巾、枝杈、芽苞及角色位置按continuity.json保持一致。",
+      "environment_reference": null,
+      "speech_start_s": 125.02933333333334,
+      "speech_end_s": 128.77293683333335,
+      "actual_start_s": 124.6,
+      "actual_end_s": 129.24,
+      "visible_start_s": 124.11999999999999,
+      "visible_end_s": 129.72,
+      "visible_duration_s": 5.6
+    },
+    {
+      "id": 16,
+      "title": "沿枝方向送回围巾",
+      "text": "他凑近细树枝，先不往后拽，而是顺着树枝的方向，把围巾轻轻往前送回了一点点。",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u02",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 37
+        }
+      ],
+      "paragraph_id": "p004",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "皮皮顺着树枝伸展方向，把围巾向前轻轻送回一点点，帮助线圈卸掉拉力。",
+      "action": "围巾往枝端方向移动一点，枝尖与芽苞保持完好。",
+      "visual_description": "围巾往枝端方向移动一点，枝尖与芽苞保持完好。",
+      "emotional_performance": "按本镜台词设计眉眼、视线、耳姿和姿势；温柔克制，不复制默认困倦/忧郁脸。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_16.png",
+      "prompt_file": "prompts/shot_16.json",
+      "reference_manifest": "references/shot_16.json",
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch",
+        "bud_cluster"
+      ],
+      "state_before": "皮皮已停止拉扯。",
+      "state_after": "皮皮仔细观察后顺枝方向把围巾轻轻送前一点，给线圈卸力。",
+      "transition_from": 15,
+      "visual_constraints": "单幅竖屏水彩，无文字/气泡/拼贴/额外角色；字幕区留低细节；围巾、枝杈、芽苞及角色位置按continuity.json保持一致。",
+      "environment_reference": null,
+      "speech_start_s": 129.67210416666668,
+      "speech_end_s": 141.16908233333336,
+      "actual_start_s": 129.24,
+      "actual_end_s": 141.6,
+      "visible_start_s": 128.76000000000002,
+      "visible_end_s": 142.07999999999998,
+      "visible_duration_s": 13.32
+    },
+    {
+      "id": 17,
+      "title": "线圈松软下来",
+      "text": "这一送，原本绷得紧紧的那小段毛线线圈，立刻变得松松软软的了。",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u03",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 30
+        }
+      ],
+      "paragraph_id": "p004",
+      "characters": [],
+      "outfits": {},
+      "setting": "近景显示原本绷紧的浅黄松线圈变得松松软软，仍在枝尖附近，纱线没有断。",
+      "action": "视觉重点是线圈松开，围巾本体和枝芽不变。",
+      "visual_description": "视觉重点是线圈松开，围巾本体和枝芽不变。",
+      "emotional_performance": "按本镜台词设计眉眼、视线、耳姿和姿势；温柔克制，不复制默认困倦/忧郁脸。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_17.png",
+      "prompt_file": "prompts/shot_17.json",
+      "reference_manifest": "references/shot_17.json",
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch",
+        "bud_cluster"
+      ],
+      "state_before": "围巾已沿枝方向送回一点。",
+      "state_after": "原本绷紧的毛线圈变松；围巾未脱离枝尖，枝芽完整。",
+      "transition_from": 16,
+      "visual_constraints": "单幅竖屏水彩，无文字/气泡/拼贴/额外角色；字幕区留低细节；围巾、枝杈、芽苞及角色位置按continuity.json保持一致。",
+      "environment_reference": null,
+      "speech_start_s": 142.04464583333336,
+      "speech_end_s": 150.79945766666668,
+      "actual_start_s": 141.6,
+      "actual_end_s": 151.24,
+      "visible_start_s": 141.12,
+      "visible_end_s": 151.72,
+      "visible_duration_s": 10.6
+    },
+    {
+      "id": 18,
+      "title": "两指轻轻捏线圈",
+      "text": "接着，皮皮用两根手指捏住线圈，",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u01",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 15
+        }
+      ],
+      "paragraph_id": "p005",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "皮皮用两根手指轻轻捏住挂住的那一小段毛线圈。",
+      "action": "手指夹在圈外侧，枝尖可见；其余围巾仍由枝条托着。",
+      "visual_description": "手指夹在圈外侧，枝尖可见；其余围巾仍由枝条托着。",
+      "emotional_performance": "按本镜台词设计眉眼、视线、耳姿和姿势；温柔克制，不复制默认困倦/忧郁脸。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_18.png",
+      "prompt_file": "prompts/shot_18.json",
+      "reference_manifest": "references/shot_18.json",
+      "continuity_refs": [
+        "pipi_scarf"
+      ],
+      "state_before": "线圈松开但仍挂在枝尖。",
+      "state_after": "皮皮用两根手指捏住该线圈，其余围巾仍由矮枝承托。",
+      "transition_from": 17,
+      "visual_constraints": "单幅竖屏水彩，无文字/气泡/拼贴/额外角色；字幕区留低细节；围巾、枝杈、芽苞及角色位置按continuity.json保持一致。",
+      "environment_reference": null,
+      "speech_start_s": 151.66500000000002,
+      "speech_end_s": 156.24616633333335,
+      "actual_start_s": 151.24,
+      "actual_end_s": 156.72,
+      "visible_start_s": 150.76000000000002,
+      "visible_end_s": 157.2,
+      "visible_duration_s": 6.44
+    },
+    {
+      "id": 19,
+      "title": "慢慢抬过枝尖",
+      "text": "顺着细枝的尖尖慢慢往上一抬、一挪——小围巾就毫发无损地回到了皮皮的怀里！",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u02",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 36
+        }
+      ],
+      "paragraph_id": "p005",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "皮皮顺着细枝尖端方向，把松开的毛线圈慢慢向上抬起并挪过枝尖，双爪稳稳接回怀里。",
+      "action": "展示一抬一挪的单一关键瞬间，围巾随后完整回到皮皮怀中。",
+      "visual_description": "展示一抬一挪的单一关键瞬间，围巾随后完整回到皮皮怀中。",
+      "emotional_performance": "按本镜台词设计眉眼、视线、耳姿和姿势；温柔克制，不复制默认困倦/忧郁脸。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_19.png",
+      "prompt_file": "prompts/shot_19.json",
+      "reference_manifest": "references/shot_19.json",
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch",
+        "bud_cluster"
+      ],
+      "state_before": "皮皮捏住线圈，拉力已解除。",
+      "state_after": "皮皮顺枝尖慢慢抬起并挪开线圈，完整围巾回到怀中。",
+      "transition_from": 18,
+      "visual_constraints": "单幅竖屏水彩，无文字/气泡/拼贴/额外角色；字幕区留低细节；围巾、枝杈、芽苞及角色位置按continuity.json保持一致。",
+      "environment_reference": null,
+      "speech_start_s": 157.1648125,
+      "speech_end_s": 167.88606183333334,
+      "actual_start_s": 156.72,
+      "actual_end_s": 168.32,
+      "visible_start_s": 156.24,
+      "visible_end_s": 168.79999999999998,
+      "visible_duration_s": 12.56
+    },
+    {
+      "id": 20,
+      "title": "枝芽仍完好",
+      "text": "而那根矮树枝轻轻晃了晃，上面圆圆的小芽苞还完好无损地留着呢。",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u03",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 30
+        }
+      ],
+      "paragraph_id": "p005",
+      "characters": [],
+      "outfits": {},
+      "setting": "被取下围巾的矮树枝轻轻回弹晃了晃，圆圆的小芽苞还完整留在枝头。",
+      "action": "空枝、完整芽苞；不出现围巾在枝上。",
+      "visual_description": "空枝、完整芽苞；不出现围巾在枝上。",
+      "emotional_performance": "按本镜台词设计眉眼、视线、耳姿和姿势；温柔克制，不复制默认困倦/忧郁脸。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_20.png",
+      "prompt_file": "prompts/shot_20.json",
+      "reference_manifest": "references/shot_20.json",
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch",
+        "bud_cluster"
+      ],
+      "state_before": "围巾已从枝上取下并回到皮皮怀里。",
+      "state_after": "空枝轻轻回弹；小芽苞完好，围巾不再在枝上。",
+      "transition_from": 19,
+      "visual_constraints": "单幅竖屏水彩，无文字/气泡/拼贴/额外角色；字幕区留低细节；围巾、枝杈、芽苞及角色位置按continuity.json保持一致。",
+      "environment_reference": null,
+      "speech_start_s": 168.76695833333335,
+      "speech_end_s": 177.5689986666667,
+      "actual_start_s": 168.32,
+      "actual_end_s": 178.0,
+      "visible_start_s": 167.84,
+      "visible_end_s": 178.48,
+      "visible_duration_s": 10.64
+    },
+    {
+      "id": 21,
+      "title": "皮皮向树枝道谢",
+      "text": "皮皮对着矮树枝笑了笑，小声说：“谢谢你今天帮我拿围巾，现在把座位还给你啦。”",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u04",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 38
+        }
+      ],
+      "paragraph_id": "p005",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "皮皮抱着围巾对空着的矮树枝露出轻柔笑意，像在小声道谢。",
+      "action": "皮皮目光温和看向枝芽，说话但画面绝不出现文字或气泡。",
+      "visual_description": "皮皮目光温和看向枝芽，说话但画面绝不出现文字或气泡。",
+      "emotional_performance": "按本镜台词设计眉眼、视线、耳姿和姿势；温柔克制，不复制默认困倦/忧郁脸。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_21.png",
+      "prompt_file": "prompts/shot_21.json",
+      "reference_manifest": "references/shot_21.json",
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch",
+        "bud_cluster"
+      ],
+      "state_before": "皮皮怀抱围巾，枝芽安好。",
+      "state_after": "皮皮向空枝轻声致谢；围巾仍由皮皮抱着。",
+      "transition_from": 20,
+      "visual_constraints": "单幅竖屏水彩，无文字/气泡/拼贴/额外角色；字幕区留低细节；围巾、枝杈、芽苞及角色位置按continuity.json保持一致。",
+      "environment_reference": null,
+      "speech_start_s": 178.45316666666668,
+      "speech_end_s": 188.73910316666667,
+      "actual_start_s": 178.0,
+      "actual_end_s": 189.2,
+      "visible_start_s": 177.52,
+      "visible_end_s": 189.67999999999998,
+      "visible_duration_s": 12.16
+    },
+    {
+      "id": 22,
+      "title": "捧着围巾进屋",
+      "text": "他捧着围巾走进屋，把它平平整整地叠好，放到门内专门挂衣服的小木架子上，",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u01",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 35
+        }
+      ],
+      "paragraph_id": "p006",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "皮皮捧着浅黄围巾走进木屋，门槛内侧是入口，门内小木衣架在墙边。",
+      "action": "围巾已从屋外取回；皮皮从门廊进入室内，日常衣服仍一致。",
+      "visual_description": "围巾已从屋外取回；皮皮从门廊进入室内，日常衣服仍一致。",
+      "emotional_performance": "按本镜台词设计眉眼、视线、耳姿和姿势；温柔克制，不复制默认困倦/忧郁脸。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_22.png",
+      "prompt_file": "prompts/shot_22.json",
+      "reference_manifest": "references/shot_22.json",
+      "continuity_refs": [
+        "pipi_scarf",
+        "entry_rack"
+      ],
+      "state_before": "皮皮在门廊，围巾在怀中。",
+      "state_after": "皮皮带围巾进屋、平整折好并放到门内木衣架。",
+      "transition_from": 21,
+      "visual_constraints": "单幅竖屏水彩，无文字/气泡/拼贴/额外角色；字幕区留低细节；围巾、枝杈、芽苞及角色位置按continuity.json保持一致。",
+      "environment_reference": null,
+      "speech_start_s": 189.64364583333335,
+      "speech_end_s": 199.92222883333335,
+      "actual_start_s": 189.2,
+      "actual_end_s": 200.36,
+      "visible_start_s": 188.72,
+      "visible_end_s": 200.84,
+      "visible_duration_s": 12.12
+    },
+    {
+      "id": 23,
+      "title": "把围巾叠整齐",
+      "text": "不用让它在微凉的夜风里一直摇晃了。",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u02",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 17
+        }
+      ],
+      "paragraph_id": "p006",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "皮皮在室内把围巾平平整整地折成几折，放在小木挂衣架的下层横杆/挂钩处。",
+      "action": "围巾折叠整齐并留在屋内；门外矮枝为空。",
+      "visual_description": "围巾折叠整齐并留在屋内；门外矮枝为空。",
+      "emotional_performance": "按本镜台词设计眉眼、视线、耳姿和姿势；温柔克制，不复制默认困倦/忧郁脸。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_23.png",
+      "prompt_file": "prompts/shot_23.json",
+      "reference_manifest": "references/shot_23.json",
+      "continuity_refs": [
+        "pipi_scarf",
+        "entry_rack"
+      ],
+      "state_before": "围巾已在室内衣架。",
+      "state_after": "围巾安稳挂在室内，不再被微凉夜风吹动。",
+      "transition_from": 22,
+      "visual_constraints": "单幅竖屏水彩，无文字/气泡/拼贴/额外角色；字幕区留低细节；围巾、枝杈、芽苞及角色位置按continuity.json保持一致。",
+      "environment_reference": null,
+      "speech_start_s": 200.76431250000002,
+      "speech_end_s": 205.48729100000003,
+      "actual_start_s": 200.36,
+      "actual_end_s": 205.92,
+      "visible_start_s": 199.88000000000002,
+      "visible_end_s": 206.39999999999998,
+      "visible_duration_s": 6.52
+    },
+    {
+      "id": 24,
+      "title": "围巾挂进木衣架",
+      "text": "门廊外的矮树枝空了出来，重新安静地待在夜色里。",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u03",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 23
+        }
+      ],
+      "paragraph_id": "p006",
+      "characters": [],
+      "outfits": {},
+      "setting": "近景看到浅黄围巾安稳挂在门内木衣架上，织物平整，不再在晚风里摆动。",
+      "action": "围巾在室内衣架；与窗外空枝空间分开。",
+      "visual_description": "围巾在室内衣架；与窗外空枝空间分开。",
+      "emotional_performance": "按本镜台词设计眉眼、视线、耳姿和姿势；温柔克制，不复制默认困倦/忧郁脸。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_24.png",
+      "prompt_file": "prompts/shot_24.json",
+      "reference_manifest": "references/shot_24.json",
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch",
+        "bud_cluster",
+        "entry_rack"
+      ],
+      "state_before": "门内围巾在木衣架；门外矮枝空着。",
+      "state_after": "夜色中门外枝芽安静且完好；围巾仍留在屋内。",
+      "transition_from": 23,
+      "visual_constraints": "单幅竖屏水彩，无文字/气泡/拼贴/额外角色；字幕区留低细节；围巾、枝杈、芽苞及角色位置按continuity.json保持一致。",
+      "environment_reference": null,
+      "speech_start_s": 206.3921875,
+      "speech_end_s": 213.2260195,
+      "actual_start_s": 205.92,
+      "actual_end_s": 213.64,
+      "visible_start_s": 205.44,
+      "visible_end_s": 214.11999999999998,
+      "visible_duration_s": 8.68
+    },
+    {
+      "id": 25,
+      "title": "借过的地方归还",
+      "text": "今天向大自然借用过的地方，已经温柔地归还好了。",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u04",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 23
+        }
+      ],
+      "paragraph_id": "p006",
+      "characters": [],
+      "outfits": {},
+      "setting": "夜色中门外树枝与门内小木衣架各在自己的位置，归还的地方恢复安稳。",
+      "action": "单一连贯的门口空间，可透过窗看到室内围巾；不做拼贴或分栏。",
+      "visual_description": "单一连贯的门口空间，可透过窗看到室内围巾；不做拼贴或分栏。",
+      "emotional_performance": "按本镜台词设计眉眼、视线、耳姿和姿势；温柔克制，不复制默认困倦/忧郁脸。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_25.png",
+      "prompt_file": "prompts/shot_25.json",
+      "reference_manifest": "references/shot_25.json",
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch",
+        "bud_cluster",
+        "entry_rack"
+      ],
+      "state_before": "门内围巾与门外空枝各在原位。",
+      "state_after": "确认借过的枝条空出来、围巾在室内收好，没有物件返回屋外。",
+      "transition_from": 24,
+      "visual_constraints": "单幅竖屏水彩，无文字/气泡/拼贴/额外角色；字幕区留低细节；围巾、枝杈、芽苞及角色位置按continuity.json保持一致。",
+      "environment_reference": null,
+      "speech_start_s": 214.08727083333335,
+      "speech_end_s": 220.1722486666667,
+      "actual_start_s": 213.64,
+      "actual_end_s": 220.64,
+      "visible_start_s": 213.16,
+      "visible_end_s": 221.11999999999998,
+      "visible_duration_s": 7.96
+    },
+    {
+      "id": 26,
+      "title": "洗完澡钻进被窝",
+      "text": "洗完澡，皮皮钻进温暖的被窝。",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u01",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 14
+        }
+      ],
+      "paragraph_id": "p007",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "洗完澡后，皮皮换上睡衣和星星睡帽，钻进温暖被窝，橙色胡萝卜玩偶在枕边。",
+      "action": "皮皮已回卧室，不穿外出衣也不带着围巾；神情安稳。",
+      "visual_description": "皮皮已回卧室，不穿外出衣也不带着围巾；神情安稳。",
+      "emotional_performance": "按本镜台词设计眉眼、视线、耳姿和姿势；温柔克制，不复制默认困倦/忧郁脸。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_26.png",
+      "prompt_file": "prompts/shot_26.json",
+      "reference_manifest": "references/shot_26.json",
+      "continuity_refs": [
+        "yellow_blanket",
+        "carrot_plush"
+      ],
+      "state_before": "夜晚；皮皮洗完澡换上睡衣。",
+      "state_after": "皮皮钻入卧室温暖被窝；围巾和日常衣服留在入口。",
+      "transition_from": 25,
+      "visual_constraints": "单幅竖屏水彩，无文字/气泡/拼贴/额外角色；字幕区留低细节；围巾、枝杈、芽苞及角色位置按continuity.json保持一致。",
+      "environment_reference": null,
+      "speech_start_s": 221.07489583333336,
+      "speech_end_s": 225.17502016666668,
+      "actual_start_s": 220.64,
+      "actual_end_s": 225.64,
+      "visible_start_s": 220.16,
+      "visible_end_s": 226.11999999999998,
+      "visible_duration_s": 5.96
+    },
+    {
+      "id": 27,
+      "title": "毛毯四角理松",
+      "text": "在盖被子的时候，他也特意把暖黄毛毯的四个边角都理得松松的，",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u02",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "paragraph_id": "p007",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "皮皮盖好暖黄色毛毯，细心地把四个边角都轻轻理松。",
+      "action": "毛毯仍完整盖在床上，四角都铺松，不拉扯被面。",
+      "visual_description": "毛毯仍完整盖在床上，四角都铺松，不拉扯被面。",
+      "emotional_performance": "按本镜台词设计眉眼、视线、耳姿和姿势；温柔克制，不复制默认困倦/忧郁脸。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_27.png",
+      "prompt_file": "prompts/shot_27.json",
+      "reference_manifest": "references/shot_27.json",
+      "continuity_refs": [
+        "yellow_blanket"
+      ],
+      "state_before": "皮皮已在被窝；暖黄毛毯盖身。",
+      "state_after": "皮皮开始松松整理毛毯四角，不把被面拉紧。",
+      "transition_from": 26,
+      "visual_constraints": "单幅竖屏水彩，无文字/气泡/拼贴/额外角色；字幕区留低细节；围巾、枝杈、芽苞及角色位置按continuity.json保持一致。",
+      "environment_reference": null,
+      "speech_start_s": 226.08195833333335,
+      "speech_end_s": 234.33495766666667,
+      "actual_start_s": 225.64,
+      "actual_end_s": 234.76,
+      "visible_start_s": 225.16,
+      "visible_end_s": 235.23999999999998,
+      "visible_duration_s": 10.08
+    },
+    {
+      "id": 28,
+      "title": "被角松软不绷紧",
+      "text": "没有让哪一小块被子绷得紧紧的。",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u03",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 15
+        }
+      ],
+      "paragraph_id": "p007",
+      "characters": [],
+      "outfits": {},
+      "setting": "床铺近景，暖黄毛毯四角自然垂落、松软不起绷，没有被拉紧的小块。",
+      "action": "画面表现四角松弛，不出现拉线、夹子或额外物件。",
+      "visual_description": "画面表现四角松弛，不出现拉线、夹子或额外物件。",
+      "emotional_performance": "按本镜台词设计眉眼、视线、耳姿和姿势；温柔克制，不复制默认困倦/忧郁脸。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_28.png",
+      "prompt_file": "prompts/shot_28.json",
+      "reference_manifest": "references/shot_28.json",
+      "continuity_refs": [
+        "yellow_blanket"
+      ],
+      "state_before": "毛毯四角已被整理。",
+      "state_after": "确认四边角都松软自然，没有绷紧的一块。",
+      "transition_from": 27,
+      "visual_constraints": "单幅竖屏水彩，无文字/气泡/拼贴/额外角色；字幕区留低细节；围巾、枝杈、芽苞及角色位置按continuity.json保持一致。",
+      "environment_reference": null,
+      "speech_start_s": 235.20962500000002,
+      "speech_end_s": 239.31954133333335,
+      "actual_start_s": 234.76,
+      "actual_end_s": 239.76,
+      "visible_start_s": 234.28,
+      "visible_end_s": 240.23999999999998,
+      "visible_duration_s": 5.96
+    },
+    {
+      "id": 29,
+      "title": "抱好胡萝卜玩偶",
+      "text": "他把胡萝卜玩偶抱在臂弯里，慢慢闭上眼睛。",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u04",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 20
+        }
+      ],
+      "paragraph_id": "p007",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "皮皮把一个橙色胡萝卜玩偶抱在臂弯里，慢慢闭上眼睛。",
+      "action": "只出现一个胡萝卜玩偶，皮皮安宁、微带满足。",
+      "visual_description": "只出现一个胡萝卜玩偶，皮皮安宁、微带满足。",
+      "emotional_performance": "按本镜台词设计眉眼、视线、耳姿和姿势；温柔克制，不复制默认困倦/忧郁脸。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_29.png",
+      "prompt_file": "prompts/shot_29.json",
+      "reference_manifest": "references/shot_29.json",
+      "continuity_refs": [
+        "yellow_blanket",
+        "carrot_plush"
+      ],
+      "state_before": "皮皮在床上；玩偶在床边。",
+      "state_after": "皮皮把唯一一个胡萝卜玩偶抱在臂弯，慢慢闭眼。",
+      "transition_from": 28,
+      "visual_constraints": "单幅竖屏水彩，无文字/气泡/拼贴/额外角色；字幕区留低细节；围巾、枝杈、芽苞及角色位置按continuity.json保持一致。",
+      "environment_reference": null,
+      "speech_start_s": 240.21364583333335,
+      "speech_end_s": 246.25958233333336,
+      "actual_start_s": 239.76,
+      "actual_end_s": 246.72,
+      "visible_start_s": 239.28,
+      "visible_end_s": 247.2,
+      "visible_duration_s": 7.92
+    },
+    {
+      "id": 30,
+      "title": "屋内外各得其所",
+      "text": "不管是外面的小树枝，还是屋里的软围巾，都在今晚找到了最舒服的归处。",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u05",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 33
+        }
+      ],
+      "paragraph_id": "p007",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "皮皮在温暖被窝里睡着，窗外夜色中矮枝空着，室内浅黄色围巾安稳挂好。",
+      "action": "单一房间视角，窗外枝条、屋内衣架可自然同时入景；无拼贴。",
+      "visual_description": "单一房间视角，窗外枝条、屋内衣架可自然同时入景；无拼贴。",
+      "emotional_performance": "按本镜台词设计眉眼、视线、耳姿和姿势；温柔克制，不复制默认困倦/忧郁脸。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_30.png",
+      "prompt_file": "prompts/shot_30.json",
+      "reference_manifest": "references/shot_30.json",
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch",
+        "bud_cluster",
+        "entry_rack",
+        "yellow_blanket",
+        "carrot_plush"
+      ],
+      "state_before": "皮皮抱玩偶躺好；门外枝空、门内围巾安稳。",
+      "state_after": "卧室一体视角呈现安睡与窗外空枝；围巾仍在衣架。",
+      "transition_from": 29,
+      "visual_constraints": "单幅竖屏水彩，无文字/气泡/拼贴/额外角色；字幕区留低细节；围巾、枝杈、芽苞及角色位置按continuity.json保持一致。",
+      "environment_reference": null,
+      "speech_start_s": 247.17997916666667,
+      "speech_end_s": 256.51735383333335,
+      "actual_start_s": 246.72,
+      "actual_end_s": 256.96,
+      "visible_start_s": 246.24,
+      "visible_end_s": 257.44,
+      "visible_duration_s": 11.2
+    },
+    {
+      "id": 31,
+      "title": "让紧绷的一角松开",
+      "text": "小朋友，如果今天你的心里也有哪件事像挂住的围巾一样拉得紧紧的，现在，",
+      "source_ranges": [
+        {
+          "unit_id": "p008_u01",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 34
+        }
+      ],
+      "paragraph_id": "p008",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "皮皮安静躺在暖黄毛毯下，像是在邀请小朋友也把心里紧绷的一角慢慢松开。",
+      "action": "皮皮平静放松，双爪轻轻搁在被面，不画发光心形或具象化焦虑。",
+      "visual_description": "皮皮平静放松，双爪轻轻搁在被面，不画发光心形或具象化焦虑。",
+      "emotional_performance": "按本镜台词设计眉眼、视线、耳姿和姿势；温柔克制，不复制默认困倦/忧郁脸。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_31.png",
+      "prompt_file": "prompts/shot_31.json",
+      "reference_manifest": "references/shot_31.json",
+      "continuity_refs": [
+        "yellow_blanket",
+        "carrot_plush"
+      ],
+      "state_before": "皮皮在床上，毛毯松软。",
+      "state_after": "故事邀请小朋友放松；皮皮安静卧床，不具象化焦虑。",
+      "transition_from": 30,
+      "visual_constraints": "单幅竖屏水彩，无文字/气泡/拼贴/额外角色；字幕区留低细节；围巾、枝杈、芽苞及角色位置按continuity.json保持一致。",
+      "environment_reference": null,
+      "speech_start_s": 257.4272291666667,
+      "speech_end_s": 267.9111035,
+      "actual_start_s": 256.96,
+      "actual_end_s": 268.36,
+      "visible_start_s": 256.47999999999996,
+      "visible_end_s": 268.84000000000003,
+      "visible_duration_s": 12.36
+    },
+    {
+      "id": 32,
+      "title": "肩膀和爪子放松",
+      "text": "往回松一松吧。",
+      "source_ranges": [
+        {
+          "unit_id": "p008_u02",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 7
+        }
+      ],
+      "paragraph_id": "p008",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "温暖卧室宽景，皮皮在床上把肩膀和爪子放松下来，身边毛毯柔软不紧绷。",
+      "action": "视线柔和、身体放松，夜间暖灯与蓝色窗外保持稳定。",
+      "visual_description": "视线柔和、身体放松，夜间暖灯与蓝色窗外保持稳定。",
+      "emotional_performance": "按本镜台词设计眉眼、视线、耳姿和姿势；温柔克制，不复制默认困倦/忧郁脸。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_32.png",
+      "prompt_file": "prompts/shot_32.json",
+      "reference_manifest": "references/shot_32.json",
+      "continuity_refs": [
+        "yellow_blanket",
+        "carrot_plush"
+      ],
+      "state_before": "皮皮已放松，玩偶仍抱在臂弯。",
+      "state_after": "皮皮肩膀和爪子舒展，仍在床上，室内暖灯稳定。",
+      "transition_from": 31,
+      "visual_constraints": "单幅竖屏水彩，无文字/气泡/拼贴/额外角色；字幕区留低细节；围巾、枝杈、芽苞及角色位置按continuity.json保持一致。",
+      "environment_reference": null,
+      "speech_start_s": 268.80052083333334,
+      "speech_end_s": 270.57222916666666,
+      "actual_start_s": 268.36,
+      "actual_end_s": 271.04,
+      "visible_start_s": 267.88,
+      "visible_end_s": 271.52000000000004,
+      "visible_duration_s": 3.64
+    },
+    {
+      "id": 33,
+      "title": "暖暖躺好晚安",
+      "text": "暖暖地躺好，晚安。",
+      "source_ranges": [
+        {
+          "unit_id": "p008_u03",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 9
+        }
+      ],
+      "paragraph_id": "p008",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "最后一幅安睡画面：皮皮抱着胡萝卜玩偶，在暖黄被窝中舒适入睡，画面适合晚安尾声。",
+      "action": "宁静、舒适，不出现文字；最后约8秒保持这个安睡状态。",
+      "visual_description": "宁静、舒适，不出现文字；最后约8秒保持这个安睡状态。",
+      "emotional_performance": "按本镜台词设计眉眼、视线、耳姿和姿势；温柔克制，不复制默认困倦/忧郁脸。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_33.png",
+      "prompt_file": "prompts/shot_33.json",
+      "reference_manifest": "references/shot_33.json",
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch",
+        "bud_cluster",
+        "entry_rack",
+        "yellow_blanket",
+        "carrot_plush"
+      ],
+      "state_before": "皮皮在温暖被窝中，四角松软。",
+      "state_after": "最终安睡宽景，胡萝卜玩偶仍抱着；进入约8秒晚安尾声。",
+      "transition_from": 32,
+      "visual_constraints": "单幅竖屏水彩，无文字/气泡/拼贴/额外角色；字幕区留低细节；围巾、枝杈、芽苞及角色位置按continuity.json保持一致。",
+      "environment_reference": null,
+      "speech_start_s": 271.46960416666667,
+      "speech_end_s": 274.14191566666665,
+      "actual_start_s": 271.04,
+      "actual_end_s": 282.36,
+      "visible_start_s": 270.56,
+      "visible_end_s": 282.36,
+      "visible_duration_s": 11.8
+    }
+  ],
+  "audio": "mix.wav",
+  "subtitles": "episode.ass",
+  "character_registry": "references/",
+  "fonts": [
+    {
+      "path": "fonts/NotoSans-Regular.ttf",
+      "sha256": "89c3c497f618fdaa0b2d1e98fef93582f28c71debd2c4a8cdf41f190ced2909d"
+    },
+    {
+      "path": "fonts/Noto-CJK-copyright.txt",
+      "sha256": "849f4ea9c214fa4ac3593b770c699f387534b11ce671264c1b10d85bdcb5997b"
+    },
+    {
+      "path": "fonts/NotoSansCJKsc-Regular.otf",
+      "sha256": "82e9bdfd176ce68c51f6ff89ca7e2abae7fdb82b4591aa7338638598ae3c91c8"
+    },
+    {
+      "path": "fonts/Noto-Sans-copyright.txt",
+      "sha256": "075f91382875da1c4b491f1facf2586f55448705133264d98ce15cab6211b125"
+    },
+    {
+      "path": "fonts/NotoSansCJKsc-Bold.otf",
+      "sha256": "85c969dbb2f927c8dbbe440d5755b7c9a714f13a7a58339459df43cfff3583b3"
+    }
+  ]
+}

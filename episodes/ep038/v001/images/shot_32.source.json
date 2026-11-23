@@ -1,0 +1,14 @@
+{
+  "image_id": 32,
+  "title": "肩膀和爪子放松",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_32.json",
+  "prompt_sha256": "4b755e73fd721ef71b5ca0f12e5b574bc2d49f82f07a22d2092a4a411980c79b",
+  "image_sha256": "3fc14bb3ae217d954f575cb0dc0b95e93aa4b39619764ddcaa390dd4ed795405",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+  ],
+  "generated_at": "2026-11-23"
+}

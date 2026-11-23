@@ -1,0 +1,14 @@
+{
+  "image_id": 10,
+  "title": "皮皮伸手收围巾",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_10.json",
+  "prompt_sha256": "0f1653b00e374f16150d650a35e03985a5b0091a789f419067124da60ab86614",
+  "image_sha256": "4ec0783aa149051f0d4811d0bd1739d188e8d44b34ff701471280454beefde17",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+  ],
+  "generated_at": "2026-11-23"
+}

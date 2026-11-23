@@ -1,0 +1,35 @@
+{
+  "id": 28,
+  "title": "被角松软不绷紧",
+  "destination": "/workspace/Bedtime-Stories/episodes/ep038/v001/images/shot_28.png",
+  "prompt": "Use case: illustration-story. Asset type: ONE original full-bleed vertical 9:16 watercolor story illustration for one locked narration shot. Use every input according to its explicitly labelled role; preserve the existing named identities, not just their species. \nVisible characters: NONE; no animals or people visible. Exact total number of visible characters: 0. Do not draw extra background animals. Scene continuity: 床铺近景，暖黄毛毯四角自然垂落、松软不起绷，没有被拉紧的小块。\nThe SINGLE visual moment and framing: 画面表现四角松弛，不出现拉线、夹子或额外物件。\nEmotional performance for this exact beat: 按本镜台词设计眉眼、视线、耳姿和姿势；温柔克制，不复制默认困倦/忧郁脸。\nMandatory pose/prop state (overrides neutral model-sheet poses): 单幅竖屏水彩，无文字/气泡/拼贴/额外角色；字幕区留低细节；围巾、枝杈、芽苞及角色位置按continuity.json保持一致。\nStyle: hand-painted gentle watercolor on fine warm paper, muted natural hues, soft edges and rounded shapes, quiet storybook mood, no glossy 3D or photorealism. Daylight scenes use soft greens and warm daylight, not bedroom amber tint. Night scenes use soft warm lamplight and muted gray-blue windows. Composition: full-bleed vertical 9:16. Keep all important faces, hands, feet, biscuits, fabric folds and other story actions in the upper 68% of the image. Bottom 32% is low-detail negative space for later subtitles, with no crucial objects there. Make the specified story state visually understandable. Text: NONE. No words, labels, subtitles, numbers, logos, watermark, speech bubbles, panels, frames or collage. Do not reproduce model sheets, multiple versions of a character, or wardrobe lineups. Each named character appears exactly once. This is a new single coherent scene, not a copy of the references. No motion streaks or implied camera zoom. Never turn a metaphor into a real transformation: yellow blankets remain fabric, imagined grassy softness is not actual grass growing in bed. No new story events. \nContinuity lock for this episode: the only scarf is one soft pale butter-yellow knitted scarf with clear chunky stitches and fringed ends, matching the scarf reference. It is never duplicated. The porch is one quiet autumn cottage yard with the same low shrub branch and tiny intact buds; twilight becomes blue-gray, indoors a warm wooden entry and simple wooden coat rack. Pipi is the same small tan long-eared rabbit from reference. No extra animals, letters, symbols, or change of location except the explicitly narrated move indoors. Bedtime scene after bath: Pipi wears starry sleep cap and is under one yellow blanket, with exactly one orange carrot plush. The scarf stays inside on the entry rack, out of bed. ",
+  "reference_inputs": [
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+  ],
+  "characters": [],
+  "outfits": {},
+  "source_ranges": [
+    {
+      "unit_id": "p007_u03",
+      "paragraph_id": "p007",
+      "start_char": 0,
+      "end_char": 15
+    }
+  ],
+  "timing": {
+    "start_s": 234.76,
+    "end_s": 239.76
+  },
+  "image_provenance": {
+    "source": "OpenAI image generation",
+    "generated_at": "2026-11-23",
+    "model_tool": "image_gen.imagegen",
+    "prompt_sha256": "79ef205037d6c5395d1c215d91654c74b2690bc0ba9a2c5c23d3251b6608e384",
+    "reference_inputs": [
+      "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+    ],
+    "sha256": "6e4715ef1dc890e68778fcb6acfe258c710233bd9e42f90e64019e745402a5e5",
+    "width": 941,
+    "height": 1672
+  }
+}

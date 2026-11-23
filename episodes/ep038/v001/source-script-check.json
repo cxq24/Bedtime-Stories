@@ -1,0 +1,11 @@
+{
+  "episode": "ep038",
+  "script_version": "v5",
+  "source_file": "02_100集剧本/用户长稿v5/结构化JSON/ep038.json",
+  "source_sha256": "db35bec95fa8c710cb6818fc1c4d23cee28f9709096928c6c4ad943700514e2d",
+  "paragraphs": 9,
+  "spoken_hanzi": 758,
+  "narration_coverage": 1.0,
+  "p000_included": true,
+  "script_snapshot": "script.snapshot.json"
+}

@@ -1,0 +1,14 @@
+{
+  "image_id": 30,
+  "title": "屋内外各得其所",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_30.json",
+  "prompt_sha256": "011999755180fe571b398a8a6247c6aa64f8272dd10dc7e7af06f6a7d159562d",
+  "image_sha256": "f966bbc9c193b6b2523e353a796d97ad46eb930891508b656fb58ef10c80c8f7",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+  ],
+  "generated_at": "2026-11-23"
+}

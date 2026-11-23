@@ -1,0 +1,14 @@
+{
+  "image_id": 19,
+  "title": "慢慢抬过枝尖",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_19.json",
+  "prompt_sha256": "0b98e5b765fdfb88299040c76ce63046ee278277497a2a2279ded09e5f429749",
+  "image_sha256": "66c6849cf499951efa16dc767f23b3065a1c6005e187b0250ac35f4fc44908ea",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+  ],
+  "generated_at": "2026-11-23"
+}

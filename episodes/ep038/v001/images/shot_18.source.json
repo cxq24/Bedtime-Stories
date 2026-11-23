@@ -1,0 +1,14 @@
+{
+  "image_id": 18,
+  "title": "两指轻轻捏线圈",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_18.json",
+  "prompt_sha256": "88a3174f6de42f1ee42b9e81e54889da76f2eb72c4e95e0d009ac0250951e9b7",
+  "image_sha256": "6d665a081444fe9290f3fa9c9144a1c8955b7a6a10b6d6446ba554978cc49d15",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+  ],
+  "generated_at": "2026-11-23"
+}

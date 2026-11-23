@@ -1,0 +1,95 @@
+{
+  "text": "皮皮第一次戴上了他那条用软毛线织成的浅黄色小围巾。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "d0c72ac28d66586cd4c34ffbed3dc9504534c68b4c29f53e85500cbb27f1e85c",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5192500,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 3653750,
+      "text": "第一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10500000,
+      "duration": 2500000,
+      "text": "次"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13192500,
+      "duration": 6730410,
+      "text": "戴上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19922910,
+      "duration": 3846250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25500000,
+      "duration": 2307500,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27807500,
+      "duration": 1922910,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29730830,
+      "duration": 6153750,
+      "text": "条用"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36077080,
+      "duration": 9230830,
+      "text": "软毛线"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45500000,
+      "duration": 5192500,
+      "text": "织成"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50692500,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52230830,
+      "duration": 9422910,
+      "text": "浅黄色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61846250,
+      "duration": 3076660,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64922910,
+      "duration": 7692500,
+      "text": "围巾"
+    }
+  ]
+}

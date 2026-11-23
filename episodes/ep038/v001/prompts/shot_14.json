@@ -1,0 +1,31 @@
+{
+  "id": 14,
+  "title": "芽苞也需要保护",
+  "destination": "/workspace/Bedtime-Stories/episodes/ep038/v001/images/shot_14.png",
+  "prompt": "Vertical 9:16 gentle watercolor children’s storybook illustration, quiet autumn cottage porch at dusk. Empty scene: absolutely NO people, NO animals, NO silhouettes, NO faces, NO paws. Show one low shrub branch with tiny buds all attached and intact. Exactly ONE pale butter-yellow knitted scarf with chunky yarn and fringed ends hangs from the branch; exactly one loose loop of intact yarn is caught gently over the tip of a tiny twig. The scarf is whole and not torn. The small buds remain undamaged. The loop-to-twig relationship is clear in the upper half. Soft muted dusk blue and warm window glow, paper watercolor texture, lower third calm and uncluttered for subtitles. No text, no speech bubbles, no duplicate scarf, no extra props, no collage, no watermark.",
+  "reference_inputs": [],
+  "characters": [],
+  "outfits": {},
+  "source_ranges": [
+    {
+      "unit_id": "p003_u04",
+      "paragraph_id": "p003",
+      "start_char": 0,
+      "end_char": 21
+    }
+  ],
+  "timing": {
+    "start_s": 117.4,
+    "end_s": 124.6
+  },
+  "image_provenance": {
+    "source": "OpenAI image generation",
+    "generated_at": "2026-11-23",
+    "model_tool": "image_gen.imagegen",
+    "prompt_sha256": "b1438ef6ae11b27f36baa5de7f2f5bf8d13bee77ffdc94fb84b0615cbc7cb293",
+    "reference_inputs": [],
+    "sha256": "a479385d762e00fa48de3acc1d69120f7a8c66c5d7dc3f9788ed40087e52d70f",
+    "width": 941,
+    "height": 1672
+  }
+}

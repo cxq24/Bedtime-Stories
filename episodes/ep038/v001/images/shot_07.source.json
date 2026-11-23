@@ -1,0 +1,16 @@
+{
+  "image_id": 7,
+  "title": "围巾搭在矮枝上",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_07.json",
+  "prompt_sha256": "150f15b7a52c29f05f296df3ccac1f6224a91bf7f62591ebea98997a418673dc",
+  "image_sha256": "20f83b14449601c3b1435e5520b6665b2b0a53d341c121ba5f0f6b50e5bf2f47",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/yaya_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/rongrong_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+  ],
+  "generated_at": "2026-11-23"
+}

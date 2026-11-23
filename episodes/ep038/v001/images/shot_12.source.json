@@ -1,0 +1,14 @@
+{
+  "image_id": 12,
+  "title": "线圈挂住细枝",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_12.json",
+  "prompt_sha256": "9f54715879de99fb4217209e232d5c08a6487eeb8b15ec32d651d6a07636e598",
+  "image_sha256": "bf02ab9d7b4b196a6c9500d0cd7827c66c99ffcff47134fd94978204159527f9",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+  ],
+  "generated_at": "2026-11-23"
+}

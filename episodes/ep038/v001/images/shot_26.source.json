@@ -1,0 +1,14 @@
+{
+  "image_id": 26,
+  "title": "洗完澡钻进被窝",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_26.json",
+  "prompt_sha256": "a81cff56cd9fadecee5784720e3562f058c3e241a1b66b7d110ebdb691df951d",
+  "image_sha256": "4881ce3145d60b7eba200a1b29cf1f998980a18e06d5fe98484c0261a0e15628",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+  ],
+  "generated_at": "2026-11-23"
+}

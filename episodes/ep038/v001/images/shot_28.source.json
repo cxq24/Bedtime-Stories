@@ -1,0 +1,12 @@
+{
+  "image_id": 28,
+  "title": "被角松软不绷紧",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_28.json",
+  "prompt_sha256": "79ef205037d6c5395d1c215d91654c74b2690bc0ba9a2c5c23d3251b6608e384",
+  "image_sha256": "6e4715ef1dc890e68778fcb6acfe258c710233bd9e42f90e64019e745402a5e5",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+  ],
+  "generated_at": "2026-11-23"
+}

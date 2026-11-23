@@ -1,0 +1,14 @@
+{
+  "image_id": 21,
+  "title": "皮皮向树枝道谢",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_21.json",
+  "prompt_sha256": "ce58724310eaa612cbf7810b7fe06706be90207697c406b86a3d6335b1419d4e",
+  "image_sha256": "9c67d514d1444f273bd9522c5a9479a2ab926fef3926469f924d5774dad41957",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+  ],
+  "generated_at": "2026-11-23"
+}

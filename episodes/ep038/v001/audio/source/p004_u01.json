@@ -1,0 +1,65 @@
+{
+  "text": "皮皮立刻停住了往回拉的爪子。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "60bedafab102976283c072581141ea71acc30b0785280ef404628682d50bd99e",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5384580,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 5961660,
+      "text": "立刻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13192500,
+      "duration": 5769160,
+      "text": "停住"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18961660,
+      "duration": 1538330,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20884580,
+      "duration": 2692500,
+      "text": "往"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23577080,
+      "duration": 2500000,
+      "text": "回"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26269160,
+      "duration": 2884580,
+      "text": "拉"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29153750,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30692500,
+      "duration": 8269160,
+      "text": "爪子"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "image_id": 25,
+  "title": "借过的地方归还",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_25.json",
+  "prompt_sha256": "afceebb8cbfd8c977b9d1861c269cd66926a127bf9c981d526bdc68cb3dd1d51",
+  "image_sha256": "20e97a9251df363b0cb92b865d9ab95cddaccec9f9937d6fb31bfc6d134d61fe",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+  ],
+  "generated_at": "2026-11-23"
+}

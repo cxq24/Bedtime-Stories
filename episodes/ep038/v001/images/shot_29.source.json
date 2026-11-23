@@ -1,0 +1,14 @@
+{
+  "image_id": 29,
+  "title": "抱好胡萝卜玩偶",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_29.json",
+  "prompt_sha256": "db71462cebb0d59d5f31a905eaad59e0cb06eb0ee2b70186a7354f4b8a0f07a5",
+  "image_sha256": "200e88d9c6a56ba953d4923739ab3868b8f3ff4bf46cd640aa5f713c86448803",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+  ],
+  "generated_at": "2026-11-23"
+}

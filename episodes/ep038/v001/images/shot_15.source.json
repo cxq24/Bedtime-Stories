@@ -1,0 +1,14 @@
+{
+  "image_id": 15,
+  "title": "皮皮停下拉扯",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_15.json",
+  "prompt_sha256": "09c965ff010c14909692815d75595645f2a20d09491f1769ebc2913f9d12756e",
+  "image_sha256": "9df07741c6981b9a2d2ab839a737d31a8b247a027c841c3f237f7090b44bae8b",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+  ],
+  "generated_at": "2026-11-23"
+}

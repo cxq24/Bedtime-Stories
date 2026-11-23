@@ -1,0 +1,15 @@
+{
+  "source": "OpenAI image generation",
+  "generated_at": "2026-11-23",
+  "model_tool": "image_gen.imagegen",
+  "prompt": "Create an original full-bleed vertical 9:16 watercolor children’s storybook cover illustration, no text. Match Pipi exactly to identity reference: same little tan long-eared rabbit. Use ONLY his daytime outfit from the wardrobe sheet: oatmeal shirt, dusty blue overalls, blue cloth shoes, small yellow backpack. The third reference defines the ONLY prop scarf: pale butter-yellow chunky knit scarf with fringed ends. Scene: warm rustic wooden entryway at a small cottage at early evening, Pipi gently hangs the scarf on a simple wooden wall coat rack after bringing it indoors. Show Pipi from knees upward, his friendly thoughtful face, both paws and scarf/rack action clearly in the upper half of the image (well above 58% image height); leave lower 40% visually quiet and pale floor/wall negative space because a title panel will cover it. A window may hint at a quiet dusky garden, but no branch or outdoor scarf. The scarf is one item on rack and is not worn by Pipi. Cozy soft watercolor on fine paper, warm wood and calm blue dusk, simple uncluttered setting. No other characters, no carrot toy, no split panels, no collage, no words, letters, logos or watermark.",
+  "prompt_sha256": "80a1f230e77f5cc41a1470301d238dd12b3a2b897d3e401c2a1d5c15f1b721f0",
+  "reference_inputs": [
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+  ],
+  "sha256": "ef1f92ee635cadc43770d7a462c45976b4e2267a0ecd2a8fb110cbec5606e4e3",
+  "width": 941,
+  "height": 1672
+}

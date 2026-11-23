@@ -1,0 +1,14 @@
+{
+  "image_id": 27,
+  "title": "毛毯四角理松",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_27.json",
+  "prompt_sha256": "0dfc66ecd061018410876dc18514d5a37813c6af9bfe60e3a5cc2cb460410a5c",
+  "image_sha256": "7aaad8ada3b3f1939188282e28c1cc6d44ea57bdce5eaffa9a530ae92f38d0d1",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+  ],
+  "generated_at": "2026-11-23"
+}

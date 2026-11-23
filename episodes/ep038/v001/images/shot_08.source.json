@@ -1,0 +1,12 @@
+{
+  "image_id": 8,
+  "title": "树枝托住围巾",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_08.json",
+  "prompt_sha256": "86c3086c2e28a35b245cf8d27b26ca7d815badc682376d358d1a1fd6fb0c22ff",
+  "image_sha256": "30d106c2f7e8d94ae79f1e8f1bdaec7587e1d150077448cc27be864fc778b703",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+  ],
+  "generated_at": "2026-11-23"
+}

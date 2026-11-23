@@ -1,0 +1,149 @@
+{
+  "text": "那棵矮树枝像一只伸出来的小手臂，稳稳地替皮皮托了一整个下午的围巾。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "6d2555d1155571eecb4a1255a09f2a04956d046bbc1d0825543dbbabb4d2ca22",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2692500,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3961660,
+      "duration": 2500000,
+      "text": "棵"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 2500000,
+      "text": "矮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9346250,
+      "duration": 8269160,
+      "text": "树枝"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18961660,
+      "duration": 3269160,
+      "text": "像"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22422910,
+      "duration": 1730830,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24153750,
+      "duration": 2692500,
+      "text": "只"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27230830,
+      "duration": 3461660,
+      "text": "伸"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30692500,
+      "duration": 3653750,
+      "text": "出来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34346250,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35692500,
+      "duration": 3076660,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38769160,
+      "duration": 7692500,
+      "text": "手臂"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52038330,
+      "duration": 5192500,
+      "text": "稳稳"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57230830,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58961660,
+      "duration": 2500000,
+      "text": "替"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61461660,
+      "duration": 8269160,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 70115410,
+      "duration": 3077080,
+      "text": "托"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 73192500,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 74538330,
+      "duration": 2115410,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 76653750,
+      "duration": 5000000,
+      "text": "整个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 82038330,
+      "duration": 5577080,
+      "text": "下午"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 87615410,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 89153750,
+      "duration": 7692500,
+      "text": "围巾"
+    }
+  ]
+}

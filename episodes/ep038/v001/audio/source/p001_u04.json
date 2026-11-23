@@ -1,0 +1,131 @@
+{
+  "text": "跑了几圈后，皮皮觉得身上暖烘烘的有点出汗，就随手把浅黄小围巾解下来，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "16aa58e23fcffe14de9369c81664c936148c71bd307434edc6594ddcfe3753ba",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3461660,
+      "text": "跑"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4730830,
+      "duration": 1538330,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6461660,
+      "duration": 2500000,
+      "text": "几"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8961660,
+      "duration": 3845830,
+      "text": "圈"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12807500,
+      "duration": 4615410,
+      "text": "后"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21653750,
+      "duration": 5577080,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27422910,
+      "duration": 3461660,
+      "text": "觉得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31077080,
+      "duration": 7307500,
+      "text": "身上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38769160,
+      "duration": 8077080,
+      "text": "暖烘烘"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46846250,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48384580,
+      "duration": 4422910,
+      "text": "有点"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53000000,
+      "duration": 7500000,
+      "text": "出汗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 65115410,
+      "duration": 2500000,
+      "text": "就"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 67615410,
+      "duration": 7307500,
+      "text": "随手"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75115410,
+      "duration": 2115410,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 77615410,
+      "duration": 6153750,
+      "text": "浅黄"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 83961660,
+      "duration": 2692080,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 86653750,
+      "duration": 5577080,
+      "text": "围巾"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 92615410,
+      "duration": 2692080,
+      "text": "解"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 95307500,
+      "duration": 6730830,
+      "text": "下来"
+    }
+  ]
+}

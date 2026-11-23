@@ -1,0 +1,12 @@
+{
+  "image_id": 0,
+  "title": "秋日小围巾",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_00.json",
+  "prompt_sha256": "5b665c8ab894cb35024cd81311d2097fb726a77ccc02f296b4d9788ef14dd2d9",
+  "image_sha256": "f9879dbc9b478dee54142538bfea3b58dd655904ed26f3292fd22cbf45ae1bcc",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+  ],
+  "generated_at": "2026-11-23"
+}

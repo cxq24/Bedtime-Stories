@@ -1,0 +1,12 @@
+{
+  "image_id": 9,
+  "title": "傍晚晚风轻吹",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_09.json",
+  "prompt_sha256": "a66183bb5f2c78e073bc35f4b164c75bdefb49bfa9244c26c15b75ff1cead0d2",
+  "image_sha256": "4d2308be2a3b9a6da50fcebb60271120181965ee744dbcabf5ba39e55b2a79d6",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+  ],
+  "generated_at": "2026-11-23"
+}

@@ -1,0 +1,14 @@
+{
+  "image_id": 3,
+  "title": "早晨戴上新围巾",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_03.json",
+  "prompt_sha256": "e54350e47a4b977b37f86782e0665a2da83500e3c47a7fe002728afd8df7be96",
+  "image_sha256": "8441b2bdae8bff8b1ed048b890d90d024b29156372ffff348a3a9dd48a219294",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+  ],
+  "generated_at": "2026-11-23"
+}

@@ -1,0 +1,14 @@
+{
+  "image_id": 22,
+  "title": "捧着围巾进屋",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_22.json",
+  "prompt_sha256": "a89a38610fb62f8ba05f8244c1be5b7eee3942ea568dca0255fb43a1b2b0b278",
+  "image_sha256": "83ac714d4341646fc1d0563ec66dbd5a6adf9ab9caa3cbba123b80b2197d6ed6",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+  ],
+  "generated_at": "2026-11-23"
+}

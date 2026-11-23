@@ -1,0 +1,16 @@
+{
+  "image_id": 5,
+  "title": "院子里玩沙包",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_05.json",
+  "prompt_sha256": "a9efef51e6323dfc28b3a48e93d82ca33110ab638be25bb2f0f517d10491b579",
+  "image_sha256": "d8dbbca4fdaefd422b0aa985b7aa21c293e71d88198bf4d1d9bbe69fedb52c7b",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/yaya_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/rongrong_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+  ],
+  "generated_at": "2026-11-23"
+}

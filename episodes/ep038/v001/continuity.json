@@ -1,0 +1,775 @@
+{
+  "episode": "ep038",
+  "version": "v001",
+  "status": "image_review_passed",
+  "text_logic_review": "passed_before_image_generation_two_passes",
+  "image_review": "passed_full_34_shot_contact_sheet_and_phone_sample_review",
+  "cover_title": "皮皮把围巾送回家",
+  "assets": [
+    {
+      "asset_id": "pipi_scarf",
+      "appearance": "唯一一条浅黄色软毛线针织围巾，柔软、长条、自然织纹，边缘有一小段松散线圈；外观由assets/scarf_reference.png锚定。",
+      "first_shots": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "state_sequence": "开场意象→皮皮颈上→解下→矮枝松搭→一个边缘线圈卡在细枝尖→沿枝向前送松→两指抬挪脱落→回到皮皮怀中→室内折叠并挂上木衣架→夜间保持在室内衣架。不得复制为多条或改变颜色/织法。",
+      "reference": "assets/scarf_reference.png"
+    },
+    {
+      "asset_id": "shrub_branch",
+      "appearance": "门廊旁同一棵矮灌木伸出的细树枝，木褐色、向外弯曲、末端分叉。",
+      "first_shots": [
+        0,
+        1,
+        2,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        27,
+        28,
+        33
+      ],
+      "state_sequence": "矮枝在门廊旁固定；白天托住围巾；傍晚围巾脱开；夜间空枝安静。不得瞬移或换成树干。",
+      "reference": "同一庭院环境锚点shot_07.png"
+    },
+    {
+      "asset_id": "bud_cluster",
+      "appearance": "矮枝分叉附近几颗圆润、浅绿色、刚长出的过冬小芽苞。",
+      "first_shots": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        27,
+        28,
+        33
+      ],
+      "state_sequence": "始终留在同一枝上且完整；剧情中只是潜在风险，没有芽苞实际掉落或损伤。",
+      "reference": "枝杈近景与对应庭院图"
+    },
+    {
+      "asset_id": "entry_rack",
+      "appearance": "门内墙边一只小木衣架/挂衣架，尺寸适合围巾折叠后平整挂放。",
+      "first_shots": [
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        33
+      ],
+      "state_sequence": "门槛内固定不动；最后围巾整齐放在上面，夜间仍在室内。",
+      "reference": "shot_25建立"
+    },
+    {
+      "asset_id": "yellow_blanket",
+      "appearance": "卧室里一条暖黄色柔软毛毯，四边角自然松垂。",
+      "first_shots": [
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "state_sequence": "洗澡后盖在皮皮身上；四个角都被整理松软，无一处绷紧。",
+      "reference": "bedroom anchor"
+    },
+    {
+      "asset_id": "carrot_plush",
+      "appearance": "一个橙色胡萝卜形绒布玩偶，绿色叶冠。",
+      "first_shots": [
+        29,
+        32,
+        33
+      ],
+      "state_sequence": "睡前位于卧室床边，最后被皮皮抱在臂弯；全片只出现一个。",
+      "reference": "bedroom anchor"
+    },
+    {
+      "asset_id": "pipi_day_outfit",
+      "appearance": "皮皮身份由暖灰兔、粉鼻、垂耳组成；白天穿米色上衣、灰蓝背带裤。新围巾是独立剧情道具，首次戴在颈上。",
+      "first_shots": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "state_sequence": "白天至夜间门廊保持一致；洗澡后才换睡衣。",
+      "reference": "references/pipi_identity_v001.png + pipi_wardrobe_v001.png"
+    },
+    {
+      "asset_id": "pipi_sleepwear",
+      "appearance": "皮皮同一暖灰兔身份，奶油色睡衣和深蓝星星睡帽。",
+      "first_shots": [
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "state_sequence": "洗澡后卧室段穿着，保持到结尾。",
+      "reference": "references/pipi_identity_v001.png + pipi_wardrobe_v001.png"
+    }
+  ],
+  "shot_states": [
+    {
+      "shot_id": 0,
+      "location": "秋日清晨的门廊外，一段浅黄色针织围巾安静地搭在矮灌木枝上，留白柔和。",
+      "characters": [],
+      "outfits": {},
+      "state_before": "清晨门廊；皮皮尚未出场。",
+      "action": "无人物；用清晨微凉的空气建立睡前故事氛围。",
+      "state_after": "清晨庭院建立；围巾意象出现，无人物。",
+      "transition_from": null,
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch"
+      ]
+    },
+    {
+      "shot_id": 1,
+      "location": "竖幅绘本构图：矮枝像手臂一样托着浅黄色围巾，背景是温暖小屋与深秋庭院。",
+      "characters": [],
+      "outfits": {},
+      "state_before": "庭院与围巾意象已建立。",
+      "action": "无人物；准确提出故事意象，不出现文字。",
+      "state_after": "矮枝托着浅黄围巾，提出故事主题。",
+      "transition_from": 0,
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch"
+      ]
+    },
+    {
+      "shot_id": 2,
+      "location": "小兔皮皮站在门廊边看向矮树枝上的浅黄围巾，像在思考怎样让它找到舒适位置。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "state_before": "清晨庭院；皮皮日常装。",
+      "action": "皮皮神情温和好奇，目光落在围巾和枝杈上。",
+      "state_after": "皮皮在门廊看向围巾，仍穿日常装，尚未戴围巾。",
+      "transition_from": 1,
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch"
+      ]
+    },
+    {
+      "shot_id": 3,
+      "location": "深秋清晨，皮皮穿日常蓝色背带裤、围着浅黄色软毛线围巾，背小书包出门去上学。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "state_before": "皮皮在门廊，围巾在枝上。",
+      "action": "皮皮步伐轻快，稍缩肩感受清晨凉意；围巾第一次出现并戴在颈间。",
+      "state_after": "皮皮出门上学，第一次把浅黄围巾戴在颈间。",
+      "transition_from": 2,
+      "continuity_refs": [
+        "pipi_scarf"
+      ]
+    },
+    {
+      "shot_id": 4,
+      "location": "皮皮低头摸摸新围巾，浅黄色软毛线在晨光中柔和清晰，脸上带一点新鲜喜爱。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "state_before": "皮皮戴着围巾上学途中。",
+      "action": "围巾松松围在颈间，没有遮住皮皮的脸。",
+      "state_after": "近景确认浅黄软毛线围巾外观与佩戴位置。",
+      "transition_from": 3,
+      "continuity_refs": [
+        "pipi_scarf"
+      ]
+    },
+    {
+      "shot_id": 5,
+      "location": "下午皮皮家院子里，皮皮和小鹿芽芽、小熊绒绒围着沙包玩耍，门廊与矮灌木在旁边。",
+      "characters": [
+        "pipi",
+        "yaya",
+        "rongrong"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "yaya": "default_v001",
+        "rongrong": "default_v001"
+      },
+      "state_before": "下午；皮皮戴围巾在家院，芽芽和绒绒到达。",
+      "action": "三位伙伴轻松玩丢沙包，皮皮仍戴着浅黄围巾；各自身份和服装遵从角色参考。",
+      "state_after": "三位伙伴在院子玩丢沙包；围巾仍戴在皮皮颈间。",
+      "transition_from": 4,
+      "continuity_refs": [
+        "pipi_scarf"
+      ]
+    },
+    {
+      "shot_id": 6,
+      "location": "跑了几圈后，皮皮停下来觉得身上暖烘烘的，脸颊微红，用爪子解开围巾。",
+      "characters": [
+        "pipi",
+        "yaya",
+        "rongrong"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "yaya": "default_v001",
+        "rongrong": "default_v001"
+      },
+      "state_before": "三人玩了一阵，围巾仍在皮皮颈间。",
+      "action": "皮皮有些热但神情轻松；芽芽和绒绒仍在院子玩，围巾尚未离开皮皮。",
+      "state_after": "皮皮跑热出汗，开始解下围巾；伙伴仍在院内。",
+      "transition_from": 5,
+      "continuity_refs": [
+        "pipi_scarf"
+      ]
+    },
+    {
+      "shot_id": 7,
+      "location": "皮皮把同一条浅黄围巾松松搭在门廊旁矮灌木的一根低树枝上，伙伴们在后方继续游戏。",
+      "characters": [
+        "pipi",
+        "yaya",
+        "rongrong"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "yaya": "default_v001",
+        "rongrong": "default_v001"
+      },
+      "state_before": "围巾刚从皮皮颈上解下。",
+      "action": "围巾中央搭在枝上，松散边缘自然垂下；不要缠绕或打结。",
+      "state_after": "皮皮把围巾搭在门廊旁同一矮枝上；枝芽未受影响。",
+      "transition_from": 6,
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch",
+        "bud_cluster"
+      ]
+    },
+    {
+      "shot_id": 8,
+      "location": "近景：矮树枝向外伸展像小手臂，稳稳托住浅黄色围巾，枝头圆润小芽苞完整。",
+      "characters": [],
+      "outfits": {},
+      "state_before": "围巾松松搭在矮枝上。",
+      "action": "围巾静置枝上一个下午，线圈未被挂住，枝芽完好。",
+      "state_after": "枝条承托围巾整个下午；毛线圈未挂住，小芽苞完整。",
+      "transition_from": 7,
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch",
+        "bud_cluster"
+      ]
+    },
+    {
+      "shot_id": 9,
+      "location": "傍晚院子安静下来，芽芽和绒绒已告别离开；微风轻轻吹动枝上围巾的布角。",
+      "characters": [],
+      "outfits": {},
+      "state_before": "傍晚；伙伴离场，围巾仍搭枝。",
+      "action": "伙伴不再入镜；矮枝和围巾位置不变，只有围巾角轻轻摆动。",
+      "state_after": "晚风轻吹围巾角；芽芽和绒绒已回家，不再出现。",
+      "transition_from": 8,
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch",
+        "bud_cluster"
+      ]
+    },
+    {
+      "shot_id": 10,
+      "location": "皮皮走到门廊边，伸出一只小爪子想把枝上的围巾收回屋里。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "state_before": "伙伴已离开；围巾在矮枝上。",
+      "action": "皮皮神情平常、专注；围巾仍完整搭在同一根矮枝上。",
+      "state_after": "皮皮走到门廊伸手准备收围巾，向门口移动。",
+      "transition_from": 9,
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch",
+        "bud_cluster"
+      ]
+    },
+    {
+      "shot_id": 11,
+      "location": "皮皮轻轻往回拉围巾时，近景看到围巾边缘一小段松散毛线线圈靠近细枝分叉。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "state_before": "皮皮伸手触到围巾并向回拉一点。",
+      "action": "动作刚开始，线圈仍完整，枝条小芽苞没有受损。",
+      "state_after": "围巾边缘松散线圈靠近细枝分叉；线圈完整。",
+      "transition_from": 10,
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch",
+        "bud_cluster"
+      ]
+    },
+    {
+      "shot_id": 12,
+      "location": "松散的浅黄毛线圈挂在一根细枝分叉尖端上，围巾暂时卡住，皮皮停在旁边查看。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "state_before": "松散线圈在细枝旁。",
+      "action": "明确线圈卡在枝尖，纱线与芽苞均完整；位置关系清楚。",
+      "state_after": "线圈挂住同一枝尖，围巾暂时卡住，未断线、未损芽。",
+      "transition_from": 11,
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch",
+        "bud_cluster"
+      ]
+    },
+    {
+      "shot_id": 13,
+      "location": "小兔皮皮意识到如果着急使劲，紧绷的毛线圈可能被拉坏；画面只呈现轻微拉力，没有断线。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "state_before": "围巾卡在枝尖；皮皮察觉潜在拉力。",
+      "action": "皮皮眉眼显出克制的担心，身体停住；树枝芽苞保持完好。",
+      "state_after": "表现“若急拉可能损坏”的担忧；纱线和枝芽均完好。",
+      "transition_from": 12,
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch",
+        "bud_cluster"
+      ]
+    },
+    {
+      "shot_id": 14,
+      "location": "同一根细枝尖端旁的小芽苞圆圆地长着，围巾线圈仍挂住但尚未伤到枝条。",
+      "characters": [],
+      "outfits": {},
+      "state_before": "围巾仍卡住；树枝小芽苞在枝上。",
+      "action": "表达潜在风险，不画芽苞掉落或实际损伤。",
+      "state_after": "潜在风险被注意到，但芽苞没有掉落或损坏。",
+      "transition_from": 13,
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch",
+        "bud_cluster"
+      ]
+    },
+    {
+      "shot_id": 15,
+      "location": "皮皮立刻停住往回拉的爪子，手松开拉力，围巾线圈仍挂在树枝上。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "state_before": "皮皮还握着围巾，线圈卡住。",
+      "action": "皮皮神情专注转稳，姿势从拉扯转为停止。",
+      "state_after": "皮皮立刻停止往回拉，张力解除；围巾仍挂枝尖。",
+      "transition_from": 14,
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch",
+        "bud_cluster"
+      ]
+    },
+    {
+      "shot_id": 16,
+      "location": "皮皮顺着树枝伸展方向，把围巾向前轻轻送回一点点，帮助线圈卸掉拉力。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "state_before": "皮皮已停止拉扯。",
+      "action": "围巾往枝端方向移动一点，枝尖与芽苞保持完好。",
+      "state_after": "皮皮仔细观察后顺枝方向把围巾轻轻送前一点，给线圈卸力。",
+      "transition_from": 15,
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch",
+        "bud_cluster"
+      ]
+    },
+    {
+      "shot_id": 17,
+      "location": "近景显示原本绷紧的浅黄松线圈变得松松软软，仍在枝尖附近，纱线没有断。",
+      "characters": [],
+      "outfits": {},
+      "state_before": "围巾已沿枝方向送回一点。",
+      "action": "视觉重点是线圈松开，围巾本体和枝芽不变。",
+      "state_after": "原本绷紧的毛线圈变松；围巾未脱离枝尖，枝芽完整。",
+      "transition_from": 16,
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch",
+        "bud_cluster"
+      ]
+    },
+    {
+      "shot_id": 18,
+      "location": "皮皮用两根手指轻轻捏住挂住的那一小段毛线圈。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "state_before": "线圈松开但仍挂在枝尖。",
+      "action": "手指夹在圈外侧，枝尖可见；其余围巾仍由枝条托着。",
+      "state_after": "皮皮用两根手指捏住该线圈，其余围巾仍由矮枝承托。",
+      "transition_from": 17,
+      "continuity_refs": [
+        "pipi_scarf"
+      ]
+    },
+    {
+      "shot_id": 19,
+      "location": "皮皮顺着细枝尖端方向，把松开的毛线圈慢慢向上抬起并挪过枝尖，双爪稳稳接回怀里。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "state_before": "皮皮捏住线圈，拉力已解除。",
+      "action": "展示一抬一挪的单一关键瞬间，围巾随后完整回到皮皮怀中。",
+      "state_after": "皮皮顺枝尖慢慢抬起并挪开线圈，完整围巾回到怀中。",
+      "transition_from": 18,
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch",
+        "bud_cluster"
+      ]
+    },
+    {
+      "shot_id": 20,
+      "location": "被取下围巾的矮树枝轻轻回弹晃了晃，圆圆的小芽苞还完整留在枝头。",
+      "characters": [],
+      "outfits": {},
+      "state_before": "围巾已从枝上取下并回到皮皮怀里。",
+      "action": "空枝、完整芽苞；不出现围巾在枝上。",
+      "state_after": "空枝轻轻回弹；小芽苞完好，围巾不再在枝上。",
+      "transition_from": 19,
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch",
+        "bud_cluster"
+      ]
+    },
+    {
+      "shot_id": 21,
+      "location": "皮皮抱着围巾对空着的矮树枝露出轻柔笑意，像在小声道谢。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "state_before": "皮皮怀抱围巾，枝芽安好。",
+      "action": "皮皮目光温和看向枝芽，说话但画面绝不出现文字或气泡。",
+      "state_after": "皮皮向空枝轻声致谢；围巾仍由皮皮抱着。",
+      "transition_from": 20,
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch",
+        "bud_cluster"
+      ]
+    },
+    {
+      "shot_id": 22,
+      "location": "皮皮捧着浅黄围巾走进木屋，门槛内侧是入口，门内小木衣架在墙边。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "state_before": "皮皮在门廊，围巾在怀中。",
+      "action": "围巾已从屋外取回；皮皮从门廊进入室内，日常衣服仍一致。",
+      "state_after": "皮皮带围巾进屋、平整折好并放到门内木衣架。",
+      "transition_from": 21,
+      "continuity_refs": [
+        "pipi_scarf",
+        "entry_rack"
+      ]
+    },
+    {
+      "shot_id": 23,
+      "location": "皮皮在室内把围巾平平整整地折成几折，放在小木挂衣架的下层横杆/挂钩处。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "state_before": "围巾已在室内衣架。",
+      "action": "围巾折叠整齐并留在屋内；门外矮枝为空。",
+      "state_after": "围巾安稳挂在室内，不再被微凉夜风吹动。",
+      "transition_from": 22,
+      "continuity_refs": [
+        "pipi_scarf",
+        "entry_rack"
+      ]
+    },
+    {
+      "shot_id": 24,
+      "location": "近景看到浅黄围巾安稳挂在门内木衣架上，织物平整，不再在晚风里摆动。",
+      "characters": [],
+      "outfits": {},
+      "state_before": "门内围巾在木衣架；门外矮枝空着。",
+      "action": "围巾在室内衣架；与窗外空枝空间分开。",
+      "state_after": "夜色中门外枝芽安静且完好；围巾仍留在屋内。",
+      "transition_from": 23,
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch",
+        "bud_cluster",
+        "entry_rack"
+      ]
+    },
+    {
+      "shot_id": 25,
+      "location": "夜色中门外树枝与门内小木衣架各在自己的位置，归还的地方恢复安稳。",
+      "characters": [],
+      "outfits": {},
+      "state_before": "门内围巾与门外空枝各在原位。",
+      "action": "单一连贯的门口空间，可透过窗看到室内围巾；不做拼贴或分栏。",
+      "state_after": "确认借过的枝条空出来、围巾在室内收好，没有物件返回屋外。",
+      "transition_from": 24,
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch",
+        "bud_cluster",
+        "entry_rack"
+      ]
+    },
+    {
+      "shot_id": 26,
+      "location": "洗完澡后，皮皮换上睡衣和星星睡帽，钻进温暖被窝，橙色胡萝卜玩偶在枕边。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "state_before": "夜晚；皮皮洗完澡换上睡衣。",
+      "action": "皮皮已回卧室，不穿外出衣也不带着围巾；神情安稳。",
+      "state_after": "皮皮钻入卧室温暖被窝；围巾和日常衣服留在入口。",
+      "transition_from": 25,
+      "continuity_refs": [
+        "yellow_blanket",
+        "carrot_plush"
+      ]
+    },
+    {
+      "shot_id": 27,
+      "location": "皮皮盖好暖黄色毛毯，细心地把四个边角都轻轻理松。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "state_before": "皮皮已在被窝；暖黄毛毯盖身。",
+      "action": "毛毯仍完整盖在床上，四角都铺松，不拉扯被面。",
+      "state_after": "皮皮开始松松整理毛毯四角，不把被面拉紧。",
+      "transition_from": 26,
+      "continuity_refs": [
+        "yellow_blanket"
+      ]
+    },
+    {
+      "shot_id": 28,
+      "location": "床铺近景，暖黄毛毯四角自然垂落、松软不起绷，没有被拉紧的小块。",
+      "characters": [],
+      "outfits": {},
+      "state_before": "毛毯四角已被整理。",
+      "action": "画面表现四角松弛，不出现拉线、夹子或额外物件。",
+      "state_after": "确认四边角都松软自然，没有绷紧的一块。",
+      "transition_from": 27,
+      "continuity_refs": [
+        "yellow_blanket"
+      ]
+    },
+    {
+      "shot_id": 29,
+      "location": "皮皮把一个橙色胡萝卜玩偶抱在臂弯里，慢慢闭上眼睛。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "state_before": "皮皮在床上；玩偶在床边。",
+      "action": "只出现一个胡萝卜玩偶，皮皮安宁、微带满足。",
+      "state_after": "皮皮把唯一一个胡萝卜玩偶抱在臂弯，慢慢闭眼。",
+      "transition_from": 28,
+      "continuity_refs": [
+        "yellow_blanket",
+        "carrot_plush"
+      ]
+    },
+    {
+      "shot_id": 30,
+      "location": "皮皮在温暖被窝里睡着，窗外夜色中矮枝空着，室内浅黄色围巾安稳挂好。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "state_before": "皮皮抱玩偶躺好；门外枝空、门内围巾安稳。",
+      "action": "单一房间视角，窗外枝条、屋内衣架可自然同时入景；无拼贴。",
+      "state_after": "卧室一体视角呈现安睡与窗外空枝；围巾仍在衣架。",
+      "transition_from": 29,
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch",
+        "bud_cluster",
+        "entry_rack",
+        "yellow_blanket",
+        "carrot_plush"
+      ]
+    },
+    {
+      "shot_id": 31,
+      "location": "皮皮安静躺在暖黄毛毯下，像是在邀请小朋友也把心里紧绷的一角慢慢松开。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "state_before": "皮皮在床上，毛毯松软。",
+      "action": "皮皮平静放松，双爪轻轻搁在被面，不画发光心形或具象化焦虑。",
+      "state_after": "故事邀请小朋友放松；皮皮安静卧床，不具象化焦虑。",
+      "transition_from": 30,
+      "continuity_refs": [
+        "yellow_blanket",
+        "carrot_plush"
+      ]
+    },
+    {
+      "shot_id": 32,
+      "location": "温暖卧室宽景，皮皮在床上把肩膀和爪子放松下来，身边毛毯柔软不紧绷。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "state_before": "皮皮已放松，玩偶仍抱在臂弯。",
+      "action": "视线柔和、身体放松，夜间暖灯与蓝色窗外保持稳定。",
+      "state_after": "皮皮肩膀和爪子舒展，仍在床上，室内暖灯稳定。",
+      "transition_from": 31,
+      "continuity_refs": [
+        "yellow_blanket",
+        "carrot_plush"
+      ]
+    },
+    {
+      "shot_id": 33,
+      "location": "最后一幅安睡画面：皮皮抱着胡萝卜玩偶，在暖黄被窝中舒适入睡，画面适合晚安尾声。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "state_before": "皮皮在温暖被窝中，四角松软。",
+      "action": "宁静、舒适，不出现文字；最后约8秒保持这个安睡状态。",
+      "state_after": "最终安睡宽景，胡萝卜玩偶仍抱着；进入约8秒晚安尾声。",
+      "transition_from": 32,
+      "continuity_refs": [
+        "pipi_scarf",
+        "shrub_branch",
+        "bud_cluster",
+        "entry_rack",
+        "yellow_blanket",
+        "carrot_plush"
+      ]
+    }
+  ],
+  "review_summary": "文字逻辑两轮通过：皮皮从白天上学/回家院子切到傍晚门廊，芽芽与绒绒离场后不再出现；同一浅黄围巾从颈上到矮枝、线圈卡住、顺枝松脱、回到皮皮怀里并挂入门内木衣架。枝头芽苞全程完好；洗澡后皮皮换睡衣入卧室，宽松毛毯与胡萝卜玩偶只在睡前出现。后续图片须对照状态表复核。 图像审查：34张全镜双页联系表逐镜通过；围巾保持单条、芽苞未受损、伙伴离场后不再出现、围巾夜间留在室内衣架。重生成第13、14镜以消除道具重复，第30镜不再出现月亮。10个360px手机视频帧与360px封面已检查。"
+}

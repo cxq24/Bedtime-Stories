@@ -1,0 +1,43 @@
+{
+  "id": 12,
+  "title": "线圈挂住细枝",
+  "destination": "/workspace/Bedtime-Stories/episodes/ep038/v001/images/shot_12.png",
+  "prompt": "Use case: illustration-story. Asset type: ONE original full-bleed vertical 9:16 watercolor story illustration for one locked narration shot. Use every input according to its explicitly labelled role; preserve the existing named identities, not just their species. Input 1: identity for 皮皮 (pipi), preserve exactly: 暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。 Input 2: clothing only for 皮皮: 换装表左：灰蓝短背带裤、米色上衣、蓝布鞋、小黄书包，无帽；仅画这套服装，不复制表中其他兔子。\nVisible characters: 皮皮 (pipi). Exact total number of visible characters: 1. Do not draw extra background animals. Standing body-height ratios (not ear or tail tips): 皮皮 1.0. Pipi wears ONLY the LEFT daytime outfit from the wardrobe sheet: dusty blue overalls, oatmeal shirt, blue cloth shoes, small yellow backpack. No star cap in daytime. Scene continuity: 松散的浅黄毛线圈挂在一根细枝分叉尖端上，围巾暂时卡住，皮皮停在旁边查看。\nThe SINGLE visual moment and framing: 明确线圈卡在枝尖，纱线与芽苞均完整；位置关系清楚。\nEmotional performance for this exact beat: 按本镜台词设计眉眼、视线、耳姿和姿势；温柔克制，不复制默认困倦/忧郁脸。\nMandatory pose/prop state (overrides neutral model-sheet poses): 单幅竖屏水彩，无文字/气泡/拼贴/额外角色；字幕区留低细节；围巾、枝杈、芽苞及角色位置按continuity.json保持一致。\nStyle: hand-painted gentle watercolor on fine warm paper, muted natural hues, soft edges and rounded shapes, quiet storybook mood, no glossy 3D or photorealism. Daylight scenes use soft greens and warm daylight, not bedroom amber tint. Night scenes use soft warm lamplight and muted gray-blue windows. Composition: full-bleed vertical 9:16. Keep all important faces, hands, feet, biscuits, fabric folds and other story actions in the upper 68% of the image. Bottom 32% is low-detail negative space for later subtitles, with no crucial objects there. Make the specified story state visually understandable. Text: NONE. No words, labels, subtitles, numbers, logos, watermark, speech bubbles, panels, frames or collage. Do not reproduce model sheets, multiple versions of a character, or wardrobe lineups. Each named character appears exactly once. This is a new single coherent scene, not a copy of the references. No motion streaks or implied camera zoom. Never turn a metaphor into a real transformation: yellow blankets remain fabric, imagined grassy softness is not actual grass growing in bed. No new story events. \nContinuity lock for this episode: the only scarf is one soft pale butter-yellow knitted scarf with clear chunky stitches and fringed ends, matching the scarf reference. It is never duplicated. The porch is one quiet autumn cottage yard with the same low shrub branch and tiny intact buds; twilight becomes blue-gray, indoors a warm wooden entry and simple wooden coat rack. Pipi is the same small tan long-eared rabbit from reference. No extra animals, letters, symbols, or change of location except the explicitly narrated move indoors. Exactly one loose loop of scarf yarn is caught over a tiny twig point; yarn stays whole, buds stay attached and intact. The scarf is not torn. ",
+  "reference_inputs": [
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+  ],
+  "characters": [
+    "pipi"
+  ],
+  "outfits": {
+    "pipi": "day_v001"
+  },
+  "source_ranges": [
+    {
+      "unit_id": "p003_u02",
+      "paragraph_id": "p003",
+      "start_char": 0,
+      "end_char": 28
+    }
+  ],
+  "timing": {
+    "start_s": 99.76,
+    "end_s": 108.84
+  },
+  "image_provenance": {
+    "source": "OpenAI image generation",
+    "generated_at": "2026-11-23",
+    "model_tool": "image_gen.imagegen",
+    "prompt_sha256": "9f54715879de99fb4217209e232d5c08a6487eeb8b15ec32d651d6a07636e598",
+    "reference_inputs": [
+      "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_identity_v001.png",
+      "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_wardrobe_v001.png",
+      "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+    ],
+    "sha256": "bf02ab9d7b4b196a6c9500d0cd7827c66c99ffcff47134fd94978204159527f9",
+    "width": 941,
+    "height": 1672
+  }
+}

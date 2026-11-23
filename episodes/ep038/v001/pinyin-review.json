@@ -1,0 +1,296 @@
+{
+  "hanzi": 758,
+  "cues": 132,
+  "pinyin_coverage": 1.0,
+  "context_review": "completed_against_episode_text",
+  "target_font_px": {
+    "hanzi": 76,
+    "pinyin": 48
+  },
+  "libass_fontsize_calibration": {
+    "hanzi": 114,
+    "pinyin": 66,
+    "reason": "match actual rasterized glyph scale to bundled-font 76px/48px reference; libass normalizes font metrics"
+  },
+  "audio_pronunciation_listen_review": "not_certified",
+  "overrides": [
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "小朋友们，准备好听故事了吗？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "今天的故事叫《树枝给围巾让个座》。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "舒服",
+      "pinyin": [
+        "shū",
+        "fu"
+      ],
+      "context": "皮皮跑热了，浅黄色围巾怎样找到一个舒服的小位置呢？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮跑热了，浅黄色围巾怎样找到一个舒服的小位置呢？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "皮皮跑热了，浅黄色围巾怎样找到一个舒服的小位置呢？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "第一次",
+      "pinyin": [
+        "dì",
+        "yī",
+        "cì"
+      ],
+      "context": "皮皮第一次戴上了他那条用软毛线织成的浅黄色小围巾。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮第一次戴上了他那条用软毛线织成的浅黄色小围巾。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒绒",
+      "pinyin": [
+        "róng",
+        "róng"
+      ],
+      "context": "下午，小鹿芽芽和小熊绒绒来皮皮家院子里玩丢沙包。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "下午，小鹿芽芽和小熊绒绒来皮皮家院子里玩丢沙包。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "跑了几圈后，皮皮觉得身上暖烘烘的有点出汗，就随手把浅黄小围巾解下来，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "那棵矮树枝像一只伸出来的小手臂，稳稳地替皮皮托了一整个下午的围巾。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "那棵矮树枝像一只伸出来的小手臂，稳稳地替皮皮托了一整个下午的围巾。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "爪子",
+      "pinyin": [
+        "zhuǎ",
+        "zi"
+      ],
+      "context": "皮皮走到门廊边，伸出小爪子想把围巾收进屋里。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮走到门廊边，伸出小爪子想把围巾收进屋里。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "可是，就在皮皮往回一拉的时候，围巾边缘有一小段松散的毛线线圈，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "爪子",
+      "pinyin": [
+        "zhuǎ",
+        "zi"
+      ],
+      "context": "皮皮立刻停住了往回拉的爪子。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮立刻停住了往回拉的爪子。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "接着，皮皮用两根手指捏住线圈，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "顺着细枝的尖尖慢慢往上一抬、一挪——小围巾就毫发无损地回到了皮皮的怀里！",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "晃了",
+      "pinyin": [
+        "huàng",
+        "le"
+      ],
+      "context": "而那根矮树枝轻轻晃了晃，上面圆圆的小芽苞还完好无损地留着呢。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮对着矮树枝笑了笑，小声说：“谢谢你今天帮我拿围巾，现在把座位还给你啦。”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "晃了",
+      "pinyin": [
+        "huàng",
+        "le"
+      ],
+      "context": "不用让它在微凉的夜风里一直摇晃了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "摇晃",
+      "pinyin": [
+        "yáo",
+        "huàng"
+      ],
+      "context": "不用让它在微凉的夜风里一直摇晃了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "不用",
+      "pinyin": [
+        "bú",
+        "yòng"
+      ],
+      "context": "不用让它在微凉的夜风里一直摇晃了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "地方",
+      "pinyin": [
+        "dì",
+        "fang"
+      ],
+      "context": "今天向大自然借用过的地方，已经温柔地归还好了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "温柔地",
+      "pinyin": [
+        "wēn",
+        "róu",
+        "de"
+      ],
+      "context": "今天向大自然借用过的地方，已经温柔地归还好了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "洗完澡，皮皮钻进温暖的被窝。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "在盖被子的时候，他也特意把暖黄毛毯的四个边角都理得松松的，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "胡萝卜",
+      "pinyin": [
+        "hú",
+        "luó",
+        "bo"
+      ],
+      "context": "他把胡萝卜玩偶抱在臂弯里，慢慢闭上眼睛。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "舒服",
+      "pinyin": [
+        "shū",
+        "fu"
+      ],
+      "context": "不管是外面的小树枝，还是屋里的软围巾，都在今晚找到了最舒服的归处。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "小朋友，如果今天你的心里也有哪件事像挂住的围巾一样拉得紧紧的，现在，",
+      "review": "context_checked_not_audio_listen_certification"
+    }
+  ]
+}

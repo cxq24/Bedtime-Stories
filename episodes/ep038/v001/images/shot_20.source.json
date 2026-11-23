@@ -1,0 +1,12 @@
+{
+  "image_id": 20,
+  "title": "枝芽仍完好",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_20.json",
+  "prompt_sha256": "e4c91aaf55cdf097db325d060dc061e8013678f29ca30f68af75e45eb9101291",
+  "image_sha256": "ab728a8770dd77b7cd534244ebbbdb8b13467d31753fdb36058fa8d40a531055",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+  ],
+  "generated_at": "2026-11-23"
+}

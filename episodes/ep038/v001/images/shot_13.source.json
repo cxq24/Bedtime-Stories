@@ -1,0 +1,14 @@
+{
+  "image_id": 13,
+  "title": "毛线可能被拉坏",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_13.json",
+  "prompt_sha256": "2d54e6c8ecf5c7b20e651a8eaf1ad7ffcead36b4e160d33a401099d3a3ccd432",
+  "image_sha256": "08467735053ce6aa9d272f5dc62a31da37e3bca767dded345bf2caa16e2ea382",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+  ],
+  "generated_at": "2026-11-23"
+}

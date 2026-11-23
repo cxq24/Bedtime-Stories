@@ -1,0 +1,71 @@
+{
+  "text": "不用让它在微凉的夜风里一直摇晃了。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "4f0696abada6f557658603022bd867b4864265cacbfcc3ab580ef744070b497a",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4615410,
+      "text": "不用"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6077080,
+      "duration": 2500000,
+      "text": "让"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8577080,
+      "duration": 2115410,
+      "text": "它"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11077080,
+      "duration": 2307500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13769160,
+      "duration": 9422910,
+      "text": "微凉的夜"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23192500,
+      "duration": 4038330,
+      "text": "风"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27230830,
+      "duration": 4038330,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32807500,
+      "duration": 5577080,
+      "text": "一直"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38577080,
+      "duration": 7884580,
+      "text": "摇晃"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46461660,
+      "duration": 2307500,
+      "text": "了"
+    }
+  ]
+}

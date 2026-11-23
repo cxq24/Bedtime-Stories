@@ -1,0 +1,16 @@
+{
+  "image_id": 6,
+  "title": "跑热了摘围巾",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_06.json",
+  "prompt_sha256": "1dfd9186aa24d5b4b0dbe1e1126340c36efe8599fcfe1d98ec8f753c7a44bbdc",
+  "image_sha256": "1546b4cffccf804fc5b9d9b5f03150d9ef56abc18840e4d19cf1ad454d2764ed",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/yaya_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/rongrong_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+  ],
+  "generated_at": "2026-11-23"
+}

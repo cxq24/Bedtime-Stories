@@ -1,0 +1,95 @@
+{
+  "text": "皮皮跑热了，浅黄色围巾怎样找到一个舒服的小位置呢？",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "d5a88926fc0b00f486afcee8c011ade019ba3c06d069e51f7f6b958c410f4c27",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4615410,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6077080,
+      "duration": 3653750,
+      "text": "跑"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9730830,
+      "duration": 4038330,
+      "text": "热"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13769160,
+      "duration": 3269160,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22422910,
+      "duration": 8846250,
+      "text": "浅黄色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31461660,
+      "duration": 7884580,
+      "text": "围巾"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40884580,
+      "duration": 5961660,
+      "text": "怎样"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47038330,
+      "duration": 4615410,
+      "text": "找到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51846250,
+      "duration": 2884580,
+      "text": "一个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55115410,
+      "duration": 5000000,
+      "text": "舒服"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60115410,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61653750,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64922910,
+      "duration": 5384580,
+      "text": "位置"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 70307500,
+      "duration": 3461660,
+      "text": "呢"
+    }
+  ]
+}

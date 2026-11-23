@@ -1,0 +1,14 @@
+{
+  "image_id": 2,
+  "title": "围巾找座位",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_02.json",
+  "prompt_sha256": "89c07fdcce8842ba5b0f73ee1ba7092d40026d57f0209a04a25f2f396a2c009b",
+  "image_sha256": "eade191b604bfc54bbc012e0ff3ca2223f996a6c106ac353afb6370bdf23dabd",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+  ],
+  "generated_at": "2026-11-23"
+}

@@ -1,0 +1,131 @@
+{
+  "text": "小朋友，如果今天你的心里也有哪件事像挂住的围巾一样拉得紧紧的，现在，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "ff01647a6fa66fc9fe7a0c6d5b6fb300b18aae4a20133361f8fb52c1a062bb4b",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 10961660,
+      "text": "小朋友"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17615410,
+      "duration": 3461660,
+      "text": "如果"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21269160,
+      "duration": 5000000,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26653750,
+      "duration": 1346250,
+      "text": "你"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28000000,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29346250,
+      "duration": 8461660,
+      "text": "心里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39346250,
+      "duration": 3846250,
+      "text": "也有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43384580,
+      "duration": 2884580,
+      "text": "哪"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46269160,
+      "duration": 3461660,
+      "text": "件"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 49730830,
+      "duration": 5000000,
+      "text": "事"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56077080,
+      "duration": 3269160,
+      "text": "像"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59538330,
+      "duration": 5192500,
+      "text": "挂住"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64730830,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 66269160,
+      "duration": 5961660,
+      "text": "围巾"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 72422910,
+      "duration": 6153750,
+      "text": "一样"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 80115410,
+      "duration": 2500000,
+      "text": "拉"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 82615410,
+      "duration": 1538330,
+      "text": "得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 84346250,
+      "duration": 6922910,
+      "text": "紧紧"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 91269160,
+      "duration": 2692500,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 98769160,
+      "duration": 7500000,
+      "text": "现在"
+    }
+  ]
+}

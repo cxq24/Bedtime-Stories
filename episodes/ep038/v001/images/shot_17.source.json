@@ -1,0 +1,12 @@
+{
+  "image_id": 17,
+  "title": "线圈松软下来",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_17.json",
+  "prompt_sha256": "9e414f6b8adbebf339ee6d98b7d4924adc6b0441f15758b30a0ef1cd92ae0e44",
+  "image_sha256": "6f4b4b16e9094b3e819b5d71d8388fa7806f14f6200404a6d50a564bce377ff2",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+  ],
+  "generated_at": "2026-11-23"
+}

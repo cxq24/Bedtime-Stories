@@ -1,0 +1,12 @@
+{
+  "image_id": 1,
+  "title": "故事名字",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_01.json",
+  "prompt_sha256": "d925bdd9c5607f4eeb8b6875d976458dfc0902e267d7a485c0580c7e6fab7515",
+  "image_sha256": "4989c24e9cde3991c95bdd7aee2424d60c9021db64958902bf8602afccdbc710",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+  ],
+  "generated_at": "2026-11-23"
+}

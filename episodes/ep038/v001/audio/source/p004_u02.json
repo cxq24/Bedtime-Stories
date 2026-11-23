@@ -1,0 +1,131 @@
+{
+  "text": "他凑近细树枝，先不往后拽，而是顺着树枝的方向，把围巾轻轻往前送回了一点点。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "73e64888c0651cfc38bc590dfde4298889dda6c675c7e416b4d45dc156a87eaf",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2500000,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3769160,
+      "duration": 6153750,
+      "text": "凑近"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10307500,
+      "duration": 2500000,
+      "text": "细"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12807500,
+      "duration": 7692500,
+      "text": "树枝"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23961660,
+      "duration": 3845830,
+      "text": "先"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27807500,
+      "duration": 1730830,
+      "text": "不"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29730830,
+      "duration": 6538330,
+      "text": "往后"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36269160,
+      "duration": 4038330,
+      "text": "拽"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45307500,
+      "duration": 4422910,
+      "text": "而是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 49922910,
+      "duration": 4422910,
+      "text": "顺着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54730830,
+      "duration": 5961660,
+      "text": "树枝"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60692500,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 62422910,
+      "duration": 7500000,
+      "text": "方向"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 74346250,
+      "duration": 2307500,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 76846250,
+      "duration": 7307500,
+      "text": "围巾"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 84538330,
+      "duration": 5192500,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 89922910,
+      "duration": 8653750,
+      "text": "往前"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 98961660,
+      "duration": 5961250,
+      "text": "送回"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 104922910,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 106269160,
+      "duration": 10384580,
+      "text": "一点点"
+    }
+  ]
+}

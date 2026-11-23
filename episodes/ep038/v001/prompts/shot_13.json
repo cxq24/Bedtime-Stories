@@ -1,0 +1,43 @@
+{
+  "id": 13,
+  "title": "毛线可能被拉坏",
+  "destination": "/workspace/Bedtime-Stories/episodes/ep038/v001/images/shot_13.png",
+  "prompt": "Vertical 9:16 gentle watercolor children’s storybook illustration. Match the named Pipi rabbit identity and daytime outfit from the first two reference images; third reference is the design of the ONLY scarf prop. At the autumn cottage porch at dusk, Pipi has just stopped pulling and stands beside one low shrub branch. Show Pipi’s paws empty and held near his chest; he is NOT wearing or holding any scarf. Exactly ONE pale yellow knitted scarf hangs from the branch, with exactly one intact loose yarn loop caught over a tiny twig tip. The whole scarf is visible on the branch, its yarn is not broken. All small buds remain attached and undamaged. Pipi’s expression shows gentle concern and restraint. No other characters. Keep face, paws, twig and caught loop in upper 68%; lower 32% is quiet low-detail ground for subtitles. Soft blue dusk outside and warm cottage window light. No text, no speech bubbles, no extra garments, no duplicate scarves, no collage, no watermark.",
+  "reference_inputs": [
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+  ],
+  "characters": [
+    "pipi"
+  ],
+  "outfits": {
+    "pipi": "day_v001"
+  },
+  "source_ranges": [
+    {
+      "unit_id": "p003_u03",
+      "paragraph_id": "p003",
+      "start_char": 0,
+      "end_char": 26
+    }
+  ],
+  "timing": {
+    "start_s": 108.84,
+    "end_s": 117.4
+  },
+  "image_provenance": {
+    "source": "OpenAI image generation",
+    "generated_at": "2026-11-23",
+    "model_tool": "image_gen.imagegen",
+    "prompt_sha256": "2d54e6c8ecf5c7b20e651a8eaf1ad7ffcead36b4e160d33a401099d3a3ccd432",
+    "reference_inputs": [
+      "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_identity_v001.png",
+      "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_wardrobe_v001.png",
+      "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+    ],
+    "sha256": "08467735053ce6aa9d272f5dc62a31da37e3bca767dded345bf2caa16e2ea382",
+    "width": 941,
+    "height": 1672
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "text": "搭在了门廊旁边一棵矮灌木的树枝上。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "fadcd09d3885fe975e00711c952f377c0fa179b54408d3a164fb522c82af0e41",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3077080,
+      "text": "搭"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4346250,
+      "duration": 2692080,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8577080,
+      "duration": 5000000,
+      "text": "门廊"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13769160,
+      "duration": 8846250,
+      "text": "旁边"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23961660,
+      "duration": 1922910,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25884580,
+      "duration": 3077080,
+      "text": "棵"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29346250,
+      "duration": 2884580,
+      "text": "矮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32230830,
+      "duration": 5000000,
+      "text": "灌木"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37230830,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38769160,
+      "duration": 5961660,
+      "text": "树枝"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44730830,
+      "duration": 5192500,
+      "text": "上"
+    }
+  ]
+}

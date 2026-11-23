@@ -1,0 +1,14 @@
+{
+  "image_id": 16,
+  "title": "沿枝方向送回围巾",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_16.json",
+  "prompt_sha256": "33245eb4d41def6dc9425745c05cc698be5118a1dcf77a8b83156006042384cb",
+  "image_sha256": "759f02fae9246a5f081d31f49089aa80fd4565c275e0fea596fd8300e2f6b375",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+  ],
+  "generated_at": "2026-11-23"
+}

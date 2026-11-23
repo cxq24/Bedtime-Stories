@@ -1,0 +1,14 @@
+{
+  "image_id": 31,
+  "title": "让紧绷的一角松开",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_31.json",
+  "prompt_sha256": "516f860e8e650b734d7d21312c08dc0774de30fbc3a5c4dd9f1c1ca97507e74f",
+  "image_sha256": "6e76602cf40d56d33684614794f6966afc034b1893d70dd378cd197046ad56f7",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+  ],
+  "generated_at": "2026-11-23"
+}

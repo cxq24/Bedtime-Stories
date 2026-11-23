@@ -1,0 +1,12 @@
+{
+  "image_id": 24,
+  "title": "围巾挂进木衣架",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_24.json",
+  "prompt_sha256": "d33e39642db3fc4c90cf671cd26b994eb41d2edbed872358ea0bc49faf85c722",
+  "image_sha256": "c11f0fae41b637efe0845d27b4f772d4f63d3978412964973b0657cc3d1ea2a3",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+  ],
+  "generated_at": "2026-11-23"
+}

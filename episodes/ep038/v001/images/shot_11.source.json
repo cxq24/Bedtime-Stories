@@ -1,0 +1,14 @@
+{
+  "image_id": 11,
+  "title": "松散线圈靠近枝杈",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_11.json",
+  "prompt_sha256": "83bafbe84761565f1d96bfcf092af5f0aa46322718844a7b24b36700c9e5be31",
+  "image_sha256": "eb9d36585baa0e859aef45814d53a59f4e7cd5d79085638aa514bd18a2b2d9bf",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+  ],
+  "generated_at": "2026-11-23"
+}

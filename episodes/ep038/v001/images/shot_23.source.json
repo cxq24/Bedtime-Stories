@@ -1,0 +1,14 @@
+{
+  "image_id": 23,
+  "title": "把围巾叠整齐",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_23.json",
+  "prompt_sha256": "c29ca157393d0db363dda8dcb99efcf731d36291df12168db50843cba1e1cbde",
+  "image_sha256": "6c369fbe2e30ce6b345cdea5236ec1d7fed7f8792791ad762090ee7de376b183",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+  ],
+  "generated_at": "2026-11-23"
+}

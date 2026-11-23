@@ -1,0 +1,10 @@
+{
+  "image_id": 14,
+  "title": "芽苞也需要保护",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_14.json",
+  "prompt_sha256": "b1438ef6ae11b27f36baa5de7f2f5bf8d13bee77ffdc94fb84b0615cbc7cb293",
+  "image_sha256": "a479385d762e00fa48de3acc1d69120f7a8c66c5d7dc3f9788ed40087e52d70f",
+  "references": [],
+  "generated_at": "2026-11-23"
+}

@@ -1,0 +1,14 @@
+{
+  "image_id": 4,
+  "title": "摸摸浅黄围巾",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_04.json",
+  "prompt_sha256": "808ef2b51ade991352184f662cf97dc8c195da46002afc0794d1186a0424a6b5",
+  "image_sha256": "2495bf3ada137c0ff5b130bb00c902cb44cbf5be810b4a0b00c76742a7448dd2",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep038/v001/assets/scarf_reference.png"
+  ],
+  "generated_at": "2026-11-23"
+}
