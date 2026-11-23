@@ -1,0 +1,31 @@
+{
+  "episode": "ep035",
+  "version": "v001",
+  "title": "栗子的小布袋",
+  "script_version": "v5",
+  "script_json": "02_100集剧本/用户长稿v5/结构化JSON/ep035.json",
+  "script_sha256": "04700faf5334a19a3ba5ff18d951276596758ee413d4e907a89505921b676122",
+  "narration_sha256": "14251d3766aa20c8a9561d44a7d04198d1fc3c8502d370aea36abae9e419a49e",
+  "duration_s": 261.04,
+  "shots": 27,
+  "hanzi": 746,
+  "subtitle_cues": 128,
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "status": "technical_passed_human_watch_pending",
+  "asset_generation": "27_of_27_images_generated_and_contact_sheet_reviewed",
+  "continuity_preflight": "passed_textual_two_passes_and_contact_sheet_reviewed",
+  "render": "completed",
+  "technical_checks": "passed_full_decode_both_files",
+  "human_full_watch": "not_certified",
+  "user_acceptance": "pending",
+  "published": false,
+  "delivery_directory": "Outputs/2026-11-23/ep035-v001",
+  "github_sync": "pending_user_requested_sync"
+}

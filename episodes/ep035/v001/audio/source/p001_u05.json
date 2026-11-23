@@ -1,0 +1,53 @@
+{
+  "text": "一颗一颗捡进篮子里。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "556cb347a7e80981e699a3ef0866ebd477743af9ddf558ebc80bdfeb642c47d6",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2500000,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3769160,
+      "duration": 2500000,
+      "text": "颗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6461660,
+      "duration": 2115410,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8577080,
+      "duration": 3461660,
+      "text": "颗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12422910,
+      "duration": 5769160,
+      "text": "捡进"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18384580,
+      "duration": 5961660,
+      "text": "篮子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24346250,
+      "duration": 3846250,
+      "text": "里"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "text": "而是用两只小爪子捧在胸前。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "c9515aff9a8f39da386cbeff1cb2c475c799da7c065ed91f862c0a1953b1f0cc",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4615410,
+      "text": "而是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6077080,
+      "duration": 2307500,
+      "text": "用"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8769160,
+      "duration": 4807500,
+      "text": "两只"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13769160,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17038330,
+      "duration": 8461660,
+      "text": "爪子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27038330,
+      "duration": 3077080,
+      "text": "捧"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30115410,
+      "duration": 2115410,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32422910,
+      "duration": 9807500,
+      "text": "胸前"
+    }
+  ]
+}

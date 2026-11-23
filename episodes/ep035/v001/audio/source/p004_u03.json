@@ -1,0 +1,125 @@
+{
+  "text": "的手腕，心想：再好看的宝贝，也不能一整晚都捧在爪心里睡觉呀。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "635f58386535924f7da545df619a015cece9a7810df098c397438ef06deb0349",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 1922910,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3384580,
+      "duration": 7692500,
+      "text": "手腕"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15115410,
+      "duration": 8269160,
+      "text": "心想"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28577080,
+      "duration": 2307500,
+      "text": "再"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30884580,
+      "duration": 5577080,
+      "text": "好看"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36461660,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37807500,
+      "duration": 6730830,
+      "text": "宝贝"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48000000,
+      "duration": 1538330,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 49730830,
+      "duration": 3461660,
+      "text": "不能"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53577080,
+      "duration": 2307500,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55884580,
+      "duration": 3077080,
+      "text": "整"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58961660,
+      "duration": 4807500,
+      "text": "晚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64153750,
+      "duration": 2500000,
+      "text": "都"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 66653750,
+      "duration": 2692500,
+      "text": "捧"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 69346250,
+      "duration": 1922910,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 71653750,
+      "duration": 5384580,
+      "text": "爪心"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 77038330,
+      "duration": 1346250,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78577080,
+      "duration": 6730410,
+      "text": "睡觉"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 85307500,
+      "duration": 3846250,
+      "text": "呀"
+    }
+  ]
+}

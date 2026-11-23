@@ -1,0 +1,89 @@
+{
+  "text": "分果子的时候，皮皮分到了满满两捧圆滚滚的大栗子。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "3064f2fa87453677673ee61fc30f528e7840941bb363f94c9bb6e983eaed8513",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3846250,
+      "text": "分"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5115410,
+      "duration": 4807500,
+      "text": "果子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9922910,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11653750,
+      "duration": 7692500,
+      "text": "时候"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23192500,
+      "duration": 5192500,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28577080,
+      "duration": 5576660,
+      "text": "分到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34153750,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35884580,
+      "duration": 5384580,
+      "text": "满满"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41461660,
+      "duration": 3076660,
+      "text": "两"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44538330,
+      "duration": 3269160,
+      "text": "捧"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48192500,
+      "duration": 8845830,
+      "text": "圆滚滚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57038330,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58769160,
+      "duration": 10384580,
+      "text": "大栗子"
+    }
+  ]
+}

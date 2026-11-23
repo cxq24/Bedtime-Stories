@@ -1,0 +1,101 @@
+{
+  "text": "另一只爪子把桌上的栗子一枚一枚地请进去。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "80d4d2f50af43ddfd50837a98de7847fe026009f6dcd281bba31619b5f8f4f58",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2692500,
+      "text": "另"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3961660,
+      "duration": 1730830,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5692500,
+      "duration": 2307500,
+      "text": "只"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8192500,
+      "duration": 8269160,
+      "text": "爪子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18000000,
+      "duration": 2307500,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20500000,
+      "duration": 2884580,
+      "text": "桌"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23384580,
+      "duration": 2500000,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26077080,
+      "duration": 9615410,
+      "text": "的栗子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37230830,
+      "duration": 2307500,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39538330,
+      "duration": 2500000,
+      "text": "枚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42230830,
+      "duration": 1730830,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43961660,
+      "duration": 2500000,
+      "text": "枚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46461660,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48000000,
+      "duration": 3461660,
+      "text": "请"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51461660,
+      "duration": 7500000,
+      "text": "进去"
+    }
+  ]
+}

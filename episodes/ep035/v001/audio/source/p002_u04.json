@@ -1,0 +1,101 @@
+{
+  "text": "栗子壳滑溜溜、沉甸甸的，带着太阳晒过的果木香气，皮皮走一路、",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "4c94924de8352d0318ccb1911e07f9f496b28d38b802e02d9e8079f9f07622da",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 8461660,
+      "text": "栗子壳"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10115410,
+      "duration": 10192500,
+      "text": "滑溜溜"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23000000,
+      "duration": 10192500,
+      "text": "沉甸甸"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33192500,
+      "duration": 2692500,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41653750,
+      "duration": 2500000,
+      "text": "带"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44153750,
+      "duration": 1538330,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45884580,
+      "duration": 5769160,
+      "text": "太阳"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52038330,
+      "duration": 3461660,
+      "text": "晒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55500000,
+      "duration": 1922910,
+      "text": "过"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57422910,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59346250,
+      "duration": 4615410,
+      "text": "果木"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64153750,
+      "duration": 8461660,
+      "text": "香气"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 76269160,
+      "duration": 5384580,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 81846250,
+      "duration": 3076660,
+      "text": "走"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 84922910,
+      "duration": 7307500,
+      "text": "一路"
+    }
+  ]
+}

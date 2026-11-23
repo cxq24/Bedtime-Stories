@@ -1,0 +1,83 @@
+{
+  "text": "皮皮眼疾手快，伸出小爪子在桌边稳稳地接住了它。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "8f11d9153a9ee553a079d002695f474fee974d2a1efaca03b8b44e1dc9b5e1cf",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5384580,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 13461660,
+      "text": "眼疾手快"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25115410,
+      "duration": 4807500,
+      "text": "伸出"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30115410,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33384580,
+      "duration": 8269160,
+      "text": "爪子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43192500,
+      "duration": 2692080,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45884580,
+      "duration": 5769160,
+      "text": "桌边"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52038330,
+      "duration": 5192500,
+      "text": "稳稳"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57230830,
+      "duration": 1538330,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59153750,
+      "duration": 5384580,
+      "text": "接住"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64538330,
+      "duration": 1538330,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 66077080,
+      "duration": 4422910,
+      "text": "它"
+    }
+  ]
+}

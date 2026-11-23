@@ -1,0 +1,65 @@
+{
+  "text": "圆滚滚的栗子有了自己的棉布小袋子，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "29ee98b8232eb1d79155411e2b0c49ee8aa6da1e875e30fc2d665c9b59f90450",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 9038330,
+      "text": "圆滚滚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10500000,
+      "duration": 9807500,
+      "text": "的栗子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21846250,
+      "duration": 2307500,
+      "text": "有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24153750,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25692500,
+      "duration": 4038330,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29730830,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31461660,
+      "duration": 5384580,
+      "text": "棉布"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37038330,
+      "duration": 3077080,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40115410,
+      "duration": 7692500,
+      "text": "袋子"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "text": "\n他用一只爪子把布袋口大大地撑开，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "962c067a0940e4ad8d05f57a9c7f19d05bde626c686260224435b030c2d0fb77",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2307500,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3577080,
+      "duration": 1922910,
+      "text": "用"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5692500,
+      "duration": 1730410,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7422910,
+      "duration": 2307500,
+      "text": "只"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9922910,
+      "duration": 8846250,
+      "text": "爪子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20500000,
+      "duration": 2115410,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22807500,
+      "duration": 7692500,
+      "text": "布袋口"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30884580,
+      "duration": 5192500,
+      "text": "大大"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36077080,
+      "duration": 2307500,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38577080,
+      "duration": 7884580,
+      "text": "撑开"
+    }
+  ]
+}

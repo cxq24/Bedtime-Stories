@@ -1,0 +1,77 @@
+{
+  "text": "然后把小布袋放进了床边的矮柜里。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "506e3de7993c9d85258c8e3c693d5d8915a45405b4d3b1543d4b68075c05e3f9",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5384580,
+      "text": "然后"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 1730830,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8961660,
+      "duration": 3076660,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12038330,
+      "duration": 6538330,
+      "text": "布袋"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19922910,
+      "duration": 5769160,
+      "text": "放进"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25692500,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27422910,
+      "duration": 3653750,
+      "text": "床"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31077080,
+      "duration": 2307500,
+      "text": "边"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33384580,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35115410,
+      "duration": 7307500,
+      "text": "矮柜"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42422910,
+      "duration": 3269160,
+      "text": "里"
+    }
+  ]
+}

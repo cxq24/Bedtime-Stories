@@ -1,0 +1,65 @@
+{
+  "text": "\n一路上，皮皮都舍不得把栗子放进书包里，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "24c7d5cd8a874bd27532658fd6759a74f33cc99b1915a9beb964abe99159c1d5",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 10384580,
+      "text": "一路上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15692500,
+      "duration": 5577080,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21461660,
+      "duration": 2115410,
+      "text": "都"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23769160,
+      "duration": 7115410,
+      "text": "舍不得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31269160,
+      "duration": 2307500,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33769160,
+      "duration": 4615410,
+      "text": "栗子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38384580,
+      "duration": 4807500,
+      "text": "放进"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43384580,
+      "duration": 6922910,
+      "text": "书包"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50307500,
+      "duration": 3461660,
+      "text": "里"
+    }
+  ]
+}

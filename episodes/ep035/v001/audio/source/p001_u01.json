@@ -1,0 +1,77 @@
+{
+  "text": "今天森林学堂组织大家去后山的板栗林里秋游。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "a8bbad2fb53ff6e6cb73bbeaa16e45228bc92c8ac4fe90dadeaad92f49832074",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6538330,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8192500,
+      "duration": 5000000,
+      "text": "森林"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13384580,
+      "duration": 6346250,
+      "text": "学堂"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20115410,
+      "duration": 3653750,
+      "text": "组织"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23961660,
+      "duration": 7692500,
+      "text": "大家"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33192500,
+      "duration": 2500000,
+      "text": "去"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35692500,
+      "duration": 6345830,
+      "text": "后山"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42038330,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43769160,
+      "duration": 5769160,
+      "text": "板栗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 49730830,
+      "duration": 5000000,
+      "text": "林里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54922910,
+      "duration": 8461660,
+      "text": "秋游"
+    }
+  ]
+}

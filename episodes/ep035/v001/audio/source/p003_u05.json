@@ -1,0 +1,41 @@
+{
+  "text": "“骨碌碌”往桌沿滚去。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "4835ca8edb3164c28d0a6936e39b4d71bc7f2aeb9d7e40747c70520def16d9f5",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 7884580,
+      "text": "骨碌碌"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9538330,
+      "duration": 2884580,
+      "text": "往"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12422910,
+      "duration": 5384580,
+      "text": "桌沿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18000000,
+      "duration": 3653750,
+      "text": "滚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21653750,
+      "duration": 5192500,
+      "text": "去"
+    }
+  ]
+}

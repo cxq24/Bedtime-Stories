@@ -1,0 +1,89 @@
+{
+  "text": "白天的满满收获，终于可以不用一直抓在手上了。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "5d13242d16a8001de97d7eabefa6a34609a1a0d27662bfba52b9506312f29c66",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5769160,
+      "text": "白天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8769160,
+      "duration": 5000000,
+      "text": "满满"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13961660,
+      "duration": 8077080,
+      "text": "收获"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26077080,
+      "duration": 5192500,
+      "text": "终于"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31461660,
+      "duration": 3846250,
+      "text": "可以"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35500000,
+      "duration": 4422910,
+      "text": "不用"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40307500,
+      "duration": 5577080,
+      "text": "一直"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46077080,
+      "duration": 3076660,
+      "text": "抓"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 49153750,
+      "duration": 2115410,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51461660,
+      "duration": 3461250,
+      "text": "手"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54922910,
+      "duration": 3653750,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58577080,
+      "duration": 2692500,
+      "text": "了"
+    }
+  ]
+}

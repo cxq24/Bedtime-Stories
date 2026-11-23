@@ -1,0 +1,53 @@
+{
+  "text": "都已经好好地收起来啦。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "be9e98cb15ca2afe9505c1fb70a6bff737d4e11d10b0e5d50253a94ed0715852",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2307500,
+      "text": "都"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3577080,
+      "duration": 4038330,
+      "text": "已经"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8000000,
+      "duration": 6153750,
+      "text": "好好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14153750,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15884580,
+      "duration": 2884580,
+      "text": "收"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18769160,
+      "duration": 5192500,
+      "text": "起来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23961660,
+      "duration": 3461660,
+      "text": "啦"
+    }
+  ]
+}

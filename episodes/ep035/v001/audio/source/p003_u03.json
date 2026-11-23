@@ -1,0 +1,71 @@
+{
+  "text": "\n栗子太多太圆了，皮皮刚数到第五颗，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "59422828ca9c0ea629b4d677208c248bf9cf499cb8b77f8411e687959dab65ff",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4615410,
+      "text": "栗子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6077080,
+      "duration": 3845830,
+      "text": "太"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9922910,
+      "duration": 2115410,
+      "text": "多"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12422910,
+      "duration": 6730830,
+      "text": "太圆"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19153750,
+      "duration": 2884580,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26653750,
+      "duration": 5192500,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32230830,
+      "duration": 4807500,
+      "text": "刚数"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37230830,
+      "duration": 2500000,
+      "text": "到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40115410,
+      "duration": 5000000,
+      "text": "第五"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45115410,
+      "duration": 5000000,
+      "text": "颗"
+    }
+  ]
+}

@@ -1,0 +1,1148 @@
+{
+  "episode": "ep035",
+  "title": "栗子的小布袋",
+  "cover_title": "皮皮收好栗子",
+  "theme": "把白天的收获轻轻放下",
+  "status": "audio_locked_ready_for_images",
+  "shots": [
+    {
+      "id": 0,
+      "paragraph_id": "p000",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u01",
+          "start_char": 0,
+          "end_char": 14
+        },
+        {
+          "unit_id": "p000_u02",
+          "start_char": 0,
+          "end_char": 15
+        }
+      ],
+      "text": "小朋友们，准备好听故事了吗？今天的故事叫《栗子的小布袋》。",
+      "title": "小朋友们，准备好听故事了吗？今天的故事叫",
+      "location": "秋日栗林意象开场",
+      "time_of_day": "day",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "小朋友们，准备好听故事了吗？今天的故事叫《栗子的小布袋》。；只用原文出现角色和物件，动作和情绪自然。竖屏9:16温柔水彩绘本，细纸纹，画内无文字，主体偏上适配字幕。",
+      "action": "小朋友们，准备好听故事了吗？今天的故事叫《栗子的小布袋》。",
+      "continuity_refs": [
+        "pipi",
+        "chestnut_pouch",
+        "bedroom",
+        "low_table",
+        "bedside_cabinet"
+      ],
+      "state_before": "承接同场景前镜状态。",
+      "state_after": "小朋友们，准备好听故事了吗？今天的故事叫《栗子的小布袋》。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "image_status": "awaiting_generation",
+      "image_path": "images/shot_00.png"
+    },
+    {
+      "id": 1,
+      "paragraph_id": "p000",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u03",
+          "start_char": 0,
+          "end_char": 22
+        }
+      ],
+      "text": "秋游捡来的板栗，皮皮会怎样把它们轻轻收好呢？",
+      "title": "秋游捡来的板栗，皮皮会怎样把它们轻轻收好",
+      "location": "秋日栗林意象开场",
+      "time_of_day": "day",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "秋游捡来的板栗，皮皮会怎样把它们轻轻收好呢？；只用原文出现角色和物件，动作和情绪自然。竖屏9:16温柔水彩绘本，细纸纹，画内无文字，主体偏上适配字幕。",
+      "action": "秋游捡来的板栗，皮皮会怎样把它们轻轻收好呢？",
+      "continuity_refs": [
+        "pipi",
+        "chestnut_pouch",
+        "bedroom",
+        "low_table",
+        "bedside_cabinet"
+      ],
+      "state_before": "承接同场景前镜状态。",
+      "state_after": "秋游捡来的板栗，皮皮会怎样把它们轻轻收好呢？",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "image_status": "awaiting_generation",
+      "image_path": "images/shot_01.png"
+    },
+    {
+      "id": 2,
+      "paragraph_id": "p001",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u01",
+          "start_char": 0,
+          "end_char": 21
+        },
+        {
+          "unit_id": "p001_u02",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "text": "今天森林学堂组织大家去后山的板栗林里秋游。\n板栗树下掉满了裂开嘴的刺球壳，",
+      "title": "今天森林学堂组织大家去后山的板栗林里秋游",
+      "location": "后山板栗林",
+      "time_of_day": "day",
+      "layer": "storybook",
+      "characters": [
+        "pipi",
+        "rongrong",
+        "lili"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "今天森林学堂组织大家去后山的板栗林里秋游。\n板栗树下掉满了裂开嘴的刺球壳，；只用原文出现角色和物件，动作和情绪自然。竖屏9:16温柔水彩绘本，细纸纹，画内无文字，主体偏上适配字幕。",
+      "action": "今天森林学堂组织大家去后山的板栗林里秋游。\n板栗树下掉满了裂开嘴的刺球壳，",
+      "continuity_refs": [
+        "pipi",
+        "lili_hedgehog",
+        "rongrong",
+        "chestnuts",
+        "basket"
+      ],
+      "state_before": "承接同场景前镜状态。",
+      "state_after": "今天森林学堂组织大家去后山的板栗林里秋游。\n板栗树下掉满了裂开嘴的刺球壳，",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "image_status": "awaiting_generation",
+      "image_path": "images/shot_02.png"
+    },
+    {
+      "id": 3,
+      "paragraph_id": "p001",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u03",
+          "start_char": 0,
+          "end_char": 19
+        },
+        {
+          "unit_id": "p001_u04",
+          "start_char": 0,
+          "end_char": 22
+        }
+      ],
+      "text": "小刺猬栗栗和小熊绒绒用小木夹拨开刺球，皮皮则负责把里面滚出来的油亮亮的褐红色板栗，",
+      "title": "小刺猬栗栗和小熊绒绒用小木夹拨开刺球，皮",
+      "location": "后山板栗林",
+      "time_of_day": "day",
+      "layer": "storybook",
+      "characters": [
+        "pipi",
+        "rongrong",
+        "lili"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "小刺猬栗栗和小熊绒绒用小木夹拨开刺球，皮皮则负责把里面滚出来的油亮亮的褐红色板栗，；只用原文出现角色和物件，动作和情绪自然。竖屏9:16温柔水彩绘本，细纸纹，画内无文字，主体偏上适配字幕。",
+      "action": "小刺猬栗栗和小熊绒绒用小木夹拨开刺球，皮皮则负责把里面滚出来的油亮亮的褐红色板栗，",
+      "continuity_refs": [
+        "pipi",
+        "lili_hedgehog",
+        "rongrong",
+        "chestnuts",
+        "basket"
+      ],
+      "state_before": "承接同场景前镜状态。",
+      "state_after": "小刺猬栗栗和小熊绒绒用小木夹拨开刺球，皮皮则负责把里面滚出来的油亮亮的褐红色板栗，",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "image_status": "awaiting_generation",
+      "image_path": "images/shot_03.png"
+    },
+    {
+      "id": 4,
+      "paragraph_id": "p001",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u05",
+          "start_char": 0,
+          "end_char": 10
+        }
+      ],
+      "text": "一颗一颗捡进篮子里。",
+      "title": "一颗一颗捡进篮子里。",
+      "location": "后山板栗林",
+      "time_of_day": "day",
+      "layer": "storybook",
+      "characters": [
+        "pipi",
+        "rongrong",
+        "lili"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "一颗一颗捡进篮子里。；只用原文出现角色和物件，动作和情绪自然。竖屏9:16温柔水彩绘本，细纸纹，画内无文字，主体偏上适配字幕。",
+      "action": "一颗一颗捡进篮子里。",
+      "continuity_refs": [
+        "pipi",
+        "lili_hedgehog",
+        "rongrong",
+        "chestnuts",
+        "basket"
+      ],
+      "state_before": "承接同场景前镜状态。",
+      "state_after": "一颗一颗捡进篮子里。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "image_status": "awaiting_generation",
+      "image_path": "images/shot_04.png"
+    },
+    {
+      "id": 5,
+      "paragraph_id": "p002",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u01",
+          "start_char": 0,
+          "end_char": 24
+        },
+        {
+          "unit_id": "p002_u02",
+          "start_char": 0,
+          "end_char": 20
+        }
+      ],
+      "text": "分果子的时候，皮皮分到了满满两捧圆滚滚的大栗子。\n一路上，皮皮都舍不得把栗子放进书包里，",
+      "title": "分果子的时候，皮皮分到了满满两捧圆滚滚的",
+      "location": "返家森林小路",
+      "time_of_day": "day",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "分果子的时候，皮皮分到了满满两捧圆滚滚的大栗子。\n一路上，皮皮都舍不得把栗子放进书包里，；只用原文出现角色和物件，动作和情绪自然。竖屏9:16温柔水彩绘本，细纸纹，画内无文字，主体偏上适配字幕。",
+      "action": "分果子的时候，皮皮分到了满满两捧圆滚滚的大栗子。\n一路上，皮皮都舍不得把栗子放进书包里，",
+      "continuity_refs": [
+        "pipi",
+        "chestnut_pouch",
+        "bedroom",
+        "low_table",
+        "bedside_cabinet"
+      ],
+      "state_before": "承接同场景前镜状态。",
+      "state_after": "分果子的时候，皮皮分到了满满两捧圆滚滚的大栗子。\n一路上，皮皮都舍不得把栗子放进书包里，",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "image_status": "awaiting_generation",
+      "image_path": "images/shot_05.png"
+    },
+    {
+      "id": 6,
+      "paragraph_id": "p002",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u03",
+          "start_char": 0,
+          "end_char": 13
+        }
+      ],
+      "text": "而是用两只小爪子捧在胸前。",
+      "title": "而是用两只小爪子捧在胸前。",
+      "location": "返家森林小路",
+      "time_of_day": "day",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "而是用两只小爪子捧在胸前。；只用原文出现角色和物件，动作和情绪自然。竖屏9:16温柔水彩绘本，细纸纹，画内无文字，主体偏上适配字幕。",
+      "action": "而是用两只小爪子捧在胸前。",
+      "continuity_refs": [
+        "pipi",
+        "chestnut_pouch",
+        "bedroom",
+        "low_table",
+        "bedside_cabinet"
+      ],
+      "state_before": "承接同场景前镜状态。",
+      "state_after": "而是用两只小爪子捧在胸前。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "image_status": "awaiting_generation",
+      "image_path": "images/shot_06.png"
+    },
+    {
+      "id": 7,
+      "paragraph_id": "p002",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u04",
+          "start_char": 0,
+          "end_char": 30
+        },
+        {
+          "unit_id": "p002_u05",
+          "start_char": 0,
+          "end_char": 11
+        }
+      ],
+      "text": "栗子壳滑溜溜、沉甸甸的，带着太阳晒过的果木香气，皮皮走一路、看一路，喜欢得不得了。",
+      "title": "栗子壳滑溜溜、沉甸甸的，带着太阳晒过的果",
+      "location": "返家森林小路",
+      "time_of_day": "day",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "栗子壳滑溜溜、沉甸甸的，带着太阳晒过的果木香气，皮皮走一路、看一路，喜欢得不得了。；只用原文出现角色和物件，动作和情绪自然。竖屏9:16温柔水彩绘本，细纸纹，画内无文字，主体偏上适配字幕。",
+      "action": "栗子壳滑溜溜、沉甸甸的，带着太阳晒过的果木香气，皮皮走一路、看一路，喜欢得不得了。",
+      "continuity_refs": [
+        "pipi",
+        "chestnut_pouch",
+        "bedroom",
+        "low_table",
+        "bedside_cabinet"
+      ],
+      "state_before": "承接同场景前镜状态。",
+      "state_after": "栗子壳滑溜溜、沉甸甸的，带着太阳晒过的果木香气，皮皮走一路、看一路，喜欢得不得了。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "image_status": "awaiting_generation",
+      "image_path": "images/shot_07.png"
+    },
+    {
+      "id": 8,
+      "paragraph_id": "p003",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u01",
+          "start_char": 0,
+          "end_char": 30
+        }
+      ],
+      "text": "回到小木屋，吃过晚饭，皮皮把白天捡来的栗子全都倒在了卧室的小",
+      "title": "回到小木屋，吃过晚饭，皮皮把白天捡来的栗",
+      "location": "小木屋卧室",
+      "time_of_day": "night",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "回到小木屋，吃过晚饭，皮皮把白天捡来的栗子全都倒在了卧室的小；只用原文出现角色和物件，动作和情绪自然。竖屏9:16温柔水彩绘本，细纸纹，画内无文字，主体偏上适配字幕。",
+      "action": "回到小木屋，吃过晚饭，皮皮把白天捡来的栗子全都倒在了卧室的小",
+      "continuity_refs": [
+        "pipi",
+        "chestnut_pouch",
+        "bedroom",
+        "low_table",
+        "bedside_cabinet"
+      ],
+      "state_before": "承接同场景前镜状态。",
+      "state_after": "回到小木屋，吃过晚饭，皮皮把白天捡来的栗子全都倒在了卧室的小",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "image_status": "awaiting_generation",
+      "image_path": "images/shot_08.png"
+    },
+    {
+      "id": 9,
+      "paragraph_id": "p003",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u02",
+          "start_char": 0,
+          "end_char": 21
+        },
+        {
+          "unit_id": "p003_u03",
+          "start_char": 0,
+          "end_char": 18
+        }
+      ],
+      "text": "矮桌上，想在睡觉前再一颗颗数一数、摸一摸。\n栗子太多太圆了，皮皮刚数到第五颗，",
+      "title": "矮桌上，想在睡觉前再一颗颗数一数、摸一摸",
+      "location": "小木屋卧室",
+      "time_of_day": "night",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "矮桌上，想在睡觉前再一颗颗数一数、摸一摸。\n栗子太多太圆了，皮皮刚数到第五颗，；只用原文出现角色和物件，动作和情绪自然。竖屏9:16温柔水彩绘本，细纸纹，画内无文字，主体偏上适配字幕。",
+      "action": "矮桌上，想在睡觉前再一颗颗数一数、摸一摸。\n栗子太多太圆了，皮皮刚数到第五颗，",
+      "continuity_refs": [
+        "pipi",
+        "chestnut_pouch",
+        "bedroom",
+        "low_table",
+        "bedside_cabinet"
+      ],
+      "state_before": "承接同场景前镜状态。",
+      "state_after": "矮桌上，想在睡觉前再一颗颗数一数、摸一摸。\n栗子太多太圆了，皮皮刚数到第五颗，",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "image_status": "awaiting_generation",
+      "image_path": "images/shot_09.png"
+    },
+    {
+      "id": 10,
+      "paragraph_id": "p003",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u04",
+          "start_char": 0,
+          "end_char": 21
+        },
+        {
+          "unit_id": "p003_u05",
+          "start_char": 0,
+          "end_char": 11
+        }
+      ],
+      "text": "最边上的一枚胖栗子就顺着桌面轻轻滑动起来，“骨碌碌”往桌沿滚去。",
+      "title": "最边上的一枚胖栗子就顺着桌面轻轻滑动起来",
+      "location": "小木屋卧室",
+      "time_of_day": "night",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "最边上的一枚胖栗子就顺着桌面轻轻滑动起来，“骨碌碌”往桌沿滚去。；只用原文出现角色和物件，动作和情绪自然。竖屏9:16温柔水彩绘本，细纸纹，画内无文字，主体偏上适配字幕。",
+      "action": "最边上的一枚胖栗子就顺着桌面轻轻滑动起来，“骨碌碌”往桌沿滚去。",
+      "continuity_refs": [
+        "pipi",
+        "chestnut_pouch",
+        "bedroom",
+        "low_table",
+        "bedside_cabinet"
+      ],
+      "state_before": "承接同场景前镜状态。",
+      "state_after": "最边上的一枚胖栗子就顺着桌面轻轻滑动起来，“骨碌碌”往桌沿滚去。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "image_status": "awaiting_generation",
+      "image_path": "images/shot_10.png"
+    },
+    {
+      "id": 11,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u01",
+          "start_char": 0,
+          "end_char": 23
+        }
+      ],
+      "text": "皮皮眼疾手快，伸出小爪子在桌边稳稳地接住了它。",
+      "title": "皮皮眼疾手快，伸出小爪子在桌边稳稳地接住",
+      "location": "小木屋卧室",
+      "time_of_day": "night",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "皮皮眼疾手快，伸出小爪子在桌边稳稳地接住了它。；只用原文出现角色和物件，动作和情绪自然。竖屏9:16温柔水彩绘本，细纸纹，画内无文字，主体偏上适配字幕。",
+      "action": "皮皮眼疾手快，伸出小爪子在桌边稳稳地接住了它。",
+      "continuity_refs": [
+        "pipi",
+        "chestnut_pouch",
+        "bedroom",
+        "low_table",
+        "bedside_cabinet"
+      ],
+      "state_before": "承接同场景前镜状态。",
+      "state_after": "皮皮眼疾手快，伸出小爪子在桌边稳稳地接住了它。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "image_status": "awaiting_generation",
+      "image_path": "images/shot_11.png"
+    },
+    {
+      "id": 12,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u02",
+          "start_char": 0,
+          "end_char": 30
+        }
+      ],
+      "text": "\n他看了看满桌滚动的栗子，又摸了摸自己因为捧了一路而有些发酸",
+      "title": "他看了看满桌滚动的栗子，又摸了摸自己因为",
+      "location": "小木屋卧室",
+      "time_of_day": "night",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "他看了看满桌滚动的栗子，又摸了摸自己因为捧了一路而有些发酸；只用原文出现角色和物件，动作和情绪自然。竖屏9:16温柔水彩绘本，细纸纹，画内无文字，主体偏上适配字幕。",
+      "action": "他看了看满桌滚动的栗子，又摸了摸自己因为捧了一路而有些发酸",
+      "continuity_refs": [
+        "pipi",
+        "chestnut_pouch",
+        "bedroom",
+        "low_table",
+        "bedside_cabinet"
+      ],
+      "state_before": "承接同场景前镜状态。",
+      "state_after": "他看了看满桌滚动的栗子，又摸了摸自己因为捧了一路而有些发酸",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "image_status": "awaiting_generation",
+      "image_path": "images/shot_12.png"
+    },
+    {
+      "id": 13,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u03",
+          "start_char": 0,
+          "end_char": 30
+        }
+      ],
+      "text": "的手腕，心想：再好看的宝贝，也不能一整晚都捧在爪心里睡觉呀。",
+      "title": "的手腕，心想：再好看的宝贝，也不能一整晚",
+      "location": "小木屋卧室",
+      "time_of_day": "night",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "的手腕，心想：再好看的宝贝，也不能一整晚都捧在爪心里睡觉呀。；只用原文出现角色和物件，动作和情绪自然。竖屏9:16温柔水彩绘本，细纸纹，画内无文字，主体偏上适配字幕。",
+      "action": "的手腕，心想：再好看的宝贝，也不能一整晚都捧在爪心里睡觉呀。",
+      "continuity_refs": [
+        "pipi",
+        "chestnut_pouch",
+        "bedroom",
+        "low_table",
+        "bedside_cabinet"
+      ],
+      "state_before": "承接同场景前镜状态。",
+      "state_after": "的手腕，心想：再好看的宝贝，也不能一整晚都捧在爪心里睡觉呀。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "image_status": "awaiting_generation",
+      "image_path": "images/shot_13.png"
+    },
+    {
+      "id": 14,
+      "paragraph_id": "p005",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u01",
+          "start_char": 0,
+          "end_char": 24
+        },
+        {
+          "unit_id": "p005_u02",
+          "start_char": 0,
+          "end_char": 17
+        }
+      ],
+      "text": "于是，皮皮从抽屉里找来了一只妈妈缝的粗棉小布袋。\n他用一只爪子把布袋口大大地撑开，",
+      "title": "于是，皮皮从抽屉里找来了一只妈妈缝的粗棉",
+      "location": "小木屋卧室",
+      "time_of_day": "night",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "于是，皮皮从抽屉里找来了一只妈妈缝的粗棉小布袋。\n他用一只爪子把布袋口大大地撑开，；只用原文出现角色和物件，动作和情绪自然。竖屏9:16温柔水彩绘本，细纸纹，画内无文字，主体偏上适配字幕。",
+      "action": "于是，皮皮从抽屉里找来了一只妈妈缝的粗棉小布袋。\n他用一只爪子把布袋口大大地撑开，",
+      "continuity_refs": [
+        "pipi",
+        "chestnut_pouch",
+        "bedroom",
+        "low_table",
+        "bedside_cabinet"
+      ],
+      "state_before": "承接同场景前镜状态。",
+      "state_after": "于是，皮皮从抽屉里找来了一只妈妈缝的粗棉小布袋。\n他用一只爪子把布袋口大大地撑开，",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "image_status": "awaiting_generation",
+      "image_path": "images/shot_14.png"
+    },
+    {
+      "id": 15,
+      "paragraph_id": "p005",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u03",
+          "start_char": 0,
+          "end_char": 20
+        },
+        {
+          "unit_id": "p005_u04",
+          "start_char": 0,
+          "end_char": 24
+        }
+      ],
+      "text": "另一只爪子把桌上的栗子一枚一枚地请进去。栗子落进柔软厚实的布袋底，发出“噗、噗”的轻响，",
+      "title": "另一只爪子把桌上的栗子一枚一枚地请进去。",
+      "location": "小木屋卧室",
+      "time_of_day": "night",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "另一只爪子把桌上的栗子一枚一枚地请进去。栗子落进柔软厚实的布袋底，发出“噗、噗”的轻响，；只用原文出现角色和物件，动作和情绪自然。竖屏9:16温柔水彩绘本，细纸纹，画内无文字，主体偏上适配字幕。",
+      "action": "另一只爪子把桌上的栗子一枚一枚地请进去。栗子落进柔软厚实的布袋底，发出“噗、噗”的轻响，",
+      "continuity_refs": [
+        "pipi",
+        "chestnut_pouch",
+        "bedroom",
+        "low_table",
+        "bedside_cabinet"
+      ],
+      "state_before": "承接同场景前镜状态。",
+      "state_after": "另一只爪子把桌上的栗子一枚一枚地请进去。栗子落进柔软厚实的布袋底，发出“噗、噗”的轻响，",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "image_status": "awaiting_generation",
+      "image_path": "images/shot_15.png"
+    },
+    {
+      "id": 16,
+      "paragraph_id": "p005",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u05",
+          "start_char": 0,
+          "end_char": 10
+        }
+      ],
+      "text": "再也不会到处乱滚了。",
+      "title": "再也不会到处乱滚了。",
+      "location": "小木屋卧室",
+      "time_of_day": "night",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "再也不会到处乱滚了。；只用原文出现角色和物件，动作和情绪自然。竖屏9:16温柔水彩绘本，细纸纹，画内无文字，主体偏上适配字幕。",
+      "action": "再也不会到处乱滚了。",
+      "continuity_refs": [
+        "pipi",
+        "chestnut_pouch",
+        "bedroom",
+        "low_table",
+        "bedside_cabinet"
+      ],
+      "state_before": "承接同场景前镜状态。",
+      "state_after": "再也不会到处乱滚了。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "image_status": "awaiting_generation",
+      "image_path": "images/shot_16.png"
+    },
+    {
+      "id": 17,
+      "paragraph_id": "p006",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u01",
+          "start_char": 0,
+          "end_char": 30
+        }
+      ],
+      "text": "当最后一枚胖栗子也放进去后，小布袋鼓起了一个圆滚滚的小肚子，",
+      "title": "当最后一枚胖栗子也放进去后，小布袋鼓起了",
+      "location": "小木屋卧室",
+      "time_of_day": "night",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "当最后一枚胖栗子也放进去后，小布袋鼓起了一个圆滚滚的小肚子，；只用原文出现角色和物件，动作和情绪自然。竖屏9:16温柔水彩绘本，细纸纹，画内无文字，主体偏上适配字幕。",
+      "action": "当最后一枚胖栗子也放进去后，小布袋鼓起了一个圆滚滚的小肚子，",
+      "continuity_refs": [
+        "pipi",
+        "chestnut_pouch",
+        "bedroom",
+        "low_table",
+        "bedside_cabinet"
+      ],
+      "state_before": "承接同场景前镜状态。",
+      "state_after": "当最后一枚胖栗子也放进去后，小布袋鼓起了一个圆滚滚的小肚子，",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "image_status": "awaiting_generation",
+      "image_path": "images/shot_17.png"
+    },
+    {
+      "id": 18,
+      "paragraph_id": "p006",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u02",
+          "start_char": 0,
+          "end_char": 24
+        }
+      ],
+      "text": "看起来就像一只吃饱了饭、正安静坐着打盹的小动物。",
+      "title": "看起来就像一只吃饱了饭、正安静坐着打盹的",
+      "location": "小木屋卧室",
+      "time_of_day": "night",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "看起来就像一只吃饱了饭、正安静坐着打盹的小动物。；只用原文出现角色和物件，动作和情绪自然。竖屏9:16温柔水彩绘本，细纸纹，画内无文字，主体偏上适配字幕。",
+      "action": "看起来就像一只吃饱了饭、正安静坐着打盹的小动物。",
+      "continuity_refs": [
+        "pipi",
+        "chestnut_pouch",
+        "bedroom",
+        "low_table",
+        "bedside_cabinet"
+      ],
+      "state_before": "承接同场景前镜状态。",
+      "state_after": "看起来就像一只吃饱了饭、正安静坐着打盹的小动物。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "image_status": "awaiting_generation",
+      "image_path": "images/shot_18.png"
+    },
+    {
+      "id": 19,
+      "paragraph_id": "p006",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u03",
+          "start_char": 0,
+          "end_char": 22
+        },
+        {
+          "unit_id": "p006_u04",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "text": "\n皮皮把袋口的抽绳轻轻收拢，打了个松松的结，然后把小布袋放进了床边的矮柜里。",
+      "title": "皮皮把袋口的抽绳轻轻收拢，打了个松松的结",
+      "location": "小木屋卧室",
+      "time_of_day": "night",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "皮皮把袋口的抽绳轻轻收拢，打了个松松的结，然后把小布袋放进了床边的矮柜里。；只用原文出现角色和物件，动作和情绪自然。竖屏9:16温柔水彩绘本，细纸纹，画内无文字，主体偏上适配字幕。",
+      "action": "皮皮把袋口的抽绳轻轻收拢，打了个松松的结，然后把小布袋放进了床边的矮柜里。",
+      "continuity_refs": [
+        "pipi",
+        "chestnut_pouch",
+        "bedroom",
+        "low_table",
+        "bedside_cabinet"
+      ],
+      "state_before": "承接同场景前镜状态。",
+      "state_after": "皮皮把袋口的抽绳轻轻收拢，打了个松松的结，然后把小布袋放进了床边的矮柜里。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "image_status": "awaiting_generation",
+      "image_path": "images/shot_19.png"
+    },
+    {
+      "id": 20,
+      "paragraph_id": "p006",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u05",
+          "start_char": 0,
+          "end_char": 22
+        }
+      ],
+      "text": "白天的满满收获，终于可以不用一直抓在手上了。",
+      "title": "白天的满满收获，终于可以不用一直抓在手上",
+      "location": "小木屋卧室",
+      "time_of_day": "night",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "白天的满满收获，终于可以不用一直抓在手上了。；只用原文出现角色和物件，动作和情绪自然。竖屏9:16温柔水彩绘本，细纸纹，画内无文字，主体偏上适配字幕。",
+      "action": "白天的满满收获，终于可以不用一直抓在手上了。",
+      "continuity_refs": [
+        "pipi",
+        "chestnut_pouch",
+        "bedroom",
+        "low_table",
+        "bedside_cabinet"
+      ],
+      "state_before": "承接同场景前镜状态。",
+      "state_after": "白天的满满收获，终于可以不用一直抓在手上了。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "image_status": "awaiting_generation",
+      "image_path": "images/shot_20.png"
+    },
+    {
+      "id": 21,
+      "paragraph_id": "p007",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u01",
+          "start_char": 0,
+          "end_char": 17
+        },
+        {
+          "unit_id": "p007_u02",
+          "start_char": 0,
+          "end_char": 25
+        }
+      ],
+      "text": "小矮桌的桌面重新空出了一大片位置。床头灯的暖光落下来，连桌面上那小块干干净净的空白，",
+      "title": "小矮桌的桌面重新空出了一大片位置。床头灯",
+      "location": "小木屋卧室",
+      "time_of_day": "night",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "小矮桌的桌面重新空出了一大片位置。床头灯的暖光落下来，连桌面上那小块干干净净的空白，；只用原文出现角色和物件，动作和情绪自然。竖屏9:16温柔水彩绘本，细纸纹，画内无文字，主体偏上适配字幕。",
+      "action": "小矮桌的桌面重新空出了一大片位置。床头灯的暖光落下来，连桌面上那小块干干净净的空白，",
+      "continuity_refs": [
+        "pipi",
+        "chestnut_pouch",
+        "bedroom",
+        "low_table",
+        "bedside_cabinet"
+      ],
+      "state_before": "承接同场景前镜状态。",
+      "state_after": "小矮桌的桌面重新空出了一大片位置。床头灯的暖光落下来，连桌面上那小块干干净净的空白，",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "image_status": "awaiting_generation",
+      "image_path": "images/shot_21.png"
+    },
+    {
+      "id": 22,
+      "paragraph_id": "p007",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u03",
+          "start_char": 0,
+          "end_char": 11
+        },
+        {
+          "unit_id": "p007_u04",
+          "start_char": 0,
+          "end_char": 22
+        }
+      ],
+      "text": "看起来都显得格外舒服。\n皮皮坐到床边，彻底松开忙碌了一天的小爪子，",
+      "title": "看起来都显得格外舒服。\n皮皮坐到床边，彻",
+      "location": "小木屋卧室",
+      "time_of_day": "night",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "看起来都显得格外舒服。\n皮皮坐到床边，彻底松开忙碌了一天的小爪子，；只用原文出现角色和物件，动作和情绪自然。竖屏9:16温柔水彩绘本，细纸纹，画内无文字，主体偏上适配字幕。",
+      "action": "看起来都显得格外舒服。\n皮皮坐到床边，彻底松开忙碌了一天的小爪子，",
+      "continuity_refs": [
+        "pipi",
+        "chestnut_pouch",
+        "bedroom",
+        "low_table",
+        "bedside_cabinet"
+      ],
+      "state_before": "承接同场景前镜状态。",
+      "state_after": "看起来都显得格外舒服。\n皮皮坐到床边，彻底松开忙碌了一天的小爪子，",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "image_status": "awaiting_generation",
+      "image_path": "images/shot_22.png"
+    },
+    {
+      "id": 23,
+      "paragraph_id": "p007",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u05",
+          "start_char": 0,
+          "end_char": 18
+        }
+      ],
+      "text": "再把软绵绵的胡萝卜玩偶轻轻抱进怀里。",
+      "title": "再把软绵绵的胡萝卜玩偶轻轻抱进怀里。",
+      "location": "小木屋卧室",
+      "time_of_day": "night",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "再把软绵绵的胡萝卜玩偶轻轻抱进怀里。；只用原文出现角色和物件，动作和情绪自然。竖屏9:16温柔水彩绘本，细纸纹，画内无文字，主体偏上适配字幕。",
+      "action": "再把软绵绵的胡萝卜玩偶轻轻抱进怀里。",
+      "continuity_refs": [
+        "pipi",
+        "chestnut_pouch",
+        "bedroom",
+        "low_table",
+        "bedside_cabinet"
+      ],
+      "state_before": "承接同场景前镜状态。",
+      "state_after": "再把软绵绵的胡萝卜玩偶轻轻抱进怀里。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "image_status": "awaiting_generation",
+      "image_path": "images/shot_23.png"
+    },
+    {
+      "id": 24,
+      "paragraph_id": "p008",
+      "source_ranges": [
+        {
+          "unit_id": "p008_u01",
+          "start_char": 0,
+          "end_char": 20
+        },
+        {
+          "unit_id": "p008_u02",
+          "start_char": 0,
+          "end_char": 17
+        }
+      ],
+      "text": "暖黄色的毛毯盖好后，皮皮慢慢闭上了眼睛。圆滚滚的栗子有了自己的棉布小袋子，",
+      "title": "暖黄色的毛毯盖好后，皮皮慢慢闭上了眼睛。",
+      "location": "小木屋卧室",
+      "time_of_day": "night",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "暖黄色的毛毯盖好后，皮皮慢慢闭上了眼睛。圆滚滚的栗子有了自己的棉布小袋子，；只用原文出现角色和物件，动作和情绪自然。竖屏9:16温柔水彩绘本，细纸纹，画内无文字，主体偏上适配字幕。",
+      "action": "暖黄色的毛毯盖好后，皮皮慢慢闭上了眼睛。圆滚滚的栗子有了自己的棉布小袋子，",
+      "continuity_refs": [
+        "pipi",
+        "chestnut_pouch",
+        "bedroom",
+        "low_table",
+        "bedside_cabinet"
+      ],
+      "state_before": "承接同场景前镜状态。",
+      "state_after": "暖黄色的毛毯盖好后，皮皮慢慢闭上了眼睛。圆滚滚的栗子有了自己的棉布小袋子，",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "image_status": "awaiting_generation",
+      "image_path": "images/shot_24.png"
+    },
+    {
+      "id": 25,
+      "paragraph_id": "p008",
+      "source_ranges": [
+        {
+          "unit_id": "p008_u03",
+          "start_char": 0,
+          "end_char": 15
+        },
+        {
+          "unit_id": "p008_u04",
+          "start_char": 0,
+          "end_char": 22
+        }
+      ],
+      "text": "而皮皮也有了自己温暖的小被窝。\n小朋友，今天你学到的新本领、得到的好东西，",
+      "title": "而皮皮也有了自己温暖的小被窝。\n小朋友，",
+      "location": "小木屋卧室",
+      "time_of_day": "night",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "而皮皮也有了自己温暖的小被窝。\n小朋友，今天你学到的新本领、得到的好东西，；只用原文出现角色和物件，动作和情绪自然。竖屏9:16温柔水彩绘本，细纸纹，画内无文字，主体偏上适配字幕。",
+      "action": "而皮皮也有了自己温暖的小被窝。\n小朋友，今天你学到的新本领、得到的好东西，",
+      "continuity_refs": [
+        "pipi",
+        "chestnut_pouch",
+        "bedroom",
+        "low_table",
+        "bedside_cabinet"
+      ],
+      "state_before": "承接同场景前镜状态。",
+      "state_after": "而皮皮也有了自己温暖的小被窝。\n小朋友，今天你学到的新本领、得到的好东西，",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "image_status": "awaiting_generation",
+      "image_path": "images/shot_25.png"
+    },
+    {
+      "id": 26,
+      "paragraph_id": "p008",
+      "source_ranges": [
+        {
+          "unit_id": "p008_u05",
+          "start_char": 0,
+          "end_char": 11
+        },
+        {
+          "unit_id": "p008_u06",
+          "start_char": 0,
+          "end_char": 22
+        },
+        {
+          "unit_id": "p008_u07",
+          "start_char": 0,
+          "end_char": 3
+        }
+      ],
+      "text": "都已经好好地收起来啦。现在，松开小手，让双手也舒舒服服地歇一歇吧。晚安。",
+      "title": "都已经好好地收起来啦。现在，松开小手，让",
+      "location": "小木屋卧室",
+      "time_of_day": "night",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "都已经好好地收起来啦。现在，松开小手，让双手也舒舒服服地歇一歇吧。晚安。；只用原文出现角色和物件，动作和情绪自然。竖屏9:16温柔水彩绘本，细纸纹，画内无文字，主体偏上适配字幕。",
+      "action": "都已经好好地收起来啦。现在，松开小手，让双手也舒舒服服地歇一歇吧。晚安。",
+      "continuity_refs": [
+        "pipi",
+        "chestnut_pouch",
+        "bedroom",
+        "low_table",
+        "bedside_cabinet"
+      ],
+      "state_before": "承接同场景前镜状态。",
+      "state_after": "都已经好好地收起来啦。现在，松开小手，让双手也舒舒服服地歇一歇吧。晚安。",
+      "estimated_start_s": null,
+      "estimated_end_s": null,
+      "image_status": "awaiting_generation",
+      "image_path": "images/shot_26.png"
+    }
+  ]
+}

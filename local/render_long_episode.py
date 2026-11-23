@@ -77,6 +77,7 @@ def prepare_assets(out, duration, title, title_lines=None):
         font = ImageFont.truetype(str(out / 'fonts/NotoSansCJKsc-Bold.otf'), 112)
         if title_lines:
             lines = title_lines
+            assert ''.join(lines) == title, 'cover_title_lines must match the complete cover title'
         elif len(title) <= 4:
             lines = [title]
         else:

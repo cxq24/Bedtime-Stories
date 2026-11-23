@@ -1,0 +1,87 @@
+{
+  "episode": "ep035",
+  "checked_on": "2026-11-23",
+  "full_duration_s": 261.04,
+  "frame_count": 6526,
+  "fps": 25,
+  "shots": 27,
+  "max_visible_shot_s": 14.68,
+  "crossfade_s": 0.96,
+  "narration_hanzi": 746,
+  "subtitle_hanzi": 746,
+  "subtitle_cues": 128,
+  "pinyin_coverage": 1.0,
+  "audio_pronunciation_listen_review": "not_certified",
+  "cover_size": [
+    1080,
+    1920
+  ],
+  "cover_mobile_review": "passed at 360x640; title legible, semantic line break “皮皮收好 / 栗子”",
+  "contact_sheet": "passed; all 27 shots reviewed, chestnut/pouch/cabinet and sleepwear continuity revisions applied",
+  "voice_peak": 0.566192626953125,
+  "mix_peak": 0.5749954581260681,
+  "files": {
+    "ep035.mp4": {
+      "path": "Outputs/2026-11-23/ep035-v001/ep035.mp4",
+      "bytes": 54500040,
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1080,
+            "height": 1920,
+            "r_frame_rate": "25/1"
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "48000",
+            "channels": 1,
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "261.040000",
+          "size": "54500040"
+        }
+      },
+      "full_decode": "passed (ffmpeg -v error -i <file> -f null -)"
+    },
+    "ep035_clean.mp4": {
+      "path": "Outputs/2026-11-23/ep035-v001/ep035_clean.mp4",
+      "bytes": 52009491,
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1080,
+            "height": 1920,
+            "r_frame_rate": "25/1"
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "48000",
+            "channels": 1,
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "261.040000",
+          "size": "52009491"
+        }
+      },
+      "full_decode": "passed (ffmpeg -v error -i <file> -f null -)"
+    }
+  },
+  "technical_result": "passed",
+  "human_full_watch": "not_certified",
+  "user_acceptance": "pending",
+  "published": false
+}

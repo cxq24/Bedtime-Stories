@@ -1,0 +1,41 @@
+{
+  "text": "看起来都显得格外舒服。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "7ca306e622e534c91e9b5582bdea45cb686e8c5f81e6bd44ac1a4e9f1cfd92d1",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 9615410,
+      "text": "看起来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11269160,
+      "duration": 1922910,
+      "text": "都"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13384580,
+      "duration": 4038330,
+      "text": "显得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17807500,
+      "duration": 5577080,
+      "text": "格外"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23577080,
+      "duration": 7884580,
+      "text": "舒服"
+    }
+  ]
+}

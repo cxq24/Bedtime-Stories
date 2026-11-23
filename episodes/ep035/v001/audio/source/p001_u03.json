@@ -1,0 +1,89 @@
+{
+  "text": "小刺猬栗栗和小熊绒绒用小木夹拨开刺球，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "03662610939c139f0b553bc6c6202017976c570200d449e7c0ed82516389e522",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4038330,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5307500,
+      "duration": 5000000,
+      "text": "刺猬"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10500000,
+      "duration": 7500000,
+      "text": "栗栗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19538330,
+      "duration": 2307500,
+      "text": "和"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22038330,
+      "duration": 3077080,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25115410,
+      "duration": 5769160,
+      "text": "熊绒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30884580,
+      "duration": 4807500,
+      "text": "绒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37230830,
+      "duration": 2500000,
+      "text": "用"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39922910,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43192500,
+      "duration": 2115000,
+      "text": "木"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45307500,
+      "duration": 6153750,
+      "text": "夹拨"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51653750,
+      "duration": 5769160,
+      "text": "开刺"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57422910,
+      "duration": 5769160,
+      "text": "球"
+    }
+  ]
+}

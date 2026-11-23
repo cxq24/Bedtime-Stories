@@ -1,0 +1,31 @@
+{
+  "episode": "ep035",
+  "version": "v001",
+  "assets": {
+    "chestnut_grove": {"id":"LOC_GROVE_01","fixed":"sunlit autumn chestnut grove on back hill, broad chestnut tree, fallen opened spiny burrs, leaf covered ground"},
+    "pipi_day": {"id":"CHAR_PIPI_DAY_01","fixed":"warm gray rabbit, round face, pink nose, drooping long ears, cream shirt, slate blue short overalls, blue shoes, small yellow backpack; no hat"},
+    "lili": {"id":"CHAR_LILI_01","fixed":"small friendly hedgehog matching official Lili identity reference; no change of quill color or face"},
+    "rongrong": {"id":"CHAR_RONGRONG_01","fixed":"small light brown bear matching official identity reference, round ears, cream muzzle"},
+    "chestnuts": {"id":"PROP_CHESTNUT_01","fixed":"glossy plump reddish brown chestnuts, smooth shells, similar size across scenes"},
+    "wooden_tongs": {"id":"PROP_TONGS_01","fixed":"small plain wooden tongs used to open spiny burrs"},
+    "basket": {"id":"PROP_BASKET_01","fixed":"small woven collecting basket"},
+    "pouch": {"id":"PROP_POUCH_01","fixed":"mother-sewn natural oatmeal coarse cotton drawstring pouch, soft, visible loose cord, no print or patch"},
+    "bedroom": {"id":"LOC_BEDROOM_01","fixed":"cozy timber bedroom, low bedside table, low bed, small bedside cabinet, warm bedside lamp"},
+    "pipi_sleepwear": {"id":"CHAR_PIPI_SLEEP_01","fixed":"same Pipì identity in soft pale blue sleepwear, no backpack, no hat"},
+    "carrot_plush": {"id":"PROP_CARROT_01","fixed":"same soft orange carrot-shaped plush with small green top"},
+    "blanket": {"id":"PROP_BLANKET_01","fixed":"warm yellow blanket"}
+  },
+  "state_transitions": [
+    {"shots":"00-01","state":"separate opening illustration: Pipì welcomes; the story question introduces chestnuts, no collected fruit yet"},
+    {"shots":"02-04","state":"day outing; Lili and Rongrong use wooden tongs at grove; Pipì collects only loose chestnuts in basket"},
+    {"shots":"05-07","state":"after division, Pipì holds two handfuls of chestnuts against chest on walk home; no abrupt count change"},
+    {"shots":"08-10","state":"after dinner in bedroom, chestnuts on low table; one rolls toward edge; same table and chestnut appearance"},
+    {"shots":"11-13","state":"Pipì catches that single rolling chestnut; remaining chestnuts stay on table; wrist feels tired"},
+    {"shots":"14-16","state":"same oatmeal cotton pouch is opened; chestnuts enter one by one; after transfer none roll across table"},
+    {"shots":"17-20","state":"pouch now plump, cord tied loosely, placed in low bedside cabinet; its final location remains cabinet"},
+    {"shots":"21-23","state":"table is clear; warm lamp; Pipì releases paws and holds same carrot plush beside bed"},
+    {"shots":"24-26","state":"Pipì rests under same yellow blanket in bed; pouch stays put away; quiet nighttime ending"}
+  ],
+  "passes": ["textual continuity pass 1: scene and prop states assigned", "textual continuity pass 2: transitions reviewed against source narrative"],
+  "image_review": "pending generated images and contact sheet"
+}

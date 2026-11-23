@@ -1,0 +1,587 @@
+{
+  "hanzi": 746,
+  "cues": 128,
+  "pinyin_coverage": 1.0,
+  "context_review": "completed_against_episode_text",
+  "target_font_px": {
+    "hanzi": 76,
+    "pinyin": 48
+  },
+  "libass_fontsize_calibration": {
+    "hanzi": 114,
+    "pinyin": 66,
+    "reason": "match actual rasterized glyph scale to bundled-font 76px/48px reference; libass normalizes font metrics"
+  },
+  "audio_pronunciation_listen_review": "not_certified",
+  "overrides": [
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "小朋友们，准备好听故事了吗？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "栗子",
+      "pinyin": [
+        "lì",
+        "zi"
+      ],
+      "context": "今天的故事叫《栗子的小布袋》。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "秋游捡来的板栗，皮皮会怎样把它们轻轻收好呢？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "板栗",
+      "pinyin": [
+        "bǎn",
+        "lì"
+      ],
+      "context": "秋游捡来的板栗，皮皮会怎样把它们轻轻收好呢？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "板栗林",
+      "pinyin": [
+        "bǎn",
+        "lì",
+        "lín"
+      ],
+      "context": "今天森林学堂组织大家去后山的板栗林里秋游。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "板栗",
+      "pinyin": [
+        "bǎn",
+        "lì"
+      ],
+      "context": "今天森林学堂组织大家去后山的板栗林里秋游。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "板栗",
+      "pinyin": [
+        "bǎn",
+        "lì"
+      ],
+      "context": "\n板栗树下掉满了裂开嘴的刺球壳，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "刺球壳",
+      "pinyin": [
+        "cì",
+        "qiú",
+        "ké"
+      ],
+      "context": "\n板栗树下掉满了裂开嘴的刺球壳，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒绒",
+      "pinyin": [
+        "róng",
+        "róng"
+      ],
+      "context": "小刺猬栗栗和小熊绒绒用小木夹拨开刺球，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "栗栗",
+      "pinyin": [
+        "lì",
+        "lì"
+      ],
+      "context": "小刺猬栗栗和小熊绒绒用小木夹拨开刺球，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "刺猬",
+      "pinyin": [
+        "cì",
+        "wei"
+      ],
+      "context": "小刺猬栗栗和小熊绒绒用小木夹拨开刺球，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮则负责把里面滚出来的油亮亮的褐红色板栗，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "板栗",
+      "pinyin": [
+        "bǎn",
+        "lì"
+      ],
+      "context": "皮皮则负责把里面滚出来的油亮亮的褐红色板栗，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "分果子的时候，皮皮分到了满满两捧圆滚滚的大栗子。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "栗子",
+      "pinyin": [
+        "lì",
+        "zi"
+      ],
+      "context": "分果子的时候，皮皮分到了满满两捧圆滚滚的大栗子。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "\n一路上，皮皮都舍不得把栗子放进书包里，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "栗子",
+      "pinyin": [
+        "lì",
+        "zi"
+      ],
+      "context": "\n一路上，皮皮都舍不得把栗子放进书包里，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "爪子",
+      "pinyin": [
+        "zhuǎ",
+        "zi"
+      ],
+      "context": "而是用两只小爪子捧在胸前。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "栗子壳滑溜溜、沉甸甸的，带着太阳晒过的果木香气，皮皮走一路、",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "栗子",
+      "pinyin": [
+        "lì",
+        "zi"
+      ],
+      "context": "栗子壳滑溜溜、沉甸甸的，带着太阳晒过的果木香气，皮皮走一路、",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "沉甸甸",
+      "pinyin": [
+        "chén",
+        "diàn",
+        "diàn"
+      ],
+      "context": "栗子壳滑溜溜、沉甸甸的，带着太阳晒过的果木香气，皮皮走一路、",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "果木香气",
+      "pinyin": [
+        "guǒ",
+        "mù",
+        "xiāng",
+        "qì"
+      ],
+      "context": "栗子壳滑溜溜、沉甸甸的，带着太阳晒过的果木香气，皮皮走一路、",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "回到小木屋，吃过晚饭，皮皮把白天捡来的栗子全都倒在了卧室的小",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "栗子",
+      "pinyin": [
+        "lì",
+        "zi"
+      ],
+      "context": "回到小木屋，吃过晚饭，皮皮把白天捡来的栗子全都倒在了卧室的小",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "数一数",
+      "pinyin": [
+        "shǔ",
+        "yi",
+        "shǔ"
+      ],
+      "context": "矮桌上，想在睡觉前再一颗颗数一数、摸一摸。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "摸一摸",
+      "pinyin": [
+        "mō",
+        "yi",
+        "mō"
+      ],
+      "context": "矮桌上，想在睡觉前再一颗颗数一数、摸一摸。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "一颗颗",
+      "pinyin": [
+        "yì",
+        "kē",
+        "kē"
+      ],
+      "context": "矮桌上，想在睡觉前再一颗颗数一数、摸一摸。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "\n栗子太多太圆了，皮皮刚数到第五颗，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "栗子",
+      "pinyin": [
+        "lì",
+        "zi"
+      ],
+      "context": "\n栗子太多太圆了，皮皮刚数到第五颗，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "栗子",
+      "pinyin": [
+        "lì",
+        "zi"
+      ],
+      "context": "最边上的一枚胖栗子就顺着桌面轻轻滑动起来，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "一枚",
+      "pinyin": [
+        "yì",
+        "méi"
+      ],
+      "context": "最边上的一枚胖栗子就顺着桌面轻轻滑动起来，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "爪子",
+      "pinyin": [
+        "zhuǎ",
+        "zi"
+      ],
+      "context": "皮皮眼疾手快，伸出小爪子在桌边稳稳地接住了它。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮眼疾手快，伸出小爪子在桌边稳稳地接住了它。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "栗子",
+      "pinyin": [
+        "lì",
+        "zi"
+      ],
+      "context": "\n他看了看满桌滚动的栗子，又摸了摸自己因为捧了一路而有些发酸",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "手腕",
+      "pinyin": [
+        "shǒu",
+        "wàn"
+      ],
+      "context": "的手腕，心想：再好看的宝贝，也不能一整晚都捧在爪心里睡觉呀。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "于是，皮皮从抽屉里找来了一只妈妈缝的粗棉小布袋。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "粗棉",
+      "pinyin": [
+        "cū",
+        "mián"
+      ],
+      "context": "于是，皮皮从抽屉里找来了一只妈妈缝的粗棉小布袋。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "爪子",
+      "pinyin": [
+        "zhuǎ",
+        "zi"
+      ],
+      "context": "\n他用一只爪子把布袋口大大地撑开，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "爪子",
+      "pinyin": [
+        "zhuǎ",
+        "zi"
+      ],
+      "context": "另一只爪子把桌上的栗子一枚一枚地请进去。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "栗子",
+      "pinyin": [
+        "lì",
+        "zi"
+      ],
+      "context": "另一只爪子把桌上的栗子一枚一枚地请进去。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "一枚",
+      "pinyin": [
+        "yì",
+        "méi"
+      ],
+      "context": "另一只爪子把桌上的栗子一枚一枚地请进去。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "一枚",
+      "pinyin": [
+        "yì",
+        "méi"
+      ],
+      "context": "另一只爪子把桌上的栗子一枚一枚地请进去。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "栗子",
+      "pinyin": [
+        "lì",
+        "zi"
+      ],
+      "context": "栗子落进柔软厚实的布袋底，发出“噗、噗”的轻响，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "当最后一枚胖栗子也放进去后，小布袋鼓起了一个圆滚滚的小肚子，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "栗子",
+      "pinyin": [
+        "lì",
+        "zi"
+      ],
+      "context": "当最后一枚胖栗子也放进去后，小布袋鼓起了一个圆滚滚的小肚子，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "一枚",
+      "pinyin": [
+        "yì",
+        "méi"
+      ],
+      "context": "当最后一枚胖栗子也放进去后，小布袋鼓起了一个圆滚滚的小肚子，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "\n皮皮把袋口的抽绳轻轻收拢，打了个松松的结，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "\n皮皮把袋口的抽绳轻轻收拢，打了个松松的结，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "抽绳",
+      "pinyin": [
+        "chōu",
+        "shéng"
+      ],
+      "context": "\n皮皮把袋口的抽绳轻轻收拢，打了个松松的结，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "不用",
+      "pinyin": [
+        "bú",
+        "yòng"
+      ],
+      "context": "白天的满满收获，终于可以不用一直抓在手上了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "落下来",
+      "pinyin": [
+        "luò",
+        "xià",
+        "lái"
+      ],
+      "context": "床头灯的暖光落下来，连桌面上那小块干干净净的空白，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "舒服",
+      "pinyin": [
+        "shū",
+        "fu"
+      ],
+      "context": "看起来都显得格外舒服。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "爪子",
+      "pinyin": [
+        "zhuǎ",
+        "zi"
+      ],
+      "context": "\n皮皮坐到床边，彻底松开忙碌了一天的小爪子，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "\n皮皮坐到床边，彻底松开忙碌了一天的小爪子，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "胡萝卜",
+      "pinyin": [
+        "hú",
+        "luó",
+        "bo"
+      ],
+      "context": "再把软绵绵的胡萝卜玩偶轻轻抱进怀里。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "暖黄色的毛毯盖好后，皮皮慢慢闭上了眼睛。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "栗子",
+      "pinyin": [
+        "lì",
+        "zi"
+      ],
+      "context": "圆滚滚的栗子有了自己的棉布小袋子，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "而皮皮也有了自己温暖的小被窝。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "\n小朋友，今天你学到的新本领、得到的好东西，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "舒服",
+      "pinyin": [
+        "shū",
+        "fu"
+      ],
+      "context": "现在，松开小手，让双手也舒舒服服地歇一歇吧。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "舒舒服服",
+      "pinyin": [
+        "shū",
+        "shū",
+        "fu",
+        "fu"
+      ],
+      "context": "现在，松开小手，让双手也舒舒服服地歇一歇吧。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "歇一歇",
+      "pinyin": [
+        "xiē",
+        "yi",
+        "xiē"
+      ],
+      "context": "现在，松开小手，让双手也舒舒服服地歇一歇吧。",
+      "review": "context_checked_not_audio_listen_certification"
+    }
+  ]
+}
