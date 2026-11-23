@@ -27,5 +27,8 @@
   "user_acceptance": "pending",
   "published": false,
   "delivery_directory": "Outputs/2026-11-23/ep035-v001",
-  "github_sync": "pending_user_requested_sync"
+  "github_sync": "synced_to_main",
+  "github_sync_commit": "61e201e",
+  "github_sync_date": "2026-11-23",
+  "github_sync_scope": "complete_ep035_v001_project_and_delivery_including_main_and_clean_videos"
 }
