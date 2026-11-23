@@ -1,0 +1,23 @@
+{
+  "episode": "ep036",
+  "version": "v001",
+  "title": "落叶小路停一停",
+  "script_version": "v5",
+  "stage": "technical_checks_passed_human_watch_pending",
+  "script_snapshot": "script.snapshot.json",
+  "source_script_check": "source-script-check.json",
+  "narration_units": 33,
+  "spoken_hanzi": 702,
+  "voice": "full_voice_rendered_265.44s_including_8s_tail; sample_and_source_audio_saved",
+  "storyboard": "33_shots_locked_to_voice",
+  "continuity": "text_logic_passed; contact_sheet_review_passed_33_shots",
+  "images": "33_unique_story_images_generated_with_manifests_and_sources",
+  "subtitles": "123_short_cues; 702_hanzi_coverage_100%; final_full_audio_review_pending",
+  "render": "publish_and_clean_1080x1920_25fps_rendered_265.44s",
+  "technical_check": "passed; full decode of both videos; 6636 frames each; duration 265.44s; 1080x1920 at 25fps; 100% narration, word-boundary and subtitle coverage",
+  "human_watch": "not_certified",
+  "user_acceptance": "pending",
+  "publication": "not_published",
+  "github_sync": "authorized_pending_commit_and_push",
+  "next_action": "按用户授权同步完整工程、交付、两版视频和状态文档至GitHub main。"
+}

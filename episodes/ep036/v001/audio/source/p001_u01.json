@@ -1,0 +1,101 @@
+{
+  "text": "傍晚的时候，皮皮在小松鼠团团家的树屋下玩了一会儿捉迷藏，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "e77fdaa9af28b174d13275d900f47a78df2d3ee581b0566d0da288c08e0acb2c",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5961660,
+      "text": "傍晚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7230830,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8769160,
+      "duration": 7500000,
+      "text": "时候"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20500000,
+      "duration": 5384580,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26077080,
+      "duration": 2500000,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28769160,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32038330,
+      "duration": 8846250,
+      "text": "松鼠团"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41077080,
+      "duration": 5769160,
+      "text": "团家"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46846250,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48384580,
+      "duration": 5192500,
+      "text": "树屋"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53577080,
+      "duration": 5192500,
+      "text": "下"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60307500,
+      "duration": 2692500,
+      "text": "玩"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63000000,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64346250,
+      "duration": 4422910,
+      "text": "一会儿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 69153750,
+      "duration": 11153750,
+      "text": "捉迷藏"
+    }
+  ]
+}

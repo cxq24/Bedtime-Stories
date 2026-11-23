@@ -1,0 +1,143 @@
+{
+  "text": "夜深了，窗外偶尔有一片落叶被风吹得翻了个身，发出一丁点儿极远极轻的“沙”声。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "2f900e9c2f69595d8e0390bffd6429f89b8606b7c1d994a476f9a5ccc8a704be",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 7115410,
+      "text": "夜深"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8384580,
+      "duration": 2884580,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16846250,
+      "duration": 6153750,
+      "text": "窗外"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23384580,
+      "duration": 5961660,
+      "text": "偶尔"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29538330,
+      "duration": 2692500,
+      "text": "有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32422910,
+      "duration": 12692500,
+      "text": "一片落叶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46653750,
+      "duration": 2884580,
+      "text": "被"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 49538330,
+      "duration": 2884580,
+      "text": "风"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52615410,
+      "duration": 2692080,
+      "text": "吹"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55307500,
+      "duration": 1538330,
+      "text": "得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57230830,
+      "duration": 2500000,
+      "text": "翻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59730830,
+      "duration": 1538330,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61269160,
+      "duration": 1346250,
+      "text": "个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 62807500,
+      "duration": 4807500,
+      "text": "身"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 72422910,
+      "duration": 5192500,
+      "text": "发出"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78000000,
+      "duration": 7500000,
+      "text": "一丁点儿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 85884580,
+      "duration": 2307500,
+      "text": "极"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 88192500,
+      "duration": 3077080,
+      "text": "远"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 91461660,
+      "duration": 5769160,
+      "text": "极轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 97230830,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 98961660,
+      "duration": 3461250,
+      "text": "沙"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 102422910,
+      "duration": 4807500,
+      "text": "声"
+    }
+  ]
+}

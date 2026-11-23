@@ -1,0 +1,921 @@
+{
+  "episode": "ep036",
+  "version": "v001",
+  "status": "text_logic_review_passed_images_pending",
+  "text_logic_review": "passed_before_image_generation",
+  "image_review": "passed_assistant_contact_sheet_review_33_shots",
+  "cover_title": "皮皮送叶回家",
+  "assets": [
+    {
+      "asset_id": "pipi_day",
+      "appearance": "暖灰圆脸小兔，粉色小鼻、自然垂耳；米色上衣、灰蓝短背带裤、蓝布鞋、小黄书包。",
+      "reference": "references/pipi_identity_v001.png + references/pipi_wardrobe_v001.png",
+      "continuity": "树屋游戏至入屋前保持白天服饰；书包在离开树屋后背着，入屋放入口。"
+    },
+    {
+      "asset_id": "pipi_sleep",
+      "appearance": "同一小兔，柔软睡衣，深蓝淡黄星星睡帽和黄帽球。",
+      "reference": "references/pipi_identity_v001.png + references/pipi_wardrobe_v001.png",
+      "continuity": "洗漱后仅在卧室出现，脚穿拖鞋前先坐床边，随后在床上休息。"
+    },
+    {
+      "asset_id": "tuantuan",
+      "appearance": "暖棕圆脸小松鼠，奶油色胸口，蓬松弯尾，短暗赭围巾。",
+      "reference": "references/tuantuan_identity_v001.png",
+      "continuity": "只在树屋捉迷藏和皮皮离开前出现；皮皮离开后团团留在树屋。"
+    },
+    {
+      "asset_id": "treehouse",
+      "appearance": "森林树屋，木墙、圆窗和树干平台。",
+      "reference": "由镜头03建立。",
+      "continuity": "团团的家；位于回家小路起点，不与皮皮木屋混用。"
+    },
+    {
+      "asset_id": "leaf_path",
+      "appearance": "森林间小路铺有厚实金黄秋叶。",
+      "reference": "由镜头05建立。",
+      "continuity": "连接团团树屋与皮皮家；到达后叶路在深蓝树影中保持原位、安静。"
+    },
+    {
+      "asset_id": "pipi_shoes",
+      "appearance": "一双蓝布鞋，左右成对。",
+      "reference": "references/pipi_wardrobe_v001.png",
+      "continuity": "室外走路时穿着；门内脱下并放入口地垫边，不带上床。"
+    },
+    {
+      "asset_id": "stowaway_leaf",
+      "appearance": "唯一一片小小椭圆形金黄色叶子。",
+      "reference": "镜头17建立。",
+      "continuity": "起初粘在皮皮蓝布鞋帮侧边，门口被取下，随后放在门外花盆旁泥土上；绝不进入屋内。"
+    },
+    {
+      "asset_id": "flowerpot",
+      "appearance": "门外靠墙的一只小花盆，旁边有露出的泥土。",
+      "reference": "镜头20建立。",
+      "continuity": "固定在皮皮小木屋门外；同一片叶子放在盆边土面。"
+    },
+    {
+      "asset_id": "cottage_entry",
+      "appearance": "木屋小木门、木门框、木台阶、门内羊毛地垫与门外落叶路。",
+      "reference": "镜头11建立。",
+      "continuity": "门槛分隔外部叶路和内部地垫；路径从门廊向森林延伸。"
+    },
+    {
+      "asset_id": "wool_rug",
+      "appearance": "屋内柔软的羊毛地毯/厚地垫。",
+      "reference": "镜头22建立。",
+      "continuity": "在门槛内；仅在室内赤脚踩踏。"
+    },
+    {
+      "asset_id": "bedroom",
+      "appearance": "同一卧室：小木床、床头柜、木窗、暖黄色毛毯。",
+      "reference": "由镜头25建立。",
+      "continuity": "睡前场景布局不变；窗外是深蓝夜色。"
+    },
+    {
+      "asset_id": "slippers",
+      "appearance": "两只成对的毛绒小拖鞋。",
+      "reference": "镜头25建立。",
+      "continuity": "并排放在床边；皮皮上床后不再穿着。"
+    },
+    {
+      "asset_id": "carrot_plush",
+      "appearance": "一个柔软橙色胡萝卜玩偶，深绿叶冠。",
+      "reference": "剧情道具参考；不作为第二个角色。",
+      "continuity": "卧室睡前出现且只出现一个；最后由皮皮抱住。"
+    }
+  ],
+  "shot_states": [
+    {
+      "shot_id": 0,
+      "location": "秋日傍晚的林间小路，几片金叶静静停在路边，温暖的故事即将开始。",
+      "characters": [],
+      "outfits": {},
+      "state_before": "开场，尚未发生本镜动作。",
+      "action": "没有角色，轻柔的秋夜氛围。",
+      "state_after": "故事从秋日林间与金叶开始。",
+      "transition_from": null,
+      "continuity_assets": [
+        "treehouse",
+        "leaf_path",
+        "flowerpot",
+        "cottage_entry",
+        "wool_rug",
+        "bedroom",
+        "slippers",
+        "carrot_plush"
+      ]
+    },
+    {
+      "shot_id": 1,
+      "location": "深紫色天边和一条铺满金叶的森林小路，远处小屋窗灯柔和。",
+      "characters": [],
+      "outfits": {},
+      "state_before": "故事从秋日林间与金叶开始。",
+      "action": "以落叶小路提出故事主题，无角色。",
+      "state_after": "落叶小路连接森林树屋和暖窗木屋。",
+      "transition_from": 0,
+      "continuity_assets": [
+        "treehouse",
+        "leaf_path",
+        "flowerpot",
+        "cottage_entry",
+        "wool_rug",
+        "bedroom",
+        "slippers",
+        "carrot_plush"
+      ]
+    },
+    {
+      "shot_id": 2,
+      "location": "小小椭圆黄叶停在金色小路上，周围深蓝树影安静，留白温柔。",
+      "characters": [],
+      "outfits": {},
+      "state_before": "落叶小路连接森林树屋和暖窗木屋。",
+      "action": "独立诗意片头，无皮皮，无字。",
+      "state_after": "小叶子停在安静金色小路上。",
+      "transition_from": 1,
+      "continuity_assets": [
+        "treehouse",
+        "leaf_path",
+        "flowerpot",
+        "cottage_entry",
+        "wool_rug",
+        "bedroom",
+        "slippers",
+        "carrot_plush"
+      ]
+    },
+    {
+      "shot_id": 3,
+      "location": "下午树屋下，皮皮和团团玩捉迷藏，木制树屋有圆窗，阳光柔和。",
+      "characters": [
+        "pipi",
+        "tuantuan"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "state_before": "小叶子停在安静金色小路上。",
+      "action": "皮皮探头寻找，团团在树屋旁轻快躲藏。",
+      "state_after": "下午皮皮和团团在团团树屋下玩捉迷藏。",
+      "transition_from": 2,
+      "continuity_assets": [
+        "pipi_day",
+        "pipi_sleep",
+        "tuantuan",
+        "treehouse",
+        "leaf_path",
+        "flowerpot",
+        "cottage_entry",
+        "wool_rug",
+        "bedroom",
+        "slippers",
+        "carrot_plush"
+      ]
+    },
+    {
+      "shot_id": 4,
+      "location": "树屋旁的云彩刚变成深紫色，皮皮背起小黄书包准备回家，团团留在树屋边道别。",
+      "characters": [
+        "pipi",
+        "tuantuan"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "state_before": "下午皮皮和团团在团团树屋下玩捉迷藏。",
+      "action": "皮皮转向熟悉的小路，神情满足、自然；团团只在此镜出现。",
+      "state_after": "天色深紫，皮皮背上小黄书包离开树屋回家，团团留在树屋边。",
+      "transition_from": 3,
+      "continuity_assets": [
+        "pipi_day",
+        "pipi_sleep",
+        "tuantuan",
+        "treehouse",
+        "leaf_path",
+        "flowerpot",
+        "cottage_entry",
+        "wool_rug",
+        "bedroom",
+        "slippers",
+        "carrot_plush"
+      ]
+    },
+    {
+      "shot_id": 5,
+      "location": "从团团树屋通往皮皮家的小路，厚厚金黄秋叶铺满路面，皮皮在路上。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "state_before": "天色深紫，皮皮背上小黄书包离开树屋回家，团团留在树屋边。",
+      "action": "小黄书包和灰蓝短背带裤保持白天造型。",
+      "state_after": "皮皮进入从团团树屋通往自己家的落叶小路。",
+      "transition_from": 4,
+      "continuity_assets": [
+        "pipi_day",
+        "pipi_sleep",
+        "treehouse",
+        "leaf_path",
+        "flowerpot",
+        "cottage_entry",
+        "wool_rug",
+        "bedroom",
+        "slippers",
+        "carrot_plush"
+      ]
+    },
+    {
+      "shot_id": 6,
+      "location": "竖深构图展示长长金色落叶小路，像柔软地毯通向远处暖窗。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "state_before": "皮皮进入从团团树屋通往自己家的落叶小路。",
+      "action": "同一路径连续，落叶厚而自然。",
+      "state_after": "长路厚厚铺满金黄树叶。",
+      "transition_from": 5,
+      "continuity_assets": [
+        "pipi_day",
+        "pipi_sleep",
+        "treehouse",
+        "leaf_path",
+        "flowerpot",
+        "cottage_entry",
+        "wool_rug",
+        "bedroom",
+        "slippers",
+        "carrot_plush"
+      ]
+    },
+    {
+      "shot_id": 7,
+      "location": "皮皮迈着左右交替的小步走在叶路上，蓝布鞋踩过叶片，叶子轻轻压弯。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "state_before": "长路厚厚铺满金黄树叶。",
+      "action": "鞋和叶路清楚，步伐轻快。",
+      "state_after": "皮皮沿路迈出左右交替的轻快步伐。",
+      "transition_from": 6,
+      "continuity_assets": [
+        "pipi_day",
+        "pipi_sleep",
+        "treehouse",
+        "leaf_path",
+        "flowerpot",
+        "cottage_entry",
+        "wool_rug",
+        "bedroom",
+        "slippers",
+        "carrot_plush"
+      ]
+    },
+    {
+      "shot_id": 8,
+      "location": "近景显示蓝布鞋踏过脆叶，几片叶子轻轻翻动，表现清脆踩踏感。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "state_before": "皮皮沿路迈出左右交替的轻快步伐。",
+      "action": "不出现拟声字、数字或夸张飞叶。",
+      "state_after": "蓝布鞋踏过脆叶，叶片微微起伏。",
+      "transition_from": 7,
+      "continuity_assets": [
+        "pipi_day",
+        "pipi_sleep",
+        "treehouse",
+        "leaf_path",
+        "flowerpot",
+        "cottage_entry",
+        "wool_rug",
+        "bedroom",
+        "slippers",
+        "carrot_plush"
+      ]
+    },
+    {
+      "shot_id": 9,
+      "location": "皮皮一边走一边伸爪数步子，像在心里数“沙沙、一；沙沙”，表情专注又开心。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "state_before": "蓝布鞋踏过脆叶，叶片微微起伏。",
+      "action": "不显示文字或数字，轻快节奏自然。",
+      "state_after": "皮皮边走边数步子，落叶声配合轻快脚步。",
+      "transition_from": 8,
+      "continuity_assets": [
+        "pipi_day",
+        "pipi_sleep",
+        "treehouse",
+        "leaf_path",
+        "flowerpot",
+        "cottage_entry",
+        "wool_rug",
+        "bedroom",
+        "slippers",
+        "carrot_plush"
+      ]
+    },
+    {
+      "shot_id": 10,
+      "location": "皮皮继续数着步子，轻盈前行，脚下金叶形成安静的节拍。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "state_before": "皮皮边走边数步子，落叶声配合轻快脚步。",
+      "action": "同一小路、同一日装与书包，动作不夸张。",
+      "state_after": "数步节奏继续，皮皮没有停下。",
+      "transition_from": 9,
+      "continuity_assets": [
+        "pipi_day",
+        "pipi_sleep",
+        "treehouse",
+        "leaf_path",
+        "flowerpot",
+        "cottage_entry",
+        "wool_rug",
+        "bedroom",
+        "slippers",
+        "carrot_plush"
+      ]
+    },
+    {
+      "shot_id": 11,
+      "location": "不知不觉，熟悉的木屋亮着暖窗出现在小路尽头，皮皮向家走去。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "state_before": "数步节奏继续，皮皮没有停下。",
+      "action": "木屋位于落叶路尽头，方向固定。",
+      "state_after": "木屋暖窗出现在落叶小路尽头。",
+      "transition_from": 10,
+      "continuity_assets": [
+        "pipi_day",
+        "pipi_sleep",
+        "treehouse",
+        "leaf_path",
+        "flowerpot",
+        "cottage_entry",
+        "wool_rug",
+        "bedroom",
+        "slippers",
+        "carrot_plush"
+      ]
+    },
+    {
+      "shot_id": 12,
+      "location": "皮皮踏上木门廊台阶，停在小木门前；身后是通向树屋的落叶小路。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "state_before": "木屋暖窗出现在落叶小路尽头。",
+      "action": "表现刚停下的一刻，门、台阶与路径相连。",
+      "state_after": "皮皮登上木台阶并在门前停下，身后叶声随之停住。",
+      "transition_from": 11,
+      "continuity_assets": [
+        "pipi_day",
+        "pipi_sleep",
+        "treehouse",
+        "leaf_path",
+        "flowerpot",
+        "cottage_entry",
+        "wool_rug",
+        "bedroom",
+        "slippers",
+        "carrot_plush"
+      ]
+    },
+    {
+      "shot_id": 13,
+      "location": "皮皮静静站在木门前，身后落叶不再翻动，脚步声仿佛也跟着停住。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "state_before": "皮皮登上木台阶并在门前停下，身后叶声随之停住。",
+      "action": "环境由动转静，没有文字或可见声波。",
+      "state_after": "落叶路和皮皮都安静下来。",
+      "transition_from": 12,
+      "continuity_assets": [
+        "pipi_day",
+        "pipi_sleep",
+        "treehouse",
+        "leaf_path",
+        "flowerpot",
+        "cottage_entry",
+        "wool_rug",
+        "bedroom",
+        "slippers",
+        "carrot_plush"
+      ]
+    },
+    {
+      "shot_id": 14,
+      "location": "皮皮扶着门框，轻轻回头望向刚走过的短短落叶路。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "state_before": "落叶路和皮皮都安静下来。",
+      "action": "眼神柔和好奇，空间方向与门廊一致。",
+      "state_after": "皮皮扶门框回头看路。",
+      "transition_from": 13,
+      "continuity_assets": [
+        "pipi_day",
+        "pipi_sleep",
+        "treehouse",
+        "leaf_path",
+        "flowerpot",
+        "cottage_entry",
+        "wool_rug",
+        "bedroom",
+        "slippers",
+        "carrot_plush"
+      ]
+    },
+    {
+      "shot_id": 15,
+      "location": "从门廊望去，铺满金叶的短路重新安静下来，落叶停在原地。",
+      "characters": [],
+      "outfits": {},
+      "state_before": "皮皮扶门框回头看路。",
+      "action": "路上没有其他动物或人物。",
+      "state_after": "路上的落叶恢复静止。",
+      "transition_from": 14,
+      "continuity_assets": [
+        "treehouse",
+        "leaf_path",
+        "flowerpot",
+        "cottage_entry",
+        "wool_rug",
+        "bedroom",
+        "slippers",
+        "carrot_plush"
+      ]
+    },
+    {
+      "shot_id": 16,
+      "location": "深蓝树影里，金色落叶小路安静躺着，木屋门廊暖光在一侧。",
+      "characters": [],
+      "outfits": {},
+      "state_before": "路上的落叶恢复静止。",
+      "action": "静止、夜色柔和。",
+      "state_after": "安静落叶路处在深蓝树影中。",
+      "transition_from": 15,
+      "continuity_assets": [
+        "treehouse",
+        "leaf_path",
+        "flowerpot",
+        "cottage_entry",
+        "wool_rug",
+        "bedroom",
+        "slippers",
+        "carrot_plush"
+      ]
+    },
+    {
+      "shot_id": 17,
+      "location": "皮皮低头发现一片小小椭圆黄叶粘在蓝布鞋帮旁边。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "state_before": "安静落叶路处在深蓝树影中。",
+      "action": "唯一的一片椭圆黄叶贴在鞋侧，皮皮露出轻微惊喜。",
+      "state_after": "皮皮发现一片小椭圆黄叶粘在蓝布鞋边。",
+      "transition_from": 16,
+      "continuity_assets": [
+        "pipi_day",
+        "pipi_sleep",
+        "treehouse",
+        "leaf_path",
+        "stowaway_leaf",
+        "flowerpot",
+        "cottage_entry",
+        "wool_rug",
+        "bedroom",
+        "slippers",
+        "carrot_plush"
+      ]
+    },
+    {
+      "shot_id": 18,
+      "location": "门口近景，同一片小黄叶仍粘在鞋边，皮皮已经来到家门口。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "state_before": "皮皮发现一片小椭圆黄叶粘在蓝布鞋边。",
+      "action": "保持叶子形状、位置和数量一致。",
+      "state_after": "同一片叶子仍粘在鞋帮旁，证明它跟皮皮回到门口。",
+      "transition_from": 17,
+      "continuity_assets": [
+        "pipi_day",
+        "pipi_sleep",
+        "treehouse",
+        "leaf_path",
+        "stowaway_leaf",
+        "flowerpot",
+        "cottage_entry",
+        "wool_rug",
+        "bedroom",
+        "slippers",
+        "carrot_plush"
+      ]
+    },
+    {
+      "shot_id": 19,
+      "location": "皮皮蹲下身，轻轻从鞋帮旁取下这片搭便车的小叶子。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "state_before": "同一片叶子仍粘在鞋帮旁，证明它跟皮皮回到门口。",
+      "action": "一片叶子从鞋侧被取下，手势轻柔。",
+      "state_after": "皮皮蹲下，把这片叶子从鞋边取下。",
+      "transition_from": 18,
+      "continuity_assets": [
+        "pipi_day",
+        "pipi_sleep",
+        "treehouse",
+        "leaf_path",
+        "stowaway_leaf",
+        "flowerpot",
+        "cottage_entry",
+        "wool_rug",
+        "bedroom",
+        "slippers",
+        "carrot_plush"
+      ]
+    },
+    {
+      "shot_id": 20,
+      "location": "皮皮把同一片叶子放在门外花盆边的泥土上，让它留在秋夜院子里。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "state_before": "皮皮蹲下，把这片叶子从鞋边取下。",
+      "action": "花盆靠门外墙边，叶子放在土面，不带入室内。",
+      "state_after": "叶子被放到门外花盆旁的泥土上。",
+      "transition_from": 19,
+      "continuity_assets": [
+        "pipi_day",
+        "pipi_sleep",
+        "treehouse",
+        "leaf_path",
+        "stowaway_leaf",
+        "flowerpot",
+        "cottage_entry",
+        "wool_rug",
+        "bedroom",
+        "slippers",
+        "carrot_plush"
+      ]
+    },
+    {
+      "shot_id": 21,
+      "location": "花盆旁土面上静静躺着那片椭圆黄叶，门廊和院子安静留在夜色中。",
+      "characters": [],
+      "outfits": {},
+      "state_before": "叶子被放到门外花盆旁的泥土上。",
+      "action": "叶子在屋外、花盆边。",
+      "state_after": "那片叶子留在屋外秋夜院子。",
+      "transition_from": 20,
+      "continuity_assets": [
+        "treehouse",
+        "leaf_path",
+        "stowaway_leaf",
+        "flowerpot",
+        "cottage_entry",
+        "wool_rug",
+        "bedroom",
+        "slippers",
+        "carrot_plush"
+      ]
+    },
+    {
+      "shot_id": 22,
+      "location": "门内的羊毛地毯暖而柔软，门外落叶路与花盆旁的叶子留在院子里。",
+      "characters": [],
+      "outfits": {},
+      "state_before": "那片叶子留在屋外秋夜院子。",
+      "action": "清楚区分室内外；门槛是边界。",
+      "state_after": "羊毛地毯在屋内，落叶小路与花盆叶子留在门外。",
+      "transition_from": 21,
+      "continuity_assets": [
+        "treehouse",
+        "leaf_path",
+        "stowaway_leaf",
+        "flowerpot",
+        "cottage_entry",
+        "wool_rug",
+        "bedroom",
+        "slippers",
+        "carrot_plush"
+      ]
+    },
+    {
+      "shot_id": 23,
+      "location": "皮皮进屋轻轻关门，在入口脱下蓝布鞋，小黄书包放在木钩旁。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "state_before": "羊毛地毯在屋内，落叶小路与花盆叶子留在门外。",
+      "action": "鞋留在门内地垫边，外面叶子不带进屋。",
+      "state_after": "皮皮在屋内关门并脱下蓝布鞋；背包和鞋留在入口。",
+      "transition_from": 22,
+      "continuity_assets": [
+        "pipi_day",
+        "pipi_sleep",
+        "treehouse",
+        "leaf_path",
+        "stowaway_leaf",
+        "flowerpot",
+        "cottage_entry",
+        "wool_rug",
+        "bedroom",
+        "slippers",
+        "carrot_plush"
+      ]
+    },
+    {
+      "shot_id": 24,
+      "location": "皮皮赤脚踩上柔软的羊毛地垫，脚步明显放轻放缓，蓝布鞋并排放旁边。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "state_before": "皮皮在屋内关门并脱下蓝布鞋；背包和鞋留在入口。",
+      "action": "暖室内光，轻松安静。",
+      "state_after": "皮皮赤脚走在羊毛地垫上，脚步放轻放慢。",
+      "transition_from": 23,
+      "continuity_assets": [
+        "pipi_day",
+        "pipi_sleep",
+        "treehouse",
+        "leaf_path",
+        "stowaway_leaf",
+        "flowerpot",
+        "cottage_entry",
+        "wool_rug",
+        "bedroom",
+        "slippers",
+        "carrot_plush"
+      ]
+    },
+    {
+      "shot_id": 25,
+      "location": "洗漱后，穿柔软睡衣与星星睡帽的皮皮把两只毛绒小拖鞋摆在床边，慢慢坐上小木床。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "state_before": "皮皮赤脚走在羊毛地垫上，脚步放轻放慢。",
+      "action": "两只拖鞋并排；卧室床、窗、床头柜布局固定。",
+      "state_after": "洗漱后的皮皮已换睡衣，在床边放好两只拖鞋并坐到床上。",
+      "transition_from": 24,
+      "continuity_assets": [
+        "pipi_day",
+        "pipi_sleep",
+        "treehouse",
+        "leaf_path",
+        "stowaway_leaf",
+        "flowerpot",
+        "cottage_entry",
+        "wool_rug",
+        "bedroom",
+        "slippers",
+        "carrot_plush"
+      ]
+    },
+    {
+      "shot_id": 26,
+      "location": "暖黄色毛毯轻轻盖到皮皮的脚尖，床上氛围舒适而安静。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "state_before": "洗漱后的皮皮已换睡衣，在床边放好两只拖鞋并坐到床上。",
+      "action": "同一小木床与黄色毛毯，动作轻柔。",
+      "state_after": "暖黄色毛毯盖住皮皮脚尖。",
+      "transition_from": 25,
+      "continuity_assets": [
+        "pipi_day",
+        "pipi_sleep",
+        "treehouse",
+        "leaf_path",
+        "stowaway_leaf",
+        "flowerpot",
+        "cottage_entry",
+        "wool_rug",
+        "bedroom",
+        "slippers",
+        "carrot_plush"
+      ]
+    },
+    {
+      "shot_id": 27,
+      "location": "窗外夜深，一片落叶被微风轻轻翻了个身，极远处的树影柔和。",
+      "characters": [],
+      "outfits": {},
+      "state_before": "暖黄色毛毯盖住皮皮脚尖。",
+      "action": "外景叶子只作远处环境，不与门口那片叶混作同一片。",
+      "state_after": "窗外一片叶子在深夜微风中翻身，发出很轻的声音。",
+      "transition_from": 26,
+      "continuity_assets": [
+        "treehouse",
+        "leaf_path",
+        "stowaway_leaf",
+        "flowerpot",
+        "cottage_entry",
+        "wool_rug",
+        "bedroom",
+        "slippers",
+        "carrot_plush"
+      ]
+    },
+    {
+      "shot_id": 28,
+      "location": "皮皮听见窗外极轻的沙声，安心留在床上，没有穿鞋出去。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "state_before": "窗外一片叶子在深夜微风中翻身，发出很轻的声音。",
+      "action": "皮皮在床上不动，拖鞋仍在床边。",
+      "state_after": "皮皮听见窗外沙声，但留在床上，不穿鞋出门。",
+      "transition_from": 27,
+      "continuity_assets": [
+        "pipi_day",
+        "pipi_sleep",
+        "treehouse",
+        "leaf_path",
+        "stowaway_leaf",
+        "flowerpot",
+        "cottage_entry",
+        "wool_rug",
+        "bedroom",
+        "slippers",
+        "carrot_plush"
+      ]
+    },
+    {
+      "shot_id": 29,
+      "location": "皮皮抱住一个橙色胡萝卜玩偶，舒服地闭上眼睛，柔软毛毯盖好。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "state_before": "皮皮听见窗外沙声，但留在床上，不穿鞋出门。",
+      "action": "只出现一个胡萝卜玩偶，睡帽、耳朵与床铺保持连续。",
+      "state_after": "皮皮抱住唯一的胡萝卜玩偶并闭上眼睛。",
+      "transition_from": 28,
+      "continuity_assets": [
+        "pipi_day",
+        "pipi_sleep",
+        "treehouse",
+        "leaf_path",
+        "stowaway_leaf",
+        "flowerpot",
+        "cottage_entry",
+        "wool_rug",
+        "bedroom",
+        "slippers",
+        "carrot_plush"
+      ]
+    },
+    {
+      "shot_id": 30,
+      "location": "安静的卧室里，皮皮已经躺好，今天走过的路都留在身后。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "state_before": "皮皮抱住唯一的胡萝卜玩偶并闭上眼睛。",
+      "action": "温暖夜间氛围，表情放松。",
+      "state_after": "今天走过的路都留在身后。",
+      "transition_from": 29,
+      "continuity_assets": [
+        "pipi_day",
+        "pipi_sleep",
+        "treehouse",
+        "leaf_path",
+        "stowaway_leaf",
+        "flowerpot",
+        "cottage_entry",
+        "wool_rug",
+        "bedroom",
+        "slippers",
+        "carrot_plush"
+      ]
+    },
+    {
+      "shot_id": 31,
+      "location": "温暖床铺与被褥照顾奔跑了一天的小脚，邀请小朋友也歇一歇。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "state_before": "今天走过的路都留在身后。",
+      "action": "重点是覆盖在毛毯下的小脚和柔软床铺，不加文字。",
+      "state_after": "卧室暖被照顾奔跑一天的小脚，小脚停下来休息。",
+      "transition_from": 30,
+      "continuity_assets": [
+        "pipi_day",
+        "pipi_sleep",
+        "treehouse",
+        "leaf_path",
+        "stowaway_leaf",
+        "flowerpot",
+        "cottage_entry",
+        "wool_rug",
+        "bedroom",
+        "slippers",
+        "carrot_plush"
+      ]
+    },
+    {
+      "shot_id": 32,
+      "location": "皮皮安睡在温暖舒服的小木床上，窗外深蓝安静，画面柔和地收在晚安。",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "state_before": "卧室暖被照顾奔跑一天的小脚，小脚停下来休息。",
+      "action": "静态宽景，预留字幕区，适合接约8秒安静尾声。",
+      "state_after": "皮皮安睡在温暖小床，画面进入晚安静止尾声。",
+      "transition_from": 31,
+      "continuity_assets": [
+        "pipi_day",
+        "pipi_sleep",
+        "treehouse",
+        "leaf_path",
+        "stowaway_leaf",
+        "flowerpot",
+        "cottage_entry",
+        "wool_rug",
+        "bedroom",
+        "slippers",
+        "carrot_plush"
+      ]
+    }
+  ],
+  "review_summary": "已顺序检查33镜接触表并修正黄昏路段白日感及入室门槛状态：叶子停留门外花盆旁，室内鞋在软地垫上；皮皮服装从蓝色外出装切换为卧室睡衣。角色、地点与睡前道具整体连续。完整人工听看与用户验收尚未记录。"
+}

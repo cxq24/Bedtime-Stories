@@ -1,0 +1,131 @@
+{
+  "text": "而是放在了门外花盆边的泥土上，让它留在属于秋夜的院子里。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "46d02d4823687aaa56d3f067fa36f74846f783ef998b0a9bf2341718606d0362",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4807500,
+      "text": "而是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6269160,
+      "duration": 3269160,
+      "text": "放"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9538330,
+      "duration": 2500000,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12038330,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13769160,
+      "duration": 2500000,
+      "text": "门"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16269160,
+      "duration": 2884580,
+      "text": "外"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19346250,
+      "duration": 3076660,
+      "text": "花"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22422910,
+      "duration": 5577080,
+      "text": "盆边"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28000000,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29538330,
+      "duration": 6346250,
+      "text": "泥土"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35884580,
+      "duration": 4807500,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44922910,
+      "duration": 2500000,
+      "text": "让"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47422910,
+      "duration": 2500000,
+      "text": "它"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50115410,
+      "duration": 2692080,
+      "text": "留"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52807500,
+      "duration": 2692500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55884580,
+      "duration": 5192500,
+      "text": "属于"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61269160,
+      "duration": 5769160,
+      "text": "秋夜"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 67038330,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 68577080,
+      "duration": 6538330,
+      "text": "院子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75115410,
+      "duration": 3653750,
+      "text": "里"
+    }
+  ]
+}

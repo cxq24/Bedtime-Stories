@@ -1,0 +1,16 @@
+{
+  "image": "cover_base.png",
+  "source": "OpenAI image_gen",
+  "generated_on": "2026-11-23",
+  "loaded_references": [
+    "references/pipi_identity_v001.png",
+    "references/pipi_wardrobe_v001.png",
+    "images/shot_20.png"
+  ],
+  "sha256": "0e7c73a8a243a42080f8d74a5a2172d015e9f2ea6b1d0175dff547b4caacd37b",
+  "size": [
+    941,
+    1672
+  ],
+  "review_status": "assistant_visually_reviewed"
+}

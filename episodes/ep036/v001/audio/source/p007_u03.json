@@ -1,0 +1,77 @@
+{
+  "text": "小朋友，让奔跑了一天的小脚停一停吧。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "95216a1c1a306d39e054cdca1bdfed6dd12c5b233cbf4862289c0793e28ea70c",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 11538330,
+      "text": "小朋友"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16077080,
+      "duration": 2307500,
+      "text": "让"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18577080,
+      "duration": 5576660,
+      "text": "奔跑"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24153750,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25500000,
+      "duration": 4230830,
+      "text": "一天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29730830,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31077080,
+      "duration": 5961660,
+      "text": "小脚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37422910,
+      "duration": 3077080,
+      "text": "停"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40500000,
+      "duration": 1922910,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42422910,
+      "duration": 3461660,
+      "text": "停"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45884580,
+      "duration": 3461660,
+      "text": "吧"
+    }
+  ]
+}

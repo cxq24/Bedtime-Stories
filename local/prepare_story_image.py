@@ -87,6 +87,7 @@ def prepare(output, shot_id):
         + wardrobe
         + f"Scene continuity: {shot['setting'].split('；皮皮')[0]}\n"
         + f"The SINGLE visual moment and framing: {shot['action']}\n"
+        + f"Emotional performance for this exact beat: {shot.get('emotional_performance', 'natural and attentive; do not copy a default model-sheet expression')}\n"
         + f"Mandatory pose/prop state (overrides neutral model-sheet poses): {constraints}\n"
         + 'Style: hand-painted gentle watercolor on fine warm paper, muted natural hues, soft edges and rounded shapes, quiet storybook mood, no glossy 3D or photorealism. Daylight scenes use soft greens and warm daylight, not bedroom amber tint. Night scenes use soft warm lamplight and muted gray-blue windows. '
         + 'Composition: full-bleed vertical 9:16. Keep all important faces, hands, feet, biscuits, fabric folds and other story actions in the upper 68% of the image. Bottom 32% is low-detail negative space for later subtitles, with no crucial objects there. Make the specified story state visually understandable. '

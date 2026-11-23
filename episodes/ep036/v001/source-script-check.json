@@ -1,0 +1,11 @@
+{
+  "episode": "ep036",
+  "script_version": "v5",
+  "source_file": "02_100集剧本/用户长稿v5/结构化JSON/ep036.json",
+  "source_sha256": "8c37b3a9ac82861115ab983da1c71928c1bffa90c93fec7f76a4282c228051e3",
+  "paragraphs": 8,
+  "spoken_hanzi": 702,
+  "narration_coverage": 1.0,
+  "p000_included": true,
+  "script_snapshot": "script.snapshot.json"
+}

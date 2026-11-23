@@ -1,0 +1,255 @@
+{
+  "hanzi": 702,
+  "cues": 123,
+  "pinyin_coverage": 1.0,
+  "context_review": "completed_against_episode_text",
+  "target_font_px": {
+    "hanzi": 76,
+    "pinyin": 48
+  },
+  "libass_fontsize_calibration": {
+    "hanzi": 114,
+    "pinyin": 66,
+    "reason": "match actual rasterized glyph scale to bundled-font 76px/48px reference; libass normalizes font metrics"
+  },
+  "audio_pronunciation_listen_review": "not_certified",
+  "overrides": [
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "小朋友们，准备好听故事了吗？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "歇一歇",
+      "pinyin": [
+        "xiē",
+        "yi",
+        "xiē"
+      ],
+      "context": "走了很久的落叶小路上，皮皮什么时候停下来歇一歇呢？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "走了很久的落叶小路上，皮皮什么时候停下来歇一歇呢？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "一会儿",
+      "pinyin": [
+        "yí",
+        "huìr",
+        "r"
+      ],
+      "context": "傍晚的时候，皮皮在小松鼠团团家的树屋下玩了一会儿捉迷藏，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "傍晚的时候，皮皮在小松鼠团团家的树屋下玩了一会儿捉迷藏，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "团团",
+      "pinyin": [
+        "tuán",
+        "tuán"
+      ],
+      "context": "傍晚的时候，皮皮在小松鼠团团家的树屋下玩了一会儿捉迷藏，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "背着",
+      "pinyin": [
+        "bēi",
+        "zhe"
+      ],
+      "context": "直到天边的云彩变成深紫色，才背着小书包准备回家。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "落下来",
+      "pinyin": [
+        "luò",
+        "xià",
+        "lái"
+      ],
+      "context": "从团团家通往皮皮家的小路上，铺满了厚厚一层秋天落下来的金黄树叶，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "从团团家通往皮皮家的小路上，铺满了厚厚一层秋天落下来的金黄树叶，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "团团",
+      "pinyin": [
+        "tuán",
+        "tuán"
+      ],
+      "context": "从团团家通往皮皮家的小路上，铺满了厚厚一层秋天落下来的金黄树叶，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮走在上面，左脚迈一步，脚下的落叶就发出“沙沙”的轻响；右脚迈一步，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "这声音太有趣了，皮皮忍不住一边走，一边数着自己的步子：“沙沙，一；沙沙，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "当皮皮一步跨上门廊的木台阶，停在小木门前时，他身后那一串“沙沙、沙沙”的声音，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮扶着门框，回头望了望。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮蹲下身，把这片搭便车的小叶子轻轻取下来，没有把它带进屋里，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "鞋子",
+      "pinyin": [
+        "xié",
+        "zi"
+      ],
+      "context": "当皮皮关上门，脱下鞋子踩上屋里软绵绵的地垫时，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "当皮皮关上门，脱下鞋子踩上屋里软绵绵的地垫时，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "拖鞋",
+      "pinyin": [
+        "tuō",
+        "xié"
+      ],
+      "context": "洗漱过后，皮皮把两只毛绒小拖鞋在床边摆好，慢慢坐上小木床。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "洗漱过后，皮皮把两只毛绒小拖鞋在床边摆好，慢慢坐上小木床。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "点儿",
+      "pinyin": [
+        "diǎnr",
+        "r"
+      ],
+      "context": "夜深了，窗外偶尔有一片落叶被风吹得翻了个身，发出一丁点儿极远极轻的“沙”声。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "夜深了，窗外偶尔有一片落叶被风吹得翻了个身，发出一丁点儿极远极轻的“沙”声。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮听见了，但他知道，自己已经不需要再穿鞋出去，跟着那片叶子一起往前走了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "胡萝卜",
+      "pinyin": [
+        "hú",
+        "luó",
+        "bo"
+      ],
+      "context": "皮皮抱好胡萝卜玩偶，闭上眼睛。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮抱好胡萝卜玩偶，闭上眼睛。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "小朋友，让奔跑了一天的小脚停一停吧。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "舒服",
+      "pinyin": [
+        "shū",
+        "fu"
+      ],
+      "context": "今晚所有的路都走完啦，我们的目的地，就是这张温暖舒服的小床。",
+      "review": "context_checked_not_audio_listen_certification"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "text": "皮皮蹲下身，把这片搭便车的小叶子轻轻取下来，没有把它带进屋里，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "dc29aabeca6a850aaf0f4d139ef1fdef49bac899855c01493390f75c062fbab4",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5384580,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 2692500,
+      "text": "蹲"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9730830,
+      "duration": 8461660,
+      "text": "下身"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23192500,
+      "duration": 1922910,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25307500,
+      "duration": 2115410,
+      "text": "这"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27422910,
+      "duration": 3461660,
+      "text": "片"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30884580,
+      "duration": 2500000,
+      "text": "搭"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33577080,
+      "duration": 3076660,
+      "text": "便"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36653750,
+      "duration": 2692500,
+      "text": "车"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39346250,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40884580,
+      "duration": 11922910,
+      "text": "小叶子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54346250,
+      "duration": 6153750,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60692500,
+      "duration": 3461250,
+      "text": "取"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64153750,
+      "duration": 6922910,
+      "text": "下来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75500000,
+      "duration": 3653750,
+      "text": "没有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 79346250,
+      "duration": 2307500,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 81653750,
+      "duration": 1922910,
+      "text": "它"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 83961660,
+      "duration": 2500000,
+      "text": "带"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 86461660,
+      "duration": 2500000,
+      "text": "进"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 89153750,
+      "duration": 7115410,
+      "text": "屋里"
+    }
+  ]
+}

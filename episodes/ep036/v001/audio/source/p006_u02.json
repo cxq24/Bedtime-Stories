@@ -1,0 +1,113 @@
+{
+  "text": "那条暖黄色的毛毯，早就敞开怀抱等着盖住他的脚尖了。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "ea527fdc97fbc7d7dc959a42e6586084f5f6f23921500ecbcf9d2cf8d95f4607",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2500000,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3769160,
+      "duration": 2692500,
+      "text": "条"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 2884580,
+      "text": "暖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9730830,
+      "duration": 6153750,
+      "text": "黄色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15884580,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17422910,
+      "duration": 8269160,
+      "text": "毛毯"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30307500,
+      "duration": 5384580,
+      "text": "早就"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35884580,
+      "duration": 5577080,
+      "text": "敞开"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41653750,
+      "duration": 7884580,
+      "text": "怀抱"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51269160,
+      "duration": 2884580,
+      "text": "等"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54153750,
+      "duration": 1538330,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55884580,
+      "duration": 3077080,
+      "text": "盖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58961660,
+      "duration": 1730830,
+      "text": "住"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60884580,
+      "duration": 1922910,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 62807500,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64346250,
+      "duration": 7500000,
+      "text": "脚尖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 71846250,
+      "duration": 3269160,
+      "text": "了"
+    }
+  ]
+}

@@ -1,0 +1,1407 @@
+{
+  "episode": "ep036",
+  "version": "v001",
+  "title": "落叶小路停一停",
+  "script_version": "v5",
+  "cover_title": "皮皮送叶回家",
+  "cover_title_lines": [
+    "皮皮送叶",
+    "回家"
+  ],
+  "status": "audio_locked_ready_for_images",
+  "actual_audio_measured": true,
+  "shots": [
+    {
+      "id": 0,
+      "title": "开场问候：秋夜小路",
+      "text": "小朋友们，准备好听故事了吗？",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u01",
+          "paragraph_id": "p000",
+          "start_char": 0,
+          "end_char": 14
+        }
+      ],
+      "paragraph_id": "p000",
+      "characters": [],
+      "outfits": {},
+      "setting": "秋日傍晚的林间小路，几片金叶静静停在路边，温暖的故事即将开始。",
+      "action": "没有角色，轻柔的秋夜氛围。",
+      "visual_description": "没有角色，轻柔的秋夜氛围。",
+      "emotional_performance": "No visible character; welcoming calm twilight.",
+      "reality": "standalone_opening",
+      "motion": "fixed",
+      "opening": true,
+      "image": "images/shot_00.png",
+      "prompt_file": "prompts/shot_00.json",
+      "reference_manifest": "references/shot_00.json",
+      "continuity_refs": "见continuity.json对应asset_id与shot_states；位置、外形、状态沿镜头承接。",
+      "state_before": "开场，尚未发生本镜动作。",
+      "state_after": "故事从秋日林间与金叶开始。",
+      "transition_from": null,
+      "visual_constraints": "单一竖屏水彩画，无画中文字、水印、拼贴边框或额外角色。画面下方保留低细节字幕区；叶子、鞋、花盆、床、拖鞋和胡萝卜玩偶的数量/位置按continuity.json。",
+      "environment_reference": null,
+      "speech_start_s": 1.0,
+      "speech_end_s": 4.6634364999999995,
+      "actual_start_s": 0.0,
+      "actual_end_s": 5.12,
+      "visible_start_s": 0.0,
+      "visible_end_s": 5.6,
+      "visible_duration_s": 5.6
+    },
+    {
+      "id": 1,
+      "title": "开场标题：落叶小路停一停",
+      "text": "今天的故事叫《落叶小路停一停》。",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u02",
+          "paragraph_id": "p000",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "paragraph_id": "p000",
+      "characters": [],
+      "outfits": {},
+      "setting": "深紫色天边和一条铺满金叶的森林小路，远处小屋窗灯柔和。",
+      "action": "以落叶小路提出故事主题，无角色。",
+      "visual_description": "以落叶小路提出故事主题，无角色。",
+      "emotional_performance": "No visible character; quiet curiosity, warm and poetic.",
+      "reality": "standalone_opening",
+      "motion": "fixed",
+      "opening": true,
+      "image": "images/shot_01.png",
+      "prompt_file": "prompts/shot_01.json",
+      "reference_manifest": "references/shot_01.json",
+      "continuity_refs": "见continuity.json对应asset_id与shot_states；位置、外形、状态沿镜头承接。",
+      "state_before": "故事从秋日林间与金叶开始。",
+      "state_after": "落叶小路连接森林树屋和暖窗木屋。",
+      "transition_from": 0,
+      "visual_constraints": "单一竖屏水彩画，无画中文字、水印、拼贴边框或额外角色。画面下方保留低细节字幕区；叶子、鞋、花盆、床、拖鞋和胡萝卜玩偶的数量/位置按continuity.json。",
+      "environment_reference": null,
+      "speech_start_s": 5.565125,
+      "speech_end_s": 9.532312166666667,
+      "actual_start_s": 5.12,
+      "actual_end_s": 10.0,
+      "visible_start_s": 4.640000000000001,
+      "visible_end_s": 10.48,
+      "visible_duration_s": 5.84
+    },
+    {
+      "id": 2,
+      "title": "开场提问：何时停下来",
+      "text": "走了很久的落叶小路上，皮皮什么时候停下来歇一歇呢？",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u03",
+          "paragraph_id": "p000",
+          "start_char": 0,
+          "end_char": 25
+        }
+      ],
+      "paragraph_id": "p000",
+      "characters": [],
+      "outfits": {},
+      "setting": "小小椭圆黄叶停在金色小路上，周围深蓝树影安静，留白温柔。",
+      "action": "独立诗意片头，无皮皮，无字。",
+      "visual_description": "独立诗意片头，无皮皮，无字。",
+      "emotional_performance": "No visible character; gentle stillness.",
+      "reality": "standalone_opening",
+      "motion": "fixed",
+      "opening": true,
+      "image": "images/shot_02.png",
+      "prompt_file": "prompts/shot_02.json",
+      "reference_manifest": "references/shot_02.json",
+      "continuity_refs": "见continuity.json对应asset_id与shot_states；位置、外形、状态沿镜头承接。",
+      "state_before": "落叶小路连接森林树屋和暖窗木屋。",
+      "state_after": "小叶子停在安静金色小路上。",
+      "transition_from": 1,
+      "visual_constraints": "单一竖屏水彩画，无画中文字、水印、拼贴边框或额外角色。画面下方保留低细节字幕区；叶子、鞋、花盆、床、拖鞋和胡萝卜玩偶的数量/位置按continuity.json。",
+      "environment_reference": null,
+      "speech_start_s": 10.443562499999999,
+      "speech_end_s": 17.0115205,
+      "actual_start_s": 10.0,
+      "actual_end_s": 17.48,
+      "visible_start_s": 9.52,
+      "visible_end_s": 17.96,
+      "visible_duration_s": 8.44
+    },
+    {
+      "id": 3,
+      "title": "团团树屋玩捉迷藏",
+      "text": "傍晚的时候，皮皮在小松鼠团团家的树屋下玩了一会儿捉迷藏，",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u01",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 28
+        }
+      ],
+      "paragraph_id": "p001",
+      "characters": [
+        "pipi",
+        "tuantuan"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "下午树屋下，皮皮和团团玩捉迷藏，木制树屋有圆窗，阳光柔和。",
+      "action": "皮皮探头寻找，团团在树屋旁轻快躲藏。",
+      "visual_description": "皮皮探头寻找，团团在树屋旁轻快躲藏。",
+      "emotional_performance": "Pipi is delighted and playful, scanning around for his friend with bright eyes; Tuantuan looks amused and engaged.",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_03.png",
+      "prompt_file": "prompts/shot_03.json",
+      "reference_manifest": "references/shot_03.json",
+      "continuity_refs": "见continuity.json对应asset_id与shot_states；位置、外形、状态沿镜头承接。",
+      "state_before": "小叶子停在安静金色小路上。",
+      "state_after": "下午皮皮和团团在团团树屋下玩捉迷藏。",
+      "transition_from": 2,
+      "visual_constraints": "单一竖屏水彩画，无画中文字、水印、拼贴边框或额外角色。画面下方保留低细节字幕区；叶子、鞋、花盆、床、拖鞋和胡萝卜玩偶的数量/位置按continuity.json。",
+      "environment_reference": null,
+      "speech_start_s": 17.918791666666664,
+      "speech_end_s": 25.77714583333333,
+      "actual_start_s": 17.48,
+      "actual_end_s": 26.24,
+      "visible_start_s": 17.0,
+      "visible_end_s": 26.72,
+      "visible_duration_s": 9.72
+    },
+    {
+      "id": 4,
+      "title": "天色变成深紫色",
+      "text": "直到天边的云彩变成深紫色，才背着小书包准备回家。",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u02",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 24
+        }
+      ],
+      "paragraph_id": "p001",
+      "characters": [
+        "pipi",
+        "tuantuan"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "树屋旁的云彩刚变成深紫色，皮皮背起小黄书包准备回家，团团留在树屋边道别。",
+      "action": "皮皮转向熟悉的小路，神情满足、自然；团团只在此镜出现。",
+      "visual_description": "皮皮转向熟悉的小路，神情满足、自然；团团只在此镜出现。",
+      "emotional_performance": "Pipi is happily ready to go home, relaxed and satisfied; Tuantuan gives a friendly wave.",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_04.png",
+      "prompt_file": "prompts/shot_04.json",
+      "reference_manifest": "references/shot_04.json",
+      "continuity_refs": "见continuity.json对应asset_id与shot_states；位置、外形、状态沿镜头承接。",
+      "state_before": "下午皮皮和团团在团团树屋下玩捉迷藏。",
+      "state_after": "天色深紫，皮皮背上小黄书包离开树屋回家，团团留在树屋边。",
+      "transition_from": 3,
+      "visual_constraints": "单一竖屏水彩画，无画中文字、水印、拼贴边框或额外角色。画面下方保留低细节字幕区；叶子、鞋、花盆、床、拖鞋和胡萝卜玩偶的数量/位置按continuity.json。",
+      "environment_reference": "images/shot_03.png",
+      "speech_start_s": 26.686874999999997,
+      "speech_end_s": 33.906624666666666,
+      "actual_start_s": 26.24,
+      "actual_end_s": 34.36,
+      "visible_start_s": 25.759999999999998,
+      "visible_end_s": 34.839999999999996,
+      "visible_duration_s": 9.08
+    },
+    {
+      "id": 5,
+      "title": "金色落叶铺满回家路",
+      "text": "从团团家通往皮皮家的小路上，铺满了厚厚一层秋天落下来的金黄树叶，",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u03",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 32
+        }
+      ],
+      "paragraph_id": "p001",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "从团团树屋通往皮皮家的小路，厚厚金黄秋叶铺满路面，皮皮在路上。",
+      "action": "小黄书包和灰蓝短背带裤保持白天造型。",
+      "visual_description": "小黄书包和灰蓝短背带裤保持白天造型。",
+      "emotional_performance": "Pipi walks with a light, content expression, looking along the path.",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_05.png",
+      "prompt_file": "prompts/shot_05.json",
+      "reference_manifest": "references/shot_05.json",
+      "continuity_refs": "见continuity.json对应asset_id与shot_states；位置、外形、状态沿镜头承接。",
+      "state_before": "天色深紫，皮皮背上小黄书包离开树屋回家，团团留在树屋边。",
+      "state_after": "皮皮进入从团团树屋通往自己家的落叶小路。",
+      "transition_from": 4,
+      "visual_constraints": "单一竖屏水彩画，无画中文字、水印、拼贴边框或额外角色。画面下方保留低细节字幕区；叶子、鞋、花盆、床、拖鞋和胡萝卜玩偶的数量/位置按continuity.json。",
+      "environment_reference": null,
+      "speech_start_s": 34.845166666666664,
+      "speech_end_s": 44.34814516666667,
+      "actual_start_s": 34.36,
+      "actual_end_s": 44.8,
+      "visible_start_s": 33.88,
+      "visible_end_s": 45.279999999999994,
+      "visible_duration_s": 11.4
+    },
+    {
+      "id": 6,
+      "title": "左脚沙沙右脚咔嚓",
+      "text": "就像一条长长的金色地毯。",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u04",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 12
+        }
+      ],
+      "paragraph_id": "p001",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "竖深构图展示长长金色落叶小路，像柔软地毯通向远处暖窗。",
+      "action": "同一路径连续，落叶厚而自然。",
+      "visual_description": "同一路径连续，落叶厚而自然。",
+      "emotional_performance": "No face shown; a light, unhurried step.",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_06.png",
+      "prompt_file": "prompts/shot_06.json",
+      "reference_manifest": "references/shot_06.json",
+      "continuity_refs": "见continuity.json对应asset_id与shot_states；位置、外形、状态沿镜头承接。",
+      "state_before": "皮皮进入从团团树屋通往自己家的落叶小路。",
+      "state_after": "长路厚厚铺满金黄树叶。",
+      "transition_from": 5,
+      "visual_constraints": "单一竖屏水彩画，无画中文字、水印、拼贴边框或额外角色。画面下方保留低细节字幕区；叶子、鞋、花盆、床、拖鞋和胡萝卜玩偶的数量/位置按continuity.json。",
+      "environment_reference": "images/shot_05.png",
+      "speech_start_s": 45.227979166666664,
+      "speech_end_s": 48.4511445,
+      "actual_start_s": 44.8,
+      "actual_end_s": 48.92,
+      "visible_start_s": 44.32,
+      "visible_end_s": 49.4,
+      "visible_duration_s": 5.08
+    },
+    {
+      "id": 7,
+      "title": "落叶声清脆响起",
+      "text": "皮皮走在上面，左脚迈一步，脚下的落叶就发出“沙沙”的轻响；右脚迈一步，",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u01",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 35
+        }
+      ],
+      "paragraph_id": "p002",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "皮皮迈着左右交替的小步走在叶路上，蓝布鞋踩过叶片，叶子轻轻压弯。",
+      "action": "鞋和叶路清楚，步伐轻快。",
+      "visual_description": "鞋和叶路清楚，步伐轻快。",
+      "emotional_performance": "No face shown; playful motion in feet only.",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_07.png",
+      "prompt_file": "prompts/shot_07.json",
+      "reference_manifest": "references/shot_07.json",
+      "continuity_refs": "见continuity.json对应asset_id与shot_states；位置、外形、状态沿镜头承接。",
+      "state_before": "长路厚厚铺满金黄树叶。",
+      "state_after": "皮皮沿路迈出左右交替的轻快步伐。",
+      "transition_from": 6,
+      "visual_constraints": "单一竖屏水彩画，无画中文字、水印、拼贴边框或额外角色。画面下方保留低细节字幕区；叶子、鞋、花盆、床、拖鞋和胡萝卜玩偶的数量/位置按continuity.json。",
+      "environment_reference": "images/shot_05.png",
+      "speech_start_s": 49.37133333333333,
+      "speech_end_s": 59.48068683333333,
+      "actual_start_s": 48.92,
+      "actual_end_s": 59.92,
+      "visible_start_s": 48.440000000000005,
+      "visible_end_s": 60.4,
+      "visible_duration_s": 11.96
+    },
+    {
+      "id": 8,
+      "title": "边走边数着脚步",
+      "text": "落叶又发出“咔嚓”的脆响。",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u02",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 13
+        }
+      ],
+      "paragraph_id": "p002",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "近景显示蓝布鞋踏过脆叶，几片叶子轻轻翻动，表现清脆踩踏感。",
+      "action": "不出现拟声字、数字或夸张飞叶。",
+      "visual_description": "不出现拟声字、数字或夸张飞叶。",
+      "emotional_performance": "Pipi enjoys the crunchy rhythm, with a small genuine smile and lively attentive eyes; ears relaxed.",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_08.png",
+      "prompt_file": "prompts/shot_08.json",
+      "reference_manifest": "references/shot_08.json",
+      "continuity_refs": "见continuity.json对应asset_id与shot_states；位置、外形、状态沿镜头承接。",
+      "state_before": "皮皮沿路迈出左右交替的轻快步伐。",
+      "state_after": "蓝布鞋踏过脆叶，叶片微微起伏。",
+      "transition_from": 7,
+      "visual_constraints": "单一竖屏水彩画，无画中文字、水印、拼贴边框或额外角色。画面下方保留低细节字幕区；叶子、鞋、花盆、床、拖鞋和胡萝卜玩偶的数量/位置按continuity.json。",
+      "environment_reference": "images/shot_05.png",
+      "speech_start_s": 60.36775,
+      "speech_end_s": 63.6110625,
+      "actual_start_s": 59.92,
+      "actual_end_s": 64.04,
+      "visible_start_s": 59.440000000000005,
+      "visible_end_s": 64.52000000000001,
+      "visible_duration_s": 5.08
+    },
+    {
+      "id": 9,
+      "title": "小木屋出现在前方",
+      "text": "这声音太有趣了，皮皮忍不住一边走，一边数着自己的步子：“沙沙，一；沙沙，",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u03",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 36
+        }
+      ],
+      "paragraph_id": "p002",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "皮皮一边走一边伸爪数步子，像在心里数“沙沙、一；沙沙”，表情专注又开心。",
+      "action": "不显示文字或数字，轻快节奏自然。",
+      "visual_description": "不显示文字或数字，轻快节奏自然。",
+      "emotional_performance": "Pipi silently counts with a gentle smile, eyes attentive; not worried or sad.",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_09.png",
+      "prompt_file": "prompts/shot_09.json",
+      "reference_manifest": "references/shot_09.json",
+      "continuity_refs": "见continuity.json对应asset_id与shot_states；位置、外形、状态沿镜头承接。",
+      "state_before": "蓝布鞋踏过脆叶，叶片微微起伏。",
+      "state_after": "皮皮边走边数步子，落叶声配合轻快脚步。",
+      "transition_from": 8,
+      "visual_constraints": "单一竖屏水彩画，无画中文字、水印、拼贴边框或额外角色。画面下方保留低细节字幕区；叶子、鞋、花盆、床、拖鞋和胡萝卜玩偶的数量/位置按continuity.json。",
+      "environment_reference": "images/shot_05.png",
+      "speech_start_s": 64.50520833333333,
+      "speech_end_s": 75.2041035,
+      "actual_start_s": 64.04,
+      "actual_end_s": 75.68,
+      "visible_start_s": 63.56000000000001,
+      "visible_end_s": 76.16000000000001,
+      "visible_duration_s": 12.6
+    },
+    {
+      "id": 10,
+      "title": "皮皮踏上木台阶",
+      "text": "二；沙沙，三……”小脚丫踩着轻快的节奏，好像怎么走都走不够似的。",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u04",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 32
+        }
+      ],
+      "paragraph_id": "p002",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "皮皮继续数着步子，轻盈前行，脚下金叶形成安静的节拍。",
+      "action": "同一小路、同一日装与书包，动作不夸张。",
+      "visual_description": "同一小路、同一日装与书包，动作不夸张。",
+      "emotional_performance": "Pipi keeps the playful rhythm, relaxed shoulders and natural ears.",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_10.png",
+      "prompt_file": "prompts/shot_10.json",
+      "reference_manifest": "references/shot_10.json",
+      "continuity_refs": "见continuity.json对应asset_id与shot_states；位置、外形、状态沿镜头承接。",
+      "state_before": "皮皮边走边数步子，落叶声配合轻快脚步。",
+      "state_after": "数步节奏继续，皮皮没有停下。",
+      "transition_from": 9,
+      "visual_constraints": "单一竖屏水彩画，无画中文字、水印、拼贴边框或额外角色。画面下方保留低细节字幕区；叶子、鞋、花盆、床、拖鞋和胡萝卜玩偶的数量/位置按continuity.json。",
+      "environment_reference": "images/shot_05.png",
+      "speech_start_s": 76.11881249999999,
+      "speech_end_s": 85.70947849999999,
+      "actual_start_s": 75.68,
+      "actual_end_s": 86.16,
+      "visible_start_s": 75.2,
+      "visible_end_s": 86.64,
+      "visible_duration_s": 11.44
+    },
+    {
+      "id": 11,
+      "title": "停在小木门前",
+      "text": "不知不觉，那座亮着暖灯的小木屋就出现在了眼前。",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u01",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 23
+        }
+      ],
+      "paragraph_id": "p003",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "不知不觉，熟悉的木屋亮着暖窗出现在小路尽头，皮皮向家走去。",
+      "action": "木屋位于落叶路尽头，方向固定。",
+      "visual_description": "木屋位于落叶路尽头，方向固定。",
+      "emotional_performance": "Pipi notices the warm familiar house with a small relieved smile.",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_11.png",
+      "prompt_file": "prompts/shot_11.json",
+      "reference_manifest": "references/shot_11.json",
+      "continuity_refs": "见continuity.json对应asset_id与shot_states；位置、外形、状态沿镜头承接。",
+      "state_before": "数步节奏继续，皮皮没有停下。",
+      "state_after": "木屋暖窗出现在落叶小路尽头。",
+      "transition_from": 10,
+      "visual_constraints": "单一竖屏水彩画，无画中文字、水印、拼贴边框或额外角色。画面下方保留低细节字幕区；叶子、鞋、花盆、床、拖鞋和胡萝卜玩偶的数量/位置按continuity.json。",
+      "environment_reference": "images/shot_12.png",
+      "speech_start_s": 86.61339583333333,
+      "speech_end_s": 93.411582,
+      "actual_start_s": 86.16,
+      "actual_end_s": 93.88,
+      "visible_start_s": 85.67999999999999,
+      "visible_end_s": 94.36,
+      "visible_duration_s": 8.68
+    },
+    {
+      "id": 12,
+      "title": "身后的沙沙声停住",
+      "text": "当皮皮一步跨上门廊的木台阶，停在小木门前时，他身后那一串“沙沙、沙沙”的声音，",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u02",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 39
+        }
+      ],
+      "paragraph_id": "p003",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "皮皮踏上木门廊台阶，停在小木门前；身后是通向树屋的落叶小路。",
+      "action": "表现刚停下的一刻，门、台阶与路径相连。",
+      "visual_description": "表现刚停下的一刻，门、台阶与路径相连。",
+      "emotional_performance": "Pipi comes to a natural stop, calm and comfortable; eyes toward the door.",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_12.png",
+      "prompt_file": "prompts/shot_12.json",
+      "reference_manifest": "references/shot_12.json",
+      "continuity_refs": "见continuity.json对应asset_id与shot_states；位置、外形、状态沿镜头承接。",
+      "state_before": "木屋暖窗出现在落叶小路尽头。",
+      "state_after": "皮皮登上木台阶并在门前停下，身后叶声随之停住。",
+      "transition_from": 11,
+      "visual_constraints": "单一竖屏水彩画，无画中文字、水印、拼贴边框或额外角色。画面下方保留低细节字幕区；叶子、鞋、花盆、床、拖鞋和胡萝卜玩偶的数量/位置按continuity.json。",
+      "environment_reference": null,
+      "speech_start_s": 94.33052083333332,
+      "speech_end_s": 105.37916633333333,
+      "actual_start_s": 93.88,
+      "actual_end_s": 105.84,
+      "visible_start_s": 93.39999999999999,
+      "visible_end_s": 106.32000000000001,
+      "visible_duration_s": 12.92
+    },
+    {
+      "id": 13,
+      "title": "扶门框回头望",
+      "text": "也像听懂了口令一样，一下子跟着停住了。",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u03",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 19
+        }
+      ],
+      "paragraph_id": "p003",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "皮皮静静站在木门前，身后落叶不再翻动，脚步声仿佛也跟着停住。",
+      "action": "环境由动转静，没有文字或可见声波。",
+      "visual_description": "环境由动转静，没有文字或可见声波。",
+      "emotional_performance": "Pipi notices the sudden quiet and gently pauses, curious rather than startled.",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_13.png",
+      "prompt_file": "prompts/shot_13.json",
+      "reference_manifest": "references/shot_13.json",
+      "continuity_refs": "见continuity.json对应asset_id与shot_states；位置、外形、状态沿镜头承接。",
+      "state_before": "皮皮登上木台阶并在门前停下，身后叶声随之停住。",
+      "state_after": "落叶路和皮皮都安静下来。",
+      "transition_from": 12,
+      "visual_constraints": "单一竖屏水彩画，无画中文字、水印、拼贴边框或额外角色。画面下方保留低细节字幕区；叶子、鞋、花盆、床、拖鞋和胡萝卜玩偶的数量/位置按continuity.json。",
+      "environment_reference": "images/shot_12.png",
+      "speech_start_s": 106.29562499999999,
+      "speech_end_s": 111.31983233333332,
+      "actual_start_s": 105.84,
+      "actual_end_s": 111.76,
+      "visible_start_s": 105.36,
+      "visible_end_s": 112.24000000000001,
+      "visible_duration_s": 6.88
+    },
+    {
+      "id": 14,
+      "title": "落叶小路恢复平静",
+      "text": "皮皮扶着门框，回头望了望。",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u01",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 13
+        }
+      ],
+      "paragraph_id": "p004",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "皮皮扶着门框，轻轻回头望向刚走过的短短落叶路。",
+      "action": "眼神柔和好奇，空间方向与门廊一致。",
+      "visual_description": "眼神柔和好奇，空间方向与门廊一致。",
+      "emotional_performance": "Pipi turns to look back with soft curiosity, holding the frame comfortably.",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_14.png",
+      "prompt_file": "prompts/shot_14.json",
+      "reference_manifest": "references/shot_14.json",
+      "continuity_refs": "见continuity.json对应asset_id与shot_states；位置、外形、状态沿镜头承接。",
+      "state_before": "落叶路和皮皮都安静下来。",
+      "state_after": "皮皮扶门框回头看路。",
+      "transition_from": 13,
+      "visual_constraints": "单一竖屏水彩画，无画中文字、水印、拼贴边框或额外角色。画面下方保留低细节字幕区；叶子、鞋、花盆、床、拖鞋和胡萝卜玩偶的数量/位置按continuity.json。",
+      "environment_reference": "images/shot_12.png",
+      "speech_start_s": 112.20883333333332,
+      "speech_end_s": 115.91302016666666,
+      "actual_start_s": 111.76,
+      "actual_end_s": 116.36,
+      "visible_start_s": 111.28,
+      "visible_end_s": 116.84,
+      "visible_duration_s": 5.56
+    },
+    {
+      "id": 15,
+      "title": "小路安静躺在树影里",
+      "text": "只见刚才还热闹作响的那条短短的落叶小路，此时已经重新恢复了平静，",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u02",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 32
+        }
+      ],
+      "paragraph_id": "p004",
+      "characters": [],
+      "outfits": {},
+      "setting": "从门廊望去，铺满金叶的短路重新安静下来，落叶停在原地。",
+      "action": "路上没有其他动物或人物。",
+      "visual_description": "路上没有其他动物或人物。",
+      "emotional_performance": "No visible character; the leaf path rests quietly after the footsteps stop.",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_15.png",
+      "prompt_file": "prompts/shot_15.json",
+      "reference_manifest": "references/shot_15.json",
+      "continuity_refs": "见continuity.json对应asset_id与shot_states；位置、外形、状态沿镜头承接。",
+      "state_before": "皮皮扶门框回头看路。",
+      "state_after": "路上的落叶恢复静止。",
+      "transition_from": 14,
+      "visual_constraints": "单一竖屏水彩画，无画中文字、水印、拼贴边框或额外角色。画面下方保留低细节字幕区；叶子、鞋、花盆、床、拖鞋和胡萝卜玩偶的数量/位置按continuity.json。",
+      "environment_reference": "images/shot_12.png",
+      "speech_start_s": 116.77824999999999,
+      "speech_end_s": 126.19302083333332,
+      "actual_start_s": 116.36,
+      "actual_end_s": 126.68,
+      "visible_start_s": 115.88,
+      "visible_end_s": 127.16000000000001,
+      "visible_duration_s": 11.28
+    },
+    {
+      "id": 16,
+      "title": "低头发现鞋边黄叶",
+      "text": "安安静静地躺回了深蓝色的树影里。",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u03",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "paragraph_id": "p004",
+      "characters": [],
+      "outfits": {},
+      "setting": "深蓝树影里，金色落叶小路安静躺着，木屋门廊暖光在一侧。",
+      "action": "静止、夜色柔和。",
+      "visual_description": "静止、夜色柔和。",
+      "emotional_performance": "No visible character; peaceful blue forest shade.",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_16.png",
+      "prompt_file": "prompts/shot_16.json",
+      "reference_manifest": "references/shot_16.json",
+      "continuity_refs": "见continuity.json对应asset_id与shot_states；位置、外形、状态沿镜头承接。",
+      "state_before": "路上的落叶恢复静止。",
+      "state_after": "安静落叶路处在深蓝树影中。",
+      "transition_from": 15,
+      "visual_constraints": "单一竖屏水彩画，无画中文字、水印、拼贴边框或额外角色。画面下方保留低细节字幕区；叶子、鞋、花盆、床、拖鞋和胡萝卜玩偶的数量/位置按continuity.json。",
+      "environment_reference": "images/shot_12.png",
+      "speech_start_s": 127.14558333333332,
+      "speech_end_s": 131.38424933333332,
+      "actual_start_s": 126.68,
+      "actual_end_s": 131.84,
+      "visible_start_s": 126.2,
+      "visible_end_s": 132.32,
+      "visible_duration_s": 6.12
+    },
+    {
+      "id": 17,
+      "title": "叶子跟着皮皮回家",
+      "text": "他低头一看，发现有一片小小的椭圆形黄叶子，正粘在自己的鞋帮旁边，",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u04",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 32
+        }
+      ],
+      "paragraph_id": "p004",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "皮皮低头发现一片小小椭圆黄叶粘在蓝布鞋帮旁边。",
+      "action": "唯一的一片椭圆黄叶贴在鞋侧，皮皮露出轻微惊喜。",
+      "visual_description": "唯一的一片椭圆黄叶贴在鞋侧，皮皮露出轻微惊喜。",
+      "emotional_performance": "Pipi sees the tiny leaf and looks gently surprised, eyes bright, mouth softly curious.",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_17.png",
+      "prompt_file": "prompts/shot_17.json",
+      "reference_manifest": "references/shot_17.json",
+      "continuity_refs": "见continuity.json对应asset_id与shot_states；位置、外形、状态沿镜头承接。",
+      "state_before": "安静落叶路处在深蓝树影中。",
+      "state_after": "皮皮发现一片小椭圆黄叶粘在蓝布鞋边。",
+      "transition_from": 16,
+      "visual_constraints": "单一竖屏水彩画，无画中文字、水印、拼贴边框或额外角色。画面下方保留低细节字幕区；叶子、鞋、花盆、床、拖鞋和胡萝卜玩偶的数量/位置按continuity.json。",
+      "environment_reference": "images/shot_12.png",
+      "speech_start_s": 132.28539583333333,
+      "speech_end_s": 141.79616566666667,
+      "actual_start_s": 131.84,
+      "actual_end_s": 142.24,
+      "visible_start_s": 131.36,
+      "visible_end_s": 142.72,
+      "visible_duration_s": 11.36
+    },
+    {
+      "id": 18,
+      "title": "蹲下取下搭便车的叶",
+      "text": "跟着他一路走到了家门口。",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u05",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 12
+        }
+      ],
+      "paragraph_id": "p004",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "门口近景，同一片小黄叶仍粘在鞋边，皮皮已经来到家门口。",
+      "action": "保持叶子形状、位置和数量一致。",
+      "visual_description": "保持叶子形状、位置和数量一致。",
+      "emotional_performance": "Pipi pauses at the doorstep, curious about the leaf on his shoe; soft expression.",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_18.png",
+      "prompt_file": "prompts/shot_18.json",
+      "reference_manifest": "references/shot_18.json",
+      "continuity_refs": "见continuity.json对应asset_id与shot_states；位置、外形、状态沿镜头承接。",
+      "state_before": "皮皮发现一片小椭圆黄叶粘在蓝布鞋边。",
+      "state_after": "同一片叶子仍粘在鞋帮旁，证明它跟皮皮回到门口。",
+      "transition_from": 17,
+      "visual_constraints": "单一竖屏水彩画，无画中文字、水印、拼贴边框或额外角色。画面下方保留低细节字幕区；叶子、鞋、花盆、床、拖鞋和胡萝卜玩偶的数量/位置按continuity.json。",
+      "environment_reference": "images/shot_17.png",
+      "speech_start_s": 142.70877083333332,
+      "speech_end_s": 145.6462278333333,
+      "actual_start_s": 142.24,
+      "actual_end_s": 146.12,
+      "visible_start_s": 141.76000000000002,
+      "visible_end_s": 146.6,
+      "visible_duration_s": 4.84
+    },
+    {
+      "id": 19,
+      "title": "把叶放在花盆旁",
+      "text": "皮皮蹲下身，把这片搭便车的小叶子轻轻取下来，没有把它带进屋里，",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u01",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 31
+        }
+      ],
+      "paragraph_id": "p005",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "皮皮蹲下身，轻轻从鞋帮旁取下这片搭便车的小叶子。",
+      "action": "一片叶子从鞋侧被取下，手势轻柔。",
+      "visual_description": "一片叶子从鞋侧被取下，手势轻柔。",
+      "emotional_performance": "Pipi crouches carefully with a tender, focused expression and gentle paws.",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_19.png",
+      "prompt_file": "prompts/shot_19.json",
+      "reference_manifest": "references/shot_19.json",
+      "continuity_refs": "见continuity.json对应asset_id与shot_states；位置、外形、状态沿镜头承接。",
+      "state_before": "同一片叶子仍粘在鞋帮旁，证明它跟皮皮回到门口。",
+      "state_after": "皮皮蹲下，把这片叶子从鞋边取下。",
+      "transition_from": 18,
+      "visual_constraints": "单一竖屏水彩画，无画中文字、水印、拼贴边框或额外角色。画面下方保留低细节字幕区；叶子、鞋、花盆、床、拖鞋和胡萝卜玩偶的数量/位置按continuity.json。",
+      "environment_reference": "images/shot_17.png",
+      "speech_start_s": 146.55387499999998,
+      "speech_end_s": 156.02466599999997,
+      "actual_start_s": 146.12,
+      "actual_end_s": 156.48,
+      "visible_start_s": 145.64000000000001,
+      "visible_end_s": 156.95999999999998,
+      "visible_duration_s": 11.32
+    },
+    {
+      "id": 20,
+      "title": "叶子留在秋夜院子",
+      "text": "而是放在了门外花盆边的泥土上，让它留在属于秋夜的院子里。",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u02",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 28
+        }
+      ],
+      "paragraph_id": "p005",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "皮皮把同一片叶子放在门外花盆边的泥土上，让它留在秋夜院子里。",
+      "action": "花盆靠门外墙边，叶子放在土面，不带入室内。",
+      "visual_description": "花盆靠门外墙边，叶子放在土面，不带入室内。",
+      "emotional_performance": "皮皮温柔专注地把叶子轻轻放下，神情安宁、带一点满足，不皱眉、不忧伤。",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_20.png",
+      "prompt_file": "prompts/shot_20.json",
+      "reference_manifest": "references/shot_20.json",
+      "continuity_refs": "见continuity.json对应asset_id与shot_states；位置、外形、状态沿镜头承接。",
+      "state_before": "皮皮蹲下，把这片叶子从鞋边取下。",
+      "state_after": "叶子被放到门外花盆旁的泥土上。",
+      "transition_from": 19,
+      "visual_constraints": "单一竖屏水彩画，无画中文字、水印、拼贴边框或额外角色。画面下方保留低细节字幕区；叶子、鞋、花盆、床、拖鞋和胡萝卜玩偶的数量/位置按continuity.json。",
+      "environment_reference": "images/shot_12.png",
+      "speech_start_s": 156.9295208333333,
+      "speech_end_s": 164.6292493333333,
+      "actual_start_s": 156.48,
+      "actual_end_s": 165.04,
+      "visible_start_s": 156.0,
+      "visible_end_s": 165.51999999999998,
+      "visible_duration_s": 9.52
+    },
+    {
+      "id": 21,
+      "title": "门外小路屋内羊毛毯",
+      "text": "落叶小路留在了门外，而柔软的羊毛地毯留在了屋里。",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u03",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 24
+        }
+      ],
+      "paragraph_id": "p005",
+      "characters": [],
+      "outfits": {},
+      "setting": "花盆旁土面上静静躺着那片椭圆黄叶，门廊和院子安静留在夜色中。",
+      "action": "叶子在屋外、花盆边。",
+      "visual_description": "叶子在屋外、花盆边。",
+      "emotional_performance": "No visible character; quiet acceptance and stillness.",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_21.png",
+      "prompt_file": "prompts/shot_21.json",
+      "reference_manifest": "references/shot_21.json",
+      "continuity_refs": "见continuity.json对应asset_id与shot_states；位置、外形、状态沿镜头承接。",
+      "state_before": "叶子被放到门外花盆旁的泥土上。",
+      "state_after": "那片叶子留在屋外秋夜院子。",
+      "transition_from": 20,
+      "visual_constraints": "单一竖屏水彩画，无画中文字、水印、拼贴边框或额外角色。画面下方保留低细节字幕区；叶子、鞋、花盆、床、拖鞋和胡萝卜玩偶的数量/位置按continuity.json。",
+      "environment_reference": "images/shot_20.png",
+      "speech_start_s": 165.47622916666663,
+      "speech_end_s": 172.39266666666663,
+      "actual_start_s": 165.04,
+      "actual_end_s": 172.84,
+      "visible_start_s": 164.56,
+      "visible_end_s": 173.32,
+      "visible_duration_s": 8.76
+    },
+    {
+      "id": 22,
+      "title": "关门换下蓝布鞋",
+      "text": "当皮皮关上门，脱下鞋子踩上屋里软绵绵的地垫时，",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u04",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 23
+        }
+      ],
+      "paragraph_id": "p005",
+      "characters": [],
+      "outfits": {},
+      "setting": "门内的羊毛地毯暖而柔软，门外落叶路与花盆旁的叶子留在院子里。",
+      "action": "清楚区分室内外；门槛是边界。",
+      "visual_description": "清楚区分室内外；门槛是边界。",
+      "emotional_performance": "No visible character; warm contrast between inside comfort and outside path.",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_22.png",
+      "prompt_file": "prompts/shot_22.json",
+      "reference_manifest": "references/shot_22.json",
+      "continuity_refs": "见continuity.json对应asset_id与shot_states；位置、外形、状态沿镜头承接。",
+      "state_before": "那片叶子留在屋外秋夜院子。",
+      "state_after": "羊毛地毯在屋内，落叶小路与花盆叶子留在门外。",
+      "transition_from": 21,
+      "visual_constraints": "单一竖屏水彩画，无画中文字、水印、拼贴边框或额外角色。画面下方保留低细节字幕区；叶子、鞋、花盆、床、拖鞋和胡萝卜玩偶的数量/位置按continuity.json。",
+      "environment_reference": "images/shot_12.png",
+      "speech_start_s": 173.2651458333333,
+      "speech_end_s": 180.57589449999995,
+      "actual_start_s": 172.84,
+      "actual_end_s": 181.0,
+      "visible_start_s": 172.36,
+      "visible_end_s": 181.48,
+      "visible_duration_s": 9.12
+    },
+    {
+      "id": 23,
+      "title": "屋里地垫让脚步放轻",
+      "text": "他的脚步立刻变得比刚才更轻、更缓了。",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u05",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 18
+        }
+      ],
+      "paragraph_id": "p005",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "皮皮进屋轻轻关门，在入口脱下蓝布鞋，小黄书包放在木钩旁。",
+      "action": "鞋留在门内地垫边，外面叶子不带进屋。",
+      "visual_description": "鞋留在门内地垫边，外面叶子不带进屋。",
+      "emotional_performance": "Pipi calmly closes the door and removes his shoes, feeling ready to rest.",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_23.png",
+      "prompt_file": "prompts/shot_23.json",
+      "reference_manifest": "references/shot_23.json",
+      "continuity_refs": "见continuity.json对应asset_id与shot_states；位置、外形、状态沿镜头承接。",
+      "state_before": "羊毛地毯在屋内，落叶小路与花盆叶子留在门外。",
+      "state_after": "皮皮在屋内关门并脱下蓝布鞋；背包和鞋留在入口。",
+      "transition_from": 22,
+      "visual_constraints": "单一竖屏水彩画，无画中文字、水印、拼贴边框或额外角色。画面下方保留低细节字幕区；叶子、鞋、花盆、床、拖鞋和胡萝卜玩偶的数量/位置按continuity.json。",
+      "environment_reference": "images/shot_12.png",
+      "speech_start_s": 181.44768749999997,
+      "speech_end_s": 186.8059368333333,
+      "actual_start_s": 181.0,
+      "actual_end_s": 187.24,
+      "visible_start_s": 180.52,
+      "visible_end_s": 187.72,
+      "visible_duration_s": 7.2
+    },
+    {
+      "id": 24,
+      "title": "床边摆好两只毛绒拖鞋",
+      "text": "洗漱过后，皮皮把两只毛绒小拖鞋在床边摆好，慢慢坐上小木床。",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u01",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "paragraph_id": "p006",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "皮皮赤脚踩上柔软的羊毛地垫，脚步明显放轻放缓，蓝布鞋并排放旁边。",
+      "action": "暖室内光，轻松安静。",
+      "visual_description": "暖室内光，轻松安静。",
+      "emotional_performance": "Pipi feels lighter and more at ease, posture loose and gentle.",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_24.png",
+      "prompt_file": "prompts/shot_24.json",
+      "reference_manifest": "references/shot_24.json",
+      "continuity_refs": "见continuity.json对应asset_id与shot_states；位置、外形、状态沿镜头承接。",
+      "state_before": "皮皮在屋内关门并脱下蓝布鞋；背包和鞋留在入口。",
+      "state_after": "皮皮赤脚走在羊毛地垫上，脚步放轻放慢。",
+      "transition_from": 23,
+      "visual_constraints": "单一竖屏水彩画，无画中文字、水印、拼贴边框或额外角色。画面下方保留低细节字幕区；叶子、鞋、花盆、床、拖鞋和胡萝卜玩偶的数量/位置按continuity.json。",
+      "environment_reference": null,
+      "speech_start_s": 187.6993333333333,
+      "speech_end_s": 197.04733266666665,
+      "actual_start_s": 187.24,
+      "actual_end_s": 197.48,
+      "visible_start_s": 186.76000000000002,
+      "visible_end_s": 197.95999999999998,
+      "visible_duration_s": 11.2
+    },
+    {
+      "id": 25,
+      "title": "慢慢坐上小木床",
+      "text": "那条暖黄色的毛毯，早就敞开怀抱等着盖住他的脚尖了。",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u02",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 25
+        }
+      ],
+      "paragraph_id": "p006",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "洗漱后，穿柔软睡衣与星星睡帽的皮皮把两只毛绒小拖鞋摆在床边，慢慢坐上小木床。",
+      "action": "两只拖鞋并排；卧室床、窗、床头柜布局固定。",
+      "visual_description": "两只拖鞋并排；卧室床、窗、床头柜布局固定。",
+      "emotional_performance": "Pipi is relaxed and pleasantly sleepy, eyes soft but not sad; placing the slippers is a small bedtime routine.",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_25.png",
+      "prompt_file": "prompts/shot_25.json",
+      "reference_manifest": "references/shot_25.json",
+      "continuity_refs": "见continuity.json对应asset_id与shot_states；位置、外形、状态沿镜头承接。",
+      "state_before": "皮皮赤脚走在羊毛地垫上，脚步放轻放慢。",
+      "state_after": "洗漱后的皮皮已换睡衣，在床边放好两只拖鞋并坐到床上。",
+      "transition_from": 24,
+      "visual_constraints": "单一竖屏水彩画，无画中文字、水印、拼贴边框或额外角色。画面下方保留低细节字幕区；叶子、鞋、花盆、床、拖鞋和胡萝卜玩偶的数量/位置按continuity.json。",
+      "environment_reference": "images/shot_24.png",
+      "speech_start_s": 197.93206249999997,
+      "speech_end_s": 205.28924933333332,
+      "actual_start_s": 197.48,
+      "actual_end_s": 205.72,
+      "visible_start_s": 197.0,
+      "visible_end_s": 206.2,
+      "visible_duration_s": 9.2
+    },
+    {
+      "id": 26,
+      "title": "暖黄毛毯盖住脚尖",
+      "text": "夜深了，窗外偶尔有一片落叶被风吹得翻了个身，发出一丁点儿极远极轻的“沙”声。",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u03",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 38
+        }
+      ],
+      "paragraph_id": "p006",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "暖黄色毛毯轻轻盖到皮皮的脚尖，床上氛围舒适而安静。",
+      "action": "同一小木床与黄色毛毯，动作轻柔。",
+      "visual_description": "同一小木床与黄色毛毯，动作轻柔。",
+      "emotional_performance": "Pipi sits quietly, calm and secure; no heavy sleepy frown.",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_26.png",
+      "prompt_file": "prompts/shot_26.json",
+      "reference_manifest": "references/shot_26.json",
+      "continuity_refs": "见continuity.json对应asset_id与shot_states；位置、外形、状态沿镜头承接。",
+      "state_before": "洗漱后的皮皮已换睡衣，在床边放好两只拖鞋并坐到床上。",
+      "state_after": "暖黄色毛毯盖住皮皮脚尖。",
+      "transition_from": 25,
+      "visual_constraints": "单一竖屏水彩画，无画中文字、水印、拼贴边框或额外角色。画面下方保留低细节字幕区；叶子、鞋、花盆、床、拖鞋和胡萝卜玩偶的数量/位置按continuity.json。",
+      "environment_reference": "images/shot_24.png",
+      "speech_start_s": 206.16118749999998,
+      "speech_end_s": 216.73352016666664,
+      "actual_start_s": 205.72,
+      "actual_end_s": 217.16,
+      "visible_start_s": 205.24,
+      "visible_end_s": 217.64,
+      "visible_duration_s": 12.4
+    },
+    {
+      "id": 27,
+      "title": "深夜树叶翻了个身",
+      "text": "皮皮听见了，但他知道，自己已经不需要再穿鞋出去，跟着那片叶子一起往前走了。",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u04",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 37
+        }
+      ],
+      "paragraph_id": "p006",
+      "characters": [],
+      "outfits": {},
+      "setting": "窗外夜深，一片落叶被微风轻轻翻了个身，极远处的树影柔和。",
+      "action": "外景叶子只作远处环境，不与门口那片叶混作同一片。",
+      "visual_description": "外景叶子只作远处环境，不与门口那片叶混作同一片。",
+      "emotional_performance": "No visible character; deep-night stillness.",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_27.png",
+      "prompt_file": "prompts/shot_27.json",
+      "reference_manifest": "references/shot_27.json",
+      "continuity_refs": "见continuity.json对应asset_id与shot_states；位置、外形、状态沿镜头承接。",
+      "state_before": "暖黄色毛毯盖住皮皮脚尖。",
+      "state_after": "窗外一片叶子在深夜微风中翻身，发出很轻的声音。",
+      "transition_from": 26,
+      "visual_constraints": "单一竖屏水彩画，无画中文字、水印、拼贴边框或额外角色。画面下方保留低细节字幕区；叶子、鞋、花盆、床、拖鞋和胡萝卜玩偶的数量/位置按continuity.json。",
+      "environment_reference": "images/shot_24.png",
+      "speech_start_s": 217.6262708333333,
+      "speech_end_s": 228.77560316666666,
+      "actual_start_s": 217.16,
+      "actual_end_s": 229.2,
+      "visible_start_s": 216.68,
+      "visible_end_s": 229.67999999999998,
+      "visible_duration_s": 13.0
+    },
+    {
+      "id": 28,
+      "title": "窗外传来轻轻沙声",
+      "text": "皮皮抱好胡萝卜玩偶，闭上眼睛。",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u01",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 15
+        }
+      ],
+      "paragraph_id": "p007",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "皮皮听见窗外极轻的沙声，安心留在床上，没有穿鞋出去。",
+      "action": "皮皮在床上不动，拖鞋仍在床边。",
+      "visual_description": "皮皮在床上不动，拖鞋仍在床边。",
+      "emotional_performance": "Pipi hears the faraway sound with a peaceful, reassured expression and stays tucked in.",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_28.png",
+      "prompt_file": "prompts/shot_28.json",
+      "reference_manifest": "references/shot_28.json",
+      "continuity_refs": "见continuity.json对应asset_id与shot_states；位置、外形、状态沿镜头承接。",
+      "state_before": "窗外一片叶子在深夜微风中翻身，发出很轻的声音。",
+      "state_after": "皮皮听见窗外沙声，但留在床上，不穿鞋出门。",
+      "transition_from": 27,
+      "visual_constraints": "单一竖屏水彩画，无画中文字、水印、拼贴边框或额外角色。画面下方保留低细节字幕区；叶子、鞋、花盆、床、拖鞋和胡萝卜玩偶的数量/位置按continuity.json。",
+      "environment_reference": "images/shot_24.png",
+      "speech_start_s": 229.66324999999998,
+      "speech_end_s": 233.88779099999996,
+      "actual_start_s": 229.2,
+      "actual_end_s": 234.36,
+      "visible_start_s": 228.72,
+      "visible_end_s": 234.84,
+      "visible_duration_s": 6.12
+    },
+    {
+      "id": 29,
+      "title": "皮皮听见却不再出门",
+      "text": "今天走过的所有路，都已经稳稳地留在了身后。",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u02",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 21
+        }
+      ],
+      "paragraph_id": "p007",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "皮皮抱住一个橙色胡萝卜玩偶，舒服地闭上眼睛，柔软毛毯盖好。",
+      "action": "只出现一个胡萝卜玩偶，睡帽、耳朵与床铺保持连续。",
+      "visual_description": "只出现一个胡萝卜玩偶，睡帽、耳朵与床铺保持连续。",
+      "emotional_performance": "Pipi hugs the carrot plush with a content little smile as his eyes close.",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_29.png",
+      "prompt_file": "prompts/shot_29.json",
+      "reference_manifest": "references/shot_29.json",
+      "continuity_refs": "见continuity.json对应asset_id与shot_states；位置、外形、状态沿镜头承接。",
+      "state_before": "皮皮听见窗外沙声，但留在床上，不穿鞋出门。",
+      "state_after": "皮皮抱住唯一的胡萝卜玩偶并闭上眼睛。",
+      "transition_from": 28,
+      "visual_constraints": "单一竖屏水彩画，无画中文字、水印、拼贴边框或额外角色。画面下方保留低细节字幕区；叶子、鞋、花盆、床、拖鞋和胡萝卜玩偶的数量/位置按continuity.json。",
+      "environment_reference": "images/shot_24.png",
+      "speech_start_s": 234.80225,
+      "speech_end_s": 240.80602016666666,
+      "actual_start_s": 234.36,
+      "actual_end_s": 241.24,
+      "visible_start_s": 233.88000000000002,
+      "visible_end_s": 241.72,
+      "visible_duration_s": 7.84
+    },
+    {
+      "id": 30,
+      "title": "把走过的路留在身后",
+      "text": "小朋友，让奔跑了一天的小脚停一停吧。",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u03",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 18
+        }
+      ],
+      "paragraph_id": "p007",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "安静的卧室里，皮皮已经躺好，今天走过的路都留在身后。",
+      "action": "温暖夜间氛围，表情放松。",
+      "visual_description": "温暖夜间氛围，表情放松。",
+      "emotional_performance": "Pipi rests with a settled, peaceful face, no sadness or worry.",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_30.png",
+      "prompt_file": "prompts/shot_30.json",
+      "reference_manifest": "references/shot_30.json",
+      "continuity_refs": "见continuity.json对应asset_id与shot_states；位置、外形、状态沿镜头承接。",
+      "state_before": "皮皮抱住唯一的胡萝卜玩偶并闭上眼睛。",
+      "state_after": "今天走过的路都留在身后。",
+      "transition_from": 29,
+      "visual_constraints": "单一竖屏水彩画，无画中文字、水印、拼贴边框或额外角色。画面下方保留低细节字幕区；叶子、鞋、花盆、床、拖鞋和胡萝卜玩偶的数量/位置按continuity.json。",
+      "environment_reference": "images/shot_24.png",
+      "speech_start_s": 241.69197916666664,
+      "speech_end_s": 246.49229066666663,
+      "actual_start_s": 241.24,
+      "actual_end_s": 246.96,
+      "visible_start_s": 240.76000000000002,
+      "visible_end_s": 247.44,
+      "visible_duration_s": 6.68
+    },
+    {
+      "id": 31,
+      "title": "抱住胡萝卜玩偶入睡",
+      "text": "今晚所有的路都走完啦，我们的目的地，就是这张温暖舒服的小床。",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u04",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 30
+        }
+      ],
+      "paragraph_id": "p007",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "温暖床铺与被褥照顾奔跑了一天的小脚，邀请小朋友也歇一歇。",
+      "action": "重点是覆盖在毛毯下的小脚和柔软床铺，不加文字。",
+      "visual_description": "重点是覆盖在毛毯下的小脚和柔软床铺，不加文字。",
+      "emotional_performance": "No face close-up; warm blanket and little feet suggest gentle rest.",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_31.png",
+      "prompt_file": "prompts/shot_31.json",
+      "reference_manifest": "references/shot_31.json",
+      "continuity_refs": "见continuity.json对应asset_id与shot_states；位置、外形、状态沿镜头承接。",
+      "state_before": "今天走过的路都留在身后。",
+      "state_after": "卧室暖被照顾奔跑一天的小脚，小脚停下来休息。",
+      "transition_from": 30,
+      "visual_constraints": "单一竖屏水彩画，无画中文字、水印、拼贴边框或额外角色。画面下方保留低细节字幕区；叶子、鞋、花盆、床、拖鞋和胡萝卜玩偶的数量/位置按continuity.json。",
+      "environment_reference": "images/shot_24.png",
+      "speech_start_s": 247.39252083333332,
+      "speech_end_s": 255.5621865,
+      "actual_start_s": 246.96,
+      "actual_end_s": 256.04,
+      "visible_start_s": 246.48000000000002,
+      "visible_end_s": 256.52000000000004,
+      "visible_duration_s": 10.04
+    },
+    {
+      "id": 32,
+      "title": "晚安：小脚停一停",
+      "text": "晚安。",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u05",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 3
+        }
+      ],
+      "paragraph_id": "p007",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "皮皮安睡在温暖舒服的小木床上，窗外深蓝安静，画面柔和地收在晚安。",
+      "action": "静态宽景，预留字幕区，适合接约8秒安静尾声。",
+      "visual_description": "静态宽景，预留字幕区，适合接约8秒安静尾声。",
+      "emotional_performance": "Pipi sleeps comfortably and peacefully; ears relaxed on the pillow.",
+      "reality": "story_time",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_32.png",
+      "prompt_file": "prompts/shot_32.json",
+      "reference_manifest": "references/shot_32.json",
+      "continuity_refs": "见continuity.json对应asset_id与shot_states；位置、外形、状态沿镜头承接。",
+      "state_before": "卧室暖被照顾奔跑一天的小脚，小脚停下来休息。",
+      "state_after": "皮皮安睡在温暖小床，画面进入晚安静止尾声。",
+      "transition_from": 31,
+      "visual_constraints": "单一竖屏水彩画，无画中文字、水印、拼贴边框或额外角色。画面下方保留低细节字幕区；叶子、鞋、花盆、床、拖鞋和胡萝卜玩偶的数量/位置按continuity.json。",
+      "environment_reference": "images/shot_24.png",
+      "speech_start_s": 256.4852916666667,
+      "speech_end_s": 257.2515823333334,
+      "actual_start_s": 256.04,
+      "actual_end_s": 265.44,
+      "visible_start_s": 255.56000000000003,
+      "visible_end_s": 265.44,
+      "visible_duration_s": 9.88
+    }
+  ],
+  "shot_count": 33,
+  "total_duration_s": 265.44,
+  "max_visible_duration_s": 13.0
+}

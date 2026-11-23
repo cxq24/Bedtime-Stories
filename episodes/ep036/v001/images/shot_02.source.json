@@ -1,0 +1,14 @@
+{
+  "image": "episodes/ep036/v001/images/shot_02.png",
+  "source": "OpenAI image_gen",
+  "generated_on": "2026-11-23",
+  "loaded_references": [],
+  "reference_manifest": "episodes/ep036/v001/references/shot_02.json",
+  "prompt_file": "episodes/ep036/v001/prompts/shot_02.json",
+  "sha256": "3e907d2deb567b66318353a117d97a55ba305a5d2dfa43d259c1d3b4a355bb31",
+  "size": [
+    941,
+    1672
+  ],
+  "review_status": "assistant_visually_reviewed_contact_sheet_33_shots"
+}

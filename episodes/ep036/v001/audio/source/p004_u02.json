@@ -1,0 +1,119 @@
+{
+  "text": "只见刚才还热闹作响的那条短短的落叶小路，此时已经重新恢复了平静，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "45b0c70f338bd3f5a22656d4aee8cb3b25c2e84f30866e28b0f3e8a9473d0c5c",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5577080,
+      "text": "只见"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 7307500,
+      "text": "刚才"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14730830,
+      "duration": 2884580,
+      "text": "还"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17615410,
+      "duration": 4615410,
+      "text": "热闹"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22422910,
+      "duration": 5961660,
+      "text": "作响"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28384580,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29730830,
+      "duration": 2307500,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32038330,
+      "duration": 3653750,
+      "text": "条"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36077080,
+      "duration": 5961250,
+      "text": "短短"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42038330,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43769160,
+      "duration": 4038330,
+      "text": "落叶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48000000,
+      "duration": 7692500,
+      "text": "小路"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60884580,
+      "duration": 8269160,
+      "text": "此时"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 69346250,
+      "duration": 4615410,
+      "text": "已经"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 74153750,
+      "duration": 6922910,
+      "text": "重新"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 81269160,
+      "duration": 5384580,
+      "text": "恢复"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 86653750,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 88000000,
+      "duration": 7692500,
+      "text": "平静"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "text": "皮皮听见了，但他知道，自己已经不需要再穿鞋出去，跟着那片叶子一起往前走了。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "83defdaeaabfaa1114a8a6ba78ab0fc5a89bb8af1f7d71d1e1eb6588233eb573",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4615410,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6077080,
+      "duration": 7500000,
+      "text": "听见"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13577080,
+      "duration": 2884580,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21077080,
+      "duration": 2307500,
+      "text": "但"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23384580,
+      "duration": 1922910,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25500000,
+      "duration": 7115410,
+      "text": "知道"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37422910,
+      "duration": 5192500,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42807500,
+      "duration": 4230830,
+      "text": "已经"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47422910,
+      "duration": 2115410,
+      "text": "不"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 49538330,
+      "duration": 5192500,
+      "text": "需要"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55115410,
+      "duration": 2307500,
+      "text": "再"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57422910,
+      "duration": 5769160,
+      "text": "穿鞋"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63384580,
+      "duration": 6922910,
+      "text": "出去"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75115410,
+      "duration": 3653750,
+      "text": "跟着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78961660,
+      "duration": 2115410,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 81077080,
+      "duration": 3077080,
+      "text": "片"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 84346250,
+      "duration": 8077080,
+      "text": "叶子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 93961660,
+      "duration": 5192500,
+      "text": "一起"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 99346250,
+      "duration": 6538330,
+      "text": "往前"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 106077080,
+      "duration": 3653750,
+      "text": "走"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 109730830,
+      "duration": 3269160,
+      "text": "了"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "episodes/ep036/v001/images/shot_20.png",
+  "source": "OpenAI image_gen",
+  "generated_on": "2026-11-23",
+  "loaded_references": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "images/shot_12.png"
+  ],
+  "reference_manifest": "episodes/ep036/v001/references/shot_20.json",
+  "prompt_file": "episodes/ep036/v001/prompts/shot_20.json",
+  "sha256": "b60c1ed389f23a9725862b96b9d8140c04bafec5dd815b97d320329c8e6513b9",
+  "size": [
+    941,
+    1672
+  ],
+  "review_status": "assistant_visually_reviewed_contact_sheet_33_shots"
+}

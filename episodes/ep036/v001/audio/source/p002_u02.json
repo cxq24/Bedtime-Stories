@@ -1,0 +1,47 @@
+{
+  "text": "落叶又发出“咔嚓”的脆响。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "18bc152d60582a4593ab076f717222defe2938d4e1bf844a7f4fe1d12eab5813",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 7692500,
+      "text": "落叶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9346250,
+      "duration": 3269160,
+      "text": "又"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12615410,
+      "duration": 5384580,
+      "text": "发出"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18384580,
+      "duration": 5384580,
+      "text": "咔嚓"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23769160,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25307500,
+      "duration": 8653750,
+      "text": "脆响"
+    }
+  ]
+}
