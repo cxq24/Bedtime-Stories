@@ -68,7 +68,8 @@
     "latest_video_sync_commit": "61e201e",
     "latest_video_sync_date": "2026-11-23",
     "latest_video_sync_scope": "ep035_v001_main_and_clean_videos",
-    "latest_sync_scope": "complete_ep035_v001_project_and_delivery_including_main_and_clean_videos"
+    "latest_sync_scope": "complete_ep035_v001_project_and_delivery_including_main_and_clean_videos",
+    "latest_sync_record_commit": "92cd6a5"
   },
   "publication": "not_published",
   "latest_production": {
@@ -92,7 +93,8 @@
     "human_full_watch": "not_certified",
     "github_sync_commit": "61e201e",
     "github_sync_date": "2026-11-23",
-    "github_sync_scope": "complete_ep035_v001_project_and_delivery_including_main_and_clean_videos"
+    "github_sync_scope": "complete_ep035_v001_project_and_delivery_including_main_and_clean_videos",
+    "github_sync_record_commit": "92cd6a5"
   },
   "previous_production": {
     "id": "ep027",
@@ -138,7 +140,8 @@
     "human_full_watch": "not_certified",
     "github_sync_commit": "61e201e",
     "github_sync_date": "2026-11-23",
-    "github_sync_scope": "complete_ep035_v001_project_and_delivery_including_main_and_clean_videos"
+    "github_sync_scope": "complete_ep035_v001_project_and_delivery_including_main_and_clean_videos",
+    "github_sync_record_commit": "92cd6a5"
   },
   "previous_script_version": "v4",
   "script_revision": {
@@ -188,7 +191,8 @@
       "human_full_watch": "not_certified",
       "github_sync_commit": "61e201e",
       "github_sync_date": "2026-11-23",
-      "github_sync_scope": "complete_ep035_v001_project_and_delivery_including_main_and_clean_videos"
+      "github_sync_scope": "complete_ep035_v001_project_and_delivery_including_main_and_clean_videos",
+      "github_sync_record_commit": "92cd6a5"
     },
     {
       "id": "ep034",
