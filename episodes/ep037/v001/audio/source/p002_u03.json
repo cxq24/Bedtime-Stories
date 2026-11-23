@@ -1,0 +1,65 @@
+{
+  "text": "正好停在了皮皮家的木头窗台上。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "24d872a4a8b7a7b62f0e856a2c1fb2d5e132bf54dd972720f54d07521846a578",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 7115410,
+      "text": "正好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8577080,
+      "duration": 3461250,
+      "text": "停"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12038330,
+      "duration": 2692500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14730830,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16269160,
+      "duration": 7884580,
+      "text": "皮皮家"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24153750,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25884580,
+      "duration": 4422910,
+      "text": "木头"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30500000,
+      "duration": 6730830,
+      "text": "窗台"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37230830,
+      "duration": 4615410,
+      "text": "上"
+    }
+  ]
+}

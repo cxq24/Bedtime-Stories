@@ -1,0 +1,17 @@
+{
+  "text": "落里。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "be40502cb376de3d4ca212c059589baf8f915a65cda1c7baf9c33d210b14dd3b",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 9038330,
+      "text": "落里"
+    }
+  ]
+}

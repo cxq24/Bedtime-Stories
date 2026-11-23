@@ -1,0 +1,53 @@
+{
+  "text": "皮皮洗漱完躺回枕头上。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "7a6d708803831bf7f8948f075468fe17f1ab166116b522e1f1c8775db760cb66",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5577080,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 5384580,
+      "text": "洗漱"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12422910,
+      "duration": 4807500,
+      "text": "完"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18769160,
+      "duration": 3461660,
+      "text": "躺"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22230830,
+      "duration": 2500000,
+      "text": "回"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24922910,
+      "duration": 5961660,
+      "text": "枕头"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30884580,
+      "duration": 4807500,
+      "text": "上"
+    }
+  ]
+}

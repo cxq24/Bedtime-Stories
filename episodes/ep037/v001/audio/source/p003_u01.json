@@ -1,0 +1,95 @@
+{
+  "text": "皮皮把小爪子停在窗台旁边，没有冒失地去抓它，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "6279c4193b5b4f6a83ac66562b97118dc6e39ea9372fe2c84002fe0c223cf268",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5000000,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6653750,
+      "duration": 2115410,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8769160,
+      "duration": 3461660,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12230830,
+      "duration": 6538330,
+      "text": "爪子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19153750,
+      "duration": 2692500,
+      "text": "停"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21846250,
+      "duration": 2115410,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24153750,
+      "duration": 5000000,
+      "text": "窗台"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29346250,
+      "duration": 8269160,
+      "text": "旁边"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41846250,
+      "duration": 4038330,
+      "text": "没有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46077080,
+      "duration": 5384580,
+      "text": "冒失"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51461660,
+      "duration": 1538330,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53384580,
+      "duration": 2115410,
+      "text": "去"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55692500,
+      "duration": 3653750,
+      "text": "抓"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59346250,
+      "duration": 4422910,
+      "text": "它"
+    }
+  ]
+}

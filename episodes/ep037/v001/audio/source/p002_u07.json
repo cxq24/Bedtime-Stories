@@ -1,0 +1,41 @@
+{
+  "text": "怎么也停不稳当。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "4bdbfe296845ba5132afa9f362224730651d062dae64e7d039b417f6e25245cf",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4230830,
+      "text": "怎么"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5692500,
+      "duration": 1922910,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7807500,
+      "duration": 2884580,
+      "text": "停"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10692500,
+      "duration": 1730410,
+      "text": "不"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12422910,
+      "duration": 7500000,
+      "text": "稳当"
+    }
+  ]
+}

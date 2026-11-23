@@ -1,0 +1,131 @@
+{
+  "text": "现在一定也很想找个不会被风吹跑的地方，安安稳稳地睡一觉吧。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "b1cb686dd1cfb7a4aff1ed14c90d133bfe79397b8ceac2229a74d8dc7ab2f187",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 7500000,
+      "text": "现在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9153750,
+      "duration": 4422910,
+      "text": "一定"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13769160,
+      "duration": 1538330,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15500000,
+      "duration": 3077080,
+      "text": "很"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18577080,
+      "duration": 3269160,
+      "text": "想"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22038330,
+      "duration": 2884580,
+      "text": "找"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24922910,
+      "duration": 2692500,
+      "text": "个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28000000,
+      "duration": 4422910,
+      "text": "不会"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32615410,
+      "duration": 2500000,
+      "text": "被"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35115410,
+      "duration": 2500000,
+      "text": "风"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37807500,
+      "duration": 2692500,
+      "text": "吹"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40500000,
+      "duration": 2884580,
+      "text": "跑"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43384580,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44922910,
+      "duration": 6922910,
+      "text": "地方"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56269160,
+      "duration": 9615410,
+      "text": "安安稳稳"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 65884580,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 67615410,
+      "duration": 3269160,
+      "text": "睡"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 70884580,
+      "duration": 1538330,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 72422910,
+      "duration": 3269160,
+      "text": "觉"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75692500,
+      "duration": 3653750,
+      "text": "吧"
+    }
+  ]
+}

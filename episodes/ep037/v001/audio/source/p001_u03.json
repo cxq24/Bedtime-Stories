@@ -1,0 +1,89 @@
+{
+  "text": "\n大家在草地上跑来跑去，仰着头，竖着耳朵，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "a372b49e896782dfcf6e34c90fd9740969dcab2485b97aa374caf413be2f3b28",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4615410,
+      "text": "大家"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6077080,
+      "duration": 2307500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8384580,
+      "duration": 5577080,
+      "text": "草地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14153750,
+      "duration": 3077080,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17230830,
+      "duration": 4230830,
+      "text": "跑来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21653750,
+      "duration": 3846250,
+      "text": "跑"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25500000,
+      "duration": 5000000,
+      "text": "去"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34153750,
+      "duration": 3077080,
+      "text": "仰"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37230830,
+      "duration": 1730830,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38961660,
+      "duration": 5192500,
+      "text": "头"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47422910,
+      "duration": 3077080,
+      "text": "竖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50500000,
+      "duration": 1922910,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52615410,
+      "duration": 8077080,
+      "text": "耳朵"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "episode": "ep037",
+  "version": "v001",
+  "checked_on": "2026-11-23",
+  "files": {
+    "ep037.mp4": {
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1080,
+            "height": 1920,
+            "r_frame_rate": "25/1"
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "48000",
+            "channels": 1,
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "262.920000",
+          "size": "55065829"
+        }
+      },
+      "full_decode": "passed (ffmpeg -v error -i ... -f null -)"
+    },
+    "ep037_clean.mp4": {
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1080,
+            "height": 1920,
+            "r_frame_rate": "25/1"
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "48000",
+            "channels": 1,
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "262.920000",
+          "size": "52743807"
+        }
+      },
+      "full_decode": "passed (ffmpeg -v error -i ... -f null -)"
+    }
+  },
+  "comparison": {
+    "same_duration": true,
+    "same_video_spec": true,
+    "duration_s": 262.92,
+    "fps": "25/1",
+    "resolution": "1080x1920",
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "sample_rate_hz": 48000,
+    "channels": 1
+  },
+  "mix": {
+    "source": "original procedural synthesis; no third-party samples",
+    "seed": 1,
+    "music_rms_before_fade": 0.0045,
+    "ambience_rms_before_fade": 0.00065,
+    "voice_peak": 0.59320068359375,
+    "mix_peak": 0.593157947063446,
+    "voice_sha256": "e25521efd92fff51ecdf0c293a891eb7d2d02d1ad8d8f9ec3891aedf83531949",
+    "duration_s": 262.92,
+    "sample_rate": 48000,
+    "voice_filter_reapplied": false
+  },
+  "human_full_watch": "not_certified"
+}

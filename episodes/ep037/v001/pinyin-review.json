@@ -1,0 +1,762 @@
+{
+  "hanzi": 753,
+  "cues": 132,
+  "pinyin_coverage": 1.0,
+  "context_review": "completed_against_episode_text",
+  "target_font_px": {
+    "hanzi": 76,
+    "pinyin": 48
+  },
+  "libass_fontsize_calibration": {
+    "hanzi": 114,
+    "pinyin": 66,
+    "reason": "match actual rasterized glyph scale to bundled-font 76px/48px reference; libass normalizes font metrics"
+  },
+  "audio_pronunciation_listen_review": "not_certified",
+  "overrides": [
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "小朋友们，准备好听故事了吗？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "羽毛",
+      "pinyin": [
+        "yǔ",
+        "máo"
+      ],
+      "context": "今天的故事叫《一根羽毛的休息》。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "落下来",
+      "pinyin": [
+        "luò",
+        "xià",
+        "lái"
+      ],
+      "context": "一根轻轻的羽毛落下来，能不能找到安稳休息的地方呢？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "地方",
+      "pinyin": [
+        "dì",
+        "fang"
+      ],
+      "context": "一根轻轻的羽毛落下来，能不能找到安稳休息的地方呢？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "羽毛",
+      "pinyin": [
+        "yǔ",
+        "máo"
+      ],
+      "context": "一根轻轻的羽毛落下来，能不能找到安稳休息的地方呢？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "羽毛球拍",
+      "pinyin": [
+        "yǔ",
+        "máo",
+        "qiú",
+        "pāi"
+      ],
+      "context": "今天下午在森林学堂的操场上，山羊老师带着大家玩“羽毛球拍托气",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "羽毛",
+      "pinyin": [
+        "yǔ",
+        "máo"
+      ],
+      "context": "今天下午在森林学堂的操场上，山羊老师带着大家玩“羽毛球拍托气",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "气球",
+      "pinyin": [
+        "qì",
+        "qiú"
+      ],
+      "context": "眼睛一刻也不眨地盯着空中飘浮的气球，生怕它掉在地上。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "长耳朵",
+      "pinyin": [
+        "cháng",
+        "ěr",
+        "duo"
+      ],
+      "context": "皮皮玩得特别投入，连两只长耳朵都一直高高地竖着。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮玩得特别投入，连两只长耳朵都一直高高地竖着。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "傍晚放学回到家，皮皮推开卧室的窗户透气时，一阵秋风吹过，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "落了",
+      "pinyin": [
+        "luò",
+        "le"
+      ],
+      "context": "一根洁白干净的小鸟羽毛，从树冠间飘飘悠悠地落了下来，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "羽毛",
+      "pinyin": [
+        "yǔ",
+        "máo"
+      ],
+      "context": "一根洁白干净的小鸟羽毛，从树冠间飘飘悠悠地落了下来，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "飘飘悠悠",
+      "pinyin": [
+        "piāo",
+        "piāo",
+        "yōu",
+        "yōu"
+      ],
+      "context": "一根洁白干净的小鸟羽毛，从树冠间飘飘悠悠地落了下来，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "洁白干净",
+      "pinyin": [
+        "jié",
+        "bái",
+        "gān",
+        "jìng"
+      ],
+      "context": "一根洁白干净的小鸟羽毛，从树冠间飘飘悠悠地落了下来，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "正好停在了皮皮家的木头窗台上。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "窗台",
+      "pinyin": [
+        "chuāng",
+        "tái"
+      ],
+      "context": "正好停在了皮皮家的木头窗台上。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "羽毛",
+      "pinyin": [
+        "yǔ",
+        "máo"
+      ],
+      "context": "\n那根小羽毛实在是太轻、太软了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "点儿",
+      "pinyin": [
+        "diǎnr",
+        "r"
+      ],
+      "context": "窗外只要有一丁点儿微风经过，羽毛尖上细细的绒毛就会轻轻发抖，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "羽毛",
+      "pinyin": [
+        "yǔ",
+        "máo"
+      ],
+      "context": "窗外只要有一丁点儿微风经过，羽毛尖上细细的绒毛就会轻轻发抖，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒毛",
+      "pinyin": [
+        "róng",
+        "máo"
+      ],
+      "context": "窗外只要有一丁点儿微风经过，羽毛尖上细细的绒毛就会轻轻发抖，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "羽毛",
+      "pinyin": [
+        "yǔ",
+        "máo"
+      ],
+      "context": "整根羽毛也在光滑的窗台木板上转来转去，好像还带着白天的风，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "转来转去",
+      "pinyin": [
+        "zhuàn",
+        "lái",
+        "zhuàn",
+        "qù"
+      ],
+      "context": "整根羽毛也在光滑的窗台木板上转来转去，好像还带着白天的风，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "窗台",
+      "pinyin": [
+        "chuāng",
+        "tái"
+      ],
+      "context": "整根羽毛也在光滑的窗台木板上转来转去，好像还带着白天的风，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "爪子",
+      "pinyin": [
+        "zhuǎ",
+        "zi"
+      ],
+      "context": "皮皮把小爪子停在窗台旁边，没有冒失地去抓它，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮把小爪子停在窗台旁边，没有冒失地去抓它，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "窗台",
+      "pinyin": [
+        "chuāng",
+        "tái"
+      ],
+      "context": "皮皮把小爪子停在窗台旁边，没有冒失地去抓它，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "窗框",
+      "pinyin": [
+        "chuāng",
+        "kuàng"
+      ],
+      "context": "只是静静地看它转了半个方向，又慢吞吞地靠回窗框边。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "只是静静地看它转了半个方向，又慢吞吞地靠回窗框边。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "\n皮皮心想：这根小羽毛在天上飞了那么久，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "羽毛",
+      "pinyin": [
+        "yǔ",
+        "máo"
+      ],
+      "context": "\n皮皮心想：这根小羽毛在天上飞了那么久，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "地方",
+      "pinyin": [
+        "dì",
+        "fang"
+      ],
+      "context": "现在一定也很想找个不会被风吹跑的地方，安安稳稳地睡一觉吧。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "现在一定也很想找个不会被风吹跑的地方，安安稳稳地睡一觉吧。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "安安稳稳",
+      "pinyin": [
+        "ān",
+        "ān",
+        "wěn",
+        "wěn"
+      ],
+      "context": "现在一定也很想找个不会被风吹跑的地方，安安稳稳地睡一觉吧。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "于是，皮皮转身从书架上找来了一只浅浅的圆形小木碟，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "浅浅",
+      "pinyin": [
+        "qiǎn",
+        "qiǎn"
+      ],
+      "context": "于是，皮皮转身从书架上找来了一只浅浅的圆形小木碟，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "木碟",
+      "pinyin": [
+        "mù",
+        "dié"
+      ],
+      "context": "于是，皮皮转身从书架上找来了一只浅浅的圆形小木碟，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "粗糙",
+      "pinyin": [
+        "cū",
+        "cāo"
+      ],
+      "context": "在碟子底部铺上了一小片有些粗糙纹理的纯棉布，然后屏住呼吸，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "纯棉",
+      "pinyin": [
+        "chún",
+        "mián"
+      ],
+      "context": "在碟子底部铺上了一小片有些粗糙纹理的纯棉布，然后屏住呼吸，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "屏住呼吸",
+      "pinyin": [
+        "bǐng",
+        "zhù",
+        "hū",
+        "xī"
+      ],
+      "context": "在碟子底部铺上了一小片有些粗糙纹理的纯棉布，然后屏住呼吸，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "轻轻地",
+      "pinyin": [
+        "qīng",
+        "qīng",
+        "de"
+      ],
+      "context": "捏起羽毛根部，把它轻轻地放进了木碟里。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "羽毛",
+      "pinyin": [
+        "yǔ",
+        "máo"
+      ],
+      "context": "捏起羽毛根部，把它轻轻地放进了木碟里。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "木碟",
+      "pinyin": [
+        "mù",
+        "dié"
+      ],
+      "context": "捏起羽毛根部，把它轻轻地放进了木碟里。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "捏起",
+      "pinyin": [
+        "niē",
+        "qǐ"
+      ],
+      "context": "捏起羽毛根部，把它轻轻地放进了木碟里。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "羽毛",
+      "pinyin": [
+        "yǔ",
+        "máo"
+      ],
+      "context": "\n有了棉布温柔的摩擦力，小羽毛一下子就有了平稳的依靠，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "摩擦力",
+      "pinyin": [
+        "mó",
+        "cā",
+        "lì"
+      ],
+      "context": "\n有了棉布温柔的摩擦力，小羽毛一下子就有了平稳的依靠，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "依靠",
+      "pinyin": [
+        "yī",
+        "kào"
+      ],
+      "context": "\n有了棉布温柔的摩擦力，小羽毛一下子就有了平稳的依靠，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "窗框",
+      "pinyin": [
+        "chuāng",
+        "kuàng"
+      ],
+      "context": "再也不会在光滑的窗台上乱滑、乱撞窗框了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "窗台",
+      "pinyin": [
+        "chuāng",
+        "tái"
+      ],
+      "context": "再也不会在光滑的窗台上乱滑、乱撞窗框了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒毛",
+      "pinyin": [
+        "róng",
+        "máo"
+      ],
+      "context": "它边缘那些细细密密的白色绒毛，也终于放心地舒展开来。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "舒展开来",
+      "pinyin": [
+        "shū",
+        "zhǎn",
+        "kāi",
+        "lái"
+      ],
+      "context": "它边缘那些细细密密的白色绒毛，也终于放心地舒展开来。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮把这只盛着羽毛的小木碟，挪到了窗台内侧一个不挡风的安静角",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "皮皮把这只盛着羽毛的小木碟，挪到了窗台内侧一个不挡风的安静角",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "羽毛",
+      "pinyin": [
+        "yǔ",
+        "máo"
+      ],
+      "context": "皮皮把这只盛着羽毛的小木碟，挪到了窗台内侧一个不挡风的安静角",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "窗台",
+      "pinyin": [
+        "chuāng",
+        "tái"
+      ],
+      "context": "皮皮把这只盛着羽毛的小木碟，挪到了窗台内侧一个不挡风的安静角",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "木碟",
+      "pinyin": [
+        "mù",
+        "dié"
+      ],
+      "context": "皮皮把这只盛着羽毛的小木碟，挪到了窗台内侧一个不挡风的安静角",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "不挡风",
+      "pinyin": [
+        "bù",
+        "dǎng",
+        "fēng"
+      ],
+      "context": "皮皮把这只盛着羽毛的小木碟，挪到了窗台内侧一个不挡风的安静角",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "摇晃",
+      "pinyin": [
+        "yáo",
+        "huàng"
+      ],
+      "context": "这样，外面的窗帘依然有地方轻轻摇晃，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "窗帘",
+      "pinyin": [
+        "chuāng",
+        "lián"
+      ],
+      "context": "这样，外面的窗帘依然有地方轻轻摇晃，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "地方",
+      "pinyin": [
+        "dì",
+        "fang"
+      ],
+      "context": "这样，外面的窗帘依然有地方轻轻摇晃，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "小窝",
+      "pinyin": [
+        "xiǎo",
+        "wō"
+      ],
+      "context": "而小羽毛也有了安稳停歇的小窝。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "羽毛",
+      "pinyin": [
+        "yǔ",
+        "máo"
+      ],
+      "context": "而小羽毛也有了安稳停歇的小窝。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "羽毛",
+      "pinyin": [
+        "yǔ",
+        "máo"
+      ],
+      "context": "\n天色渐渐暗透了，小木碟里的白羽毛映着一小块银色的月光，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "木碟",
+      "pinyin": [
+        "mù",
+        "dié"
+      ],
+      "context": "\n天色渐渐暗透了，小木碟里的白羽毛映着一小块银色的月光，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "渐渐暗透",
+      "pinyin": [
+        "jiàn",
+        "jiàn",
+        "àn",
+        "tòu"
+      ],
+      "context": "\n天色渐渐暗透了，小木碟里的白羽毛映着一小块银色的月光，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮洗漱完躺回枕头上。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "长耳朵",
+      "pinyin": [
+        "cháng",
+        "ěr",
+        "duo"
+      ],
+      "context": "他摸了摸自己竖了一整天的两只长耳朵，也让它们像那根小羽毛一样，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "羽毛",
+      "pinyin": [
+        "yǔ",
+        "máo"
+      ],
+      "context": "他摸了摸自己竖了一整天的两只长耳朵，也让它们像那根小羽毛一样，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "轻轻地",
+      "pinyin": [
+        "qīng",
+        "qīng",
+        "de"
+      ],
+      "context": "轻轻地、软软地落在了枕头两边，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "软软地",
+      "pinyin": [
+        "ruǎn",
+        "ruǎn",
+        "de"
+      ],
+      "context": "轻轻地、软软地落在了枕头两边，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "不用",
+      "pinyin": [
+        "bú",
+        "yòng"
+      ],
+      "context": "不用再一直竖着去听外面的动静了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "胡萝卜",
+      "pinyin": [
+        "hú",
+        "luó",
+        "bo"
+      ],
+      "context": "\n他抱住胡萝卜玩偶，闭上眼睛。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "兔子",
+      "pinyin": [
+        "tù",
+        "zi"
+      ],
+      "context": "窗台上的小羽毛，和小床上的小兔子，都已经安顿好了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "羽毛",
+      "pinyin": [
+        "yǔ",
+        "máo"
+      ],
+      "context": "窗台上的小羽毛，和小床上的小兔子，都已经安顿好了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "窗台",
+      "pinyin": [
+        "chuāng",
+        "tái"
+      ],
+      "context": "窗台上的小羽毛，和小床上的小兔子，都已经安顿好了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "小朋友，把你身体里还绷着的小肩膀、小拳头，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绷着",
+      "pinyin": [
+        "bēng",
+        "zhe"
+      ],
+      "context": "小朋友，把你身体里还绷着的小肩膀、小拳头，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "小拳头",
+      "pinyin": [
+        "xiǎo",
+        "quán",
+        "tou"
+      ],
+      "context": "小朋友，把你身体里还绷着的小肩膀、小拳头，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "小肩膀",
+      "pinyin": [
+        "xiǎo",
+        "jiān",
+        "bǎng"
+      ],
+      "context": "小朋友，把你身体里还绷着的小肩膀、小拳头，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "羽毛",
+      "pinyin": [
+        "yǔ",
+        "máo"
+      ],
+      "context": "也像小羽毛一样慢慢松开吧。",
+      "review": "context_checked_not_audio_listen_certification"
+    }
+  ]
+}

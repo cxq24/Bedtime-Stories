@@ -1,0 +1,101 @@
+{
+  "text": "一根轻轻的羽毛落下来，能不能找到安稳休息的地方呢？",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "cfbfe82a588ceb5f1be7b75d07053fabe419bd32f8dec452b7a11a27f8670037",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2500000,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3769160,
+      "duration": 2692500,
+      "text": "根"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 5384580,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12230830,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13961660,
+      "duration": 5192500,
+      "text": "羽毛"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19538330,
+      "duration": 2692500,
+      "text": "落"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22230830,
+      "duration": 7500000,
+      "text": "下来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33961660,
+      "duration": 2115410,
+      "text": "能"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36077080,
+      "duration": 3846250,
+      "text": "不能"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40115410,
+      "duration": 6153750,
+      "text": "找到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46653750,
+      "duration": 4615410,
+      "text": "安稳"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51461660,
+      "duration": 5961250,
+      "text": "休息"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57422910,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59153750,
+      "duration": 5577080,
+      "text": "地方"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64730830,
+      "duration": 3653750,
+      "text": "呢"
+    }
+  ]
+}

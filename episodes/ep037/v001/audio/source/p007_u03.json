@@ -1,0 +1,59 @@
+{
+  "text": "让轻轻的夜晚，陪你安稳休息。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "2e9299639ac4ef1860071cb2ae062b2bca92c7bcb6da5445fb08643baa7b9255",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3461660,
+      "text": "让"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5115410,
+      "duration": 5384580,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10500000,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12038330,
+      "duration": 7307500,
+      "text": "夜晚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22615410,
+      "duration": 2884580,
+      "text": "陪"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25500000,
+      "duration": 1730830,
+      "text": "你"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27615410,
+      "duration": 4615410,
+      "text": "安稳"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32422910,
+      "duration": 8077080,
+      "text": "休息"
+    }
+  ]
+}

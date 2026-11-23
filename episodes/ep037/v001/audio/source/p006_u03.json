@@ -1,0 +1,59 @@
+{
+  "text": "轻轻地、软软地落在了枕头两边，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "15893f5b3104fbca62b3195d997cf8cb09631767fde5265055390f9cf0b11270",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 7307500,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8577080,
+      "duration": 3846250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16077080,
+      "duration": 6153750,
+      "text": "软软"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22230830,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23961660,
+      "duration": 5192080,
+      "text": "落在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29153750,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30884580,
+      "duration": 5384580,
+      "text": "枕头"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36461660,
+      "duration": 7884580,
+      "text": "两边"
+    }
+  ]
+}

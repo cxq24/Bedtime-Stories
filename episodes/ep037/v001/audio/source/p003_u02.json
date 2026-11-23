@@ -1,0 +1,107 @@
+{
+  "text": "只是静静地看它转了半个方向，又慢吞吞地靠回窗框边。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "13628988d9baddec356a428a214f866faff76483c97bce6f5533af4845019660",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5192500,
+      "text": "只是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 5961250,
+      "text": "静静"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12807500,
+      "duration": 2692500,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15884580,
+      "duration": 3077080,
+      "text": "看"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18961660,
+      "duration": 1922910,
+      "text": "它"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21077080,
+      "duration": 2884580,
+      "text": "转"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23961660,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25500000,
+      "duration": 4422910,
+      "text": "半个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30115410,
+      "duration": 7884580,
+      "text": "方向"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42230830,
+      "duration": 2500000,
+      "text": "又"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44922910,
+      "duration": 9038330,
+      "text": "慢吞吞"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53961660,
+      "duration": 1730830,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56077080,
+      "duration": 3076660,
+      "text": "靠"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59153750,
+      "duration": 2692500,
+      "text": "回"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 62038330,
+      "duration": 7115410,
+      "text": "窗框"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 69153750,
+      "duration": 4615410,
+      "text": "边"
+    }
+  ]
+}

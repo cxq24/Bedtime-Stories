@@ -1,0 +1,65 @@
+{
+  "text": "这样，外面的窗帘依然有地方轻轻摇晃，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "951d4e30b30775f6dc6a2a17ae200fdf0d51deae879b3521320b5c17c5da74e4",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 7115410,
+      "text": "这样"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13577080,
+      "duration": 4422910,
+      "text": "外面"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18000000,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19346250,
+      "duration": 9230830,
+      "text": "窗帘"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29922910,
+      "duration": 5000000,
+      "text": "依然"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35115410,
+      "duration": 2115410,
+      "text": "有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37422910,
+      "duration": 5384580,
+      "text": "地方"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43192500,
+      "duration": 4807500,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48192500,
+      "duration": 7692500,
+      "text": "摇晃"
+    }
+  ]
+}

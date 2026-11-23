@@ -1,0 +1,14 @@
+{
+  "registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "cast": {
+    "pipi": {
+      "identity": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "day_outfit": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+      "sleepwear": "references/pipi_sleepwear_v001.png"
+    },
+    "goat_teacher": {
+      "identity": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/goat_teacher_identity_v001.png"
+    }
+  },
+  "user_visual_acceptance": "official character references approved for initial production use; episode artwork remains a production candidate"
+}

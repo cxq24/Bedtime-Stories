@@ -1,0 +1,95 @@
+{
+  "text": "再也不会在光滑的窗台上乱滑、乱撞窗框了。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "fbeaa4a2c2b55be127a17f8e1e8ac74f58decc9273d7d2d777c50d6aa80b9d00",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3461660,
+      "text": "再"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4730830,
+      "duration": 1538330,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6461660,
+      "duration": 4422910,
+      "text": "不会"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11077080,
+      "duration": 2500000,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13577080,
+      "duration": 5769160,
+      "text": "光滑"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19346250,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20884580,
+      "duration": 6538330,
+      "text": "窗台"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27422910,
+      "duration": 5000000,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33961660,
+      "duration": 3461250,
+      "text": "乱"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37422910,
+      "duration": 4807500,
+      "text": "滑"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45884580,
+      "duration": 2884580,
+      "text": "乱"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48769160,
+      "duration": 2500000,
+      "text": "撞"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51461660,
+      "duration": 7692080,
+      "text": "窗框"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59153750,
+      "duration": 2500000,
+      "text": "了"
+    }
+  ]
+}

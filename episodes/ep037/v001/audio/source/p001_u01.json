@@ -1,0 +1,107 @@
+{
+  "text": "今天下午在森林学堂的操场上，山羊老师带着大家玩“羽毛球拍托气",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "b9b539af3115a185d4c95188b99240e9e1c238b76978660ccbc4c2d4ed02d01a",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5577080,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 8461660,
+      "text": "下午"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15884580,
+      "duration": 3077080,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19153750,
+      "duration": 5769160,
+      "text": "森林"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25115410,
+      "duration": 5384580,
+      "text": "学堂"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30500000,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31846250,
+      "duration": 6730830,
+      "text": "操场"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38577080,
+      "duration": 4422910,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48000000,
+      "duration": 5577080,
+      "text": "山羊"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53769160,
+      "duration": 8653750,
+      "text": "老师"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 62807500,
+      "duration": 2884580,
+      "text": "带"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 65692500,
+      "duration": 1922910,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 67807500,
+      "duration": 8269160,
+      "text": "大家玩"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 76269160,
+      "duration": 8461660,
+      "text": "羽毛球"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 85115410,
+      "duration": 2884580,
+      "text": "拍"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 88000000,
+      "duration": 8461660,
+      "text": "托气"
+    }
+  ]
+}

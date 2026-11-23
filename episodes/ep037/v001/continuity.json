@@ -1,0 +1,107 @@
+{
+  "episode": "ep037",
+  "version": "v001",
+  "assets": {
+    "pipi": {
+      "id": "CHAR_PIPI_01",
+      "fixed": "warm-gray rabbit, round face, pink nose, long ears; identity same in all scenes"
+    },
+    "pipi_day": {
+      "id": "WARDROBE_PIPI_DAY_01",
+      "fixed": "cream shirt, slate-blue short overalls, blue shoes, yellow backpack, no hat; forest school and return-home scenes"
+    },
+    "pipi_sleepwear": {
+      "id": "WARDROBE_PIPI_SLEEP_01",
+      "fixed": "official pale cream-yellow pajamas from registered nightwear reference, no hat; begins after washing up in bedroom at night"
+    },
+    "goat_teacher": {
+      "id": "CHAR_GOAT_TEACHER_01",
+      "fixed": "adult goat with cream and pale-gray fur, longer muzzle, short rounded curved horns, side-drooping ears, small beard, green cardigan and brown trousers"
+    },
+    "schoolyard": {
+      "id": "LOC_SCHOOLYARD_01",
+      "fixed": "forest school grassy playground in afternoon, leafy tree line, enough clear sky for one balloon"
+    },
+    "balloon": {
+      "id": "PROP_BALLOON_01",
+      "fixed": "single round pastel-red balloon, never touches ground during game"
+    },
+    "racket": {
+      "id": "PROP_RACKET_01",
+      "fixed": "child-sized pale wooden badminton racket with oval string head, not a tennis racket"
+    },
+    "bedroom": {
+      "id": "LOC_BEDROOM_01",
+      "fixed": "cozy timber bedroom, one open wooden window, smooth wooden sill and frame, simple low bed, pillow, warm evening light"
+    },
+    "window_sill": {
+      "id": "PROP_WINDOW_SILL_01",
+      "fixed": "same long smooth honey-brown wooden sill under the same open bedroom window"
+    },
+    "curtain": {
+      "id": "PROP_CURTAIN_01",
+      "fixed": "same pale cream fabric curtains on either side of the bedroom window; draft moves them softly, away from protected dish corner"
+    },
+    "feather": {
+      "id": "PROP_FEATHER_01",
+      "fixed": "one small clean white bird feather, slim pale ivory central quill, fine white vanes and soft down at tip, approximately 8 cm, same shape and scale throughout"
+    },
+    "wood_dish": {
+      "id": "PROP_DISH_01",
+      "fixed": "one shallow round light-honey natural wood dish, low rim, plain unmarked surface, about 10 cm wide"
+    },
+    "cotton_cloth": {
+      "id": "PROP_CLOTH_01",
+      "fixed": "one small square piece of off-white pure cotton with visibly coarse woven texture, remains lining the same wooden dish"
+    },
+    "book_shelf": {
+      "id": "PROP_SHELF_01",
+      "fixed": "same modest wooden bedroom bookshelf where shallow dish is retrieved"
+    },
+    "pillow": {
+      "id": "PROP_PILLOW_01",
+      "fixed": "same small soft cream pillow on low bed"
+    },
+    "carrot_plush": {
+      "id": "PROP_CARROT_01",
+      "fixed": "same soft orange carrot-shaped plush with small green leafy top"
+    },
+    "moonlight": {
+      "id": "LIGHT_MOON_01",
+      "fixed": "small cool silver moonlight patch on protected windowsill/dish after dusk"
+    }
+  },
+  "state_transitions": [
+    {
+      "shots": "00-01",
+      "state": "separate p000 opening art; feather as gentle question image, no bedroom window or dish; no story action has yet occurred"
+    },
+    {
+      "shots": "02-05",
+      "state": "afternoon schoolyard game; goat teacher and Pipì hold same wooden badminton rackets; one balloon remains aloft"
+    },
+    {
+      "shots": "06-10",
+      "state": "at home window opens; a single clean white feather falls to same smooth sill, then trembles/rotates in breeze and settles near frame"
+    },
+    {
+      "shots": "11-14",
+      "state": "Pipì observes without touching; feather turns half a direction and rests by frame; no dish yet"
+    },
+    {
+      "shots": "15-19",
+      "state": "Pipì fetches same shallow dish, lines it with one textured cotton square, lifts feather only by quill and places it in dish; cloth friction stabilizes feather and vanes relax"
+    },
+    {
+      "shots": "20-23",
+      "state": "same dish moved to sill's inner protected corner, away from draft; curtain may sway separately; dusk to night moonlight rests on one still feather"
+    },
+    {
+      "shots": "24-28",
+      "state": "after washing, Pipì changes to official cream-yellow pajamas, lies on same pillow and relaxes ears; hugs same carrot plush; feather remains safe in dish in background"
+    }
+  ],
+  "textual_pass_1": "Sequential retell checked: school game, home return and open-window landing, feather's unstable movement, deliberate non-grab, dish retrieval and cotton lining, careful transfer, protected corner, nighttime rest.",
+  "textual_pass_2": "Object audit checked: one feather only; one dish and one cloth; feather stays on sill until transfer; dish does not appear before retrieval; curtain remains separate from the protected inner corner; nightwear begins after wash-up.",
+  "image_review": "Contact sheet reviewed after regeneration: official gray-beige floppy-eared rabbit Pipì identity restored throughout; shot 20 is a single standalone illustration; premature duplicate dish/cloth removed from shot 12. Feather, dish, cloth, window, outfit/nightwear and sleep-state progression checked across all 29 shots."
+}
