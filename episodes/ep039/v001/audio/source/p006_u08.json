@@ -1,0 +1,47 @@
+{
+  "text": "它们都有自己的节奏，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "d19ea79470f88860b29001c6c7ceaefd46cd5f3c816a46b7ff3d67a5e7720a30",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3846250,
+      "text": "它们"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5307500,
+      "duration": 2500000,
+      "text": "都"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7807500,
+      "duration": 2307500,
+      "text": "有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10500000,
+      "duration": 4230830,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14730830,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16461660,
+      "duration": 8653750,
+      "text": "节奏"
+    }
+  ]
+}

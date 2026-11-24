@@ -1,0 +1,47 @@
+{
+  "text": "打了一个小小的哈欠。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "783b0f05664101d6a9a22ba185ab98982f165d5a0dc1c6068fda87a3d7edbf36",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3461660,
+      "text": "打"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4730830,
+      "duration": 961660,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5884580,
+      "duration": 3077080,
+      "text": "一个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9346250,
+      "duration": 6538330,
+      "text": "小小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15884580,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17422910,
+      "duration": 8269160,
+      "text": "哈欠"
+    }
+  ]
+}

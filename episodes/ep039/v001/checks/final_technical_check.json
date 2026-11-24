@@ -1,0 +1,111 @@
+{
+  "episode": "ep039",
+  "title": "还在枝头的银杏叶",
+  "checked_on": "2026-11-24",
+  "status": "technical_pass",
+  "video_files": {
+    "ep039.mp4": {
+      "path": "Outputs/2026-11-24/ep039-v001/ep039.mp4",
+      "bytes": 54301438,
+      "sha256": "68a074f25e6cdebed8ca00087edad61a148aec408c58ada73037c529264e61e9",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1080,
+            "height": 1920,
+            "r_frame_rate": "25/1"
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "48000",
+            "channels": 1,
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "272.960000",
+          "size": "54301438"
+        }
+      },
+      "full_decode": "passed"
+    },
+    "ep039_clean.mp4": {
+      "path": "Outputs/2026-11-24/ep039-v001/ep039_clean.mp4",
+      "bytes": 51828709,
+      "sha256": "f108b3f24ba06f7884ecf43f0a164473cf88027ce5911b625fc998d053adceb9",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1080,
+            "height": 1920,
+            "r_frame_rate": "25/1"
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "48000",
+            "channels": 1,
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "272.960000",
+          "size": "51828709"
+        }
+      },
+      "full_decode": "passed"
+    }
+  },
+  "expected_video": {
+    "resolution": "1080x1920",
+    "fps": "25/1",
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "audio_sample_rate_hz": 48000,
+    "audio_channels": 1,
+    "duration_s": 272.96,
+    "frames": 6824
+  },
+  "subtitle_coverage": {
+    "hanzi": 743,
+    "covered_hanzi": 743,
+    "ruby_cues": 130
+  },
+  "storyboard": {
+    "shots": 29,
+    "max_visible_duration_s": 14.48,
+    "crossfade_s": 0.96
+  },
+  "mix": {
+    "source": "original procedural synthesis; no third-party samples",
+    "seed": 1,
+    "music_rms_before_fade": 0.0045,
+    "ambience_rms_before_fade": 0.00065,
+    "voice_peak": 0.5673828125,
+    "mix_peak": 0.5638831257820129,
+    "voice_sha256": "b93d7108cc225c654fb4d5bf8e9bea9090a15bedb255e93f7b42ffeeb070c0fa",
+    "duration_s": 272.96,
+    "sample_rate": 48000,
+    "voice_filter_reapplied": false
+  },
+  "visual_review": {
+    "all_shot_contact_sheet": "reviewed",
+    "mobile_preview_frames": [
+      "checks/preview_4s_360.jpg",
+      "checks/preview_14s_360.jpg"
+    ],
+    "subtitle_legibility": "passed"
+  },
+  "human_full_audio_visual_review": "not_certified",
+  "user_acceptance": "pending",
+  "platform_published": false
+}

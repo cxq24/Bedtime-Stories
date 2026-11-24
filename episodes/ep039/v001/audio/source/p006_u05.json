@@ -1,0 +1,59 @@
+{
+  "text": "和枝头上的那片叶子遥遥相望。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "17778fa5b43ab93cb8bb96cb1a5650694df95557b9526de45166b1edd5db9cb1",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2884580,
+      "text": "和"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4346250,
+      "duration": 5961250,
+      "text": "枝头"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10307500,
+      "duration": 2500000,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12807500,
+      "duration": 961660,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13961660,
+      "duration": 2115410,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16077080,
+      "duration": 3269160,
+      "text": "片"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19538330,
+      "duration": 8269160,
+      "text": "叶子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29346250,
+      "duration": 14038330,
+      "text": "遥遥相望"
+    }
+  ]
+}

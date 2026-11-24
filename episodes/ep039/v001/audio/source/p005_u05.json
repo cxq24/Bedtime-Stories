@@ -1,0 +1,65 @@
+{
+  "text": "不是我一直瞪大眼睛盯着它，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "bdcde975d28e4fdb6d7ec5df1b4dc872e2d4e0ded0dae5d209366896fe86704c",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4615410,
+      "text": "不是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5884580,
+      "duration": 1538330,
+      "text": "我"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7615410,
+      "duration": 5961660,
+      "text": "一直"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13769160,
+      "duration": 2884580,
+      "text": "瞪"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16653750,
+      "duration": 2500000,
+      "text": "大"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19153750,
+      "duration": 5961660,
+      "text": "眼睛"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25500000,
+      "duration": 3269160,
+      "text": "盯"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28769160,
+      "duration": 1730830,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30500000,
+      "duration": 4230830,
+      "text": "它"
+    }
+  ]
+}

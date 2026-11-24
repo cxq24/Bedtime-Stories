@@ -1,0 +1,53 @@
+{
+  "text": "只需要先让自己好好休息。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "5b30bc02353c7359156a576f87d2aca1ce038eb2c677c521735afebc967a433a",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2884580,
+      "text": "只"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4153750,
+      "duration": 6922910,
+      "text": "需要"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11461660,
+      "duration": 2884580,
+      "text": "先"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14346250,
+      "duration": 2115410,
+      "text": "让"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16653750,
+      "duration": 3846250,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20884580,
+      "duration": 5000000,
+      "text": "好好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26077080,
+      "duration": 7884580,
+      "text": "休息"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "text": "皮皮站起身，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "92aa2198de244b8475a15a439a43a6f7457451bdeba623c1805f87895f064855",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 9422910,
+      "text": "皮皮站"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10692500,
+      "duration": 8653750,
+      "text": "起身"
+    }
+  ]
+}

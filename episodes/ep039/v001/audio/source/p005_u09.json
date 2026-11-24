@@ -1,0 +1,59 @@
+{
+  "text": "把窗边的小木椅轻轻推回原处，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "09ab9ed21767d9db6f610cd8331df7107c0d110a5d669f245dc4c1d53a0dba2a",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2307500,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3769160,
+      "duration": 5577080,
+      "text": "窗边"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9346250,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10692500,
+      "duration": 3461250,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14153750,
+      "duration": 7884580,
+      "text": "木椅"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23577080,
+      "duration": 6153750,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29922910,
+      "duration": 5000000,
+      "text": "推回"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35115410,
+      "duration": 8461660,
+      "text": "原处"
+    }
+  ]
+}

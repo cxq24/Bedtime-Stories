@@ -1,0 +1,164 @@
+{
+  "episode": "ep039",
+  "duration_s": 20.0,
+  "fps": 25,
+  "frames": 500,
+  "preview": true,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "shot_count": 29,
+  "crossfade_s": 0.96,
+  "curve": "linear",
+  "within_shot_motion": "none",
+  "subtitles_after_picture_transitions": true,
+  "clean": "/workspace/Bedtime-Stories/episodes/ep039/v001/ep039_preview20_clean.mp4",
+  "publish": "/workspace/Bedtime-Stories/episodes/ep039/v001/ep039_preview20.mp4",
+  "delivery_directory": "/workspace/Bedtime-Stories/episodes/ep039/v001",
+  "shots": [
+    {
+      "id": 0,
+      "paragraph_id": "p000",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u01",
+          "start_char": 0,
+          "end_char": 5
+        },
+        {
+          "unit_id": "p000_u02",
+          "start_char": 0,
+          "end_char": 9
+        },
+        {
+          "unit_id": "p000_u03",
+          "start_char": 0,
+          "end_char": 17
+        }
+      ],
+      "text": "小朋友们，准备好听故事了吗？今天的故事叫《还在枝头的银杏叶》。",
+      "title": "片头：秋叶问候",
+      "location": "林间片头",
+      "time_of_day": "秋日傍晚",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮在木屋外的银杏树下向观众温和问候，头上方金黄扇形叶片缓缓飘过。独立片头图，不出现窗户、木碟或后续等待情节。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "皮皮在木屋外的银杏树下向观众温和问候，头上方金黄扇形叶片缓缓飘过。独立片头图，不出现窗户、木碟或后续等待情节。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_GINKGO_01",
+        "PROP_GROUND_LEAVES_01"
+      ],
+      "state_before": "皮皮在木屋外的银杏树下向观众温和问候，头上方金黄扇形叶片缓缓飘过。独立片头图，不出现窗户、木碟或后续等待情节。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "state_after": "皮皮在木屋外的银杏树下向观众温和问候，头上方金黄扇形叶片缓缓飘过。独立片头图，不出现窗户、木碟或后续等待情节。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": null,
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_00.png",
+      "image": "images/shot_00.png",
+      "speech_start_s": 1.0,
+      "speech_end_s": 10.377583,
+      "actual_start_s": 0.0,
+      "actual_end_s": 10.92,
+      "visible_start_s": 0.0,
+      "visible_end_s": 11.4,
+      "visible_duration_s": 11.4
+    },
+    {
+      "id": 1,
+      "paragraph_id": "p000",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u04",
+          "start_char": 0,
+          "end_char": 11
+        },
+        {
+          "unit_id": "p000_u05",
+          "start_char": 0,
+          "end_char": 9
+        },
+        {
+          "unit_id": "p000_u06",
+          "start_char": 0,
+          "end_char": 10
+        }
+      ],
+      "text": "秋风吹落了许多银杏叶，还有一片留在枝头，它也可以慢慢休息吗？",
+      "title": "片头：最后一片叶子",
+      "location": "林间片头",
+      "time_of_day": "秋日傍晚",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "小灰兔皮皮仰头看树枝上仍连着一片金黄银杏叶，几片落叶飘过。独立片头意象，不展示卧室窗户或木碟。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "小灰兔皮皮仰头看树枝上仍连着一片金黄银杏叶，几片落叶飘过。独立片头意象，不展示卧室窗户或木碟。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_GINKGO_01",
+        "PROP_GROUND_LEAVES_01"
+      ],
+      "state_before": "小灰兔皮皮仰头看树枝上仍连着一片金黄银杏叶，几片落叶飘过。独立片头意象，不展示卧室窗户或木碟。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "state_after": "小灰兔皮皮仰头看树枝上仍连着一片金黄银杏叶，几片落叶飘过。独立片头意象，不展示卧室窗户或木碟。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_00",
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_01.png",
+      "image": "images/shot_01.png",
+      "speech_start_s": 11.4534375,
+      "speech_end_s": 20.431083,
+      "actual_start_s": 10.92,
+      "actual_end_s": 21.0,
+      "visible_start_s": 10.44,
+      "visible_end_s": 21.48,
+      "visible_duration_s": 11.04
+    }
+  ],
+  "audio": "mix.wav",
+  "subtitles": "episode.ass",
+  "character_registry": "references/",
+  "fonts": [
+    {
+      "path": "fonts/NotoSansCJKsc-Bold.otf",
+      "sha256": "85c969dbb2f927c8dbbe440d5755b7c9a714f13a7a58339459df43cfff3583b3"
+    },
+    {
+      "path": "fonts/Noto-Sans-copyright.txt",
+      "sha256": "075f91382875da1c4b491f1facf2586f55448705133264d98ce15cab6211b125"
+    },
+    {
+      "path": "fonts/NotoSans-Regular.ttf",
+      "sha256": "89c3c497f618fdaa0b2d1e98fef93582f28c71debd2c4a8cdf41f190ced2909d"
+    },
+    {
+      "path": "fonts/NotoSansCJKsc-Regular.otf",
+      "sha256": "82e9bdfd176ce68c51f6ff89ca7e2abae7fdb82b4591aa7338638598ae3c91c8"
+    },
+    {
+      "path": "fonts/Noto-CJK-copyright.txt",
+      "sha256": "849f4ea9c214fa4ac3593b770c699f387534b11ce671264c1b10d85bdcb5997b"
+    }
+  ]
+}

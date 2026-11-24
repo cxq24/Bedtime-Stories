@@ -1,0 +1,65 @@
+{
+  "text": "依然稳稳当当地靠着那根细树枝。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "76e0a3dff448a27ba7c640ff93fae453d8ba15210e730fd78972b34e3885ec67",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5577080,
+      "text": "依然"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7230830,
+      "duration": 11730830,
+      "text": "稳稳当当"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18961660,
+      "duration": 3461660,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23961660,
+      "duration": 3269160,
+      "text": "靠"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27230830,
+      "duration": 1538330,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28961660,
+      "duration": 1922910,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30884580,
+      "duration": 2307500,
+      "text": "根"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33577080,
+      "duration": 2884580,
+      "text": "细"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36461660,
+      "duration": 8077080,
+      "text": "树枝"
+    }
+  ]
+}

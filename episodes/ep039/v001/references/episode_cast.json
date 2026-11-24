@@ -1,0 +1,12 @@
+{
+  "episode": "ep039",
+  "characters": [
+    "pipi",
+    "diandian"
+  ],
+  "reference_manifests": [
+    "pipi_diandian_day_manifest.json",
+    "pipi_sleep_manifest.json"
+  ],
+  "note": "official identity and wardrobe references loaded from registered character library"
+}

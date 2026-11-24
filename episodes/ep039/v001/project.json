@@ -1,0 +1,1695 @@
+{
+  "episode": "ep039",
+  "duration_s": 272.96,
+  "fps": 25,
+  "frames": 6824,
+  "preview": false,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "shot_count": 29,
+  "crossfade_s": 0.96,
+  "curve": "linear",
+  "within_shot_motion": "none",
+  "subtitles_after_picture_transitions": true,
+  "clean": "/workspace/Bedtime-Stories/Outputs/2026-11-24/ep039-v001/ep039_clean.mp4",
+  "publish": "/workspace/Bedtime-Stories/Outputs/2026-11-24/ep039-v001/ep039.mp4",
+  "delivery_directory": "/workspace/Bedtime-Stories/Outputs/2026-11-24/ep039-v001",
+  "shots": [
+    {
+      "id": 0,
+      "paragraph_id": "p000",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u01",
+          "start_char": 0,
+          "end_char": 5
+        },
+        {
+          "unit_id": "p000_u02",
+          "start_char": 0,
+          "end_char": 9
+        },
+        {
+          "unit_id": "p000_u03",
+          "start_char": 0,
+          "end_char": 17
+        }
+      ],
+      "text": "小朋友们，准备好听故事了吗？今天的故事叫《还在枝头的银杏叶》。",
+      "title": "片头：秋叶问候",
+      "location": "林间片头",
+      "time_of_day": "秋日傍晚",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮在木屋外的银杏树下向观众温和问候，头上方金黄扇形叶片缓缓飘过。独立片头图，不出现窗户、木碟或后续等待情节。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "皮皮在木屋外的银杏树下向观众温和问候，头上方金黄扇形叶片缓缓飘过。独立片头图，不出现窗户、木碟或后续等待情节。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_GINKGO_01",
+        "PROP_GROUND_LEAVES_01"
+      ],
+      "state_before": "皮皮在木屋外的银杏树下向观众温和问候，头上方金黄扇形叶片缓缓飘过。独立片头图，不出现窗户、木碟或后续等待情节。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "state_after": "皮皮在木屋外的银杏树下向观众温和问候，头上方金黄扇形叶片缓缓飘过。独立片头图，不出现窗户、木碟或后续等待情节。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": null,
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_00.png",
+      "image": "images/shot_00.png",
+      "speech_start_s": 1.0,
+      "speech_end_s": 10.377583,
+      "actual_start_s": 0.0,
+      "actual_end_s": 10.92,
+      "visible_start_s": 0.0,
+      "visible_end_s": 11.4,
+      "visible_duration_s": 11.4
+    },
+    {
+      "id": 1,
+      "paragraph_id": "p000",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u04",
+          "start_char": 0,
+          "end_char": 11
+        },
+        {
+          "unit_id": "p000_u05",
+          "start_char": 0,
+          "end_char": 9
+        },
+        {
+          "unit_id": "p000_u06",
+          "start_char": 0,
+          "end_char": 10
+        }
+      ],
+      "text": "秋风吹落了许多银杏叶，还有一片留在枝头，它也可以慢慢休息吗？",
+      "title": "片头：最后一片叶子",
+      "location": "林间片头",
+      "time_of_day": "秋日傍晚",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "小灰兔皮皮仰头看树枝上仍连着一片金黄银杏叶，几片落叶飘过。独立片头意象，不展示卧室窗户或木碟。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "小灰兔皮皮仰头看树枝上仍连着一片金黄银杏叶，几片落叶飘过。独立片头意象，不展示卧室窗户或木碟。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_GINKGO_01",
+        "PROP_GROUND_LEAVES_01"
+      ],
+      "state_before": "小灰兔皮皮仰头看树枝上仍连着一片金黄银杏叶，几片落叶飘过。独立片头意象，不展示卧室窗户或木碟。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "state_after": "小灰兔皮皮仰头看树枝上仍连着一片金黄银杏叶，几片落叶飘过。独立片头意象，不展示卧室窗户或木碟。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_00",
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_01.png",
+      "image": "images/shot_01.png",
+      "speech_start_s": 11.4534375,
+      "speech_end_s": 20.431083,
+      "actual_start_s": 10.92,
+      "actual_end_s": 21.0,
+      "visible_start_s": 10.44,
+      "visible_end_s": 21.48,
+      "visible_duration_s": 11.04
+    },
+    {
+      "id": 2,
+      "paragraph_id": "p001",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u01",
+          "start_char": 0,
+          "end_char": 10
+        },
+        {
+          "unit_id": "p001_u02",
+          "start_char": 0,
+          "end_char": 11
+        },
+        {
+          "unit_id": "p001_u03",
+          "start_char": 0,
+          "end_char": 6
+        }
+      ],
+      "text": "皮皮家小木屋的窗外，长着一棵高大的银杏树。\n一到深秋，",
+      "title": "小木屋与银杏树",
+      "location": "木屋外院",
+      "time_of_day": "深秋白天",
+      "layer": "story",
+      "characters": [],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {},
+      "visual_direction": "建立皮皮家的小木屋和窗外高大的银杏树。银杏树在卧室窗外偏右，靠窗一条细枝清晰可见，后续方位固定。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "建立皮皮家的小木屋和窗外高大的银杏树。银杏树在卧室窗外偏右，靠窗一条细枝清晰可见，后续方位固定。",
+      "continuity_refs": [
+        "LOC_GINKGO_01",
+        "PROP_GROUND_LEAVES_01"
+      ],
+      "state_before": "建立皮皮家的小木屋和窗外高大的银杏树。银杏树在卧室窗外偏右，靠窗一条细枝清晰可见，后续方位固定。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "state_after": "建立皮皮家的小木屋和窗外高大的银杏树。银杏树在卧室窗外偏右，靠窗一条细枝清晰可见，后续方位固定。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_01",
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_02.png",
+      "image": "images/shot_02.png",
+      "speech_start_s": 21.531104166666665,
+      "speech_end_s": 30.014790666666666,
+      "actual_start_s": 21.0,
+      "actual_end_s": 30.24,
+      "visible_start_s": 20.52,
+      "visible_end_s": 30.72,
+      "visible_duration_s": 10.2
+    },
+    {
+      "id": 3,
+      "paragraph_id": "p001",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u04",
+          "start_char": 0,
+          "end_char": 15
+        },
+        {
+          "unit_id": "p001_u05",
+          "start_char": 0,
+          "end_char": 14
+        },
+        {
+          "unit_id": "p001_u06",
+          "start_char": 0,
+          "end_char": 8
+        }
+      ],
+      "text": "银杏树叶就变成了灿烂的金黄色，每一片都像一把精致的小扇子。这几天秋风吹过，",
+      "title": "一把把小金扇子",
+      "location": "木屋外院",
+      "time_of_day": "深秋白天",
+      "layer": "story",
+      "characters": [],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {},
+      "visual_direction": "金黄色银杏叶在树冠上密密铺开；突出一片完整扇形叶片，柔和斑驳日光。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "金黄色银杏叶在树冠上密密铺开；突出一片完整扇形叶片，柔和斑驳日光。",
+      "continuity_refs": [
+        "LOC_GINKGO_01",
+        "PROP_GROUND_LEAVES_01"
+      ],
+      "state_before": "金黄色银杏叶在树冠上密密铺开；突出一片完整扇形叶片，柔和斑驳日光。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "state_after": "金黄色银杏叶在树冠上密密铺开；突出一片完整扇形叶片，柔和斑驳日光。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_02",
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_03.png",
+      "image": "images/shot_03.png",
+      "speech_start_s": 30.487145833333333,
+      "speech_end_s": 42.53666533333333,
+      "actual_start_s": 30.24,
+      "actual_end_s": 42.76,
+      "visible_start_s": 29.759999999999998,
+      "visible_end_s": 43.239999999999995,
+      "visible_duration_s": 13.48
+    },
+    {
+      "id": 4,
+      "paragraph_id": "p001",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u07",
+          "start_char": 0,
+          "end_char": 17
+        },
+        {
+          "unit_id": "p001_u08",
+          "start_char": 0,
+          "end_char": 10
+        }
+      ],
+      "text": "成百上千把“小金扇子”纷纷落下来，把院子铺得金灿灿的。",
+      "title": "秋风落叶铺院子",
+      "location": "木屋外院",
+      "time_of_day": "深秋白天",
+      "layer": "story",
+      "characters": [],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {},
+      "visual_direction": "秋风吹过，同一棵银杏树飘落许多金色叶片，院地渐渐铺满；树上仍保留大部分叶片。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "秋风吹过，同一棵银杏树飘落许多金色叶片，院地渐渐铺满；树上仍保留大部分叶片。",
+      "continuity_refs": [
+        "LOC_GINKGO_01",
+        "PROP_GROUND_LEAVES_01"
+      ],
+      "state_before": "秋风吹过，同一棵银杏树飘落许多金色叶片，院地渐渐铺满；树上仍保留大部分叶片。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "state_after": "秋风吹过，同一棵银杏树飘落许多金色叶片，院地渐渐铺满；树上仍保留大部分叶片。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_03",
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_04.png",
+      "image": "images/shot_04.png",
+      "speech_start_s": 42.98175,
+      "speech_end_s": 50.34966566666666,
+      "actual_start_s": 42.76,
+      "actual_end_s": 50.92,
+      "visible_start_s": 42.28,
+      "visible_end_s": 51.4,
+      "visible_duration_s": 9.12
+    },
+    {
+      "id": 5,
+      "paragraph_id": "p002",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u01",
+          "start_char": 0,
+          "end_char": 5
+        },
+        {
+          "unit_id": "p002_u02",
+          "start_char": 0,
+          "end_char": 20
+        }
+      ],
+      "text": "今天傍晚，皮皮和来做客的小鼹鼠点点趴在窗前看风景。",
+      "title": "傍晚趴窗看风景",
+      "location": "卧室窗边",
+      "time_of_day": "傍晚",
+      "layer": "story",
+      "characters": [
+        "pipi",
+        "diandian"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ],
+        "diandian": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/diandian_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮和点点并排趴在同一扇宽木框窗台内侧看窗外。点点是灰褐小鼹鼠、淡粉鼻、小眼睛、米色围兜，约皮皮0.65倍高。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "皮皮和点点并排趴在同一扇宽木框窗台内侧看窗外。点点是灰褐小鼹鼠、淡粉鼻、小眼睛、米色围兜，约皮皮0.65倍高。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "CHAR_DIANDIAN_01",
+        "LOC_WINDOW_01",
+        "LOC_GINKGO_01",
+        "PROP_ATTACHED_LEAF_01"
+      ],
+      "state_before": "皮皮和点点并排趴在同一扇宽木框窗台内侧看窗外。点点是灰褐小鼹鼠、淡粉鼻、小眼睛、米色围兜，约皮皮0.65倍高。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "state_after": "皮皮和点点并排趴在同一扇宽木框窗台内侧看窗外。点点是灰褐小鼹鼠、淡粉鼻、小眼睛、米色围兜，约皮皮0.65倍高。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_04",
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_05.png",
+      "image": "images/shot_05.png",
+      "speech_start_s": 51.4760625,
+      "speech_end_s": 59.54914516666666,
+      "actual_start_s": 50.92,
+      "actual_end_s": 60.08,
+      "visible_start_s": 50.440000000000005,
+      "visible_end_s": 60.559999999999995,
+      "visible_duration_s": 10.12
+    },
+    {
+      "id": 6,
+      "paragraph_id": "p002",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u03",
+          "start_char": 0,
+          "end_char": 9
+        },
+        {
+          "unit_id": "p002_u04",
+          "start_char": 0,
+          "end_char": 6
+        },
+        {
+          "unit_id": "p002_u05",
+          "start_char": 0,
+          "end_char": 14
+        }
+      ],
+      "text": "\n点点指着窗外说：“皮皮你看，整棵银杏树的叶子都快掉光了，",
+      "title": "点点指向树冠",
+      "location": "卧室窗边",
+      "time_of_day": "傍晚",
+      "layer": "story",
+      "characters": [
+        "pipi",
+        "diandian"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ],
+        "diandian": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/diandian_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "点点抬短爪指向窗外银杏树，皮皮顺视线望去；窗框、树位置与上一镜一致。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "点点抬短爪指向窗外银杏树，皮皮顺视线望去；窗框、树位置与上一镜一致。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "CHAR_DIANDIAN_01",
+        "LOC_WINDOW_01",
+        "LOC_GINKGO_01",
+        "PROP_ATTACHED_LEAF_01"
+      ],
+      "state_before": "点点抬短爪指向窗外银杏树，皮皮顺视线望去；窗框、树位置与上一镜一致。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "state_after": "点点抬短爪指向窗外银杏树，皮皮顺视线望去；窗框、树位置与上一镜一致。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_05",
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_06.png",
+      "image": "images/shot_06.png",
+      "speech_start_s": 60.607812499999994,
+      "speech_end_s": 69.16112433333332,
+      "actual_start_s": 60.08,
+      "actual_end_s": 69.4,
+      "visible_start_s": 59.6,
+      "visible_end_s": 69.88000000000001,
+      "visible_duration_s": 10.28
+    },
+    {
+      "id": 7,
+      "paragraph_id": "p002",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u06",
+          "start_char": 0,
+          "end_char": 14
+        },
+        {
+          "unit_id": "p002_u07",
+          "start_char": 0,
+          "end_char": 13
+        }
+      ],
+      "text": "只剩下靠近窗户的那根细枝上，还留着最后一片小叶子呢！”",
+      "title": "细枝上最后一片叶",
+      "location": "窗内望向窗外枝条",
+      "time_of_day": "傍晚",
+      "layer": "story",
+      "characters": [
+        "pipi",
+        "diandian"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ],
+        "diandian": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/diandian_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "从两只小动物肩后看靠窗细枝，树上其他部分已稀疏，只剩枝头挂着一片完整扇形金黄叶；叶柄仍连枝。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "从两只小动物肩后看靠窗细枝，树上其他部分已稀疏，只剩枝头挂着一片完整扇形金黄叶；叶柄仍连枝。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "CHAR_DIANDIAN_01",
+        "LOC_WINDOW_01",
+        "LOC_GINKGO_01",
+        "PROP_ATTACHED_LEAF_01"
+      ],
+      "state_before": "从两只小动物肩后看靠窗细枝，树上其他部分已稀疏，只剩枝头挂着一片完整扇形金黄叶；叶柄仍连枝。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "state_after": "从两只小动物肩后看靠窗细枝，树上其他部分已稀疏，只剩枝头挂着一片完整扇形金黄叶；叶柄仍连枝。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_06",
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_07.png",
+      "image": "images/shot_07.png",
+      "speech_start_s": 69.62297916666665,
+      "speech_end_s": 77.005208,
+      "actual_start_s": 69.4,
+      "actual_end_s": 77.56,
+      "visible_start_s": 68.92,
+      "visible_end_s": 78.04,
+      "visible_duration_s": 9.12
+    },
+    {
+      "id": 8,
+      "paragraph_id": "p003",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u01",
+          "start_char": 0,
+          "end_char": 6
+        },
+        {
+          "unit_id": "p003_u02",
+          "start_char": 0,
+          "end_char": 7
+        },
+        {
+          "unit_id": "p003_u03",
+          "start_char": 0,
+          "end_char": 13
+        }
+      ],
+      "text": "点点回家后，皮皮吃过晚饭，搬来自己的小木椅坐在窗边，",
+      "title": "点点回家后的木椅",
+      "location": "卧室窗边",
+      "time_of_day": "深秋傍晚",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "点点已离开。晚饭后的皮皮独自把矮小木椅挪到窗口，窗外最后一片叶仍挂在同一细枝上。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "点点已离开。晚饭后的皮皮独自把矮小木椅挪到窗口，窗外最后一片叶仍挂在同一细枝上。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_WINDOW_01",
+        "LOC_GINKGO_01",
+        "PROP_ATTACHED_LEAF_01",
+        "PROP_CHAIR_01",
+        "LIGHT_MOON_01"
+      ],
+      "state_before": "点点已回家，晚饭后的皮皮独自来到窗边；矮木椅尚在室内原处。",
+      "state_after": "皮皮把矮木椅挪至窗前坐下，开始等待；枝头叶仍连枝。",
+      "transition_from": "shot_07",
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_08.png",
+      "image": "images/shot_08.png",
+      "speech_start_s": 78.13670833333333,
+      "speech_end_s": 86.36241633333333,
+      "actual_start_s": 77.56,
+      "actual_end_s": 86.6,
+      "visible_start_s": 77.08,
+      "visible_end_s": 87.08,
+      "visible_duration_s": 10.0
+    },
+    {
+      "id": 9,
+      "paragraph_id": "p003",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u04",
+          "start_char": 0,
+          "end_char": 8
+        },
+        {
+          "unit_id": "p003_u05",
+          "start_char": 0,
+          "end_char": 22
+        },
+        {
+          "unit_id": "p003_u06",
+          "start_char": 0,
+          "end_char": 7
+        }
+      ],
+      "text": "双手托着腮帮子，目不转睛地看着枝头那最后一片金黄色的银杏叶。\n晚风吹过来，",
+      "title": "托腮专注地等",
+      "location": "卧室窗边",
+      "time_of_day": "入夜前",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮坐木椅上双手托腮，专注好奇地看枝头叶；表情明亮而平和，不忧郁。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "皮皮坐木椅上双手托腮，专注好奇地看枝头叶；表情明亮而平和，不忧郁。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_WINDOW_01",
+        "LOC_GINKGO_01",
+        "PROP_ATTACHED_LEAF_01",
+        "PROP_CHAIR_01",
+        "LIGHT_MOON_01"
+      ],
+      "state_before": "皮皮坐木椅上双手托腮，专注好奇地看枝头叶；表情明亮而平和，不忧郁。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "state_after": "皮皮坐木椅上双手托腮，专注好奇地看枝头叶；表情明亮而平和，不忧郁。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_08",
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_09.png",
+      "image": "images/shot_09.png",
+      "speech_start_s": 86.82541666666667,
+      "speech_end_s": 98.55285316666667,
+      "actual_start_s": 86.6,
+      "actual_end_s": 98.76,
+      "visible_start_s": 86.11999999999999,
+      "visible_end_s": 99.24000000000001,
+      "visible_duration_s": 13.12
+    },
+    {
+      "id": 10,
+      "paragraph_id": "p003",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u07",
+          "start_char": 0,
+          "end_char": 21
+        },
+        {
+          "unit_id": "p003_u08",
+          "start_char": 0,
+          "end_char": 6
+        },
+        {
+          "unit_id": "p003_u09",
+          "start_char": 0,
+          "end_char": 10
+        }
+      ],
+      "text": "那片小扇子一样的叶子在枝头慢慢地晃了两下，叶柄动了动。皮皮心里充满了好奇，",
+      "title": "晚风吹动小扇叶",
+      "location": "枝头近景",
+      "time_of_day": "入夜前",
+      "layer": "story",
+      "characters": [],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {},
+      "visual_direction": "同一细枝在晚风中轻摇，唯一扇形叶慢慢晃两下，叶柄微动但仍连枝；背景隐约见同一窗户。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "同一细枝在晚风中轻摇，唯一扇形叶慢慢晃两下，叶柄微动但仍连枝；背景隐约见同一窗户。",
+      "continuity_refs": [
+        "LOC_WINDOW_01",
+        "LOC_GINKGO_01",
+        "PROP_ATTACHED_LEAF_01",
+        "PROP_CHAIR_01",
+        "LIGHT_MOON_01"
+      ],
+      "state_before": "同一细枝在晚风中轻摇，唯一扇形叶慢慢晃两下，叶柄微动但仍连枝；背景隐约见同一窗户。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "state_after": "同一细枝在晚风中轻摇，唯一扇形叶慢慢晃两下，叶柄微动但仍连枝；背景隐约见同一窗户。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_09",
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_10.png",
+      "image": "images/shot_10.png",
+      "speech_start_s": 98.99825,
+      "speech_end_s": 110.79085383333333,
+      "actual_start_s": 98.76,
+      "actual_end_s": 111.04,
+      "visible_start_s": 98.28,
+      "visible_end_s": 111.52000000000001,
+      "visible_duration_s": 13.24
+    },
+    {
+      "id": 11,
+      "paragraph_id": "p003",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u10",
+          "start_char": 0,
+          "end_char": 7
+        },
+        {
+          "unit_id": "p003_u11",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "text": "他特别想知道，这片叶子今晚到底会不会落下来呢？",
+      "title": "好奇叶子会不会落",
+      "location": "卧室窗边",
+      "time_of_day": "入夜前",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮望窗外，眉眼好奇、头微仰；不画幻想泡泡或文字，叶仍连枝。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "皮皮望窗外，眉眼好奇、头微仰；不画幻想泡泡或文字，叶仍连枝。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_WINDOW_01",
+        "LOC_GINKGO_01",
+        "PROP_ATTACHED_LEAF_01",
+        "PROP_CHAIR_01",
+        "LIGHT_MOON_01"
+      ],
+      "state_before": "皮皮望窗外，眉眼好奇、头微仰；不画幻想泡泡或文字，叶仍连枝。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "state_after": "皮皮望窗外，眉眼好奇、头微仰；不画幻想泡泡或文字，叶仍连枝。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_10",
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_11.png",
+      "image": "images/shot_11.png",
+      "speech_start_s": 111.26295833333333,
+      "speech_end_s": 117.99195800000001,
+      "actual_start_s": 111.04,
+      "actual_end_s": 118.56,
+      "visible_start_s": 110.56,
+      "visible_end_s": 119.04,
+      "visible_duration_s": 8.48
+    },
+    {
+      "id": 12,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u01",
+          "start_char": 0,
+          "end_char": 12
+        },
+        {
+          "unit_id": "p004_u02",
+          "start_char": 0,
+          "end_char": 6
+        },
+        {
+          "unit_id": "p004_u03",
+          "start_char": 0,
+          "end_char": 7
+        }
+      ],
+      "text": "一阵稍大一点的风经过了，树枝摇了摇，小银杏叶还在；",
+      "title": "风大些，叶子还在",
+      "location": "枝头近景",
+      "time_of_day": "夜色初起",
+      "layer": "story",
+      "characters": [],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {},
+      "visual_direction": "稍大的风让同一细枝轻摇，唯一金黄叶依然连枝；不让叶子飘落或增添新叶。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "稍大的风让同一细枝轻摇，唯一金黄叶依然连枝；不让叶子飘落或增添新叶。",
+      "continuity_refs": [
+        "LOC_WINDOW_01",
+        "LOC_GINKGO_01",
+        "PROP_ATTACHED_LEAF_01",
+        "PROP_CHAIR_01",
+        "LIGHT_MOON_01"
+      ],
+      "state_before": "稍大的风让同一细枝轻摇，唯一金黄叶依然连枝；不让叶子飘落或增添新叶。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "state_after": "稍大的风让同一细枝轻摇，唯一金黄叶依然连枝；不让叶子飘落或增添新叶。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_11",
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_12.png",
+      "image": "images/shot_12.png",
+      "speech_start_s": 119.12727083333334,
+      "speech_end_s": 126.90970700000001,
+      "actual_start_s": 118.56,
+      "actual_end_s": 127.12,
+      "visible_start_s": 118.08,
+      "visible_end_s": 127.60000000000001,
+      "visible_duration_s": 9.52
+    },
+    {
+      "id": 13,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u04",
+          "start_char": 0,
+          "end_char": 12
+        },
+        {
+          "unit_id": "p004_u05",
+          "start_char": 0,
+          "end_char": 6
+        },
+        {
+          "unit_id": "p004_u06",
+          "start_char": 0,
+          "end_char": 8
+        }
+      ],
+      "text": "天上的一朵灰云飘过去了，月亮露出来，小银杏叶也还在，",
+      "title": "灰云飘过月亮",
+      "location": "窗外夜空",
+      "time_of_day": "夜色初起",
+      "layer": "story",
+      "characters": [],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {},
+      "visual_direction": "灰云从明亮月亮前飘过，同一窗外银杏树在下方；无拟人云。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "灰云从明亮月亮前飘过，同一窗外银杏树在下方；无拟人云。",
+      "continuity_refs": [
+        "LOC_WINDOW_01",
+        "LOC_GINKGO_01",
+        "PROP_ATTACHED_LEAF_01",
+        "PROP_CHAIR_01",
+        "LIGHT_MOON_01"
+      ],
+      "state_before": "灰云从明亮月亮前飘过，同一窗外银杏树在下方；无拟人云。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "state_after": "灰云从明亮月亮前飘过，同一窗外银杏树在下方；无拟人云。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_12",
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_13.png",
+      "image": "images/shot_13.png",
+      "speech_start_s": 127.36160416666668,
+      "speech_end_s": 134.91206150000002,
+      "actual_start_s": 127.12,
+      "actual_end_s": 135.12,
+      "visible_start_s": 126.64,
+      "visible_end_s": 135.6,
+      "visible_duration_s": 8.96
+    },
+    {
+      "id": 14,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u07",
+          "start_char": 0,
+          "end_char": 15
+        },
+        {
+          "unit_id": "p004_u08",
+          "start_char": 0,
+          "end_char": 10
+        }
+      ],
+      "text": "依然稳稳当当地靠着那根细树枝。\n皮皮等了好一会儿，",
+      "title": "月亮露出，叶片未落",
+      "location": "枝头近景",
+      "time_of_day": "夜晚",
+      "layer": "story",
+      "characters": [],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {},
+      "visual_direction": "云散，月光照同一细枝；小银杏叶仍稳稳连枝，形状、位置不变。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "云散，月光照同一细枝；小银杏叶仍稳稳连枝，形状、位置不变。",
+      "continuity_refs": [
+        "LOC_WINDOW_01",
+        "LOC_GINKGO_01",
+        "PROP_ATTACHED_LEAF_01",
+        "PROP_CHAIR_01",
+        "LIGHT_MOON_01"
+      ],
+      "state_before": "云散，月光照同一细枝；小银杏叶仍稳稳连枝，形状、位置不变。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "state_after": "云散，月光照同一细枝；小银杏叶仍稳稳连枝，形状、位置不变。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_13",
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_14.png",
+      "image": "images/shot_14.png",
+      "speech_start_s": 135.36504166666668,
+      "speech_end_s": 142.7457701666667,
+      "actual_start_s": 135.12,
+      "actual_end_s": 142.96,
+      "visible_start_s": 134.64000000000001,
+      "visible_end_s": 143.44,
+      "visible_duration_s": 8.8
+    },
+    {
+      "id": 15,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u09",
+          "start_char": 0,
+          "end_char": 14
+        },
+        {
+          "unit_id": "p004_u10",
+          "start_char": 0,
+          "end_char": 10
+        }
+      ],
+      "text": "忍不住揉了揉有些发困的眼睛，打了一个小小的哈欠。",
+      "title": "困了，轻轻打哈欠",
+      "location": "卧室窗边",
+      "time_of_day": "夜晚",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮等了很久，揉揉困倦的眼睛后小小打哈欠；耳朵自然下垂，表演克制，叶在远处。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "皮皮等了很久，揉揉困倦的眼睛后小小打哈欠；耳朵自然下垂，表演克制，叶在远处。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_WINDOW_01",
+        "LOC_GINKGO_01",
+        "PROP_ATTACHED_LEAF_01",
+        "PROP_CHAIR_01",
+        "LIGHT_MOON_01"
+      ],
+      "state_before": "月亮已从云后露出，叶片仍在枝头。",
+      "state_after": "皮皮揉眼打哈欠，仍在等待；没有任何叶片落下。",
+      "transition_from": "shot_14",
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_15.png",
+      "image": "images/shot_15.png",
+      "speech_start_s": 143.17058333333335,
+      "speech_end_s": 149.70683200000002,
+      "actual_start_s": 142.96,
+      "actual_end_s": 150.28,
+      "visible_start_s": 142.48000000000002,
+      "visible_end_s": 150.76,
+      "visible_duration_s": 8.28
+    },
+    {
+      "id": 16,
+      "paragraph_id": "p005",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u01",
+          "start_char": 0,
+          "end_char": 14
+        },
+        {
+          "unit_id": "p005_u02",
+          "start_char": 0,
+          "end_char": 6
+        },
+        {
+          "unit_id": "p005_u03",
+          "start_char": 0,
+          "end_char": 12
+        }
+      ],
+      "text": "他看了看窗外那片从容的叶子，忽然明白了：每一片叶子什么时候落下，",
+      "title": "看着从容的叶子",
+      "location": "卧室窗边",
+      "time_of_day": "夜晚",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮凝望枝头叶，神情从好奇转为安静思索；不加灯泡、符号等画内说明。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "皮皮凝望枝头叶，神情从好奇转为安静思索；不加灯泡、符号等画内说明。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_WINDOW_01",
+        "LOC_GINKGO_01",
+        "PROP_ATTACHED_LEAF_01",
+        "PROP_CHAIR_01",
+        "LIGHT_MOON_01"
+      ],
+      "state_before": "皮皮凝望枝头叶，神情从好奇转为安静思索；不加灯泡、符号等画内说明。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "state_after": "皮皮凝望枝头叶，神情从好奇转为安静思索；不加灯泡、符号等画内说明。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_15",
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_16.png",
+      "image": "images/shot_16.png",
+      "speech_start_s": 150.8374791666667,
+      "speech_end_s": 160.2012906666667,
+      "actual_start_s": 150.28,
+      "actual_end_s": 160.44,
+      "visible_start_s": 149.8,
+      "visible_end_s": 160.92,
+      "visible_duration_s": 11.12
+    },
+    {
+      "id": 17,
+      "paragraph_id": "p005",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u04",
+          "start_char": 0,
+          "end_char": 9
+        },
+        {
+          "unit_id": "p005_u05",
+          "start_char": 0,
+          "end_char": 13
+        },
+        {
+          "unit_id": "p005_u06",
+          "start_char": 0,
+          "end_char": 11
+        }
+      ],
+      "text": "都有它自己的时间，不是我一直瞪大眼睛盯着它，它就会马上掉下来的呀。",
+      "title": "叶子有自己的时间",
+      "location": "窗内外同框",
+      "time_of_day": "夜晚",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "前景皮皮安静坐窗边，窗外金叶仍靠在枝条上；用平稳构图传达自然节奏，不出现叶片落下。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "前景皮皮安静坐窗边，窗外金叶仍靠在枝条上；用平稳构图传达自然节奏，不出现叶片落下。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_WINDOW_01",
+        "LOC_GINKGO_01",
+        "PROP_ATTACHED_LEAF_01",
+        "PROP_CHAIR_01",
+        "LIGHT_MOON_01"
+      ],
+      "state_before": "前景皮皮安静坐窗边，窗外金叶仍靠在枝条上；用平稳构图传达自然节奏，不出现叶片落下。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "state_after": "前景皮皮安静坐窗边，窗外金叶仍靠在枝条上；用平稳构图传达自然节奏，不出现叶片落下。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_16",
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_17.png",
+      "image": "images/shot_17.png",
+      "speech_start_s": 160.6708125,
+      "speech_end_s": 169.85964550000003,
+      "actual_start_s": 160.44,
+      "actual_end_s": 170.4,
+      "visible_start_s": 159.96,
+      "visible_end_s": 170.88,
+      "visible_duration_s": 10.92
+    },
+    {
+      "id": 18,
+      "paragraph_id": "p005",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u07",
+          "start_char": 0,
+          "end_char": 4
+        },
+        {
+          "unit_id": "p005_u08",
+          "start_char": 0,
+          "end_char": 6
+        }
+      ],
+      "text": "\n于是，皮皮站起身，",
+      "title": "皮皮站起身",
+      "location": "卧室窗边",
+      "time_of_day": "夜晚",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮从矮木椅起身，动作放松，视线不再紧盯枝头；椅子仍在窗边未移动。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "皮皮从矮木椅起身，动作放松，视线不再紧盯枝头；椅子仍在窗边未移动。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_WINDOW_01",
+        "LOC_GINKGO_01",
+        "PROP_ATTACHED_LEAF_01",
+        "PROP_CHAIR_01",
+        "LIGHT_MOON_01"
+      ],
+      "state_before": "皮皮意识到一直等待并不能催叶片落下。",
+      "state_after": "皮皮站起，椅子仍在窗前。",
+      "transition_from": "shot_17",
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_18.png",
+      "image": "images/shot_18.png",
+      "speech_start_s": 170.92964583333335,
+      "speech_end_s": 174.00545833333337,
+      "actual_start_s": 170.4,
+      "actual_end_s": 174.24,
+      "visible_start_s": 169.92000000000002,
+      "visible_end_s": 174.72,
+      "visible_duration_s": 4.8
+    },
+    {
+      "id": 19,
+      "paragraph_id": "p005",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u09",
+          "start_char": 0,
+          "end_char": 14
+        },
+        {
+          "unit_id": "p005_u10",
+          "start_char": 0,
+          "end_char": 13
+        }
+      ],
+      "text": "把窗边的小木椅轻轻推回原处，不再一直仰着小脑袋傻等了。",
+      "title": "木椅推回原处",
+      "location": "卧室窗边",
+      "time_of_day": "夜晚",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮把同一木椅轻推回窗边原处；窗外最后一片叶仍连枝。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "皮皮把同一木椅轻推回窗边原处；窗外最后一片叶仍连枝。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_WINDOW_01",
+        "LOC_GINKGO_01",
+        "PROP_ATTACHED_LEAF_01",
+        "PROP_CHAIR_01",
+        "LIGHT_MOON_01"
+      ],
+      "state_before": "皮皮站在窗边，椅子靠近窗台。",
+      "state_after": "皮皮将同一把椅子推回原处；枝头叶仍连枝。",
+      "transition_from": "shot_18",
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_19.png",
+      "image": "images/shot_19.png",
+      "speech_start_s": 174.46077083333336,
+      "speech_end_s": 182.40347783333334,
+      "actual_start_s": 174.24,
+      "actual_end_s": 182.96,
+      "visible_start_s": 173.76000000000002,
+      "visible_end_s": 183.44,
+      "visible_duration_s": 9.68
+    },
+    {
+      "id": 20,
+      "paragraph_id": "p006",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u01",
+          "start_char": 0,
+          "end_char": 12
+        },
+        {
+          "unit_id": "p006_u02",
+          "start_char": 0,
+          "end_char": 20
+        }
+      ],
+      "text": "他从自己白天的收集篮里，找出了另一片早就落在草地上的金黄银杏叶，",
+      "title": "收集篮里的落叶",
+      "location": "卧室内",
+      "time_of_day": "夜晚",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮从白天使用的小收集篮取一片早已落地的金黄银杏叶；篮里可以有少量其他叶，手里只拿一片。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "皮皮从白天使用的小收集篮取一片早已落地的金黄银杏叶；篮里可以有少量其他叶，手里只拿一片。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "PROP_BASKET_01",
+        "PROP_FALLEN_LEAF_01"
+      ],
+      "state_before": "白天收集篮里有多片已落叶；木碟尚未出现。",
+      "state_after": "皮皮取出一片已落叶拿在手里；篮中少一片，画面尚无木碟。",
+      "transition_from": "shot_19",
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_20.png",
+      "image": "images/shot_20.png",
+      "speech_start_s": 183.5048125,
+      "speech_end_s": 192.57308300000003,
+      "actual_start_s": 182.96,
+      "actual_end_s": 192.8,
+      "visible_start_s": 182.48000000000002,
+      "visible_end_s": 193.28,
+      "visible_duration_s": 10.8
+    },
+    {
+      "id": 21,
+      "paragraph_id": "p006",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u03",
+          "start_char": 0,
+          "end_char": 16
+        },
+        {
+          "unit_id": "p006_u04",
+          "start_char": 0,
+          "end_char": 8
+        }
+      ],
+      "text": "把它平平地放到床头柜的小木碟里，让它隔着玻璃窗，",
+      "title": "把落叶放进床头小碟",
+      "location": "床头柜",
+      "time_of_day": "夜晚",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮将这片已落叶平平放进浅圆木碟，木碟在床头柜；不把叶放窗台，不复制叶片。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "皮皮将这片已落叶平平放进浅圆木碟，木碟在床头柜；不把叶放窗台，不复制叶片。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "PROP_FALLEN_LEAF_01",
+        "PROP_DISH_01",
+        "PROP_NIGHTSTAND_01",
+        "LOC_WINDOW_01",
+        "PROP_ATTACHED_LEAF_01"
+      ],
+      "state_before": "皮皮手里拿着那片已落叶；床头柜尚无木碟。",
+      "state_after": "木碟首次出现于床头柜，已落叶被平放其中；篮留在房间。",
+      "transition_from": "shot_20",
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_21.png",
+      "image": "images/shot_21.png",
+      "speech_start_s": 193.04995833333336,
+      "speech_end_s": 200.22326983333338,
+      "actual_start_s": 192.8,
+      "actual_end_s": 200.44,
+      "visible_start_s": 192.32000000000002,
+      "visible_end_s": 200.92,
+      "visible_duration_s": 8.6
+    },
+    {
+      "id": 22,
+      "paragraph_id": "p006",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u05",
+          "start_char": 0,
+          "end_char": 14
+        },
+        {
+          "unit_id": "p006_u06",
+          "start_char": 0,
+          "end_char": 20
+        }
+      ],
+      "text": "和枝头上的那片叶子遥遥相望。\n一片已经落下来的叶子在温暖的屋里歇息，",
+      "title": "隔窗遥望枝头叶",
+      "location": "床头柜与窗口",
+      "time_of_day": "夜晚",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "同一构图中近处碟内已落叶和远处窗外仍连枝的叶同时可见，中间隔玻璃；无拼贴分屏。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "同一构图中近处碟内已落叶和远处窗外仍连枝的叶同时可见，中间隔玻璃；无拼贴分屏。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "PROP_FALLEN_LEAF_01",
+        "PROP_DISH_01",
+        "PROP_NIGHTSTAND_01",
+        "LOC_WINDOW_01",
+        "PROP_ATTACHED_LEAF_01"
+      ],
+      "state_before": "一片已落叶平放于床头柜木碟，窗外另一片仍连枝。",
+      "state_after": "碟中叶与枝头叶隔窗遥望，均保持原位。",
+      "transition_from": "shot_21",
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_22.png",
+      "image": "images/shot_22.png",
+      "speech_start_s": 200.67702083333336,
+      "speech_end_s": 211.12006183333335,
+      "actual_start_s": 200.44,
+      "actual_end_s": 211.36,
+      "visible_start_s": 199.96,
+      "visible_end_s": 211.84,
+      "visible_duration_s": 11.88
+    },
+    {
+      "id": 23,
+      "paragraph_id": "p006",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u07",
+          "start_char": 0,
+          "end_char": 20
+        },
+        {
+          "unit_id": "p006_u08",
+          "start_char": 0,
+          "end_char": 10
+        },
+        {
+          "unit_id": "p006_u09",
+          "start_char": 0,
+          "end_char": 12
+        }
+      ],
+      "text": "一片还没落下来的叶子在清爽的枝头看月亮，它们都有自己的节奏，不需要在今晚一起做决定。",
+      "title": "两片叶子各自安歇",
+      "location": "床头与窗外",
+      "time_of_day": "月夜",
+      "layer": "story",
+      "characters": [],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {},
+      "visual_direction": "暖色室内木碟里一片已落叶，窗外蓝月光下另一片仍连细枝；两叶相似但可区分，彼此遥望。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "暖色室内木碟里一片已落叶，窗外蓝月光下另一片仍连细枝；两叶相似但可区分，彼此遥望。",
+      "continuity_refs": [
+        "PROP_FALLEN_LEAF_01",
+        "PROP_DISH_01",
+        "PROP_NIGHTSTAND_01",
+        "LOC_WINDOW_01",
+        "PROP_ATTACHED_LEAF_01"
+      ],
+      "state_before": "一片已落叶平放于床头柜木碟，窗外另一片仍连枝。",
+      "state_after": "碟中叶与枝头叶隔窗遥望，均保持原位。",
+      "transition_from": "shot_22",
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_23.png",
+      "image": "images/shot_23.png",
+      "speech_start_s": 211.57633333333334,
+      "speech_end_s": 223.72964516666664,
+      "actual_start_s": 211.36,
+      "actual_end_s": 224.32,
+      "visible_start_s": 210.88000000000002,
+      "visible_end_s": 224.79999999999998,
+      "visible_duration_s": 13.92
+    },
+    {
+      "id": 24,
+      "paragraph_id": "p007",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u01",
+          "start_char": 0,
+          "end_char": 11
+        },
+        {
+          "unit_id": "p007_u02",
+          "start_char": 0,
+          "end_char": 12
+        }
+      ],
+      "text": "暖黄色的毛毯盖好以后，皮皮舒舒服服地靠住枕头，",
+      "title": "毛毯盖好靠枕",
+      "location": "卧室床上",
+      "time_of_day": "夜晚",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "皮皮穿注册睡前造型，靠住枕头，暖黄毛毯盖到胸口；神情舒适放松。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "皮皮穿注册睡前造型，靠住枕头，暖黄毛毯盖到胸口；神情舒适放松。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "PROP_FALLEN_LEAF_01",
+        "PROP_DISH_01",
+        "PROP_NIGHTSTAND_01",
+        "LOC_WINDOW_01",
+        "PROP_ATTACHED_LEAF_01",
+        "PROP_BED_01"
+      ],
+      "state_before": "皮皮准备结束等待并休息；两片叶处于各自位置。",
+      "state_after": "皮皮躺在床上，靠枕并盖暖毯。",
+      "transition_from": "shot_23",
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_24.png",
+      "image": "images/shot_24.png",
+      "speech_start_s": 224.88406249999997,
+      "speech_end_s": 231.96531116666665,
+      "actual_start_s": 224.32,
+      "actual_end_s": 232.2,
+      "visible_start_s": 223.84,
+      "visible_end_s": 232.67999999999998,
+      "visible_duration_s": 8.84
+    },
+    {
+      "id": 25,
+      "paragraph_id": "p007",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u03",
+          "start_char": 0,
+          "end_char": 14
+        },
+        {
+          "unit_id": "p007_u04",
+          "start_char": 0,
+          "end_char": 13
+        }
+      ],
+      "text": "对着窗外那把金黄色的小扇子，在心里轻声道了句“晚安”。",
+      "title": "向枝头叶说晚安",
+      "location": "卧室床上",
+      "time_of_day": "夜晚",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "皮皮侧头望窗外仍留枝头的金黄叶，安静道别；不添加文字气泡。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "皮皮侧头望窗外仍留枝头的金黄叶，安静道别；不添加文字气泡。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "PROP_FALLEN_LEAF_01",
+        "PROP_DISH_01",
+        "PROP_NIGHTSTAND_01",
+        "LOC_WINDOW_01",
+        "PROP_ATTACHED_LEAF_01",
+        "PROP_BED_01"
+      ],
+      "state_before": "皮皮已靠住枕头，暖毯盖好；室内外两片叶位置不变。",
+      "state_after": "皮皮逐渐闭眼入睡，两片银杏叶仍各自安稳在位。",
+      "transition_from": "shot_24",
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_25.png",
+      "image": "images/shot_25.png",
+      "speech_start_s": 232.41360416666663,
+      "speech_end_s": 240.13097849999994,
+      "actual_start_s": 232.2,
+      "actual_end_s": 240.68,
+      "visible_start_s": 231.72,
+      "visible_end_s": 241.16,
+      "visible_duration_s": 9.44
+    },
+    {
+      "id": 26,
+      "paragraph_id": "p007",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u05",
+          "start_char": 0,
+          "end_char": 9
+        },
+        {
+          "unit_id": "p007_u06",
+          "start_char": 0,
+          "end_char": 12
+        },
+        {
+          "unit_id": "p007_u07",
+          "start_char": 0,
+          "end_char": 20
+        }
+      ],
+      "text": "\n他慢慢闭上眼睛。今晚那片叶子落不落下来，都一点儿也不妨碍小兔子睡一个香甜的好觉。",
+      "title": "闭眼进入好梦",
+      "location": "卧室床上",
+      "time_of_day": "深夜",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "皮皮在同一枕头、暖黄毛毯下闭眼睡着，神情平和；窗外金叶仍在枝头，床头碟内另一叶仍在。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "皮皮在同一枕头、暖黄毛毯下闭眼睡着，神情平和；窗外金叶仍在枝头，床头碟内另一叶仍在。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "PROP_FALLEN_LEAF_01",
+        "PROP_DISH_01",
+        "PROP_NIGHTSTAND_01",
+        "LOC_WINDOW_01",
+        "PROP_ATTACHED_LEAF_01",
+        "PROP_BED_01"
+      ],
+      "state_before": "皮皮已靠住枕头，暖毯盖好；室内外两片叶位置不变。",
+      "state_after": "皮皮逐渐闭眼入睡，两片银杏叶仍各自安稳在位。",
+      "transition_from": "shot_25",
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_26.png",
+      "image": "images/shot_26.png",
+      "speech_start_s": 241.22274999999996,
+      "speech_end_s": 253.65493749999996,
+      "actual_start_s": 240.68,
+      "actual_end_s": 254.2,
+      "visible_start_s": 240.20000000000002,
+      "visible_end_s": 254.67999999999998,
+      "visible_duration_s": 14.48
+    },
+    {
+      "id": 27,
+      "paragraph_id": "p008",
+      "source_ranges": [
+        {
+          "unit_id": "p008_u01",
+          "start_char": 0,
+          "end_char": 4
+        },
+        {
+          "unit_id": "p008_u02",
+          "start_char": 0,
+          "end_char": 17
+        },
+        {
+          "unit_id": "p008_u03",
+          "start_char": 0,
+          "end_char": 10
+        }
+      ],
+      "text": "小朋友，生活里那些还没有等到结果的小事情，就放心地交给明天吧。",
+      "title": "小事情交给明天",
+      "location": "卧室床与窗口",
+      "time_of_day": "深夜",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "安静远景：熟睡皮皮、窗外月色里未落的叶、床头碟里已落的叶同框，表现安心留给明天，不出现文字拼贴。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "安静远景：熟睡皮皮、窗外月色里未落的叶、床头碟里已落的叶同框，表现安心留给明天，不出现文字拼贴。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "PROP_FALLEN_LEAF_01",
+        "PROP_DISH_01",
+        "PROP_NIGHTSTAND_01",
+        "LOC_WINDOW_01",
+        "PROP_ATTACHED_LEAF_01",
+        "PROP_BED_01"
+      ],
+      "state_before": "皮皮已靠住枕头，暖毯盖好；室内外两片叶位置不变。",
+      "state_after": "皮皮逐渐闭眼入睡，两片银杏叶仍各自安稳在位。",
+      "transition_from": "shot_26",
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_27.png",
+      "image": "images/shot_27.png",
+      "speech_start_s": 254.7701458333333,
+      "speech_end_s": 263.8188951666666,
+      "actual_start_s": 254.2,
+      "actual_end_s": 264.36,
+      "visible_start_s": 253.72,
+      "visible_end_s": 264.84000000000003,
+      "visible_duration_s": 11.12
+    },
+    {
+      "id": 28,
+      "paragraph_id": "p008",
+      "source_ranges": [
+        {
+          "unit_id": "p008_u04",
+          "start_char": 0,
+          "end_char": 5
+        },
+        {
+          "unit_id": "p008_u05",
+          "start_char": 0,
+          "end_char": 12
+        },
+        {
+          "unit_id": "p008_u06",
+          "start_char": 0,
+          "end_char": 3
+        }
+      ],
+      "text": "今晚的你，只需要先让自己好好休息。晚安。",
+      "title": "晚安与安稳休息",
+      "location": "卧室床与窗口",
+      "time_of_day": "深夜",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "最终静谧构图，窗外金叶仍连枝，床头碟中另一金叶安稳平放，皮皮盖暖毯熟睡；温暖月夜无文字。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "最终静谧构图，窗外金叶仍连枝，床头碟中另一金叶安稳平放，皮皮盖暖毯熟睡；温暖月夜无文字。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "PROP_FALLEN_LEAF_01",
+        "PROP_DISH_01",
+        "PROP_NIGHTSTAND_01",
+        "LOC_WINDOW_01",
+        "PROP_ATTACHED_LEAF_01",
+        "PROP_BED_01"
+      ],
+      "state_before": "皮皮已靠住枕头，暖毯盖好；室内外两片叶位置不变。",
+      "state_after": "皮皮逐渐闭眼入睡，两片银杏叶仍各自安稳在位。",
+      "transition_from": "shot_27",
+      "image_status": "generated_candidate_visual_review_passed",
+      "image_path": "images/shot_28.png",
+      "image": "images/shot_28.png",
+      "speech_start_s": 264.8985208333333,
+      "speech_end_s": 271.8150406666667,
+      "actual_start_s": 264.36,
+      "actual_end_s": 272.96,
+      "visible_start_s": 263.88,
+      "visible_end_s": 272.96,
+      "visible_duration_s": 9.08
+    }
+  ],
+  "audio": "mix.wav",
+  "subtitles": "episode.ass",
+  "character_registry": "references/",
+  "fonts": [
+    {
+      "path": "fonts/NotoSansCJKsc-Bold.otf",
+      "sha256": "85c969dbb2f927c8dbbe440d5755b7c9a714f13a7a58339459df43cfff3583b3"
+    },
+    {
+      "path": "fonts/Noto-Sans-copyright.txt",
+      "sha256": "075f91382875da1c4b491f1facf2586f55448705133264d98ce15cab6211b125"
+    },
+    {
+      "path": "fonts/NotoSans-Regular.ttf",
+      "sha256": "89c3c497f618fdaa0b2d1e98fef93582f28c71debd2c4a8cdf41f190ced2909d"
+    },
+    {
+      "path": "fonts/NotoSansCJKsc-Regular.otf",
+      "sha256": "82e9bdfd176ce68c51f6ff89ca7e2abae7fdb82b4591aa7338638598ae3c91c8"
+    },
+    {
+      "path": "fonts/Noto-CJK-copyright.txt",
+      "sha256": "849f4ea9c214fa4ac3593b770c699f387534b11ce671264c1b10d85bdcb5997b"
+    }
+  ]
+}

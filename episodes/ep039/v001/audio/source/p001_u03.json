@@ -1,0 +1,23 @@
+{
+  "text": "\n一到深秋，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "4acc181359b836492b61f3f1c5327b9b4fe8e61092686be5416062b7a24e38d5",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5000000,
+      "text": "一到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6461660,
+      "duration": 9230830,
+      "text": "深秋"
+    }
+  ]
+}

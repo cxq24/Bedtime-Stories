@@ -1,0 +1,77 @@
+{
+  "text": "把它平平地放到床头柜的小木碟里，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "0416829353b5ac1c03bd6e55edb84afa72d4dba3802356513e31d3c560ec731a",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2115410,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3384580,
+      "duration": 1922910,
+      "text": "它"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5500000,
+      "duration": 7692500,
+      "text": "平平"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13192500,
+      "duration": 4038330,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18577080,
+      "duration": 2692080,
+      "text": "放"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21269160,
+      "duration": 1922910,
+      "text": "到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23577080,
+      "duration": 9038330,
+      "text": "床头柜"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32615410,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34153750,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37422910,
+      "duration": 6538330,
+      "text": "木碟"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43961660,
+      "duration": 3653750,
+      "text": "里"
+    }
+  ]
+}

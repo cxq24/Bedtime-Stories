@@ -1,0 +1,47 @@
+{
+  "text": "这几天秋风吹过，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "d2e73ee7465c7d71fbbe049a97ba693b3c70aa3e9272ea88d6be6cd1d0f072ff",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3269160,
+      "text": "这"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4538330,
+      "duration": 2115410,
+      "text": "几"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6653750,
+      "duration": 3077080,
+      "text": "天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10115410,
+      "duration": 5577080,
+      "text": "秋风"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15884580,
+      "duration": 4038330,
+      "text": "吹"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19922910,
+      "duration": 4422910,
+      "text": "过"
+    }
+  ]
+}

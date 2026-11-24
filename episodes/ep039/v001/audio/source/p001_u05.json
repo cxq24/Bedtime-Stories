@@ -1,0 +1,71 @@
+{
+  "text": "每一片都像一把精致的小扇子。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "de833298fc14212daa98d85189cc5ab466afffde0b0edf8de6ac5d560c6fd77c",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3461660,
+      "text": "每"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4730830,
+      "duration": 7307500,
+      "text": "一片"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12422910,
+      "duration": 1730830,
+      "text": "都"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14153750,
+      "duration": 2500000,
+      "text": "像"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16846250,
+      "duration": 1538330,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18384580,
+      "duration": 2307500,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21077080,
+      "duration": 5000000,
+      "text": "精致"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26077080,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27422910,
+      "duration": 3077080,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30500000,
+      "duration": 8461660,
+      "text": "扇子"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "text": "这片叶子今晚到底会不会落下来呢？",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "38ec32b42c5e1259204b762d027d068d18670ee26d9e5fb01ce9f49cd8b13b71",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2692500,
+      "text": "这"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3961660,
+      "duration": 3077080,
+      "text": "片"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7230830,
+      "duration": 8461660,
+      "text": "叶子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17230830,
+      "duration": 5384580,
+      "text": "今晚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22807500,
+      "duration": 4230830,
+      "text": "到底"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27422910,
+      "duration": 2307500,
+      "text": "会"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29730830,
+      "duration": 3846250,
+      "text": "不会"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33961660,
+      "duration": 2500000,
+      "text": "落"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36461660,
+      "duration": 5576660,
+      "text": "下来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42038330,
+      "duration": 3653750,
+      "text": "呢"
+    }
+  ]
+}

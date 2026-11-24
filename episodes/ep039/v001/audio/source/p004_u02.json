@@ -1,0 +1,35 @@
+{
+  "text": "树枝摇了摇，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "f527a4d636d4597baca88bedf29c833936d4e908202bdd4c1b326f8d42d9a79f",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6730830,
+      "text": "树枝"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8384580,
+      "duration": 3461660,
+      "text": "摇"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11846250,
+      "duration": 1730830,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13577080,
+      "duration": 5384580,
+      "text": "摇"
+    }
+  ]
+}

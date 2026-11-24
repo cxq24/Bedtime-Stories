@@ -1,0 +1,21 @@
+{
+  "episode": "ep039",
+  "version": "v001",
+  "title": "还在枝头的银杏叶",
+  "updated_on": "2026-11-24",
+  "script_version": "v5",
+  "media_status": "rendered_technical_pass",
+  "source_script": "02_100集剧本/用户长稿v5/结构化JSON/ep039.json",
+  "storyboard_shots": 29,
+  "duration_s": 272.96,
+  "subtitle_cues": 130,
+  "hanzi_coverage": "743/743",
+  "delivery": "Outputs/2026-11-24/ep039-v001",
+  "main_video": "Outputs/2026-11-24/ep039-v001/ep039.mp4",
+  "clean_video": "Outputs/2026-11-24/ep039-v001/ep039_clean.mp4",
+  "technical_check": "checks/final_technical_check.json",
+  "human_full_audio_visual_review": "not_certified",
+  "user_acceptance": "pending",
+  "platform_published": false,
+  "repository_sync": "pending"
+}

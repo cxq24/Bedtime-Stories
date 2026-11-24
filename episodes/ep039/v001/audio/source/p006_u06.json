@@ -1,0 +1,77 @@
+{
+  "text": "\n一片已经落下来的叶子在温暖的屋里歇息，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "554a0af736b7ab955fbf6c3e6da203837627a04b5cd94c48cbbd0f727d857254",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5961660,
+      "text": "一片"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7615410,
+      "duration": 4038330,
+      "text": "已经"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11846250,
+      "duration": 2884580,
+      "text": "落"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14730830,
+      "duration": 4615410,
+      "text": "下来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19346250,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20692500,
+      "duration": 8077080,
+      "text": "叶子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30307500,
+      "duration": 2884580,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33384580,
+      "duration": 5769160,
+      "text": "温暖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39153750,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40884580,
+      "duration": 4422910,
+      "text": "屋里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45500000,
+      "duration": 8269160,
+      "text": "歇息"
+    }
+  ]
+}

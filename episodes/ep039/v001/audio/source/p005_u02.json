@@ -1,0 +1,17 @@
+{
+  "text": "忽然明白了：",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "6804f3d62e5c83eb3a3de9a362a9d994fcbe5ad4f27069d3c453a268c4a57845",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 16153750,
+      "text": "忽然明白了"
+    }
+  ]
+}

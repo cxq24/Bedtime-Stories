@@ -1,0 +1,17 @@
+{
+  "text": "\n于是，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "9919bf5b09db75b12014f2d4e17621640805915576b32dd8ba2f0c6bb2b89bce",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 8846250,
+      "text": "于是"
+    }
+  ]
+}

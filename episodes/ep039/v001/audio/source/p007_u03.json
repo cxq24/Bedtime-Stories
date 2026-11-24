@@ -1,0 +1,59 @@
+{
+  "text": "对着窗外那把金黄色的小扇子，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "dcd7d52db95f37a75badf94417839c5fb8da43e19a40864c5e2acda86eb5cde4",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3846250,
+      "text": "对着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5307500,
+      "duration": 9038330,
+      "text": "窗外"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15884580,
+      "duration": 1922910,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17807500,
+      "duration": 2307500,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20500000,
+      "duration": 9038330,
+      "text": "金黄色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29538330,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30884580,
+      "duration": 3077080,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33961660,
+      "duration": 8846250,
+      "text": "扇子"
+    }
+  ]
+}

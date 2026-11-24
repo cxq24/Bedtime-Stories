@@ -1,0 +1,47 @@
+{
+  "text": "都有它自己的时间，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "fe10c045b7c6945c02ce16e0268708f8368269714c5f2644834f904e502fc191",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2692500,
+      "text": "都"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3961660,
+      "duration": 2307500,
+      "text": "有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6269160,
+      "duration": 2307500,
+      "text": "它"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8961660,
+      "duration": 5000000,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13961660,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15500000,
+      "duration": 8269160,
+      "text": "时间"
+    }
+  ]
+}

@@ -1,0 +1,446 @@
+[
+  {
+    "id": "p000_u01",
+    "paragraph_id": "p000",
+    "text": "小朋友们，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p000_u02",
+    "paragraph_id": "p000",
+    "text": "准备好听故事了吗？",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p000_u03",
+    "paragraph_id": "p000",
+    "text": "今天的故事叫《还在枝头的银杏叶》。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p000_u04",
+    "paragraph_id": "p000",
+    "text": "秋风吹落了许多银杏叶，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p000_u05",
+    "paragraph_id": "p000",
+    "text": "还有一片留在枝头，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p000_u06",
+    "paragraph_id": "p000",
+    "text": "它也可以慢慢休息吗？",
+    "pause_after_s": 0.95
+  },
+  {
+    "id": "p001_u01",
+    "paragraph_id": "p001",
+    "text": "皮皮家小木屋的窗外，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p001_u02",
+    "paragraph_id": "p001",
+    "text": "长着一棵高大的银杏树。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p001_u03",
+    "paragraph_id": "p001",
+    "text": "\n一到深秋，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p001_u04",
+    "paragraph_id": "p001",
+    "text": "银杏树叶就变成了灿烂的金黄色，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p001_u05",
+    "paragraph_id": "p001",
+    "text": "每一片都像一把精致的小扇子。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p001_u06",
+    "paragraph_id": "p001",
+    "text": "这几天秋风吹过，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p001_u07",
+    "paragraph_id": "p001",
+    "text": "成百上千把“小金扇子”纷纷落下来，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p001_u08",
+    "paragraph_id": "p001",
+    "text": "把院子铺得金灿灿的。",
+    "pause_after_s": 0.95
+  },
+  {
+    "id": "p002_u01",
+    "paragraph_id": "p002",
+    "text": "今天傍晚，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p002_u02",
+    "paragraph_id": "p002",
+    "text": "皮皮和来做客的小鼹鼠点点趴在窗前看风景。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p002_u03",
+    "paragraph_id": "p002",
+    "text": "\n点点指着窗外说：",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p002_u04",
+    "paragraph_id": "p002",
+    "text": "“皮皮你看，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p002_u05",
+    "paragraph_id": "p002",
+    "text": "整棵银杏树的叶子都快掉光了，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p002_u06",
+    "paragraph_id": "p002",
+    "text": "只剩下靠近窗户的那根细枝上，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p002_u07",
+    "paragraph_id": "p002",
+    "text": "还留着最后一片小叶子呢！”",
+    "pause_after_s": 0.95
+  },
+  {
+    "id": "p003_u01",
+    "paragraph_id": "p003",
+    "text": "点点回家后，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p003_u02",
+    "paragraph_id": "p003",
+    "text": "皮皮吃过晚饭，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p003_u03",
+    "paragraph_id": "p003",
+    "text": "搬来自己的小木椅坐在窗边，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p003_u04",
+    "paragraph_id": "p003",
+    "text": "双手托着腮帮子，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p003_u05",
+    "paragraph_id": "p003",
+    "text": "目不转睛地看着枝头那最后一片金黄色的银杏叶。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p003_u06",
+    "paragraph_id": "p003",
+    "text": "\n晚风吹过来，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p003_u07",
+    "paragraph_id": "p003",
+    "text": "那片小扇子一样的叶子在枝头慢慢地晃了两下，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p003_u08",
+    "paragraph_id": "p003",
+    "text": "叶柄动了动。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p003_u09",
+    "paragraph_id": "p003",
+    "text": "皮皮心里充满了好奇，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p003_u10",
+    "paragraph_id": "p003",
+    "text": "他特别想知道，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p003_u11",
+    "paragraph_id": "p003",
+    "text": "这片叶子今晚到底会不会落下来呢？",
+    "pause_after_s": 0.95
+  },
+  {
+    "id": "p004_u01",
+    "paragraph_id": "p004",
+    "text": "一阵稍大一点的风经过了，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p004_u02",
+    "paragraph_id": "p004",
+    "text": "树枝摇了摇，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p004_u03",
+    "paragraph_id": "p004",
+    "text": "小银杏叶还在；",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p004_u04",
+    "paragraph_id": "p004",
+    "text": "天上的一朵灰云飘过去了，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p004_u05",
+    "paragraph_id": "p004",
+    "text": "月亮露出来，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p004_u06",
+    "paragraph_id": "p004",
+    "text": "小银杏叶也还在，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p004_u07",
+    "paragraph_id": "p004",
+    "text": "依然稳稳当当地靠着那根细树枝。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p004_u08",
+    "paragraph_id": "p004",
+    "text": "\n皮皮等了好一会儿，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p004_u09",
+    "paragraph_id": "p004",
+    "text": "忍不住揉了揉有些发困的眼睛，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p004_u10",
+    "paragraph_id": "p004",
+    "text": "打了一个小小的哈欠。",
+    "pause_after_s": 0.95
+  },
+  {
+    "id": "p005_u01",
+    "paragraph_id": "p005",
+    "text": "他看了看窗外那片从容的叶子，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p005_u02",
+    "paragraph_id": "p005",
+    "text": "忽然明白了：",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p005_u03",
+    "paragraph_id": "p005",
+    "text": "每一片叶子什么时候落下，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p005_u04",
+    "paragraph_id": "p005",
+    "text": "都有它自己的时间，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p005_u05",
+    "paragraph_id": "p005",
+    "text": "不是我一直瞪大眼睛盯着它，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p005_u06",
+    "paragraph_id": "p005",
+    "text": "它就会马上掉下来的呀。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p005_u07",
+    "paragraph_id": "p005",
+    "text": "\n于是，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p005_u08",
+    "paragraph_id": "p005",
+    "text": "皮皮站起身，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p005_u09",
+    "paragraph_id": "p005",
+    "text": "把窗边的小木椅轻轻推回原处，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p005_u10",
+    "paragraph_id": "p005",
+    "text": "不再一直仰着小脑袋傻等了。",
+    "pause_after_s": 0.95
+  },
+  {
+    "id": "p006_u01",
+    "paragraph_id": "p006",
+    "text": "他从自己白天的收集篮里，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p006_u02",
+    "paragraph_id": "p006",
+    "text": "找出了另一片早就落在草地上的金黄银杏叶，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p006_u03",
+    "paragraph_id": "p006",
+    "text": "把它平平地放到床头柜的小木碟里，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p006_u04",
+    "paragraph_id": "p006",
+    "text": "让它隔着玻璃窗，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p006_u05",
+    "paragraph_id": "p006",
+    "text": "和枝头上的那片叶子遥遥相望。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p006_u06",
+    "paragraph_id": "p006",
+    "text": "\n一片已经落下来的叶子在温暖的屋里歇息，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p006_u07",
+    "paragraph_id": "p006",
+    "text": "一片还没落下来的叶子在清爽的枝头看月亮，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p006_u08",
+    "paragraph_id": "p006",
+    "text": "它们都有自己的节奏，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p006_u09",
+    "paragraph_id": "p006",
+    "text": "不需要在今晚一起做决定。",
+    "pause_after_s": 0.95
+  },
+  {
+    "id": "p007_u01",
+    "paragraph_id": "p007",
+    "text": "暖黄色的毛毯盖好以后，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p007_u02",
+    "paragraph_id": "p007",
+    "text": "皮皮舒舒服服地靠住枕头，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p007_u03",
+    "paragraph_id": "p007",
+    "text": "对着窗外那把金黄色的小扇子，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p007_u04",
+    "paragraph_id": "p007",
+    "text": "在心里轻声道了句“晚安”。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p007_u05",
+    "paragraph_id": "p007",
+    "text": "\n他慢慢闭上眼睛。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p007_u06",
+    "paragraph_id": "p007",
+    "text": "今晚那片叶子落不落下来，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p007_u07",
+    "paragraph_id": "p007",
+    "text": "都一点儿也不妨碍小兔子睡一个香甜的好觉。",
+    "pause_after_s": 0.95
+  },
+  {
+    "id": "p008_u01",
+    "paragraph_id": "p008",
+    "text": "小朋友，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p008_u02",
+    "paragraph_id": "p008",
+    "text": "生活里那些还没有等到结果的小事情，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p008_u03",
+    "paragraph_id": "p008",
+    "text": "就放心地交给明天吧。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p008_u04",
+    "paragraph_id": "p008",
+    "text": "今晚的你，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p008_u05",
+    "paragraph_id": "p008",
+    "text": "只需要先让自己好好休息。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p008_u06",
+    "paragraph_id": "p008",
+    "text": "晚安。",
+    "pause_after_s": 0.95
+  }
+]

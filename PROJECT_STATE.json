@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_on": "2026-11-23",
+  "updated_on": "2026-11-24",
   "repository": "https://github.com/Carlosxiaoqing/Bedtime-Stories",
   "branch": "main",
   "adopted_script_version": "v5",
@@ -20,8 +20,8 @@
     "record": "episodes/ep006/v002/用户验收记录.json"
   },
   "next_candidate": {
-    "id": "ep039",
-    "title": "还在枝头的银杏叶",
+    "id": "ep040",
+    "title": "请按需要读取对应集v5 JSON",
     "authorized": false,
     "media_status": "not_started"
   },
@@ -73,6 +73,27 @@
   },
   "publication": "not_published",
   "latest_production": {
+    "id": "ep039",
+    "version": "v001",
+    "title": "还在枝头的银杏叶",
+    "script_version": "v5",
+    "duration_s": 272.96,
+    "shots": 29,
+    "hanzi": 743,
+    "subtitle_cues": 130,
+    "status": "technical_passed_human_watch_pending",
+    "record": "episodes/ep039/v001/RECORD.md",
+    "delivery": "Outputs/2026-11-24/ep039-v001/README.md",
+    "published": false,
+    "user_acceptance": "pending",
+    "github_sync": "content_pending_metadata_sync",
+    "technical_checks": "passed_full_decode_both_files",
+    "continuity_preflight": "passed",
+    "continuity_image_review": "passed_full_29_shot_contact_sheet_and_cover_phone_check",
+    "human_full_watch": "not_certified",
+    "phone_subtitle_review": "passed_360px_preview_samples"
+  },
+  "previous_production": {
     "id": "ep038",
     "version": "v001",
     "title": "树枝给围巾让个座",
@@ -95,29 +116,6 @@
     "github_sync_commit": "48be569",
     "github_sync_date": "2026-11-23",
     "github_sync_scope": "complete_ep038_v001_project_and_delivery_including_both_videos"
-  },
-  "previous_production": {
-    "id": "ep036",
-    "version": "v001",
-    "title": "落叶小路停一停",
-    "script_version": "v5",
-    "duration_s": 265.44,
-    "shots": 33,
-    "hanzi": 702,
-    "subtitle_cues": 123,
-    "status": "technical_passed_human_watch_pending",
-    "record": "episodes/ep036/v001/RECORD.md",
-    "delivery": "Outputs/2026-11-23/ep036-v001/README.md",
-    "published": false,
-    "user_acceptance": "pending",
-    "github_sync": "synced_to_main",
-    "technical_checks": "passed",
-    "continuity_preflight": "passed",
-    "continuity_image_review": "passed_full_33_shot_contact_sheet_and_cover_phone_check",
-    "human_full_watch": "not_certified",
-    "github_sync_date": "2026-11-23",
-    "github_sync_commit": "9e24cc2",
-    "github_sync_scope": "complete_ep036_v001_project_and_delivery_including_both_videos"
   },
   "current_production": {
     "id": "ep038",

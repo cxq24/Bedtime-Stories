@@ -1,0 +1,609 @@
+{
+  "episode": "ep039",
+  "version": "v001",
+  "assets": {
+    "pipi": {
+      "id": "CHAR_PIPI_01",
+      "fixed": "小灰兔，暖灰毛、圆脸、淡粉鼻、自然下垂长耳，沿用官方身份参考。日常装为米色上衣、灰蓝背带裤；睡前用注册睡前造型。"
+    },
+    "diandian": {
+      "id": "CHAR_DIANDIAN_01",
+      "fixed": "灰褐小鼹鼠，淡粉鼻、小眼睛、短圆爪、固定米色围兜，约皮皮0.65倍高；仅做客时出现，之后回家离开。"
+    },
+    "ginkgo_tree": {
+      "id": "LOC_GINKGO_01",
+      "fixed": "高大银杏树固定长在皮皮木屋卧室窗外偏右；靠窗一根细枝从同一方向进入视野，深秋树冠稀疏、院地铺叶。"
+    },
+    "attached_leaf": {
+      "id": "PROP_ATTACHED_LEAF_01",
+      "fixed": "一片完整金黄色扇形银杏叶，细梗整集持续连接同一细枝，始终不落、不损坏、不改位置，仅随风轻晃。"
+    },
+    "fallen_leaf": {
+      "id": "PROP_FALLEN_LEAF_01",
+      "fixed": "另一片早已落地的金黄扇形叶，先在收集篮，后由皮皮平放进床头浅木碟；与仍连枝的叶子是不同的两片。"
+    },
+    "ground_leaves": {
+      "id": "PROP_GROUND_LEAVES_01",
+      "fixed": "院子地上大量已落金黄扇形银杏叶，建立外景时出现。"
+    },
+    "window": {
+      "id": "LOC_WINDOW_01",
+      "fixed": "同一扇宽木框玻璃窗；室内向外看，树偏右，窗边细枝位置固定；窗框和窗台不移动。"
+    },
+    "chair": {
+      "id": "PROP_CHAIR_01",
+      "fixed": "一把矮小木椅被皮皮挪到窗前观看，后来推回窗边原处。"
+    },
+    "basket": {
+      "id": "PROP_BASKET_01",
+      "fixed": "白天收集落叶的小篮，仅在皮皮取出落叶时出现。"
+    },
+    "dish": {
+      "id": "PROP_DISH_01",
+      "fixed": "浅圆自然木色小碟，固定放在床头柜，只盛放那一片已落叶，不移动到窗台。"
+    },
+    "nightstand": {
+      "id": "PROP_NIGHTSTAND_01",
+      "fixed": "低矮木制床头柜，固定在床侧。"
+    },
+    "bed": {
+      "id": "PROP_BED_01",
+      "fixed": "简单低床、奶油色枕头、暖黄毛毯，夜间镜头方向和摆位不变。"
+    },
+    "moon": {
+      "id": "LIGHT_MOON_01",
+      "fixed": "夜空同一轮柔和月亮，灰云短暂经过后移开；不改变树和叶子的状态。"
+    }
+  },
+  "shot_states": [
+    {
+      "shot_id": "00",
+      "location": "林间片头",
+      "time_of_day": "秋日傍晚",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "LOC_GINKGO_01",
+        "PROP_GROUND_LEAVES_01"
+      ],
+      "state_before": "皮皮在木屋外的银杏树下向观众温和问候，头上方金黄扇形叶片缓缓飘过。独立片头图，不出现窗户、木碟或后续等待情节。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "皮皮在木屋外的银杏树下向观众温和问候，头上方金黄扇形叶片缓缓飘过。独立片头图，不出现窗户、木碟或后续等待情节。",
+      "state_after": "皮皮在木屋外的银杏树下向观众温和问候，头上方金黄扇形叶片缓缓飘过。独立片头图，不出现窗户、木碟或后续等待情节。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": null
+    },
+    {
+      "shot_id": "01",
+      "location": "林间片头",
+      "time_of_day": "秋日傍晚",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "LOC_GINKGO_01",
+        "PROP_GROUND_LEAVES_01"
+      ],
+      "state_before": "小灰兔皮皮仰头看树枝上仍连着一片金黄银杏叶，几片落叶飘过。独立片头意象，不展示卧室窗户或木碟。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "小灰兔皮皮仰头看树枝上仍连着一片金黄银杏叶，几片落叶飘过。独立片头意象，不展示卧室窗户或木碟。",
+      "state_after": "小灰兔皮皮仰头看树枝上仍连着一片金黄银杏叶，几片落叶飘过。独立片头意象，不展示卧室窗户或木碟。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_00"
+    },
+    {
+      "shot_id": "02",
+      "location": "木屋外院",
+      "time_of_day": "深秋白天",
+      "present_characters": [],
+      "asset_ids": [
+        "LOC_GINKGO_01",
+        "PROP_GROUND_LEAVES_01"
+      ],
+      "state_before": "建立皮皮家的小木屋和窗外高大的银杏树。银杏树在卧室窗外偏右，靠窗一条细枝清晰可见，后续方位固定。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "建立皮皮家的小木屋和窗外高大的银杏树。银杏树在卧室窗外偏右，靠窗一条细枝清晰可见，后续方位固定。",
+      "state_after": "建立皮皮家的小木屋和窗外高大的银杏树。银杏树在卧室窗外偏右，靠窗一条细枝清晰可见，后续方位固定。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_01"
+    },
+    {
+      "shot_id": "03",
+      "location": "木屋外院",
+      "time_of_day": "深秋白天",
+      "present_characters": [],
+      "asset_ids": [
+        "LOC_GINKGO_01",
+        "PROP_GROUND_LEAVES_01"
+      ],
+      "state_before": "金黄色银杏叶在树冠上密密铺开；突出一片完整扇形叶片，柔和斑驳日光。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "金黄色银杏叶在树冠上密密铺开；突出一片完整扇形叶片，柔和斑驳日光。",
+      "state_after": "金黄色银杏叶在树冠上密密铺开；突出一片完整扇形叶片，柔和斑驳日光。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_02"
+    },
+    {
+      "shot_id": "04",
+      "location": "木屋外院",
+      "time_of_day": "深秋白天",
+      "present_characters": [],
+      "asset_ids": [
+        "LOC_GINKGO_01",
+        "PROP_GROUND_LEAVES_01"
+      ],
+      "state_before": "秋风吹过，同一棵银杏树飘落许多金色叶片，院地渐渐铺满；树上仍保留大部分叶片。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "秋风吹过，同一棵银杏树飘落许多金色叶片，院地渐渐铺满；树上仍保留大部分叶片。",
+      "state_after": "秋风吹过，同一棵银杏树飘落许多金色叶片，院地渐渐铺满；树上仍保留大部分叶片。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_03"
+    },
+    {
+      "shot_id": "05",
+      "location": "卧室窗边",
+      "time_of_day": "傍晚",
+      "present_characters": [
+        "pipi",
+        "diandian"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "CHAR_DIANDIAN_01",
+        "LOC_WINDOW_01",
+        "LOC_GINKGO_01",
+        "PROP_ATTACHED_LEAF_01"
+      ],
+      "state_before": "皮皮和点点并排趴在同一扇宽木框窗台内侧看窗外。点点是灰褐小鼹鼠、淡粉鼻、小眼睛、米色围兜，约皮皮0.65倍高。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "皮皮和点点并排趴在同一扇宽木框窗台内侧看窗外。点点是灰褐小鼹鼠、淡粉鼻、小眼睛、米色围兜，约皮皮0.65倍高。",
+      "state_after": "皮皮和点点并排趴在同一扇宽木框窗台内侧看窗外。点点是灰褐小鼹鼠、淡粉鼻、小眼睛、米色围兜，约皮皮0.65倍高。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_04"
+    },
+    {
+      "shot_id": "06",
+      "location": "卧室窗边",
+      "time_of_day": "傍晚",
+      "present_characters": [
+        "pipi",
+        "diandian"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "CHAR_DIANDIAN_01",
+        "LOC_WINDOW_01",
+        "LOC_GINKGO_01",
+        "PROP_ATTACHED_LEAF_01"
+      ],
+      "state_before": "点点抬短爪指向窗外银杏树，皮皮顺视线望去；窗框、树位置与上一镜一致。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "点点抬短爪指向窗外银杏树，皮皮顺视线望去；窗框、树位置与上一镜一致。",
+      "state_after": "点点抬短爪指向窗外银杏树，皮皮顺视线望去；窗框、树位置与上一镜一致。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_05"
+    },
+    {
+      "shot_id": "07",
+      "location": "窗内望向窗外枝条",
+      "time_of_day": "傍晚",
+      "present_characters": [
+        "pipi",
+        "diandian"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "CHAR_DIANDIAN_01",
+        "LOC_WINDOW_01",
+        "LOC_GINKGO_01",
+        "PROP_ATTACHED_LEAF_01"
+      ],
+      "state_before": "从两只小动物肩后看靠窗细枝，树上其他部分已稀疏，只剩枝头挂着一片完整扇形金黄叶；叶柄仍连枝。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "从两只小动物肩后看靠窗细枝，树上其他部分已稀疏，只剩枝头挂着一片完整扇形金黄叶；叶柄仍连枝。",
+      "state_after": "从两只小动物肩后看靠窗细枝，树上其他部分已稀疏，只剩枝头挂着一片完整扇形金黄叶；叶柄仍连枝。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_06"
+    },
+    {
+      "shot_id": "08",
+      "location": "卧室窗边",
+      "time_of_day": "深秋傍晚",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "LOC_WINDOW_01",
+        "LOC_GINKGO_01",
+        "PROP_ATTACHED_LEAF_01",
+        "PROP_CHAIR_01",
+        "LIGHT_MOON_01"
+      ],
+      "state_before": "点点已离开。晚饭后的皮皮独自把矮小木椅挪到窗口，窗外最后一片叶仍挂在同一细枝上。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "点点已离开。晚饭后的皮皮独自把矮小木椅挪到窗口，窗外最后一片叶仍挂在同一细枝上。",
+      "state_after": "点点已离开。晚饭后的皮皮独自把矮小木椅挪到窗口，窗外最后一片叶仍挂在同一细枝上。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_07"
+    },
+    {
+      "shot_id": "09",
+      "location": "卧室窗边",
+      "time_of_day": "入夜前",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "LOC_WINDOW_01",
+        "LOC_GINKGO_01",
+        "PROP_ATTACHED_LEAF_01",
+        "PROP_CHAIR_01",
+        "LIGHT_MOON_01"
+      ],
+      "state_before": "皮皮坐木椅上双手托腮，专注好奇地看枝头叶；表情明亮而平和，不忧郁。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "皮皮坐木椅上双手托腮，专注好奇地看枝头叶；表情明亮而平和，不忧郁。",
+      "state_after": "皮皮坐木椅上双手托腮，专注好奇地看枝头叶；表情明亮而平和，不忧郁。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_08"
+    },
+    {
+      "shot_id": "10",
+      "location": "枝头近景",
+      "time_of_day": "入夜前",
+      "present_characters": [],
+      "asset_ids": [
+        "LOC_WINDOW_01",
+        "LOC_GINKGO_01",
+        "PROP_ATTACHED_LEAF_01",
+        "PROP_CHAIR_01",
+        "LIGHT_MOON_01"
+      ],
+      "state_before": "同一细枝在晚风中轻摇，唯一扇形叶慢慢晃两下，叶柄微动但仍连枝；背景隐约见同一窗户。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "同一细枝在晚风中轻摇，唯一扇形叶慢慢晃两下，叶柄微动但仍连枝；背景隐约见同一窗户。",
+      "state_after": "同一细枝在晚风中轻摇，唯一扇形叶慢慢晃两下，叶柄微动但仍连枝；背景隐约见同一窗户。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_09"
+    },
+    {
+      "shot_id": "11",
+      "location": "卧室窗边",
+      "time_of_day": "入夜前",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "LOC_WINDOW_01",
+        "LOC_GINKGO_01",
+        "PROP_ATTACHED_LEAF_01",
+        "PROP_CHAIR_01",
+        "LIGHT_MOON_01"
+      ],
+      "state_before": "皮皮望窗外，眉眼好奇、头微仰；不画幻想泡泡或文字，叶仍连枝。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "皮皮望窗外，眉眼好奇、头微仰；不画幻想泡泡或文字，叶仍连枝。",
+      "state_after": "皮皮望窗外，眉眼好奇、头微仰；不画幻想泡泡或文字，叶仍连枝。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_10"
+    },
+    {
+      "shot_id": "12",
+      "location": "枝头近景",
+      "time_of_day": "夜色初起",
+      "present_characters": [],
+      "asset_ids": [
+        "LOC_WINDOW_01",
+        "LOC_GINKGO_01",
+        "PROP_ATTACHED_LEAF_01",
+        "PROP_CHAIR_01",
+        "LIGHT_MOON_01"
+      ],
+      "state_before": "稍大的风让同一细枝轻摇，唯一金黄叶依然连枝；不让叶子飘落或增添新叶。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "稍大的风让同一细枝轻摇，唯一金黄叶依然连枝；不让叶子飘落或增添新叶。",
+      "state_after": "稍大的风让同一细枝轻摇，唯一金黄叶依然连枝；不让叶子飘落或增添新叶。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_11"
+    },
+    {
+      "shot_id": "13",
+      "location": "窗外夜空",
+      "time_of_day": "夜色初起",
+      "present_characters": [],
+      "asset_ids": [
+        "LOC_WINDOW_01",
+        "LOC_GINKGO_01",
+        "PROP_ATTACHED_LEAF_01",
+        "PROP_CHAIR_01",
+        "LIGHT_MOON_01"
+      ],
+      "state_before": "灰云从明亮月亮前飘过，同一窗外银杏树在下方；无拟人云。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "灰云从明亮月亮前飘过，同一窗外银杏树在下方；无拟人云。",
+      "state_after": "灰云从明亮月亮前飘过，同一窗外银杏树在下方；无拟人云。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_12"
+    },
+    {
+      "shot_id": "14",
+      "location": "枝头近景",
+      "time_of_day": "夜晚",
+      "present_characters": [],
+      "asset_ids": [
+        "LOC_WINDOW_01",
+        "LOC_GINKGO_01",
+        "PROP_ATTACHED_LEAF_01",
+        "PROP_CHAIR_01",
+        "LIGHT_MOON_01"
+      ],
+      "state_before": "云散，月光照同一细枝；小银杏叶仍稳稳连枝，形状、位置不变。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "云散，月光照同一细枝；小银杏叶仍稳稳连枝，形状、位置不变。",
+      "state_after": "云散，月光照同一细枝；小银杏叶仍稳稳连枝，形状、位置不变。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_13"
+    },
+    {
+      "shot_id": "15",
+      "location": "卧室窗边",
+      "time_of_day": "夜晚",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "LOC_WINDOW_01",
+        "LOC_GINKGO_01",
+        "PROP_ATTACHED_LEAF_01",
+        "PROP_CHAIR_01",
+        "LIGHT_MOON_01"
+      ],
+      "state_before": "皮皮等了很久，揉揉困倦的眼睛后小小打哈欠；耳朵自然下垂，表演克制，叶在远处。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "皮皮等了很久，揉揉困倦的眼睛后小小打哈欠；耳朵自然下垂，表演克制，叶在远处。",
+      "state_after": "皮皮等了很久，揉揉困倦的眼睛后小小打哈欠；耳朵自然下垂，表演克制，叶在远处。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_14"
+    },
+    {
+      "shot_id": "16",
+      "location": "卧室窗边",
+      "time_of_day": "夜晚",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "LOC_WINDOW_01",
+        "LOC_GINKGO_01",
+        "PROP_ATTACHED_LEAF_01",
+        "PROP_CHAIR_01",
+        "LIGHT_MOON_01"
+      ],
+      "state_before": "皮皮凝望枝头叶，神情从好奇转为安静思索；不加灯泡、符号等画内说明。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "皮皮凝望枝头叶，神情从好奇转为安静思索；不加灯泡、符号等画内说明。",
+      "state_after": "皮皮凝望枝头叶，神情从好奇转为安静思索；不加灯泡、符号等画内说明。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_15"
+    },
+    {
+      "shot_id": "17",
+      "location": "窗内外同框",
+      "time_of_day": "夜晚",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "LOC_WINDOW_01",
+        "LOC_GINKGO_01",
+        "PROP_ATTACHED_LEAF_01",
+        "PROP_CHAIR_01",
+        "LIGHT_MOON_01"
+      ],
+      "state_before": "前景皮皮安静坐窗边，窗外金叶仍靠在枝条上；用平稳构图传达自然节奏，不出现叶片落下。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "前景皮皮安静坐窗边，窗外金叶仍靠在枝条上；用平稳构图传达自然节奏，不出现叶片落下。",
+      "state_after": "前景皮皮安静坐窗边，窗外金叶仍靠在枝条上；用平稳构图传达自然节奏，不出现叶片落下。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_16"
+    },
+    {
+      "shot_id": "18",
+      "location": "卧室窗边",
+      "time_of_day": "夜晚",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "LOC_WINDOW_01",
+        "LOC_GINKGO_01",
+        "PROP_ATTACHED_LEAF_01",
+        "PROP_CHAIR_01",
+        "LIGHT_MOON_01"
+      ],
+      "state_before": "皮皮从矮木椅起身，动作放松，视线不再紧盯枝头；椅子仍在窗边未移动。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "皮皮从矮木椅起身，动作放松，视线不再紧盯枝头；椅子仍在窗边未移动。",
+      "state_after": "皮皮从矮木椅起身，动作放松，视线不再紧盯枝头；椅子仍在窗边未移动。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_17"
+    },
+    {
+      "shot_id": "19",
+      "location": "卧室窗边",
+      "time_of_day": "夜晚",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "LOC_WINDOW_01",
+        "LOC_GINKGO_01",
+        "PROP_ATTACHED_LEAF_01",
+        "PROP_CHAIR_01",
+        "LIGHT_MOON_01"
+      ],
+      "state_before": "皮皮把同一木椅轻推回窗边原处；窗外最后一片叶仍连枝。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "皮皮把同一木椅轻推回窗边原处；窗外最后一片叶仍连枝。",
+      "state_after": "皮皮把同一木椅轻推回窗边原处；窗外最后一片叶仍连枝。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_18"
+    },
+    {
+      "shot_id": "20",
+      "location": "卧室内",
+      "time_of_day": "夜晚",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "PROP_BASKET_01",
+        "PROP_FALLEN_LEAF_01"
+      ],
+      "state_before": "collection basket holds fallen leaves; no dish is in frame",
+      "action": "Pipi takes out exactly one already fallen golden leaf",
+      "state_after": "one fallen leaf in Pipi paw; basket has one fewer leaf; dish has not appeared",
+      "transition_from": "shot_19"
+    },
+    {
+      "shot_id": "21",
+      "location": "床头柜",
+      "time_of_day": "夜晚",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "PROP_FALLEN_LEAF_01",
+        "PROP_DISH_01",
+        "PROP_NIGHTSTAND_01",
+        "LOC_WINDOW_01",
+        "PROP_ATTACHED_LEAF_01",
+        "PROP_BASKET_01"
+      ],
+      "state_before": "Pipi holds one loose leaf; bedside table still has no dish",
+      "action": "Pipi lays the fallen leaf flat into a newly introduced shallow wooden dish",
+      "state_after": "dish appears on bedside table with one leaf; basket remains nearby",
+      "transition_from": "shot_20"
+    },
+    {
+      "shot_id": "22",
+      "location": "床头柜与窗口",
+      "time_of_day": "夜晚",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "PROP_FALLEN_LEAF_01",
+        "PROP_DISH_01",
+        "PROP_NIGHTSTAND_01",
+        "LOC_WINDOW_01",
+        "PROP_ATTACHED_LEAF_01",
+        "PROP_BASKET_01"
+      ],
+      "state_before": "one loose leaf rests in dish on nightstand; one other leaf remains attached outside",
+      "action": "show both leaves together across the closed glass plane",
+      "state_after": "dish and attached leaf maintain positions",
+      "transition_from": "shot_21"
+    },
+    {
+      "shot_id": "23",
+      "location": "床头与窗外",
+      "time_of_day": "月夜",
+      "present_characters": [],
+      "asset_ids": [
+        "PROP_FALLEN_LEAF_01",
+        "PROP_DISH_01",
+        "PROP_NIGHTSTAND_01",
+        "LOC_WINDOW_01",
+        "PROP_ATTACHED_LEAF_01",
+        "PROP_BASKET_01"
+      ],
+      "state_before": "same two-leaf arrangement; Pipi is off screen",
+      "action": "hold the quiet night scene",
+      "state_after": "both leaves and furniture remain unchanged",
+      "transition_from": "shot_22"
+    },
+    {
+      "shot_id": "24",
+      "location": "卧室床上",
+      "time_of_day": "夜晚",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "PROP_FALLEN_LEAF_01",
+        "PROP_DISH_01",
+        "PROP_NIGHTSTAND_01",
+        "LOC_WINDOW_01",
+        "PROP_ATTACHED_LEAF_01",
+        "PROP_BED_01"
+      ],
+      "state_before": "皮皮穿注册睡前造型，靠住枕头，暖黄毛毯盖到胸口；神情舒适放松。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "皮皮穿注册睡前造型，靠住枕头，暖黄毛毯盖到胸口；神情舒适放松。",
+      "state_after": "皮皮穿注册睡前造型，靠住枕头，暖黄毛毯盖到胸口；神情舒适放松。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_23"
+    },
+    {
+      "shot_id": "25",
+      "location": "卧室床上",
+      "time_of_day": "夜晚",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "PROP_FALLEN_LEAF_01",
+        "PROP_DISH_01",
+        "PROP_NIGHTSTAND_01",
+        "LOC_WINDOW_01",
+        "PROP_ATTACHED_LEAF_01",
+        "PROP_BED_01"
+      ],
+      "state_before": "皮皮侧头望窗外仍留枝头的金黄叶，安静道别；不添加文字气泡。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "皮皮侧头望窗外仍留枝头的金黄叶，安静道别；不添加文字气泡。",
+      "state_after": "皮皮侧头望窗外仍留枝头的金黄叶，安静道别；不添加文字气泡。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_24"
+    },
+    {
+      "shot_id": "26",
+      "location": "卧室床上",
+      "time_of_day": "深夜",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "PROP_FALLEN_LEAF_01",
+        "PROP_DISH_01",
+        "PROP_NIGHTSTAND_01",
+        "LOC_WINDOW_01",
+        "PROP_ATTACHED_LEAF_01",
+        "PROP_BED_01"
+      ],
+      "state_before": "皮皮在同一枕头、暖黄毛毯下闭眼睡着，神情平和；窗外金叶仍在枝头，床头碟内另一叶仍在。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "皮皮在同一枕头、暖黄毛毯下闭眼睡着，神情平和；窗外金叶仍在枝头，床头碟内另一叶仍在。",
+      "state_after": "皮皮在同一枕头、暖黄毛毯下闭眼睡着，神情平和；窗外金叶仍在枝头，床头碟内另一叶仍在。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_25"
+    },
+    {
+      "shot_id": "27",
+      "location": "卧室床与窗口",
+      "time_of_day": "深夜",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "PROP_FALLEN_LEAF_01",
+        "PROP_DISH_01",
+        "PROP_NIGHTSTAND_01",
+        "LOC_WINDOW_01",
+        "PROP_ATTACHED_LEAF_01",
+        "PROP_BED_01"
+      ],
+      "state_before": "安静远景：熟睡皮皮、窗外月色里未落的叶、床头碟里已落的叶同框，表现安心留给明天，不出现文字拼贴。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "安静远景：熟睡皮皮、窗外月色里未落的叶、床头碟里已落的叶同框，表现安心留给明天，不出现文字拼贴。",
+      "state_after": "安静远景：熟睡皮皮、窗外月色里未落的叶、床头碟里已落的叶同框，表现安心留给明天，不出现文字拼贴。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_26"
+    },
+    {
+      "shot_id": "28",
+      "location": "卧室床与窗口",
+      "time_of_day": "深夜",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "PROP_FALLEN_LEAF_01",
+        "PROP_DISH_01",
+        "PROP_NIGHTSTAND_01",
+        "LOC_WINDOW_01",
+        "PROP_ATTACHED_LEAF_01",
+        "PROP_BED_01"
+      ],
+      "state_before": "最终静谧构图，窗外金叶仍连枝，床头碟中另一金叶安稳平放，皮皮盖暖毯熟睡；温暖月夜无文字。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "action": "最终静谧构图，窗外金叶仍连枝，床头碟中另一金叶安稳平放，皮皮盖暖毯熟睡；温暖月夜无文字。",
+      "state_after": "最终静谧构图，窗外金叶仍连枝，床头碟中另一金叶安稳平放，皮皮盖暖毯熟睡；温暖月夜无文字。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。",
+      "transition_from": "shot_27"
+    }
+  ],
+  "textual_pass_1": "顺序复述完成：独立片头→建立小木屋与银杏树→点点来访并指出最后一片叶→点点离开、皮皮晚饭后等待→风与灰云经过但叶子仍连枝→皮皮困倦并领悟每片叶有自己的时间→推回木椅→从收集篮取另一片已落叶放入床头碟→隔窗遥望→皮皮休息入睡，点点已离场。",
+  "textual_pass_2": "物件审查通过：窗外细枝金叶全片未落；院中落叶与床头碟内叶是不同叶；篮子及木碟只在对应段落引入；木碟固定床头柜，不移至窗台；灰云仅短暂遮月；点点仅做客时出现；床、枕与毛毯方向固定。",
+  "image_review": "29-shot contact sheet visually reviewed. Shots 02–04 are unpopulated exterior establishing views; Dotty appears only in visit; moonlit night begins before p004 closes and continues through the bedroom sequence; shot 20 shows the basket and one leaf in Pipi paw with no dish; shot 21 introduces the bedside dish and leaf; both leaf identities remain distinct in shots 22–28."
+}

@@ -1,0 +1,77 @@
+{
+  "text": "目不转睛地看着枝头那最后一片金黄色的银杏叶。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "aed5fa5a70ee74b37a8f53f28765dad9d36d759f052fe8a43b0d2cfbb12c0998",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 10384580,
+      "text": "目不转睛"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11653750,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13192500,
+      "duration": 2692080,
+      "text": "看"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15884580,
+      "duration": 1346250,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17422910,
+      "duration": 8653750,
+      "text": "枝头"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27615410,
+      "duration": 2115410,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29922910,
+      "duration": 5577080,
+      "text": "最后"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35692500,
+      "duration": 5769160,
+      "text": "一片"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41846250,
+      "duration": 9038330,
+      "text": "金黄色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50884580,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52230830,
+      "duration": 11153750,
+      "text": "银杏叶"
+    }
+  ]
+}

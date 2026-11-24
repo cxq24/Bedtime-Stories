@@ -1,0 +1,65 @@
+{
+  "text": "今天的故事叫《还在枝头的银杏叶》。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "08597bc8bb20c5a307838b723aaf01d59baab098d4ef9d74fcbea4d8c0fead09",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5769160,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8769160,
+      "duration": 4807500,
+      "text": "故事"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13769160,
+      "duration": 5192500,
+      "text": "叫"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20500000,
+      "duration": 2692500,
+      "text": "还"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23192500,
+      "duration": 2500000,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25884580,
+      "duration": 5769160,
+      "text": "枝头"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31653750,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33192500,
+      "duration": 11538330,
+      "text": "银杏叶"
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "episode": "ep039",
+  "version": "v001",
+  "shots": [
+    {
+      "id": 0,
+      "prompt": "Create one standalone vertical 9:16 watercolor storybook illustration for episode 39, shot 00. 皮皮在木屋外的银杏树下向观众温和问候，头上方金黄扇形叶片缓缓飘过。独立片头图，不出现窗户、木碟或后续等待情节。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 Official Pipi identity reference: small warm-gray rabbit with round face, pink nose and long naturally drooping ears; preserve exact species and face. Use only the daytime clothing from the wardrobe reference: cream shirt, slate-blue short overalls, blue shoes and yellow backpack outdoors; no hat. Make expression and gaze fit this shot rather than copying the reference sheet's sleepy eyelids. Soft low-contrast hand-painted watercolor and fine paper grain. No words, lettering, watermark, collage, panel borders, or split screen.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_wardrobe_v001.png"
+      ]
+    },
+    {
+      "id": 1,
+      "prompt": "Create one standalone vertical 9:16 watercolor storybook illustration for episode 39, shot 01. 小灰兔皮皮仰头看树枝上仍连着一片金黄银杏叶，几片落叶飘过。独立片头意象，不展示卧室窗户或木碟。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 Official Pipi identity reference: small warm-gray rabbit with round face, pink nose and long naturally drooping ears; preserve exact species and face. Use only the daytime clothing from the wardrobe reference: cream shirt, slate-blue short overalls, blue shoes and yellow backpack outdoors; no hat. Make expression and gaze fit this shot rather than copying the reference sheet's sleepy eyelids. Soft low-contrast hand-painted watercolor and fine paper grain. No words, lettering, watermark, collage, panel borders, or split screen.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_wardrobe_v001.png"
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "Create one standalone vertical 9:16 watercolor storybook illustration for episode 39, shot 02. 建立皮皮家的小木屋和窗外高大的银杏树。银杏树在卧室窗外偏右，靠窗一条细枝清晰可见，后续方位固定。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 Official Pipi identity reference: small warm-gray rabbit with round face, pink nose and long naturally drooping ears; preserve exact species and face. Use only the daytime clothing from the wardrobe reference: cream shirt, slate-blue short overalls, blue shoes and yellow backpack outdoors; no hat. Make expression and gaze fit this shot rather than copying the reference sheet's sleepy eyelids. Soft low-contrast hand-painted watercolor and fine paper grain. No words, lettering, watermark, collage, panel borders, or split screen.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_leaf_props_ref.png"
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "Create a standalone vertical 9:16 watercolor picture-book illustration for episode 39 shot 02. 建立皮皮家的小木屋和窗外高大的银杏树。银杏树在卧室窗外偏右，靠窗一条细枝清晰可见，后续方位固定。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 This shot is a pure outside establishing view. Do not include Pipi, Dotty, animals or any character. No bedroom, no window view, no bed, no dish, no basket. Focus only on the wooden cottage exterior, one tall ginkgo tree in late autumn, golden fan-shaped leaves and wind/leaf carpet as appropriate. Soft watercolor with fine paper grain, no words or borders.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_leaf_props_ref.png"
+      ],
+      "revision": "external-setting-no-characters"
+    },
+    {
+      "id": 3,
+      "prompt": "Create one standalone vertical 9:16 watercolor storybook illustration for episode 39, shot 03. 金黄色银杏叶在树冠上密密铺开；突出一片完整扇形叶片，柔和斑驳日光。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 Official Pipi identity reference: small warm-gray rabbit with round face, pink nose and long naturally drooping ears; preserve exact species and face. Use only the daytime clothing from the wardrobe reference: cream shirt, slate-blue short overalls, blue shoes and yellow backpack outdoors; no hat. Make expression and gaze fit this shot rather than copying the reference sheet's sleepy eyelids. Soft low-contrast hand-painted watercolor and fine paper grain. No words, lettering, watermark, collage, panel borders, or split screen.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_leaf_props_ref.png"
+      ]
+    },
+    {
+      "id": 3,
+      "prompt": "Create a standalone vertical 9:16 watercolor picture-book illustration for episode 39 shot 03. 金黄色银杏叶在树冠上密密铺开；突出一片完整扇形叶片，柔和斑驳日光。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 This shot is a pure outside establishing view. Do not include Pipi, Dotty, animals or any character. No bedroom, no window view, no bed, no dish, no basket. Focus only on the wooden cottage exterior, one tall ginkgo tree in late autumn, golden fan-shaped leaves and wind/leaf carpet as appropriate. Soft watercolor with fine paper grain, no words or borders.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_leaf_props_ref.png"
+      ],
+      "revision": "external-setting-no-characters"
+    },
+    {
+      "id": 4,
+      "prompt": "Create one standalone vertical 9:16 watercolor storybook illustration for episode 39, shot 04. 秋风吹过，同一棵银杏树飘落许多金色叶片，院地渐渐铺满；树上仍保留大部分叶片。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 Official Pipi identity reference: small warm-gray rabbit with round face, pink nose and long naturally drooping ears; preserve exact species and face. Use only the daytime clothing from the wardrobe reference: cream shirt, slate-blue short overalls, blue shoes and yellow backpack outdoors; no hat. Make expression and gaze fit this shot rather than copying the reference sheet's sleepy eyelids. Soft low-contrast hand-painted watercolor and fine paper grain. No words, lettering, watermark, collage, panel borders, or split screen.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_leaf_props_ref.png"
+      ]
+    },
+    {
+      "id": 4,
+      "prompt": "Create a standalone vertical 9:16 watercolor picture-book illustration for episode 39 shot 04. 秋风吹过，同一棵银杏树飘落许多金色叶片，院地渐渐铺满；树上仍保留大部分叶片。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 This shot is a pure outside establishing view. Do not include Pipi, Dotty, animals or any character. No bedroom, no window view, no bed, no dish, no basket. Focus only on the wooden cottage exterior, one tall ginkgo tree in late autumn, golden fan-shaped leaves and wind/leaf carpet as appropriate. Soft watercolor with fine paper grain, no words or borders.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_leaf_props_ref.png"
+      ],
+      "revision": "external-setting-no-characters"
+    },
+    {
+      "id": 5,
+      "prompt": "One single vertical 9:16 standalone children's watercolor illustration, episode 39 shot 05. 皮皮和点点并排趴在同一扇宽木框窗台内侧看窗外。点点是灰褐小鼹鼠、淡粉鼻、小眼睛、米色围兜，约皮皮0.65倍高。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 Pipi must remain the official small warm-gray rabbit with a round face, pink nose and long floppy ears. Dotty, when present, is the much smaller compact gray-brown mole with a tiny pink nose, very small eyes, short rounded paws and a simple beige bib apron; do not draw Dotty as a mouse or rabbit. Preserve the same wooden bedroom window and the ginkgo tree just outside from the scene reference; the close branch and window position stay fixed. Exactly one golden fan leaf remains attached to that twig. Pipi wears cream shirt and slate-blue overalls; indoors no backpack. Dotty wears the same beige apron. Emotions are alert, curious and gentle as appropriate; do not copy sleepy reference eyes except when script says yawning or asleep. Soft low-contrast hand-painted watercolor, fine paper grain. No text, no watermark, no collage/panels/split-screen.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_wardrobe_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/diandian_identity_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_window_scene_ref.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_leaf_props_ref.png"
+      ]
+    },
+    {
+      "id": 6,
+      "prompt": "One single vertical 9:16 standalone children's watercolor illustration, episode 39 shot 06. 点点抬短爪指向窗外银杏树，皮皮顺视线望去；窗框、树位置与上一镜一致。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 Pipi must remain the official small warm-gray rabbit with a round face, pink nose and long floppy ears. Dotty, when present, is the much smaller compact gray-brown mole with a tiny pink nose, very small eyes, short rounded paws and a simple beige bib apron; do not draw Dotty as a mouse or rabbit. Preserve the same wooden bedroom window and the ginkgo tree just outside from the scene reference; the close branch and window position stay fixed. Exactly one golden fan leaf remains attached to that twig. Pipi wears cream shirt and slate-blue overalls; indoors no backpack. Dotty wears the same beige apron. Emotions are alert, curious and gentle as appropriate; do not copy sleepy reference eyes except when script says yawning or asleep. Soft low-contrast hand-painted watercolor, fine paper grain. No text, no watermark, no collage/panels/split-screen.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_wardrobe_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/diandian_identity_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_window_scene_ref.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_leaf_props_ref.png"
+      ]
+    },
+    {
+      "id": 7,
+      "prompt": "One single vertical 9:16 standalone children's watercolor illustration, episode 39 shot 07. 从两只小动物肩后看靠窗细枝，树上其他部分已稀疏，只剩枝头挂着一片完整扇形金黄叶；叶柄仍连枝。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 Pipi must remain the official small warm-gray rabbit with a round face, pink nose and long floppy ears. Dotty, when present, is the much smaller compact gray-brown mole with a tiny pink nose, very small eyes, short rounded paws and a simple beige bib apron; do not draw Dotty as a mouse or rabbit. Preserve the same wooden bedroom window and the ginkgo tree just outside from the scene reference; the close branch and window position stay fixed. Exactly one golden fan leaf remains attached to that twig. Pipi wears cream shirt and slate-blue overalls; indoors no backpack. Dotty wears the same beige apron. Emotions are alert, curious and gentle as appropriate; do not copy sleepy reference eyes except when script says yawning or asleep. Soft low-contrast hand-painted watercolor, fine paper grain. No text, no watermark, no collage/panels/split-screen.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_wardrobe_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/diandian_identity_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_window_scene_ref.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_leaf_props_ref.png"
+      ]
+    },
+    {
+      "id": 8,
+      "prompt": "One single vertical 9:16 standalone children's watercolor illustration, episode 39 shot 08. 点点已离开。晚饭后的皮皮独自把矮小木椅挪到窗口，窗外最后一片叶仍挂在同一细枝上。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 Pipi must remain the official small warm-gray rabbit with a round face, pink nose and long floppy ears. Dotty, when present, is the much smaller compact gray-brown mole with a tiny pink nose, very small eyes, short rounded paws and a simple beige bib apron; do not draw Dotty as a mouse or rabbit. Preserve the same wooden bedroom window and the ginkgo tree just outside from the scene reference; the close branch and window position stay fixed. Exactly one golden fan leaf remains attached to that twig. Pipi wears cream shirt and slate-blue overalls; indoors no backpack. Dotty wears the same beige apron. Emotions are alert, curious and gentle as appropriate; do not copy sleepy reference eyes except when script says yawning or asleep. Soft low-contrast hand-painted watercolor, fine paper grain. No text, no watermark, no collage/panels/split-screen.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_wardrobe_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_window_scene_ref.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_leaf_props_ref.png"
+      ]
+    },
+    {
+      "id": 9,
+      "prompt": "One single vertical 9:16 standalone children's watercolor illustration, episode 39 shot 09. 皮皮坐木椅上双手托腮，专注好奇地看枝头叶；表情明亮而平和，不忧郁。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 Pipi must remain the official small warm-gray rabbit with a round face, pink nose and long floppy ears. Dotty, when present, is the much smaller compact gray-brown mole with a tiny pink nose, very small eyes, short rounded paws and a simple beige bib apron; do not draw Dotty as a mouse or rabbit. Preserve the same wooden bedroom window and the ginkgo tree just outside from the scene reference; the close branch and window position stay fixed. Exactly one golden fan leaf remains attached to that twig. Pipi wears cream shirt and slate-blue overalls; indoors no backpack. Dotty wears the same beige apron. Emotions are alert, curious and gentle as appropriate; do not copy sleepy reference eyes except when script says yawning or asleep. Soft low-contrast hand-painted watercolor, fine paper grain. No text, no watermark, no collage/panels/split-screen.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_wardrobe_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_window_scene_ref.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_leaf_props_ref.png"
+      ]
+    },
+    {
+      "id": 10,
+      "prompt": "Create one single vertical 9:16 watercolor storybook illustration for episode 39 shot 10. 同一细枝在晚风中轻摇，唯一扇形叶慢慢晃两下，叶柄微动但仍连枝；背景隐约见同一窗户。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 Treat scene reference as the fixed bedroom/window/tree layout and the prop reference only as shape/material guide, never copy its four-object sheet composition. The central recurring golden fan-shaped ginkgo leaf stays attached to the same twig unless narration says otherwise; in this story it never falls. Pipi, if present, is the registered warm-gray long floppy-eared rabbit with pink nose; cream shirt and blue overalls, no backpack at home. Show an alert inquisitive look unless specifically yawning. Warm low-contrast watercolor and fine paper grain. No text or symbols, no watermark, no panels or collage.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_window_scene_ref.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_leaf_props_ref.png"
+      ]
+    },
+    {
+      "id": 11,
+      "prompt": "Create one single vertical 9:16 watercolor storybook illustration for episode 39 shot 11. 皮皮望窗外，眉眼好奇、头微仰；不画幻想泡泡或文字，叶仍连枝。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 Treat scene reference as the fixed bedroom/window/tree layout and the prop reference only as shape/material guide, never copy its four-object sheet composition. The central recurring golden fan-shaped ginkgo leaf stays attached to the same twig unless narration says otherwise; in this story it never falls. Pipi, if present, is the registered warm-gray long floppy-eared rabbit with pink nose; cream shirt and blue overalls, no backpack at home. Show an alert inquisitive look unless specifically yawning. Warm low-contrast watercolor and fine paper grain. No text or symbols, no watermark, no panels or collage.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_wardrobe_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_window_scene_ref.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_leaf_props_ref.png"
+      ]
+    },
+    {
+      "id": 12,
+      "prompt": "Create one single vertical 9:16 watercolor storybook illustration for episode 39 shot 12. 稍大的风让同一细枝轻摇，唯一金黄叶依然连枝；不让叶子飘落或增添新叶。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 Treat scene reference as the fixed bedroom/window/tree layout and the prop reference only as shape/material guide, never copy its four-object sheet composition. The central recurring golden fan-shaped ginkgo leaf stays attached to the same twig unless narration says otherwise; in this story it never falls. Pipi, if present, is the registered warm-gray long floppy-eared rabbit with pink nose; cream shirt and blue overalls, no backpack at home. Show an alert inquisitive look unless specifically yawning. Warm low-contrast watercolor and fine paper grain. No text or symbols, no watermark, no panels or collage.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_window_scene_ref.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_leaf_props_ref.png"
+      ]
+    },
+    {
+      "id": 13,
+      "prompt": "Create one single vertical 9:16 watercolor storybook illustration for episode 39 shot 13. 灰云从明亮月亮前飘过，同一窗外银杏树在下方；无拟人云。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 Treat scene reference as the fixed bedroom/window/tree layout and the prop reference only as shape/material guide, never copy its four-object sheet composition. The central recurring golden fan-shaped ginkgo leaf stays attached to the same twig unless narration says otherwise; in this story it never falls. Pipi, if present, is the registered warm-gray long floppy-eared rabbit with pink nose; cream shirt and blue overalls, no backpack at home. Show an alert inquisitive look unless specifically yawning. Warm low-contrast watercolor and fine paper grain. No text or symbols, no watermark, no panels or collage.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_window_scene_ref.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_leaf_props_ref.png"
+      ]
+    },
+    {
+      "id": 14,
+      "prompt": "Create one single vertical 9:16 watercolor storybook illustration for episode 39 shot 14. 云散，月光照同一细枝；小银杏叶仍稳稳连枝，形状、位置不变。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 Treat scene reference as the fixed bedroom/window/tree layout and the prop reference only as shape/material guide, never copy its four-object sheet composition. The central recurring golden fan-shaped ginkgo leaf stays attached to the same twig unless narration says otherwise; in this story it never falls. Pipi, if present, is the registered warm-gray long floppy-eared rabbit with pink nose; cream shirt and blue overalls, no backpack at home. Show an alert inquisitive look unless specifically yawning. Warm low-contrast watercolor and fine paper grain. No text or symbols, no watermark, no panels or collage.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_window_scene_ref.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_leaf_props_ref.png"
+      ]
+    },
+    {
+      "id": 15,
+      "prompt": "One standalone vertical 9:16 watercolor picture-book illustration for episode 39 shot 15. 皮皮等了很久，揉揉困倦的眼睛后小小打哈欠；耳朵自然下垂，表演克制，叶在远处。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 Pipi must match official identity exactly: warm gray rabbit, round face, soft pink nose, long naturally drooping ears; cream top, slate-blue short overalls, at-home no backpack. Reference image 08 can anchor the small wooden chair; keep its size and style consistent. Use the scene reference to keep the same timber window and the one nearby ginkgo twig. The attached leaf does not fall. Act the precise emotion of this moment: gentle drowsiness in yawning shot, quiet realization in reflection, relaxed resolve while moving the chair. No default sad face and no symbols. Soft fine-grained watercolor, no text, no panels or collage.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_wardrobe_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_window_scene_ref.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_leaf_props_ref.png"
+      ]
+    },
+    {
+      "id": 15,
+      "prompt": "Retouch/redraw episode 39 shot 15 as one standalone vertical 9:16 watercolor illustration. Preserve the original reference's exact camera, Pipi pose, chair, window, furniture and story action. 皮皮等了很久，揉揉困倦的眼睛后小小打哈欠；耳朵自然下垂，表演克制，叶在远处。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 Pipi is the official warm-gray floppy-eared rabbit, wearing cream shirt and slate-blue overalls. Expression: small sleepy yawn with eyes gently rubbing; don't give every frame a sleepy or sad face. Critical continuity: it is now NIGHT because the moon was already visible in previous shots. Outside the same window use a deep cool indigo-blue sky with a clear moon and a few stars; retain warm amber room light. The same golden fan leaf remains attached to the same twig. Single coherent picture, no text/panels/collage.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/images/shot_15.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_wardrobe_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_window_scene_ref.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_leaf_props_ref.png"
+      ],
+      "revision": "night-continuity"
+    },
+    {
+      "id": 16,
+      "prompt": "One standalone vertical 9:16 watercolor picture-book illustration for episode 39 shot 16. 皮皮凝望枝头叶，神情从好奇转为安静思索；不加灯泡、符号等画内说明。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 Pipi must match official identity exactly: warm gray rabbit, round face, soft pink nose, long naturally drooping ears; cream top, slate-blue short overalls, at-home no backpack. Reference image 08 can anchor the small wooden chair; keep its size and style consistent. Use the scene reference to keep the same timber window and the one nearby ginkgo twig. The attached leaf does not fall. Act the precise emotion of this moment: gentle drowsiness in yawning shot, quiet realization in reflection, relaxed resolve while moving the chair. No default sad face and no symbols. Soft fine-grained watercolor, no text, no panels or collage.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_wardrobe_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_window_scene_ref.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_leaf_props_ref.png"
+      ]
+    },
+    {
+      "id": 16,
+      "prompt": "Retouch/redraw episode 39 shot 16 as one standalone vertical 9:16 watercolor illustration. Preserve the original reference's exact camera, Pipi pose, chair, window, furniture and story action. 皮皮凝望枝头叶，神情从好奇转为安静思索；不加灯泡、符号等画内说明。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 Pipi is the official warm-gray floppy-eared rabbit, wearing cream shirt and slate-blue overalls. Expression: quiet, awake reflection with soft attentive eyes; don't give every frame a sleepy or sad face. Critical continuity: it is now NIGHT because the moon was already visible in previous shots. Outside the same window use a deep cool indigo-blue sky with a clear moon and a few stars; retain warm amber room light. The same golden fan leaf remains attached to the same twig. Single coherent picture, no text/panels/collage.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/images/shot_16.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_wardrobe_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_window_scene_ref.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_leaf_props_ref.png"
+      ],
+      "revision": "night-continuity"
+    },
+    {
+      "id": 17,
+      "prompt": "One standalone vertical 9:16 watercolor picture-book illustration for episode 39 shot 17. 前景皮皮安静坐窗边，窗外金叶仍靠在枝条上；用平稳构图传达自然节奏，不出现叶片落下。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 Pipi must match official identity exactly: warm gray rabbit, round face, soft pink nose, long naturally drooping ears; cream top, slate-blue short overalls, at-home no backpack. Reference image 08 can anchor the small wooden chair; keep its size and style consistent. Use the scene reference to keep the same timber window and the one nearby ginkgo twig. The attached leaf does not fall. Act the precise emotion of this moment: gentle drowsiness in yawning shot, quiet realization in reflection, relaxed resolve while moving the chair. No default sad face and no symbols. Soft fine-grained watercolor, no text, no panels or collage.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_wardrobe_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_window_scene_ref.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_leaf_props_ref.png"
+      ]
+    },
+    {
+      "id": 17,
+      "prompt": "Retouch/redraw episode 39 shot 17 as one standalone vertical 9:16 watercolor illustration. Preserve the original reference's exact camera, Pipi pose, chair, window, furniture and story action. 前景皮皮安静坐窗边，窗外金叶仍靠在枝条上；用平稳构图传达自然节奏，不出现叶片落下。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 Pipi is the official warm-gray floppy-eared rabbit, wearing cream shirt and slate-blue overalls. Expression: peaceful realization, slightly relaxed ears; don't give every frame a sleepy or sad face. Critical continuity: it is now NIGHT because the moon was already visible in previous shots. Outside the same window use a deep cool indigo-blue sky with a clear moon and a few stars; retain warm amber room light. The same golden fan leaf remains attached to the same twig. Single coherent picture, no text/panels/collage.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/images/shot_17.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_wardrobe_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_window_scene_ref.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_leaf_props_ref.png"
+      ],
+      "revision": "night-continuity"
+    },
+    {
+      "id": 18,
+      "prompt": "One standalone vertical 9:16 watercolor picture-book illustration for episode 39 shot 18. 皮皮从矮木椅起身，动作放松，视线不再紧盯枝头；椅子仍在窗边未移动。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 Pipi must match official identity exactly: warm gray rabbit, round face, soft pink nose, long naturally drooping ears; cream top, slate-blue short overalls, at-home no backpack. Reference image 08 can anchor the small wooden chair; keep its size and style consistent. Use the scene reference to keep the same timber window and the one nearby ginkgo twig. The attached leaf does not fall. Act the precise emotion of this moment: gentle drowsiness in yawning shot, quiet realization in reflection, relaxed resolve while moving the chair. No default sad face and no symbols. Soft fine-grained watercolor, no text, no panels or collage.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_wardrobe_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_window_scene_ref.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_leaf_props_ref.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/images/shot_08.png"
+      ]
+    },
+    {
+      "id": 18,
+      "prompt": "Retouch/redraw episode 39 shot 18 as one standalone vertical 9:16 watercolor illustration. Preserve the original reference's exact camera, Pipi pose, chair, window, furniture and story action. 皮皮从矮木椅起身，动作放松，视线不再紧盯枝头；椅子仍在窗边未移动。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 Pipi is the official warm-gray floppy-eared rabbit, wearing cream shirt and slate-blue overalls. Expression: calmly standing up; don't give every frame a sleepy or sad face. Critical continuity: it is now NIGHT because the moon was already visible in previous shots. Outside the same window use a deep cool indigo-blue sky with a clear moon and a few stars; retain warm amber room light. The same golden fan leaf remains attached to the same twig. Single coherent picture, no text/panels/collage.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/images/shot_18.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_wardrobe_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_window_scene_ref.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_leaf_props_ref.png"
+      ],
+      "revision": "night-continuity"
+    },
+    {
+      "id": 19,
+      "prompt": "One standalone vertical 9:16 watercolor picture-book illustration for episode 39 shot 19. 皮皮把同一木椅轻推回窗边原处；窗外最后一片叶仍连枝。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 Pipi must match official identity exactly: warm gray rabbit, round face, soft pink nose, long naturally drooping ears; cream top, slate-blue short overalls, at-home no backpack. Reference image 08 can anchor the small wooden chair; keep its size and style consistent. Use the scene reference to keep the same timber window and the one nearby ginkgo twig. The attached leaf does not fall. Act the precise emotion of this moment: gentle drowsiness in yawning shot, quiet realization in reflection, relaxed resolve while moving the chair. No default sad face and no symbols. Soft fine-grained watercolor, no text, no panels or collage.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_wardrobe_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_window_scene_ref.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_leaf_props_ref.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/images/shot_08.png"
+      ]
+    },
+    {
+      "id": 19,
+      "prompt": "Retouch/redraw episode 39 shot 19 as one standalone vertical 9:16 watercolor illustration. Preserve the original reference's exact camera, Pipi pose, chair, window, furniture and story action. 皮皮把同一木椅轻推回窗边原处；窗外最后一片叶仍连枝。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 Pipi is the official warm-gray floppy-eared rabbit, wearing cream shirt and slate-blue overalls. Expression: gently pushing the same chair back; don't give every frame a sleepy or sad face. Critical continuity: it is now NIGHT because the moon was already visible in previous shots. Outside the same window use a deep cool indigo-blue sky with a clear moon and a few stars; retain warm amber room light. The same golden fan leaf remains attached to the same twig. Single coherent picture, no text/panels/collage.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/images/shot_19.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_wardrobe_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_window_scene_ref.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_leaf_props_ref.png"
+      ],
+      "revision": "night-continuity"
+    },
+    {
+      "id": 20,
+      "prompt": "Create one single vertical 9:16 children's watercolor storybook illustration for episode 39 shot 20. 皮皮从白天使用的小收集篮取一片早已落地的金黄银杏叶；篮里可以有少量其他叶，手里只拿一片。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 Maintain the established room, ginkgo window, leaf silhouettes, basket and wooden dish from the references. Distinguish exactly two leaves: one fully detached golden fan leaf in the dish (formerly from basket), and one matching but separate golden leaf whose stem remains attached to the outside twig. Never put dish on the windowsill; it sits on the bedside table. If Pipi appears, keep the official warm-gray floppy-eared rabbit identity and cream shirt/slate-blue overalls, at home no backpack. Fine paper-grain watercolor, no words, no collage or split screen.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_wardrobe_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_window_scene_ref.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_leaf_props_ref.png"
+      ]
+    },
+    {
+      "id": 20,
+      "prompt": "Redraw episode 39 shot 20 as a single vertical 9:16 watercolor picture-book image. Preserve the reference camera, room/window/bedside furniture and exact story action. 皮皮从白天使用的小收集篮取一片早已落地的金黄银杏叶；篮里可以有少量其他叶，手里只拿一片。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 Pipi is the official warm-gray rabbit in cream top and blue overalls, relaxed attentive face. It is nighttime: deep indigo sky, moonlight outside, warm amber lamp light indoors. Same window and same slim twig; the other golden fan leaf is still attached outside and never falls. This is BEFORE the placing action: the small collection basket may sit nearby and Pipi holds one fallen leaf, but absolutely NO dish, bowl, tray or second leaf anywhere in frame. No extra objects, no text, no panels/collage.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/images/shot_20.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_wardrobe_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_window_scene_ref.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_leaf_props_ref.png"
+      ],
+      "revision": "night-and-prop-continuity"
+    },
+    {
+      "id": 21,
+      "prompt": "Create one single vertical 9:16 children's watercolor storybook illustration for episode 39 shot 21. 皮皮将这片已落叶平平放进浅圆木碟，木碟在床头柜；不把叶放窗台，不复制叶片。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 Maintain the established room, ginkgo window, leaf silhouettes, basket and wooden dish from the references. Distinguish exactly two leaves: one fully detached golden fan leaf in the dish (formerly from basket), and one matching but separate golden leaf whose stem remains attached to the outside twig. Never put dish on the windowsill; it sits on the bedside table. If Pipi appears, keep the official warm-gray floppy-eared rabbit identity and cream shirt/slate-blue overalls, at home no backpack. Fine paper-grain watercolor, no words, no collage or split screen.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_wardrobe_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_window_scene_ref.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_leaf_props_ref.png"
+      ]
+    },
+    {
+      "id": 21,
+      "prompt": "Redraw episode 39 shot 21 as a single vertical 9:16 watercolor picture-book image. Preserve the reference camera, room/window/bedside furniture and exact story action. 皮皮将这片已落叶平平放进浅圆木碟，木碟在床头柜；不把叶放窗台，不复制叶片。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 Pipi is the official warm-gray rabbit in cream top and blue overalls, relaxed attentive face. It is nighttime: deep indigo sky, moonlight outside, warm amber lamp light indoors. Same window and same slim twig; the other golden fan leaf is still attached outside and never falls. The small collection basket stays in the room; the one shallow wooden dish sits on the bedside table and contains exactly one loose golden ginkgo leaf. Keep it there. No extra objects, no text, no panels/collage.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/images/shot_21.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_wardrobe_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_window_scene_ref.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_leaf_props_ref.png"
+      ],
+      "revision": "night-and-prop-continuity"
+    },
+    {
+      "id": 22,
+      "prompt": "Create one single vertical 9:16 children's watercolor storybook illustration for episode 39 shot 22. 同一构图中近处碟内已落叶和远处窗外仍连枝的叶同时可见，中间隔玻璃；无拼贴分屏。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 Maintain the established room, ginkgo window, leaf silhouettes, basket and wooden dish from the references. Distinguish exactly two leaves: one fully detached golden fan leaf in the dish (formerly from basket), and one matching but separate golden leaf whose stem remains attached to the outside twig. Never put dish on the windowsill; it sits on the bedside table. If Pipi appears, keep the official warm-gray floppy-eared rabbit identity and cream shirt/slate-blue overalls, at home no backpack. Fine paper-grain watercolor, no words, no collage or split screen.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_wardrobe_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_window_scene_ref.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_leaf_props_ref.png"
+      ]
+    },
+    {
+      "id": 22,
+      "prompt": "Redraw episode 39 shot 22 as a single vertical 9:16 watercolor picture-book image. Preserve the reference camera, room/window/bedside furniture and exact story action. 同一构图中近处碟内已落叶和远处窗外仍连枝的叶同时可见，中间隔玻璃；无拼贴分屏。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 Pipi is the official warm-gray rabbit in cream top and blue overalls, relaxed attentive face. It is nighttime: deep indigo sky, moonlight outside, warm amber lamp light indoors. Same window and same slim twig; the other golden fan leaf is still attached outside and never falls. The small collection basket stays in the room; the one shallow wooden dish sits on the bedside table and contains exactly one loose golden ginkgo leaf. Keep it there. No extra objects, no text, no panels/collage.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/images/shot_22.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_wardrobe_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_window_scene_ref.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_leaf_props_ref.png"
+      ],
+      "revision": "night-and-prop-continuity"
+    },
+    {
+      "id": 23,
+      "prompt": "Create one single vertical 9:16 children's watercolor storybook illustration for episode 39 shot 23. 暖色室内木碟里一片已落叶，窗外蓝月光下另一片仍连细枝；两叶相似但可区分，彼此遥望。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 Maintain the established room, ginkgo window, leaf silhouettes, basket and wooden dish from the references. Distinguish exactly two leaves: one fully detached golden fan leaf in the dish (formerly from basket), and one matching but separate golden leaf whose stem remains attached to the outside twig. Never put dish on the windowsill; it sits on the bedside table. If Pipi appears, keep the official warm-gray floppy-eared rabbit identity and cream shirt/slate-blue overalls, at home no backpack. Fine paper-grain watercolor, no words, no collage or split screen.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_window_scene_ref.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_leaf_props_ref.png"
+      ]
+    },
+    {
+      "id": 24,
+      "prompt": "One single vertical 9:16 watercolor children's picture-book illustration for episode 39 shot 24. 皮皮穿注册睡前造型，靠住枕头，暖黄毛毯盖到胸口；神情舒适放松。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 Pipi is the official warm-gray rabbit with round face, pink nose and long drooping ears. Use the sleep_v001 outfit shown at the right side of the registered wardrobe sheet: navy nightcap with muted gold stars and yellow pom, simple pale cream sleep clothes. Scene layout: low bed in foreground, same wooden window behind toward the right, bedside table beside bed. Keep both different leaves exactly as referenced: fallen leaf in dish on bedside table, attached leaf on twig outside. Pipi's face is comfortably relaxed, not sad or overly sleepy. Fine-grain warm watercolor; no text or collage.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_wardrobe_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_window_scene_ref.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_leaf_props_ref.png"
+      ]
+    },
+    {
+      "id": 25,
+      "prompt": "One vertical 9:16 standalone watercolor illustration for episode 39 shot 25. 皮皮侧头望窗外仍留枝头的金黄叶，安静道别；不添加文字气泡。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 Use shot 24 as the fixed bedroom bed/window/bedside layout reference; keep exact same warm-gray rabbit Pipi, the same navy star-pattern nightcap with yellow pom, pale sleepwear, cream pillow, golden blanket, bed and table placement. Keep the detached ginkgo leaf in the wooden dish on the bedside table, and the second golden fan leaf still attached to the same twig outside the window. The emotion follows narration: shot 25 gentle farewell, shot 26 eyes closing naturally, shot 27/28 peacefully asleep. No carrot toy, no extra characters, no text or speech bubbles, no panels/collage. Soft warm moonlit watercolor, delicate paper grain.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_wardrobe_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_window_scene_ref.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_leaf_props_ref.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/images/shot_24.png"
+      ]
+    },
+    {
+      "id": 26,
+      "prompt": "One vertical 9:16 standalone watercolor illustration for episode 39 shot 26. 皮皮在同一枕头、暖黄毛毯下闭眼睡着，神情平和；窗外金叶仍在枝头，床头碟内另一叶仍在。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 Use shot 24 as the fixed bedroom bed/window/bedside layout reference; keep exact same warm-gray rabbit Pipi, the same navy star-pattern nightcap with yellow pom, pale sleepwear, cream pillow, golden blanket, bed and table placement. Keep the detached ginkgo leaf in the wooden dish on the bedside table, and the second golden fan leaf still attached to the same twig outside the window. The emotion follows narration: shot 25 gentle farewell, shot 26 eyes closing naturally, shot 27/28 peacefully asleep. No carrot toy, no extra characters, no text or speech bubbles, no panels/collage. Soft warm moonlit watercolor, delicate paper grain.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_wardrobe_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_window_scene_ref.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_leaf_props_ref.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/images/shot_24.png"
+      ]
+    },
+    {
+      "id": 27,
+      "prompt": "One vertical 9:16 standalone watercolor illustration for episode 39 shot 27. 安静远景：熟睡皮皮、窗外月色里未落的叶、床头碟里已落的叶同框，表现安心留给明天，不出现文字拼贴。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 Use shot 24 as the fixed bedroom bed/window/bedside layout reference; keep exact same warm-gray rabbit Pipi, the same navy star-pattern nightcap with yellow pom, pale sleepwear, cream pillow, golden blanket, bed and table placement. Keep the detached ginkgo leaf in the wooden dish on the bedside table, and the second golden fan leaf still attached to the same twig outside the window. The emotion follows narration: shot 25 gentle farewell, shot 26 eyes closing naturally, shot 27/28 peacefully asleep. No carrot toy, no extra characters, no text or speech bubbles, no panels/collage. Soft warm moonlit watercolor, delicate paper grain.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_wardrobe_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_window_scene_ref.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_leaf_props_ref.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/images/shot_24.png"
+      ]
+    },
+    {
+      "id": 28,
+      "prompt": "One vertical 9:16 standalone watercolor illustration for episode 39 shot 28. 最终静谧构图，窗外金叶仍连枝，床头碟中另一金叶安稳平放，皮皮盖暖毯熟睡；温暖月夜无文字。 竖屏9:16温柔水彩绘本、细纸纹、单幅无字画面；主体安排在画面中上方，为底部拼音字幕留安全区。 Use shot 24 as the fixed bedroom bed/window/bedside layout reference; keep exact same warm-gray rabbit Pipi, the same navy star-pattern nightcap with yellow pom, pale sleepwear, cream pillow, golden blanket, bed and table placement. Keep the detached ginkgo leaf in the wooden dish on the bedside table, and the second golden fan leaf still attached to the same twig outside the window. The emotion follows narration: shot 25 gentle farewell, shot 26 eyes closing naturally, shot 27/28 peacefully asleep. No carrot toy, no extra characters, no text or speech bubbles, no panels/collage. Soft warm moonlit watercolor, delicate paper grain.",
+      "refs": [
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_identity_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/pipi_wardrobe_v001.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_window_scene_ref.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/references/ginkgo_leaf_props_ref.png",
+        "/workspace/Bedtime-Stories/episodes/ep039/v001/images/shot_24.png"
+      ]
+    }
+  ]
+}

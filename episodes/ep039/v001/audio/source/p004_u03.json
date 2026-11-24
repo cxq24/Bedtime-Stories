@@ -1,0 +1,35 @@
+{
+  "text": "小银杏叶还在；",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "cea1ead84b76ca31fa74eb58e96102c55c7dc5b965719094e860807cda21ae9e",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4230830,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5500000,
+      "duration": 8269160,
+      "text": "银杏叶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13961660,
+      "duration": 3461250,
+      "text": "还"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17422910,
+      "duration": 4422910,
+      "text": "在"
+    }
+  ]
+}

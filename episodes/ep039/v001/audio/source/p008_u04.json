@@ -1,0 +1,29 @@
+{
+  "text": "今晚的你，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "c23d77cbef262280efc5bcfdc270b20f180292ca9733676491fb7bbe77aa3345",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6538330,
+      "text": "今晚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7807500,
+      "duration": 1730830,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9538330,
+      "duration": 5577080,
+      "text": "你"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "text": "银杏树叶就变成了灿烂的金黄色，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "738dcd2091665bfc421c457210ef65eeeb8d8ed2eac0a44b638fa80fcf2341e9",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 14422910,
+      "text": "银杏树叶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17230830,
+      "duration": 2500000,
+      "text": "就"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19922910,
+      "duration": 5192500,
+      "text": "变成"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25115410,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26846250,
+      "duration": 5961250,
+      "text": "灿烂"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32807500,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34538330,
+      "duration": 11730830,
+      "text": "金黄色"
+    }
+  ]
+}

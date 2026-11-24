@@ -1,0 +1,53 @@
+{
+  "text": "不需要在今晚一起做决定。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "30d085c5d4482d1e03a97cbcf14a8b97379079043aaa1fab7f2c0a09801a038d",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2115410,
+      "text": "不"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3384580,
+      "duration": 6730830,
+      "text": "需要"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10500000,
+      "duration": 2692500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13192500,
+      "duration": 5577080,
+      "text": "今晚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19153750,
+      "duration": 4615410,
+      "text": "一起"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23961660,
+      "duration": 2500000,
+      "text": "做"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26653750,
+      "duration": 6922910,
+      "text": "决定"
+    }
+  ]
+}
