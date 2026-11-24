@@ -1,0 +1,83 @@
+{
+  "text": "装进熟透的松果掉在泥土上的“噗通”声，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "6fe4165a544f32594a8b08586fdcecc1bb3c36f4700a7a909cb3d25bd36e41eb",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3653750,
+      "text": "装"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4922910,
+      "duration": 2692500,
+      "text": "进"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8000000,
+      "duration": 5769160,
+      "text": "熟透"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13769160,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15307500,
+      "duration": 8461660,
+      "text": "松果"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25307500,
+      "duration": 2884580,
+      "text": "掉"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28192500,
+      "duration": 2307500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30692500,
+      "duration": 5576660,
+      "text": "泥土"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36269160,
+      "duration": 2500000,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38769160,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40307500,
+      "duration": 5769160,
+      "text": "噗通"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46077080,
+      "duration": 4807500,
+      "text": "声"
+    }
+  ]
+}

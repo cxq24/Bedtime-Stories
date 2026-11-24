@@ -1,0 +1,33 @@
+{
+  "image_id": 35,
+  "title": "晚安",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_35.json",
+  "prompt_sha256": "307f9ceb87456f849bcd9c301464a039ebdd6f215217307628f4d737b5c33e9f",
+  "image_sha256": "d616a8c5a90005cd43032d4a7321da7f04b017d3ff0020f0640970072274b29e",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/carrot_plush_reference.png"
+  ],
+  "reference_sha256": {
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png": "6f754c72b9fa7281790bb1fce42bb18701ea055446fda2cdec7ae58b92232674",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/carrot_plush_reference.png": "745ecfd29660fcf198be6393a78d0b23ba69616ddca4d14df6ac55be94dfef7d"
+  },
+  "width": 941,
+  "height": 1672,
+  "generated_at": "2026-11-24",
+  "source_ranges": [
+    {
+      "unit_id": "p008_u05",
+      "paragraph_id": "p008",
+      "start_char": 0,
+      "end_char": 3
+    }
+  ],
+  "timing": {
+    "start_s": 276.4,
+    "end_s": 286.52
+  }
+}

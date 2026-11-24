@@ -1,0 +1,11 @@
+{
+  "source": "OpenAI image generation",
+  "generated_at": "2026-11-24",
+  "model_tool": "image_gen.imagegen",
+  "prompt": "One orange carrot plush toy, short dark green fabric leaves, stitched eyes and smile, soft fabric seams, no duplicate or other objects, watercolor reference on warm paper.",
+  "prompt_sha256": "8224d2ac4bac5e6b66534d6a69677db7e89116181b07e03a33432c5467fbcc0a",
+  "reference_inputs": [],
+  "sha256": "745ecfd29660fcf198be6393a78d0b23ba69616ddca4d14df6ac55be94dfef7d",
+  "width": 1199,
+  "height": 1312
+}

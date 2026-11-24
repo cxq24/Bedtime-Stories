@@ -1,0 +1,39 @@
+{
+  "image_id": 8,
+  "title": "想把秋声收藏",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_08.json",
+  "prompt_sha256": "e3f9ffe0befba091fc52b97d7349ab4ae8c4577fbf207e824e124f220b4df209",
+  "image_sha256": "6089dea1d47e4fe6d14eed85aeeba3ae4eb75c6aabadf379143b1365c57239f8",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/sound_box_reference.png"
+  ],
+  "reference_sha256": {
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png": "6f754c72b9fa7281790bb1fce42bb18701ea055446fda2cdec7ae58b92232674",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/sound_box_reference.png": "7c1cf8dbbb5f410d44aea03ee67cfe805fc1346b474624fcef049ae1f717c75d"
+  },
+  "width": 941,
+  "height": 1672,
+  "generated_at": "2026-11-24",
+  "source_ranges": [
+    {
+      "unit_id": "p002_u03",
+      "paragraph_id": "p002",
+      "start_char": 0,
+      "end_char": 27
+    },
+    {
+      "unit_id": "p002_u04",
+      "paragraph_id": "p002",
+      "start_char": 0,
+      "end_char": 15
+    }
+  ],
+  "timing": {
+    "start_s": 62.76,
+    "end_s": 76.64
+  }
+}

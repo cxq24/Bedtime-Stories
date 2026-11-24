@@ -1,0 +1,25 @@
+{
+  "image_id": 0,
+  "title": "秋林轻响",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_00.json",
+  "prompt_sha256": "d66969bc7590052a922a9a6d32649244a482b0eb2c8182b28645433381e096a5",
+  "image_sha256": "ed0c591324f2c269216c04932018cd326b831d323aa851a19f5461c29cd7e049",
+  "references": [],
+  "reference_sha256": {},
+  "width": 941,
+  "height": 1672,
+  "generated_at": "2026-11-24",
+  "source_ranges": [
+    {
+      "unit_id": "p000_u01",
+      "paragraph_id": "p000",
+      "start_char": 0,
+      "end_char": 14
+    }
+  ],
+  "timing": {
+    "start_s": 0.0,
+    "end_s": 5.12
+  }
+}

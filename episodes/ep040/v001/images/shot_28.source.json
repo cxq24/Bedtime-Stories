@@ -1,0 +1,35 @@
+{
+  "image_id": 28,
+  "title": "不用重走秋日小路",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_28.json",
+  "prompt_sha256": "9b647d915cdc66efbe02701a56c2f2610ccc536d9bb518dbe299a66c3c54da95",
+  "image_sha256": "e934161f1360d5a687cd0e12e48cfdba36ebd1324985933820d506b473985399",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/sound_box_reference.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/red_leaf_reference.png"
+  ],
+  "reference_sha256": {
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png": "6f754c72b9fa7281790bb1fce42bb18701ea055446fda2cdec7ae58b92232674",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/sound_box_reference.png": "7c1cf8dbbb5f410d44aea03ee67cfe805fc1346b474624fcef049ae1f717c75d",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/red_leaf_reference.png": "395c2a60a971f399a10e16ab61557abdb92a5107f5429b528b46c859ecdee460"
+  },
+  "width": 941,
+  "height": 1672,
+  "generated_at": "2026-11-24",
+  "source_ranges": [
+    {
+      "unit_id": "p006_u05",
+      "paragraph_id": "p006",
+      "start_char": 0,
+      "end_char": 34
+    }
+  ],
+  "timing": {
+    "start_s": 212.52,
+    "end_s": 223.56
+  }
+}

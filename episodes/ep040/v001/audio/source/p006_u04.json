@@ -1,0 +1,101 @@
+{
+  "text": "皮皮笑着把小木盒盖好，端端正正地放回书架上。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "0e839daad78aa6f2fc901658e8fb10a53010737ed55208fa9b0a81f656606762",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5384580,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 4038330,
+      "text": "笑"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11077080,
+      "duration": 4615410,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17230830,
+      "duration": 2500000,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19730830,
+      "duration": 3846250,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23577080,
+      "duration": 2692080,
+      "text": "木"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26269160,
+      "duration": 2500000,
+      "text": "盒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28961660,
+      "duration": 3269160,
+      "text": "盖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32230830,
+      "duration": 5384580,
+      "text": "好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42038330,
+      "duration": 11346250,
+      "text": "端端正正"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53384580,
+      "duration": 1538330,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55307500,
+      "duration": 2500000,
+      "text": "放"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57807500,
+      "duration": 2500000,
+      "text": "回"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60500000,
+      "duration": 6346250,
+      "text": "书架"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 66846250,
+      "duration": 4807500,
+      "text": "上"
+    }
+  ]
+}

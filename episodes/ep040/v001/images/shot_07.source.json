@@ -1,0 +1,33 @@
+{
+  "image_id": 7,
+  "title": "柜中找到小松木盒",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_07.json",
+  "prompt_sha256": "662e3caef41b37ee34f2e39dc7cc9440ffcba2e27b6992045b995d3296dbe29c",
+  "image_sha256": "99ee3fdc0ae378bfa44896420285165a9e8937e94acc6a9912025bb72f309c51",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/sound_box_reference.png"
+  ],
+  "reference_sha256": {
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png": "6f754c72b9fa7281790bb1fce42bb18701ea055446fda2cdec7ae58b92232674",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/sound_box_reference.png": "7c1cf8dbbb5f410d44aea03ee67cfe805fc1346b474624fcef049ae1f717c75d"
+  },
+  "width": 941,
+  "height": 1672,
+  "generated_at": "2026-11-24",
+  "source_ranges": [
+    {
+      "unit_id": "p002_u02",
+      "paragraph_id": "p002",
+      "start_char": 0,
+      "end_char": 32
+    }
+  ],
+  "timing": {
+    "start_s": 52.32,
+    "end_s": 62.76
+  }
+}

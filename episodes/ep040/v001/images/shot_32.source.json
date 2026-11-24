@@ -1,0 +1,39 @@
+{
+  "image_id": 32,
+  "title": "皮皮闭眼微笑",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_32.json",
+  "prompt_sha256": "1dac26541241dbb77d97eb4b773768376e00ff686ec4adb8efc2634933508ffe",
+  "image_sha256": "2ed596e50352ad9f47b5b9ca80f3b332e25f37a6ee6ecc892a238dcf8b1a51f5",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/carrot_plush_reference.png"
+  ],
+  "reference_sha256": {
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png": "6f754c72b9fa7281790bb1fce42bb18701ea055446fda2cdec7ae58b92232674",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/carrot_plush_reference.png": "745ecfd29660fcf198be6393a78d0b23ba69616ddca4d14df6ac55be94dfef7d"
+  },
+  "width": 941,
+  "height": 1672,
+  "generated_at": "2026-11-24",
+  "source_ranges": [
+    {
+      "unit_id": "p008_u01",
+      "paragraph_id": "p008",
+      "start_char": 0,
+      "end_char": 14
+    },
+    {
+      "unit_id": "p008_u02",
+      "paragraph_id": "p008",
+      "start_char": 0,
+      "end_char": 19
+    }
+  ],
+  "timing": {
+    "start_s": 249.48,
+    "end_s": 260.4
+  }
+}

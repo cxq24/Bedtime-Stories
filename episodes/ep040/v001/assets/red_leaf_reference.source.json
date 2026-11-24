@@ -1,0 +1,11 @@
+{
+  "source": "OpenAI image generation",
+  "generated_at": "2026-11-24",
+  "model_tool": "image_gen.imagegen",
+  "prompt": "A single vermilion and russet autumn red leaf with visible veins, no branch, no other objects, watercolor reference on warm paper.",
+  "prompt_sha256": "76d7fc036c724906d57b36b0ac01f13e49223023b98e08d79a51a4d7a9432019",
+  "reference_inputs": [],
+  "sha256": "395c2a60a971f399a10e16ab61557abdb92a5107f5429b528b46c859ecdee460",
+  "width": 1199,
+  "height": 1312
+}

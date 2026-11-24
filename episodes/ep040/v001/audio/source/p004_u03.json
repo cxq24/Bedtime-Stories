@@ -1,0 +1,71 @@
+{
+  "text": "木盒里空空荡荡的，什么声音也没有传出来。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "cc8ee71b8e44dce56210e7829641128f942b411aaec621b416239d1491836f77",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5384580,
+      "text": "木盒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6653750,
+      "duration": 2307500,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9346250,
+      "duration": 12500000,
+      "text": "空空荡荡"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21846250,
+      "duration": 2692500,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29153750,
+      "duration": 3653750,
+      "text": "什么"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33000000,
+      "duration": 5384580,
+      "text": "声音"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38769160,
+      "duration": 1730830,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40500000,
+      "duration": 3269160,
+      "text": "没有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43961660,
+      "duration": 4038330,
+      "text": "传"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48000000,
+      "duration": 5577080,
+      "text": "出来"
+    }
+  ]
+}

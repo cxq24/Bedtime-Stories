@@ -1,0 +1,89 @@
+{
+  "text": "他满怀期待地把小耳朵贴在木盒盖子上，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "2d9af917261f28a40f44999a82c8a3bdc2eb15d00ae1f560be44b13edbbba5a5",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2307500,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3577080,
+      "duration": 5577080,
+      "text": "满怀"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9346250,
+      "duration": 6730830,
+      "text": "期待"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16077080,
+      "duration": 4230830,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21846250,
+      "duration": 2307500,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24153750,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27422910,
+      "duration": 7500000,
+      "text": "耳朵"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36461660,
+      "duration": 2884580,
+      "text": "贴"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39346250,
+      "duration": 2307500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41846250,
+      "duration": 2500000,
+      "text": "木"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44346250,
+      "duration": 1922910,
+      "text": "盒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46461660,
+      "duration": 5769160,
+      "text": "盖子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52230830,
+      "duration": 4807500,
+      "text": "上"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 33,
+  "title": "把开心回忆留心里",
+  "destination": "/workspace/Bedtime-Stories/episodes/ep040/v001/images/shot_33.png",
+  "prompt": "Use case: illustration-story. Asset type: ONE original full-bleed vertical 9:16 watercolor story illustration for one locked narration shot. Use every input according to its explicitly labelled role; preserve existing named identities, not just species. Input 1: canonical identity reference for 皮皮 (pipi); preserve this character exactly. Input 2: Pipi clothing sheet only; follow the exact outfit specified below. Input 3: visual continuity reference.\nVisible characters: 皮皮 (pipi). Exact total number of visible characters: 1. Do not draw extra background animals. Standing body-height ratios (not ear or tail tips): 皮皮 1.0. Pipi wears ONLY the RIGHT bedtime star cap, navy with pale yellow stars and yellow pompom. No overalls, raincoat, backpack or shoes in bed. Yellow blanket and orange carrot toy with dark green leaves are scene props, not identity changes. Scene continuity: 安睡的皮皮与床边书架，温暖低饱和夜色。\nThe SINGLE visual moment and framing: 皮皮安静抱着玩偶，画面重点是平和的睡前状态。\nEmotional performance for this exact beat: 温柔、放松，不画可视化心脏或发光爱心。\nMandatory pose/prop state (overrides neutral model-sheet poses): 情绪克制，夜间室内，不出现象征图形或字幕文字。\nStyle: hand-painted gentle watercolor on fine warm paper, muted natural hues, soft edges and rounded shapes, quiet storybook mood, no glossy 3D or photorealism. Daylight scenes use soft greens and warm daylight, not bedroom amber tint. Night scenes use soft warm lamplight and muted gray-blue windows. Composition: full-bleed vertical 9:16. Keep all important faces, hands, feet, biscuits, fabric folds and other story actions in the upper 68% of the image. Bottom 32% is low-detail negative space for later subtitles, with no crucial objects there. Make the specified story state visually understandable. Text: NONE. No words, labels, subtitles, numbers, logos, watermark, speech bubbles, panels, frames or collage. Do not reproduce model sheets, multiple versions of a character, or wardrobe lineups. Each named character appears exactly once. This is a new single coherent scene, not a copy of the references. No motion streaks or implied camera zoom. Never turn a metaphor into a real transformation: yellow blankets remain fabric, imagined grassy softness is not actual grass growing in bed. No new story events. Continuity-specific locks: This is the actual bedtime sequence; Pipi is asleep or settling in the bed, the carrot plush appears once only. Do not depict sound as visible letters, music notes, sound waves, glowing objects, or captured material. Reference roles: Input 1 is the canonical identity reference for pipi; preserve this exact character. Input 2 shows Pipi's day and sleep outfits; use only the outfit specified in the prompt. Input 3: This is the one orange carrot plush with dark green fabric leaves; do not duplicate it.Light and time lock: This exact scene occurs at night in the bedroom. Show a dark blue night sky outside the window, warm interior lamplight and no daylight. Composition override: this must be a WIDE ESTABLISHING SHOT from the bedroom doorway, show most of the wooden bed, window, bookshelf and quiet room. Pipi is small in the frame, about one third of image height, reclining under the yellow blanket and holding one carrot plush. Do not use a close-up, portrait crop, or repeat the previous shot framing. The closed pale pine box is on the bookshelf. ",
+  "reference_inputs": [
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/carrot_plush_reference.png"
+  ],
+  "characters": [
+    "pipi"
+  ],
+  "outfits": {
+    "pipi": "sleep_v001"
+  },
+  "source_ranges": [
+    {
+      "unit_id": "p008_u03",
+      "paragraph_id": "p008",
+      "start_char": 0,
+      "end_char": 20
+    }
+  ],
+  "timing": {
+    "start_s": 260.4,
+    "end_s": 267.16
+  }
+}

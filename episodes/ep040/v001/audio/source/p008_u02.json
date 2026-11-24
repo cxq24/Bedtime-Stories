@@ -1,0 +1,71 @@
+{
+  "text": "今天度过的好时光，已经永远不怕忘记了。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "2f58e9a5190cdb30a642e5fcccbbcf9d011a7a375cfe067e66dc114f1b7f983e",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5577080,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 4230830,
+      "text": "度过"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11269160,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12807500,
+      "duration": 2884580,
+      "text": "好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15692500,
+      "duration": 7500000,
+      "text": "时光"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26653750,
+      "duration": 3653750,
+      "text": "已经"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30692500,
+      "duration": 5961660,
+      "text": "永远"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36846250,
+      "duration": 4230830,
+      "text": "不怕"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41269160,
+      "duration": 6730830,
+      "text": "忘记"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48000000,
+      "duration": 2500000,
+      "text": "了"
+    }
+  ]
+}

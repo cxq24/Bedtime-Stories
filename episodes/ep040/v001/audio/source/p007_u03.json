@@ -1,0 +1,107 @@
+{
+  "text": "书架上的小木盒歇着，他的小爪子和长耳朵也歇着。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "67962bdbf55ecb5d7cffdd2c444205ec7f78bbafce224cae943ac50ce9be7f6c",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6922910,
+      "text": "书架"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8192500,
+      "duration": 2500000,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10692500,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12230830,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15500000,
+      "duration": 4807500,
+      "text": "木盒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20500000,
+      "duration": 7692500,
+      "text": "歇着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32807500,
+      "duration": 2307500,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35115410,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36653750,
+      "duration": 3461660,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40115410,
+      "duration": 5769160,
+      "text": "爪子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46269160,
+      "duration": 1730830,
+      "text": "和"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48192500,
+      "duration": 3269160,
+      "text": "长"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51461660,
+      "duration": 5384580,
+      "text": "耳朵"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57230830,
+      "duration": 2307500,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59538330,
+      "duration": 4038330,
+      "text": "歇"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63577080,
+      "duration": 3653750,
+      "text": "着"
+    }
+  ]
+}

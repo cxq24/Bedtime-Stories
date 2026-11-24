@@ -1,0 +1,71 @@
+{
+  "text": "小朋友，把今天开心的回忆轻轻留在心里吧。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "48b120ca91f7070d63484a2bc5ef45b6332cea93cad9b1a71388cf6036a839b5",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 11153750,
+      "text": "小朋友"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16461660,
+      "duration": 2115410,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18769160,
+      "duration": 4807500,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23961660,
+      "duration": 5192500,
+      "text": "开心"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29346250,
+      "duration": 9422910,
+      "text": "的回忆"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40307500,
+      "duration": 5769160,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46269160,
+      "duration": 2307500,
+      "text": "留"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48577080,
+      "duration": 2307500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51077080,
+      "duration": 5384580,
+      "text": "心里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56461660,
+      "duration": 3653750,
+      "text": "吧"
+    }
+  ]
+}

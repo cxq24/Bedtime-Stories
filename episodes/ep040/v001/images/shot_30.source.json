@@ -1,0 +1,33 @@
+{
+  "image_id": 30,
+  "title": "暖毯与胡萝卜玩偶",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_30.json",
+  "prompt_sha256": "6f19b1f2b6fc5430118d8a966c5b7e5bc31962de605ad2c2cc916b3b44a335e0",
+  "image_sha256": "bc327fc12bcfd8881065f570bf7e6da3ccb9696e6c00a87a32a31d4f8fe58538",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/carrot_plush_reference.png"
+  ],
+  "reference_sha256": {
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png": "6f754c72b9fa7281790bb1fce42bb18701ea055446fda2cdec7ae58b92232674",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/carrot_plush_reference.png": "745ecfd29660fcf198be6393a78d0b23ba69616ddca4d14df6ac55be94dfef7d"
+  },
+  "width": 941,
+  "height": 1672,
+  "generated_at": "2026-11-24",
+  "source_ranges": [
+    {
+      "unit_id": "p007_u02",
+      "paragraph_id": "p007",
+      "start_char": 0,
+      "end_char": 27
+    }
+  ],
+  "timing": {
+    "start_s": 233.0,
+    "end_s": 242.04
+  }
+}

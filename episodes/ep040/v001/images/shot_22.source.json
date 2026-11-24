@@ -1,0 +1,35 @@
+{
+  "image_id": 22,
+  "title": "想起落叶沙沙",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_22.json",
+  "prompt_sha256": "9917c5b4db43324ba6e959fe6ff01cbe65913e6d883b02ace5024a369e8e2a51",
+  "image_sha256": "b8f1b9b6754a6a69335f8c49a328de00702a57c034dd0376f0cd321425c84ef0",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/sound_box_reference.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/red_leaf_reference.png"
+  ],
+  "reference_sha256": {
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png": "6f754c72b9fa7281790bb1fce42bb18701ea055446fda2cdec7ae58b92232674",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/sound_box_reference.png": "7c1cf8dbbb5f410d44aea03ee67cfe805fc1346b474624fcef049ae1f717c75d",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/red_leaf_reference.png": "395c2a60a971f399a10e16ab61557abdb92a5107f5429b528b46c859ecdee460"
+  },
+  "width": 941,
+  "height": 1672,
+  "generated_at": "2026-11-24",
+  "source_ranges": [
+    {
+      "unit_id": "p005_u04",
+      "paragraph_id": "p005",
+      "start_char": 0,
+      "end_char": 36
+    }
+  ],
+  "timing": {
+    "start_s": 167.48,
+    "end_s": 178.72
+  }
+}

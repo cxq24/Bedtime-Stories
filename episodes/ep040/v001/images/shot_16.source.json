@@ -1,0 +1,29 @@
+{
+  "image_id": 16,
+  "title": "盒子里空空的",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_16.json",
+  "prompt_sha256": "d9495ea3a6054a4dcb39eddcaf42624e54dd5f8f72c9bee77e735ac2ddfb32e5",
+  "image_sha256": "63b47b9a4572b9e03efe36f5dc39ea9fae0c0e6a627a9743e8724089ef247691",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/sound_box_reference.png"
+  ],
+  "reference_sha256": {
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/sound_box_reference.png": "7c1cf8dbbb5f410d44aea03ee67cfe805fc1346b474624fcef049ae1f717c75d"
+  },
+  "width": 941,
+  "height": 1672,
+  "generated_at": "2026-11-24",
+  "source_ranges": [
+    {
+      "unit_id": "p004_u03",
+      "paragraph_id": "p004",
+      "start_char": 0,
+      "end_char": 20
+    }
+  ],
+  "timing": {
+    "start_s": 123.2,
+    "end_s": 129.36
+  }
+}

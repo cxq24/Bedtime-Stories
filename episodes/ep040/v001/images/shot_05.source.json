@@ -1,0 +1,33 @@
+{
+  "image_id": 5,
+  "title": "芽芽喜欢芦苇风声",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_05.json",
+  "prompt_sha256": "4cb68799fb00507ea6a2a982fb78dd557ce6a15cef0610ccb3a1521f4b1a75cf",
+  "image_sha256": "c6fbc0da592aca02fda06ce38247c11093eed4cbd1720ddb646f886c3bdb3838",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/yaya_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png"
+  ],
+  "reference_sha256": {
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/yaya_identity_v001.png": "1d1fb19b6e8353b9cc8478600a5dce0fa01edf53948da6760ea870ebd904ea07",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png": "6f754c72b9fa7281790bb1fce42bb18701ea055446fda2cdec7ae58b92232674",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897"
+  },
+  "width": 941,
+  "height": 1672,
+  "generated_at": "2026-11-24",
+  "source_ranges": [
+    {
+      "unit_id": "p001_u04",
+      "paragraph_id": "p001",
+      "start_char": 0,
+      "end_char": 20
+    }
+  ],
+  "timing": {
+    "start_s": 37.92,
+    "end_s": 44.24
+  }
+}

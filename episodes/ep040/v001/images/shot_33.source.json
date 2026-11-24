@@ -1,0 +1,33 @@
+{
+  "image_id": 33,
+  "title": "把开心回忆留心里",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_33.json",
+  "prompt_sha256": "900b55f3b3959ca2182032c300a217e5bd1ebf594f82dc3d6311a714f88be31c",
+  "image_sha256": "51e6622c2b6f86ead05452ff3de3a708ea158d111da5a20221aa0249d8709522",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/carrot_plush_reference.png"
+  ],
+  "reference_sha256": {
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png": "6f754c72b9fa7281790bb1fce42bb18701ea055446fda2cdec7ae58b92232674",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/carrot_plush_reference.png": "745ecfd29660fcf198be6393a78d0b23ba69616ddca4d14df6ac55be94dfef7d"
+  },
+  "width": 941,
+  "height": 1672,
+  "generated_at": "2026-11-24",
+  "source_ranges": [
+    {
+      "unit_id": "p008_u03",
+      "paragraph_id": "p008",
+      "start_char": 0,
+      "end_char": 20
+    }
+  ],
+  "timing": {
+    "start_s": 260.4,
+    "end_s": 267.16
+  }
+}

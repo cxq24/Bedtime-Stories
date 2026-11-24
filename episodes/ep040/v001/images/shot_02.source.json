@@ -1,0 +1,35 @@
+{
+  "image_id": 2,
+  "title": "谁在收藏声音",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_02.json",
+  "prompt_sha256": "f9fff64c1a60d851d814549ffaee21973c24987fe2bd8a037873992bc1796395",
+  "image_sha256": "4dfab3f2b8d718fbe7663fefb4203046c9a6f945383018fa8fae4d9fd76fc3d5",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/tuantuan_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/yaya_identity_v001.png"
+  ],
+  "reference_sha256": {
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png": "6f754c72b9fa7281790bb1fce42bb18701ea055446fda2cdec7ae58b92232674",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/tuantuan_identity_v001.png": "27a34b5b38a1e7897039a3d3cffa4bbcc3617ddb47432b3d1e8c4f80a88e11ef",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/yaya_identity_v001.png": "1d1fb19b6e8353b9cc8478600a5dce0fa01edf53948da6760ea870ebd904ea07"
+  },
+  "width": 941,
+  "height": 1672,
+  "generated_at": "2026-11-24",
+  "source_ranges": [
+    {
+      "unit_id": "p000_u03",
+      "paragraph_id": "p000",
+      "start_char": 0,
+      "end_char": 31
+    }
+  ],
+  "timing": {
+    "start_s": 9.76,
+    "end_s": 20.04
+  }
+}

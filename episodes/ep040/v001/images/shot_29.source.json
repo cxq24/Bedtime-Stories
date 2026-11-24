@@ -1,0 +1,31 @@
+{
+  "image_id": 29,
+  "title": "秋夜慢慢安静",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_29.json",
+  "prompt_sha256": "127003a6982ee24c715e6482805385ddcfbb7e6818df2bfeabccd35b35f8201c",
+  "image_sha256": "829e9c934589261cdcbdc37dff03d05bfa1395a42a8015dab16ed6c3693a7ae9",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/sound_box_reference.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/red_leaf_reference.png"
+  ],
+  "reference_sha256": {
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/sound_box_reference.png": "7c1cf8dbbb5f410d44aea03ee67cfe805fc1346b474624fcef049ae1f717c75d",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/red_leaf_reference.png": "395c2a60a971f399a10e16ab61557abdb92a5107f5429b528b46c859ecdee460"
+  },
+  "width": 941,
+  "height": 1672,
+  "generated_at": "2026-11-24",
+  "source_ranges": [
+    {
+      "unit_id": "p007_u01",
+      "paragraph_id": "p007",
+      "start_char": 0,
+      "end_char": 30
+    }
+  ],
+  "timing": {
+    "start_s": 223.56,
+    "end_s": 233.0
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "image_id": 15,
+  "title": "打开一条小缝",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_15.json",
+  "prompt_sha256": "ca1d4cd3d3c9a1c03c841ee7f9aa0efd7d307122accd5156d8ee4c063fcc1d6b",
+  "image_sha256": "8c4090be6a1bf2588427287bd374e0efc898d800ea7a4be39687e8b73755f325",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/sound_box_reference.png"
+  ],
+  "reference_sha256": {
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png": "6f754c72b9fa7281790bb1fce42bb18701ea055446fda2cdec7ae58b92232674",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/sound_box_reference.png": "7c1cf8dbbb5f410d44aea03ee67cfe805fc1346b474624fcef049ae1f717c75d"
+  },
+  "width": 941,
+  "height": 1672,
+  "generated_at": "2026-11-24",
+  "source_ranges": [
+    {
+      "unit_id": "p004_u02",
+      "paragraph_id": "p004",
+      "start_char": 0,
+      "end_char": 14
+    }
+  ],
+  "timing": {
+    "start_s": 118.8,
+    "end_s": 123.2
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "image_id": 10,
+  "title": "落叶沙沙记忆",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_10.json",
+  "prompt_sha256": "4b135c39866a1ff3db875d14ad4e55b0a9994a8008c6eb7a222cad2f03d48239",
+  "image_sha256": "81c72b17ffa2c5108d9ab2d6af32cff38a17fac049ab44693c5344bdc06a4bc3",
+  "references": [],
+  "reference_sha256": {},
+  "width": 941,
+  "height": 1672,
+  "generated_at": "2026-11-24",
+  "source_ranges": [
+    {
+      "unit_id": "p003_u02",
+      "paragraph_id": "p003",
+      "start_char": 0,
+      "end_char": 15
+    }
+  ],
+  "timing": {
+    "start_s": 83.64,
+    "end_s": 88.08
+  }
+}

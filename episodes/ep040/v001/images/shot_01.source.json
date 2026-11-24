@@ -1,0 +1,25 @@
+{
+  "image_id": 1,
+  "title": "秋天声音盒",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_01.json",
+  "prompt_sha256": "272068d9d81132250c783838b063e2f2801e9b745f8863ef24b153d6db3502f5",
+  "image_sha256": "c34416e1a7581274295203f86ee7794a583db0844b0684019e9c2d6ee5bdd8be",
+  "references": [],
+  "reference_sha256": {},
+  "width": 941,
+  "height": 1672,
+  "generated_at": "2026-11-24",
+  "source_ranges": [
+    {
+      "unit_id": "p000_u02",
+      "paragraph_id": "p000",
+      "start_char": 0,
+      "end_char": 15
+    }
+  ],
+  "timing": {
+    "start_s": 5.12,
+    "end_s": 9.76
+  }
+}

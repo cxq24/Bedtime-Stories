@@ -1,0 +1,77 @@
+{
+  "text": "小鹿芽芽说喜欢秋风吹过芦苇的“呼呼”声。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "e4527a34fe14d3193e7da28c61247bfa4f3ec2c4df8c6243799d27ceadcbcd72",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5769160,
+      "text": "小鹿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7230830,
+      "duration": 6153750,
+      "text": "芽芽"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13384580,
+      "duration": 5192500,
+      "text": "说"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20115410,
+      "duration": 5000000,
+      "text": "喜欢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25307500,
+      "duration": 7692500,
+      "text": "秋风"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33384580,
+      "duration": 2692500,
+      "text": "吹"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36077080,
+      "duration": 2115410,
+      "text": "过"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38384580,
+      "duration": 5577080,
+      "text": "芦苇"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43961660,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45692500,
+      "duration": 4807500,
+      "text": "呼呼"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50692500,
+      "duration": 4615410,
+      "text": "声"
+    }
+  ]
+}

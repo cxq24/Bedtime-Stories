@@ -1,0 +1,95 @@
+{
+  "text": "他走到桌边，拿来一片今天和绒绒一起散步时捡到的红叶，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "b87d8c2c35331786fb166c5bfb38ba7e4a8b53e9d641654de97d3c163b023b4f",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2307500,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3769160,
+      "duration": 4230830,
+      "text": "走到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8192500,
+      "duration": 7884580,
+      "text": "桌边"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21077080,
+      "duration": 3846250,
+      "text": "拿来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25115410,
+      "duration": 7115410,
+      "text": "一片"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32615410,
+      "duration": 5384580,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38192500,
+      "duration": 2692080,
+      "text": "和"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40884580,
+      "duration": 5000000,
+      "text": "绒绒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46269160,
+      "duration": 5000000,
+      "text": "一起"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51461660,
+      "duration": 5192080,
+      "text": "散步"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56653750,
+      "duration": 5769160,
+      "text": "时"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63961660,
+      "duration": 6345830,
+      "text": "捡到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 70307500,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 71846250,
+      "duration": 8269160,
+      "text": "红叶"
+    }
+  ]
+}

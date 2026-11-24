@@ -1,0 +1,27 @@
+{
+  "source": "OpenAI image generation",
+  "generated_at": "2026-11-24",
+  "model_tool": "image_gen.imagegen",
+  "prompt": "Illustration-story. Make one new vertical 9:16 hand-painted watercolor cover base in a soft autumn bedtime-story style. Input 1: exact canonical Pipi identity, warm-gray long-eared rabbit, round face and pink nose. Input 2: clothing reference only; use Pipi’s dusty-blue short overalls, oatmeal shirt and small yellow backpack. Input 3: same small pale honey-pine lidded box with rounded corners. Input 4: one vivid red autumn leaf. Night bedroom, warm bedside lamp, deep blue night outside. Show exactly one Pipi gently placing that single red leaf into the single open pine box; smile of quiet realization. Compose as a medium-wide view with Pipi and the full box no taller than the upper half of the canvas. Place the entire face, paws, leaf and the entire box entirely ABOVE 54% of image height. Absolutely nothing from the action may extend below 54%. The lower 46% must be only an uninterrupted, simple pale cream quilt/soft table surface with very low detail, reserved for the title panel; no Pipi, no box, no leaf, no limbs, no shadows of important objects in that lower region. Keep visual clarity at 360x640 mobile preview. Soft watercolor on warm paper, quiet natural palette. No text whatsoever, no letters, logos, watermark, speech bubbles, sound glyphs, music notes, collage or frame. One coherent original illustration.",
+  "prompt_sha256": "e37c9ac49732d4df2a020c196c54b5a83350b3ee333e372e1def03e082c0177b",
+  "reference_inputs": [
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/sound_box_reference.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/red_leaf_reference.png"
+  ],
+  "reference_sha256": {
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png": "6f754c72b9fa7281790bb1fce42bb18701ea055446fda2cdec7ae58b92232674",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/sound_box_reference.png": "7c1cf8dbbb5f410d44aea03ee67cfe805fc1346b474624fcef049ae1f717c75d",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/red_leaf_reference.png": "395c2a60a971f399a10e16ab61557abdb92a5107f5429b528b46c859ecdee460"
+  },
+  "sha256": "2db1a70a910f77a39d5efe1c535e81768fb4658dea0717dead123bc002c6fc71",
+  "width": 941,
+  "height": 1672,
+  "cover_title": "皮皮收好一片红叶",
+  "cover_title_lines": [
+    "皮皮收好",
+    "一片红叶"
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "hanzi": 764,
+  "cues": 131,
+  "pinyin_coverage": 1.0,
+  "context_review": "completed_against_episode_text",
+  "target_font_px": {
+    "hanzi": 76,
+    "pinyin": 48
+  },
+  "libass_fontsize_calibration": {
+    "hanzi": 114,
+    "pinyin": 66,
+    "reason": "match actual rasterized glyph scale to bundled-font 76px/48px reference; libass normalizes font metrics"
+  },
+  "audio_pronunciation_listen_review": "not_certified",
+  "overrides": [
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "小朋友们，准备好听故事了吗？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "团团",
+      "pinyin": [
+        "tuán",
+        "tuán"
+      ],
+      "context": "团团和芽芽最喜欢秋天的不同声音，他们会把这些声音收藏在哪里呢？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "团团",
+      "pinyin": [
+        "tuán",
+        "tuán"
+      ],
+      "context": "小松鼠团团说喜欢啃坚果的“咔嚓”声，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮听着大家的回答，觉得秋天的每一种声音都好听极了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "傍晚放学回到家，皮皮从柜子里翻出了一只空空的、带盖子的小松木盒。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "脚步声",
+      "pinyin": [
+        "jiǎo",
+        "bù",
+        "shēng"
+      ],
+      "context": "还要装进好朋友小熊绒绒走到门前时、慢慢停住的温柔脚步声。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒绒",
+      "pinyin": [
+        "róng",
+        "róng"
+      ],
+      "context": "还要装进好朋友小熊绒绒走到门前时、慢慢停住的温柔脚步声。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "还要装进好朋友小熊绒绒走到门前时、慢慢停住的温柔脚步声。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "一会儿",
+      "pinyin": [
+        "yí",
+        "huì",
+        "r"
+      ],
+      "context": "装了一会儿，皮皮赶紧把木盒盖子合上，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "装了一会儿，皮皮赶紧把木盒盖子合上，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮贴近了再听一听，只能听见卧室里安安静静的夜色，和自己轻轻的呼吸声。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "栗子",
+      "pinyin": [
+        "lì",
+        "zi"
+      ],
+      "context": "原来，声音是没法像栗子一样被抓进盒子里的。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "点儿",
+      "pinyin": [
+        "diǎn",
+        "r"
+      ],
+      "context": "皮皮摸着下巴想了想，一点儿也没有觉得失望。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮摸着下巴想了想，一点儿也没有觉得失望。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒绒",
+      "pinyin": [
+        "róng",
+        "róng"
+      ],
+      "context": "他走到桌边，拿来一片今天和绒绒一起散步时捡到的红叶，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "轻轻地",
+      "pinyin": [
+        "qīng",
+        "qīng",
+        "de"
+      ],
+      "context": "轻轻地平放在了小木盒的底部。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "还有朋友们开心的笑声。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮笑着把小木盒盖好，端端正正地放回书架上。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "不用",
+      "pinyin": [
+        "bú",
+        "yòng"
+      ],
+      "context": "今晚，他不用再为了留住秋天的声音，把白天走过的每一段路重新走一遍了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "胡萝卜",
+      "pinyin": [
+        "hú",
+        "luó",
+        "bo"
+      ],
+      "context": "皮皮钻进被窝，盖好暖黄色的毛毯，把胡萝卜玩偶抱在胸前。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮钻进被窝，盖好暖黄色的毛毯，把胡萝卜玩偶抱在胸前。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "长耳朵",
+      "pinyin": [
+        "cháng",
+        "ěr",
+        "duo"
+      ],
+      "context": "书架上的小木盒歇着，他的小爪子和长耳朵也歇着。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "爪子",
+      "pinyin": [
+        "zhuǎ",
+        "zi"
+      ],
+      "context": "书架上的小木盒歇着，他的小爪子和长耳朵也歇着。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮闭上眼睛，嘴角轻轻弯着。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "小朋友，把今天开心的回忆轻轻留在心里吧。",
+      "review": "context_checked_not_audio_listen_certification"
+    }
+  ]
+}

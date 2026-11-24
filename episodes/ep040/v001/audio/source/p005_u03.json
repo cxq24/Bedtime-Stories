@@ -1,0 +1,65 @@
+{
+  "text": "轻轻地平放在了小木盒的底部。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "f2c1dd926d8620e8f70293206d9d4375be9fc6002e5657ac39cb6dba6beb7b59",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5961660,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7422910,
+      "duration": 8461660,
+      "text": "地平"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17422910,
+      "duration": 3461660,
+      "text": "放"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20884580,
+      "duration": 2307500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23192500,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24730830,
+      "duration": 3076660,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27807500,
+      "duration": 5192500,
+      "text": "木盒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33000000,
+      "duration": 1730830,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34922910,
+      "duration": 7115410,
+      "text": "底部"
+    }
+  ]
+}

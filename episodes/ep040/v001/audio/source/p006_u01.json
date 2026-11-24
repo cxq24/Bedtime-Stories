@@ -1,0 +1,83 @@
+{
+  "text": "原来，那些好听的声音，根本不需要锁在木头盒子里，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "55323f98cf0e466d94204a409a536217d03c76af2e9bd7f434dd30c1b00d9494",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 7692500,
+      "text": "原来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14538330,
+      "duration": 3846250,
+      "text": "那些"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18577080,
+      "duration": 5769160,
+      "text": "好听"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24346250,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25692500,
+      "duration": 7500000,
+      "text": "声音"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36461660,
+      "duration": 5192500,
+      "text": "根本"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41846250,
+      "duration": 1730830,
+      "text": "不"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43577080,
+      "duration": 4615410,
+      "text": "需要"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48577080,
+      "duration": 2500000,
+      "text": "锁"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51077080,
+      "duration": 2115410,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53577080,
+      "duration": 10961250,
+      "text": "木头盒子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64538330,
+      "duration": 2884580,
+      "text": "里"
+    }
+  ]
+}

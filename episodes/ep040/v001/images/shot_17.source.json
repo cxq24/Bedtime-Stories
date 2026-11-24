@@ -1,0 +1,33 @@
+{
+  "image_id": 17,
+  "title": "听见自己的呼吸",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_17.json",
+  "prompt_sha256": "bd64660a5085d239f99c7c4a5037960178a93b4caf4e8d097c50a3b4677007d0",
+  "image_sha256": "d24ca423fb82a5b5579f3d85927eb6f2e53c3d167a8ef168bd68568b68ffb377",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/sound_box_reference.png"
+  ],
+  "reference_sha256": {
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png": "6f754c72b9fa7281790bb1fce42bb18701ea055446fda2cdec7ae58b92232674",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/sound_box_reference.png": "7c1cf8dbbb5f410d44aea03ee67cfe805fc1346b474624fcef049ae1f717c75d"
+  },
+  "width": 941,
+  "height": 1672,
+  "generated_at": "2026-11-24",
+  "source_ranges": [
+    {
+      "unit_id": "p004_u04",
+      "paragraph_id": "p004",
+      "start_char": 0,
+      "end_char": 35
+    }
+  ],
+  "timing": {
+    "start_s": 129.36,
+    "end_s": 140.48
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "text": "窗外的秋夜，也像合上了盖子的木盒一样，慢慢放轻了所有的声响。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "38efeb1d087896872770967d50882dfc41567038f085586d1f394444e45a74a7",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6153750,
+      "text": "窗外"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7422910,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8961660,
+      "duration": 8461660,
+      "text": "秋夜"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21077080,
+      "duration": 2115410,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23192500,
+      "duration": 2884580,
+      "text": "像"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26461660,
+      "duration": 5769160,
+      "text": "合上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32230830,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33961660,
+      "duration": 4807500,
+      "text": "盖子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38769160,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40307500,
+      "duration": 5769160,
+      "text": "木盒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46269160,
+      "duration": 7115410,
+      "text": "一样"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58577080,
+      "duration": 5000000,
+      "text": "慢慢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63769160,
+      "duration": 5769160,
+      "text": "放轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 69538330,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 71269160,
+      "duration": 6153750,
+      "text": "所有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 77422910,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78961660,
+      "duration": 8269160,
+      "text": "声响"
+    }
+  ]
+}

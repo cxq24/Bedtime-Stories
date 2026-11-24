@@ -1,0 +1,35 @@
+{
+  "image_id": 23,
+  "title": "想起朋友笑声",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_23.json",
+  "prompt_sha256": "f8d3a9f338f8f8ba78d48911a47aa0ffc3344833cdb06b63ddd5083df7e29480",
+  "image_sha256": "70edabb54e2e6cefcfac689bcc2020facf1b5296c553d070ff3da6337ee5d853",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/rongrong_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/red_leaf_reference.png"
+  ],
+  "reference_sha256": {
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png": "6f754c72b9fa7281790bb1fce42bb18701ea055446fda2cdec7ae58b92232674",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/rongrong_identity_v001.png": "9b52ba85b675e5186a9240b1dfc1e080d6fcaae214ad1011226b41ddcf7d2706",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/red_leaf_reference.png": "395c2a60a971f399a10e16ab61557abdb92a5107f5429b528b46c859ecdee460"
+  },
+  "width": 941,
+  "height": 1672,
+  "generated_at": "2026-11-24",
+  "source_ranges": [
+    {
+      "unit_id": "p005_u05",
+      "paragraph_id": "p005",
+      "start_char": 0,
+      "end_char": 11
+    }
+  ],
+  "timing": {
+    "start_s": 178.72,
+    "end_s": 182.52
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "image_id": 12,
+  "title": "绒绒脚步停门前",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_12.json",
+  "prompt_sha256": "ff13132a526a1c568f6987b539ab8a45cfa57f43252a2773abcf6a08b239cbc4",
+  "image_sha256": "827f495e693b20d4d36aabfdc44f7ca574dec5e11457c41394bb133e2a589edf",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/rongrong_identity_v001.png"
+  ],
+  "reference_sha256": {
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/rongrong_identity_v001.png": "9b52ba85b675e5186a9240b1dfc1e080d6fcaae214ad1011226b41ddcf7d2706"
+  },
+  "width": 941,
+  "height": 1672,
+  "generated_at": "2026-11-24",
+  "source_ranges": [
+    {
+      "unit_id": "p003_u04",
+      "paragraph_id": "p003",
+      "start_char": 0,
+      "end_char": 28
+    }
+  ],
+  "timing": {
+    "start_s": 93.92,
+    "end_s": 103.48
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "text": "他捧着打开的小木盒走到门廊下，心里默念着：",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "9bc81cabe5856e261d23b2e9d4ac3709ed8ab3449b037bf953d1fc7f1e0ca583",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2307500,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3577080,
+      "duration": 2884580,
+      "text": "捧"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6461660,
+      "duration": 1538330,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8384580,
+      "duration": 5000000,
+      "text": "打开"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13384580,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14922910,
+      "duration": 3077080,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18000000,
+      "duration": 8269160,
+      "text": "木盒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27807500,
+      "duration": 2692500,
+      "text": "走"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30500000,
+      "duration": 2307500,
+      "text": "到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33000000,
+      "duration": 5769160,
+      "text": "门廊"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38769160,
+      "duration": 4230830,
+      "text": "下"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47230830,
+      "duration": 4422910,
+      "text": "心里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51846250,
+      "duration": 7500000,
+      "text": "默念"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59346250,
+      "duration": 3461660,
+      "text": "着"
+    }
+  ]
+}

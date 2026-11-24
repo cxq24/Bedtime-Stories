@@ -1,0 +1,35 @@
+{
+  "image_id": 31,
+  "title": "盒子和小爪子都歇了",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_31.json",
+  "prompt_sha256": "190ee4b5d210148b1e650aac0c3f89b11b096bbdb25725dfe9c2af12e06687e4",
+  "image_sha256": "71a5949e4576a85a78f9302b4be9312758e78c19d683ead50394c3a6957ed192",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/sound_box_reference.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/carrot_plush_reference.png"
+  ],
+  "reference_sha256": {
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png": "6f754c72b9fa7281790bb1fce42bb18701ea055446fda2cdec7ae58b92232674",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/sound_box_reference.png": "7c1cf8dbbb5f410d44aea03ee67cfe805fc1346b474624fcef049ae1f717c75d",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/carrot_plush_reference.png": "745ecfd29660fcf198be6393a78d0b23ba69616ddca4d14df6ac55be94dfef7d"
+  },
+  "width": 941,
+  "height": 1672,
+  "generated_at": "2026-11-24",
+  "source_ranges": [
+    {
+      "unit_id": "p007_u03",
+      "paragraph_id": "p007",
+      "start_char": 0,
+      "end_char": 23
+    }
+  ],
+  "timing": {
+    "start_s": 242.04,
+    "end_s": 249.48
+  }
+}

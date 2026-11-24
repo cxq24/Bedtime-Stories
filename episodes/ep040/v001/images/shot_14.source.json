@@ -1,0 +1,33 @@
+{
+  "image_id": 14,
+  "title": "期待地贴近盒盖",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_14.json",
+  "prompt_sha256": "8e86802902f4f4b87f10471ab1c3839b498af1f18f4c2cb035ac75820f89c29c",
+  "image_sha256": "940870fa1a588dad98cc4ebbf8764734fecae43d83686a1281d85caf0a8568b8",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/sound_box_reference.png"
+  ],
+  "reference_sha256": {
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png": "6f754c72b9fa7281790bb1fce42bb18701ea055446fda2cdec7ae58b92232674",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/sound_box_reference.png": "7c1cf8dbbb5f410d44aea03ee67cfe805fc1346b474624fcef049ae1f717c75d"
+  },
+  "width": 941,
+  "height": 1672,
+  "generated_at": "2026-11-24",
+  "source_ranges": [
+    {
+      "unit_id": "p004_u01",
+      "paragraph_id": "p004",
+      "start_char": 0,
+      "end_char": 18
+    }
+  ],
+  "timing": {
+    "start_s": 112.4,
+    "end_s": 118.8
+  }
+}

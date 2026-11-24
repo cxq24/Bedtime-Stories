@@ -1,0 +1,47 @@
+{
+  "text": "还有朋友们开心的笑声。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "feb6fb013a2029a2432488ff1f518f89e139010462dc9a7a0c532806cbdb0b6b",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5000000,
+      "text": "还有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6461660,
+      "duration": 4807500,
+      "text": "朋友"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11269160,
+      "duration": 2884580,
+      "text": "们"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14538330,
+      "duration": 5577080,
+      "text": "开心"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20115410,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21653750,
+      "duration": 8653750,
+      "text": "笑声"
+    }
+  ]
+}

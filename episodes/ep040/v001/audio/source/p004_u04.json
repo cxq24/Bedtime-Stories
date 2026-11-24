@@ -1,0 +1,125 @@
+{
+  "text": "皮皮贴近了再听一听，只能听见卧室里安安静静的夜色，和自己轻轻的呼吸声。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "cb01ea8adc70a05b9333721e8317543ab6b301433cea0a150bd2efeba3f739d9",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5384580,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 5961250,
+      "text": "贴近"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12807500,
+      "duration": 1538330,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14730830,
+      "duration": 2500000,
+      "text": "再"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17230830,
+      "duration": 2884580,
+      "text": "听"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20307500,
+      "duration": 2307500,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22615410,
+      "duration": 4807500,
+      "text": "听"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31846250,
+      "duration": 4422910,
+      "text": "只能"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36461660,
+      "duration": 5769160,
+      "text": "听见"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42615410,
+      "duration": 6153750,
+      "text": "卧室"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48769160,
+      "duration": 4230830,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53384580,
+      "duration": 10577080,
+      "text": "安安静静"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63961660,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 65500000,
+      "duration": 7884580,
+      "text": "夜色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 77422910,
+      "duration": 2115410,
+      "text": "和"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 79730830,
+      "duration": 5577080,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 85692500,
+      "duration": 6153750,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 91846250,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 93577080,
+      "duration": 10192500,
+      "text": "呼吸声"
+    }
+  ]
+}

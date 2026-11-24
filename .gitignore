@@ -50,3 +50,7 @@ __pycache__/
 # User-requested full episode 038 v001 repository delivery.
 !Outputs/2026-11-23/ep038-v001/ep038.mp4
 !Outputs/2026-11-23/ep038-v001/ep038_clean.mp4
+
+# User-requested full episode 040 v001 repository delivery.
+!Outputs/2026-11-24/ep040-v001/ep040.mp4
+!Outputs/2026-11-24/ep040-v001/ep040_clean.mp4

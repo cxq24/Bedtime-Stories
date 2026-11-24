@@ -1,0 +1,1767 @@
+{
+  "episode": "ep040",
+  "duration_s": 286.52,
+  "fps": 25,
+  "frames": 7163,
+  "preview": false,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "shot_count": 36,
+  "crossfade_s": 0.96,
+  "curve": "linear",
+  "within_shot_motion": "none",
+  "subtitles_after_picture_transitions": true,
+  "clean": "/workspace/Bedtime-Stories/Outputs/2026-11-24/ep040-v001/ep040_clean.mp4",
+  "publish": "/workspace/Bedtime-Stories/Outputs/2026-11-24/ep040-v001/ep040.mp4",
+  "delivery_directory": "/workspace/Bedtime-Stories/Outputs/2026-11-24/ep040-v001",
+  "shots": [
+    {
+      "id": 0,
+      "title": "秋林轻响",
+      "text": "小朋友们，准备好听故事了吗？",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u01",
+          "paragraph_id": "p000",
+          "start_char": 0,
+          "end_char": 14
+        }
+      ],
+      "paragraph_id": "p000",
+      "characters": [],
+      "outfits": {},
+      "setting": "初秋将尽的森林小路，金黄红褐叶片与清晨薄光。",
+      "action": "无人景物开场：枝头叶片轻轻摇动，地面落叶铺出小路。",
+      "visual_description": "无人景物开场：枝头叶片轻轻摇动，地面落叶铺出小路。",
+      "emotional_performance": "安静温暖的故事邀请，画面留白柔和。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": true,
+      "image": "images/shot_00.png",
+      "prompt_file": "prompts/shot_00.json",
+      "reference_manifest": "references/shot_00.json",
+      "continuity_refs": [
+        "autumn_path"
+      ],
+      "state_before": "",
+      "state_after": "建立秋日声音与森林氛围。",
+      "transition_from": null,
+      "visual_constraints": "",
+      "environment_reference": null,
+      "speech_start_s": 1.0,
+      "speech_end_s": 4.6634364999999995,
+      "actual_start_s": 0.0,
+      "actual_end_s": 5.12,
+      "visible_start_s": 0.0,
+      "visible_end_s": 5.6,
+      "visible_duration_s": 5.6
+    },
+    {
+      "id": 1,
+      "title": "秋天声音盒",
+      "text": "今天的故事叫《秋天的声音盒》。",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u02",
+          "paragraph_id": "p000",
+          "start_char": 0,
+          "end_char": 15
+        }
+      ],
+      "paragraph_id": "p000",
+      "characters": [],
+      "outfits": {},
+      "setting": "森林学堂外的秋日树荫，松木窗与远处芦苇。",
+      "action": "无人景物；一片红叶、松果与一束芦苇在同一自然庭院环境中，暗示秋日声音来源，不出现盒子。",
+      "visual_description": "无人景物；一片红叶、松果与一束芦苇在同一自然庭院环境中，暗示秋日声音来源，不出现盒子。",
+      "emotional_performance": "轻盈、好奇，不呈现具体声音符号。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": true,
+      "image": "images/shot_01.png",
+      "prompt_file": "prompts/shot_01.json",
+      "reference_manifest": "references/shot_01.json",
+      "continuity_refs": [
+        "autumn_path"
+      ],
+      "state_before": "",
+      "state_after": "开场意象，不展示剧情中的木盒。",
+      "transition_from": 0,
+      "visual_constraints": "独立开场图，不复用后续剧情图或封面；无人物、无盒子、无音符或文字。",
+      "environment_reference": null,
+      "speech_start_s": 5.565125,
+      "speech_end_s": 9.283832,
+      "actual_start_s": 5.12,
+      "actual_end_s": 9.76,
+      "visible_start_s": 4.640000000000001,
+      "visible_end_s": 10.24,
+      "visible_duration_s": 5.6
+    },
+    {
+      "id": 2,
+      "title": "谁在收藏声音",
+      "text": "团团和芽芽最喜欢秋天的不同声音，他们会把这些声音收藏在哪里呢？",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u03",
+          "paragraph_id": "p000",
+          "start_char": 0,
+          "end_char": 31
+        }
+      ],
+      "paragraph_id": "p000",
+      "characters": [
+        "pipi",
+        "tuantuan",
+        "yaya"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001",
+        "yaya": "default_v001"
+      },
+      "setting": "森林学堂的秋日窗边，软金色斜阳。",
+      "action": "皮皮、团团、芽芽一起侧耳听秋风与落叶；皮皮带着好奇望向两位朋友。",
+      "visual_description": "皮皮、团团、芽芽一起侧耳听秋风与落叶；皮皮带着好奇望向两位朋友。",
+      "emotional_performance": "三位小伙伴神情轻快专注，彼此自然互动。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": true,
+      "image": "images/shot_02.png",
+      "prompt_file": "prompts/shot_02.json",
+      "reference_manifest": "references/shot_02.json",
+      "continuity_refs": [
+        "pipi_identity",
+        "pipi_day",
+        "tuantuan",
+        "yaya"
+      ],
+      "state_before": "p000开场问题；尚未发现木盒。",
+      "state_after": "独立片头角色画面，随后进入学堂正式问答。",
+      "transition_from": 1,
+      "visual_constraints": "opening专属图，不复用剧情画面；只出现皮皮、团团、芽芽各一次，不出现声音盒。",
+      "environment_reference": null,
+      "speech_start_s": 10.1991875,
+      "speech_end_s": 19.597145833333336,
+      "actual_start_s": 9.76,
+      "actual_end_s": 20.04,
+      "visible_start_s": 9.28,
+      "visible_end_s": 20.52,
+      "visible_duration_s": 11.24
+    },
+    {
+      "id": 3,
+      "title": "山羊老师提问",
+      "text": "秋天快要过去的时候，山羊老师在森林学堂里问大家：“你们最喜欢秋天的什么声音呀？”",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u01",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 24
+        },
+        {
+          "unit_id": "p001_u02",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "paragraph_id": "p001",
+      "characters": [
+        "pipi",
+        "tuantuan",
+        "yaya",
+        "goat_teacher"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001",
+        "yaya": "default_v001",
+        "goat_teacher": "default_v001"
+      },
+      "setting": "森林学堂内，木桌、窗外秋树，白天。",
+      "action": "山羊老师站在课堂前温和提问；皮皮、团团和芽芽坐在桌旁听讲。",
+      "visual_description": "山羊老师站在课堂前温和提问；皮皮、团团和芽芽坐在桌旁听讲。",
+      "emotional_performance": "老师神情鼓励；三个孩子安静、好奇地看向老师。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_03.png",
+      "prompt_file": "prompts/shot_03.json",
+      "reference_manifest": "references/shot_03.json",
+      "continuity_refs": [
+        "pipi_identity",
+        "pipi_day",
+        "tuantuan",
+        "yaya",
+        "goat_teacher"
+      ],
+      "state_before": "p000片头结束，孩子们进入学堂。",
+      "state_after": "老师提问后团团先分享。",
+      "transition_from": 2,
+      "visual_constraints": "画面恰有一位山羊老师和三位学生；无绒绒；不要文字或气泡。",
+      "environment_reference": null,
+      "speech_start_s": 20.502145833333337,
+      "speech_end_s": 31.816770833333337,
+      "actual_start_s": 20.04,
+      "actual_end_s": 32.24,
+      "visible_start_s": 19.56,
+      "visible_end_s": 32.72,
+      "visible_duration_s": 13.16
+    },
+    {
+      "id": 4,
+      "title": "团团喜欢咔嚓声",
+      "text": "小松鼠团团说喜欢啃坚果的“咔嚓”声，",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u03",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 18
+        }
+      ],
+      "paragraph_id": "p001",
+      "characters": [
+        "tuantuan",
+        "pipi"
+      ],
+      "outfits": {
+        "tuantuan": "default_v001",
+        "pipi": "day_v001"
+      },
+      "setting": "森林学堂内的同一课堂，窗外秋树。",
+      "action": "团团举起一枚带壳坚果，用爪子轻轻敲开；皮皮专注听着。",
+      "visual_description": "团团举起一枚带壳坚果，用爪子轻轻敲开；皮皮专注听着。",
+      "emotional_performance": "团团开心分享，皮皮眼神明亮地留意坚果。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_04.png",
+      "prompt_file": "prompts/shot_04.json",
+      "reference_manifest": "references/shot_04.json",
+      "continuity_refs": [
+        "tuantuan",
+        "pipi_identity",
+        "pipi_day"
+      ],
+      "state_before": "老师刚提问。",
+      "state_after": "团团分享坚果脆响，芽芽接着分享风声。",
+      "transition_from": 3,
+      "visual_constraints": "只一枚坚果，画面表现分享声音而非吃很多坚果。",
+      "environment_reference": null,
+      "speech_start_s": 32.687958333333334,
+      "speech_end_s": 37.45501983333333,
+      "actual_start_s": 32.24,
+      "actual_end_s": 37.92,
+      "visible_start_s": 31.76,
+      "visible_end_s": 38.4,
+      "visible_duration_s": 6.64
+    },
+    {
+      "id": 5,
+      "title": "芽芽喜欢芦苇风声",
+      "text": "小鹿芽芽说喜欢秋风吹过芦苇的“呼呼”声。",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u04",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 20
+        }
+      ],
+      "paragraph_id": "p001",
+      "characters": [
+        "yaya",
+        "pipi"
+      ],
+      "outfits": {
+        "yaya": "default_v001",
+        "pipi": "day_v001"
+      },
+      "setting": "森林学堂旁的窗边可见芦苇荡，仍是同一白天。",
+      "action": "芽芽望向窗外被风吹弯的芦苇，皮皮顺着她的视线看去。",
+      "visual_description": "芽芽望向窗外被风吹弯的芦苇，皮皮顺着她的视线看去。",
+      "emotional_performance": "芽芽神情安宁，皮皮认真聆听。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_05.png",
+      "prompt_file": "prompts/shot_05.json",
+      "reference_manifest": "references/shot_05.json",
+      "continuity_refs": [
+        "yaya",
+        "pipi_identity",
+        "pipi_day"
+      ],
+      "state_before": "团团分享完毕。",
+      "state_after": "皮皮听完同学回答，故事转到放学回家。",
+      "transition_from": 4,
+      "visual_constraints": "只表现芦苇受秋风吹拂，不用拟声文字或音符。",
+      "environment_reference": null,
+      "speech_start_s": 38.39939583333334,
+      "speech_end_s": 43.78381183333334,
+      "actual_start_s": 37.92,
+      "actual_end_s": 44.24,
+      "visible_start_s": 37.440000000000005,
+      "visible_end_s": 44.72,
+      "visible_duration_s": 7.28
+    },
+    {
+      "id": 6,
+      "title": "皮皮听秋天",
+      "text": "皮皮听着大家的回答，觉得秋天的每一种声音都好听极了。",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u01",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 26
+        }
+      ],
+      "paragraph_id": "p002",
+      "characters": [
+        "pipi",
+        "tuantuan",
+        "yaya"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001",
+        "yaya": "default_v001"
+      },
+      "setting": "森林学堂课堂内，仍在白天。",
+      "action": "皮皮坐在朋友身旁，目光在团团和芽芽之间，认真听同学们分享。",
+      "visual_description": "皮皮坐在朋友身旁，目光在团团和芽芽之间，认真听同学们分享。",
+      "emotional_performance": "皮皮欣赏而满足，朋友们放松微笑。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_06.png",
+      "prompt_file": "prompts/shot_06.json",
+      "reference_manifest": "references/shot_06.json",
+      "continuity_refs": [
+        "pipi_identity",
+        "pipi_day",
+        "tuantuan",
+        "yaya"
+      ],
+      "state_before": "芽芽分享完风吹芦苇声。",
+      "state_after": "放学，皮皮回到家中。",
+      "transition_from": 5,
+      "visual_constraints": "这镜只在学堂，绒绒尚未出现。",
+      "environment_reference": null,
+      "speech_start_s": 44.70908333333334,
+      "speech_end_s": 51.87926983333334,
+      "actual_start_s": 44.24,
+      "actual_end_s": 52.32,
+      "visible_start_s": 43.760000000000005,
+      "visible_end_s": 52.8,
+      "visible_duration_s": 9.04
+    },
+    {
+      "id": 7,
+      "title": "柜中找到小松木盒",
+      "text": "傍晚放学回到家，皮皮从柜子里翻出了一只空空的、带盖子的小松木盒。",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u02",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 32
+        }
+      ],
+      "paragraph_id": "p002",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "傍晚的皮皮家卧室，木柜与书架，窗外橙金秋光。",
+      "action": "皮皮打开家中木柜，从柜格里取出一只空空的带盖小松木盒。",
+      "visual_description": "皮皮打开家中木柜，从柜格里取出一只空空的带盖小松木盒。",
+      "emotional_performance": "皮皮有发现新东西的好奇，轻轻托着盒子查看。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_07.png",
+      "prompt_file": "prompts/shot_07.json",
+      "reference_manifest": "references/shot_07.json",
+      "continuity_refs": [
+        "pipi_identity",
+        "pipi_day",
+        "sound_box"
+      ],
+      "state_before": "刚放学回家，木盒尚未出现。",
+      "state_after": "同一只空木盒被皮皮捧在手中。",
+      "transition_from": 6,
+      "visual_constraints": "盒子须是小型松木带盖盒，木色浅暖，尚未放红叶。",
+      "environment_reference": null,
+      "speech_start_s": 52.77281250000001,
+      "speech_end_s": 62.319498666666675,
+      "actual_start_s": 52.32,
+      "actual_end_s": 62.76,
+      "visible_start_s": 51.84,
+      "visible_end_s": 63.239999999999995,
+      "visible_duration_s": 11.4
+    },
+    {
+      "id": 8,
+      "title": "想把秋声收藏",
+      "text": "他突发奇想，想把今天在森林里听过的所有好听的秋天声音，全都装进这只小木盒里收藏起来。",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u03",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 27
+        },
+        {
+          "unit_id": "p002_u04",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 15
+        }
+      ],
+      "paragraph_id": "p002",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "皮皮家的书桌旁，傍晚暖光。",
+      "action": "皮皮看着打开的空木盒，想象今天听过的秋日声音；盒中仍然是空的。",
+      "visual_description": "皮皮看着打开的空木盒，想象今天听过的秋日声音；盒中仍然是空的。",
+      "emotional_performance": "眼神跃跃欲试、带着温柔的灵感。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_08.png",
+      "prompt_file": "prompts/shot_08.json",
+      "reference_manifest": "references/shot_08.json",
+      "continuity_refs": [
+        "pipi_identity",
+        "pipi_day",
+        "sound_box"
+      ],
+      "state_before": "手里拿着空盒。",
+      "state_after": "决定把声音装进盒子，盒子仍空。",
+      "transition_from": 7,
+      "visual_constraints": "想法用皮皮的专注目光表现；不把声音画成球体、音符或发光实体。",
+      "environment_reference": null,
+      "speech_start_s": 63.22333333333334,
+      "speech_end_s": 76.17547850000001,
+      "actual_start_s": 62.76,
+      "actual_end_s": 76.64,
+      "visible_start_s": 62.28,
+      "visible_end_s": 77.12,
+      "visible_duration_s": 14.84
+    },
+    {
+      "id": 9,
+      "title": "门廊打开木盒",
+      "text": "他捧着打开的小木盒走到门廊下，心里默念着：",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u01",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 21
+        }
+      ],
+      "paragraph_id": "p003",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "门廊边的秋日小院，傍晚。",
+      "action": "皮皮捧着打开的小松木盒站在门廊下，准备收藏记忆中的声音。",
+      "visual_description": "皮皮捧着打开的小松木盒站在门廊下，准备收藏记忆中的声音。",
+      "emotional_performance": "认真又期待，低头看着盒子。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_09.png",
+      "prompt_file": "prompts/shot_09.json",
+      "reference_manifest": "references/shot_09.json",
+      "continuity_refs": [
+        "pipi_identity",
+        "pipi_day",
+        "sound_box",
+        "autumn_path"
+      ],
+      "state_before": "盒子空着，皮皮从卧室走到门廊。",
+      "state_after": "盒盖打开，盒中仍空。",
+      "transition_from": 8,
+      "visual_constraints": "写实单场景，无音符、文字或魔法特效。",
+      "environment_reference": null,
+      "speech_start_s": 77.084,
+      "speech_end_s": 83.2063535,
+      "actual_start_s": 76.64,
+      "actual_end_s": 83.64,
+      "visible_start_s": 76.16,
+      "visible_end_s": 84.12,
+      "visible_duration_s": 7.96
+    },
+    {
+      "id": 10,
+      "title": "落叶沙沙记忆",
+      "text": "我要装进脚踩落叶的“沙沙”声，",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u02",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 15
+        }
+      ],
+      "paragraph_id": "p003",
+      "characters": [],
+      "outfits": {},
+      "setting": "门廊旁秋日小径，数片落叶轻落。",
+      "action": "想象中的白天秋日片段：一只小兔脚边落叶被轻轻踩过；只表现秋日落叶本身，不画发声符号，空木盒不收纳落叶。",
+      "visual_description": "想象中的白天秋日片段：一只小兔脚边落叶被轻轻踩过；只表现秋日落叶本身，不画发声符号，空木盒不收纳落叶。",
+      "emotional_performance": "轻柔，像白天回忆的声音画面。",
+      "reality": "memory",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_10.png",
+      "prompt_file": "prompts/shot_10.json",
+      "reference_manifest": "references/shot_10.json",
+      "continuity_refs": [
+        "autumn_path",
+        "sound_box"
+      ],
+      "state_before": "盒子只作为故事物件，不把声音物化。",
+      "state_after": "皮皮想收藏落叶脚步声。",
+      "transition_from": 9,
+      "visual_constraints": "无角色面部、无文字、无音符；清晰看见落叶与轻巧脚步的记忆意象，不画实际声波。",
+      "environment_reference": null,
+      "speech_start_s": 84.08033333333334,
+      "speech_end_s": 87.60995733333334,
+      "actual_start_s": 83.64,
+      "actual_end_s": 88.08,
+      "visible_start_s": 83.16,
+      "visible_end_s": 88.56,
+      "visible_duration_s": 5.4
+    },
+    {
+      "id": 11,
+      "title": "松果噗通落地",
+      "text": "装进熟透的松果掉在泥土上的“噗通”声，",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u03",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 19
+        }
+      ],
+      "paragraph_id": "p003",
+      "characters": [],
+      "outfits": {},
+      "setting": "森林地面，松针与湿润泥土，秋日柔光。",
+      "action": "想象中的白天片段：一枚成熟松果落在松针旁的泥土上；不出现木盒或拟声字。",
+      "visual_description": "想象中的白天片段：一枚成熟松果落在松针旁的泥土上；不出现木盒或拟声字。",
+      "emotional_performance": "宁静的自然瞬间。",
+      "reality": "memory",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_11.png",
+      "prompt_file": "prompts/shot_11.json",
+      "reference_manifest": "references/shot_11.json",
+      "continuity_refs": [
+        "pinecone"
+      ],
+      "state_before": "不要把松果装入盒子。",
+      "state_after": "松果留在泥土上。",
+      "transition_from": 10,
+      "visual_constraints": "无人、无盒子、无音符、无文字；只有一枚松果落在土上。",
+      "environment_reference": null,
+      "speech_start_s": 88.53058333333334,
+      "speech_end_s": 93.461208,
+      "actual_start_s": 88.08,
+      "actual_end_s": 93.92,
+      "visible_start_s": 87.6,
+      "visible_end_s": 94.4,
+      "visible_duration_s": 6.8
+    },
+    {
+      "id": 12,
+      "title": "绒绒脚步停门前",
+      "text": "还要装进好朋友小熊绒绒走到门前时、慢慢停住的温柔脚步声。",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u04",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 28
+        }
+      ],
+      "paragraph_id": "p003",
+      "characters": [
+        "rongrong"
+      ],
+      "outfits": {
+        "rongrong": "default_v001"
+      },
+      "setting": "皮皮家门前小径，门廊可见，傍晚记忆中的场景。",
+      "action": "记忆片段中的小熊绒绒走到门前，温柔地慢慢停下脚步。",
+      "visual_description": "记忆片段中的小熊绒绒走到门前，温柔地慢慢停下脚步。",
+      "emotional_performance": "绒绒神情温和，步伐由轻到停，不着急。",
+      "reality": "memory",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_12.png",
+      "prompt_file": "prompts/shot_12.json",
+      "reference_manifest": "references/shot_12.json",
+      "continuity_refs": [
+        "rongrong",
+        "front_path"
+      ],
+      "state_before": "这是皮皮记起的白天脚步，不是绒绒此刻到访。",
+      "state_after": "记忆停留在绒绒门前站定。",
+      "transition_from": 11,
+      "visual_constraints": "仅绒绒一个角色，不出现皮皮或盒子；单一停止瞬间，无音符/文字。",
+      "environment_reference": null,
+      "speech_start_s": 94.38104166666668,
+      "speech_end_s": 103.02012400000001,
+      "actual_start_s": 93.92,
+      "actual_end_s": 103.48,
+      "visible_start_s": 93.44,
+      "visible_end_s": 103.96000000000001,
+      "visible_duration_s": 10.52
+    },
+    {
+      "id": 13,
+      "title": "合上盒子",
+      "text": "装了一会儿，皮皮赶紧把木盒盖子合上，抱回安静的卧室里。",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u05",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 18
+        },
+        {
+          "unit_id": "p003_u06",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 9
+        }
+      ],
+      "paragraph_id": "p003",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "门廊至卧室的傍晚连续场景。",
+      "action": "皮皮将木盒盖合上，抱着它安静地回到卧室。",
+      "visual_description": "皮皮将木盒盖合上，抱着它安静地回到卧室。",
+      "emotional_performance": "期待感稍收，动作轻缓认真。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_13.png",
+      "prompt_file": "prompts/shot_13.json",
+      "reference_manifest": "references/shot_13.json",
+      "continuity_refs": [
+        "pipi_identity",
+        "pipi_day",
+        "sound_box"
+      ],
+      "state_before": "盒子曾打开且尝试收藏声音。",
+      "state_after": "盒盖闭合，木盒被带到卧室。",
+      "transition_from": 12,
+      "visual_constraints": "一个皮皮、一个木盒；不出现被装进去的声音或落叶。",
+      "environment_reference": null,
+      "speech_start_s": 103.91418750000001,
+      "speech_end_s": 111.93504166666668,
+      "actual_start_s": 103.48,
+      "actual_end_s": 112.4,
+      "visible_start_s": 103.0,
+      "visible_end_s": 112.88000000000001,
+      "visible_duration_s": 9.88
+    },
+    {
+      "id": 14,
+      "title": "期待地贴近盒盖",
+      "text": "他满怀期待地把小耳朵贴在木盒盖子上，",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u01",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 18
+        }
+      ],
+      "paragraph_id": "p004",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "皮皮卧室夜间，床边小桌与空木盒。",
+      "action": "皮皮将一只长耳朵贴在合上的木盒盖上，准备听里面的声音。",
+      "visual_description": "皮皮将一只长耳朵贴在合上的木盒盖上，准备听里面的声音。",
+      "emotional_performance": "满怀期待，眉眼专注。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_14.png",
+      "prompt_file": "prompts/shot_14.json",
+      "reference_manifest": "references/shot_14.json",
+      "continuity_refs": [
+        "pipi_identity",
+        "pipi_day",
+        "sound_box"
+      ],
+      "state_before": "盒盖闭合，皮皮在卧室。",
+      "state_after": "耳朵贴近盒盖。",
+      "transition_from": 13,
+      "visual_constraints": "木盒暂时闭合，无红叶；温暖夜灯。",
+      "environment_reference": null,
+      "speech_start_s": 112.83372916666667,
+      "speech_end_s": 118.38197883333333,
+      "actual_start_s": 112.4,
+      "actual_end_s": 118.8,
+      "visible_start_s": 111.92,
+      "visible_end_s": 119.28,
+      "visible_duration_s": 7.36
+    },
+    {
+      "id": 15,
+      "title": "打开一条小缝",
+      "text": "打开一条小缝仔细地听——咦？",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u02",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 14
+        }
+      ],
+      "paragraph_id": "p004",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "同一卧室近景，床边小桌。",
+      "action": "皮皮用爪子把盒盖轻轻掀开一条窄缝，凑近倾听。",
+      "visual_description": "皮皮用爪子把盒盖轻轻掀开一条窄缝，凑近倾听。",
+      "emotional_performance": "眼睛睁大一点，期待里有轻微疑惑。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_15.png",
+      "prompt_file": "prompts/shot_15.json",
+      "reference_manifest": "references/shot_15.json",
+      "continuity_refs": [
+        "pipi_identity",
+        "pipi_day",
+        "sound_box"
+      ],
+      "state_before": "耳朵靠近盒盖。",
+      "state_after": "盒盖有一条小缝，盒内空空。",
+      "transition_from": 14,
+      "visual_constraints": "同一木盒、尚无红叶，无可见声音符号。",
+      "environment_reference": null,
+      "speech_start_s": 119.23433333333334,
+      "speech_end_s": 122.76695733333334,
+      "actual_start_s": 118.8,
+      "actual_end_s": 123.2,
+      "visible_start_s": 118.32,
+      "visible_end_s": 123.68,
+      "visible_duration_s": 5.36
+    },
+    {
+      "id": 16,
+      "title": "盒子里空空的",
+      "text": "木盒里空空荡荡的，什么声音也没有传出来。",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u03",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 20
+        }
+      ],
+      "paragraph_id": "p004",
+      "characters": [],
+      "outfits": {},
+      "setting": "同一卧室，盒盖轻开。",
+      "action": "展示松木盒内部空空荡荡；周围安静，夜灯光线柔和。",
+      "visual_description": "展示松木盒内部空空荡荡；周围安静，夜灯光线柔和。",
+      "emotional_performance": "安静，不画拟声效果。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_16.png",
+      "prompt_file": "prompts/shot_16.json",
+      "reference_manifest": "references/shot_16.json",
+      "continuity_refs": [
+        "sound_box"
+      ],
+      "state_before": "盒盖开一条小缝。",
+      "state_after": "盒内确实没有声音或其他物件。",
+      "transition_from": 15,
+      "visual_constraints": "无角色、无叶子、无音符、无发光声波。",
+      "environment_reference": null,
+      "speech_start_s": 123.6686875,
+      "speech_end_s": 128.885208,
+      "actual_start_s": 123.2,
+      "actual_end_s": 129.36,
+      "visible_start_s": 122.72,
+      "visible_end_s": 129.84,
+      "visible_duration_s": 7.12
+    },
+    {
+      "id": 17,
+      "title": "听见自己的呼吸",
+      "text": "皮皮贴近了再听一听，只能听见卧室里安安静静的夜色，和自己轻轻的呼吸声。",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u04",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 35
+        }
+      ],
+      "paragraph_id": "p004",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "皮皮卧室夜景，盒子在桌上，窗外深蓝安静。",
+      "action": "皮皮再贴近盒子听一听，随后安静坐着，感受自己轻轻呼吸。",
+      "visual_description": "皮皮再贴近盒子听一听，随后安静坐着，感受自己轻轻呼吸。",
+      "emotional_performance": "神情从疑惑转为平静倾听，肩膀放松。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_17.png",
+      "prompt_file": "prompts/shot_17.json",
+      "reference_manifest": "references/shot_17.json",
+      "continuity_refs": [
+        "pipi_identity",
+        "pipi_day",
+        "sound_box"
+      ],
+      "state_before": "木盒里空空的。",
+      "state_after": "皮皮明白卧室里只有夜晚与自己的呼吸声。",
+      "transition_from": 16,
+      "visual_constraints": "不画可视化声波、音符或星星。",
+      "environment_reference": null,
+      "speech_start_s": 129.796625,
+      "speech_end_s": 140.01999966666668,
+      "actual_start_s": 129.36,
+      "actual_end_s": 140.48,
+      "visible_start_s": 128.88000000000002,
+      "visible_end_s": 140.95999999999998,
+      "visible_duration_s": 12.08
+    },
+    {
+      "id": 18,
+      "title": "声音不能抓进盒子",
+      "text": "原来，声音是没法像栗子一样被抓进盒子里的。",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u05",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 21
+        }
+      ],
+      "paragraph_id": "p004",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "卧室小桌前，皮皮与木盒。",
+      "action": "皮皮看着空木盒，想起声音像栗子一样无法抓住；桌边可有一枚普通栗子作为比照。",
+      "visual_description": "皮皮看着空木盒，想起声音像栗子一样无法抓住；桌边可有一枚普通栗子作为比照。",
+      "emotional_performance": "释然、好奇仍在，但没有沮丧。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_18.png",
+      "prompt_file": "prompts/shot_18.json",
+      "reference_manifest": "references/shot_18.json",
+      "continuity_refs": [
+        "pipi_identity",
+        "pipi_day",
+        "sound_box"
+      ],
+      "state_before": "确定盒中没有声音。",
+      "state_after": "皮皮不再强求盒子储存声音。",
+      "transition_from": 17,
+      "visual_constraints": "如出现栗子只一枚，独立放在桌面；不表现栗子进入盒子。",
+      "environment_reference": null,
+      "speech_start_s": 140.93714583333335,
+      "speech_end_s": 147.2986035,
+      "actual_start_s": 140.48,
+      "actual_end_s": 147.76,
+      "visible_start_s": 140.0,
+      "visible_end_s": 148.23999999999998,
+      "visible_duration_s": 8.24
+    },
+    {
+      "id": 19,
+      "title": "皮皮想起声音",
+      "text": "皮皮摸着下巴想了想，一点儿也没有觉得失望。",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u01",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 21
+        }
+      ],
+      "paragraph_id": "p005",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "卧室书桌旁，夜色温暖，盒子仍空。",
+      "action": "皮皮摸着下巴想了想，一点也没有失望。",
+      "visual_description": "皮皮摸着下巴想了想，一点也没有失望。",
+      "emotional_performance": "平静思考，眉眼柔和，目光落在桌边。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_19.png",
+      "prompt_file": "prompts/shot_19.json",
+      "reference_manifest": "references/shot_19.json",
+      "continuity_refs": [
+        "pipi_identity",
+        "pipi_day",
+        "sound_box"
+      ],
+      "state_before": "盒内空着，皮皮释然。",
+      "state_after": "皮皮想起白天散步时捡来的红叶。",
+      "transition_from": 18,
+      "visual_constraints": "仅表现皮皮思考，木盒仍空，不出现重复红叶。",
+      "environment_reference": null,
+      "speech_start_s": 148.22262500000002,
+      "speech_end_s": 153.33524933333337,
+      "actual_start_s": 147.76,
+      "actual_end_s": 153.8,
+      "visible_start_s": 147.28,
+      "visible_end_s": 154.28,
+      "visible_duration_s": 7.0
+    },
+    {
+      "id": 20,
+      "title": "拿起散步红叶",
+      "text": "他走到桌边，拿来一片今天和绒绒一起散步时捡到的红叶，",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u02",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 26
+        }
+      ],
+      "paragraph_id": "p005",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "同一卧室书桌旁，桌上放着一片红叶。",
+      "action": "皮皮走到桌边，拿起今天和绒绒一起散步时捡到的那片红叶。",
+      "visual_description": "皮皮走到桌边，拿起今天和绒绒一起散步时捡到的那片红叶。",
+      "emotional_performance": "温柔专注，目光跟随红叶。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_20.png",
+      "prompt_file": "prompts/shot_20.json",
+      "reference_manifest": "references/shot_20.json",
+      "continuity_refs": [
+        "pipi_identity",
+        "pipi_day",
+        "red_leaf"
+      ],
+      "state_before": "皮皮刚想到散步回忆。",
+      "state_after": "唯一红叶在皮皮手中。",
+      "transition_from": 19,
+      "visual_constraints": "只有一片红叶，不出现绒绒在当前卧室。",
+      "environment_reference": null,
+      "speech_start_s": 154.2429791666667,
+      "speech_end_s": 162.10008266666668,
+      "actual_start_s": 153.8,
+      "actual_end_s": 162.52,
+      "visible_start_s": 153.32000000000002,
+      "visible_end_s": 163.0,
+      "visible_duration_s": 9.68
+    },
+    {
+      "id": 21,
+      "title": "红叶放进盒底",
+      "text": "轻轻地平放在了小木盒的底部。",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u03",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 14
+        }
+      ],
+      "paragraph_id": "p005",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "同一卧室书桌前，木盒打开。",
+      "action": "皮皮轻轻把那一片红叶平放在小松木盒的底部。",
+      "visual_description": "皮皮轻轻把那一片红叶平放在小松木盒的底部。",
+      "emotional_performance": "动作温柔仔细，眼神专注。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_21.png",
+      "prompt_file": "prompts/shot_21.json",
+      "reference_manifest": "references/shot_21.json",
+      "continuity_refs": [
+        "pipi_identity",
+        "pipi_day",
+        "sound_box",
+        "red_leaf"
+      ],
+      "state_before": "盒子空，红叶在皮皮手中。",
+      "state_after": "唯一红叶平放在盒底。",
+      "transition_from": 20,
+      "visual_constraints": "盒内仅一片红叶，木盒保持同一外形。",
+      "environment_reference": null,
+      "speech_start_s": 162.97033333333334,
+      "speech_end_s": 167.03720700000002,
+      "actual_start_s": 162.52,
+      "actual_end_s": 167.48,
+      "visible_start_s": 162.04000000000002,
+      "visible_end_s": 167.95999999999998,
+      "visible_duration_s": 5.92
+    },
+    {
+      "id": 22,
+      "title": "想起落叶沙沙",
+      "text": "当他看着这片红叶时，耳边好像自然而然就响起了白天踩在落叶上的“沙沙”声，",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u04",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 36
+        }
+      ],
+      "paragraph_id": "p005",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "红叶在盒底的卧室近景，旁边可见窗外秋树。",
+      "action": "皮皮看着盒底红叶，脸上浮现白天踩落叶的温暖记忆。",
+      "visual_description": "皮皮看着盒底红叶，脸上浮现白天踩落叶的温暖记忆。",
+      "emotional_performance": "目光柔和，嘴角轻轻上扬，不做夸张欢笑。",
+      "reality": "memory",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_22.png",
+      "prompt_file": "prompts/shot_22.json",
+      "reference_manifest": "references/shot_22.json",
+      "continuity_refs": [
+        "pipi_identity",
+        "pipi_day",
+        "red_leaf",
+        "sound_box"
+      ],
+      "state_before": "红叶仍在盒底，记忆是回想而非当前发生。",
+      "state_after": "皮皮想起落叶沙沙声。",
+      "transition_from": 21,
+      "visual_constraints": "不把声音画成音符、波纹或光效；现实中的红叶仍只有一片。",
+      "environment_reference": null,
+      "speech_start_s": 167.96197916666668,
+      "speech_end_s": 178.2593111666667,
+      "actual_start_s": 167.48,
+      "actual_end_s": 178.72,
+      "visible_start_s": 167.0,
+      "visible_end_s": 179.2,
+      "visible_duration_s": 12.2
+    },
+    {
+      "id": 23,
+      "title": "想起朋友笑声",
+      "text": "还有朋友们开心的笑声。",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u05",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 11
+        }
+      ],
+      "paragraph_id": "p005",
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "rongrong": "default_v001"
+      },
+      "setting": "森林小径的回忆片段，秋日落叶铺地。",
+      "action": "回忆中的皮皮和绒绒并肩散步，轻松地笑着，脚边是落叶。",
+      "visual_description": "回忆中的皮皮和绒绒并肩散步，轻松地笑着，脚边是落叶。",
+      "emotional_performance": "两位朋友自然开心，神情温暖。",
+      "reality": "memory",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_23.png",
+      "prompt_file": "prompts/shot_23.json",
+      "reference_manifest": "references/shot_23.json",
+      "continuity_refs": [
+        "pipi_identity",
+        "pipi_day",
+        "rongrong",
+        "autumn_path"
+      ],
+      "state_before": "这是白天回忆，当前卧室仍只有皮皮。",
+      "state_after": "朋友笑声成为温暖回忆。",
+      "transition_from": 22,
+      "visual_constraints": "仅皮皮和绒绒各一次，不带木盒；避免大笑夸张表情。",
+      "environment_reference": null,
+      "speech_start_s": 179.18122916666667,
+      "speech_end_s": 182.06210416666667,
+      "actual_start_s": 178.72,
+      "actual_end_s": 182.52,
+      "visible_start_s": 178.24,
+      "visible_end_s": 183.0,
+      "visible_duration_s": 4.76
+    },
+    {
+      "id": 24,
+      "title": "声音不必锁住",
+      "text": "原来，那些好听的声音，根本不需要锁在木头盒子里，",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u01",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 24
+        }
+      ],
+      "paragraph_id": "p006",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "皮皮卧室书桌前，打开的松木盒与红叶。",
+      "action": "皮皮看着盒中的红叶，明白声音不需要锁在木盒里。",
+      "visual_description": "皮皮看着盒中的红叶，明白声音不需要锁在木盒里。",
+      "emotional_performance": "安稳、理解，神情明亮而克制。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_24.png",
+      "prompt_file": "prompts/shot_24.json",
+      "reference_manifest": "references/shot_24.json",
+      "continuity_refs": [
+        "pipi_identity",
+        "pipi_day",
+        "sound_box",
+        "red_leaf"
+      ],
+      "state_before": "红叶已放在盒底，盒盖打开。",
+      "state_after": "接受声音不能被盒子收藏。",
+      "transition_from": 23,
+      "visual_constraints": "不画具象心形/大脑或发光魔法；声音不实体化。",
+      "environment_reference": null,
+      "speech_start_s": 182.98158333333333,
+      "speech_end_s": 189.57458266666666,
+      "actual_start_s": 182.52,
+      "actual_end_s": 190.0,
+      "visible_start_s": 182.04000000000002,
+      "visible_end_s": 190.48,
+      "visible_duration_s": 8.44
+    },
+    {
+      "id": 25,
+      "title": "声音成为温暖记忆",
+      "text": "它们早就变成了温暖的记忆，稳稳地住在自己的小脑袋和心里啦；",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u02",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "paragraph_id": "p006",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "同一卧室，皮皮靠近桌上的盒子。",
+      "action": "皮皮安静地理解声音已变成住在脑海中的温暖记忆。",
+      "visual_description": "皮皮安静地理解声音已变成住在脑海中的温暖记忆。",
+      "emotional_performance": "眼神柔和，身体放松。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_25.png",
+      "prompt_file": "prompts/shot_25.json",
+      "reference_manifest": "references/shot_25.json",
+      "continuity_refs": [
+        "pipi_identity",
+        "pipi_day",
+        "sound_box",
+        "red_leaf"
+      ],
+      "state_before": "不再执着把声音锁进盒子。",
+      "state_after": "明白记忆稳稳留在自己心里。",
+      "transition_from": 24,
+      "visual_constraints": "不画具象心形/大脑或发光魔法；声音不实体化。",
+      "environment_reference": null,
+      "speech_start_s": 190.44547916666667,
+      "speech_end_s": 198.28222783333334,
+      "actual_start_s": 190.0,
+      "actual_end_s": 198.72,
+      "visible_start_s": 189.52,
+      "visible_end_s": 199.2,
+      "visible_duration_s": 9.68
+    },
+    {
+      "id": 26,
+      "title": "红叶唤起回忆",
+      "text": "只要看见这片小叶子，随时都能想起来。",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u03",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 18
+        }
+      ],
+      "paragraph_id": "p006",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "同一卧室小桌，红叶在盒底。",
+      "action": "皮皮凝视那片红叶，想起秋日散步与朋友同行的温暖片段。",
+      "visual_description": "皮皮凝视那片红叶，想起秋日散步与朋友同行的温暖片段。",
+      "emotional_performance": "眼神安定，肩膀松弛。",
+      "reality": "memory",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_26.png",
+      "prompt_file": "prompts/shot_26.json",
+      "reference_manifest": "references/shot_26.json",
+      "continuity_refs": [
+        "pipi_identity",
+        "pipi_day",
+        "sound_box",
+        "red_leaf"
+      ],
+      "state_before": "红叶仍在盒底。",
+      "state_after": "随时看见红叶便能想起声音。",
+      "transition_from": 25,
+      "visual_constraints": "最多呈现淡雅回忆情景，不分栏、不做拼贴，不出现真实声波。",
+      "environment_reference": null,
+      "speech_start_s": 199.1748125,
+      "speech_end_s": 204.16920766666667,
+      "actual_start_s": 198.72,
+      "actual_end_s": 204.64,
+      "visible_start_s": 198.24,
+      "visible_end_s": 205.11999999999998,
+      "visible_duration_s": 6.88
+    },
+    {
+      "id": 27,
+      "title": "木盒放回书架",
+      "text": "皮皮笑着把小木盒盖好，端端正正地放回书架上。",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u04",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 22
+        }
+      ],
+      "paragraph_id": "p006",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "皮皮卧室内木书架与书桌，夜间。",
+      "action": "皮皮把盒盖合好，端正地将小松木盒放到书架上。",
+      "visual_description": "皮皮把盒盖合好，端正地将小松木盒放到书架上。",
+      "emotional_performance": "满意而安静，动作轻柔端正。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_27.png",
+      "prompt_file": "prompts/shot_27.json",
+      "reference_manifest": "references/shot_27.json",
+      "continuity_refs": [
+        "pipi_identity",
+        "pipi_day",
+        "sound_box",
+        "red_leaf"
+      ],
+      "state_before": "红叶在盒底、盒盖打开。",
+      "state_after": "盒盖合拢，红叶仍在盒内，盒子在书架上。",
+      "transition_from": 26,
+      "visual_constraints": "唯一松木盒放书架，内部红叶不另复制到桌上。",
+      "environment_reference": null,
+      "speech_start_s": 205.0769375,
+      "speech_end_s": 212.08633333333336,
+      "actual_start_s": 204.64,
+      "actual_end_s": 212.52,
+      "visible_start_s": 204.16,
+      "visible_end_s": 213.0,
+      "visible_duration_s": 8.84
+    },
+    {
+      "id": 28,
+      "title": "不用重走秋日小路",
+      "text": "今晚，他不用再为了留住秋天的声音，把白天走过的每一段路重新走一遍了。",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u05",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 34
+        }
+      ],
+      "paragraph_id": "p006",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "夜间卧室窗口可见安静秋径的记忆远景。",
+      "action": "皮皮望向窗外安静的小路，不再需要为了留住声音重走一遍。",
+      "visual_description": "皮皮望向窗外安静的小路，不再需要为了留住声音重走一遍。",
+      "emotional_performance": "释然满足，双手轻轻垂下。",
+      "reality": "memory",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_28.png",
+      "prompt_file": "prompts/shot_28.json",
+      "reference_manifest": "references/shot_28.json",
+      "continuity_refs": [
+        "pipi_identity",
+        "pipi_day",
+        "sound_box"
+      ],
+      "state_before": "盒子已在书架，红叶随盒保存。",
+      "state_after": "无需重演白天经历。",
+      "transition_from": 27,
+      "visual_constraints": "不能画皮皮当晚再次出门；书架木盒在室内可见。",
+      "environment_reference": null,
+      "speech_start_s": 212.9345416666667,
+      "speech_end_s": 223.13345833333335,
+      "actual_start_s": 212.52,
+      "actual_end_s": 223.56,
+      "visible_start_s": 212.04000000000002,
+      "visible_end_s": 224.04,
+      "visible_duration_s": 12.0
+    },
+    {
+      "id": 29,
+      "title": "秋夜慢慢安静",
+      "text": "窗外的秋夜，也像合上了盖子的木盒一样，慢慢放轻了所有的声响。",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u01",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 30
+        }
+      ],
+      "paragraph_id": "p007",
+      "characters": [],
+      "outfits": {},
+      "setting": "窗外深蓝秋夜，室内暖灯和书架形成安静对照。",
+      "action": "无人环境镜头：窗外树影静止，室内书架上的盒盖合拢。",
+      "visual_description": "无人环境镜头：窗外树影静止，室内书架上的盒盖合拢。",
+      "emotional_performance": "夜晚柔和宁静，不出现额外声响符号。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_29.png",
+      "prompt_file": "prompts/shot_29.json",
+      "reference_manifest": "references/shot_29.json",
+      "continuity_refs": [
+        "sound_box"
+      ],
+      "state_before": "夜间卧室，盒子在书架。",
+      "state_after": "环境声渐轻，准备睡觉。",
+      "transition_from": 28,
+      "visual_constraints": "无月亮特写，无字，无音符。",
+      "environment_reference": null,
+      "speech_start_s": 224.0040416666667,
+      "speech_end_s": 232.5684361666667,
+      "actual_start_s": 223.56,
+      "actual_end_s": 233.0,
+      "visible_start_s": 223.08,
+      "visible_end_s": 233.48,
+      "visible_duration_s": 10.4
+    },
+    {
+      "id": 30,
+      "title": "暖毯与胡萝卜玩偶",
+      "text": "皮皮钻进被窝，盖好暖黄色的毛毯，把胡萝卜玩偶抱在胸前。",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u02",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 27
+        }
+      ],
+      "paragraph_id": "p007",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "皮皮卧室床上，暖黄色毛毯与枕头。",
+      "action": "皮皮钻进被窝，盖好暖黄色毛毯，把唯一的胡萝卜玩偶抱在胸前。",
+      "visual_description": "皮皮钻进被窝，盖好暖黄色毛毯，把唯一的胡萝卜玩偶抱在胸前。",
+      "emotional_performance": "舒服安稳，眼神渐渐柔和。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_30.png",
+      "prompt_file": "prompts/shot_30.json",
+      "reference_manifest": "references/shot_30.json",
+      "continuity_refs": [
+        "pipi_identity",
+        "pipi_sleep",
+        "carrot_plush",
+        "yellow_blanket"
+      ],
+      "state_before": "盒子仍在书架。",
+      "state_after": "皮皮在床上，抱着一个玩偶。",
+      "transition_from": 29,
+      "visual_constraints": "恰好一个胡萝卜玩偶，夜间睡衣帽遵循图库，不出现外出衣物。",
+      "environment_reference": null,
+      "speech_start_s": 233.43181250000004,
+      "speech_end_s": 241.5949361666667,
+      "actual_start_s": 233.0,
+      "actual_end_s": 242.04,
+      "visible_start_s": 232.52,
+      "visible_end_s": 242.51999999999998,
+      "visible_duration_s": 10.0
+    },
+    {
+      "id": 31,
+      "title": "盒子和小爪子都歇了",
+      "text": "书架上的小木盒歇着，他的小爪子和长耳朵也歇着。",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u03",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 23
+        }
+      ],
+      "paragraph_id": "p007",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "同一卧室，床与远处书架同时入景。",
+      "action": "皮皮在暖毯下休息，书架上合着的小木盒安稳放置。",
+      "visual_description": "皮皮在暖毯下休息，书架上合着的小木盒安稳放置。",
+      "emotional_performance": "皮皮放松，耳朵自然舒展，爪子停歇。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_31.png",
+      "prompt_file": "prompts/shot_31.json",
+      "reference_manifest": "references/shot_31.json",
+      "continuity_refs": [
+        "pipi_identity",
+        "pipi_sleep",
+        "sound_box",
+        "yellow_blanket",
+        "carrot_plush"
+      ],
+      "state_before": "皮皮躺下抱玩偶，盒子在书架。",
+      "state_after": "卧室安静，人物与物件位置稳定。",
+      "transition_from": 30,
+      "visual_constraints": "一个皮皮、一个木盒、一个胡萝卜玩偶。",
+      "environment_reference": null,
+      "speech_start_s": 242.47418750000003,
+      "speech_end_s": 249.05189550000003,
+      "actual_start_s": 242.04,
+      "actual_end_s": 249.48,
+      "visible_start_s": 241.56,
+      "visible_end_s": 249.95999999999998,
+      "visible_duration_s": 8.4
+    },
+    {
+      "id": 32,
+      "title": "皮皮闭眼微笑",
+      "text": "皮皮闭上眼睛，嘴角轻轻弯着。今天度过的好时光，已经永远不怕忘记了。",
+      "source_ranges": [
+        {
+          "unit_id": "p008_u01",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 14
+        },
+        {
+          "unit_id": "p008_u02",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 19
+        }
+      ],
+      "paragraph_id": "p008",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "同一卧室床边近景，柔和夜灯。",
+      "action": "皮皮闭上眼睛，嘴角轻轻弯着，在被窝里记得这一天的好时光。",
+      "visual_description": "皮皮闭上眼睛，嘴角轻轻弯着，在被窝里记得这一天的好时光。",
+      "emotional_performance": "安宁、满足，微笑轻浅，身体放松。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_32.png",
+      "prompt_file": "prompts/shot_32.json",
+      "reference_manifest": "references/shot_32.json",
+      "continuity_refs": [
+        "pipi_identity",
+        "pipi_sleep",
+        "yellow_blanket",
+        "carrot_plush"
+      ],
+      "state_before": "盒子留在书架，皮皮抱玩偶。",
+      "state_after": "皮皮闭眼安睡。",
+      "transition_from": 31,
+      "visual_constraints": "只一个胡萝卜玩偶，不出现文字。",
+      "environment_reference": null,
+      "speech_start_s": 249.92187500000003,
+      "speech_end_s": 259.95531250000005,
+      "actual_start_s": 249.48,
+      "actual_end_s": 260.4,
+      "visible_start_s": 249.0,
+      "visible_end_s": 260.88,
+      "visible_duration_s": 11.88
+    },
+    {
+      "id": 33,
+      "title": "把开心回忆留心里",
+      "text": "小朋友，把今天开心的回忆轻轻留在心里吧。",
+      "source_ranges": [
+        {
+          "unit_id": "p008_u03",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 20
+        }
+      ],
+      "paragraph_id": "p008",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "安睡的皮皮与床边书架，温暖低饱和夜色。",
+      "action": "皮皮安静抱着玩偶，画面重点是平和的睡前状态。",
+      "visual_description": "皮皮安静抱着玩偶，画面重点是平和的睡前状态。",
+      "emotional_performance": "温柔、放松，不画可视化心脏或发光爱心。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_33.png",
+      "prompt_file": "prompts/shot_33.json",
+      "reference_manifest": "references/shot_33.json",
+      "continuity_refs": [
+        "pipi_identity",
+        "pipi_sleep",
+        "sound_box",
+        "yellow_blanket",
+        "carrot_plush"
+      ],
+      "state_before": "皮皮闭眼微笑。",
+      "state_after": "回忆留存于心，不需要重演。",
+      "transition_from": 32,
+      "visual_constraints": "情绪克制，夜间室内，不出现象征图形或字幕文字。",
+      "environment_reference": null,
+      "speech_start_s": 260.84970833333335,
+      "speech_end_s": 266.7189368333334,
+      "actual_start_s": 260.4,
+      "actual_end_s": 267.16,
+      "visible_start_s": 259.91999999999996,
+      "visible_end_s": 267.64000000000004,
+      "visible_duration_s": 7.72
+    },
+    {
+      "id": 34,
+      "title": "听听夜晚的安静",
+      "text": "现在，不去想白天的热闹，静静听一听夜晚的安静，慢慢睡吧。",
+      "source_ranges": [
+        {
+          "unit_id": "p008_u04",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 28
+        }
+      ],
+      "paragraph_id": "p008",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "窗边卧室夜景，床上皮皮安睡，书架盒子在远处。",
+      "action": "安静的房间与熟睡的皮皮同框，窗外秋树沉静。",
+      "visual_description": "安静的房间与熟睡的皮皮同框，窗外秋树沉静。",
+      "emotional_performance": "安宁，无须动作，作为末段静息画面。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_34.png",
+      "prompt_file": "prompts/shot_34.json",
+      "reference_manifest": "references/shot_34.json",
+      "continuity_refs": [
+        "pipi_identity",
+        "pipi_sleep",
+        "sound_box",
+        "yellow_blanket",
+        "carrot_plush"
+      ],
+      "state_before": "睡前回忆已留在心里。",
+      "state_after": "夜晚安静，皮皮睡着。",
+      "transition_from": 33,
+      "visual_constraints": "不出现月亮或星星特写，不增加角色；最后8秒静止画面。",
+      "environment_reference": null,
+      "speech_start_s": 267.6230208333333,
+      "speech_end_s": 275.930333,
+      "actual_start_s": 267.16,
+      "actual_end_s": 276.4,
+      "visible_start_s": 266.68,
+      "visible_end_s": 276.88,
+      "visible_duration_s": 10.2
+    },
+    {
+      "id": 35,
+      "title": "晚安",
+      "text": "晚安。",
+      "source_ranges": [
+        {
+          "unit_id": "p008_u05",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 3
+        }
+      ],
+      "paragraph_id": "p008",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "同一卧室的安睡特写，末尾画面固定。",
+      "action": "皮皮闭眼安睡，毛毯与胡萝卜玩偶安稳不动。",
+      "visual_description": "皮皮闭眼安睡，毛毯与胡萝卜玩偶安稳不动。",
+      "emotional_performance": "平静、温暖，姿势舒适。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_35.png",
+      "prompt_file": "prompts/shot_35.json",
+      "reference_manifest": "references/shot_35.json",
+      "continuity_refs": [
+        "pipi_identity",
+        "pipi_sleep",
+        "yellow_blanket",
+        "carrot_plush"
+      ],
+      "state_before": "皮皮已安睡。",
+      "state_after": "保持安睡至片尾。",
+      "transition_from": 34,
+      "visual_constraints": "最后8秒保持该静态画面，末4秒淡向深夜蓝；单只玩偶。",
+      "environment_reference": null,
+      "speech_start_s": 276.8361875,
+      "speech_end_s": 277.6024781666667,
+      "actual_start_s": 276.4,
+      "actual_end_s": 286.52,
+      "visible_start_s": 275.91999999999996,
+      "visible_end_s": 286.52,
+      "visible_duration_s": 10.6
+    }
+  ],
+  "audio": "mix.wav",
+  "subtitles": "episode.ass",
+  "character_registry": "references/",
+  "fonts": [
+    {
+      "path": "fonts/NotoSans-Regular.ttf",
+      "sha256": "89c3c497f618fdaa0b2d1e98fef93582f28c71debd2c4a8cdf41f190ced2909d"
+    },
+    {
+      "path": "fonts/Noto-CJK-copyright.txt",
+      "sha256": "849f4ea9c214fa4ac3593b770c699f387534b11ce671264c1b10d85bdcb5997b"
+    },
+    {
+      "path": "fonts/NotoSansCJKsc-Regular.otf",
+      "sha256": "82e9bdfd176ce68c51f6ff89ca7e2abae7fdb82b4591aa7338638598ae3c91c8"
+    },
+    {
+      "path": "fonts/Noto-Sans-copyright.txt",
+      "sha256": "075f91382875da1c4b491f1facf2586f55448705133264d98ce15cab6211b125"
+    },
+    {
+      "path": "fonts/NotoSansCJKsc-Bold.otf",
+      "sha256": "85c969dbb2f927c8dbbe440d5755b7c9a714f13a7a58339459df43cfff3583b3"
+    }
+  ]
+}

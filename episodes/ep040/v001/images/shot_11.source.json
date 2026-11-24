@@ -1,0 +1,25 @@
+{
+  "image_id": 11,
+  "title": "松果噗通落地",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_11.json",
+  "prompt_sha256": "833e9e5570c76ab80ba66a64bb25afbe3ea9e515682bd245222ce317026e91f5",
+  "image_sha256": "7815985fd7bb2ce92d116831511b84b5c13b7d19ac000ddd08abbe304b8cfcb3",
+  "references": [],
+  "reference_sha256": {},
+  "width": 941,
+  "height": 1672,
+  "generated_at": "2026-11-24",
+  "source_ranges": [
+    {
+      "unit_id": "p003_u03",
+      "paragraph_id": "p003",
+      "start_char": 0,
+      "end_char": 19
+    }
+  ],
+  "timing": {
+    "start_s": 88.08,
+    "end_s": 93.92
+  }
+}

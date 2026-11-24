@@ -1,0 +1,33 @@
+{
+  "image_id": 19,
+  "title": "皮皮想起声音",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_19.json",
+  "prompt_sha256": "61b091613f3c6deb13e2c205218239fb6511c2438b53b70d4ffcb2dacba4a0a4",
+  "image_sha256": "076354bc15a8558714885ec498c6b6aa0b62d206595b20f2a0868387da08ef07",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/sound_box_reference.png"
+  ],
+  "reference_sha256": {
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png": "6f754c72b9fa7281790bb1fce42bb18701ea055446fda2cdec7ae58b92232674",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/sound_box_reference.png": "7c1cf8dbbb5f410d44aea03ee67cfe805fc1346b474624fcef049ae1f717c75d"
+  },
+  "width": 941,
+  "height": 1672,
+  "generated_at": "2026-11-24",
+  "source_ranges": [
+    {
+      "unit_id": "p005_u01",
+      "paragraph_id": "p005",
+      "start_char": 0,
+      "end_char": 21
+    }
+  ],
+  "timing": {
+    "start_s": 147.76,
+    "end_s": 153.8
+  }
+}

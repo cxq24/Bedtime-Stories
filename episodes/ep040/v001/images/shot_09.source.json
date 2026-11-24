@@ -1,0 +1,33 @@
+{
+  "image_id": 9,
+  "title": "门廊打开木盒",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_09.json",
+  "prompt_sha256": "b8b479ec8669c68410398b9d5b085187ee56653a95d19dbfab615927cc6ca325",
+  "image_sha256": "460f257622fb19ccae2491e54d3a679a0d2e990176381e7f6a6158b6f216b933",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/sound_box_reference.png"
+  ],
+  "reference_sha256": {
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png": "6f754c72b9fa7281790bb1fce42bb18701ea055446fda2cdec7ae58b92232674",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/assets/sound_box_reference.png": "7c1cf8dbbb5f410d44aea03ee67cfe805fc1346b474624fcef049ae1f717c75d"
+  },
+  "width": 941,
+  "height": 1672,
+  "generated_at": "2026-11-24",
+  "source_ranges": [
+    {
+      "unit_id": "p003_u01",
+      "paragraph_id": "p003",
+      "start_char": 0,
+      "end_char": 21
+    }
+  ],
+  "timing": {
+    "start_s": 76.64,
+    "end_s": 83.64
+  }
+}

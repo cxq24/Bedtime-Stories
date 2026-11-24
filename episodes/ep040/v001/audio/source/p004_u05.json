@@ -1,0 +1,71 @@
+{
+  "text": "原来，声音是没法像栗子一样被抓进盒子里的。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "9e243db5e07b5088a50abc809cc844a675aabb39d3fa09672aef4b6ce3a0659c",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 7884580,
+      "text": "原来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14346250,
+      "duration": 6538330,
+      "text": "声音"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21269160,
+      "duration": 1922910,
+      "text": "是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23384580,
+      "duration": 5384580,
+      "text": "没法"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28769160,
+      "duration": 3077080,
+      "text": "像"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32230830,
+      "duration": 4422910,
+      "text": "栗子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36846250,
+      "duration": 6538330,
+      "text": "一样"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44922910,
+      "duration": 2692500,
+      "text": "被"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47615410,
+      "duration": 5384580,
+      "text": "抓进"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53384580,
+      "duration": 11730830,
+      "text": "盒子里的"
+    }
+  ]
+}

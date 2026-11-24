@@ -1,0 +1,11 @@
+{
+  "source": "OpenAI image generation",
+  "generated_at": "2026-11-24",
+  "model_tool": "image_gen.imagegen",
+  "prompt": "A single small warm honey-pinewood lidded box, rounded corners, hinged lid slightly open, empty, no text, watercolor reference on warm paper.",
+  "prompt_sha256": "32101b0bc73286924c905411ce1cd12c770923f13c93de6c12beb164afac331c",
+  "reference_inputs": [],
+  "sha256": "7c1cf8dbbb5f410d44aea03ee67cfe805fc1346b474624fcef049ae1f717c75d",
+  "width": 1536,
+  "height": 1024
+}

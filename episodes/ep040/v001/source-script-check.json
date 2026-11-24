@@ -1,0 +1,11 @@
+{
+  "episode": "ep040",
+  "script_version": "v5",
+  "source_file": "02_100集剧本/用户长稿v5/结构化JSON/ep040.json",
+  "source_sha256": "9415d0f5e547242507b9144cf6a888fbc27f812a15c468034ff038209f289148",
+  "paragraphs": 9,
+  "spoken_hanzi": 764,
+  "narration_coverage": 1.0,
+  "p000_included": true,
+  "script_snapshot": "script.snapshot.json"
+}

@@ -1,0 +1,107 @@
+{
+  "text": "他突发奇想，想把今天在森林里听过的所有好听的秋天声音，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "b6ca32638835260a697ee0f85cc149baa67c540e1da10c9a1d6132b14d1b3217",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 1922910,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3384580,
+      "duration": 13846250,
+      "text": "突发奇想"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22422910,
+      "duration": 2500000,
+      "text": "想"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24922910,
+      "duration": 2115410,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27230830,
+      "duration": 7884580,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35500000,
+      "duration": 2307500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38000000,
+      "duration": 5769160,
+      "text": "森林"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43769160,
+      "duration": 3077080,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47230830,
+      "duration": 2884580,
+      "text": "听"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50115410,
+      "duration": 1922910,
+      "text": "过"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52038330,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53769160,
+      "duration": 5192500,
+      "text": "所有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59153750,
+      "duration": 5577080,
+      "text": "好听"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64730830,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 66653750,
+      "duration": 5577080,
+      "text": "秋天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 72422910,
+      "duration": 6730830,
+      "text": "声音"
+    }
+  ]
+}

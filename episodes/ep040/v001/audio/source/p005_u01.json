@@ -1,0 +1,83 @@
+{
+  "text": "皮皮摸着下巴想了想，一点儿也没有觉得失望。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "e7719a5c8bd2e897b3f76d59ff1c84c4bb3accb09ae2afa7d9764a3c95a57e7c",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5192500,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 2692080,
+      "text": "摸"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9538330,
+      "duration": 1538330,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11269160,
+      "duration": 4807500,
+      "text": "下巴"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16461660,
+      "duration": 3461250,
+      "text": "想"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19922910,
+      "duration": 1730830,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21653750,
+      "duration": 5192500,
+      "text": "想"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30500000,
+      "duration": 5769160,
+      "text": "一点儿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36461660,
+      "duration": 2115410,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38577080,
+      "duration": 3077080,
+      "text": "没有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41846250,
+      "duration": 3461660,
+      "text": "觉得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45500000,
+      "duration": 7115410,
+      "text": "失望"
+    }
+  ]
+}

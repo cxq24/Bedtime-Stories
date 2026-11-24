@@ -1,0 +1,35 @@
+{
+  "image_id": 6,
+  "title": "皮皮听秋天",
+  "source": "OpenAI image generation",
+  "prompt_file": "prompts/shot_06.json",
+  "prompt_sha256": "2ba38faf71165d25b18eb005b18653135ad81a18bf679703721ea0c0a44a859e",
+  "image_sha256": "3dc4a59581825eb71c449f047a71ccb65b9af0b4a0f4748d6bec7e148bf9ffa3",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/tuantuan_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/yaya_identity_v001.png"
+  ],
+  "reference_sha256": {
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_identity_v001.png": "6f754c72b9fa7281790bb1fce42bb18701ea055446fda2cdec7ae58b92232674",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/pipi_wardrobe_v001.png": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/tuantuan_identity_v001.png": "27a34b5b38a1e7897039a3d3cffa4bbcc3617ddb47432b3d1e8c4f80a88e11ef",
+    "/workspace/Bedtime-Stories/episodes/ep040/v001/references/yaya_identity_v001.png": "1d1fb19b6e8353b9cc8478600a5dce0fa01edf53948da6760ea870ebd904ea07"
+  },
+  "width": 941,
+  "height": 1672,
+  "generated_at": "2026-11-24",
+  "source_ranges": [
+    {
+      "unit_id": "p002_u01",
+      "paragraph_id": "p002",
+      "start_char": 0,
+      "end_char": 26
+    }
+  ],
+  "timing": {
+    "start_s": 44.24,
+    "end_s": 52.32
+  }
+}
