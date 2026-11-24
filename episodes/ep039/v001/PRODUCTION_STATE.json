@@ -17,5 +17,6 @@
   "human_full_audio_visual_review": "not_certified",
   "user_acceptance": "pending",
   "platform_published": false,
-  "repository_sync": "pending"
+  "repository_sync": "synced_to_main",
+  "content_commit": "db820a60cb2de4b9d0de0f110ae1a6467db8e967"
 }
