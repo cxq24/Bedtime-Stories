@@ -18,7 +18,10 @@
   "human_watch": "not_certified",
   "user_acceptance": "pending",
   "publication": "not_published",
-  "github_sync": "authorized_pending",
-  "next_action": "render main and clean videos; run technical decode checks; then sync complete project and delivery to GitHub main",
-  "phone_subtitle_review": "passed_10_samples_at_360px"
+  "github_sync": "synced_to_main",
+  "next_action": "人工完整听看与用户验收待完成；平台尚未发布",
+  "phone_subtitle_review": "passed_10_samples_at_360px",
+  "github_sync_commit": "695f9f762e90b4cf85c94f9fdc3b1ef6723f5dcd",
+  "github_sync_date": "2026-11-24",
+  "github_sync_scope": "complete_ep040_v001_project_and_delivery_including_both_videos"
 }
