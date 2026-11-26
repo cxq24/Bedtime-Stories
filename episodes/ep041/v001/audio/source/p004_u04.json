@@ -1,0 +1,101 @@
+{
+  "text": "\n他想起了科学课上老师讲过的知识：屋里烧着暖炉，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "e722eb2cc5102ec644d3e5351851f8b077b9f4a9c5f265613a188ab93dd635e3",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2500000,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3769160,
+      "duration": 5961660,
+      "text": "想起"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9730830,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11461660,
+      "duration": 5192080,
+      "text": "科学"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16653750,
+      "duration": 2500000,
+      "text": "课"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19346250,
+      "duration": 2692080,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22038330,
+      "duration": 8077080,
+      "text": "老师"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31653750,
+      "duration": 3653750,
+      "text": "讲"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35307500,
+      "duration": 1730830,
+      "text": "过"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37038330,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38769160,
+      "duration": 8269160,
+      "text": "知识"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51653750,
+      "duration": 2500000,
+      "text": "屋"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54153750,
+      "duration": 2500000,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57038330,
+      "duration": 6153750,
+      "text": "烧着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63384580,
+      "duration": 9038330,
+      "text": "暖炉"
+    }
+  ]
+}

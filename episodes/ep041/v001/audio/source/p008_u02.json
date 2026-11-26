@@ -1,0 +1,35 @@
+{
+  "text": "遇到喜欢的美好事物，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "3a590ac2fdd6d9676e660d29298464c6a83d12f113a8eb78446c34804910ec4c",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4615410,
+      "text": "遇到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6269160,
+      "duration": 5384580,
+      "text": "喜欢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11653750,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13384580,
+      "duration": 14038330,
+      "text": "美好事物"
+    }
+  ]
+}

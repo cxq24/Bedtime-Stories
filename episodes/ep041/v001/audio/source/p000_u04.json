@@ -1,0 +1,35 @@
+{
+  "text": "初雪落在窗边，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "7f610c87e06c170624ee90a878963ad676fbc2486956506ab13787257d4fd073",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 7115410,
+      "text": "初雪"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8769160,
+      "duration": 2307500,
+      "text": "落"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11077080,
+      "duration": 2115410,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13384580,
+      "duration": 8077080,
+      "text": "窗边"
+    }
+  ]
+}

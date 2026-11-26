@@ -1,0 +1,19 @@
+{
+  "episode": "ep041",
+  "version": "v001",
+  "title": "雪花落在窗边",
+  "updated_on": "2026-11-26",
+  "script_version": "v5",
+  "media_status": "rendered_technical_pass",
+  "source_script": "02_100集剧本/用户长稿v5/结构化JSON/ep041.json",
+  "storyboard_shots": 32,
+  "duration_s": 286.24,
+  "subtitle_cues": 129,
+  "hanzi_coverage": "747/747",
+  "delivery": "Outputs/2026-11-26/ep041-v001",
+  "human_full_audio_visual_review": "not_certified",
+  "user_acceptance": "pending",
+  "platform_published": false,
+  "repository_sync": "pending",
+  "technical_check": "checks/final_technical_check.json"
+}

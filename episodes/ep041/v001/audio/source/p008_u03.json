@@ -1,0 +1,83 @@
+{
+  "text": "我们不需要把每一片雪花都抓在手里。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "b772185084865657cd323bc6ab90d831da8bc895d82fd164fade431e9b41d388",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3461660,
+      "text": "我们"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4922910,
+      "duration": 1922910,
+      "text": "不"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 4422910,
+      "text": "需要"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11653750,
+      "duration": 1922910,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13769160,
+      "duration": 3077080,
+      "text": "每"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16846250,
+      "duration": 5192500,
+      "text": "一片"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22230830,
+      "duration": 7500000,
+      "text": "雪花"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31269160,
+      "duration": 2307500,
+      "text": "都"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33577080,
+      "duration": 3076660,
+      "text": "抓"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36653750,
+      "duration": 2115410,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38961660,
+      "duration": 4422910,
+      "text": "手"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43384580,
+      "duration": 3269160,
+      "text": "里"
+    }
+  ]
+}

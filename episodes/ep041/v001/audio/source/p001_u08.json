@@ -1,0 +1,71 @@
+{
+  "text": "窗外忽然飘起了细细密密的小雪花。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "79e25912766ae50530c5bf0502980ad26c3c7f9c36ba9671c0ccdb49588f2580",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 7307500,
+      "text": "窗外"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8961660,
+      "duration": 5000000,
+      "text": "忽然"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14153750,
+      "duration": 3461660,
+      "text": "飘"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17615410,
+      "duration": 2500000,
+      "text": "起"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20115410,
+      "duration": 1922910,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22422910,
+      "duration": 5577080,
+      "text": "细细"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28192500,
+      "duration": 4615000,
+      "text": "密密"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32807500,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34153750,
+      "duration": 3077080,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37230830,
+      "duration": 8269160,
+      "text": "雪花"
+    }
+  ]
+}

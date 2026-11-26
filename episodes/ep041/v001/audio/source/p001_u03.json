@@ -1,0 +1,47 @@
+{
+  "text": "\n白天在森林学堂的时候，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "8acb142e2202967c1c8b2be71aebfcb9d4b302164a82dfeb82f54dfba36aabc0",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 7500000,
+      "text": "白天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9153750,
+      "duration": 1922910,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11269160,
+      "duration": 5192500,
+      "text": "森林"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16653750,
+      "duration": 6346250,
+      "text": "学堂"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23000000,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24538330,
+      "duration": 7500000,
+      "text": "时候"
+    }
+  ]
+}

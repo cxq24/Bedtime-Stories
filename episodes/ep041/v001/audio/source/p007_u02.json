@@ -1,0 +1,59 @@
+{
+  "text": "把软软的睡帽尖摆到枕头边。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "f5c67dac25d55469dd3f2a61b7b9e5af415a95031815ba0ba2cf0c66eb3e3cc4",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2692500,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4346250,
+      "duration": 5769160,
+      "text": "软软"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10115410,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11461660,
+      "duration": 5577080,
+      "text": "睡帽"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17230830,
+      "duration": 8269160,
+      "text": "尖摆"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27038330,
+      "duration": 2500000,
+      "text": "到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29730830,
+      "duration": 6153750,
+      "text": "枕头"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35884580,
+      "duration": 4422910,
+      "text": "边"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "text": "窗外还在静静地下着雪。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "8668ed3a61b97c386630e95643b744d1c62a4a0fca518e32665e3c7e5b2c3b79",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 7307500,
+      "text": "窗外"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8961660,
+      "duration": 2500000,
+      "text": "还"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11461660,
+      "duration": 2307500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13961660,
+      "duration": 5961660,
+      "text": "静静"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20307500,
+      "duration": 5384580,
+      "text": "地下"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25692500,
+      "duration": 1730410,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27422910,
+      "duration": 5961660,
+      "text": "雪"
+    }
+  ]
+}

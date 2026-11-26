@@ -1,0 +1,29 @@
+{
+  "text": "\n就在这时，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "db32e8a25df183c4df2d16f38de5f652087936568271d2119a04e48bcf459d99",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3077080,
+      "text": "就"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4346250,
+      "duration": 2307500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 9038330,
+      "text": "这时"
+    }
+  ]
+}

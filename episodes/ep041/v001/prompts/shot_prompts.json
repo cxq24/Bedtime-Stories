@@ -1,0 +1,372 @@
+[
+  {
+    "shot_id": 0,
+    "image_path": "images/shot_00.png",
+    "prompt": "皮皮站在安静的雪林小径中央，朝观众轻轻挥爪，神情温柔好奇；几片雪花在身边落下。开场独立画面，不出现小屋窗户或后续窗台雪花。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；画面主要信息置于中上部，底部留足拼音字幕安全区。 Pipi must match the supplied official identity reference exactly: a small warm-gray rabbit with a round face, soft pink triangular nose, natural long drooping ears with pink inner ear, gentle brown eyes. Expression and posture must match this shot’s action; do not copy the reference’s sleepy frown. Use only Pipi’s left-panel day clothes from the provided wardrobe sheet: cream short-sleeve shirt, slate-blue short overalls, blue cloth shoes; only scene 04 may include the small yellow backpack. Never borrow the yellow raincoat. The navy star sleep cap does not appear anywhere in this scene; it has not been brought out yet. No other characters. Vertical 9:16 single-frame hand-painted watercolor children’s bedtime picture-book art, fine paper texture, soft natural edges, detailed but uncluttered. Keep the main face and story object in the upper 65 percent; reserve the lower 28 percent as calm low-detail background for large subtitles. No letters, words, labels, captions, logos, borders, panels, collage, split screen, extra limbs, or duplicated props. Keep all recurring window/furniture/snowflake shapes consistent with the supplied reference images.",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png"
+    ],
+    "status": "reviewed_pass"
+  },
+  {
+    "shot_id": 1,
+    "image_path": "images/shot_01.png",
+    "prompt": "皮皮抬头安静看着空中一片小雪花，耳朵自然下垂、眼神专注，周围有稀疏初雪和深蓝暮色；独立开场插画，不画室内窗台与故事动作。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；画面主要信息置于中上部，底部留足拼音字幕安全区。 Pipi must match the supplied official identity reference exactly: a small warm-gray rabbit with a round face, soft pink triangular nose, natural long drooping ears with pink inner ear, gentle brown eyes. Expression and posture must match this shot’s action; do not copy the reference’s sleepy frown. Use only Pipi’s left-panel day clothes from the provided wardrobe sheet: cream short-sleeve shirt, slate-blue short overalls, blue cloth shoes; only scene 04 may include the small yellow backpack. Never borrow the yellow raincoat. The navy star sleep cap does not appear anywhere in this scene; it has not been brought out yet. No other characters. Vertical 9:16 single-frame hand-painted watercolor children’s bedtime picture-book art, fine paper texture, soft natural edges, detailed but uncluttered. Keep the main face and story object in the upper 65 percent; reserve the lower 28 percent as calm low-detail background for large subtitles. No letters, words, labels, captions, logos, borders, panels, collage, split screen, extra limbs, or duplicated props. Keep all recurring window/furniture/snowflake shapes consistent with the supplied reference images.",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png"
+    ],
+    "status": "reviewed_pass"
+  },
+  {
+    "shot_id": 2,
+    "image_path": "images/shot_02.png",
+    "prompt": "森林小屋和远处树影笼在灰蓝暮色里，第一场细雪轻轻落下，安静空镜，无人物。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；画面主要信息置于中上部，底部留足拼音字幕安全区。  Vertical 9:16 single-frame hand-painted watercolor children’s bedtime picture-book art, fine paper texture, soft natural edges, detailed but uncluttered. Keep the main face and story object in the upper 65 percent; reserve the lower 28 percent as calm low-detail background for large subtitles. No letters, words, labels, captions, logos, borders, panels, collage, split screen, extra limbs, or duplicated props. Keep all recurring window/furniture/snowflake shapes consistent with the supplied reference images.",
+    "reference_images": [],
+    "status": "reviewed_pass"
+  },
+  {
+    "shot_id": 3,
+    "image_path": "images/shot_03.png",
+    "prompt": "皮皮穿日常米色上衣、灰蓝短背带裤，独自坐在森林学堂靠窗木课桌旁，窗外天空灰蒙蒙。明确的教室场景：前方黑板、几排空木课桌、粉笔和课本；画面里不出现老师或其他动物。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；画面主要信息置于中上部，底部留足拼音字幕安全区。 Pipi must match the supplied official identity reference exactly: a small warm-gray rabbit with a round face, soft pink triangular nose, natural long drooping ears with pink inner ear, gentle brown eyes. Expression and posture must match this shot’s action; do not copy the reference’s sleepy frown. Use only Pipi’s left-panel day clothes from the provided wardrobe sheet: cream short-sleeve shirt, slate-blue short overalls, blue cloth shoes; only scene 04 may include the small yellow backpack. Never borrow the yellow raincoat. The navy star sleep cap does not appear anywhere in this scene; it has not been brought out yet. No other characters. Vertical 9:16 single-frame hand-painted watercolor children’s bedtime picture-book art, fine paper texture, soft natural edges, detailed but uncluttered. Keep the main face and story object in the upper 65 percent; reserve the lower 28 percent as calm low-detail background for large subtitles. No letters, words, labels, captions, logos, borders, panels, collage, split screen, extra limbs, or duplicated props. Keep all recurring window/furniture/snowflake shapes consistent with the supplied reference images.",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png"
+    ],
+    "status": "reviewed_pass",
+    "revision_note": "修订提示词以匹配锁定分镜、角色连续性与雪晶真实比例。"
+  },
+  {
+    "shot_id": 4,
+    "image_path": "images/shot_04.png",
+    "prompt": "皮皮背着小黄书包走到自己温暖的小木屋门前，抬眼看灰蓝天空，神情平和；没有其他角色。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；画面主要信息置于中上部，底部留足拼音字幕安全区。 Pipi must match the supplied official identity reference exactly: a small warm-gray rabbit with a round face, soft pink triangular nose, natural long drooping ears with pink inner ear, gentle brown eyes. Expression and posture must match this shot’s action; do not copy the reference’s sleepy frown. Use only Pipi’s left-panel day clothes from the provided wardrobe sheet: cream short-sleeve shirt, slate-blue short overalls, blue cloth shoes; only scene 04 may include the small yellow backpack. Never borrow the yellow raincoat. The navy star sleep cap does not appear anywhere in this scene; it has not been brought out yet. No other characters. Vertical 9:16 single-frame hand-painted watercolor children’s bedtime picture-book art, fine paper texture, soft natural edges, detailed but uncluttered. Keep the main face and story object in the upper 65 percent; reserve the lower 28 percent as calm low-detail background for large subtitles. No letters, words, labels, captions, logos, borders, panels, collage, split screen, extra limbs, or duplicated props. Keep all recurring window/furniture/snowflake shapes consistent with the supplied reference images.",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png"
+    ],
+    "status": "reviewed_pass"
+  },
+  {
+    "shot_id": 5,
+    "image_path": "images/shot_05.png",
+    "prompt": "皮皮已回到屋内，坐在木桌旁喝完一碗热乎萝卜汤；身后同一扇窗外开始飘细雪，皮皮转头惊喜看向窗外。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；画面主要信息置于中上部，底部留足拼音字幕安全区。 Pipi must match the supplied official identity reference exactly: a small warm-gray rabbit with a round face, soft pink triangular nose, natural long drooping ears with pink inner ear, gentle brown eyes. Expression and posture must match this shot’s action; do not copy the reference’s sleepy frown. Use only Pipi’s left-panel day clothes from the provided wardrobe sheet: cream short-sleeve shirt, slate-blue short overalls, blue cloth shoes; only scene 04 may include the small yellow backpack. Never borrow the yellow raincoat. The navy star sleep cap does not appear anywhere in this scene; it has not been brought out yet. No other characters. Vertical 9:16 single-frame hand-painted watercolor children’s bedtime picture-book art, fine paper texture, soft natural edges, detailed but uncluttered. Keep the main face and story object in the upper 65 percent; reserve the lower 28 percent as calm low-detail background for large subtitles. No letters, words, labels, captions, logos, borders, panels, collage, split screen, extra limbs, or duplicated props. Keep all recurring window/furniture/snowflake shapes consistent with the supplied reference images.",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/snowy_bedroom_scene_ref.png"
+    ],
+    "status": "reviewed_pass"
+  },
+  {
+    "shot_id": 6,
+    "image_path": "images/shot_06.png",
+    "prompt": "皮皮兴奋地把同一把矮木椅搬到卧室窗前，暖黄色床头灯照亮房间，透过玻璃能看见雪；专注又开心。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；画面主要信息置于中上部，底部留足拼音字幕安全区。 Pipi must match the supplied official identity reference exactly: a small warm-gray rabbit with a round face, soft pink triangular nose, natural long drooping ears with pink inner ear, gentle brown eyes. Expression and posture must match this shot’s action; do not copy the reference’s sleepy frown. Use only Pipi’s left-panel day clothes from the provided wardrobe sheet: cream short-sleeve shirt, slate-blue short overalls, blue cloth shoes; only scene 04 may include the small yellow backpack. Never borrow the yellow raincoat. The navy star sleep cap does not appear anywhere in this scene; it has not been brought out yet. No other characters. Vertical 9:16 single-frame hand-painted watercolor children’s bedtime picture-book art, fine paper texture, soft natural edges, detailed but uncluttered. Keep the main face and story object in the upper 65 percent; reserve the lower 28 percent as calm low-detail background for large subtitles. No letters, words, labels, captions, logos, borders, panels, collage, split screen, extra limbs, or duplicated props. Keep all recurring window/furniture/snowflake shapes consistent with the supplied reference images.",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/snowy_bedroom_scene_ref.png"
+    ],
+    "status": "reviewed_pass"
+  },
+  {
+    "shot_id": 7,
+    "image_path": "images/shot_07.png",
+    "prompt": "皮皮坐在窗前小木椅上，隔着关闭的透明玻璃往外看，眼睛明亮好奇；固定窗框与木窗台，床头灯温暖。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；画面主要信息置于中上部，底部留足拼音字幕安全区。 Pipi must match the supplied official identity reference exactly: a small warm-gray rabbit with a round face, soft pink triangular nose, natural long drooping ears with pink inner ear, gentle brown eyes. Expression and posture must match this shot’s action; do not copy the reference’s sleepy frown. Use only Pipi’s left-panel day clothes from the provided wardrobe sheet: cream short-sleeve shirt, slate-blue short overalls, blue cloth shoes; only scene 04 may include the small yellow backpack. Never borrow the yellow raincoat. The navy star sleep cap does not appear anywhere in this scene; it has not been brought out yet. No other characters. Vertical 9:16 single-frame hand-painted watercolor children’s bedtime picture-book art, fine paper texture, soft natural edges, detailed but uncluttered. Keep the main face and story object in the upper 65 percent; reserve the lower 28 percent as calm low-detail background for large subtitles. No letters, words, labels, captions, logos, borders, panels, collage, split screen, extra limbs, or duplicated props. Keep all recurring window/furniture/snowflake shapes consistent with the supplied reference images.",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/snowy_bedroom_scene_ref.png"
+    ],
+    "status": "reviewed_pass"
+  },
+  {
+    "shot_id": 8,
+    "image_path": "images/shot_08.png",
+    "prompt": "室外近景看同一扇木窗的原木窗台与窗框。一片小小的真实比例白色六角雪晶（约5毫米，明显比窗台木纹小）正轻轻旋落到窗台外缘。冷蓝夜空虚化，窗内只有柔和暖光；雪晶细小、有六条羽状对称晶枝，不要巨型雪花，不要完整室内景。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；画面主要信息置于中上部，底部留足拼音字幕安全区。  Vertical 9:16 single-frame hand-painted watercolor children’s bedtime picture-book art, fine paper texture, soft natural edges, detailed but uncluttered. Keep the main face and story object in the upper 65 percent; reserve the lower 28 percent as calm low-detail background for large subtitles. No letters, words, labels, captions, logos, borders, panels, collage, split screen, extra limbs, or duplicated props. Keep all recurring window/furniture/snowflake shapes consistent with the supplied reference images. Use the snowflake reference for crystal shape only: each story snow crystal is TINY, about 5 millimeters across (smaller than Pipi’s pink nose), resting only on the OUTSIDE wooden sill; never enlarge it to window-pane size, never attach it to the glass, and never show a second crystal before its arrival in the narration.",
+    "reference_images": [
+      "references/snowy_bedroom_scene_ref.png",
+      "references/snowflake_reference.png"
+    ],
+    "status": "reviewed_pass",
+    "revision_note": "修订提示词以匹配锁定分镜、角色连续性与雪晶真实比例。"
+  },
+  {
+    "shot_id": 9,
+    "image_path": "images/shot_09.png",
+    "prompt": "微距展示刚落在原木窗台外缘的同一片真实比例小雪晶，六条对称主枝和羽毛状细边清楚，粗糙木纹在旁提供比例，雪晶仍只有几毫米。暖窗光映亮窗框，背景柔和虚化；不可画成巨大冰晶或装饰花朵。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；画面主要信息置于中上部，底部留足拼音字幕安全区。  Vertical 9:16 single-frame hand-painted watercolor children’s bedtime picture-book art, fine paper texture, soft natural edges, detailed but uncluttered. Keep the main face and story object in the upper 65 percent; reserve the lower 28 percent as calm low-detail background for large subtitles. No letters, words, labels, captions, logos, borders, panels, collage, split screen, extra limbs, or duplicated props. Keep all recurring window/furniture/snowflake shapes consistent with the supplied reference images. Use the snowflake reference for crystal shape only: each story snow crystal is TINY, about 5 millimeters across (smaller than Pipi’s pink nose), resting only on the OUTSIDE wooden sill; never enlarge it to window-pane size, never attach it to the glass, and never show a second crystal before its arrival in the narration.",
+    "reference_images": [
+      "references/snowy_bedroom_scene_ref.png",
+      "references/snowflake_reference.png"
+    ],
+    "status": "reviewed_pass",
+    "revision_note": "修订提示词以匹配锁定分镜、角色连续性与雪晶真实比例。"
+  },
+  {
+    "shot_id": 10,
+    "image_path": "images/shot_10.png",
+    "prompt": "从卧室内侧拍摄：皮皮穿日常衣服坐在窗前同一把矮木椅上，隔着关闭的玻璃欣赏窗台外一片小雪晶，神情喜爱又安静。雪晶比皮皮鼻子小，木椅、窗框和暖黄卧室保持连续。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；画面主要信息置于中上部，底部留足拼音字幕安全区。  Vertical 9:16 single-frame hand-painted watercolor children’s bedtime picture-book art, fine paper texture, soft natural edges, detailed but uncluttered. Keep the main face and story object in the upper 65 percent; reserve the lower 28 percent as calm low-detail background for large subtitles. No letters, words, labels, captions, logos, borders, panels, collage, split screen, extra limbs, or duplicated props. Keep all recurring window/furniture/snowflake shapes consistent with the supplied reference images. Use the snowflake reference for crystal shape only: the crystal remains a 5 millimeter object, shown with macro magnification only; this close-up must not imply it is large in the story.",
+    "reference_images": [
+      "references/snowflake_reference.png"
+    ],
+    "status": "reviewed_pass",
+    "revision_note": "修订提示词以匹配锁定分镜、角色连续性与雪晶真实比例。"
+  },
+  {
+    "shot_id": 11,
+    "image_path": "images/shot_11.png",
+    "prompt": "皮皮仍坐在窗前同一把矮木椅上，身体微微前倾，一只小爪握住窗栓，想推开仍关闭的窗户；期待地看向窗外细小雪晶。双脚在地面/椅子前方，不站上床，不打开窗。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；画面主要信息置于中上部，底部留足拼音字幕安全区。 Pipi must match the supplied official identity reference exactly: a small warm-gray rabbit with a round face, soft pink triangular nose, natural long drooping ears with pink inner ear, gentle brown eyes. Expression and posture must match this shot’s action; do not copy the reference’s sleepy frown. Use only Pipi’s left-panel day clothes from the provided wardrobe sheet: cream short-sleeve shirt, slate-blue short overalls, blue cloth shoes; only scene 04 may include the small yellow backpack. Never borrow the yellow raincoat. The navy star sleep cap does not appear anywhere in this scene; it has not been brought out yet. No other characters. Vertical 9:16 single-frame hand-painted watercolor children’s bedtime picture-book art, fine paper texture, soft natural edges, detailed but uncluttered. Keep the main face and story object in the upper 65 percent; reserve the lower 28 percent as calm low-detail background for large subtitles. No letters, words, labels, captions, logos, borders, panels, collage, split screen, extra limbs, or duplicated props. Keep all recurring window/furniture/snowflake shapes consistent with the supplied reference images. Use the snowflake reference for crystal shape only: each story snow crystal is TINY, about 5 millimeters across (smaller than Pipi’s pink nose), resting only on the OUTSIDE wooden sill; never enlarge it to window-pane size, never attach it to the glass, and never show a second crystal before its arrival in the narration.",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/snowy_bedroom_scene_ref.png",
+      "references/snowflake_reference.png"
+    ],
+    "status": "reviewed_pass",
+    "revision_note": "修订提示词以匹配锁定分镜、角色连续性与雪晶真实比例。"
+  },
+  {
+    "shot_id": 12,
+    "image_path": "images/shot_12.png",
+    "prompt": "皮皮坐在小木椅上，喜欢地注视雪晶，小爪伸向同一扇木窗的窗栓，身体微微前倾；窗保持关闭。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；画面主要信息置于中上部，底部留足拼音字幕安全区。 Pipi must match the supplied official identity reference exactly: a small warm-gray rabbit with a round face, soft pink triangular nose, natural long drooping ears with pink inner ear, gentle brown eyes. Expression and posture must match this shot’s action; do not copy the reference’s sleepy frown. Use only Pipi’s left-panel day clothes from the provided wardrobe sheet: cream short-sleeve shirt, slate-blue short overalls, blue cloth shoes; only scene 04 may include the small yellow backpack. Never borrow the yellow raincoat. The navy star sleep cap does not appear anywhere in this scene; it has not been brought out yet. No other characters. Vertical 9:16 single-frame hand-painted watercolor children’s bedtime picture-book art, fine paper texture, soft natural edges, detailed but uncluttered. Keep the main face and story object in the upper 65 percent; reserve the lower 28 percent as calm low-detail background for large subtitles. No letters, words, labels, captions, logos, borders, panels, collage, split screen, extra limbs, or duplicated props. Keep all recurring window/furniture/snowflake shapes consistent with the supplied reference images. Use the snowflake reference for crystal shape only: each story snow crystal is TINY, about 5 millimeters across (smaller than Pipi’s pink nose), resting only on the OUTSIDE wooden sill; never enlarge it to window-pane size, never attach it to the glass, and never show a second crystal before its arrival in the narration.",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/snowy_bedroom_scene_ref.png",
+      "references/snowflake_reference.png"
+    ],
+    "status": "reviewed_pass"
+  },
+  {
+    "shot_id": 13,
+    "image_path": "images/shot_13.png",
+    "prompt": "皮皮坐在同一把矮木椅上，身体靠近窗边，一只爪尖明确刚刚接触木窗框并停住，另一只爪收在身侧；神情由期待转为思索。镜头清楚看见爪尖与木框接触，窗扇仍关闭，雪晶完整留在窗外。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；画面主要信息置于中上部，底部留足拼音字幕安全区。 Pipi must match the supplied official identity reference exactly: a small warm-gray rabbit with a round face, soft pink triangular nose, natural long drooping ears with pink inner ear, gentle brown eyes. Expression and posture must match this shot’s action; do not copy the reference’s sleepy frown. Use only Pipi’s left-panel day clothes from the provided wardrobe sheet: cream short-sleeve shirt, slate-blue short overalls, blue cloth shoes; only scene 04 may include the small yellow backpack. Never borrow the yellow raincoat. The navy star sleep cap does not appear anywhere in this scene; it has not been brought out yet. No other characters. Vertical 9:16 single-frame hand-painted watercolor children’s bedtime picture-book art, fine paper texture, soft natural edges, detailed but uncluttered. Keep the main face and story object in the upper 65 percent; reserve the lower 28 percent as calm low-detail background for large subtitles. No letters, words, labels, captions, logos, borders, panels, collage, split screen, extra limbs, or duplicated props. Keep all recurring window/furniture/snowflake shapes consistent with the supplied reference images. Use the snowflake reference for crystal shape only: each story snow crystal is TINY, about 5 millimeters across (smaller than Pipi’s pink nose), resting only on the OUTSIDE wooden sill; never enlarge it to window-pane size, never attach it to the glass, and never show a second crystal before its arrival in the narration.",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/snowy_bedroom_scene_ref.png",
+      "references/snowflake_reference.png"
+    ],
+    "status": "reviewed_pass",
+    "revision_note": "接触表复核后修正动作与相邻镜头连续性。"
+  },
+  {
+    "shot_id": 14,
+    "image_path": "images/shot_14.png",
+    "prompt": "皮皮仍坐在同一把矮木椅上认真思考，头部由窗外转向房间里柔和发光的小暖炉。窗和木椅清楚可见，沿用同一卧室构图；不出现文字、老师或对话框。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；画面主要信息置于中上部，底部留足拼音字幕安全区。 Pipi must match the supplied official identity reference exactly: a small warm-gray rabbit with a round face, soft pink triangular nose, natural long drooping ears with pink inner ear, gentle brown eyes. Expression and posture must match this shot’s action; do not copy the reference’s sleepy frown. Use only Pipi’s left-panel day clothes from the provided wardrobe sheet: cream short-sleeve shirt, slate-blue short overalls, blue cloth shoes; only scene 04 may include the small yellow backpack. Never borrow the yellow raincoat. The navy star sleep cap does not appear anywhere in this scene; it has not been brought out yet. No other characters. Vertical 9:16 single-frame hand-painted watercolor children’s bedtime picture-book art, fine paper texture, soft natural edges, detailed but uncluttered. Keep the main face and story object in the upper 65 percent; reserve the lower 28 percent as calm low-detail background for large subtitles. No letters, words, labels, captions, logos, borders, panels, collage, split screen, extra limbs, or duplicated props. Keep all recurring window/furniture/snowflake shapes consistent with the supplied reference images. Use the snowflake reference for crystal shape only: each story snow crystal is TINY, about 5 millimeters across (smaller than Pipi’s pink nose), resting only on the OUTSIDE wooden sill; never enlarge it to window-pane size, never attach it to the glass, and never show a second crystal before its arrival in the narration.",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/snowy_bedroom_scene_ref.png",
+      "references/snowflake_reference.png"
+    ],
+    "status": "reviewed_pass",
+    "revision_note": "接触表复核后修正动作与相邻镜头连续性。"
+  },
+  {
+    "shot_id": 15,
+    "image_path": "images/shot_15.png",
+    "prompt": "皮皮坐在同一把木椅上，把一只空爪收在胸前，隔着关闭的玻璃望向窗外完整的小雪晶。暖黄卧室与冷蓝窗外形成温和对照，表达雪晶留在冷处更安全；不可让雪晶进入手心。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；画面主要信息置于中上部，底部留足拼音字幕安全区。 Pipi must match the supplied official identity reference exactly: a small warm-gray rabbit with a round face, soft pink triangular nose, natural long drooping ears with pink inner ear, gentle brown eyes. Expression and posture must match this shot’s action; do not copy the reference’s sleepy frown. Use only Pipi’s left-panel day clothes from the provided wardrobe sheet: cream short-sleeve shirt, slate-blue short overalls, blue cloth shoes; only scene 04 may include the small yellow backpack. Never borrow the yellow raincoat. The navy star sleep cap does not appear anywhere in this scene; it has not been brought out yet. No other characters. Vertical 9:16 single-frame hand-painted watercolor children’s bedtime picture-book art, fine paper texture, soft natural edges, detailed but uncluttered. Keep the main face and story object in the upper 65 percent; reserve the lower 28 percent as calm low-detail background for large subtitles. No letters, words, labels, captions, logos, borders, panels, collage, split screen, extra limbs, or duplicated props. Keep all recurring window/furniture/snowflake shapes consistent with the supplied reference images. Use the snowflake reference for crystal shape only: each story snow crystal is TINY, about 5 millimeters across (smaller than Pipi’s pink nose), resting only on the OUTSIDE wooden sill; never enlarge it to window-pane size, never attach it to the glass, and never show a second crystal before its arrival in the narration.",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/snowy_bedroom_scene_ref.png",
+      "references/snowflake_reference.png"
+    ],
+    "status": "reviewed_pass",
+    "revision_note": "修订提示词以匹配锁定分镜、角色连续性与雪晶真实比例。"
+  },
+  {
+    "shot_id": 16,
+    "image_path": "images/shot_16.png",
+    "prompt": "真实的关闭玻璃窗分隔暖黄卧室和冷蓝雪夜：近处皮皮放松的空手自然垂在室内，远处窗台上的小雪晶保持完整。无水滴、无融化、无抓雪动作，雪晶保持真实小比例。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；画面主要信息置于中上部，底部留足拼音字幕安全区。 Pipi must match the supplied official identity reference exactly: a small warm-gray rabbit with a round face, soft pink triangular nose, natural long drooping ears with pink inner ear, gentle brown eyes. Expression and posture must match this shot’s action; do not copy the reference’s sleepy frown. Use only Pipi’s left-panel day clothes from the provided wardrobe sheet: cream short-sleeve shirt, slate-blue short overalls, blue cloth shoes; only scene 04 may include the small yellow backpack. Never borrow the yellow raincoat. The navy star sleep cap does not appear anywhere in this scene; it has not been brought out yet. No other characters. Vertical 9:16 single-frame hand-painted watercolor children’s bedtime picture-book art, fine paper texture, soft natural edges, detailed but uncluttered. Keep the main face and story object in the upper 65 percent; reserve the lower 28 percent as calm low-detail background for large subtitles. No letters, words, labels, captions, logos, borders, panels, collage, split screen, extra limbs, or duplicated props. Keep all recurring window/furniture/snowflake shapes consistent with the supplied reference images. Use the snowflake reference for crystal shape only: each story snow crystal is TINY, about 5 millimeters across (smaller than Pipi’s pink nose), resting only on the OUTSIDE wooden sill; never enlarge it to window-pane size, never attach it to the glass, and never show a second crystal before its arrival in the narration.",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/snowy_bedroom_scene_ref.png",
+      "references/snowflake_reference.png"
+    ],
+    "status": "reviewed_pass",
+    "revision_note": "修订提示词以匹配锁定分镜、角色连续性与雪晶真实比例。"
+  },
+  {
+    "shot_id": 17,
+    "image_path": "images/shot_17.png",
+    "prompt": "皮皮坐在同一把矮木椅上，刚把爪子从窗栓处收回并放在身侧，肩膀放松，隔着洁净透明玻璃安静看窗外完整的小雪晶。窗户关闭，室内外空间清楚分隔。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；画面主要信息置于中上部，底部留足拼音字幕安全区。 Pipi must match the supplied official identity reference exactly: a small warm-gray rabbit with a round face, soft pink triangular nose, natural long drooping ears with pink inner ear, gentle brown eyes. Expression and posture must match this shot’s action; do not copy the reference’s sleepy frown. Use only Pipi’s left-panel day clothes from the provided wardrobe sheet: cream short-sleeve shirt, slate-blue short overalls, blue cloth shoes; only scene 04 may include the small yellow backpack. Never borrow the yellow raincoat. The navy star sleep cap does not appear anywhere in this scene; it has not been brought out yet. No other characters. Vertical 9:16 single-frame hand-painted watercolor children’s bedtime picture-book art, fine paper texture, soft natural edges, detailed but uncluttered. Keep the main face and story object in the upper 65 percent; reserve the lower 28 percent as calm low-detail background for large subtitles. No letters, words, labels, captions, logos, borders, panels, collage, split screen, extra limbs, or duplicated props. Keep all recurring window/furniture/snowflake shapes consistent with the supplied reference images. Use the snowflake reference for crystal shape only: each story snow crystal is TINY, about 5 millimeters across (smaller than Pipi’s pink nose), resting only on the OUTSIDE wooden sill; never enlarge it to window-pane size, never attach it to the glass, and never show a second crystal before its arrival in the narration.",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/snowy_bedroom_scene_ref.png",
+      "references/snowflake_reference.png"
+    ],
+    "status": "reviewed_pass",
+    "revision_note": "修订提示词以匹配锁定分镜、角色连续性与雪晶真实比例。"
+  },
+  {
+    "shot_id": 18,
+    "image_path": "images/shot_18.png",
+    "prompt": "皮皮坐在同一把木椅上安静看第一片微小雪晶。第二片独立的小雪晶刚从窗外冷蓝夜空开始飘落，尚未到达窗台；皮皮神情温柔专注，隔窗玻璃仍关闭。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；画面主要信息置于中上部，底部留足拼音字幕安全区。 Pipi must match the supplied official identity reference exactly: a small warm-gray rabbit with a round face, soft pink triangular nose, natural long drooping ears with pink inner ear, gentle brown eyes. Expression and posture must match this shot’s action; do not copy the reference’s sleepy frown. Use only Pipi’s left-panel day clothes from the provided wardrobe sheet: cream short-sleeve shirt, slate-blue short overalls, blue cloth shoes; only scene 04 may include the small yellow backpack. Never borrow the yellow raincoat. The navy star sleep cap does not appear anywhere in this scene; it has not been brought out yet. No other characters. Vertical 9:16 single-frame hand-painted watercolor children’s bedtime picture-book art, fine paper texture, soft natural edges, detailed but uncluttered. Keep the main face and story object in the upper 65 percent; reserve the lower 28 percent as calm low-detail background for large subtitles. No letters, words, labels, captions, logos, borders, panels, collage, split screen, extra limbs, or duplicated props. Keep all recurring window/furniture/snowflake shapes consistent with the supplied reference images. Use the snowflake reference for crystal shape only: each story snow crystal is TINY, about 5 millimeters across (smaller than Pipi’s pink nose), resting only on the OUTSIDE wooden sill; never enlarge it to window-pane size, never attach it to the glass, and never show a second crystal before its arrival in the narration.",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/snowy_bedroom_scene_ref.png",
+      "references/snowflake_reference.png"
+    ],
+    "status": "reviewed_pass",
+    "revision_note": "修订提示词以匹配锁定分镜、角色连续性与雪晶真实比例。"
+  },
+  {
+    "shot_id": 19,
+    "image_path": "images/shot_19.png",
+    "prompt": "第二片晶莹六角雪晶从空中轻轻落向窗台，第一片已停在木边前景；两片轮廓分明、未接触前。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；画面主要信息置于中上部，底部留足拼音字幕安全区。  Vertical 9:16 single-frame hand-painted watercolor children’s bedtime picture-book art, fine paper texture, soft natural edges, detailed but uncluttered. Keep the main face and story object in the upper 65 percent; reserve the lower 28 percent as calm low-detail background for large subtitles. No letters, words, labels, captions, logos, borders, panels, collage, split screen, extra limbs, or duplicated props. Keep all recurring window/furniture/snowflake shapes consistent with the supplied reference images. Use the snowflake reference for crystal shape only: each story snow crystal is TINY, about 5 millimeters across (smaller than Pipi’s pink nose), resting only on the OUTSIDE wooden sill; never enlarge it to window-pane size, never attach it to the glass, and never show a second crystal before its arrival in the narration.",
+    "reference_images": [
+      "references/snowy_bedroom_scene_ref.png",
+      "references/snowflake_reference.png"
+    ],
+    "status": "reviewed_pass"
+  },
+  {
+    "shot_id": 20,
+    "image_path": "images/shot_20.png",
+    "prompt": "两片不同的完整六角雪晶轻轻并排停在同一原木窗台上，彼此紧邻但仍各自完整；透过玻璃可见温暖室内。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；画面主要信息置于中上部，底部留足拼音字幕安全区。  Vertical 9:16 single-frame hand-painted watercolor children’s bedtime picture-book art, fine paper texture, soft natural edges, detailed but uncluttered. Keep the main face and story object in the upper 65 percent; reserve the lower 28 percent as calm low-detail background for large subtitles. No letters, words, labels, captions, logos, borders, panels, collage, split screen, extra limbs, or duplicated props. Keep all recurring window/furniture/snowflake shapes consistent with the supplied reference images. Use the snowflake reference for crystal shape only: each story snow crystal is TINY, about 5 millimeters across (smaller than Pipi’s pink nose), resting only on the OUTSIDE wooden sill; never enlarge it to window-pane size, never attach it to the glass, and never show a second crystal before its arrival in the narration.",
+    "reference_images": [
+      "references/snowy_bedroom_scene_ref.png",
+      "references/snowflake_reference.png"
+    ],
+    "status": "reviewed_pass"
+  },
+  {
+    "shot_id": 21,
+    "image_path": "images/shot_21.png",
+    "prompt": "皮皮仍坐在窗前同一把矮木椅上，身体稍侧向旁边的床，一只爪轻轻碰到床边暖黄色毛毯一角，同时回头看看窗外两片微小雪晶。必须清楚看见皮皮和木椅；皮皮没有坐上床。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；画面主要信息置于中上部，底部留足拼音字幕安全区。  Vertical 9:16 single-frame hand-painted watercolor children’s bedtime picture-book art, fine paper texture, soft natural edges, detailed but uncluttered. Keep the main face and story object in the upper 65 percent; reserve the lower 28 percent as calm low-detail background for large subtitles. No letters, words, labels, captions, logos, borders, panels, collage, split screen, extra limbs, or duplicated props. Keep all recurring window/furniture/snowflake shapes consistent with the supplied reference images. Use the snowflake reference for crystal shape only: each story snow crystal is TINY, about 5 millimeters across (smaller than Pipi’s pink nose), resting only on the OUTSIDE wooden sill; never enlarge it to window-pane size, never attach it to the glass, and never show a second crystal before its arrival in the narration.",
+    "reference_images": [
+      "references/snowy_bedroom_scene_ref.png",
+      "references/snowflake_reference.png"
+    ],
+    "status": "reviewed_pass",
+    "revision_note": "修订提示词以匹配锁定分镜、角色连续性与雪晶真实比例。"
+  },
+  {
+    "shot_id": 22,
+    "image_path": "images/shot_22.png",
+    "prompt": "通过真实关闭的木框玻璃窗自然呈现室内外：皮皮安静坐在木椅上，床上铺着暖黄毛毯；窗外两片微小完整雪晶并排停在窗台。屋内兔子和雪晶各处其所，互不打扰。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；画面主要信息置于中上部，底部留足拼音字幕安全区。 Pipi must match the supplied official identity reference exactly: a small warm-gray rabbit with a round face, soft pink triangular nose, natural long drooping ears with pink inner ear, gentle brown eyes. Expression and posture must match this shot’s action; do not copy the reference’s sleepy frown. Use only Pipi’s left-panel day clothes from the provided wardrobe sheet: cream short-sleeve shirt, slate-blue short overalls, blue cloth shoes; only scene 04 may include the small yellow backpack. Never borrow the yellow raincoat. The navy star sleep cap does not appear anywhere in this scene; it has not been brought out yet. No other characters. Vertical 9:16 single-frame hand-painted watercolor children’s bedtime picture-book art, fine paper texture, soft natural edges, detailed but uncluttered. Keep the main face and story object in the upper 65 percent; reserve the lower 28 percent as calm low-detail background for large subtitles. No letters, words, labels, captions, logos, borders, panels, collage, split screen, extra limbs, or duplicated props. Keep all recurring window/furniture/snowflake shapes consistent with the supplied reference images. Use the snowflake reference for crystal shape only: each story snow crystal is TINY, about 5 millimeters across (smaller than Pipi’s pink nose), resting only on the OUTSIDE wooden sill; never enlarge it to window-pane size, never attach it to the glass, and never show a second crystal before its arrival in the narration.",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/snowy_bedroom_scene_ref.png",
+      "references/snowflake_reference.png"
+    ],
+    "status": "reviewed_pass",
+    "revision_note": "修订提示词以匹配锁定分镜、角色连续性与雪晶真实比例。"
+  },
+  {
+    "shot_id": 23,
+    "image_path": "images/shot_23.png",
+    "prompt": "皮皮打一个小哈欠，站在地板上用双爪把同一把矮木椅推回靠墙的原位；动作明确是把椅子推走。床上没有皮皮，窗外两片小雪晶仍完整。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；画面主要信息置于中上部，底部留足拼音字幕安全区。 Pipi must match the supplied official identity reference exactly: a small warm-gray rabbit with a round face, soft pink triangular nose, natural long drooping ears with pink inner ear, gentle brown eyes. Expression and posture must match this shot’s action; do not copy the reference’s sleepy frown. Use only Pipi’s left-panel day clothes from the provided wardrobe sheet: cream short-sleeve shirt, slate-blue short overalls, blue cloth shoes; only scene 04 may include the small yellow backpack. Never borrow the yellow raincoat. The navy star sleep cap does not appear anywhere in this scene; it has not been brought out yet. No other characters. Vertical 9:16 single-frame hand-painted watercolor children’s bedtime picture-book art, fine paper texture, soft natural edges, detailed but uncluttered. Keep the main face and story object in the upper 65 percent; reserve the lower 28 percent as calm low-detail background for large subtitles. No letters, words, labels, captions, logos, borders, panels, collage, split screen, extra limbs, or duplicated props. Keep all recurring window/furniture/snowflake shapes consistent with the supplied reference images. Use the snowflake reference for crystal shape only: each story snow crystal is TINY, about 5 millimeters across (smaller than Pipi’s pink nose), resting only on the OUTSIDE wooden sill; never enlarge it to window-pane size, never attach it to the glass, and never show a second crystal before its arrival in the narration.",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/snowy_bedroom_scene_ref.png",
+      "references/snowflake_reference.png"
+    ],
+    "status": "reviewed_pass",
+    "revision_note": "修订提示词以匹配锁定分镜、角色连续性与雪晶真实比例。"
+  },
+  {
+    "shot_id": 24,
+    "image_path": "images/shot_24.png",
+    "prompt": "木椅已靠墙归位。皮皮现在坐在床沿，身体离开窗边，双爪放松放在腿上，神情困倦，不再碰木椅。窗外两片完整小雪晶仍停在窗台。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；画面主要信息置于中上部，底部留足拼音字幕安全区。 Pipi must match the supplied official identity reference exactly: a small warm-gray rabbit with a round face, soft pink triangular nose, natural long drooping ears with pink inner ear, gentle brown eyes. Expression and posture must match this shot’s action; do not copy the reference’s sleepy frown. Use only Pipi’s left-panel day clothes from the provided wardrobe sheet: cream short-sleeve shirt, slate-blue short overalls, blue cloth shoes; only scene 04 may include the small yellow backpack. Never borrow the yellow raincoat. The navy star sleep cap does not appear anywhere in this scene; it has not been brought out yet. No other characters. Vertical 9:16 single-frame hand-painted watercolor children’s bedtime picture-book art, fine paper texture, soft natural edges, detailed but uncluttered. Keep the main face and story object in the upper 65 percent; reserve the lower 28 percent as calm low-detail background for large subtitles. No letters, words, labels, captions, logos, borders, panels, collage, split screen, extra limbs, or duplicated props. Keep all recurring window/furniture/snowflake shapes consistent with the supplied reference images. Use the snowflake reference for crystal shape only: each story snow crystal is TINY, about 5 millimeters across (smaller than Pipi’s pink nose), resting only on the OUTSIDE wooden sill; never enlarge it to window-pane size, never attach it to the glass, and never show a second crystal before its arrival in the narration.",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/snowy_bedroom_scene_ref.png",
+      "references/snowflake_reference.png"
+    ],
+    "status": "reviewed_pass",
+    "revision_note": "接触表复核后修正动作与相邻镜头连续性。"
+  },
+  {
+    "shot_id": 25,
+    "image_path": "images/shot_25.png",
+    "prompt": "皮皮从窗前离开后坐在床沿，身体朝床铺转向，不再盯着窗外；窗边木椅已回到靠墙原位。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；画面主要信息置于中上部，底部留足拼音字幕安全区。 Pipi must match the supplied official identity reference exactly: a small warm-gray rabbit with a round face, soft pink triangular nose, natural long drooping ears with pink inner ear, gentle brown eyes. Expression and posture must match this shot’s action; do not copy the reference’s sleepy frown. Use only Pipi’s left-panel day clothes from the provided wardrobe sheet: cream short-sleeve shirt, slate-blue short overalls, blue cloth shoes; only scene 04 may include the small yellow backpack. Never borrow the yellow raincoat. The soft navy star cap is a prop placed beside the pillow, not on Pipi’s head. No other characters. Vertical 9:16 single-frame hand-painted watercolor children’s bedtime picture-book art, fine paper texture, soft natural edges, detailed but uncluttered. Keep the main face and story object in the upper 65 percent; reserve the lower 28 percent as calm low-detail background for large subtitles. No letters, words, labels, captions, logos, borders, panels, collage, split screen, extra limbs, or duplicated props. Keep all recurring window/furniture/snowflake shapes consistent with the supplied reference images. Use the snowflake reference for crystal shape only: each story snow crystal is TINY, about 5 millimeters across (smaller than Pipi’s pink nose), resting only on the OUTSIDE wooden sill; never enlarge it to window-pane size, never attach it to the glass, and never show a second crystal before its arrival in the narration.",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/snowy_bedroom_scene_ref.png",
+      "references/snowflake_reference.png"
+    ],
+    "status": "reviewed_pass"
+  },
+  {
+    "shot_id": 26,
+    "image_path": "images/shot_26.png",
+    "prompt": "皮皮坐在床沿，双爪抱起固定的橙色胡萝卜布偶；枕头旁放着一顶深蓝星星睡帽，他动作轻柔，脸上安心。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；画面主要信息置于中上部，底部留足拼音字幕安全区。 Pipi must match the supplied official identity reference exactly: a small warm-gray rabbit with a round face, soft pink triangular nose, natural long drooping ears with pink inner ear, gentle brown eyes. Expression and posture must match this shot’s action; do not copy the reference’s sleepy frown. Use only Pipi’s left-panel day clothes from the provided wardrobe sheet: cream short-sleeve shirt, slate-blue short overalls, blue cloth shoes; only scene 04 may include the small yellow backpack. Never borrow the yellow raincoat. The soft navy star cap is a prop placed beside the pillow, not on Pipi’s head. No other characters. Vertical 9:16 single-frame hand-painted watercolor children’s bedtime picture-book art, fine paper texture, soft natural edges, detailed but uncluttered. Keep the main face and story object in the upper 65 percent; reserve the lower 28 percent as calm low-detail background for large subtitles. No letters, words, labels, captions, logos, borders, panels, collage, split screen, extra limbs, or duplicated props. Keep all recurring window/furniture/snowflake shapes consistent with the supplied reference images. Use the snowflake reference for crystal shape only: each story snow crystal is TINY, about 5 millimeters across (smaller than Pipi’s pink nose), resting only on the OUTSIDE wooden sill; never enlarge it to window-pane size, never attach it to the glass, and never show a second crystal before its arrival in the narration.",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/snowy_bedroom_scene_ref.png",
+      "references/snowflake_reference.png"
+    ],
+    "status": "reviewed_pass"
+  },
+  {
+    "shot_id": 27,
+    "image_path": "images/shot_27.png",
+    "prompt": "皮皮抱着胡萝卜玩偶，平静望向窗外两片雪晶，眼神里有柔和的雪白反光；睡帽仍放在枕头边。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；画面主要信息置于中上部，底部留足拼音字幕安全区。 Pipi must match the supplied official identity reference exactly: a small warm-gray rabbit with a round face, soft pink triangular nose, natural long drooping ears with pink inner ear, gentle brown eyes. Expression and posture must match this shot’s action; do not copy the reference’s sleepy frown. Use only Pipi’s left-panel day clothes from the provided wardrobe sheet: cream short-sleeve shirt, slate-blue short overalls, blue cloth shoes; only scene 04 may include the small yellow backpack. Never borrow the yellow raincoat. The soft navy star cap is a prop placed beside the pillow, not on Pipi’s head. No other characters. Vertical 9:16 single-frame hand-painted watercolor children’s bedtime picture-book art, fine paper texture, soft natural edges, detailed but uncluttered. Keep the main face and story object in the upper 65 percent; reserve the lower 28 percent as calm low-detail background for large subtitles. No letters, words, labels, captions, logos, borders, panels, collage, split screen, extra limbs, or duplicated props. Keep all recurring window/furniture/snowflake shapes consistent with the supplied reference images. Use the snowflake reference for crystal shape only: each story snow crystal is TINY, about 5 millimeters across (smaller than Pipi’s pink nose), resting only on the OUTSIDE wooden sill; never enlarge it to window-pane size, never attach it to the glass, and never show a second crystal before its arrival in the narration.",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/snowy_bedroom_scene_ref.png",
+      "references/snowflake_reference.png"
+    ],
+    "status": "reviewed_pass"
+  },
+  {
+    "shot_id": 28,
+    "image_path": "images/shot_28.png",
+    "prompt": "皮皮已安稳躺在床上，胡萝卜玩偶抱在胸前，眼睛轻轻闭上；窗边两片雪晶仍完整，室内灯光调暗。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；画面主要信息置于中上部，底部留足拼音字幕安全区。 Pipi must match the supplied official identity reference exactly: a small warm-gray rabbit with a round face, soft pink triangular nose, natural long drooping ears with pink inner ear, gentle brown eyes. Expression and posture must match this shot’s action; do not copy the reference’s sleepy frown. Use Pipi’s official warm gray fur and long drooping ears. Keep the navy star sleep cap as a nearby prop, not worn. No other characters. Vertical 9:16 single-frame hand-painted watercolor children’s bedtime picture-book art, fine paper texture, soft natural edges, detailed but uncluttered. Keep the main face and story object in the upper 65 percent; reserve the lower 28 percent as calm low-detail background for large subtitles. No letters, words, labels, captions, logos, borders, panels, collage, split screen, extra limbs, or duplicated props. Keep all recurring window/furniture/snowflake shapes consistent with the supplied reference images. Use the snowflake reference for crystal shape only: each story snow crystal is TINY, about 5 millimeters across (smaller than Pipi’s pink nose), resting only on the OUTSIDE wooden sill; never enlarge it to window-pane size, never attach it to the glass, and never show a second crystal before its arrival in the narration.",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/snowy_bedroom_scene_ref.png",
+      "references/snowflake_reference.png"
+    ],
+    "status": "reviewed_pass"
+  },
+  {
+    "shot_id": 29,
+    "image_path": "images/shot_29.png",
+    "prompt": "安静卧室全景：皮皮在床上熟睡，暖黄色毛毯盖好；窗外持续下着细雪，两片雪晶在窗台外，屋顶或窗外不出现拟人化云朵。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；画面主要信息置于中上部，底部留足拼音字幕安全区。 Pipi must match the supplied official identity reference exactly: a small warm-gray rabbit with a round face, soft pink triangular nose, natural long drooping ears with pink inner ear, gentle brown eyes. Expression and posture must match this shot’s action; do not copy the reference’s sleepy frown. Use Pipi’s official warm gray fur and long drooping ears. Keep the navy star sleep cap as a nearby prop, not worn. No other characters. Vertical 9:16 single-frame hand-painted watercolor children’s bedtime picture-book art, fine paper texture, soft natural edges, detailed but uncluttered. Keep the main face and story object in the upper 65 percent; reserve the lower 28 percent as calm low-detail background for large subtitles. No letters, words, labels, captions, logos, borders, panels, collage, split screen, extra limbs, or duplicated props. Keep all recurring window/furniture/snowflake shapes consistent with the supplied reference images. Use the snowflake reference for crystal shape only: each story snow crystal is TINY, about 5 millimeters across (smaller than Pipi’s pink nose), resting only on the OUTSIDE wooden sill; never enlarge it to window-pane size, never attach it to the glass, and never show a second crystal before its arrival in the narration.",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/snowy_bedroom_scene_ref.png",
+      "references/snowflake_reference.png"
+    ],
+    "status": "reviewed_pass"
+  },
+  {
+    "shot_id": 30,
+    "image_path": "images/shot_30.png",
+    "prompt": "皮皮熟睡在床上，胡萝卜玩偶在怀里；窗外两片雪晶安静并排，室内暖光柔和，适合作为晚安前的安静画面。竖屏9:16水彩绘本，底部留字幕安全区。 Pipi must match the supplied official identity reference exactly: a small warm-gray rabbit with a round face, soft pink triangular nose, natural long drooping ears with pink inner ear, gentle brown eyes. Expression and posture must match this shot’s action; do not copy the reference’s sleepy frown. Use Pipi’s official warm gray fur and long drooping ears. Keep the navy star sleep cap as a nearby prop, not worn. No other characters. Vertical 9:16 single-frame hand-painted watercolor children’s bedtime picture-book art, fine paper texture, soft natural edges, detailed but uncluttered. Keep the main face and story object in the upper 65 percent; reserve the lower 28 percent as calm low-detail background for large subtitles. No letters, words, labels, captions, logos, borders, panels, collage, split screen, extra limbs, or duplicated props. Keep all recurring window/furniture/snowflake shapes consistent with the supplied reference images. Use the snowflake reference for crystal shape only: each story snow crystal is TINY, about 5 millimeters across (smaller than Pipi’s pink nose), resting only on the OUTSIDE wooden sill; never enlarge it to window-pane size, never attach it to the glass, and never show a second crystal before its arrival in the narration.",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/snowy_bedroom_scene_ref.png",
+      "references/snowflake_reference.png"
+    ],
+    "status": "reviewed_pass"
+  },
+  {
+    "shot_id": 31,
+    "image_path": "images/shot_31.png",
+    "prompt": "皮皮熟睡的近景，表情安稳，胡萝卜玩偶靠在胸前；窗外仍有细雪，两片雪晶完整地留在原木窗台上。竖屏9:16水彩绘本，无字，画面安宁收尾，底部留字幕安全区。 Pipi must match the supplied official identity reference exactly: a small warm-gray rabbit with a round face, soft pink triangular nose, natural long drooping ears with pink inner ear, gentle brown eyes. Expression and posture must match this shot’s action; do not copy the reference’s sleepy frown. Use Pipi’s official warm gray fur and long drooping ears. Keep the navy star sleep cap as a nearby prop, not worn. No other characters. Vertical 9:16 single-frame hand-painted watercolor children’s bedtime picture-book art, fine paper texture, soft natural edges, detailed but uncluttered. Keep the main face and story object in the upper 65 percent; reserve the lower 28 percent as calm low-detail background for large subtitles. No letters, words, labels, captions, logos, borders, panels, collage, split screen, extra limbs, or duplicated props. Keep all recurring window/furniture/snowflake shapes consistent with the supplied reference images. Use the snowflake reference for crystal shape only: each story snow crystal is TINY, about 5 millimeters across (smaller than Pipi’s pink nose), resting only on the OUTSIDE wooden sill; never enlarge it to window-pane size, never attach it to the glass, and never show a second crystal before its arrival in the narration.",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/snowy_bedroom_scene_ref.png",
+      "references/snowflake_reference.png"
+    ],
+    "status": "reviewed_pass"
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "text": "想把窗户推开，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "9f2f45a6bdb9ff4cd244edd869bf9a278d1208bd218e79bbb031a73aa65a6992",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3653750,
+      "text": "想"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4922910,
+      "duration": 1922910,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 5192500,
+      "text": "窗户"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12422910,
+      "duration": 8461660,
+      "text": "推开"
+    }
+  ]
+}

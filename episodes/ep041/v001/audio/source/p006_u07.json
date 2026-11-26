@@ -1,0 +1,41 @@
+{
+  "text": "谁也没有打扰谁。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "779eeb9b80e26873a8fd7071075ca0ca52278f249c9b82da93e3d66d5a0e7cd7",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4615410,
+      "text": "谁"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5884580,
+      "duration": 1730830,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7807500,
+      "duration": 3077080,
+      "text": "没有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11077080,
+      "duration": 5769160,
+      "text": "打扰"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16846250,
+      "duration": 5192500,
+      "text": "谁"
+    }
+  ]
+}

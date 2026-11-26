@@ -1,0 +1,35 @@
+{
+  "text": "它是那么轻盈。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "7d37d68e00c815ae1c9d7dbe5a92d24364c782c617faa67bfd9f522527b2a213",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2884580,
+      "text": "它"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4153750,
+      "duration": 2115410,
+      "text": "是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6461660,
+      "duration": 3653750,
+      "text": "那么"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10307500,
+      "duration": 8269160,
+      "text": "轻盈"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "text": "温柔地看了那片雪花一会儿。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "8d1e2603fbf9428821fee3af02c23bb55687778019888a579f54b087e2d0794d",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5961660,
+      "text": "温柔"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7230830,
+      "duration": 1922910,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9538330,
+      "duration": 2884580,
+      "text": "看"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12422910,
+      "duration": 961660,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13577080,
+      "duration": 1730410,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15307500,
+      "duration": 2692500,
+      "text": "片"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18192500,
+      "duration": 6922910,
+      "text": "雪花"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25307500,
+      "duration": 6153750,
+      "text": "一会儿"
+    }
+  ]
+}

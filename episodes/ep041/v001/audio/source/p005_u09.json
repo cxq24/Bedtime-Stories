@@ -1,0 +1,77 @@
+{
+  "text": "在窗外的冷空气里完好无损地、安安静静地待着。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "d3471544dc0a75191fcaa4c950498648033eb1afc05e0bba7bd500d2f7dd26e1",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2692500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4153750,
+      "duration": 5577080,
+      "text": "窗外"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9730830,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11653750,
+      "duration": 9230830,
+      "text": "冷空气"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20884580,
+      "duration": 4230830,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26653750,
+      "duration": 12500000,
+      "text": "完好无损"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39153750,
+      "duration": 4038330,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46653750,
+      "duration": 10769160,
+      "text": "安安静静"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57422910,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58961660,
+      "duration": 3461250,
+      "text": "待"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 62422910,
+      "duration": 3461660,
+      "text": "着"
+    }
+  ]
+}

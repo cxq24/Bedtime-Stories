@@ -1,0 +1,41 @@
+{
+  "text": "走到床沿坐下。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "0c78200d9906dd9a0a9c8593396984e29d77e8f5971c9b79e43aeebe0ef7465c",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2692500,
+      "text": "走"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3961660,
+      "duration": 2115410,
+      "text": "到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6269160,
+      "duration": 3653750,
+      "text": "床"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9922910,
+      "duration": 6346250,
+      "text": "沿坐"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16269160,
+      "duration": 4615410,
+      "text": "下"
+    }
+  ]
+}

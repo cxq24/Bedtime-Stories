@@ -1,0 +1,681 @@
+{
+  "episode": "ep041",
+  "version": "v001",
+  "assets": {
+    "CHAR_PIPI_01": {
+      "kind": "character",
+      "fixed": "皮皮：暖灰色小灰兔，圆脸、粉色小鼻、自然下垂长耳；小黄书包可只在校外场景出现。身份以官方角色参考为准。家庭连续场景穿米色上衣、灰蓝短背带裤、蓝布鞋；睡帽是单独摆在枕边的深蓝星星帽，不戴在头上。",
+      "reference": "references/pipi_identity_v001.png; references/pipi_wardrobe_v001.png"
+    },
+    "LOC_SNOW_FOREST_01": {
+      "kind": "location",
+      "fixed": "冬日森林小径与林间空地；深蓝灰暮色，初雪稀疏，画面无文字。仅用于独立p000开场及p001建立。"
+    },
+    "LOC_SCHOOL_01": {
+      "kind": "location",
+      "fixed": "森林学堂室内，简单木课桌、宽窗和灰蒙蒙白天天空；本片不出现老师或同学，避免没有图库支持的角色。"
+    },
+    "LOC_CABIN_01": {
+      "kind": "location",
+      "fixed": "皮皮温暖木屋，木桌、萝卜汤和同一扇卧室木框窗；返家后夜间暖色照明。"
+    },
+    "LOC_BEDROOM_01": {
+      "kind": "location",
+      "fixed": "固定朝向的木屋卧室：同一扇宽木框玻璃窗位于画面右侧，窗外窗台朝向固定；低床在左侧，床头灯和暖炉在室内，夜景冷蓝窗外与暖金室内对比。"
+    },
+    "WIN_WINDOW_01": {
+      "kind": "prop",
+      "fixed": "同一扇木框玻璃窗，窗格和原木窗台位置恒定；主要镜头保持关闭，窗栓在室内右侧，雪晶停在窗台外侧。"
+    },
+    "PROP_CHAIR_01": {
+      "kind": "prop",
+      "fixed": "一把矮小简洁的浅木色木椅；皮皮先搬到窗前坐下，后沿地面推回卧室靠墙原位，外形尺寸始终相同。"
+    },
+    "PROP_BEDSIDE_LAMP_01": {
+      "kind": "prop",
+      "fixed": "固定在床头的暖黄色小灯，夜间照明柔和，后段调暗。"
+    },
+    "PROP_SOUP_BOWL_01": {
+      "kind": "prop",
+      "fixed": "普通浅色陶碗，盛橙白色萝卜汤，仅p001返家餐桌段落出现。"
+    },
+    "PROP_HEATER_01": {
+      "kind": "prop",
+      "fixed": "室内小型暖炉，安全封闭，固定在卧室远离窗户一侧，只做柔和暖光背景，不出现火焰危险。"
+    },
+    "PROP_BED_01": {
+      "kind": "prop",
+      "fixed": "同一张低矮木床，奶油白枕头与暖黄毛毯，床头位置固定。"
+    },
+    "PROP_BLANKET_01": {
+      "kind": "prop",
+      "fixed": "同一条厚软暖黄色毛毯，先由皮皮抚摸，末段盖在皮皮身上。"
+    },
+    "PROP_CARROT_TOY_01": {
+      "kind": "prop",
+      "fixed": "一只软布胡萝卜玩偶，橙色主体、绿色布叶，大小可由皮皮双爪抱住。"
+    },
+    "PROP_SLEEP_CAP_01": {
+      "kind": "prop",
+      "fixed": "深蓝色睡帽，散布小黄星星，帽尖柔软弯曲；本片摆在枕头边，不戴在皮皮头上。"
+    },
+    "SNOWFLAKE_A": {
+      "kind": "prop",
+      "fixed": "第一片精致完整的白色六角对称雪晶，六条主枝与细小羽状边缘；落在窗外原木窗台边后始终完整，不进室内、不融化。"
+    },
+    "SNOWFLAKE_B": {
+      "kind": "prop",
+      "fixed": "第二片独立完整的白色六角对称雪晶，大小和细部略有区别；后落在第一片旁边，两片紧邻但彼此独立，整夜留在窗外。"
+    }
+  },
+  "shot_states": [
+    {
+      "shot_id": "00",
+      "location": "森林小径",
+      "time_of_day": "冬日傍晚",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "LOC_SNOW_FOREST_01"
+      ],
+      "state_before": "皮皮站在安静的雪林小径中央，朝观众轻轻挥爪，神情温柔好奇；几片雪花在身边落下。开场独立画面，不出现小屋窗户或后续窗台雪花。",
+      "action": "皮皮站在安静的雪林小径中央，朝观众轻轻挥爪，神情温柔好奇；几片雪花在身边落下。开场独立画面，不出现小屋窗户或后续窗台雪花。",
+      "state_after": "皮皮站在安静的雪林小径中央，朝观众轻轻挥爪，神情温柔好奇；几片雪花在身边落下。开场独立画面，不出现小屋窗户或后续窗台雪花。",
+      "transition_from": null,
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "01",
+      "location": "林间空地",
+      "time_of_day": "初雪傍晚",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "LOC_SNOW_FOREST_01"
+      ],
+      "state_before": "皮皮抬头安静看着空中一片小雪花，耳朵自然下垂、眼神专注，周围有稀疏初雪和深蓝暮色；独立开场插画，不画室内窗台与故事动作。",
+      "action": "皮皮抬头安静看着空中一片小雪花，耳朵自然下垂、眼神专注，周围有稀疏初雪和深蓝暮色；独立开场插画，不画室内窗台与故事动作。",
+      "state_after": "皮皮抬头安静看着空中一片小雪花，耳朵自然下垂、眼神专注，周围有稀疏初雪和深蓝暮色；独立开场插画，不画室内窗台与故事动作。",
+      "transition_from": "00",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "02",
+      "location": "森林远景",
+      "time_of_day": "静悄悄的傍晚",
+      "present_characters": [],
+      "asset_ids": [
+        "LOC_SNOW_FOREST_01"
+      ],
+      "state_before": "森林小屋和远处树影笼在灰蓝暮色里，第一场细雪轻轻落下，安静空镜，无人物。",
+      "action": "森林小屋和远处树影笼在灰蓝暮色里，第一场细雪轻轻落下，安静空镜，无人物。",
+      "state_after": "森林小屋和远处树影笼在灰蓝暮色里，第一场细雪轻轻落下，安静空镜，无人物。",
+      "transition_from": "01",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "03",
+      "location": "白天回忆·森林学堂",
+      "time_of_day": "白天回忆",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "LOC_SCHOOL_01"
+      ],
+      "state_before": "皮皮穿日常米色上衣、灰蓝短背带裤，坐在学堂靠窗课桌旁，认真望着灰蒙蒙的天空；课堂安静，老师只在画外，不出现其他角色。",
+      "action": "皮皮穿日常米色上衣、灰蓝短背带裤，独自坐在小型森林学堂课桌旁，认真望向灰蒙蒙的窗外天空。室内有几排空木课桌和黑板，画面明确是教室；山羊老师只在画外，不画其他人物。",
+      "state_after": "皮皮穿日常米色上衣、灰蓝短背带裤，独自坐在小型森林学堂课桌旁，认真望向灰蒙蒙的窗外天空。室内有几排空木课桌和黑板，画面明确是教室；山羊老师只在画外，不画其他人物。",
+      "transition_from": "02",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "04",
+      "location": "小木屋外",
+      "time_of_day": "傍晚",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "LOC_CABIN_01"
+      ],
+      "state_before": "皮皮背着小黄书包走到自己温暖的小木屋门前，抬眼看灰蓝天空，神情平和；没有其他角色。",
+      "action": "皮皮背着小黄书包走到自己温暖的小木屋门前，抬眼看灰蓝天空，神情平和；没有其他角色。",
+      "state_after": "皮皮背着小黄书包走到自己温暖的小木屋门前，抬眼看灰蓝天空，神情平和；没有其他角色。",
+      "transition_from": "03",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "05",
+      "location": "小木屋餐桌",
+      "time_of_day": "入夜初雪",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "LOC_CABIN_01",
+        "WIN_WINDOW_01",
+        "PROP_SOUP_BOWL_01"
+      ],
+      "state_before": "皮皮已回到屋内，坐在木桌旁喝完一碗热乎萝卜汤；身后同一扇窗外开始飘细雪，皮皮转头惊喜看向窗外。",
+      "action": "皮皮已回到屋内，坐在木桌旁喝完一碗热乎萝卜汤；身后同一扇窗外开始飘细雪，皮皮转头惊喜看向窗外。",
+      "state_after": "皮皮已回到屋内，坐在木桌旁喝完一碗热乎萝卜汤；身后同一扇窗外开始飘细雪，皮皮转头惊喜看向窗外。",
+      "transition_from": "04",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "06",
+      "location": "卧室",
+      "time_of_day": "夜晚",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "LOC_BEDROOM_01",
+        "WIN_WINDOW_01",
+        "PROP_CHAIR_01",
+        "PROP_BEDSIDE_LAMP_01"
+      ],
+      "state_before": "皮皮兴奋地把同一把矮木椅搬到卧室窗前，暖黄色床头灯照亮房间，透过玻璃能看见雪；专注又开心。",
+      "action": "皮皮兴奋地把同一把矮木椅搬到卧室窗前，暖黄色床头灯照亮房间，透过玻璃能看见雪；专注又开心。",
+      "state_after": "皮皮兴奋地把同一把矮木椅搬到卧室窗前，暖黄色床头灯照亮房间，透过玻璃能看见雪；专注又开心。",
+      "transition_from": "05",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "07",
+      "location": "卧室窗前",
+      "time_of_day": "夜晚",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "LOC_BEDROOM_01",
+        "WIN_WINDOW_01",
+        "PROP_CHAIR_01",
+        "PROP_BEDSIDE_LAMP_01"
+      ],
+      "state_before": "皮皮坐在窗前小木椅上，隔着关闭的透明玻璃往外看，眼睛明亮好奇；固定窗框与木窗台，床头灯温暖。",
+      "action": "皮皮坐在窗前小木椅上，隔着关闭的透明玻璃往外看，眼睛明亮好奇；固定窗框与木窗台，床头灯温暖。",
+      "state_after": "皮皮坐在窗前小木椅上，隔着关闭的透明玻璃往外看，眼睛明亮好奇；固定窗框与木窗台，床头灯温暖。",
+      "transition_from": "06",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "08",
+      "location": "窗外·木窗台",
+      "time_of_day": "夜晚",
+      "present_characters": [],
+      "asset_ids": [
+        "WIN_WINDOW_01",
+        "SNOWFLAKE_A"
+      ],
+      "state_before": "一片小巧、清楚可见的六角对称雪晶从深蓝夜空缓缓旋落，靠近窗边；不画文字、符号或第二片雪花。",
+      "action": "镜头从室外近距离拍同一扇木窗的原木窗台和木框。一片仅约5毫米的白色六角雪晶正轻轻旋落到窗台边缘，雪晶很小、羽状六臂清楚，深蓝夜色虚化；不要完整室内景，不要巨型雪花。",
+      "state_after": "镜头从室外近距离拍同一扇木窗的原木窗台和木框。一片仅约5毫米的白色六角雪晶正轻轻旋落到窗台边缘，雪晶很小、羽状六臂清楚，深蓝夜色虚化；不要完整室内景，不要巨型雪花。",
+      "transition_from": "07",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "09",
+      "location": "窗外·雪晶微距",
+      "time_of_day": "夜晚",
+      "present_characters": [],
+      "asset_ids": [
+        "WIN_WINDOW_01",
+        "SNOWFLAKE_A"
+      ],
+      "state_before": "同一片小雪晶轻轻落在窗外原木窗台边缘，窗玻璃和木框清晰可见；只一片雪花，保持完整六角晶形。",
+      "action": "微距拍摄同一片约5毫米的完整六角雪晶，清楚呈现六条对称主枝及羽毛状细边，木窗台纹理在背景中虚化并提供比例，柔暖窗光映在木边；它仍是很小的雪晶。",
+      "state_after": "微距拍摄同一片约5毫米的完整六角雪晶，清楚呈现六条对称主枝及羽毛状细边，木窗台纹理在背景中虚化并提供比例，柔暖窗光映在木边；它仍是很小的雪晶。",
+      "transition_from": "08",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "10",
+      "location": "卧室·窗前",
+      "time_of_day": "夜晚",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "SNOWFLAKE_A"
+      ],
+      "state_before": "微距呈现同一片精致六角雪晶，六条主枝对称，细小羽毛状分枝清晰自然，背景柔和虚化；保持真实冰晶形态。",
+      "action": "皮皮坐在小木椅上，隔着关闭的玻璃温柔欣赏窗台外一片很小的完整雪晶，神情喜爱而安静，视线落在雪晶上；窗框和同一木椅连续，雪晶小于皮皮粉鼻的大小。",
+      "state_after": "皮皮坐在小木椅上，隔着关闭的玻璃温柔欣赏窗台外一片很小的完整雪晶，神情喜爱而安静，视线落在雪晶上；窗框和同一木椅连续，雪晶小于皮皮粉鼻的大小。",
+      "transition_from": "09",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "11",
+      "location": "卧室·窗前",
+      "time_of_day": "夜晚",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "WIN_WINDOW_01",
+        "SNOWFLAKE_A"
+      ],
+      "state_before": "同一雪晶像安静的小白花般停在原木窗台外，室内暖光透过玻璃；窗内远处皮皮凝神欣赏，轮廓柔和。",
+      "action": "皮皮仍坐在前一镜同一把矮木椅上，身体微微前倾，小爪握住窗栓，期待地望向窗外 tiny snow crystal；双脚留在椅子前方，不站到床上，窗户仍关闭。",
+      "state_after": "皮皮仍坐在前一镜同一把矮木椅上，身体微微前倾，小爪握住窗栓，期待地望向窗外 tiny snow crystal；双脚留在椅子前方，不站到床上，窗户仍关闭。",
+      "transition_from": "10",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "12",
+      "location": "卧室窗前",
+      "time_of_day": "夜晚",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "WIN_WINDOW_01",
+        "PROP_CHAIR_01",
+        "SNOWFLAKE_A"
+      ],
+      "state_before": "皮皮坐在小木椅上，喜欢地注视雪晶，小爪伸向同一扇木窗的窗栓，身体微微前倾；窗保持关闭。",
+      "action": "皮皮坐在小木椅上，喜欢地注视雪晶，小爪伸向同一扇木窗的窗栓，身体微微前倾；窗保持关闭。",
+      "state_after": "皮皮坐在小木椅上，喜欢地注视雪晶，小爪伸向同一扇木窗的窗栓，身体微微前倾；窗保持关闭。",
+      "transition_from": "11",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "13",
+      "location": "卧室·窗前",
+      "time_of_day": "夜晚",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "WIN_WINDOW_01",
+        "SNOWFLAKE_A"
+      ],
+      "state_before": "皮皮的小爪握住窗栓，窗扇刚开始向内松动但仍几乎关闭，眼神期待地望向窗外雪晶；不要画雪晶进入室内。",
+      "action": "皮皮坐在同一把矮木椅上，身体靠近窗边，爪尖刚刚接触木窗框，动作停住；另一只爪收在身侧，神情由期待转为思索。窗扇关闭，雪晶仍在窗外且完整。",
+      "state_after": "皮皮坐在同一把矮木椅上，身体靠近窗边，爪尖刚刚接触木窗框，动作停住；另一只爪收在身侧，神情由期待转为思索。窗扇关闭，雪晶仍在窗外且完整。",
+      "transition_from": "12",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "14",
+      "location": "卧室·暖炉旁",
+      "time_of_day": "夜晚",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "WIN_WINDOW_01",
+        "SNOWFLAKE_A"
+      ],
+      "state_before": "皮皮爪尖刚碰到木窗框便停住，眉眼从喜爱转为思考，耳朵仍自然下垂；窗扇保持原位，雪晶还在窗外。",
+      "action": "皮皮仍坐在同一把矮木椅上安静思考，视线从窗外雪晶转向卧室里发出柔和光线的小暖炉。窗和木椅可见；不出现文字、老师或对话框。",
+      "state_after": "皮皮仍坐在同一把矮木椅上安静思考，视线从窗外雪晶转向卧室里发出柔和光线的小暖炉。窗和木椅可见；不出现文字、老师或对话框。",
+      "transition_from": "13",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "15",
+      "location": "卧室·窗前",
+      "time_of_day": "夜晚",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "WIN_WINDOW_01",
+        "PROP_HEATER_01",
+        "SNOWFLAKE_A"
+      ],
+      "state_before": "皮皮收住动作，安静思索，视线从窗外雪晶转向屋内暖炉；暖炉在背景低处柔和发光，不出现想象泡泡或文字。",
+      "action": "皮皮坐在窗前同一把木椅上，一只空爪收在胸前，望向窗外完整的微小雪晶；暖黄室内灯与冷蓝室外形成对照，画面表达雪花留在冷处更安全，不画雪晶进入手心。",
+      "state_after": "皮皮坐在窗前同一把木椅上，一只空爪收在胸前，望向窗外完整的微小雪晶；暖黄室内灯与冷蓝室外形成对照，画面表达雪花留在冷处更安全，不画雪晶进入手心。",
+      "transition_from": "14",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "16",
+      "location": "窗内外对照",
+      "time_of_day": "夜晚",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "WIN_WINDOW_01",
+        "SNOWFLAKE_A",
+        "PROP_BEDSIDE_LAMP_01"
+      ],
+      "state_before": "透过关闭的窗玻璃呈现室内暖黄灯光与窗外冷蓝雪夜的温差；皮皮看着雪晶，保持克制、理解的神情。",
+      "action": "同一扇关闭的玻璃窗分隔暖黄卧室和冷蓝雪夜：室内近处是皮皮放松的空手，室外窗台上的微小完整雪晶保持原样；不出现水滴、融化、手掌抓雪或巨型雪花。",
+      "state_after": "同一扇关闭的玻璃窗分隔暖黄卧室和冷蓝雪夜：室内近处是皮皮放松的空手，室外窗台上的微小完整雪晶保持原样；不出现水滴、融化、手掌抓雪或巨型雪花。",
+      "transition_from": "15",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "17",
+      "location": "卧室·窗前",
+      "time_of_day": "夜晚",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "WIN_WINDOW_01",
+        "SNOWFLAKE_A"
+      ],
+      "state_before": "皮皮把小爪从窗栓处收回，轻轻摊开空爪看一眼，再望向窗外完整雪晶；动作平静，不出现融化水滴或雪花进屋。",
+      "action": "皮皮坐在同一把木椅上，刚把爪子从窗栓处收回并放在自己身侧，肩膀放松，隔着洁净玻璃安静看窗外的小雪晶；窗户完全关闭，雪晶完整。",
+      "state_after": "皮皮坐在同一把木椅上，刚把爪子从窗栓处收回并放在自己身侧，肩膀放松，隔着洁净玻璃安静看窗外的小雪晶；窗户完全关闭，雪晶完整。",
+      "transition_from": "16",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "18",
+      "location": "卧室·窗前",
+      "time_of_day": "夜晚",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "WIN_WINDOW_01",
+        "PROP_CHAIR_01",
+        "SNOWFLAKE_A"
+      ],
+      "state_before": "皮皮坐回小木椅，背部放松，隔着干净透明玻璃温柔注视停在窗台外的第一片雪晶，窗关闭。",
+      "action": "皮皮坐在同一把木椅上安静看第一片微小雪晶；第二片独立的小雪晶刚从窗外夜空开始落下，尚未到达窗台，皮皮神情温柔专注，玻璃关闭。",
+      "state_after": "皮皮坐在同一把木椅上安静看第一片微小雪晶；第二片独立的小雪晶刚从窗外夜空开始落下，尚未到达窗台，皮皮神情温柔专注，玻璃关闭。",
+      "transition_from": "17",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "19",
+      "location": "窗外夜空",
+      "time_of_day": "夜晚",
+      "present_characters": [],
+      "asset_ids": [
+        "WIN_WINDOW_01",
+        "SNOWFLAKE_A",
+        "SNOWFLAKE_B"
+      ],
+      "state_before": "第二片晶莹六角雪晶从空中轻轻落向窗台，第一片已停在木边前景；两片轮廓分明、未接触前。",
+      "action": "第二片晶莹六角雪晶从空中轻轻落向窗台，第一片已停在木边前景；两片轮廓分明、未接触前。",
+      "state_after": "第二片晶莹六角雪晶从空中轻轻落向窗台，第一片已停在木边前景；两片轮廓分明、未接触前。",
+      "transition_from": "18",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "20",
+      "location": "窗台外侧",
+      "time_of_day": "夜晚",
+      "present_characters": [],
+      "asset_ids": [
+        "WIN_WINDOW_01",
+        "SNOWFLAKE_A",
+        "SNOWFLAKE_B"
+      ],
+      "state_before": "两片不同的完整六角雪晶轻轻并排停在同一原木窗台上，彼此紧邻但仍各自完整；透过玻璃可见温暖室内。",
+      "action": "两片不同的完整六角雪晶轻轻并排停在同一原木窗台上，彼此紧邻但仍各自完整；透过玻璃可见温暖室内。",
+      "state_after": "两片不同的完整六角雪晶轻轻并排停在同一原木窗台上，彼此紧邻但仍各自完整；透过玻璃可见温暖室内。",
+      "transition_from": "19",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "21",
+      "location": "卧室·窗边",
+      "time_of_day": "夜晚",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "WIN_WINDOW_01",
+        "SNOWFLAKE_A",
+        "SNOWFLAKE_B"
+      ],
+      "state_before": "两片完整雪晶安安静静留在冷蓝夜色的窗台上，没有融化，细小冰晶边缘清楚；小屋暖光柔和虚化。",
+      "action": "皮皮仍坐在窗前同一把矮木椅上，身子稍侧向旁边的床，伸爪轻轻碰到床边暖黄色毛毯一角，同时回头看窗外两片微小雪晶；必须清楚看见皮皮和木椅，不能让皮皮坐上床。",
+      "state_after": "皮皮仍坐在窗前同一把矮木椅上，身子稍侧向旁边的床，伸爪轻轻碰到床边暖黄色毛毯一角，同时回头看窗外两片微小雪晶；必须清楚看见皮皮和木椅，不能让皮皮坐上床。",
+      "transition_from": "20",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "22",
+      "location": "卧室·窗前",
+      "time_of_day": "夜晚",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "LOC_BEDROOM_01",
+        "PROP_BED_01",
+        "PROP_BLANKET_01",
+        "WIN_WINDOW_01",
+        "SNOWFLAKE_A",
+        "SNOWFLAKE_B"
+      ],
+      "state_before": "皮皮坐在床边，伸爪轻轻摸着同一条暖黄色毛毯，回头望向窗边两片雪晶，神情柔和放松。",
+      "action": "通过真实关闭的木框玻璃窗自然呈现室内外：皮皮坐在木椅上，暖黄毛毯在床上；窗外两片小雪晶并排停在原木窗台。皮皮安静看雪，兔子和雪晶各在适合自己的地方。",
+      "state_after": "通过真实关闭的木框玻璃窗自然呈现室内外：皮皮坐在木椅上，暖黄毛毯在床上；窗外两片小雪晶并排停在原木窗台。皮皮安静看雪，兔子和雪晶各在适合自己的地方。",
+      "transition_from": "21",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "23",
+      "location": "卧室·靠墙",
+      "time_of_day": "夜晚",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "LOC_BEDROOM_01",
+        "PROP_CHAIR_01",
+        "WIN_WINDOW_01",
+        "SNOWFLAKE_A",
+        "SNOWFLAKE_B"
+      ],
+      "state_before": "画面通过真实的窗框自然连接室内的皮皮与窗外窗台上的两片雪晶；皮皮安坐屋内，雪晶在窗外，彼此不打扰。",
+      "action": "皮皮打一个小哈欠，站在地板上用双爪把同一把矮木椅推回靠墙的原位；床上此时没有皮皮，窗外两片雪晶仍完整。动作明显是把椅子推走，不坐在床边。",
+      "state_after": "皮皮打一个小哈欠，站在地板上用双爪把同一把矮木椅推回靠墙的原位；床上此时没有皮皮，窗外两片雪晶仍完整。动作明显是把椅子推走，不坐在床边。",
+      "transition_from": "22",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "24",
+      "location": "卧室",
+      "time_of_day": "夜晚",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "LOC_BEDROOM_01",
+        "PROP_CHAIR_01",
+        "WIN_WINDOW_01",
+        "SNOWFLAKE_A",
+        "SNOWFLAKE_B"
+      ],
+      "state_before": "皮皮打个小哈欠，双爪把那把矮木椅沿地面推回它靠墙的原位，神情困倦舒缓；两片雪晶仍在窗外。",
+      "action": "木椅已靠墙归位，皮皮坐在床沿，双爪放松，神情困倦；它不再趴在窗前，也不再碰木椅。窗外两片雪晶仍完整停在窗台。",
+      "state_after": "木椅已靠墙归位，皮皮坐在床沿，双爪放松，神情困倦；它不再趴在窗前，也不再碰木椅。窗外两片雪晶仍完整停在窗台。",
+      "transition_from": "23",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "25",
+      "location": "床边",
+      "time_of_day": "夜晚",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "LOC_BEDROOM_01",
+        "PROP_CHAIR_01",
+        "PROP_BED_01",
+        "WIN_WINDOW_01",
+        "SNOWFLAKE_A",
+        "SNOWFLAKE_B"
+      ],
+      "state_before": "皮皮从窗前离开后坐在床沿，身体朝床铺转向，不再盯着窗外；窗边木椅已回到靠墙原位。",
+      "action": "皮皮从窗前离开后坐在床沿，身体朝床铺转向，不再盯着窗外；窗边木椅已回到靠墙原位。",
+      "state_after": "皮皮从窗前离开后坐在床沿，身体朝床铺转向，不再盯着窗外；窗边木椅已回到靠墙原位。",
+      "transition_from": "24",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "26",
+      "location": "床边",
+      "time_of_day": "夜晚",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "PROP_BED_01",
+        "PROP_CARROT_TOY_01",
+        "PROP_SLEEP_CAP_01",
+        "WIN_WINDOW_01",
+        "SNOWFLAKE_A",
+        "SNOWFLAKE_B"
+      ],
+      "state_before": "皮皮坐在床沿，双爪抱起固定的橙色胡萝卜布偶；枕头旁放着一顶深蓝星星睡帽，他动作轻柔，脸上安心。",
+      "action": "皮皮坐在床沿，双爪抱起固定的橙色胡萝卜布偶；枕头旁放着一顶深蓝星星睡帽，他动作轻柔，脸上安心。",
+      "state_after": "皮皮坐在床沿，双爪抱起固定的橙色胡萝卜布偶；枕头旁放着一顶深蓝星星睡帽，他动作轻柔，脸上安心。",
+      "transition_from": "25",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "27",
+      "location": "床边望窗",
+      "time_of_day": "夜晚",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "PROP_CARROT_TOY_01",
+        "PROP_SLEEP_CAP_01",
+        "PROP_BED_01",
+        "WIN_WINDOW_01",
+        "SNOWFLAKE_A",
+        "SNOWFLAKE_B"
+      ],
+      "state_before": "皮皮抱着胡萝卜玩偶，平静望向窗外两片雪晶，眼神里有柔和的雪白反光；睡帽仍放在枕头边。",
+      "action": "皮皮抱着胡萝卜玩偶，平静望向窗外两片雪晶，眼神里有柔和的雪白反光；睡帽仍放在枕头边。",
+      "state_after": "皮皮抱着胡萝卜玩偶，平静望向窗外两片雪晶，眼神里有柔和的雪白反光；睡帽仍放在枕头边。",
+      "transition_from": "26",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "28",
+      "location": "床上",
+      "time_of_day": "深夜",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "PROP_CARROT_TOY_01",
+        "PROP_BED_01",
+        "PROP_BLANKET_01",
+        "WIN_WINDOW_01",
+        "SNOWFLAKE_A",
+        "SNOWFLAKE_B"
+      ],
+      "state_before": "皮皮已安稳躺在床上，胡萝卜玩偶抱在胸前，眼睛轻轻闭上；窗边两片雪晶仍完整，室内灯光调暗。",
+      "action": "皮皮已安稳躺在床上，胡萝卜玩偶抱在胸前，眼睛轻轻闭上；窗边两片雪晶仍完整，室内灯光调暗。",
+      "state_after": "皮皮已安稳躺在床上，胡萝卜玩偶抱在胸前，眼睛轻轻闭上；窗边两片雪晶仍完整，室内灯光调暗。",
+      "transition_from": "27",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "29",
+      "location": "卧室全景",
+      "time_of_day": "深夜",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "LOC_BEDROOM_01",
+        "PROP_BED_01",
+        "PROP_BLANKET_01",
+        "WIN_WINDOW_01",
+        "SNOWFLAKE_A",
+        "SNOWFLAKE_B"
+      ],
+      "state_before": "安静卧室全景：皮皮在床上熟睡，暖黄色毛毯盖好；窗外持续下着细雪，两片雪晶在窗台外，屋顶或窗外不出现拟人化云朵。",
+      "action": "安静卧室全景：皮皮在床上熟睡，暖黄色毛毯盖好；窗外持续下着细雪，两片雪晶在窗台外，屋顶或窗外不出现拟人化云朵。",
+      "state_after": "安静卧室全景：皮皮在床上熟睡，暖黄色毛毯盖好；窗外持续下着细雪，两片雪晶在窗台外，屋顶或窗外不出现拟人化云朵。",
+      "transition_from": "28",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "30",
+      "location": "卧室窗边",
+      "time_of_day": "深夜",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "LOC_BEDROOM_01",
+        "PROP_BED_01",
+        "WIN_WINDOW_01",
+        "SNOWFLAKE_A",
+        "SNOWFLAKE_B"
+      ],
+      "state_before": "皮皮安静躺在床上，胡萝卜玩偶在怀里；两片雪晶仍在窗外完整并排。",
+      "action": "皮皮安静躺在床上，胡萝卜玩偶在怀里；两片雪晶仍在窗外完整并排。",
+      "state_after": "皮皮安静躺在床上，胡萝卜玩偶在怀里；两片雪晶仍在窗外完整并排。",
+      "transition_from": "29",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "31",
+      "location": "卧室窗边",
+      "time_of_day": "深夜",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "LOC_BEDROOM_01",
+        "PROP_BED_01",
+        "WIN_WINDOW_01",
+        "SNOWFLAKE_A",
+        "SNOWFLAKE_B"
+      ],
+      "state_before": "皮皮已经躺好并闭上眼。",
+      "action": "皮皮熟睡，窗外雪静静落下，雪晶仍在窗台。",
+      "state_after": "皮皮安稳熟睡，雪晶仍完整留在窗外。",
+      "transition_from": "30",
+      "image_status": "reviewed_pass"
+    }
+  ],
+  "preflight": {
+    "textual_pass_1": "pass: followed each shot in order; no unexplained character or location jumps",
+    "textual_pass_2": "pass: fixed window, chair, lamp, blanket, plush toy, sleep cap and two distinct snowflakes retain stable identities and states",
+    "image_review": "revisions in progress following full contact-sheet review",
+    "notes": "The school teacher is referenced in narration but not pictured; the sleep cap is placed on the pillow and not worn. Snowflake A and B remain outside the closed window without melting.",
+    "ending": "The narrated final “晚安” is isolated in its own closing shot, followed by 8 seconds of quiet tail."
+  }
+}

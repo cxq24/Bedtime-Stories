@@ -1,0 +1,428 @@
+[
+  {
+    "id": "p000_u01",
+    "paragraph_id": "p000",
+    "text": "小朋友们，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p000_u02",
+    "paragraph_id": "p000",
+    "text": "准备好听故事了吗？",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p000_u03",
+    "paragraph_id": "p000",
+    "text": "今天的故事叫《雪花落在窗边》。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p000_u04",
+    "paragraph_id": "p000",
+    "text": "初雪落在窗边，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p000_u05",
+    "paragraph_id": "p000",
+    "text": "皮皮会怎样安静地看一会儿呢？",
+    "pause_after_s": 0.95
+  },
+  {
+    "id": "p001_u01",
+    "paragraph_id": "p001",
+    "text": "森林里的第一场初雪，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p001_u02",
+    "paragraph_id": "p001",
+    "text": "是在一个静悄悄的傍晚落下来的。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p001_u03",
+    "paragraph_id": "p001",
+    "text": "\n白天在森林学堂的时候，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p001_u04",
+    "paragraph_id": "p001",
+    "text": "天空还只是灰蒙蒙的，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p001_u05",
+    "paragraph_id": "p001",
+    "text": "山羊老师提醒大家放学早点回家。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p001_u06",
+    "paragraph_id": "p001",
+    "text": "等皮皮回到小木屋，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p001_u07",
+    "paragraph_id": "p001",
+    "text": "喝完一碗热乎乎的萝卜汤时，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p001_u08",
+    "paragraph_id": "p001",
+    "text": "窗外忽然飘起了细细密密的小雪花。",
+    "pause_after_s": 0.95
+  },
+  {
+    "id": "p002_u01",
+    "paragraph_id": "p002",
+    "text": "这是今年冬天的第一场雪呀！",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p002_u02",
+    "paragraph_id": "p002",
+    "text": "皮皮兴奋地搬来小木椅，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p002_u03",
+    "paragraph_id": "p002",
+    "text": "坐在卧室温暖的床头灯旁，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p002_u04",
+    "paragraph_id": "p002",
+    "text": "隔着窗户往外看。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p002_u05",
+    "paragraph_id": "p002",
+    "text": "\n只见一片小小的、六角形的雪花，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p002_u06",
+    "paragraph_id": "p002",
+    "text": "打着旋儿从夜空中落下来，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p002_u07",
+    "paragraph_id": "p002",
+    "text": "刚好停在了窗台外侧的原木边缘上。",
+    "pause_after_s": 0.95
+  },
+  {
+    "id": "p003_u01",
+    "paragraph_id": "p003",
+    "text": "那片雪花真是小巧又精致，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p003_u02",
+    "paragraph_id": "p003",
+    "text": "有六道细细的、像羽毛一样对称的花边，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p003_u03",
+    "paragraph_id": "p003",
+    "text": "看起来就像一朵没有发出任何声音的小白花。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p003_u04",
+    "paragraph_id": "p003",
+    "text": "\n皮皮看得喜欢极了，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p003_u05",
+    "paragraph_id": "p003",
+    "text": "他下意识地伸出小爪子握住窗栓，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p003_u06",
+    "paragraph_id": "p003",
+    "text": "想把窗户推开，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p003_u07",
+    "paragraph_id": "p003",
+    "text": "把这朵漂亮的雪花捧进屋里来仔细看。",
+    "pause_after_s": 0.95
+  },
+  {
+    "id": "p004_u01",
+    "paragraph_id": "p004",
+    "text": "可是，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p004_u02",
+    "paragraph_id": "p004",
+    "text": "皮皮的爪子刚碰到微凉的窗框，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p004_u03",
+    "paragraph_id": "p004",
+    "text": "就停住了。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p004_u04",
+    "paragraph_id": "p004",
+    "text": "\n他想起了科学课上老师讲过的知识：屋里烧着暖炉，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p004_u05",
+    "paragraph_id": "p004",
+    "text": "暖烘烘的，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p004_u06",
+    "paragraph_id": "p004",
+    "text": "雪花宝宝最怕热了；",
+    "pause_after_s": 0.5
+  },
+  {
+    "id": "p004_u07",
+    "paragraph_id": "p004",
+    "text": "如果把它抓进热乎乎的手心里，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p004_u08",
+    "paragraph_id": "p004",
+    "text": "它马上就会化成一滴小水珠消失不见的。",
+    "pause_after_s": 0.95
+  },
+  {
+    "id": "p005_u01",
+    "paragraph_id": "p005",
+    "text": "于是，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p005_u02",
+    "paragraph_id": "p005",
+    "text": "皮皮收回了推窗的爪子，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p005_u03",
+    "paragraph_id": "p005",
+    "text": "只是安安静静地隔着干净透明的玻璃，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p005_u04",
+    "paragraph_id": "p005",
+    "text": "温柔地看了那片雪花一会儿。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p005_u05",
+    "paragraph_id": "p005",
+    "text": "\n就在这时，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p005_u06",
+    "paragraph_id": "p005",
+    "text": "又有一片晶莹的雪花从天上落下来，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p005_u07",
+    "paragraph_id": "p005",
+    "text": "轻轻地靠在了第一片雪花的旁边。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p005_u08",
+    "paragraph_id": "p005",
+    "text": "两朵精致的小白花挨在一起，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p005_u09",
+    "paragraph_id": "p005",
+    "text": "在窗外的冷空气里完好无损地、安安静静地待着。",
+    "pause_after_s": 0.95
+  },
+  {
+    "id": "p006_u01",
+    "paragraph_id": "p006",
+    "text": "皮皮摸了摸屋里暖黄色的毛毯，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p006_u02",
+    "paragraph_id": "p006",
+    "text": "它是那么暖和；",
+    "pause_after_s": 0.5
+  },
+  {
+    "id": "p006_u03",
+    "paragraph_id": "p006",
+    "text": "又看了看窗外的雪花，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p006_u04",
+    "paragraph_id": "p006",
+    "text": "它是那么轻盈。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p006_u05",
+    "paragraph_id": "p006",
+    "text": "屋里的兔子和窗外的雪花，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p006_u06",
+    "paragraph_id": "p006",
+    "text": "都待在最适合自己的地方，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p006_u07",
+    "paragraph_id": "p006",
+    "text": "谁也没有打扰谁。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p006_u08",
+    "paragraph_id": "p006",
+    "text": "\n看了一会儿，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p006_u09",
+    "paragraph_id": "p006",
+    "text": "皮皮打了个哈欠，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p006_u10",
+    "paragraph_id": "p006",
+    "text": "把小木椅推回原位，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p006_u11",
+    "paragraph_id": "p006",
+    "text": "走到床沿坐下。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p006_u12",
+    "paragraph_id": "p006",
+    "text": "他不再趴在窗前等着看下一片雪花会落在哪里了。",
+    "pause_after_s": 0.95
+  },
+  {
+    "id": "p007_u01",
+    "paragraph_id": "p007",
+    "text": "他抱起胡萝卜玩偶，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p007_u02",
+    "paragraph_id": "p007",
+    "text": "把软软的睡帽尖摆到枕头边。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p007_u03",
+    "paragraph_id": "p007",
+    "text": "窗外那两朵漂亮的雪白小花，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p007_u04",
+    "paragraph_id": "p007",
+    "text": "已经印在了他的眼睛里，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p007_u05",
+    "paragraph_id": "p007",
+    "text": "轻轻地留在了心里。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p007_u06",
+    "paragraph_id": "p007",
+    "text": "\n皮皮的眼睛慢慢闭上，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p007_u07",
+    "paragraph_id": "p007",
+    "text": "窗外还在静静地下着雪。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p007_u08",
+    "paragraph_id": "p007",
+    "text": "整个房间安静极了，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p007_u09",
+    "paragraph_id": "p007",
+    "text": "就像屋顶上也盖了一层厚厚的、软绵绵的雪白云朵。",
+    "pause_after_s": 0.95
+  },
+  {
+    "id": "p008_u01",
+    "paragraph_id": "p008",
+    "text": "小朋友，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p008_u02",
+    "paragraph_id": "p008",
+    "text": "遇到喜欢的美好事物，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p008_u03",
+    "paragraph_id": "p008",
+    "text": "我们不需要把每一片雪花都抓在手里。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p008_u04",
+    "paragraph_id": "p008",
+    "text": "让舒服留在身边，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p008_u05",
+    "paragraph_id": "p008",
+    "text": "带着美丽的画面慢慢休息吧。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p008_u06",
+    "paragraph_id": "p008",
+    "text": "晚安。",
+    "pause_after_s": 0.95
+  }
+]

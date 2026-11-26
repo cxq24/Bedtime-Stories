@@ -1,0 +1,59 @@
+{
+  "text": "打着旋儿从夜空中落下来，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "dd984699245fbcc001cae9d6509154d0b7743c4cbadc3517c08ba5af36d2f9fc",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2884580,
+      "text": "打"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4153750,
+      "duration": 2115410,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6269160,
+      "duration": 5577080,
+      "text": "旋儿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13384580,
+      "duration": 2884580,
+      "text": "从"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16461660,
+      "duration": 5576660,
+      "text": "夜空"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22038330,
+      "duration": 2307500,
+      "text": "中"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24730830,
+      "duration": 2500000,
+      "text": "落"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27230830,
+      "duration": 6922910,
+      "text": "下来"
+    }
+  ]
+}

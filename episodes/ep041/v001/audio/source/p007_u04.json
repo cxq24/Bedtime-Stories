@@ -1,0 +1,59 @@
+{
+  "text": "已经印在了他的眼睛里，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "8e02a5c362b13cf100f526c7089de6170bed7d52d12d1c72f880dda621eebfc2",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4807500,
+      "text": "已经"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6269160,
+      "duration": 3846250,
+      "text": "印"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10115410,
+      "duration": 2692080,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12807500,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14538330,
+      "duration": 1922910,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16461660,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18192500,
+      "duration": 7884580,
+      "text": "眼睛"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26077080,
+      "duration": 4230830,
+      "text": "里"
+    }
+  ]
+}

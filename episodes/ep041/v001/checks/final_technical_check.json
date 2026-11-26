@@ -1,0 +1,49 @@
+{
+  "episode": "ep041",
+  "checked_on": "2026-11-26",
+  "status": "pass",
+  "video_specs": {
+    "resolution": "1080x1920",
+    "fps": 25,
+    "duration_s": 286.24,
+    "frames": 7156,
+    "video_codec": "H.264",
+    "audio_codec": "AAC",
+    "audio_sample_rate_hz": 48000,
+    "audio_channels": 1
+  },
+  "files": {
+    "publish": "Outputs/2026-11-26/ep041-v001/ep041.mp4",
+    "clean": "Outputs/2026-11-26/ep041-v001/ep041_clean.mp4"
+  },
+  "full_decode": {
+    "publish": "pass",
+    "clean": "pass",
+    "command": "ffmpeg -v error -i <video> -f null -"
+  },
+  "audio": {
+    "mix_peak": 0.5532616972923279,
+    "clipping": false,
+    "voice_duration_s": 278.24,
+    "ending_silence_s": 8,
+    "last_spoken_word_end_s": 277.0973323333333
+  },
+  "subtitles": {
+    "cues": 129,
+    "hanzi": 747,
+    "coverage": 1.0,
+    "coverage_check": "pass",
+    "phone_preview": "checks/phone_subtitle_preview.jpg",
+    "final_caption_end_s": 277.097,
+    "after_last_spoken_word": "clear; no text during ending silence"
+  },
+  "cover": {
+    "dimensions": "1080x1920",
+    "title": "皮皮看雪花",
+    "title_matches_three_platforms": true,
+    "thumbnail_review": "pass"
+  },
+  "image_review": "checks/image_review.json",
+  "human_full_audio_visual_review": "not_certified",
+  "user_acceptance": "pending"
+}

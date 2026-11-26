@@ -1,0 +1,53 @@
+{
+  "text": "皮皮会怎样安静地看一会儿呢？",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "8036b1d1a12d1ea9f29755d35d0f259a314ddee89600fb7d7e66c18bac2ea56f",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 7884580,
+      "text": "皮皮会"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9346250,
+      "duration": 5192500,
+      "text": "怎样"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14922910,
+      "duration": 5000000,
+      "text": "安静"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19922910,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21653750,
+      "duration": 3269160,
+      "text": "看"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25115410,
+      "duration": 4615410,
+      "text": "一会儿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29730830,
+      "duration": 3653750,
+      "text": "呢"
+    }
+  ]
+}

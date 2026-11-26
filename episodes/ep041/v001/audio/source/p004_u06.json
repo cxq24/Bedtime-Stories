@@ -1,0 +1,47 @@
+{
+  "text": "雪花宝宝最怕热了；",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "a595b368b5d4af6f7e333f8758bb40c4ce87fb5ca03e27c09005ecf98f43a3d7",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5961660,
+      "text": "雪花"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7422910,
+      "duration": 4422910,
+      "text": "宝宝"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12230830,
+      "duration": 2884580,
+      "text": "最"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15115410,
+      "duration": 3269160,
+      "text": "怕"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18384580,
+      "duration": 3653750,
+      "text": "热"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22038330,
+      "duration": 2884580,
+      "text": "了"
+    }
+  ]
+}

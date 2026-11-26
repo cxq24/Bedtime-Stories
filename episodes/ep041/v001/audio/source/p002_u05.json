@@ -1,0 +1,53 @@
+{
+  "text": "\n只见一片小小的、六角形的雪花，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "80618caad6b6b883bb2d42e66b0681871672ccf16afad9db914de63b229a8cdf",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5961660,
+      "text": "只见"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7422910,
+      "duration": 4615410,
+      "text": "一片"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12422910,
+      "duration": 7500000,
+      "text": "小小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19922910,
+      "duration": 3653750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27230830,
+      "duration": 7884580,
+      "text": "六角形"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35115410,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36653750,
+      "duration": 8077080,
+      "text": "雪花"
+    }
+  ]
+}

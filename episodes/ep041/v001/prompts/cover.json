@@ -1,0 +1,11 @@
+{
+  "title": "皮皮看雪花",
+  "prompt": "Portrait 9:16 gentle watercolor picture-book cover art with fine paper grain. Show the official warm-gray droop-eared rabbit Pipi sitting quietly in the warm wooden bedroom beside the same right-side window, gazing with curious calm at two delicate six-point snow crystals resting outside on the natural wooden sill. Strong warm golden bedside lamp versus cool blue snowy night. Keep Pipi’s face in upper half and keep bottom title-card zone visually quiet; no text, no letters, no symbols, no other characters, no collage. Match the official Pipi identity and day outfit reference; do not put the navy star cap on his head.",
+  "reference_images": [
+    "references/pipi_identity_v001.png",
+    "references/pipi_wardrobe_v001.png",
+    "references/snowy_bedroom_scene_ref.png",
+    "references/snowflake_reference.png"
+  ],
+  "status": "pending"
+}

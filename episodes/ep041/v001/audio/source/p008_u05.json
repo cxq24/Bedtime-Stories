@@ -1,0 +1,59 @@
+{
+  "text": "带着美丽的画面慢慢休息吧。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "3c6b6155034c1a0fd85b82a65caabec8b8c10956a823b9e4bae6422542044c1c",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2884580,
+      "text": "带"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4153750,
+      "duration": 1730830,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6269160,
+      "duration": 5000000,
+      "text": "美丽"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11269160,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13000000,
+      "duration": 8461660,
+      "text": "画面"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23000000,
+      "duration": 5192500,
+      "text": "慢慢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28384580,
+      "duration": 6346250,
+      "text": "休息"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34730830,
+      "duration": 3846250,
+      "text": "吧"
+    }
+  ]
+}

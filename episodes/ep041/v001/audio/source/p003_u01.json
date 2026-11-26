@@ -1,0 +1,53 @@
+{
+  "text": "那片雪花真是小巧又精致，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "6fb9927c4a17b9979dd57d64a688d3c09eecab631bbda83bf916fa8a47d177a6",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2307500,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3577080,
+      "duration": 2692500,
+      "text": "片"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6461660,
+      "duration": 7692500,
+      "text": "雪花"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15692500,
+      "duration": 4807500,
+      "text": "真是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20692500,
+      "duration": 5769160,
+      "text": "小巧"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26846250,
+      "duration": 2307500,
+      "text": "又"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29153750,
+      "duration": 7884580,
+      "text": "精致"
+    }
+  ]
+}

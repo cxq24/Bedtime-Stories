@@ -1,0 +1,672 @@
+{
+  "hanzi": 747,
+  "cues": 129,
+  "pinyin_coverage": 1.0,
+  "context_review": "completed_against_episode_text",
+  "target_font_px": {
+    "hanzi": 76,
+    "pinyin": 48
+  },
+  "libass_fontsize_calibration": {
+    "hanzi": 114,
+    "pinyin": 66,
+    "reason": "match actual rasterized glyph scale to bundled-font 76px/48px reference; libass normalizes font metrics"
+  },
+  "audio_pronunciation_listen_review": "not_certified",
+  "overrides": [
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "小朋友们，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "雪花落在窗边",
+      "pinyin": [
+        "xuě",
+        "huā",
+        "luò",
+        "zài",
+        "chuāng",
+        "biān"
+      ],
+      "context": "今天的故事叫《雪花落在窗边》。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "一会儿",
+      "pinyin": [
+        "yí",
+        "huìr",
+        "r"
+      ],
+      "context": "皮皮会怎样安静地看一会儿呢？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮会怎样安静地看一会儿呢？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "落下来",
+      "pinyin": [
+        "luò",
+        "xià",
+        "lái"
+      ],
+      "context": "是在一个静悄悄的傍晚落下来的。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "是在一个静悄悄的傍晚落下来的。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "学堂",
+      "pinyin": [
+        "xué",
+        "táng"
+      ],
+      "context": "\n白天在森林学堂的时候，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "山羊老师",
+      "pinyin": [
+        "shān",
+        "yáng",
+        "lǎo",
+        "shī"
+      ],
+      "context": "山羊老师提醒大家放学早点回家。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "提醒",
+      "pinyin": [
+        "tí",
+        "xǐng"
+      ],
+      "context": "山羊老师提醒大家放学早点回家。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "等皮皮回到小木屋，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "木屋",
+      "pinyin": [
+        "mù",
+        "wū"
+      ],
+      "context": "等皮皮回到小木屋，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "萝卜汤",
+      "pinyin": [
+        "luó",
+        "bo",
+        "tāng"
+      ],
+      "context": "喝完一碗热乎乎的萝卜汤时，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "窗外",
+      "pinyin": [
+        "chuāng",
+        "wài"
+      ],
+      "context": "窗外忽然飘起了细细密密的小雪花。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮兴奋地搬来小木椅，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "木椅",
+      "pinyin": [
+        "mù",
+        "yǐ"
+      ],
+      "context": "皮皮兴奋地搬来小木椅，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "床头灯",
+      "pinyin": [
+        "chuáng",
+        "tóu",
+        "dēng"
+      ],
+      "context": "坐在卧室温暖的床头灯旁，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "窗户",
+      "pinyin": [
+        "chuāng",
+        "hu"
+      ],
+      "context": "隔着窗户往外看。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "六角形",
+      "pinyin": [
+        "liù",
+        "jiǎo",
+        "xíng"
+      ],
+      "context": "\n只见一片小小的、六角形的雪花，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "落下来",
+      "pinyin": [
+        "luò",
+        "xià",
+        "lái"
+      ],
+      "context": "打着旋儿从夜空中落下来，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "旋儿",
+      "pinyin": [
+        "xuánr",
+        "r"
+      ],
+      "context": "打着旋儿从夜空中落下来，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "窗台",
+      "pinyin": [
+        "chuāng",
+        "tái"
+      ],
+      "context": "刚好停在了窗台外侧的原木边缘上。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "羽毛",
+      "pinyin": [
+        "yǔ",
+        "máo"
+      ],
+      "context": "有六道细细的、像羽毛一样对称的花边，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "小白花",
+      "pinyin": [
+        "xiǎo",
+        "bái",
+        "huā"
+      ],
+      "context": "看起来就像一朵没有发出任何声音的小白花。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "\n皮皮看得喜欢极了，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "爪子",
+      "pinyin": [
+        "zhuǎ",
+        "zi"
+      ],
+      "context": "他下意识地伸出小爪子握住窗栓，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "窗栓",
+      "pinyin": [
+        "chuāng",
+        "shuān"
+      ],
+      "context": "他下意识地伸出小爪子握住窗栓，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "窗户",
+      "pinyin": [
+        "chuāng",
+        "hu"
+      ],
+      "context": "想把窗户推开，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "漂亮",
+      "pinyin": [
+        "piào",
+        "liang"
+      ],
+      "context": "把这朵漂亮的雪花捧进屋里来仔细看。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "窗框",
+      "pinyin": [
+        "chuāng",
+        "kuàng"
+      ],
+      "context": "皮皮的爪子刚碰到微凉的窗框，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "爪子",
+      "pinyin": [
+        "zhuǎ",
+        "zi"
+      ],
+      "context": "皮皮的爪子刚碰到微凉的窗框，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮的爪子刚碰到微凉的窗框，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "科学课",
+      "pinyin": [
+        "kē",
+        "xué",
+        "kè"
+      ],
+      "context": "\n他想起了科学课上老师讲过的知识：屋里烧着暖炉，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "暖烘烘",
+      "pinyin": [
+        "nuǎn",
+        "hōng",
+        "hōng"
+      ],
+      "context": "暖烘烘的，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "雪花宝宝",
+      "pinyin": [
+        "xuě",
+        "huā",
+        "bǎo",
+        "bao"
+      ],
+      "context": "雪花宝宝最怕热了；",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "手心里",
+      "pinyin": [
+        "shǒu",
+        "xīn",
+        "lǐ"
+      ],
+      "context": "如果把它抓进热乎乎的手心里，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "消失不见",
+      "pinyin": [
+        "xiāo",
+        "shī",
+        "bú",
+        "jiàn"
+      ],
+      "context": "它马上就会化成一滴小水珠消失不见的。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "爪子",
+      "pinyin": [
+        "zhuǎ",
+        "zi"
+      ],
+      "context": "皮皮收回了推窗的爪子，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮收回了推窗的爪子，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "一会儿",
+      "pinyin": [
+        "yí",
+        "huìr",
+        "r"
+      ],
+      "context": "温柔地看了那片雪花一会儿。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "温柔地",
+      "pinyin": [
+        "wēn",
+        "róu",
+        "de"
+      ],
+      "context": "温柔地看了那片雪花一会儿。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "落下来",
+      "pinyin": [
+        "luò",
+        "xià",
+        "lái"
+      ],
+      "context": "又有一片晶莹的雪花从天上落下来，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "轻轻地",
+      "pinyin": [
+        "qīng",
+        "qīng",
+        "de"
+      ],
+      "context": "轻轻地靠在了第一片雪花的旁边。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "小白花",
+      "pinyin": [
+        "xiǎo",
+        "bái",
+        "huā"
+      ],
+      "context": "两朵精致的小白花挨在一起，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "窗外",
+      "pinyin": [
+        "chuāng",
+        "wài"
+      ],
+      "context": "在窗外的冷空气里完好无损地、安安静静地待着。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮摸了摸屋里暖黄色的毛毯，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "毛毯",
+      "pinyin": [
+        "máo",
+        "tǎn"
+      ],
+      "context": "皮皮摸了摸屋里暖黄色的毛毯，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "窗外",
+      "pinyin": [
+        "chuāng",
+        "wài"
+      ],
+      "context": "又看了看窗外的雪花，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "轻盈",
+      "pinyin": [
+        "qīng",
+        "yíng"
+      ],
+      "context": "它是那么轻盈。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "兔子",
+      "pinyin": [
+        "tù",
+        "zi"
+      ],
+      "context": "屋里的兔子和窗外的雪花，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "窗外",
+      "pinyin": [
+        "chuāng",
+        "wài"
+      ],
+      "context": "屋里的兔子和窗外的雪花，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "地方",
+      "pinyin": [
+        "dì",
+        "fang"
+      ],
+      "context": "都待在最适合自己的地方，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "一会儿",
+      "pinyin": [
+        "yí",
+        "huìr",
+        "r"
+      ],
+      "context": "\n看了一会儿，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮打了个哈欠，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "皮皮打了个哈欠，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "哈欠",
+      "pinyin": [
+        "hā",
+        "qian"
+      ],
+      "context": "皮皮打了个哈欠，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "打了个哈欠",
+      "pinyin": [
+        "dǎ",
+        "le",
+        "ge",
+        "hā",
+        "qian"
+      ],
+      "context": "皮皮打了个哈欠，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "木椅",
+      "pinyin": [
+        "mù",
+        "yǐ"
+      ],
+      "context": "把小木椅推回原位，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "胡萝卜",
+      "pinyin": [
+        "hú",
+        "luó",
+        "bo"
+      ],
+      "context": "他抱起胡萝卜玩偶，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "漂亮",
+      "pinyin": [
+        "piào",
+        "liang"
+      ],
+      "context": "窗外那两朵漂亮的雪白小花，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "窗外",
+      "pinyin": [
+        "chuāng",
+        "wài"
+      ],
+      "context": "窗外那两朵漂亮的雪白小花，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "轻轻地",
+      "pinyin": [
+        "qīng",
+        "qīng",
+        "de"
+      ],
+      "context": "轻轻地留在了心里。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "\n皮皮的眼睛慢慢闭上，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "慢慢闭上",
+      "pinyin": [
+        "màn",
+        "màn",
+        "bì",
+        "shàng"
+      ],
+      "context": "\n皮皮的眼睛慢慢闭上，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "窗外",
+      "pinyin": [
+        "chuāng",
+        "wài"
+      ],
+      "context": "窗外还在静静地下着雪。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "下着雪",
+      "pinyin": [
+        "xià",
+        "zhe",
+        "xuě"
+      ],
+      "context": "窗外还在静静地下着雪。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "整个房间安静极了，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "雪白云朵",
+      "pinyin": [
+        "xuě",
+        "bái",
+        "yún",
+        "duǒ"
+      ],
+      "context": "就像屋顶上也盖了一层厚厚的、软绵绵的雪白云朵。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "小朋友，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "舒服",
+      "pinyin": [
+        "shū",
+        "fu"
+      ],
+      "context": "让舒服留在身边，",
+      "review": "context_checked_not_audio_listen_certification"
+    }
+  ]
+}

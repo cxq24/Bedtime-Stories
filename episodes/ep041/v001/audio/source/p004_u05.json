@@ -1,0 +1,23 @@
+{
+  "text": "暖烘烘的，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "f399df404929568f7b05c62f9a7bbec89992a626f8aafe91d4526d8a20a76cf7",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 10192500,
+      "text": "暖烘烘"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11461660,
+      "duration": 3269160,
+      "text": "的"
+    }
+  ]
+}

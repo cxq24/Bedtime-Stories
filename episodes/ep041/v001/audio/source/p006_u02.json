@@ -1,0 +1,35 @@
+{
+  "text": "它是那么暖和；",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "f2e307c3566073ba4d1d200755c52eb2297a867dce5aa876980cb2f5f952795a",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2884580,
+      "text": "它"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4153750,
+      "duration": 2115410,
+      "text": "是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6461660,
+      "duration": 3846250,
+      "text": "那么"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10500000,
+      "duration": 8653750,
+      "text": "暖和"
+    }
+  ]
+}

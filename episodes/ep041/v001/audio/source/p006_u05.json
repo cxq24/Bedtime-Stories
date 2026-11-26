@@ -1,0 +1,47 @@
+{
+  "text": "屋里的兔子和窗外的雪花，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "cc2fb2ab1a13b210055f1c822dc984660e2ff6484d77c72b3b902d6bde18dd11",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5000000,
+      "text": "屋里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6269160,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7807500,
+      "duration": 8653750,
+      "text": "兔子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18000000,
+      "duration": 2307500,
+      "text": "和"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20500000,
+      "duration": 10577080,
+      "text": "窗外的雪"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31077080,
+      "duration": 5192500,
+      "text": "花"
+    }
+  ]
+}

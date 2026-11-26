@@ -1,0 +1,15 @@
+{
+  "episode": "ep041",
+  "reviewed_on": "2026-11-26",
+  "contact_sheet": "checks/contact_sheet_final_review.jpg",
+  "shot_count": 32,
+  "result": "pass_after_revision",
+  "checks": [
+    "all 32 shot images present",
+    "classroom location visibly reads as classroom in shot 03",
+    "snow crystals remain outside and small relative to window and character",
+    "window latch action, retreat, and chair/bed action sequence reviewed in contact sheet",
+    "Pipi costume and bedroom setting visually consistent"
+  ],
+  "human_full_audio_visual_review": "not_certified"
+}

@@ -1,0 +1,65 @@
+{
+  "text": "他下意识地伸出小爪子握住窗栓，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "d3eeece079e85154a403b78f14bdca006ad7940f62b18a14df1e086ea6cab87f",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2500000,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3769160,
+      "duration": 8461660,
+      "text": "下意识"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12230830,
+      "duration": 1538330,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14153750,
+      "duration": 4807500,
+      "text": "伸出"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19153750,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22422910,
+      "duration": 8653750,
+      "text": "爪子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32615410,
+      "duration": 5000000,
+      "text": "握住"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37807500,
+      "duration": 3461660,
+      "text": "窗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41269160,
+      "duration": 4807500,
+      "text": "栓"
+    }
+  ]
+}

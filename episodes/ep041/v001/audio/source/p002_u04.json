@@ -1,0 +1,41 @@
+{
+  "text": "隔着窗户往外看。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "7adaed136b901642db010b960c4c8a1855ca9d8a756e77c0301245947f5b0aa1",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3269160,
+      "text": "隔"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4538330,
+      "duration": 1922910,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6653750,
+      "duration": 5769160,
+      "text": "窗户"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12807500,
+      "duration": 2884580,
+      "text": "往"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15692500,
+      "duration": 8077080,
+      "text": "外看"
+    }
+  ]
+}

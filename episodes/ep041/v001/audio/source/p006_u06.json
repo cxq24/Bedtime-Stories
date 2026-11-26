@@ -1,0 +1,53 @@
+{
+  "text": "都待在最适合自己的地方，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "2a6929f1549cf85679f6c959eefea3762cd810ae370c436a490c2d91d40d24b1",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2500000,
+      "text": "都"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3769160,
+      "duration": 5577080,
+      "text": "待在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9730830,
+      "duration": 3461660,
+      "text": "最"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13192500,
+      "duration": 5192500,
+      "text": "适合"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18769160,
+      "duration": 4422910,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23192500,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24922910,
+      "duration": 7307500,
+      "text": "地方"
+    }
+  ]
+}

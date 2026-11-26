@@ -1,0 +1,17 @@
+{
+  "text": "可是，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "d2177608d84683b46bda83845b1e2b0970ff09b33f1fa636444c29b3f935ece2",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 9615410,
+      "text": "可是"
+    }
+  ]
+}

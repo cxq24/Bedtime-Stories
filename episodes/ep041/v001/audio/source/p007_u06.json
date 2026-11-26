@@ -1,0 +1,35 @@
+{
+  "text": "\n皮皮的眼睛慢慢闭上，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "ad8f5dde1ce96d0ffbe04b43d81b207293126a4f05977db435cf24bbb4b39b7f",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 7500000,
+      "text": "皮皮的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8961660,
+      "duration": 5961660,
+      "text": "眼睛"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15307500,
+      "duration": 6153750,
+      "text": "慢慢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21653750,
+      "duration": 8461660,
+      "text": "闭上"
+    }
+  ]
+}
