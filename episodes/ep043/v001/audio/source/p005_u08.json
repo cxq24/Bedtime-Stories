@@ -1,0 +1,89 @@
+{
+  "text": "特意在肩膀和脖子旁边留出了一点点松软的余地，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "62fbddb989f46bfa2ab9fb6649ffbb49de013789ed9a8e79ec77e2b47616321e",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5961660,
+      "text": "特意"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7422910,
+      "duration": 2884580,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10692500,
+      "duration": 5769160,
+      "text": "肩膀"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16846250,
+      "duration": 1922910,
+      "text": "和"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18961660,
+      "duration": 4422910,
+      "text": "脖子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23577080,
+      "duration": 8653750,
+      "text": "旁边"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33577080,
+      "duration": 2692080,
+      "text": "留"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36269160,
+      "duration": 2500000,
+      "text": "出"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38769160,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40500000,
+      "duration": 7692500,
+      "text": "一点点"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48577080,
+      "duration": 6153750,
+      "text": "松软"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54730830,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56077080,
+      "duration": 6730830,
+      "text": "余地"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "text": "不赶时间，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "0cda15f44bd137406ab77a19ae160ffd2bd89c1eb5ab00f8b85779bca52d2bae",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 13653750,
+      "text": "不赶时间"
+    }
+  ]
+}

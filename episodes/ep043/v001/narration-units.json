@@ -1,0 +1,434 @@
+[
+  {
+    "id": "p000_u01",
+    "paragraph_id": "p000",
+    "text": "小朋友们，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p000_u02",
+    "paragraph_id": "p000",
+    "text": "准备好听故事了吗？",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p000_u03",
+    "paragraph_id": "p000",
+    "text": "今天的故事叫《围巾留一小截》。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p000_u04",
+    "paragraph_id": "p000",
+    "text": "围巾怎样围才暖和又舒服，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p000_u05",
+    "paragraph_id": "p000",
+    "text": "不会把脖子包得太紧呢？",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p001_u01",
+    "paragraph_id": "p001",
+    "text": "今天森林里的北风吹得有点儿响，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p001_u02",
+    "paragraph_id": "p001",
+    "text": "皮皮吃过晚饭后，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p001_u03",
+    "paragraph_id": "p001",
+    "text": "戴着他长长的毛线小围巾，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p001_u04",
+    "paragraph_id": "p001",
+    "text": "去门廊下的信箱里取回了今天的《森林晚报》。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p001_u05",
+    "paragraph_id": "p001",
+    "text": "\n在门廊外的时候，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p001_u06",
+    "paragraph_id": "p001",
+    "text": "为了让脖子暖和，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p001_u07",
+    "paragraph_id": "p001",
+    "text": "同时想让自己看起来特别整整齐齐、精精神神的，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p001_u08",
+    "paragraph_id": "p001",
+    "text": "皮皮特意对着玻璃窗，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p001_u09",
+    "paragraph_id": "p001",
+    "text": "把围巾在脖子上绕了好几圈，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p001_u10",
+    "paragraph_id": "p001",
+    "text": "还非要把垂在胸前的两条围巾尾巴，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p001_u11",
+    "paragraph_id": "p001",
+    "text": "拉得一模一样齐。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p002_u01",
+    "paragraph_id": "p002",
+    "text": "可是，为了把原本一长一短的围巾尾巴拉齐，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p002_u02",
+    "paragraph_id": "p002",
+    "text": "皮皮不知不觉把脖子上的那一圈毛线拉得太紧了。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p002_u03",
+    "paragraph_id": "p002",
+    "text": "\n等他捧着报纸走进温暖的屋里，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p002_u04",
+    "paragraph_id": "p002",
+    "text": "想要低下头看一看报纸上的图画时，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p002_u05",
+    "paragraph_id": "p002",
+    "text": "却发现脖子被紧绷绷的围巾箍住了，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p002_u06",
+    "paragraph_id": "p002",
+    "text": "既没法自由地低头，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p002_u07",
+    "paragraph_id": "p002",
+    "text": "连呼吸都觉得有点儿闷闷的，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p002_u08",
+    "paragraph_id": "p002",
+    "text": "一点也不舒服。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p003_u01",
+    "paragraph_id": "p003",
+    "text": "皮皮停下了脚步。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p003_u02",
+    "paragraph_id": "p003",
+    "text": "他摸了摸紧绷的围巾，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p003_u03",
+    "paragraph_id": "p003",
+    "text": "心想：戴围巾是为了让自己暖和又舒服的，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p003_u04",
+    "paragraph_id": "p003",
+    "text": "如果为了追求两边绝对一样齐，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p003_u05",
+    "paragraph_id": "p003",
+    "text": "反而把自己勒得难受，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p003_u06",
+    "paragraph_id": "p003",
+    "text": "那可太划不来啦。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p003_u07",
+    "paragraph_id": "p003",
+    "text": "\n于是，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p003_u08",
+    "paragraph_id": "p003",
+    "text": "皮皮伸出小爪子，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p003_u09",
+    "paragraph_id": "p003",
+    "text": "先把绕在脖子上的那一圈毛线轻轻往外松开了一大截，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p003_u10",
+    "paragraph_id": "p003",
+    "text": "让自己的脖子和垂下来的长耳朵，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p003_u11",
+    "paragraph_id": "p003",
+    "text": "都有了宽松的地方可以轻轻活动。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p004_u01",
+    "paragraph_id": "p004",
+    "text": "接着，他把围巾解下来，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p004_u02",
+    "paragraph_id": "p004",
+    "text": "挂在衣帽架的横杆上。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p004_u03",
+    "paragraph_id": "p004",
+    "text": "这一次，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p004_u04",
+    "paragraph_id": "p004",
+    "text": "他没有再用尺子量着去对齐两端，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p004_u05",
+    "paragraph_id": "p004",
+    "text": "而是让围巾自然地垂下，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p004_u06",
+    "paragraph_id": "p004",
+    "text": "左边留出一小截长一点的尾巴，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p004_u07",
+    "paragraph_id": "p004",
+    "text": "右边短一点，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p004_u08",
+    "paragraph_id": "p004",
+    "text": "看上去反而显得松软又自然。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p004_u09",
+    "paragraph_id": "p004",
+    "text": "\n皮皮走到卧室窗边往外看，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p004_u10",
+    "paragraph_id": "p004",
+    "text": "只见院子里的冬青树枝头上落满了白雪。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p004_u11",
+    "paragraph_id": "p004",
+    "text": "白雪并没有把树枝的每一个空隙都填得严严实实，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p004_u12",
+    "paragraph_id": "p004",
+    "text": "而是留着许多透气的缝隙，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p004_u13",
+    "paragraph_id": "p004",
+    "text": "可小树照样在冬夜里站得安安稳稳的。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p005_u01",
+    "paragraph_id": "p005",
+    "text": "洗漱完坐到床沿上，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p005_u02",
+    "paragraph_id": "p005",
+    "text": "皮皮戴上柔软的睡帽时，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p005_u03",
+    "paragraph_id": "p005",
+    "text": "也照着刚才的方法，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p005_u04",
+    "paragraph_id": "p005",
+    "text": "把帽口放得松松的，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p005_u05",
+    "paragraph_id": "p005",
+    "text": "没有为了整齐而把两只长耳朵死死压住。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p005_u06",
+    "paragraph_id": "p005",
+    "text": "\n他钻进被窝，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p005_u07",
+    "paragraph_id": "p005",
+    "text": "拉好暖黄色的毛毯，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p005_u08",
+    "paragraph_id": "p005",
+    "text": "特意在肩膀和脖子旁边留出了一点点松软的余地，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p005_u09",
+    "paragraph_id": "p005",
+    "text": "没有把自己裹成一根动弹不得的木头桩子。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p005_u10",
+    "paragraph_id": "p005",
+    "text": "这样一来，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p005_u11",
+    "paragraph_id": "p005",
+    "text": "整个身体就能顺顺当当地陷进柔软的床垫里了。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p006_u01",
+    "paragraph_id": "p006",
+    "text": "胡萝卜玩偶也松松地靠在臂弯里。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p006_u02",
+    "paragraph_id": "p006",
+    "text": "皮皮闭上眼睛，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p006_u03",
+    "paragraph_id": "p006",
+    "text": "觉得今晚的温暖，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p006_u04",
+    "paragraph_id": "p006",
+    "text": "是像云朵一样轻轻围着他的，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p006_u05",
+    "paragraph_id": "p006",
+    "text": "一点儿压迫感也没有。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p006_u06",
+    "paragraph_id": "p006",
+    "text": "\n小朋友，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p006_u07",
+    "paragraph_id": "p006",
+    "text": "睡觉的时候，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p006_u08",
+    "paragraph_id": "p006",
+    "text": "让被子和衣服松松地陪着你吧。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p006_u09",
+    "paragraph_id": "p006",
+    "text": "不用事事都追求严丝合缝，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p006_u10",
+    "paragraph_id": "p006",
+    "text": "不赶时间，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p006_u11",
+    "paragraph_id": "p006",
+    "text": "也不绷紧身体，",
+    "pause_after_s": 0.28
+  },
+  {
+    "id": "p006_u12",
+    "paragraph_id": "p006",
+    "text": "舒舒服服地睡吧。",
+    "pause_after_s": 0.9
+  },
+  {
+    "id": "p006_u13",
+    "paragraph_id": "p006",
+    "text": "晚安。",
+    "pause_after_s": 0.9
+  }
+]

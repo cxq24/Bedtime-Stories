@@ -1,0 +1,210 @@
+{
+  "episode": "ep043",
+  "duration_s": 20.0,
+  "fps": 25,
+  "frames": 500,
+  "preview": true,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "shot_count": 33,
+  "crossfade_s": 0.96,
+  "curve": "linear",
+  "within_shot_motion": "none",
+  "subtitles_after_picture_transitions": true,
+  "clean": "/workspace/Bedtime-Stories/episodes/ep043/v001/ep043_preview20_clean.mp4",
+  "publish": "/workspace/Bedtime-Stories/episodes/ep043/v001/ep043_preview20.mp4",
+  "delivery_directory": "/workspace/Bedtime-Stories/episodes/ep043/v001",
+  "shots": [
+    {
+      "id": 0,
+      "paragraph_id": "p000",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u01",
+          "start_char": 0,
+          "end_char": 5
+        },
+        {
+          "unit_id": "p000_u02",
+          "start_char": 0,
+          "end_char": 9
+        },
+        {
+          "unit_id": "p000_u03",
+          "start_char": 0,
+          "end_char": 15
+        }
+      ],
+      "text": "小朋友们，准备好听故事了吗？今天的故事叫《围巾留一小截》。",
+      "title": "片头问候",
+      "location": "片头·雪林小径",
+      "time_of_day": "开场",
+      "layer": "opening",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮穿米色上衣、灰蓝背带裤，系着长长的赤陶红针织围巾，站在安静的雪林小径边朝观众轻轻挥爪，眉眼温和好奇；几片小雪花落下。独立片头画面，不出现邮箱、室内窗边或后续情节。",
+      "action": "皮皮穿米色上衣、灰蓝背带裤，系着长长的赤陶红针织围巾，站在安静的雪林小径边朝观众轻轻挥爪，眉眼温和好奇；几片小雪花落下。独立片头画面，不出现邮箱、室内窗边或后续情节。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_OPENING_SNOW_01"
+      ],
+      "state_before": "片头独立开始；皮皮在雪林小径，佩戴本集赤陶红围巾。",
+      "state_after": "皮皮穿米色上衣、灰蓝背带裤，系着长长的赤陶红针织围巾，站在安静的雪林小径边朝观众轻轻挥爪，眉眼温和好奇；几片小雪花落下。独立片头画面，不出现邮箱、室内窗边或后续情节。",
+      "transition_from": null,
+      "image_status": "reviewed_pass",
+      "image_path": "images/shot_00.png",
+      "image": "images/shot_00.png",
+      "speech_start_s": 1.0,
+      "speech_end_s": 9.779707666666667,
+      "actual_start_s": 0.0,
+      "actual_end_s": 10.32,
+      "visible_start_s": 0.0,
+      "visible_end_s": 10.8,
+      "visible_duration_s": 10.8
+    },
+    {
+      "id": 1,
+      "paragraph_id": "p000",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u04",
+          "start_char": 0,
+          "end_char": 12
+        },
+        {
+          "unit_id": "p000_u05",
+          "start_char": 0,
+          "end_char": 11
+        }
+      ],
+      "text": "围巾怎样围才暖和又舒服，不会把脖子包得太紧呢？",
+      "title": "片头围巾问题",
+      "location": "片头·暖木屋门口",
+      "time_of_day": "开场",
+      "layer": "opening",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "片头专属近景：皮皮低头看着脖子上柔软的赤陶红针织围巾，一只爪轻轻摸着围巾，另一只爪摊开像在思考怎样围才暖和舒服；表情温柔疑问。独立片头，不出现字幕、文字或后续故事插画构图。",
+      "action": "片头专属近景：皮皮低头看着脖子上柔软的赤陶红针织围巾，一只爪轻轻摸着围巾，另一只爪摊开像在思考怎样围才暖和舒服；表情温柔疑问。独立片头，不出现字幕、文字或后续故事插画构图。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "PROP_SCARF_01"
+      ],
+      "state_before": "片头沿用同一只皮皮和赤陶红围巾，近景思考围巾是否舒服；片头不与后续现实镜头连续。",
+      "state_after": "片头专属近景：皮皮低头看着脖子上柔软的赤陶红针织围巾，一只爪轻轻摸着围巾，另一只爪摊开像在思考怎样围才暖和舒服；表情温柔疑问。独立片头，不出现字幕、文字或后续故事插画构图。",
+      "transition_from": "00",
+      "image_status": "reviewed_pass",
+      "image_path": "images/shot_01.png",
+      "image": "images/shot_01.png",
+      "speech_start_s": 10.852583333333333,
+      "speech_end_s": 17.375290333333332,
+      "actual_start_s": 10.32,
+      "actual_end_s": 17.92,
+      "visible_start_s": 9.84,
+      "visible_end_s": 18.400000000000002,
+      "visible_duration_s": 8.56
+    },
+    {
+      "id": 2,
+      "paragraph_id": "p001",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u01",
+          "start_char": 0,
+          "end_char": 15
+        },
+        {
+          "unit_id": "p001_u02",
+          "start_char": 0,
+          "end_char": 8
+        }
+      ],
+      "text": "今天森林里的北风吹得有点儿响，皮皮吃过晚饭后，",
+      "title": "静悄悄的初雪",
+      "location": "森林小屋门廊",
+      "time_of_day": "冬夜",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "初雪的森林小屋门廊，北风轻吹，暮色里暖灯透过玻璃窗。皮皮刚吃过晚饭，穿固定日常衣着，戴着同一条长赤陶红针织围巾站在门边，神情平静地望向细雪。",
+      "action": "初雪的森林小屋门廊，北风轻吹，暮色里暖灯透过玻璃窗。皮皮刚吃过晚饭，穿固定日常衣着，戴着同一条长赤陶红针织围巾站在门边，神情平静地望向细雪。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_PORCH_01"
+      ],
+      "state_before": "现实故事开始：晚饭后，皮皮在木屋门廊，赤陶红围巾仍自然围着，晚风吹雪。",
+      "state_after": "初雪的森林小屋门廊，北风轻吹，暮色里暖灯透过玻璃窗。皮皮刚吃过晚饭，穿固定日常衣着，戴着同一条长赤陶红针织围巾站在门边，神情平静地望向细雪。",
+      "transition_from": "01",
+      "image_status": "reviewed_pass",
+      "image_path": "images/shot_02.png",
+      "image": "images/shot_02.png",
+      "speech_start_s": 18.437520833333334,
+      "speech_end_s": 25.134686833333337,
+      "actual_start_s": 17.92,
+      "actual_end_s": 25.36,
+      "visible_start_s": 17.44,
+      "visible_end_s": 25.84,
+      "visible_duration_s": 8.4
+    }
+  ],
+  "audio": "mix.wav",
+  "subtitles": "episode.ass",
+  "character_registry": "references/",
+  "fonts": [
+    {
+      "path": "fonts/NotoSansCJKsc-Bold.otf",
+      "sha256": "85c969dbb2f927c8dbbe440d5755b7c9a714f13a7a58339459df43cfff3583b3"
+    },
+    {
+      "path": "fonts/Noto-Sans-copyright.txt",
+      "sha256": "075f91382875da1c4b491f1facf2586f55448705133264d98ce15cab6211b125"
+    },
+    {
+      "path": "fonts/NotoSans-Regular.ttf",
+      "sha256": "89c3c497f618fdaa0b2d1e98fef93582f28c71debd2c4a8cdf41f190ced2909d"
+    },
+    {
+      "path": "fonts/NotoSansCJKsc-Regular.otf",
+      "sha256": "82e9bdfd176ce68c51f6ff89ca7e2abae7fdb82b4591aa7338638598ae3c91c8"
+    },
+    {
+      "path": "fonts/Noto-CJK-copyright.txt",
+      "sha256": "849f4ea9c214fa4ac3593b770c699f387534b11ce671264c1b10d85bdcb5997b"
+    }
+  ]
+}

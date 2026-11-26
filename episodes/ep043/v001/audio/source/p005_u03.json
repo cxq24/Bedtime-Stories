@@ -1,0 +1,41 @@
+{
+  "text": "也照着刚才的方法，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "6a35880fa722d1fbf3eaa4cdcd939f5d893d9728fd5b347b896047a0c12dac2a",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2307500,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3769160,
+      "duration": 4807500,
+      "text": "照着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8961660,
+      "duration": 5961250,
+      "text": "刚才"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14922910,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16653750,
+      "duration": 8461660,
+      "text": "方法"
+    }
+  ]
+}

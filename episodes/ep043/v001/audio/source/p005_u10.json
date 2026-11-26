@@ -1,0 +1,17 @@
+{
+  "text": "这样一来，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "cbe311a2127c33ad21bf33d41da251c7bd454c2b91a36741acd9f0df5bfe3ac5",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 13461660,
+      "text": "这样一来"
+    }
+  ]
+}

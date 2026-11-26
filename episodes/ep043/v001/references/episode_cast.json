@@ -1,0 +1,24 @@
+{
+  "episode": "ep041",
+  "version": "v001",
+  "characters": [
+    {
+      "character_id": "CHAR_PIPI_01",
+      "name": "皮皮",
+      "identity_reference": "references/pipi_identity_v001.png",
+      "wardrobe_reference": "references/pipi_wardrobe_v001.png",
+      "wardrobe_policy": "The day outfit is the LEFT panel only: cream shirt, slate-blue short overalls, blue shoes, optional small yellow school backpack only in school scene; the soft navy star sleep cap is a separate prop and never on Pipi’s head in this episode.",
+      "image_generation_reference_required": true,
+      "sha256": {
+        "identity": "6f754c72b9fa7281790bb1fce42bb18701ea055446fda2cdec7ae58b92232674",
+        "wardrobe": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897"
+      },
+      "identity_reference_crop": "references/pipi_identity_no_hat_ref.png",
+      "day_wardrobe_reference_crop": "references/pipi_day_wardrobe_ref.png",
+      "reference_source_paths": [
+        "references/pipi_identity_v001.png",
+        "references/pipi_wardrobe_v001.png"
+      ]
+    }
+  ]
+}

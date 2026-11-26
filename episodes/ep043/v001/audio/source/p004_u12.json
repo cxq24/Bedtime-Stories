@@ -1,0 +1,53 @@
+{
+  "text": "而是留着许多透气的缝隙，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "f683ab6fa6fee22e0a093b6ee8cd463da532ef61fe5ffd54d78b8d8bedfa3264",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4807500,
+      "text": "而是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6269160,
+      "duration": 2692500,
+      "text": "留"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8961660,
+      "duration": 1730830,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10884580,
+      "duration": 6153750,
+      "text": "许多"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17422910,
+      "duration": 5961660,
+      "text": "透气"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23384580,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25115410,
+      "duration": 8653750,
+      "text": "缝隙"
+    }
+  ]
+}

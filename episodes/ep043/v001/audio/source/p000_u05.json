@@ -1,0 +1,59 @@
+{
+  "text": "不会把脖子包得太紧呢？",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "93fd1f54b0a7fbe52d74bf15be22e95e772903876a75961b429567274c17ffed",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4807500,
+      "text": "不会"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6269160,
+      "duration": 2115410,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8577080,
+      "duration": 5000000,
+      "text": "脖子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13577080,
+      "duration": 2307500,
+      "text": "包"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15884580,
+      "duration": 1346250,
+      "text": "得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17422910,
+      "duration": 3653750,
+      "text": "太"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21077080,
+      "duration": 3845830,
+      "text": "紧"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24922910,
+      "duration": 4422910,
+      "text": "呢"
+    }
+  ]
+}

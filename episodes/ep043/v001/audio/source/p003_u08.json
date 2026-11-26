@@ -1,0 +1,35 @@
+{
+  "text": "皮皮伸出小爪子，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "46da920fc0111b3df838e1bc8e82f7a92828f72622e9c201e860b73e23b2363b",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5384580,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 5192500,
+      "text": "伸出"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12422910,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15692500,
+      "duration": 8461660,
+      "text": "爪子"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "episode": "ep043",
+  "contact_sheet": "checks/contact_sheet_33shots.jpg",
+  "final_image_count": 33,
+  "revised_shots": [
+    0,
+    2,
+    3,
+    4,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    23,
+    25
+  ],
+  "corrections": [
+    "removed erroneously inherited yellow school backpack from evening/home scene shots",
+    "shot 10 scarf retained below chin with unobstructed mouth and nostrils",
+    "aligned scarf color, knit texture, and long/short tail relation across coat-stand shots"
+  ],
+  "result": "pass",
+  "human_review": "contact_sheet_visual_review_completed"
+}

@@ -1,0 +1,35 @@
+{
+  "text": "舒舒服服地睡吧。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "e313d985c38f756ae4f77f73b8547e124bff4daa73f355fd8db7fb83ac4b028d",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 14230830,
+      "text": "舒舒服服"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15500000,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17038330,
+      "duration": 4422910,
+      "text": "睡"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21461660,
+      "duration": 4038330,
+      "text": "吧"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "text": "围巾怎样围才暖和又舒服，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "9920c25311ed2c8f5e281ab2a37e1ac560417133301fd8fa9ada0958d9326326",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6153750,
+      "text": "围巾"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7807500,
+      "duration": 5192500,
+      "text": "怎样"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13192500,
+      "duration": 2692080,
+      "text": "围"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15884580,
+      "duration": 2115410,
+      "text": "才"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18192500,
+      "duration": 4807500,
+      "text": "暖和"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23384580,
+      "duration": 2692500,
+      "text": "又"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26077080,
+      "duration": 8846250,
+      "text": "舒服"
+    }
+  ]
+}

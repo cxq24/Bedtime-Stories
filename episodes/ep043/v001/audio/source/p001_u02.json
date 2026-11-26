@@ -1,0 +1,41 @@
+{
+  "text": "皮皮吃过晚饭后，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "9ad800ff7f27fca083eb036c763050ff4b15dbeab25be55cb36ac495f60f00ee",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5769160,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7422910,
+      "duration": 2500000,
+      "text": "吃"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9922910,
+      "duration": 1922910,
+      "text": "过"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12038330,
+      "duration": 6922910,
+      "text": "晚饭"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18961660,
+      "duration": 4807500,
+      "text": "后"
+    }
+  ]
+}

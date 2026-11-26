@@ -1,0 +1,59 @@
+{
+  "text": "戴着他长长的毛线小围巾，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "a65656d664bcd1b9c1d4beb418d48ec72bd1377bf47c4dcc70707bc98a9fde84",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3077080,
+      "text": "戴"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4346250,
+      "duration": 1730830,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6077080,
+      "duration": 2307500,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8577080,
+      "duration": 7307500,
+      "text": "长长"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15884580,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17615410,
+      "duration": 5769160,
+      "text": "毛线"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23577080,
+      "duration": 3076660,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26653750,
+      "duration": 7692500,
+      "text": "围巾"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "text": "他摸了摸紧绷的围巾，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "1a661dbc03557a84e9c5139fef6ccc14fba4122af64b5d94292d071a3bd0817b",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2500000,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3769160,
+      "duration": 2884580,
+      "text": "摸"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6653750,
+      "duration": 1538330,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8192500,
+      "duration": 2500000,
+      "text": "摸"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11077080,
+      "duration": 6153750,
+      "text": "紧绷"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17230830,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18961660,
+      "duration": 7692500,
+      "text": "围巾"
+    }
+  ]
+}

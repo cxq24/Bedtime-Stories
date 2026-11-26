@@ -1,0 +1,65 @@
+{
+  "text": "都有了宽松的地方可以轻轻活动。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "24182cb04968907b9fbb283cccc0655bc4a104b40a14673c45ad90426d238eb7",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2692500,
+      "text": "都"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3961660,
+      "duration": 2115410,
+      "text": "有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6077080,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7615410,
+      "duration": 6153750,
+      "text": "宽松"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13769160,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15500000,
+      "duration": 7307500,
+      "text": "地方"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24346250,
+      "duration": 4038330,
+      "text": "可以"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28577080,
+      "duration": 5961660,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34730830,
+      "duration": 6730830,
+      "text": "活动"
+    }
+  ]
+}

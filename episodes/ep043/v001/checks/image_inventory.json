@@ -1,0 +1,403 @@
+{
+  "episode": "ep043",
+  "shot_count": 33,
+  "images": [
+    {
+      "shot_id": 0,
+      "path": "images/shot_00.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "bytes": 2376890,
+      "sha256": "d1c0589a836c6c2580634cb679dd5e643120820c3d5d38f33f68678593fe0403",
+      "source": "image_gen",
+      "status": "reviewed_pass"
+    },
+    {
+      "shot_id": 1,
+      "path": "images/shot_01.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "bytes": 2419849,
+      "sha256": "48ab260a5288aed3c9a81bcceb4a7a3f2af507afd8133434948b3525ccd86536",
+      "source": "image_gen",
+      "status": "reviewed_pass"
+    },
+    {
+      "shot_id": 2,
+      "path": "images/shot_02.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "bytes": 2993323,
+      "sha256": "364598753aefecc8ce99ef46a0cc2485fb0b6ae9fdbbfd44e9eebcf1cbb784d9",
+      "source": "image_gen",
+      "status": "reviewed_pass"
+    },
+    {
+      "shot_id": 3,
+      "path": "images/shot_03.png",
+      "dimensions": [
+        941,
+        1671
+      ],
+      "bytes": 2973644,
+      "sha256": "61366f3b44e7bc80915bc1c1ab83122f7d8561a028479173093d24eae0dc4ab2",
+      "source": "image_gen",
+      "status": "reviewed_pass"
+    },
+    {
+      "shot_id": 4,
+      "path": "images/shot_04.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "bytes": 2948766,
+      "sha256": "58cc2da22c524582b0257eb54df24d5ce2d01070da8f8a594646e1530cd94223",
+      "source": "image_gen",
+      "status": "reviewed_pass"
+    },
+    {
+      "shot_id": 5,
+      "path": "images/shot_05.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "bytes": 2348111,
+      "sha256": "128bd39c7f9bc3405e30181769599f35ce7880ada1f1ac191b4480b5367c2970",
+      "source": "image_gen",
+      "status": "reviewed_pass"
+    },
+    {
+      "shot_id": 6,
+      "path": "images/shot_06.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "bytes": 2336805,
+      "sha256": "5faae742ba8ede47d3bcabdfd32fc9ccec4121de6f8f8d7b51d37c82900d8b62",
+      "source": "image_gen",
+      "status": "reviewed_pass"
+    },
+    {
+      "shot_id": 7,
+      "path": "images/shot_07.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "bytes": 2298988,
+      "sha256": "90c46a8e80f3a5ced17d48148b3a5344ecbc5dd0bace04bec23f45a68911ffd8",
+      "source": "image_gen",
+      "status": "reviewed_pass"
+    },
+    {
+      "shot_id": 8,
+      "path": "images/shot_08.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "bytes": 2201408,
+      "sha256": "01eda9535445a8e6162ad68ada1d149ad65e6da0bd2cfd511cb82f48f7c700cc",
+      "source": "image_gen",
+      "status": "reviewed_pass"
+    },
+    {
+      "shot_id": 9,
+      "path": "images/shot_09.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "bytes": 2572939,
+      "sha256": "4a02aeb34bf9c1f51bac972fa705b36da00410957bde02229654fe95c77c53d7",
+      "source": "image_gen",
+      "status": "reviewed_pass"
+    },
+    {
+      "shot_id": 10,
+      "path": "images/shot_10.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "bytes": 2272294,
+      "sha256": "f054297d1c75367b41921cf8f38660d620fd2cdfe1b74e7c079f14d06b747082",
+      "source": "image_gen",
+      "status": "reviewed_pass"
+    },
+    {
+      "shot_id": 11,
+      "path": "images/shot_11.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "bytes": 2378251,
+      "sha256": "700b7ceef3ecae23b16012be0c13b72334d610dbe89d31b68540f36f04d555a0",
+      "source": "image_gen",
+      "status": "reviewed_pass"
+    },
+    {
+      "shot_id": 12,
+      "path": "images/shot_12.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "bytes": 2237425,
+      "sha256": "26f837970b6b8e582af02e735ab3d8781298ff811eb4853380d895bf67d4585a",
+      "source": "image_gen",
+      "status": "reviewed_pass"
+    },
+    {
+      "shot_id": 13,
+      "path": "images/shot_13.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "bytes": 2457559,
+      "sha256": "1999769c62b42a7a6839d8368556159962576504fb7d6bcfe5c8b0f2757c2d0a",
+      "source": "image_gen",
+      "status": "reviewed_pass"
+    },
+    {
+      "shot_id": 14,
+      "path": "images/shot_14.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "bytes": 2299132,
+      "sha256": "38c9aa7b60d2a90d2571d75f71b74bf09517925be644b8eb1ae760473e0d86c7",
+      "source": "image_gen",
+      "status": "reviewed_pass"
+    },
+    {
+      "shot_id": 15,
+      "path": "images/shot_15.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "bytes": 2240186,
+      "sha256": "24941b4cf0089071144b452e55e84dfd0d523ce2efe865a29450b1741aba6936",
+      "source": "image_gen",
+      "status": "reviewed_pass"
+    },
+    {
+      "shot_id": 16,
+      "path": "images/shot_16.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "bytes": 2253412,
+      "sha256": "28f7e1c624727f7bdeeb4fa5bc3a966691c03dc30ab26085e2195bce5e97823f",
+      "source": "image_gen",
+      "status": "reviewed_pass"
+    },
+    {
+      "shot_id": 17,
+      "path": "images/shot_17.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "bytes": 2595250,
+      "sha256": "40dd8a412fe4097e8ffe6b6c305843130b0c0a0ef6098c6f28fb3d85ced6edb5",
+      "source": "image_gen",
+      "status": "reviewed_pass"
+    },
+    {
+      "shot_id": 18,
+      "path": "images/shot_18.png",
+      "dimensions": [
+        941,
+        1671
+      ],
+      "bytes": 2652181,
+      "sha256": "4d9630629c74876eafb0e078cc5d23fd3e25548b8f0ae330eb14d4753867b8ef",
+      "source": "image_gen",
+      "status": "reviewed_pass"
+    },
+    {
+      "shot_id": 19,
+      "path": "images/shot_19.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "bytes": 2545926,
+      "sha256": "f85512d5192813486332a669a4f06a8bd3a3b3bc4ab52dfa822b1bec43f72679",
+      "source": "image_gen",
+      "status": "reviewed_pass"
+    },
+    {
+      "shot_id": 20,
+      "path": "images/shot_20.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "bytes": 2785260,
+      "sha256": "2bef6dd564954d89e260ff5eaa6ecf2b5ebc4ebb718de88770fa246e3e0730ab",
+      "source": "image_gen",
+      "status": "reviewed_pass"
+    },
+    {
+      "shot_id": 21,
+      "path": "images/shot_21.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "bytes": 2969733,
+      "sha256": "84bf1b7767562a527e580e1ad6a689e5aa92f38288d525ec23710b2fa0cbb03e",
+      "source": "image_gen",
+      "status": "reviewed_pass"
+    },
+    {
+      "shot_id": 22,
+      "path": "images/shot_22.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "bytes": 3132434,
+      "sha256": "64d1be43b0e39e5610aa89dc30bd1c79c0ddd1298530f3159649acc0d77d9271",
+      "source": "image_gen",
+      "status": "reviewed_pass"
+    },
+    {
+      "shot_id": 23,
+      "path": "images/shot_23.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "bytes": 2553073,
+      "sha256": "15d1ab28810eb43e31924daa960576061e568528c9dd72daad2474d9568669db",
+      "source": "image_gen",
+      "status": "reviewed_pass"
+    },
+    {
+      "shot_id": 24,
+      "path": "images/shot_24.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "bytes": 2245667,
+      "sha256": "3d4ab31a2f776a79256ff26861f6110fe5b3f82b52086efc980396da191756f8",
+      "source": "image_gen",
+      "status": "reviewed_pass"
+    },
+    {
+      "shot_id": 25,
+      "path": "images/shot_25.png",
+      "dimensions": [
+        941,
+        1671
+      ],
+      "bytes": 2332827,
+      "sha256": "87a91f5302b63869673bf4029049e22c7c692df370ac6973e96f93afe05fe8df",
+      "source": "image_gen",
+      "status": "reviewed_pass"
+    },
+    {
+      "shot_id": 26,
+      "path": "images/shot_26.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "bytes": 2296354,
+      "sha256": "a3a0e134c1681d0af1c7a23a7a780bec2bbd9feadfb0c7d5f10318759a2c439f",
+      "source": "image_gen",
+      "status": "reviewed_pass"
+    },
+    {
+      "shot_id": 27,
+      "path": "images/shot_27.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "bytes": 2247531,
+      "sha256": "26d70b44894bae1c0bd45117a05c1840d07babf1aadb1095d246a3da2f1174ca",
+      "source": "image_gen",
+      "status": "reviewed_pass"
+    },
+    {
+      "shot_id": 28,
+      "path": "images/shot_28.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "bytes": 2322296,
+      "sha256": "243cccf19a96402b2d979cb1acdcac314716c1599d6fe06ace5a5179a9726493",
+      "source": "image_gen",
+      "status": "reviewed_pass"
+    },
+    {
+      "shot_id": 29,
+      "path": "images/shot_29.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "bytes": 2423987,
+      "sha256": "3233a065b1562fbb2edd233f7ac32b6f2cf0c9933093c48a395adc21e4f0b75a",
+      "source": "image_gen",
+      "status": "reviewed_pass"
+    },
+    {
+      "shot_id": 30,
+      "path": "images/shot_30.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "bytes": 2328654,
+      "sha256": "239763d1724944cbfeaf80c9895a8bc2ae301d55254fd06f625f2fe47cb78b71",
+      "source": "image_gen",
+      "status": "reviewed_pass"
+    },
+    {
+      "shot_id": 31,
+      "path": "images/shot_31.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "bytes": 2356893,
+      "sha256": "2a450616b6e196f2ae743651f48798e8cd488c7c00c868375b9633c8a682b1fc",
+      "source": "image_gen",
+      "status": "reviewed_pass"
+    },
+    {
+      "shot_id": 32,
+      "path": "images/shot_32.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "bytes": 2595641,
+      "sha256": "8139ef725c25c3612320b9e2a3cf8f4211bbfa9d4b1cf63d8ca1814e2088580c",
+      "source": "image_gen",
+      "status": "reviewed_pass"
+    }
+  ],
+  "final_review_contact_sheet": "checks/contact_sheet_33shots.jpg"
+}

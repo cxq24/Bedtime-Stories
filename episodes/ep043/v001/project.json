@@ -1,0 +1,1839 @@
+{
+  "episode": "ep043",
+  "duration_s": 292.84,
+  "fps": 25,
+  "frames": 7321,
+  "preview": false,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "shot_count": 33,
+  "crossfade_s": 0.96,
+  "curve": "linear",
+  "within_shot_motion": "none",
+  "subtitles_after_picture_transitions": true,
+  "clean": "/workspace/Bedtime-Stories/Outputs/2026-11-26/ep043-v001/ep043_clean.mp4",
+  "publish": "/workspace/Bedtime-Stories/Outputs/2026-11-26/ep043-v001/ep043.mp4",
+  "delivery_directory": "/workspace/Bedtime-Stories/Outputs/2026-11-26/ep043-v001",
+  "shots": [
+    {
+      "id": 0,
+      "paragraph_id": "p000",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u01",
+          "start_char": 0,
+          "end_char": 5
+        },
+        {
+          "unit_id": "p000_u02",
+          "start_char": 0,
+          "end_char": 9
+        },
+        {
+          "unit_id": "p000_u03",
+          "start_char": 0,
+          "end_char": 15
+        }
+      ],
+      "text": "小朋友们，准备好听故事了吗？今天的故事叫《围巾留一小截》。",
+      "title": "片头问候",
+      "location": "片头·雪林小径",
+      "time_of_day": "开场",
+      "layer": "opening",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮穿米色上衣、灰蓝背带裤，系着长长的赤陶红针织围巾，站在安静的雪林小径边朝观众轻轻挥爪，眉眼温和好奇；几片小雪花落下。独立片头画面，不出现邮箱、室内窗边或后续情节。",
+      "action": "皮皮穿米色上衣、灰蓝背带裤，系着长长的赤陶红针织围巾，站在安静的雪林小径边朝观众轻轻挥爪，眉眼温和好奇；几片小雪花落下。独立片头画面，不出现邮箱、室内窗边或后续情节。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_OPENING_SNOW_01"
+      ],
+      "state_before": "片头独立开始；皮皮在雪林小径，佩戴本集赤陶红围巾。",
+      "state_after": "皮皮穿米色上衣、灰蓝背带裤，系着长长的赤陶红针织围巾，站在安静的雪林小径边朝观众轻轻挥爪，眉眼温和好奇；几片小雪花落下。独立片头画面，不出现邮箱、室内窗边或后续情节。",
+      "transition_from": null,
+      "image_status": "reviewed_pass",
+      "image_path": "images/shot_00.png",
+      "image": "images/shot_00.png",
+      "speech_start_s": 1.0,
+      "speech_end_s": 9.779707666666667,
+      "actual_start_s": 0.0,
+      "actual_end_s": 10.32,
+      "visible_start_s": 0.0,
+      "visible_end_s": 10.8,
+      "visible_duration_s": 10.8
+    },
+    {
+      "id": 1,
+      "paragraph_id": "p000",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u04",
+          "start_char": 0,
+          "end_char": 12
+        },
+        {
+          "unit_id": "p000_u05",
+          "start_char": 0,
+          "end_char": 11
+        }
+      ],
+      "text": "围巾怎样围才暖和又舒服，不会把脖子包得太紧呢？",
+      "title": "片头围巾问题",
+      "location": "片头·暖木屋门口",
+      "time_of_day": "开场",
+      "layer": "opening",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "片头专属近景：皮皮低头看着脖子上柔软的赤陶红针织围巾，一只爪轻轻摸着围巾，另一只爪摊开像在思考怎样围才暖和舒服；表情温柔疑问。独立片头，不出现字幕、文字或后续故事插画构图。",
+      "action": "片头专属近景：皮皮低头看着脖子上柔软的赤陶红针织围巾，一只爪轻轻摸着围巾，另一只爪摊开像在思考怎样围才暖和舒服；表情温柔疑问。独立片头，不出现字幕、文字或后续故事插画构图。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "PROP_SCARF_01"
+      ],
+      "state_before": "片头沿用同一只皮皮和赤陶红围巾，近景思考围巾是否舒服；片头不与后续现实镜头连续。",
+      "state_after": "片头专属近景：皮皮低头看着脖子上柔软的赤陶红针织围巾，一只爪轻轻摸着围巾，另一只爪摊开像在思考怎样围才暖和舒服；表情温柔疑问。独立片头，不出现字幕、文字或后续故事插画构图。",
+      "transition_from": "00",
+      "image_status": "reviewed_pass",
+      "image_path": "images/shot_01.png",
+      "image": "images/shot_01.png",
+      "speech_start_s": 10.852583333333333,
+      "speech_end_s": 17.375290333333332,
+      "actual_start_s": 10.32,
+      "actual_end_s": 17.92,
+      "visible_start_s": 9.84,
+      "visible_end_s": 18.400000000000002,
+      "visible_duration_s": 8.56
+    },
+    {
+      "id": 2,
+      "paragraph_id": "p001",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u01",
+          "start_char": 0,
+          "end_char": 15
+        },
+        {
+          "unit_id": "p001_u02",
+          "start_char": 0,
+          "end_char": 8
+        }
+      ],
+      "text": "今天森林里的北风吹得有点儿响，皮皮吃过晚饭后，",
+      "title": "静悄悄的初雪",
+      "location": "森林小屋门廊",
+      "time_of_day": "冬夜",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "初雪的森林小屋门廊，北风轻吹，暮色里暖灯透过玻璃窗。皮皮刚吃过晚饭，穿固定日常衣着，戴着同一条长赤陶红针织围巾站在门边，神情平静地望向细雪。",
+      "action": "初雪的森林小屋门廊，北风轻吹，暮色里暖灯透过玻璃窗。皮皮刚吃过晚饭，穿固定日常衣着，戴着同一条长赤陶红针织围巾站在门边，神情平静地望向细雪。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_PORCH_01"
+      ],
+      "state_before": "现实故事开始：晚饭后，皮皮在木屋门廊，赤陶红围巾仍自然围着，晚风吹雪。",
+      "state_after": "初雪的森林小屋门廊，北风轻吹，暮色里暖灯透过玻璃窗。皮皮刚吃过晚饭，穿固定日常衣着，戴着同一条长赤陶红针织围巾站在门边，神情平静地望向细雪。",
+      "transition_from": "01",
+      "image_status": "reviewed_pass",
+      "image_path": "images/shot_02.png",
+      "image": "images/shot_02.png",
+      "speech_start_s": 18.437520833333334,
+      "speech_end_s": 25.134686833333337,
+      "actual_start_s": 17.92,
+      "actual_end_s": 25.36,
+      "visible_start_s": 17.44,
+      "visible_end_s": 25.84,
+      "visible_duration_s": 8.4
+    },
+    {
+      "id": 3,
+      "paragraph_id": "p001",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u03",
+          "start_char": 0,
+          "end_char": 12
+        },
+        {
+          "unit_id": "p001_u04",
+          "start_char": 0,
+          "end_char": 21
+        }
+      ],
+      "text": "戴着他长长的毛线小围巾，去门廊下的信箱里取回了今天的《森林晚报》。",
+      "title": "取回森林晚报",
+      "location": "门廊·信箱",
+      "time_of_day": "冬夜",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "同一木屋门廊与屋檐下的小木信箱。皮皮穿日常衣着、系同一条赤陶红针织围巾，伸爪从信箱取出一份折叠的无字森林报纸；雪落在门廊外，动作清楚自然。",
+      "action": "同一木屋门廊与屋檐下的小木信箱。皮皮穿日常衣着、系同一条赤陶红针织围巾，伸爪从信箱取出一份折叠的无字森林报纸；雪落在门廊外，动作清楚自然。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_PORCH_01",
+        "PROP_MAILBOX_01",
+        "PROP_NEWSPAPER_01",
+        "PROP_SCARF_01"
+      ],
+      "state_before": "皮皮从门廊走到屋檐下信箱，围巾仍佩戴；信箱尚未取报纸。",
+      "state_after": "同一木屋门廊与屋檐下的小木信箱。皮皮穿日常衣着、系同一条赤陶红针织围巾，伸爪从信箱取出一份折叠的无字森林报纸；雪落在门廊外，动作清楚自然。",
+      "transition_from": "02",
+      "image_status": "reviewed_pass",
+      "image_path": "images/shot_03.png",
+      "image": "images/shot_03.png",
+      "speech_start_s": 25.550687500000002,
+      "speech_end_s": 34.6923955,
+      "actual_start_s": 25.36,
+      "actual_end_s": 35.24,
+      "visible_start_s": 24.88,
+      "visible_end_s": 35.72,
+      "visible_duration_s": 10.84
+    },
+    {
+      "id": 4,
+      "paragraph_id": "p001",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u05",
+          "start_char": 0,
+          "end_char": 9
+        },
+        {
+          "unit_id": "p001_u06",
+          "start_char": 0,
+          "end_char": 8
+        },
+        {
+          "unit_id": "p001_u07",
+          "start_char": 0,
+          "end_char": 22
+        }
+      ],
+      "text": "\n在门廊外的时候，为了让脖子暖和，同时想让自己看起来特别整整齐齐、精精神神的，",
+      "title": "想穿得整整齐齐",
+      "location": "门廊·玻璃窗前",
+      "time_of_day": "冬夜",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮站在同一扇门廊玻璃窗前，对着玻璃观察自己的围巾和衣着，努力想显得整齐精神；两只围巾尾巴自然垂在胸前，皮皮神情认真、耳朵微微竖起，玻璃映出淡淡倒影。",
+      "action": "皮皮站在同一扇门廊玻璃窗前，对着玻璃观察自己的围巾和衣着，努力想显得整齐精神；两只围巾尾巴自然垂在胸前，皮皮神情认真、耳朵微微竖起，玻璃映出淡淡倒影。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_PORCH_01",
+        "PROP_SCARF_01"
+      ],
+      "state_before": "皮皮已经取回森林晚报，站到同一扇门廊玻璃窗前；围巾还是一长一短自然下垂。",
+      "state_after": "皮皮站在同一扇门廊玻璃窗前，对着玻璃观察自己的围巾和衣着，努力想显得整齐精神；两只围巾尾巴自然垂在胸前，皮皮神情认真、耳朵微微竖起，玻璃映出淡淡倒影。",
+      "transition_from": "03",
+      "image_status": "reviewed_pass",
+      "image_path": "images/shot_04.png",
+      "image": "images/shot_04.png",
+      "speech_start_s": 35.7664375,
+      "speech_end_s": 47.411874000000005,
+      "actual_start_s": 35.24,
+      "actual_end_s": 47.64,
+      "visible_start_s": 34.760000000000005,
+      "visible_end_s": 48.12,
+      "visible_duration_s": 13.36
+    },
+    {
+      "id": 5,
+      "paragraph_id": "p001",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u08",
+          "start_char": 0,
+          "end_char": 10
+        },
+        {
+          "unit_id": "p001_u09",
+          "start_char": 0,
+          "end_char": 13
+        }
+      ],
+      "text": "皮皮特意对着玻璃窗，把围巾在脖子上绕了好几圈，",
+      "title": "把围巾绕上几圈",
+      "location": "门廊·玻璃窗前",
+      "time_of_day": "冬夜",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮面对同一扇玻璃窗，把同一条赤陶红编织围巾在脖子上绕了几圈；围巾略显厚实但暂未勒紧，皮皮专注查看自己，双爪停在围巾两侧。保持温和、不危险。",
+      "action": "皮皮面对同一扇玻璃窗，把同一条赤陶红编织围巾在脖子上绕了几圈；围巾略显厚实但暂未勒紧，皮皮专注查看自己，双爪停在围巾两侧。保持温和、不危险。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "PROP_SCARF_01"
+      ],
+      "state_before": "皮皮正对玻璃窗；同一围巾绕上脖子几圈，但两端尚未拉齐。",
+      "state_after": "皮皮面对同一扇玻璃窗，把同一条赤陶红编织围巾在脖子上绕了几圈；围巾略显厚实但暂未勒紧，皮皮专注查看自己，双爪停在围巾两侧。保持温和、不危险。",
+      "transition_from": "04",
+      "image_status": "reviewed_pass",
+      "image_path": "images/shot_05.png",
+      "image": "images/shot_05.png",
+      "speech_start_s": 47.88545833333334,
+      "speech_end_s": 54.35902083333334,
+      "actual_start_s": 47.64,
+      "actual_end_s": 54.6,
+      "visible_start_s": 47.160000000000004,
+      "visible_end_s": 55.08,
+      "visible_duration_s": 7.92
+    },
+    {
+      "id": 6,
+      "paragraph_id": "p001",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u10",
+          "start_char": 0,
+          "end_char": 16
+        },
+        {
+          "unit_id": "p001_u11",
+          "start_char": 0,
+          "end_char": 8
+        }
+      ],
+      "text": "还非要把垂在胸前的两条围巾尾巴，拉得一模一样齐。",
+      "title": "两边尾巴拉齐",
+      "location": "门廊·玻璃窗前",
+      "time_of_day": "冬夜",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮低头把胸前同一条围巾的两条尾巴拉得等长、下沿齐整，对着玻璃检查结果；赤陶红绞花针织纹理和两端流苏保持一致，皮皮神情专注追求整齐。",
+      "action": "皮皮低头把胸前同一条围巾的两条尾巴拉得等长、下沿齐整，对着玻璃检查结果；赤陶红绞花针织纹理和两端流苏保持一致，皮皮神情专注追求整齐。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "PROP_SCARF_01"
+      ],
+      "state_before": "同一围巾已绕在颈上，胸前两个尾端可见；皮皮开始让两尾变齐。",
+      "state_after": "皮皮低头把胸前同一条围巾的两条尾巴拉得等长、下沿齐整，对着玻璃检查结果；赤陶红绞花针织纹理和两端流苏保持一致，皮皮神情专注追求整齐。",
+      "transition_from": "05",
+      "image_status": "reviewed_pass",
+      "image_path": "images/shot_06.png",
+      "image": "images/shot_06.png",
+      "speech_start_s": 54.83202083333334,
+      "speech_end_s": 61.93070733333334,
+      "actual_start_s": 54.6,
+      "actual_end_s": 62.48,
+      "visible_start_s": 54.120000000000005,
+      "visible_end_s": 62.959999999999994,
+      "visible_duration_s": 8.84
+    },
+    {
+      "id": 7,
+      "paragraph_id": "p002",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u01",
+          "start_char": 0,
+          "end_char": 20
+        }
+      ],
+      "text": "可是，为了把原本一长一短的围巾尾巴拉齐，",
+      "title": "原本长短不同",
+      "location": "门廊·玻璃窗前",
+      "time_of_day": "冬夜",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "近景展示皮皮胸前同一条围巾的两个尾端原本一长一短，皮皮正拉短的一端想让两边一样长；画面明确是柔软围巾尾巴，不添加尺子或其他道具。",
+      "action": "近景展示皮皮胸前同一条围巾的两个尾端原本一长一短，皮皮正拉短的一端想让两边一样长；画面明确是柔软围巾尾巴，不添加尺子或其他道具。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "PROP_SCARF_01"
+      ],
+      "state_before": "同一条围巾原本左长右短，颈圈尚未紧到不适；皮皮正试图拉齐短尾。",
+      "state_after": "近景展示皮皮胸前同一条围巾的两个尾端原本一长一短，皮皮正拉短的一端想让两边一样长；画面明确是柔软围巾尾巴，不添加尺子或其他道具。",
+      "transition_from": "06",
+      "image_status": "reviewed_pass",
+      "image_path": "images/shot_07.png",
+      "image": "images/shot_07.png",
+      "speech_start_s": 63.0181875,
+      "speech_end_s": 68.77587433333333,
+      "actual_start_s": 62.48,
+      "actual_end_s": 69.0,
+      "visible_start_s": 62.0,
+      "visible_end_s": 69.48,
+      "visible_duration_s": 7.48
+    },
+    {
+      "id": 8,
+      "paragraph_id": "p002",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u02",
+          "start_char": 0,
+          "end_char": 22
+        }
+      ],
+      "text": "皮皮不知不觉把脖子上的那一圈毛线拉得太紧了。",
+      "title": "围巾拉得太紧",
+      "location": "门廊·玻璃窗前",
+      "time_of_day": "冬夜",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮不知不觉把同一条围巾的颈圈拉得过紧，爪子停在结边，眉眼微微收紧、耳朵略低，开始察觉不适；画面温和克制，不画勒痕、不喘不过气、不出现危险或疼痛夸张。",
+      "action": "皮皮不知不觉把同一条围巾的颈圈拉得过紧，爪子停在结边，眉眼微微收紧、耳朵略低，开始察觉不适；画面温和克制，不画勒痕、不喘不过气、不出现危险或疼痛夸张。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "PROP_SCARF_01"
+      ],
+      "state_before": "两条尾巴被拉齐，颈圈被意外收紧；皮皮仍在门廊玻璃窗前。",
+      "state_after": "皮皮不知不觉把同一条围巾的颈圈拉得过紧，爪子停在结边，眉眼微微收紧、耳朵略低，开始察觉不适；画面温和克制，不画勒痕、不喘不过气、不出现危险或疼痛夸张。",
+      "transition_from": "07",
+      "image_status": "reviewed_pass",
+      "image_path": "images/shot_08.png",
+      "image": "images/shot_08.png",
+      "speech_start_s": 69.24383333333334,
+      "speech_end_s": 75.58074866666668,
+      "actual_start_s": 69.0,
+      "actual_end_s": 76.12,
+      "visible_start_s": 68.52,
+      "visible_end_s": 76.60000000000001,
+      "visible_duration_s": 8.08
+    },
+    {
+      "id": 9,
+      "paragraph_id": "p002",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u03",
+          "start_char": 0,
+          "end_char": 15
+        },
+        {
+          "unit_id": "p002_u04",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "text": "\n等他捧着报纸走进温暖的屋里，想要低下头看一看报纸上的图画时，",
+      "title": "捧报纸低头",
+      "location": "木屋·温暖起居室",
+      "time_of_day": "冬夜",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮系着颈圈过紧的同一条围巾，双爪捧着折叠报纸走进暖黄灯光的木屋，正试着低头看报纸上的空白插画区域；脖子动作受围巾限制，表情困惑。",
+      "action": "皮皮系着颈圈过紧的同一条围巾，双爪捧着折叠报纸走进暖黄灯光的木屋，正试着低头看报纸上的空白插画区域；脖子动作受围巾限制，表情困惑。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_ENTRY_01",
+        "PROP_SCARF_01",
+        "PROP_NEWSPAPER_01"
+      ],
+      "state_before": "皮皮已离开门廊进入温暖起居室，报纸仍在手中，过紧围巾仍戴在脖子上。",
+      "state_after": "皮皮系着颈圈过紧的同一条围巾，双爪捧着折叠报纸走进暖黄灯光的木屋，正试着低头看报纸上的空白插画区域；脖子动作受围巾限制，表情困惑。",
+      "transition_from": "08",
+      "image_status": "reviewed_pass",
+      "image_path": "images/shot_09.png",
+      "image": "images/shot_09.png",
+      "speech_start_s": 76.63479166666667,
+      "speech_end_s": 85.80595766666667,
+      "actual_start_s": 76.12,
+      "actual_end_s": 86.04,
+      "visible_start_s": 75.64,
+      "visible_end_s": 86.52000000000001,
+      "visible_duration_s": 10.88
+    },
+    {
+      "id": 10,
+      "paragraph_id": "p002",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u05",
+          "start_char": 0,
+          "end_char": 16
+        },
+        {
+          "unit_id": "p002_u06",
+          "start_char": 0,
+          "end_char": 9
+        }
+      ],
+      "text": "却发现脖子被紧绷绷的围巾箍住了，既没法自由地低头，",
+      "title": "低头受阻",
+      "location": "木屋·起居室",
+      "time_of_day": "冬夜",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮手捧报纸却无法自然低下头，颈部被同一条厚软围巾紧紧包住；身体僵了一下，眉眼显出惊讶和不舒服，但保持安全温和，不出现窒息画面。",
+      "action": "皮皮手捧报纸却无法自然低下头，颈部被同一条厚软围巾紧紧包住；身体僵了一下，眉眼显出惊讶和不舒服，但保持安全温和，不出现窒息画面。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "PROP_SCARF_01",
+        "PROP_NEWSPAPER_01"
+      ],
+      "state_before": "皮皮手捧报纸尝试低头；同一围巾限制了颈部活动，报纸未掉落。",
+      "state_after": "皮皮手捧报纸却无法自然低下头，颈部被同一条厚软围巾紧紧包住；身体僵了一下，眉眼显出惊讶和不舒服，但保持安全温和，不出现窒息画面。",
+      "transition_from": "09",
+      "image_status": "reviewed_pass",
+      "image_path": "images/shot_10.png",
+      "image": "images/shot_10.png",
+      "speech_start_s": 86.2698125,
+      "speech_end_s": 93.76310316666667,
+      "actual_start_s": 86.04,
+      "actual_end_s": 94.0,
+      "visible_start_s": 85.56,
+      "visible_end_s": 94.48,
+      "visible_duration_s": 8.92
+    },
+    {
+      "id": 11,
+      "paragraph_id": "p002",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u07",
+          "start_char": 0,
+          "end_char": 13
+        },
+        {
+          "unit_id": "p002_u08",
+          "start_char": 0,
+          "end_char": 7
+        }
+      ],
+      "text": "连呼吸都觉得有点儿闷闷的，一点也不舒服。",
+      "title": "闷闷的不舒服",
+      "location": "木屋·起居室",
+      "time_of_day": "冬夜",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮轻轻扶着过紧的赤陶红围巾，肩膀略缩，神情闷闷、不舒服，呼吸仍平稳；暖木屋背景柔和，画面不过度戏剧化。",
+      "action": "皮皮轻轻扶着过紧的赤陶红围巾，肩膀略缩，神情闷闷、不舒服，呼吸仍平稳；暖木屋背景柔和，画面不过度戏剧化。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "PROP_SCARF_01"
+      ],
+      "state_before": "皮皮无法低头，开始察觉围巾不适；围巾仍完整、没有伤痕或危险状态。",
+      "state_after": "皮皮轻轻扶着过紧的赤陶红围巾，肩膀略缩，神情闷闷、不舒服，呼吸仍平稳；暖木屋背景柔和，画面不过度戏剧化。",
+      "transition_from": "10",
+      "image_status": "reviewed_pass",
+      "image_path": "images/shot_11.png",
+      "image": "images/shot_11.png",
+      "speech_start_s": 94.23897916666667,
+      "speech_end_s": 99.6695615,
+      "actual_start_s": 94.0,
+      "actual_end_s": 100.2,
+      "visible_start_s": 93.52,
+      "visible_end_s": 100.68,
+      "visible_duration_s": 7.16
+    },
+    {
+      "id": 12,
+      "paragraph_id": "p003",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u01",
+          "start_char": 0,
+          "end_char": 8
+        },
+        {
+          "unit_id": "p003_u02",
+          "start_char": 0,
+          "end_char": 10
+        }
+      ],
+      "text": "皮皮停下了脚步。他摸了摸紧绷的围巾，",
+      "title": "停下摸围巾",
+      "location": "木屋·起居室",
+      "time_of_day": "冬夜",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮停下脚步，抬起一只爪摸摸颈前过紧的围巾，低头观察，神情由困惑转为认真思考；报纸放在旁边小桌上或仍稳稳捧着，不丢失。",
+      "action": "皮皮停下脚步，抬起一只爪摸摸颈前过紧的围巾，低头观察，神情由困惑转为认真思考；报纸放在旁边小桌上或仍稳稳捧着，不丢失。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "PROP_SCARF_01"
+      ],
+      "state_before": "皮皮停下脚步，用爪子摸着过紧围巾；报纸仍拿在手上或放在近旁。",
+      "state_after": "皮皮停下脚步，抬起一只爪摸摸颈前过紧的围巾，低头观察，神情由困惑转为认真思考；报纸放在旁边小桌上或仍稳稳捧着，不丢失。",
+      "transition_from": "11",
+      "image_status": "reviewed_pass",
+      "image_path": "images/shot_12.png",
+      "image": "images/shot_12.png",
+      "speech_start_s": 100.71008333333333,
+      "speech_end_s": 106.39958266666666,
+      "actual_start_s": 100.2,
+      "actual_end_s": 106.64,
+      "visible_start_s": 99.72,
+      "visible_end_s": 107.12,
+      "visible_duration_s": 7.4
+    },
+    {
+      "id": 13,
+      "paragraph_id": "p003",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u03",
+          "start_char": 0,
+          "end_char": 19
+        },
+        {
+          "unit_id": "p003_u04",
+          "start_char": 0,
+          "end_char": 14
+        }
+      ],
+      "text": "心想：戴围巾是为了让自己暖和又舒服的，如果为了追求两边绝对一样齐，",
+      "title": "围巾是为舒服",
+      "location": "木屋·起居室",
+      "time_of_day": "冬夜",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮站在玻璃窗前静静思考，一爪轻放胸前的围巾，另一爪松开，目光从整齐的围巾尾巴转向自己的感受；表情平和、专注，不画思想气泡或文字。",
+      "action": "皮皮站在玻璃窗前静静思考，一爪轻放胸前的围巾，另一爪松开，目光从整齐的围巾尾巴转向自己的感受；表情平和、专注，不画思想气泡或文字。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "PROP_SCARF_01"
+      ],
+      "state_before": "皮皮还站在起居室，围巾尚未松开，正在认真思考围巾的用途。",
+      "state_after": "皮皮站在玻璃窗前静静思考，一爪轻放胸前的围巾，另一爪松开，目光从整齐的围巾尾巴转向自己的感受；表情平和、专注，不画思想气泡或文字。",
+      "transition_from": "12",
+      "image_status": "reviewed_pass",
+      "image_path": "images/shot_13.png",
+      "image": "images/shot_13.png",
+      "speech_start_s": 106.88475,
+      "speech_end_s": 117.007541,
+      "actual_start_s": 106.64,
+      "actual_end_s": 117.24,
+      "visible_start_s": 106.16,
+      "visible_end_s": 117.72,
+      "visible_duration_s": 11.56
+    },
+    {
+      "id": 14,
+      "paragraph_id": "p003",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u05",
+          "start_char": 0,
+          "end_char": 10
+        },
+        {
+          "unit_id": "p003_u06",
+          "start_char": 0,
+          "end_char": 8
+        }
+      ],
+      "text": "反而把自己勒得难受，那可太划不来啦。",
+      "title": "不必为齐整难受",
+      "location": "木屋·起居室",
+      "time_of_day": "冬夜",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮垂眼看着过紧的围巾尾端，神情温柔但若有所悟，肩膀开始放松；画面让人看出它意识到两边绝对一样齐不值得让自己难受，不加文字或符号。",
+      "action": "皮皮垂眼看着过紧的围巾尾端，神情温柔但若有所悟，肩膀开始放松；画面让人看出它意识到两边绝对一样齐不值得让自己难受，不加文字或符号。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "PROP_SCARF_01"
+      ],
+      "state_before": "皮皮想到追求两边绝对齐整让自己难受；同一围巾仍偏紧，动作暂停。",
+      "state_after": "皮皮垂眼看着过紧的围巾尾端，神情温柔但若有所悟，肩膀开始放松；画面让人看出它意识到两边绝对一样齐不值得让自己难受，不加文字或符号。",
+      "transition_from": "13",
+      "image_status": "reviewed_pass",
+      "image_path": "images/shot_14.png",
+      "image": "images/shot_14.png",
+      "speech_start_s": 117.46847916666667,
+      "speech_end_s": 122.42339483333333,
+      "actual_start_s": 117.24,
+      "actual_end_s": 122.96,
+      "visible_start_s": 116.75999999999999,
+      "visible_end_s": 123.44,
+      "visible_duration_s": 6.68
+    },
+    {
+      "id": 15,
+      "paragraph_id": "p003",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u07",
+          "start_char": 0,
+          "end_char": 4
+        },
+        {
+          "unit_id": "p003_u08",
+          "start_char": 0,
+          "end_char": 8
+        },
+        {
+          "unit_id": "p003_u09",
+          "start_char": 0,
+          "end_char": 24
+        }
+      ],
+      "text": "\n于是，皮皮伸出小爪子，先把绕在脖子上的那一圈毛线轻轻往外松开了一大截，",
+      "title": "轻轻松开一大截",
+      "location": "木屋·起居室",
+      "time_of_day": "冬夜",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮伸出两只小爪，把同一条赤陶红围巾的颈圈轻轻向外松开一大截；动作正在发生，围巾从紧绷变得宽松，皮皮专注而轻柔，脖子周围出现舒适空隙。",
+      "action": "皮皮伸出两只小爪，把同一条赤陶红围巾的颈圈轻轻向外松开一大截；动作正在发生，围巾从紧绷变得宽松，皮皮专注而轻柔，脖子周围出现舒适空隙。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "PROP_SCARF_01"
+      ],
+      "state_before": "皮皮刚意识到不值得勉强自己；同一条围巾仍绕紧在脖子上，下一镜开始松开。",
+      "state_after": "皮皮伸出两只小爪，把同一条赤陶红围巾的颈圈轻轻向外松开一大截；动作正在发生，围巾从紧绷变得宽松，皮皮专注而轻柔，脖子周围出现舒适空隙。",
+      "transition_from": "14",
+      "image_status": "reviewed_pass",
+      "image_path": "images/shot_15.png",
+      "image": "images/shot_15.png",
+      "speech_start_s": 123.49464583333334,
+      "speech_end_s": 134.18279133333334,
+      "actual_start_s": 122.96,
+      "actual_end_s": 134.4,
+      "visible_start_s": 122.47999999999999,
+      "visible_end_s": 134.88,
+      "visible_duration_s": 12.4
+    },
+    {
+      "id": 16,
+      "paragraph_id": "p003",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u10",
+          "start_char": 0,
+          "end_char": 15
+        },
+        {
+          "unit_id": "p003_u11",
+          "start_char": 0,
+          "end_char": 15
+        }
+      ],
+      "text": "让自己的脖子和垂下来的长耳朵，都有了宽松的地方可以轻轻活动。",
+      "title": "脖子和耳朵能活动",
+      "location": "木屋·起居室",
+      "time_of_day": "冬夜",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "围巾松开后皮皮轻轻转头，长耳朵自然垂动，脖子周围宽松舒适；皮皮露出松一口气的柔和神情，围巾仍是同一条、同一颜色和针织纹理。",
+      "action": "围巾松开后皮皮轻轻转头，长耳朵自然垂动，脖子周围宽松舒适；皮皮露出松一口气的柔和神情，围巾仍是同一条、同一颜色和针织纹理。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "PROP_SCARF_01"
+      ],
+      "state_before": "皮皮已经将颈圈向外松开一大截，脖子与长耳朵周围出现活动空间。",
+      "state_after": "围巾松开后皮皮轻轻转头，长耳朵自然垂动，脖子周围宽松舒适；皮皮露出松一口气的柔和神情，围巾仍是同一条、同一颜色和针织纹理。",
+      "transition_from": "15",
+      "image_status": "reviewed_pass",
+      "image_path": "images/shot_16.png",
+      "image": "images/shot_16.png",
+      "speech_start_s": 134.63902083333335,
+      "speech_end_s": 143.3368951666667,
+      "actual_start_s": 134.4,
+      "actual_end_s": 143.88,
+      "visible_start_s": 133.92000000000002,
+      "visible_end_s": 144.35999999999999,
+      "visible_duration_s": 10.44
+    },
+    {
+      "id": 17,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u01",
+          "start_char": 0,
+          "end_char": 11
+        },
+        {
+          "unit_id": "p004_u02",
+          "start_char": 0,
+          "end_char": 10
+        }
+      ],
+      "text": "接着，他把围巾解下来，挂在衣帽架的横杆上。",
+      "title": "挂到衣帽架",
+      "location": "木屋·门厅",
+      "time_of_day": "冬夜",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮把同一条赤陶红针织围巾从脖子上解下来，挂在门厅同一只蜂蜜色木衣帽架横杆上；围巾宽松悬挂，皮皮动作轻松。屋内暖光，围巾未遗失。",
+      "action": "皮皮把同一条赤陶红针织围巾从脖子上解下来，挂在门厅同一只蜂蜜色木衣帽架横杆上；围巾宽松悬挂，皮皮动作轻松。屋内暖光，围巾未遗失。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_ENTRY_01",
+        "PROP_SCARF_01",
+        "PROP_COATSTAND_01"
+      ],
+      "state_before": "围巾仍松松围着；皮皮准备把它从脖子解下，门厅的同一木衣帽架在近旁。",
+      "state_after": "皮皮把同一条赤陶红针织围巾从脖子上解下来，挂在门厅同一只蜂蜜色木衣帽架横杆上；围巾宽松悬挂，皮皮动作轻松。屋内暖光，围巾未遗失。",
+      "transition_from": "16",
+      "image_status": "reviewed_pass",
+      "image_path": "images/shot_17.png",
+      "image": "images/shot_17.png",
+      "speech_start_s": 144.42614583333335,
+      "speech_end_s": 150.63804066666668,
+      "actual_start_s": 143.88,
+      "actual_end_s": 151.16,
+      "visible_start_s": 143.4,
+      "visible_end_s": 151.64,
+      "visible_duration_s": 8.24
+    },
+    {
+      "id": 18,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u03",
+          "start_char": 0,
+          "end_char": 4
+        },
+        {
+          "unit_id": "p004_u04",
+          "start_char": 0,
+          "end_char": 15
+        },
+        {
+          "unit_id": "p004_u05",
+          "start_char": 0,
+          "end_char": 11
+        }
+      ],
+      "text": "这一次，他没有再用尺子量着去对齐两端，而是让围巾自然地垂下，",
+      "title": "让围巾自然垂下",
+      "location": "木屋·门厅",
+      "time_of_day": "冬夜",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮看着围巾自然挂在同一衣帽架上，没有用尺子量也没有强行调整；围巾柔软下垂、绞花针织纹理和流苏一致，皮皮神情满意平静，画面里不要出现尺子。",
+      "action": "皮皮看着围巾自然挂在同一衣帽架上，没有用尺子量也没有强行调整；围巾柔软下垂、绞花针织纹理和流苏一致，皮皮神情满意平静，画面里不要出现尺子。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "PROP_SCARF_01",
+        "PROP_COATSTAND_01"
+      ],
+      "state_before": "皮皮已把围巾挂上固定衣帽架横杆；围巾自然下垂，暂不强行拉齐。",
+      "state_after": "皮皮看着围巾自然挂在同一衣帽架上，没有用尺子量也没有强行调整；围巾柔软下垂、绞花针织纹理和流苏一致，皮皮神情满意平静，画面里不要出现尺子。",
+      "transition_from": "17",
+      "image_status": "reviewed_pass",
+      "image_path": "images/shot_18.png",
+      "image": "images/shot_18.png",
+      "speech_start_s": 151.69752083333333,
+      "speech_end_s": 160.78264549999997,
+      "actual_start_s": 151.16,
+      "actual_end_s": 161.04,
+      "visible_start_s": 150.68,
+      "visible_end_s": 161.51999999999998,
+      "visible_duration_s": 10.84
+    },
+    {
+      "id": 19,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u06",
+          "start_char": 0,
+          "end_char": 14
+        },
+        {
+          "unit_id": "p004_u07",
+          "start_char": 0,
+          "end_char": 6
+        },
+        {
+          "unit_id": "p004_u08",
+          "start_char": 0,
+          "end_char": 13
+        }
+      ],
+      "text": "左边留出一小截长一点的尾巴，右边短一点，看上去反而显得松软又自然。",
+      "title": "一长一短也松软",
+      "location": "木屋·门厅",
+      "time_of_day": "冬夜",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "同一条赤陶红围巾挂在同一木横杆上，左侧尾巴明显长一小截、右侧短一些，两端流苏一致；皮皮站在旁边微笑欣赏它松软自然的样子。",
+      "action": "同一条赤陶红围巾挂在同一木横杆上，左侧尾巴明显长一小截、右侧短一些，两端流苏一致；皮皮站在旁边微笑欣赏它松软自然的样子。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "PROP_SCARF_01",
+        "PROP_COATSTAND_01"
+      ],
+      "state_before": "同一条围巾挂在同一横杆上，赤陶红绞花纹和流苏不变；左尾长、右尾短。",
+      "state_after": "同一条赤陶红围巾挂在同一木横杆上，左侧尾巴明显长一小截、右侧短一些，两端流苏一致；皮皮站在旁边微笑欣赏它松软自然的样子。",
+      "transition_from": "18",
+      "image_status": "reviewed_pass",
+      "image_path": "images/shot_19.png",
+      "image": "images/shot_19.png",
+      "speech_start_s": 161.25941666666665,
+      "speech_end_s": 171.1375618333333,
+      "actual_start_s": 161.04,
+      "actual_end_s": 171.68,
+      "visible_start_s": 160.56,
+      "visible_end_s": 172.16,
+      "visible_duration_s": 11.6
+    },
+    {
+      "id": 20,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u09",
+          "start_char": 0,
+          "end_char": 13
+        },
+        {
+          "unit_id": "p004_u10",
+          "start_char": 0,
+          "end_char": 18
+        }
+      ],
+      "text": "\n皮皮走到卧室窗边往外看，只见院子里的冬青树枝头上落满了白雪。",
+      "title": "窗外冬青覆雪",
+      "location": "卧室·窗边",
+      "time_of_day": "冬夜",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮从同一木屋的门厅走到卧室窗边，侧身站在关闭的木框玻璃窗旁往外看；窗外院子里一株冬青枝头覆雪。用窗景建立场景转换，人物位置自然，围巾已挂在衣帽架不再佩戴。",
+      "action": "皮皮从同一木屋的门厅走到卧室窗边，侧身站在关闭的木框玻璃窗旁往外看；窗外院子里一株冬青枝头覆雪。用窗景建立场景转换，人物位置自然，围巾已挂在衣帽架不再佩戴。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_BEDROOM_01",
+        "WIN_WINDOW_01",
+        "PROP_HOLLY_01"
+      ],
+      "state_before": "围巾留在门厅衣帽架上；皮皮从门厅走到卧室窗边，地点切换有动作交代。",
+      "state_after": "皮皮从同一木屋的门厅走到卧室窗边，侧身站在关闭的木框玻璃窗旁往外看；窗外院子里一株冬青枝头覆雪。用窗景建立场景转换，人物位置自然，围巾已挂在衣帽架不再佩戴。",
+      "transition_from": "19",
+      "image_status": "reviewed_pass",
+      "image_path": "images/shot_20.png",
+      "image": "images/shot_20.png",
+      "speech_start_s": 172.2318958333333,
+      "speech_end_s": 181.23741566666666,
+      "actual_start_s": 171.68,
+      "actual_end_s": 181.76,
+      "visible_start_s": 171.20000000000002,
+      "visible_end_s": 182.23999999999998,
+      "visible_duration_s": 11.04
+    },
+    {
+      "id": 21,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u11",
+          "start_char": 0,
+          "end_char": 22
+        },
+        {
+          "unit_id": "p004_u12",
+          "start_char": 0,
+          "end_char": 12
+        }
+      ],
+      "text": "白雪并没有把树枝的每一个空隙都填得严严实实，而是留着许多透气的缝隙，",
+      "title": "雪没有填满空隙",
+      "location": "院子·冬青枝头",
+      "time_of_day": "冬夜",
+      "layer": "story",
+      "characters": [],
+      "character_reference_manifest": null,
+      "character_references": {},
+      "wardrobe_ids": {},
+      "visual_direction": "近景看同一株冬青的覆雪枝条：柔软白雪落在枝干和叶片上，枝叶之间仍留着清楚透气的间隙，没有把每个空隙塞满。冷蓝冬夜、安静水彩绘本，不加兔子或文字。",
+      "action": "近景看同一株冬青的覆雪枝条：柔软白雪落在枝干和叶片上，枝叶之间仍留着清楚透气的间隙，没有把每个空隙塞满。冷蓝冬夜、安静水彩绘本，不加兔子或文字。",
+      "continuity_refs": [
+        "PROP_HOLLY_01"
+      ],
+      "state_before": "皮皮在卧室窗边观察同一株院中冬青；覆雪枝叶之间仍有空隙。",
+      "state_after": "近景看同一株冬青的覆雪枝条：柔软白雪落在枝干和叶片上，枝叶之间仍留着清楚透气的间隙，没有把每个空隙塞满。冷蓝冬夜、安静水彩绘本，不加兔子或文字。",
+      "transition_from": "20",
+      "image_status": "reviewed_pass",
+      "image_path": "images/shot_21.png",
+      "image": "images/shot_21.png",
+      "speech_start_s": 182.31827083333332,
+      "speech_end_s": 192.13464516666664,
+      "actual_start_s": 181.76,
+      "actual_end_s": 192.36,
+      "visible_start_s": 181.28,
+      "visible_end_s": 192.84,
+      "visible_duration_s": 11.56
+    },
+    {
+      "id": 22,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u13",
+          "start_char": 0,
+          "end_char": 17
+        }
+      ],
+      "text": "可小树照样在冬夜里站得安安稳稳的。",
+      "title": "小树安稳站着",
+      "location": "院子·冬青树",
+      "time_of_day": "冬夜",
+      "layer": "story",
+      "characters": [],
+      "character_reference_manifest": null,
+      "character_references": {},
+      "wardrobe_ids": {},
+      "visual_direction": "稍远景展示同一株覆雪冬青在冬夜里稳稳站立，白雪覆盖枝头却保留枝叶间隙，细枝没有被压断；画面宁静安稳，和前一近景能辨认是同一树。",
+      "action": "稍远景展示同一株覆雪冬青在冬夜里稳稳站立，白雪覆盖枝头却保留枝叶间隙，细枝没有被压断；画面宁静安稳，和前一近景能辨认是同一树。",
+      "continuity_refs": [
+        "PROP_HOLLY_01"
+      ],
+      "state_before": "同一株冬青仍在院中冬夜里稳稳站立，雪留在枝叶上，未压断树枝。",
+      "state_after": "稍远景展示同一株覆雪冬青在冬夜里稳稳站立，白雪覆盖枝头却保留枝叶间隙，细枝没有被压断；画面宁静安稳，和前一近景能辨认是同一树。",
+      "transition_from": "21",
+      "image_status": "reviewed_pass",
+      "image_path": "images/shot_22.png",
+      "image": "images/shot_22.png",
+      "speech_start_s": 192.5749583333333,
+      "speech_end_s": 197.60231249999998,
+      "actual_start_s": 192.36,
+      "actual_end_s": 198.16,
+      "visible_start_s": 191.88000000000002,
+      "visible_end_s": 198.64,
+      "visible_duration_s": 6.76
+    },
+    {
+      "id": 23,
+      "paragraph_id": "p005",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u01",
+          "start_char": 0,
+          "end_char": 9
+        },
+        {
+          "unit_id": "p005_u02",
+          "start_char": 0,
+          "end_char": 11
+        }
+      ],
+      "text": "洗漱完坐到床沿上，皮皮戴上柔软的睡帽时，",
+      "title": "洗漱后坐床沿",
+      "location": "卧室·床边",
+      "time_of_day": "冬夜",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "洗漱后的皮皮坐在同一张低木床床沿，身穿固定睡前衣着，正拿起深蓝小黄星睡帽准备戴上；赤陶红围巾留在门厅衣帽架，不在卧室或皮皮身上。",
+      "action": "洗漱后的皮皮坐在同一张低木床床沿，身穿固定睡前衣着，正拿起深蓝小黄星睡帽准备戴上；赤陶红围巾留在门厅衣帽架，不在卧室或皮皮身上。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_BEDROOM_01",
+        "PROP_BED_01",
+        "PROP_SLEEP_CAP_01"
+      ],
+      "state_before": "皮皮已洗漱，进入卧室并坐在床沿；围巾仍挂在门厅衣帽架。",
+      "state_after": "洗漱后的皮皮坐在同一张低木床床沿，身穿固定睡前衣着，正拿起深蓝小黄星睡帽准备戴上；赤陶红围巾留在门厅衣帽架，不在卧室或皮皮身上。",
+      "transition_from": "22",
+      "image_status": "reviewed_pass",
+      "image_path": "images/shot_23.png",
+      "image": "images/shot_23.png",
+      "speech_start_s": 198.68058333333332,
+      "speech_end_s": 204.89839449999997,
+      "actual_start_s": 198.16,
+      "actual_end_s": 205.12,
+      "visible_start_s": 197.68,
+      "visible_end_s": 205.6,
+      "visible_duration_s": 7.92
+    },
+    {
+      "id": 24,
+      "paragraph_id": "p005",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u03",
+          "start_char": 0,
+          "end_char": 9
+        },
+        {
+          "unit_id": "p005_u04",
+          "start_char": 0,
+          "end_char": 9
+        },
+        {
+          "unit_id": "p005_u05",
+          "start_char": 0,
+          "end_char": 18
+        }
+      ],
+      "text": "也照着刚才的方法，把帽口放得松松的，没有为了整齐而把两只长耳朵死死压住。",
+      "title": "帽口松松的",
+      "location": "卧室·床边",
+      "time_of_day": "冬夜",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "皮皮戴上同一顶深蓝黄星睡帽，帽口松松地戴在头顶与两耳之间，左右长耳朵自然伸出且没有被帽子压住；皮皮轻轻调整帽口，表情舒适。",
+      "action": "皮皮戴上同一顶深蓝黄星睡帽，帽口松松地戴在头顶与两耳之间，左右长耳朵自然伸出且没有被帽子压住；皮皮轻轻调整帽口，表情舒适。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "PROP_SLEEP_CAP_01"
+      ],
+      "state_before": "皮皮已戴上同一顶深蓝黄星睡帽；两只长耳从帽口自然伸出，没有被压住。",
+      "state_after": "皮皮戴上同一顶深蓝黄星睡帽，帽口松松地戴在头顶与两耳之间，左右长耳朵自然伸出且没有被帽子压住；皮皮轻轻调整帽口，表情舒适。",
+      "transition_from": "23",
+      "image_status": "reviewed_pass",
+      "image_path": "images/shot_24.png",
+      "image": "images/shot_24.png",
+      "speech_start_s": 205.3413958333333,
+      "speech_end_s": 216.47420766666664,
+      "actual_start_s": 205.12,
+      "actual_end_s": 216.96,
+      "visible_start_s": 204.64000000000001,
+      "visible_end_s": 217.44,
+      "visible_duration_s": 12.8
+    },
+    {
+      "id": 25,
+      "paragraph_id": "p005",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u06",
+          "start_char": 0,
+          "end_char": 7
+        },
+        {
+          "unit_id": "p005_u07",
+          "start_char": 0,
+          "end_char": 9
+        }
+      ],
+      "text": "\n他钻进被窝，拉好暖黄色的毛毯，",
+      "title": "钻进被窝拉毛毯",
+      "location": "卧室·床上",
+      "time_of_day": "冬夜",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "皮皮戴着松软睡帽钻进同一张低木床的被窝，双爪把固定暖黄色毛毯轻轻拉好；围巾没有出现在卧室床上，姿势自然、舒适。",
+      "action": "皮皮戴着松软睡帽钻进同一张低木床的被窝，双爪把固定暖黄色毛毯轻轻拉好；围巾没有出现在卧室床上，姿势自然、舒适。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "PROP_BED_01",
+        "PROP_BLANKET_01",
+        "PROP_SLEEP_CAP_01"
+      ],
+      "state_before": "皮皮从床沿钻进同一张床的被窝，暖黄色毛毯在身旁，睡帽保持松戴。",
+      "state_after": "皮皮戴着松软睡帽钻进同一张低木床的被窝，双爪把固定暖黄色毛毯轻轻拉好；围巾没有出现在卧室床上，姿势自然、舒适。",
+      "transition_from": "24",
+      "image_status": "reviewed_pass",
+      "image_path": "images/shot_25.png",
+      "image": "images/shot_25.png",
+      "speech_start_s": 217.48393749999997,
+      "speech_end_s": 222.1142486666666,
+      "actual_start_s": 216.96,
+      "actual_end_s": 222.32,
+      "visible_start_s": 216.48000000000002,
+      "visible_end_s": 222.79999999999998,
+      "visible_duration_s": 6.32
+    },
+    {
+      "id": 26,
+      "paragraph_id": "p005",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u08",
+          "start_char": 0,
+          "end_char": 22
+        },
+        {
+          "unit_id": "p005_u09",
+          "start_char": 0,
+          "end_char": 19
+        }
+      ],
+      "text": "特意在肩膀和脖子旁边留出了一点点松软的余地，没有把自己裹成一根动弹不得的木头桩子。",
+      "title": "肩颈留出余地",
+      "location": "卧室·床上",
+      "time_of_day": "冬夜",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "皮皮盖着同一条暖黄色毛毯，但肩膀与脖子旁留有松软空隙，长耳朵从星星睡帽旁自然垂出，身体没有被裹紧；皮皮神情放松，画面强调自由舒展。",
+      "action": "皮皮盖着同一条暖黄色毛毯，但肩膀与脖子旁留有松软空隙，长耳朵从星星睡帽旁自然垂出，身体没有被裹紧；皮皮神情放松，画面强调自由舒展。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "PROP_BED_01",
+        "PROP_BLANKET_01",
+        "PROP_SLEEP_CAP_01"
+      ],
+      "state_before": "皮皮在被窝里，毛毯已拉好但肩颈旁保留松软余地，没有裹紧。",
+      "state_after": "皮皮盖着同一条暖黄色毛毯，但肩膀与脖子旁留有松软空隙，长耳朵从星星睡帽旁自然垂出，身体没有被裹紧；皮皮神情放松，画面强调自由舒展。",
+      "transition_from": "25",
+      "image_status": "reviewed_pass",
+      "image_path": "images/shot_26.png",
+      "image": "images/shot_26.png",
+      "speech_start_s": 222.56481249999996,
+      "speech_end_s": 234.25087466666665,
+      "actual_start_s": 222.32,
+      "actual_end_s": 234.8,
+      "visible_start_s": 221.84,
+      "visible_end_s": 235.28,
+      "visible_duration_s": 13.44
+    },
+    {
+      "id": 27,
+      "paragraph_id": "p005",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u10",
+          "start_char": 0,
+          "end_char": 5
+        },
+        {
+          "unit_id": "p005_u11",
+          "start_char": 0,
+          "end_char": 21
+        }
+      ],
+      "text": "这样一来，整个身体就能顺顺当当地陷进柔软的床垫里了。",
+      "title": "陷进柔软床垫",
+      "location": "卧室·床上",
+      "time_of_day": "冬夜",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "皮皮在同一张低床上舒服地陷进柔软床垫，肩颈仍留出余地，毛毯松松盖着腰身；耳朵放松、身体没有僵直，脸上出现安稳的浅笑。",
+      "action": "皮皮在同一张低床上舒服地陷进柔软床垫，肩颈仍留出余地，毛毯松松盖着腰身；耳朵放松、身体没有僵直，脸上出现安稳的浅笑。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "PROP_BED_01",
+        "PROP_BLANKET_01"
+      ],
+      "state_before": "皮皮继续松松盖着毛毯，身体正向柔软床垫沉下，睡帽和耳朵状态不变。",
+      "state_after": "皮皮在同一张低床上舒服地陷进柔软床垫，肩颈仍留出余地，毛毯松松盖着腰身；耳朵放松、身体没有僵直，脸上出现安稳的浅笑。",
+      "transition_from": "26",
+      "image_status": "reviewed_pass",
+      "image_path": "images/shot_27.png",
+      "image": "images/shot_27.png",
+      "speech_start_s": 235.33587499999996,
+      "speech_end_s": 243.42658266666663,
+      "actual_start_s": 234.8,
+      "actual_end_s": 243.96,
+      "visible_start_s": 234.32000000000002,
+      "visible_end_s": 244.44,
+      "visible_duration_s": 10.12
+    },
+    {
+      "id": 28,
+      "paragraph_id": "p006",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u01",
+          "start_char": 0,
+          "end_char": 15
+        },
+        {
+          "unit_id": "p006_u02",
+          "start_char": 0,
+          "end_char": 7
+        }
+      ],
+      "text": "胡萝卜玩偶也松松地靠在臂弯里。皮皮闭上眼睛，",
+      "title": "玩偶靠在臂弯",
+      "location": "卧室·床上",
+      "time_of_day": "冬夜",
+      "layer": "story",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "同一只橙色布胡萝卜玩偶带两片绿色布叶，松松靠在皮皮的臂弯；皮皮闭上眼睛，戴着松软星星睡帽，黄毛毯不紧不松地盖着。",
+      "action": "同一只橙色布胡萝卜玩偶带两片绿色布叶，松松靠在皮皮的臂弯；皮皮闭上眼睛，戴着松软星星睡帽，黄毛毯不紧不松地盖着。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "PROP_CARROT_TOY_01",
+        "PROP_SLEEP_CAP_01",
+        "PROP_BLANKET_01"
+      ],
+      "state_before": "皮皮已躺稳；橙色胡萝卜玩偶靠近臂弯，毛毯轻盖腰身，皮皮准备闭眼。",
+      "state_after": "同一只橙色布胡萝卜玩偶带两片绿色布叶，松松靠在皮皮的臂弯；皮皮闭上眼睛，戴着松软星星睡帽，黄毛毯不紧不松地盖着。",
+      "transition_from": "27",
+      "image_status": "reviewed_pass",
+      "image_path": "images/shot_28.png",
+      "image": "images/shot_28.png",
+      "speech_start_s": 244.5057083333333,
+      "speech_end_s": 251.8617288333333,
+      "actual_start_s": 243.96,
+      "actual_end_s": 252.12,
+      "visible_start_s": 243.48000000000002,
+      "visible_end_s": 252.6,
+      "visible_duration_s": 9.12
+    },
+    {
+      "id": 29,
+      "paragraph_id": "p006",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u03",
+          "start_char": 0,
+          "end_char": 8
+        },
+        {
+          "unit_id": "p006_u04",
+          "start_char": 0,
+          "end_char": 13
+        },
+        {
+          "unit_id": "p006_u05",
+          "start_char": 0,
+          "end_char": 10
+        }
+      ],
+      "text": "觉得今晚的温暖，是像云朵一样轻轻围着他的，一点儿压迫感也没有。",
+      "title": "温暖像云轻围",
+      "location": "卧室·床上",
+      "time_of_day": "冬夜",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "皮皮安静闭眼躺在床上，胡萝卜玩偶轻靠臂弯，松软毛毯像柔和云朵一样自然围住身体；只用柔软织物形态和暖光表达温暖，不画真正云朵、光环或文字，身体无压迫感。",
+      "action": "皮皮安静闭眼躺在床上，胡萝卜玩偶轻靠臂弯，松软毛毯像柔和云朵一样自然围住身体；只用柔软织物形态和暖光表达温暖，不画真正云朵、光环或文字，身体无压迫感。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "PROP_BED_01",
+        "PROP_BLANKET_01",
+        "PROP_SLEEP_CAP_01",
+        "PROP_CARROT_TOY_01"
+      ],
+      "state_before": "皮皮闭上眼睛，玩偶在臂弯，身体放松；暖黄色毛毯没有压迫肩颈。",
+      "state_after": "皮皮安静闭眼躺在床上，胡萝卜玩偶轻靠臂弯，松软毛毯像柔和云朵一样自然围住身体；只用柔软织物形态和暖光表达温暖，不画真正云朵、光环或文字，身体无压迫感。",
+      "transition_from": "28",
+      "image_status": "reviewed_pass",
+      "image_path": "images/shot_29.png",
+      "image": "images/shot_29.png",
+      "speech_start_s": 252.34616666666665,
+      "speech_end_s": 261.285041,
+      "actual_start_s": 252.12,
+      "actual_end_s": 261.8,
+      "visible_start_s": 251.64000000000001,
+      "visible_end_s": 262.28000000000003,
+      "visible_duration_s": 10.64
+    },
+    {
+      "id": 30,
+      "paragraph_id": "p006",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u06",
+          "start_char": 0,
+          "end_char": 5
+        },
+        {
+          "unit_id": "p006_u07",
+          "start_char": 0,
+          "end_char": 6
+        },
+        {
+          "unit_id": "p006_u08",
+          "start_char": 0,
+          "end_char": 14
+        }
+      ],
+      "text": "\n小朋友，睡觉的时候，让被子和衣服松松地陪着你吧。",
+      "title": "松松地陪着睡",
+      "location": "卧室·床上",
+      "time_of_day": "冬夜",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "皮皮躺在同一张床上，姿势自在，肩颈和被角都松松的，胡萝卜玩偶在臂弯；画面像睡前故事轻声叮嘱小朋友，让衣服和被子舒服陪伴，不出现额外角色或文字。",
+      "action": "皮皮躺在同一张床上，姿势自在，肩颈和被角都松松的，胡萝卜玩偶在臂弯；画面像睡前故事轻声叮嘱小朋友，让衣服和被子舒服陪伴，不出现额外角色或文字。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "PROP_BED_01",
+        "PROP_BLANKET_01",
+        "PROP_SLEEP_CAP_01",
+        "PROP_CARROT_TOY_01"
+      ],
+      "state_before": "皮皮在床上安静休息，睡帽与胡萝卜玩偶保持前镜位置，准备进入睡前叮咛画面。",
+      "state_after": "皮皮躺在同一张床上，姿势自在，肩颈和被角都松松的，胡萝卜玩偶在臂弯；画面像睡前故事轻声叮嘱小朋友，让衣服和被子舒服陪伴，不出现额外角色或文字。",
+      "transition_from": "29",
+      "image_status": "reviewed_pass",
+      "image_path": "images/shot_30.png",
+      "image": "images/shot_30.png",
+      "speech_start_s": 262.3223541666666,
+      "speech_end_s": 269.9648118333333,
+      "actual_start_s": 261.8,
+      "actual_end_s": 270.52,
+      "visible_start_s": 261.32,
+      "visible_end_s": 271.0,
+      "visible_duration_s": 9.68
+    },
+    {
+      "id": 31,
+      "paragraph_id": "p006",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u09",
+          "start_char": 0,
+          "end_char": 12
+        },
+        {
+          "unit_id": "p006_u10",
+          "start_char": 0,
+          "end_char": 5
+        },
+        {
+          "unit_id": "p006_u11",
+          "start_char": 0,
+          "end_char": 7
+        }
+      ],
+      "text": "不用事事都追求严丝合缝，不赶时间，也不绷紧身体，",
+      "title": "不赶时间不绷紧",
+      "location": "卧室·床上",
+      "time_of_day": "冬夜",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "皮皮身体软软地靠进枕头和床垫，肩膀下沉、爪子松开，脸上安稳浅笑；暖黄毛毯只松松盖住身体，长耳朵自然舒展，画面表现不着急、不绷紧。",
+      "action": "皮皮身体软软地靠进枕头和床垫，肩膀下沉、爪子松开，脸上安稳浅笑；暖黄毛毯只松松盖住身体，长耳朵自然舒展，画面表现不着急、不绷紧。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "PROP_BED_01",
+        "PROP_BLANKET_01",
+        "PROP_SLEEP_CAP_01",
+        "PROP_CARROT_TOY_01"
+      ],
+      "state_before": "皮皮肩膀放松、身体不再绷紧，黄毛毯仍松软盖着，晚安结尾即将到来。",
+      "state_after": "皮皮身体软软地靠进枕头和床垫，肩膀下沉、爪子松开，脸上安稳浅笑；暖黄毛毯只松松盖住身体，长耳朵自然舒展，画面表现不着急、不绷紧。",
+      "transition_from": "30",
+      "image_status": "reviewed_pass",
+      "image_path": "images/shot_31.png",
+      "image": "images/shot_31.png",
+      "speech_start_s": 271.0406458333333,
+      "speech_end_s": 279.0731656666666,
+      "actual_start_s": 270.52,
+      "actual_end_s": 279.28,
+      "visible_start_s": 270.03999999999996,
+      "visible_end_s": 279.76,
+      "visible_duration_s": 9.72
+    },
+    {
+      "id": 32,
+      "paragraph_id": "p006",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u12",
+          "start_char": 0,
+          "end_char": 8
+        },
+        {
+          "unit_id": "p006_u13",
+          "start_char": 0,
+          "end_char": 3
+        }
+      ],
+      "text": "舒舒服服地睡吧。晚安。",
+      "title": "舒舒服服晚安",
+      "location": "卧室·床上",
+      "time_of_day": "冬夜",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_wardrobe_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "安静的收尾近景：皮皮已经舒服地睡着，松软睡帽没有压住耳朵，胡萝卜玩偶靠在臂弯，暖黄毛毯在肩颈留有余地；窗外是宁静冬夜。画面温柔稳定，不加字。",
+      "action": "安静的收尾近景：皮皮已经舒服地睡着，松软睡帽没有压住耳朵，胡萝卜玩偶靠在臂弯，暖黄毛毯在肩颈留有余地；窗外是宁静冬夜。画面温柔稳定，不加字。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "PROP_BED_01",
+        "PROP_BLANKET_01",
+        "PROP_SLEEP_CAP_01",
+        "PROP_CARROT_TOY_01"
+      ],
+      "state_before": "皮皮安稳闭眼睡着；睡帽未压耳、玩偶贴着臂弯、毛毯在肩颈留有余地。",
+      "state_after": "安静的收尾近景：皮皮已经舒服地睡着，松软睡帽没有压住耳朵，胡萝卜玩偶靠在臂弯，暖黄毛毯在肩颈留有余地；窗外是宁静冬夜。画面温柔稳定，不加字。",
+      "transition_from": "31",
+      "image_status": "reviewed_pass",
+      "image_path": "images/shot_32.png",
+      "image": "images/shot_32.png",
+      "speech_start_s": 279.5055208333333,
+      "speech_end_s": 283.73226983333336,
+      "actual_start_s": 279.28,
+      "actual_end_s": 292.84,
+      "visible_start_s": 278.79999999999995,
+      "visible_end_s": 292.84,
+      "visible_duration_s": 14.04
+    }
+  ],
+  "audio": "mix.wav",
+  "subtitles": "episode.ass",
+  "character_registry": "references/",
+  "fonts": [
+    {
+      "path": "fonts/NotoSansCJKsc-Bold.otf",
+      "sha256": "85c969dbb2f927c8dbbe440d5755b7c9a714f13a7a58339459df43cfff3583b3"
+    },
+    {
+      "path": "fonts/Noto-Sans-copyright.txt",
+      "sha256": "075f91382875da1c4b491f1facf2586f55448705133264d98ce15cab6211b125"
+    },
+    {
+      "path": "fonts/NotoSans-Regular.ttf",
+      "sha256": "89c3c497f618fdaa0b2d1e98fef93582f28c71debd2c4a8cdf41f190ced2909d"
+    },
+    {
+      "path": "fonts/NotoSansCJKsc-Regular.otf",
+      "sha256": "82e9bdfd176ce68c51f6ff89ca7e2abae7fdb82b4591aa7338638598ae3c91c8"
+    },
+    {
+      "path": "fonts/Noto-CJK-copyright.txt",
+      "sha256": "849f4ea9c214fa4ac3593b770c699f387534b11ce671264c1b10d85bdcb5997b"
+    }
+  ]
+}

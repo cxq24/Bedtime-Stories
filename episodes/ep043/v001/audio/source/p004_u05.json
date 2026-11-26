@@ -1,0 +1,47 @@
+{
+  "text": "而是让围巾自然地垂下，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "68f70dfc0e43f2fccf1a72ae5c816cf88b5fd264c54df98e0af622cc8168ec8f",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4615410,
+      "text": "而是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6077080,
+      "duration": 2884580,
+      "text": "让"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8961660,
+      "duration": 5961660,
+      "text": "围巾"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15307500,
+      "duration": 5000000,
+      "text": "自然"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20307500,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21846250,
+      "duration": 9038330,
+      "text": "垂下"
+    }
+  ]
+}

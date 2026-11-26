@@ -1,0 +1,29 @@
+{
+  "text": "\n他钻进被窝，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "60c58f2394a51403fa336456cba8b5b5df55cab33ad6855228de9e845972ab82",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2115410,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3577080,
+      "duration": 6153750,
+      "text": "钻进"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9922910,
+      "duration": 7500000,
+      "text": "被窝"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "text": "他没有再用尺子量着去对齐两端，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "d271686148de4cf7f86fb3b3579577668deae6c1e9274f49a03bf610b00489f9",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2500000,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3769160,
+      "duration": 4038330,
+      "text": "没有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8000000,
+      "duration": 2500000,
+      "text": "再"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10500000,
+      "duration": 2115410,
+      "text": "用"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12807500,
+      "duration": 5192500,
+      "text": "尺子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18000000,
+      "duration": 4230830,
+      "text": "量"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22230830,
+      "duration": 4038330,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27807500,
+      "duration": 2307500,
+      "text": "去"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30307500,
+      "duration": 2500000,
+      "text": "对"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32807500,
+      "duration": 2115410,
+      "text": "齐"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35115410,
+      "duration": 7884580,
+      "text": "两端"
+    }
+  ]
+}

@@ -1,0 +1,428 @@
+[
+  {
+    "shot_id": 0,
+    "image_path": "images/shot_00.png",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/pipi_no_backpack_ref.png"
+    ],
+    "prompt": "皮皮穿米色上衣、灰蓝背带裤，系着长长的赤陶红针织围巾，站在安静的雪林小径边朝观众轻轻挥爪，眉眼温和好奇；几片小雪花落下。独立片头画面，不出现邮箱、室内窗边或后续情节。 竖屏9:16，温柔水彩睡前绘本，细腻纸纹，单幅插画，无任何汉字、英文字母、标牌或水印；角色面部清晰，主体置于中上部，底部留足字幕安全区。皮皮保持暖灰小兔身份及本镜情绪，不照搬参考图的困倦表情。 皮皮晚饭后在家或门廊，不携带书包、挎包、包袋或背带。",
+    "status": "reviewed_pass",
+    "revision_note": "全片接触表修订：去除误入镜的书包，保持家庭日常服；镜头10明确口鼻无遮挡。",
+    "revision_prompt": "Retouch the previously generated frame: remove school backpack, bag, straps and harness; use the cream knit shirt and slate-blue overalls; preserve pose and scene. For shot 10 keep the scarf below chin, mouth and nostrils unobstructed, with no choking or marks."
+  },
+  {
+    "shot_id": 1,
+    "image_path": "images/shot_01.png",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/scarf_reference.png"
+    ],
+    "prompt": "片头专属近景：皮皮低头看着脖子上柔软的赤陶红针织围巾，一只爪轻轻摸着围巾，另一只爪摊开像在思考怎样围才暖和舒服；表情温柔疑问。独立片头，不出现字幕、文字或后续故事插画构图。 竖屏9:16，温柔水彩睡前绘本，细腻纸纹，单幅插画，无任何汉字、英文字母、标牌或水印；角色面部清晰，主体置于中上部，底部留足字幕安全区。皮皮保持暖灰小兔身份及本镜情绪，不照搬参考图的困倦表情。 皮皮晚饭后在家或门廊，不携带书包、挎包、包袋或背带。",
+    "status": "reviewed_pass"
+  },
+  {
+    "shot_id": 2,
+    "image_path": "images/shot_02.png",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/porch_scene_ref.png",
+      "references/pipi_no_backpack_ref.png"
+    ],
+    "prompt": "初雪的森林小屋门廊，北风轻吹，暮色里暖灯透过玻璃窗。皮皮刚吃过晚饭，穿固定日常衣着，戴着同一条长赤陶红针织围巾站在门边，神情平静地望向细雪。 竖屏9:16，温柔水彩睡前绘本，细腻纸纹，单幅插画，无任何汉字、英文字母、标牌或水印；角色面部清晰，主体置于中上部，底部留足字幕安全区。皮皮保持暖灰小兔身份及本镜情绪，不照搬参考图的困倦表情。 皮皮晚饭后在家或门廊，不携带书包、挎包、包袋或背带。",
+    "status": "reviewed_pass",
+    "revision_note": "全片接触表修订：去除误入镜的书包，保持家庭日常服；镜头10明确口鼻无遮挡。",
+    "revision_prompt": "Retouch the previously generated frame: remove school backpack, bag, straps and harness; use the cream knit shirt and slate-blue overalls; preserve pose and scene. For shot 10 keep the scarf below chin, mouth and nostrils unobstructed, with no choking or marks."
+  },
+  {
+    "shot_id": 3,
+    "image_path": "images/shot_03.png",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/scarf_reference.png",
+      "references/porch_scene_ref.png",
+      "references/pipi_no_backpack_ref.png"
+    ],
+    "prompt": "同一木屋门廊与屋檐下的小木信箱。皮皮穿日常衣着、系同一条赤陶红针织围巾，伸爪从信箱取出一份折叠的无字森林报纸；雪落在门廊外，动作清楚自然。 竖屏9:16，温柔水彩睡前绘本，细腻纸纹，单幅插画，无任何汉字、英文字母、标牌或水印；角色面部清晰，主体置于中上部，底部留足字幕安全区。皮皮保持暖灰小兔身份及本镜情绪，不照搬参考图的困倦表情。 皮皮晚饭后在家或门廊，不携带书包、挎包、包袋或背带。",
+    "status": "reviewed_pass",
+    "revision_note": "全片接触表修订：去除误入镜的书包，保持家庭日常服；镜头10明确口鼻无遮挡。",
+    "revision_prompt": "Retouch the previously generated frame: remove school backpack, bag, straps and harness; use the cream knit shirt and slate-blue overalls; preserve pose and scene. For shot 10 keep the scarf below chin, mouth and nostrils unobstructed, with no choking or marks."
+  },
+  {
+    "shot_id": 4,
+    "image_path": "images/shot_04.png",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/scarf_reference.png",
+      "references/porch_scene_ref.png",
+      "references/pipi_no_backpack_ref.png"
+    ],
+    "prompt": "皮皮站在同一扇门廊玻璃窗前，对着玻璃观察自己的围巾和衣着，努力想显得整齐精神；两只围巾尾巴自然垂在胸前，皮皮神情认真、耳朵微微竖起，玻璃映出淡淡倒影。 竖屏9:16，温柔水彩睡前绘本，细腻纸纹，单幅插画，无任何汉字、英文字母、标牌或水印；角色面部清晰，主体置于中上部，底部留足字幕安全区。皮皮保持暖灰小兔身份及本镜情绪，不照搬参考图的困倦表情。 皮皮晚饭后在家或门廊，不携带书包、挎包、包袋或背带。",
+    "status": "reviewed_pass",
+    "revision_note": "全片接触表修订：去除误入镜的书包，保持家庭日常服；镜头10明确口鼻无遮挡。",
+    "revision_prompt": "Retouch the previously generated frame: remove school backpack, bag, straps and harness; use the cream knit shirt and slate-blue overalls; preserve pose and scene. For shot 10 keep the scarf below chin, mouth and nostrils unobstructed, with no choking or marks."
+  },
+  {
+    "shot_id": 5,
+    "image_path": "images/shot_05.png",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/scarf_reference.png"
+    ],
+    "prompt": "皮皮面对同一扇玻璃窗，把同一条赤陶红编织围巾在脖子上绕了几圈；围巾略显厚实但暂未勒紧，皮皮专注查看自己，双爪停在围巾两侧。保持温和、不危险。 竖屏9:16，温柔水彩睡前绘本，细腻纸纹，单幅插画，无任何汉字、英文字母、标牌或水印；角色面部清晰，主体置于中上部，底部留足字幕安全区。皮皮保持暖灰小兔身份及本镜情绪，不照搬参考图的困倦表情。 皮皮晚饭后在家或门廊，不携带书包、挎包、包袋或背带。",
+    "status": "reviewed_pass"
+  },
+  {
+    "shot_id": 6,
+    "image_path": "images/shot_06.png",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/scarf_reference.png",
+      "references/pipi_no_backpack_ref.png"
+    ],
+    "prompt": "皮皮低头把胸前同一条围巾的两条尾巴拉得等长、下沿齐整，对着玻璃检查结果；赤陶红绞花针织纹理和两端流苏保持一致，皮皮神情专注追求整齐。 竖屏9:16，温柔水彩睡前绘本，细腻纸纹，单幅插画，无任何汉字、英文字母、标牌或水印；角色面部清晰，主体置于中上部，底部留足字幕安全区。皮皮保持暖灰小兔身份及本镜情绪，不照搬参考图的困倦表情。 皮皮晚饭后在家或门廊，不携带书包、挎包、包袋或背带。",
+    "status": "reviewed_pass",
+    "revision_note": "全片接触表修订：去除误入镜的书包，保持家庭日常服；镜头10明确口鼻无遮挡。",
+    "revision_prompt": "Retouch the previously generated frame: remove school backpack, bag, straps and harness; use the cream knit shirt and slate-blue overalls; preserve pose and scene. For shot 10 keep the scarf below chin, mouth and nostrils unobstructed, with no choking or marks."
+  },
+  {
+    "shot_id": 7,
+    "image_path": "images/shot_07.png",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/scarf_reference.png",
+      "references/pipi_no_backpack_ref.png"
+    ],
+    "prompt": "近景展示皮皮胸前同一条围巾的两个尾端原本一长一短，皮皮正拉短的一端想让两边一样长；画面明确是柔软围巾尾巴，不添加尺子或其他道具。 竖屏9:16，温柔水彩睡前绘本，细腻纸纹，单幅插画，无任何汉字、英文字母、标牌或水印；角色面部清晰，主体置于中上部，底部留足字幕安全区。皮皮保持暖灰小兔身份及本镜情绪，不照搬参考图的困倦表情。 皮皮晚饭后在家或门廊，不携带书包、挎包、包袋或背带。",
+    "status": "reviewed_pass",
+    "revision_note": "全片接触表修订：去除误入镜的书包，保持家庭日常服；镜头10明确口鼻无遮挡。",
+    "revision_prompt": "Retouch the previously generated frame: remove school backpack, bag, straps and harness; use the cream knit shirt and slate-blue overalls; preserve pose and scene. For shot 10 keep the scarf below chin, mouth and nostrils unobstructed, with no choking or marks."
+  },
+  {
+    "shot_id": 8,
+    "image_path": "images/shot_08.png",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/scarf_reference.png",
+      "references/pipi_no_backpack_ref.png"
+    ],
+    "prompt": "皮皮不知不觉把同一条围巾的颈圈拉得过紧，爪子停在结边，眉眼微微收紧、耳朵略低，开始察觉不适；画面温和克制，不画勒痕、不喘不过气、不出现危险或疼痛夸张。 竖屏9:16，温柔水彩睡前绘本，细腻纸纹，单幅插画，无任何汉字、英文字母、标牌或水印；角色面部清晰，主体置于中上部，底部留足字幕安全区。皮皮保持暖灰小兔身份及本镜情绪，不照搬参考图的困倦表情。 皮皮晚饭后在家或门廊，不携带书包、挎包、包袋或背带。",
+    "status": "reviewed_pass",
+    "revision_note": "全片接触表修订：去除误入镜的书包，保持家庭日常服；镜头10明确口鼻无遮挡。",
+    "revision_prompt": "Retouch the previously generated frame: remove school backpack, bag, straps and harness; use the cream knit shirt and slate-blue overalls; preserve pose and scene. For shot 10 keep the scarf below chin, mouth and nostrils unobstructed, with no choking or marks."
+  },
+  {
+    "shot_id": 9,
+    "image_path": "images/shot_09.png",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/scarf_reference.png",
+      "references/pipi_no_backpack_ref.png"
+    ],
+    "prompt": "皮皮系着颈圈过紧的同一条围巾，双爪捧着折叠报纸走进暖黄灯光的木屋，正试着低头看报纸上的空白插画区域；脖子动作受围巾限制，表情困惑。 竖屏9:16，温柔水彩睡前绘本，细腻纸纹，单幅插画，无任何汉字、英文字母、标牌或水印；角色面部清晰，主体置于中上部，底部留足字幕安全区。皮皮保持暖灰小兔身份及本镜情绪，不照搬参考图的困倦表情。 皮皮晚饭后在家或门廊，不携带书包、挎包、包袋或背带。",
+    "status": "reviewed_pass",
+    "revision_note": "全片接触表修订：去除误入镜的书包，保持家庭日常服；镜头10明确口鼻无遮挡。",
+    "revision_prompt": "Retouch the previously generated frame: remove school backpack, bag, straps and harness; use the cream knit shirt and slate-blue overalls; preserve pose and scene. For shot 10 keep the scarf below chin, mouth and nostrils unobstructed, with no choking or marks."
+  },
+  {
+    "shot_id": 10,
+    "image_path": "images/shot_10.png",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/scarf_reference.png",
+      "references/pipi_no_backpack_ref.png"
+    ],
+    "prompt": "皮皮手捧报纸却无法自然低下头，颈部被同一条厚软围巾紧紧包住；身体僵了一下，眉眼显出惊讶和不舒服，但保持安全温和，不出现窒息画面。 竖屏9:16，温柔水彩睡前绘本，细腻纸纹，单幅插画，无任何汉字、英文字母、标牌或水印；角色面部清晰，主体置于中上部，底部留足字幕安全区。皮皮保持暖灰小兔身份及本镜情绪，不照搬参考图的困倦表情。 皮皮晚饭后在家或门廊，不携带书包、挎包、包袋或背带。 围巾只松软地绕在颈部、低于下巴，嘴巴和鼻孔完全露出，不压迫、不勒出痕迹，不画窒息或危险。",
+    "status": "reviewed_pass",
+    "revision_note": "全片接触表修订：去除误入镜的书包，保持家庭日常服；镜头10明确口鼻无遮挡。",
+    "revision_prompt": "Retouch the previously generated frame: remove school backpack, bag, straps and harness; use the cream knit shirt and slate-blue overalls; preserve pose and scene. For shot 10 keep the scarf below chin, mouth and nostrils unobstructed, with no choking or marks."
+  },
+  {
+    "shot_id": 11,
+    "image_path": "images/shot_11.png",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/scarf_reference.png",
+      "references/pipi_no_backpack_ref.png"
+    ],
+    "prompt": "皮皮轻轻扶着过紧的赤陶红围巾，肩膀略缩，神情闷闷、不舒服，呼吸仍平稳；暖木屋背景柔和，画面不过度戏剧化。 竖屏9:16，温柔水彩睡前绘本，细腻纸纹，单幅插画，无任何汉字、英文字母、标牌或水印；角色面部清晰，主体置于中上部，底部留足字幕安全区。皮皮保持暖灰小兔身份及本镜情绪，不照搬参考图的困倦表情。 皮皮晚饭后在家或门廊，不携带书包、挎包、包袋或背带。",
+    "status": "reviewed_pass",
+    "revision_note": "全片接触表修订：去除误入镜的书包，保持家庭日常服；镜头10明确口鼻无遮挡。",
+    "revision_prompt": "Retouch the previously generated frame: remove school backpack, bag, straps and harness; use the cream knit shirt and slate-blue overalls; preserve pose and scene. For shot 10 keep the scarf below chin, mouth and nostrils unobstructed, with no choking or marks."
+  },
+  {
+    "shot_id": 12,
+    "image_path": "images/shot_12.png",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/scarf_reference.png",
+      "references/pipi_no_backpack_ref.png"
+    ],
+    "prompt": "皮皮停下脚步，抬起一只爪摸摸颈前过紧的围巾，低头观察，神情由困惑转为认真思考；报纸放在旁边小桌上或仍稳稳捧着，不丢失。 竖屏9:16，温柔水彩睡前绘本，细腻纸纹，单幅插画，无任何汉字、英文字母、标牌或水印；角色面部清晰，主体置于中上部，底部留足字幕安全区。皮皮保持暖灰小兔身份及本镜情绪，不照搬参考图的困倦表情。 皮皮晚饭后在家或门廊，不携带书包、挎包、包袋或背带。",
+    "status": "reviewed_pass",
+    "revision_note": "全片接触表修订：去除误入镜的书包，保持家庭日常服；镜头10明确口鼻无遮挡。",
+    "revision_prompt": "Retouch the previously generated frame: remove school backpack, bag, straps and harness; use the cream knit shirt and slate-blue overalls; preserve pose and scene. For shot 10 keep the scarf below chin, mouth and nostrils unobstructed, with no choking or marks."
+  },
+  {
+    "shot_id": 13,
+    "image_path": "images/shot_13.png",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/scarf_reference.png",
+      "references/pipi_no_backpack_ref.png"
+    ],
+    "prompt": "皮皮站在玻璃窗前静静思考，一爪轻放胸前的围巾，另一爪松开，目光从整齐的围巾尾巴转向自己的感受；表情平和、专注，不画思想气泡或文字。 竖屏9:16，温柔水彩睡前绘本，细腻纸纹，单幅插画，无任何汉字、英文字母、标牌或水印；角色面部清晰，主体置于中上部，底部留足字幕安全区。皮皮保持暖灰小兔身份及本镜情绪，不照搬参考图的困倦表情。 皮皮晚饭后在家或门廊，不携带书包、挎包、包袋或背带。",
+    "status": "reviewed_pass",
+    "revision_note": "全片接触表修订：去除误入镜的书包，保持家庭日常服；镜头10明确口鼻无遮挡。",
+    "revision_prompt": "Retouch the previously generated frame: remove school backpack, bag, straps and harness; use the cream knit shirt and slate-blue overalls; preserve pose and scene. For shot 10 keep the scarf below chin, mouth and nostrils unobstructed, with no choking or marks."
+  },
+  {
+    "shot_id": 14,
+    "image_path": "images/shot_14.png",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/scarf_reference.png",
+      "references/pipi_no_backpack_ref.png"
+    ],
+    "prompt": "皮皮垂眼看着过紧的围巾尾端，神情温柔但若有所悟，肩膀开始放松；画面让人看出它意识到两边绝对一样齐不值得让自己难受，不加文字或符号。 竖屏9:16，温柔水彩睡前绘本，细腻纸纹，单幅插画，无任何汉字、英文字母、标牌或水印；角色面部清晰，主体置于中上部，底部留足字幕安全区。皮皮保持暖灰小兔身份及本镜情绪，不照搬参考图的困倦表情。 皮皮晚饭后在家或门廊，不携带书包、挎包、包袋或背带。",
+    "status": "reviewed_pass",
+    "revision_note": "全片接触表修订：去除误入镜的书包，保持家庭日常服；镜头10明确口鼻无遮挡。",
+    "revision_prompt": "Retouch the previously generated frame: remove school backpack, bag, straps and harness; use the cream knit shirt and slate-blue overalls; preserve pose and scene. For shot 10 keep the scarf below chin, mouth and nostrils unobstructed, with no choking or marks."
+  },
+  {
+    "shot_id": 15,
+    "image_path": "images/shot_15.png",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/scarf_reference.png",
+      "references/pipi_no_backpack_ref.png"
+    ],
+    "prompt": "皮皮伸出两只小爪，把同一条赤陶红围巾的颈圈轻轻向外松开一大截；动作正在发生，围巾从紧绷变得宽松，皮皮专注而轻柔，脖子周围出现舒适空隙。 竖屏9:16，温柔水彩睡前绘本，细腻纸纹，单幅插画，无任何汉字、英文字母、标牌或水印；角色面部清晰，主体置于中上部，底部留足字幕安全区。皮皮保持暖灰小兔身份及本镜情绪，不照搬参考图的困倦表情。 皮皮晚饭后在家或门廊，不携带书包、挎包、包袋或背带。",
+    "status": "reviewed_pass",
+    "revision_note": "全片接触表修订：去除误入镜的书包，保持家庭日常服；镜头10明确口鼻无遮挡。",
+    "revision_prompt": "Retouch the previously generated frame: remove school backpack, bag, straps and harness; use the cream knit shirt and slate-blue overalls; preserve pose and scene. For shot 10 keep the scarf below chin, mouth and nostrils unobstructed, with no choking or marks."
+  },
+  {
+    "shot_id": 16,
+    "image_path": "images/shot_16.png",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/scarf_reference.png",
+      "references/pipi_no_backpack_ref.png"
+    ],
+    "prompt": "围巾松开后皮皮轻轻转头，长耳朵自然垂动，脖子周围宽松舒适；皮皮露出松一口气的柔和神情，围巾仍是同一条、同一颜色和针织纹理。 竖屏9:16，温柔水彩睡前绘本，细腻纸纹，单幅插画，无任何汉字、英文字母、标牌或水印；角色面部清晰，主体置于中上部，底部留足字幕安全区。皮皮保持暖灰小兔身份及本镜情绪，不照搬参考图的困倦表情。 皮皮晚饭后在家或门廊，不携带书包、挎包、包袋或背带。",
+    "status": "reviewed_pass",
+    "revision_note": "全片接触表修订：去除误入镜的书包，保持家庭日常服；镜头10明确口鼻无遮挡。",
+    "revision_prompt": "Retouch the previously generated frame: remove school backpack, bag, straps and harness; use the cream knit shirt and slate-blue overalls; preserve pose and scene. For shot 10 keep the scarf below chin, mouth and nostrils unobstructed, with no choking or marks."
+  },
+  {
+    "shot_id": 17,
+    "image_path": "images/shot_17.png",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/scarf_reference.png",
+      "references/coatstand_ref.png",
+      "references/pipi_no_backpack_ref.png"
+    ],
+    "prompt": "皮皮把同一条赤陶红针织围巾从脖子上解下来，挂在门厅同一只蜂蜜色木衣帽架横杆上；围巾宽松悬挂，皮皮动作轻松。屋内暖光，围巾未遗失。 竖屏9:16，温柔水彩睡前绘本，细腻纸纹，单幅插画，无任何汉字、英文字母、标牌或水印；角色面部清晰，主体置于中上部，底部留足字幕安全区。皮皮保持暖灰小兔身份及本镜情绪，不照搬参考图的困倦表情。 皮皮晚饭后在家或门廊，不携带书包、挎包、包袋或背带。",
+    "status": "reviewed_pass",
+    "revision_note": "全片接触表修订：去除误入镜的书包，保持家庭日常服；镜头10明确口鼻无遮挡。",
+    "revision_prompt": "Retouch the previously generated frame: remove school backpack, bag, straps and harness; use the cream knit shirt and slate-blue overalls; preserve pose and scene. For shot 10 keep the scarf below chin, mouth and nostrils unobstructed, with no choking or marks."
+  },
+  {
+    "shot_id": 18,
+    "image_path": "images/shot_18.png",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/scarf_reference.png",
+      "references/coatstand_ref.png",
+      "references/pipi_no_backpack_ref.png"
+    ],
+    "prompt": "皮皮看着围巾自然挂在同一衣帽架上，没有用尺子量也没有强行调整；围巾柔软下垂、绞花针织纹理和流苏一致，皮皮神情满意平静，画面里不要出现尺子。 竖屏9:16，温柔水彩睡前绘本，细腻纸纹，单幅插画，无任何汉字、英文字母、标牌或水印；角色面部清晰，主体置于中上部，底部留足字幕安全区。皮皮保持暖灰小兔身份及本镜情绪，不照搬参考图的困倦表情。 皮皮晚饭后在家或门廊，不携带书包、挎包、包袋或背带。",
+    "status": "reviewed_pass",
+    "revision_note": "全片接触表修订：去除误入镜的书包，保持家庭日常服；镜头10明确口鼻无遮挡。",
+    "revision_prompt": "Retouch the previously generated frame: remove school backpack, bag, straps and harness; use the cream knit shirt and slate-blue overalls; preserve pose and scene. For shot 10 keep the scarf below chin, mouth and nostrils unobstructed, with no choking or marks."
+  },
+  {
+    "shot_id": 19,
+    "image_path": "images/shot_19.png",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/scarf_reference.png",
+      "references/coatstand_ref.png",
+      "references/pipi_no_backpack_ref.png"
+    ],
+    "prompt": "同一条赤陶红围巾挂在同一木横杆上，左侧尾巴明显长一小截、右侧短一些，两端流苏一致；皮皮站在旁边微笑欣赏它松软自然的样子。 竖屏9:16，温柔水彩睡前绘本，细腻纸纹，单幅插画，无任何汉字、英文字母、标牌或水印；角色面部清晰，主体置于中上部，底部留足字幕安全区。皮皮保持暖灰小兔身份及本镜情绪，不照搬参考图的困倦表情。 皮皮晚饭后在家或门廊，不携带书包、挎包、包袋或背带。",
+    "status": "reviewed_pass",
+    "revision_note": "全片接触表修订：去除误入镜的书包，保持家庭日常服；镜头10明确口鼻无遮挡。",
+    "revision_prompt": "Retouch the previously generated frame: remove school backpack, bag, straps and harness; use the cream knit shirt and slate-blue overalls; preserve pose and scene. For shot 10 keep the scarf below chin, mouth and nostrils unobstructed, with no choking or marks."
+  },
+  {
+    "shot_id": 20,
+    "image_path": "images/shot_20.png",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/snowy_bedroom_scene_ref.png",
+      "references/pipi_no_backpack_ref.png"
+    ],
+    "prompt": "皮皮从同一木屋的门厅走到卧室窗边，侧身站在关闭的木框玻璃窗旁往外看；窗外院子里一株冬青枝头覆雪。用窗景建立场景转换，人物位置自然，围巾已挂在衣帽架不再佩戴。 竖屏9:16，温柔水彩睡前绘本，细腻纸纹，单幅插画，无任何汉字、英文字母、标牌或水印；角色面部清晰，主体置于中上部，底部留足字幕安全区。皮皮保持暖灰小兔身份及本镜情绪，不照搬参考图的困倦表情。 皮皮晚饭后在家或门廊，不携带书包、挎包、包袋或背带。",
+    "status": "reviewed_pass",
+    "revision_note": "全片接触表修订：去除误入镜的书包，保持家庭日常服；镜头10明确口鼻无遮挡。",
+    "revision_prompt": "Retouch the previously generated frame: remove school backpack, bag, straps and harness; use the cream knit shirt and slate-blue overalls; preserve pose and scene. For shot 10 keep the scarf below chin, mouth and nostrils unobstructed, with no choking or marks."
+  },
+  {
+    "shot_id": 21,
+    "image_path": "images/shot_21.png",
+    "reference_images": [
+      "references/holly_reference.png"
+    ],
+    "prompt": "近景看同一株冬青的覆雪枝条：柔软白雪落在枝干和叶片上，枝叶之间仍留着清楚透气的间隙，没有把每个空隙塞满。冷蓝冬夜、安静水彩绘本，不加兔子或文字。 竖屏9:16，温柔水彩睡前绘本，细腻纸纹，单幅插画，无任何汉字、英文字母、标牌或水印；角色面部清晰，主体置于中上部，底部留足字幕安全区。皮皮保持暖灰小兔身份及本镜情绪，不照搬参考图的困倦表情。",
+    "status": "reviewed_pass"
+  },
+  {
+    "shot_id": 22,
+    "image_path": "images/shot_22.png",
+    "reference_images": [
+      "references/holly_reference.png"
+    ],
+    "prompt": "稍远景展示同一株覆雪冬青在冬夜里稳稳站立，白雪覆盖枝头却保留枝叶间隙，细枝没有被压断；画面宁静安稳，和前一近景能辨认是同一树。 竖屏9:16，温柔水彩睡前绘本，细腻纸纹，单幅插画，无任何汉字、英文字母、标牌或水印；角色面部清晰，主体置于中上部，底部留足字幕安全区。皮皮保持暖灰小兔身份及本镜情绪，不照搬参考图的困倦表情。",
+    "status": "reviewed_pass"
+  },
+  {
+    "shot_id": 23,
+    "image_path": "images/shot_23.png",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/snowy_bedroom_scene_ref.png",
+      "references/pipi_wardrobe_v001.png",
+      "references/pipi_no_backpack_ref.png"
+    ],
+    "prompt": "洗漱后的皮皮坐在同一张低木床床沿，身穿固定睡前衣着，正拿起深蓝小黄星睡帽准备戴上；赤陶红围巾留在门厅衣帽架，不在卧室或皮皮身上。 竖屏9:16，温柔水彩睡前绘本，细腻纸纹，单幅插画，无任何汉字、英文字母、标牌或水印；角色面部清晰，主体置于中上部，底部留足字幕安全区。皮皮保持暖灰小兔身份及本镜情绪，不照搬参考图的困倦表情。 皮皮晚饭后在家或门廊，不携带书包、挎包、包袋或背带。",
+    "status": "reviewed_pass",
+    "revision_note": "全片接触表修订：去除误入镜的书包，保持家庭日常服；镜头10明确口鼻无遮挡。",
+    "revision_prompt": "Retouch the previously generated frame: remove school backpack, bag, straps and harness; use the cream knit shirt and slate-blue overalls; preserve pose and scene. For shot 10 keep the scarf below chin, mouth and nostrils unobstructed, with no choking or marks."
+  },
+  {
+    "shot_id": 24,
+    "image_path": "images/shot_24.png",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/pipi_wardrobe_v001.png"
+    ],
+    "prompt": "皮皮戴上同一顶深蓝黄星睡帽，帽口松松地戴在头顶与两耳之间，左右长耳朵自然伸出且没有被帽子压住；皮皮轻轻调整帽口，表情舒适。 竖屏9:16，温柔水彩睡前绘本，细腻纸纹，单幅插画，无任何汉字、英文字母、标牌或水印；角色面部清晰，主体置于中上部，底部留足字幕安全区。皮皮保持暖灰小兔身份及本镜情绪，不照搬参考图的困倦表情。 皮皮晚饭后在家或门廊，不携带书包、挎包、包袋或背带。",
+    "status": "reviewed_pass"
+  },
+  {
+    "shot_id": 25,
+    "image_path": "images/shot_25.png",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/pipi_wardrobe_v001.png",
+      "references/pipi_no_backpack_ref.png"
+    ],
+    "prompt": "皮皮戴着松软睡帽钻进同一张低木床的被窝，双爪把固定暖黄色毛毯轻轻拉好；围巾没有出现在卧室床上，姿势自然、舒适。 竖屏9:16，温柔水彩睡前绘本，细腻纸纹，单幅插画，无任何汉字、英文字母、标牌或水印；角色面部清晰，主体置于中上部，底部留足字幕安全区。皮皮保持暖灰小兔身份及本镜情绪，不照搬参考图的困倦表情。 皮皮晚饭后在家或门廊，不携带书包、挎包、包袋或背带。",
+    "status": "reviewed_pass",
+    "revision_note": "全片接触表修订：去除误入镜的书包，保持家庭日常服；镜头10明确口鼻无遮挡。",
+    "revision_prompt": "Retouch the previously generated frame: remove school backpack, bag, straps and harness; use the cream knit shirt and slate-blue overalls; preserve pose and scene. For shot 10 keep the scarf below chin, mouth and nostrils unobstructed, with no choking or marks."
+  },
+  {
+    "shot_id": 26,
+    "image_path": "images/shot_26.png",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/pipi_wardrobe_v001.png"
+    ],
+    "prompt": "皮皮盖着同一条暖黄色毛毯，但肩膀与脖子旁留有松软空隙，长耳朵从星星睡帽旁自然垂出，身体没有被裹紧；皮皮神情放松，画面强调自由舒展。 竖屏9:16，温柔水彩睡前绘本，细腻纸纹，单幅插画，无任何汉字、英文字母、标牌或水印；角色面部清晰，主体置于中上部，底部留足字幕安全区。皮皮保持暖灰小兔身份及本镜情绪，不照搬参考图的困倦表情。 皮皮晚饭后在家或门廊，不携带书包、挎包、包袋或背带。",
+    "status": "reviewed_pass"
+  },
+  {
+    "shot_id": 27,
+    "image_path": "images/shot_27.png",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png"
+    ],
+    "prompt": "皮皮在同一张低床上舒服地陷进柔软床垫，肩颈仍留出余地，毛毯松松盖着腰身；耳朵放松、身体没有僵直，脸上出现安稳的浅笑。 竖屏9:16，温柔水彩睡前绘本，细腻纸纹，单幅插画，无任何汉字、英文字母、标牌或水印；角色面部清晰，主体置于中上部，底部留足字幕安全区。皮皮保持暖灰小兔身份及本镜情绪，不照搬参考图的困倦表情。 皮皮晚饭后在家或门廊，不携带书包、挎包、包袋或背带。",
+    "status": "reviewed_pass"
+  },
+  {
+    "shot_id": 28,
+    "image_path": "images/shot_28.png",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/pipi_wardrobe_v001.png"
+    ],
+    "prompt": "同一只橙色布胡萝卜玩偶带两片绿色布叶，松松靠在皮皮的臂弯；皮皮闭上眼睛，戴着松软星星睡帽，黄毛毯不紧不松地盖着。 竖屏9:16，温柔水彩睡前绘本，细腻纸纹，单幅插画，无任何汉字、英文字母、标牌或水印；角色面部清晰，主体置于中上部，底部留足字幕安全区。皮皮保持暖灰小兔身份及本镜情绪，不照搬参考图的困倦表情。 皮皮晚饭后在家或门廊，不携带书包、挎包、包袋或背带。",
+    "status": "reviewed_pass"
+  },
+  {
+    "shot_id": 29,
+    "image_path": "images/shot_29.png",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/pipi_wardrobe_v001.png"
+    ],
+    "prompt": "皮皮安静闭眼躺在床上，胡萝卜玩偶轻靠臂弯，松软毛毯像柔和云朵一样自然围住身体；只用柔软织物形态和暖光表达温暖，不画真正云朵、光环或文字，身体无压迫感。 竖屏9:16，温柔水彩睡前绘本，细腻纸纹，单幅插画，无任何汉字、英文字母、标牌或水印；角色面部清晰，主体置于中上部，底部留足字幕安全区。皮皮保持暖灰小兔身份及本镜情绪，不照搬参考图的困倦表情。 皮皮晚饭后在家或门廊，不携带书包、挎包、包袋或背带。",
+    "status": "reviewed_pass"
+  },
+  {
+    "shot_id": 30,
+    "image_path": "images/shot_30.png",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/pipi_wardrobe_v001.png"
+    ],
+    "prompt": "皮皮躺在同一张床上，姿势自在，肩颈和被角都松松的，胡萝卜玩偶在臂弯；画面像睡前故事轻声叮嘱小朋友，让衣服和被子舒服陪伴，不出现额外角色或文字。 竖屏9:16，温柔水彩睡前绘本，细腻纸纹，单幅插画，无任何汉字、英文字母、标牌或水印；角色面部清晰，主体置于中上部，底部留足字幕安全区。皮皮保持暖灰小兔身份及本镜情绪，不照搬参考图的困倦表情。 皮皮晚饭后在家或门廊，不携带书包、挎包、包袋或背带。",
+    "status": "reviewed_pass"
+  },
+  {
+    "shot_id": 31,
+    "image_path": "images/shot_31.png",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/pipi_wardrobe_v001.png"
+    ],
+    "prompt": "皮皮身体软软地靠进枕头和床垫，肩膀下沉、爪子松开，脸上安稳浅笑；暖黄毛毯只松松盖住身体，长耳朵自然舒展，画面表现不着急、不绷紧。 竖屏9:16，温柔水彩睡前绘本，细腻纸纹，单幅插画，无任何汉字、英文字母、标牌或水印；角色面部清晰，主体置于中上部，底部留足字幕安全区。皮皮保持暖灰小兔身份及本镜情绪，不照搬参考图的困倦表情。 皮皮晚饭后在家或门廊，不携带书包、挎包、包袋或背带。",
+    "status": "reviewed_pass"
+  },
+  {
+    "shot_id": 32,
+    "image_path": "images/shot_32.png",
+    "reference_images": [
+      "references/pipi_identity_no_hat_ref.png",
+      "references/pipi_day_wardrobe_ref.png",
+      "references/pipi_wardrobe_v001.png"
+    ],
+    "prompt": "安静的收尾近景：皮皮已经舒服地睡着，松软睡帽没有压住耳朵，胡萝卜玩偶靠在臂弯，暖黄毛毯在肩颈留有余地；窗外是宁静冬夜。画面温柔稳定，不加字。 竖屏9:16，温柔水彩睡前绘本，细腻纸纹，单幅插画，无任何汉字、英文字母、标牌或水印；角色面部清晰，主体置于中上部，底部留足字幕安全区。皮皮保持暖灰小兔身份及本镜情绪，不照搬参考图的困倦表情。 皮皮晚饭后在家或门廊，不携带书包、挎包、包袋或背带。",
+    "status": "reviewed_pass"
+  }
+]

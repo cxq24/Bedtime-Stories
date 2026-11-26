@@ -1,0 +1,701 @@
+{
+  "episode": "ep043",
+  "version": "v001",
+  "assets": {
+    "CHAR_PIPI_01": {
+      "kind": "character",
+      "fixed": "皮皮为暖灰色小灰兔，圆脸、粉色小鼻、棕色眼睛、自然垂下长耳；造型身份以官方图库为准，不复制图库默认忧郁神情。晚饭后不带书包，穿米色上衣、灰蓝短背带裤和蓝灰布鞋；户外及门廊佩戴同一条赤陶红针织长围巾；卧室睡前戴深蓝黄星睡帽，帽口松、不压耳。",
+      "reference": "references/pipi_identity_v001.png; references/pipi_no_backpack_ref.png; references/pipi_wardrobe_v001.png"
+    },
+    "PROP_SCARF_01": {
+      "kind": "prop",
+      "fixed": "唯一一条长条赤陶红/暖砖红手工针织围巾，明显绞花纹理，双端有同款短流苏。最初两端自然一长一短；皮皮多绕脖一圈并拉齐后颈圈偏紧且两尾等长；随后松开颈圈，解下并挂到同一衣帽架横杆，左尾长一小截、右尾短一点、自然下垂。全片不换色、不变为其他织物。",
+      "reference": "references/scarf_reference.png; repeated in all scarf shots"
+    },
+    "LOC_OPENING_SNOW_01": {
+      "kind": "location",
+      "fixed": "独立片头雪林/暖木屋门口画面，不复用后续连续剧情画面。"
+    },
+    "LOC_PORCH_01": {
+      "kind": "location",
+      "fixed": "森林木屋门廊，木门与玻璃窗、屋檐下同一只小木信箱、黄暖灯与门廊木地板；暮色有初雪与北风。"
+    },
+    "LOC_ENTRY_01": {
+      "kind": "location",
+      "fixed": "同一木屋温暖门厅/起居室，木墙与暖灯；门厅左侧固定蜂蜜色木衣帽架，横杆高度适合皮皮，接入卧室走廊。"
+    },
+    "LOC_BEDROOM_01": {
+      "kind": "location",
+      "fixed": "木屋卧室，木框玻璃窗在画面右侧，低木床在左侧，暖黄色毛毯与奶油枕头固定；窗外院子冬青树可见。"
+    },
+    "PROP_MAILBOX_01": {
+      "kind": "prop",
+      "fixed": "门廊屋檐下的一只小巧原木信箱，带简单翻盖，无文字和门牌。"
+    },
+    "PROP_NEWSPAPER_01": {
+      "kind": "prop",
+      "fixed": "一份折叠的森林晚报，纸张暖白色，有不可读的浅灰插画块，不生成真实文字。皮皮从信箱取回后一路拿在手里，进屋可暂时放在边桌。"
+    },
+    "PROP_COATSTAND_01": {
+      "kind": "prop",
+      "fixed": "同一只蜂蜜色木质立式衣帽架，三足底座与一根水平横杆；赤陶红围巾最后挂在横杆上。",
+      "reference": "references/coatstand_ref.png"
+    },
+    "WIN_WINDOW_01": {
+      "kind": "prop",
+      "fixed": "门廊玻璃窗与卧室木框玻璃窗遵循场景参考，各自固定位置，玻璃反映温暖室内光。"
+    },
+    "PROP_HOLLY_01": {
+      "kind": "prop",
+      "fixed": "院中同一株小型冬青树，深绿椭圆叶与细褐枝；白雪停在叶片和枝干上，但树枝间保留许多可见空隙，树仍稳稳站立。",
+      "reference": "references/holly_reference.png"
+    },
+    "PROP_BED_01": {
+      "kind": "prop",
+      "fixed": "卧室同一张低矮木床，奶油白枕头；位置固定。"
+    },
+    "PROP_BLANKET_01": {
+      "kind": "prop",
+      "fixed": "同一条柔软厚实的暖黄色毛毯，宽松盖住皮皮腰身与肩侧，在脖子/肩膀旁留松软余地。"
+    },
+    "PROP_SLEEP_CAP_01": {
+      "kind": "prop",
+      "fixed": "深蓝色小黄星软睡帽，帽尖略弯；戴在头顶耳根后方，帽口宽松，两只长耳朵完全伸出、不被压住。",
+      "reference": "references/pipi_wardrobe_v001.png"
+    },
+    "PROP_CARROT_TOY_01": {
+      "kind": "prop",
+      "fixed": "同一只手掌大小橙色布胡萝卜玩偶，顶部两片绿色布叶，软布缝线，不改变颜色形状。"
+    }
+  },
+  "shot_states": [
+    {
+      "shot_id": "00",
+      "location": "片头·雪林小径",
+      "time_of_day": "开场",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "LOC_OPENING_SNOW_01"
+      ],
+      "state_before": "片头独立开始；皮皮在雪林小径，佩戴本集赤陶红围巾。",
+      "action": "皮皮穿米色上衣、灰蓝背带裤，系着长长的赤陶红针织围巾，站在安静的雪林小径边朝观众轻轻挥爪，眉眼温和好奇；几片小雪花落下。独立片头画面，不出现邮箱、室内窗边或后续情节。",
+      "state_after": "皮皮穿米色上衣、灰蓝背带裤，系着长长的赤陶红针织围巾，站在安静的雪林小径边朝观众轻轻挥爪，眉眼温和好奇；几片小雪花落下。独立片头画面，不出现邮箱、室内窗边或后续情节。",
+      "transition_from": null,
+      "image_path": "images/shot_00.png",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "01",
+      "location": "片头·暖木屋门口",
+      "time_of_day": "开场",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "PROP_SCARF_01"
+      ],
+      "state_before": "片头沿用同一只皮皮和赤陶红围巾，近景思考围巾是否舒服；片头不与后续现实镜头连续。",
+      "action": "片头专属近景：皮皮低头看着脖子上柔软的赤陶红针织围巾，一只爪轻轻摸着围巾，另一只爪摊开像在思考怎样围才暖和舒服；表情温柔疑问。独立片头，不出现字幕、文字或后续故事插画构图。",
+      "state_after": "片头专属近景：皮皮低头看着脖子上柔软的赤陶红针织围巾，一只爪轻轻摸着围巾，另一只爪摊开像在思考怎样围才暖和舒服；表情温柔疑问。独立片头，不出现字幕、文字或后续故事插画构图。",
+      "transition_from": "00",
+      "image_path": "images/shot_01.png",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "02",
+      "location": "森林小屋门廊",
+      "time_of_day": "冬夜",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "LOC_PORCH_01"
+      ],
+      "state_before": "现实故事开始：晚饭后，皮皮在木屋门廊，赤陶红围巾仍自然围着，晚风吹雪。",
+      "action": "初雪的森林小屋门廊，北风轻吹，暮色里暖灯透过玻璃窗。皮皮刚吃过晚饭，穿固定日常衣着，戴着同一条长赤陶红针织围巾站在门边，神情平静地望向细雪。",
+      "state_after": "初雪的森林小屋门廊，北风轻吹，暮色里暖灯透过玻璃窗。皮皮刚吃过晚饭，穿固定日常衣着，戴着同一条长赤陶红针织围巾站在门边，神情平静地望向细雪。",
+      "transition_from": "01",
+      "image_path": "images/shot_02.png",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "03",
+      "location": "门廊·信箱",
+      "time_of_day": "冬夜",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "LOC_PORCH_01",
+        "PROP_MAILBOX_01",
+        "PROP_NEWSPAPER_01",
+        "PROP_SCARF_01"
+      ],
+      "state_before": "皮皮从门廊走到屋檐下信箱，围巾仍佩戴；信箱尚未取报纸。",
+      "action": "同一木屋门廊与屋檐下的小木信箱。皮皮穿日常衣着、系同一条赤陶红针织围巾，伸爪从信箱取出一份折叠的无字森林报纸；雪落在门廊外，动作清楚自然。",
+      "state_after": "同一木屋门廊与屋檐下的小木信箱。皮皮穿日常衣着、系同一条赤陶红针织围巾，伸爪从信箱取出一份折叠的无字森林报纸；雪落在门廊外，动作清楚自然。",
+      "transition_from": "02",
+      "image_path": "images/shot_03.png",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "04",
+      "location": "门廊·玻璃窗前",
+      "time_of_day": "冬夜",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "LOC_PORCH_01",
+        "PROP_SCARF_01"
+      ],
+      "state_before": "皮皮已经取回森林晚报，站到同一扇门廊玻璃窗前；围巾还是一长一短自然下垂。",
+      "action": "皮皮站在同一扇门廊玻璃窗前，对着玻璃观察自己的围巾和衣着，努力想显得整齐精神；两只围巾尾巴自然垂在胸前，皮皮神情认真、耳朵微微竖起，玻璃映出淡淡倒影。",
+      "state_after": "皮皮站在同一扇门廊玻璃窗前，对着玻璃观察自己的围巾和衣着，努力想显得整齐精神；两只围巾尾巴自然垂在胸前，皮皮神情认真、耳朵微微竖起，玻璃映出淡淡倒影。",
+      "transition_from": "03",
+      "image_path": "images/shot_04.png",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "05",
+      "location": "门廊·玻璃窗前",
+      "time_of_day": "冬夜",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "PROP_SCARF_01"
+      ],
+      "state_before": "皮皮正对玻璃窗；同一围巾绕上脖子几圈，但两端尚未拉齐。",
+      "action": "皮皮面对同一扇玻璃窗，把同一条赤陶红编织围巾在脖子上绕了几圈；围巾略显厚实但暂未勒紧，皮皮专注查看自己，双爪停在围巾两侧。保持温和、不危险。",
+      "state_after": "皮皮面对同一扇玻璃窗，把同一条赤陶红编织围巾在脖子上绕了几圈；围巾略显厚实但暂未勒紧，皮皮专注查看自己，双爪停在围巾两侧。保持温和、不危险。",
+      "transition_from": "04",
+      "image_path": "images/shot_05.png",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "06",
+      "location": "门廊·玻璃窗前",
+      "time_of_day": "冬夜",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "PROP_SCARF_01"
+      ],
+      "state_before": "同一围巾已绕在颈上，胸前两个尾端可见；皮皮开始让两尾变齐。",
+      "action": "皮皮低头把胸前同一条围巾的两条尾巴拉得等长、下沿齐整，对着玻璃检查结果；赤陶红绞花针织纹理和两端流苏保持一致，皮皮神情专注追求整齐。",
+      "state_after": "皮皮低头把胸前同一条围巾的两条尾巴拉得等长、下沿齐整，对着玻璃检查结果；赤陶红绞花针织纹理和两端流苏保持一致，皮皮神情专注追求整齐。",
+      "transition_from": "05",
+      "image_path": "images/shot_06.png",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "07",
+      "location": "门廊·玻璃窗前",
+      "time_of_day": "冬夜",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "PROP_SCARF_01"
+      ],
+      "state_before": "同一条围巾原本左长右短，颈圈尚未紧到不适；皮皮正试图拉齐短尾。",
+      "action": "近景展示皮皮胸前同一条围巾的两个尾端原本一长一短，皮皮正拉短的一端想让两边一样长；画面明确是柔软围巾尾巴，不添加尺子或其他道具。",
+      "state_after": "近景展示皮皮胸前同一条围巾的两个尾端原本一长一短，皮皮正拉短的一端想让两边一样长；画面明确是柔软围巾尾巴，不添加尺子或其他道具。",
+      "transition_from": "06",
+      "image_path": "images/shot_07.png",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "08",
+      "location": "门廊·玻璃窗前",
+      "time_of_day": "冬夜",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "PROP_SCARF_01"
+      ],
+      "state_before": "两条尾巴被拉齐，颈圈被意外收紧；皮皮仍在门廊玻璃窗前。",
+      "action": "皮皮不知不觉把同一条围巾的颈圈拉得过紧，爪子停在结边，眉眼微微收紧、耳朵略低，开始察觉不适；画面温和克制，不画勒痕、不喘不过气、不出现危险或疼痛夸张。",
+      "state_after": "皮皮不知不觉把同一条围巾的颈圈拉得过紧，爪子停在结边，眉眼微微收紧、耳朵略低，开始察觉不适；画面温和克制，不画勒痕、不喘不过气、不出现危险或疼痛夸张。",
+      "transition_from": "07",
+      "image_path": "images/shot_08.png",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "09",
+      "location": "木屋·温暖起居室",
+      "time_of_day": "冬夜",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "LOC_ENTRY_01",
+        "PROP_SCARF_01",
+        "PROP_NEWSPAPER_01"
+      ],
+      "state_before": "皮皮已离开门廊进入温暖起居室，报纸仍在手中，过紧围巾仍戴在脖子上。",
+      "action": "皮皮系着颈圈过紧的同一条围巾，双爪捧着折叠报纸走进暖黄灯光的木屋，正试着低头看报纸上的空白插画区域；脖子动作受围巾限制，表情困惑。",
+      "state_after": "皮皮系着颈圈过紧的同一条围巾，双爪捧着折叠报纸走进暖黄灯光的木屋，正试着低头看报纸上的空白插画区域；脖子动作受围巾限制，表情困惑。",
+      "transition_from": "08",
+      "image_path": "images/shot_09.png",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "10",
+      "location": "木屋·起居室",
+      "time_of_day": "冬夜",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "PROP_SCARF_01",
+        "PROP_NEWSPAPER_01"
+      ],
+      "state_before": "皮皮手捧报纸尝试低头；同一围巾限制了颈部活动，报纸未掉落。",
+      "action": "皮皮手捧报纸却无法自然低下头，颈部被同一条厚软围巾紧紧包住；身体僵了一下，眉眼显出惊讶和不舒服，但保持安全温和，不出现窒息画面。",
+      "state_after": "皮皮手捧报纸却无法自然低下头，颈部被同一条厚软围巾紧紧包住；身体僵了一下，眉眼显出惊讶和不舒服，但保持安全温和，不出现窒息画面。",
+      "transition_from": "09",
+      "image_path": "images/shot_10.png",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "11",
+      "location": "木屋·起居室",
+      "time_of_day": "冬夜",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "PROP_SCARF_01"
+      ],
+      "state_before": "皮皮无法低头，开始察觉围巾不适；围巾仍完整、没有伤痕或危险状态。",
+      "action": "皮皮轻轻扶着过紧的赤陶红围巾，肩膀略缩，神情闷闷、不舒服，呼吸仍平稳；暖木屋背景柔和，画面不过度戏剧化。",
+      "state_after": "皮皮轻轻扶着过紧的赤陶红围巾，肩膀略缩，神情闷闷、不舒服，呼吸仍平稳；暖木屋背景柔和，画面不过度戏剧化。",
+      "transition_from": "10",
+      "image_path": "images/shot_11.png",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "12",
+      "location": "木屋·起居室",
+      "time_of_day": "冬夜",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "PROP_SCARF_01"
+      ],
+      "state_before": "皮皮停下脚步，用爪子摸着过紧围巾；报纸仍拿在手上或放在近旁。",
+      "action": "皮皮停下脚步，抬起一只爪摸摸颈前过紧的围巾，低头观察，神情由困惑转为认真思考；报纸放在旁边小桌上或仍稳稳捧着，不丢失。",
+      "state_after": "皮皮停下脚步，抬起一只爪摸摸颈前过紧的围巾，低头观察，神情由困惑转为认真思考；报纸放在旁边小桌上或仍稳稳捧着，不丢失。",
+      "transition_from": "11",
+      "image_path": "images/shot_12.png",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "13",
+      "location": "木屋·起居室",
+      "time_of_day": "冬夜",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "PROP_SCARF_01"
+      ],
+      "state_before": "皮皮还站在起居室，围巾尚未松开，正在认真思考围巾的用途。",
+      "action": "皮皮站在玻璃窗前静静思考，一爪轻放胸前的围巾，另一爪松开，目光从整齐的围巾尾巴转向自己的感受；表情平和、专注，不画思想气泡或文字。",
+      "state_after": "皮皮站在玻璃窗前静静思考，一爪轻放胸前的围巾，另一爪松开，目光从整齐的围巾尾巴转向自己的感受；表情平和、专注，不画思想气泡或文字。",
+      "transition_from": "12",
+      "image_path": "images/shot_13.png",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "14",
+      "location": "木屋·起居室",
+      "time_of_day": "冬夜",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "PROP_SCARF_01"
+      ],
+      "state_before": "皮皮想到追求两边绝对齐整让自己难受；同一围巾仍偏紧，动作暂停。",
+      "action": "皮皮垂眼看着过紧的围巾尾端，神情温柔但若有所悟，肩膀开始放松；画面让人看出它意识到两边绝对一样齐不值得让自己难受，不加文字或符号。",
+      "state_after": "皮皮垂眼看着过紧的围巾尾端，神情温柔但若有所悟，肩膀开始放松；画面让人看出它意识到两边绝对一样齐不值得让自己难受，不加文字或符号。",
+      "transition_from": "13",
+      "image_path": "images/shot_14.png",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "15",
+      "location": "木屋·起居室",
+      "time_of_day": "冬夜",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "PROP_SCARF_01"
+      ],
+      "state_before": "皮皮刚意识到不值得勉强自己；同一条围巾仍绕紧在脖子上，下一镜开始松开。",
+      "action": "皮皮伸出两只小爪，把同一条赤陶红围巾的颈圈轻轻向外松开一大截；动作正在发生，围巾从紧绷变得宽松，皮皮专注而轻柔，脖子周围出现舒适空隙。",
+      "state_after": "皮皮伸出两只小爪，把同一条赤陶红围巾的颈圈轻轻向外松开一大截；动作正在发生，围巾从紧绷变得宽松，皮皮专注而轻柔，脖子周围出现舒适空隙。",
+      "transition_from": "14",
+      "image_path": "images/shot_15.png",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "16",
+      "location": "木屋·起居室",
+      "time_of_day": "冬夜",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "PROP_SCARF_01"
+      ],
+      "state_before": "皮皮已经将颈圈向外松开一大截，脖子与长耳朵周围出现活动空间。",
+      "action": "围巾松开后皮皮轻轻转头，长耳朵自然垂动，脖子周围宽松舒适；皮皮露出松一口气的柔和神情，围巾仍是同一条、同一颜色和针织纹理。",
+      "state_after": "围巾松开后皮皮轻轻转头，长耳朵自然垂动，脖子周围宽松舒适；皮皮露出松一口气的柔和神情，围巾仍是同一条、同一颜色和针织纹理。",
+      "transition_from": "15",
+      "image_path": "images/shot_16.png",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "17",
+      "location": "木屋·门厅",
+      "time_of_day": "冬夜",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "LOC_ENTRY_01",
+        "PROP_SCARF_01",
+        "PROP_COATSTAND_01"
+      ],
+      "state_before": "围巾仍松松围着；皮皮准备把它从脖子解下，门厅的同一木衣帽架在近旁。",
+      "action": "皮皮把同一条赤陶红针织围巾从脖子上解下来，挂在门厅同一只蜂蜜色木衣帽架横杆上；围巾宽松悬挂，皮皮动作轻松。屋内暖光，围巾未遗失。",
+      "state_after": "皮皮把同一条赤陶红针织围巾从脖子上解下来，挂在门厅同一只蜂蜜色木衣帽架横杆上；围巾宽松悬挂，皮皮动作轻松。屋内暖光，围巾未遗失。",
+      "transition_from": "16",
+      "image_path": "images/shot_17.png",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "18",
+      "location": "木屋·门厅",
+      "time_of_day": "冬夜",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "PROP_SCARF_01",
+        "PROP_COATSTAND_01"
+      ],
+      "state_before": "皮皮已把围巾挂上固定衣帽架横杆；围巾自然下垂，暂不强行拉齐。",
+      "action": "皮皮看着围巾自然挂在同一衣帽架上，没有用尺子量也没有强行调整；围巾柔软下垂、绞花针织纹理和流苏一致，皮皮神情满意平静，画面里不要出现尺子。",
+      "state_after": "皮皮看着围巾自然挂在同一衣帽架上，没有用尺子量也没有强行调整；围巾柔软下垂、绞花针织纹理和流苏一致，皮皮神情满意平静，画面里不要出现尺子。",
+      "transition_from": "17",
+      "image_path": "images/shot_18.png",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "19",
+      "location": "木屋·门厅",
+      "time_of_day": "冬夜",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "PROP_SCARF_01",
+        "PROP_COATSTAND_01"
+      ],
+      "state_before": "同一条围巾挂在同一横杆上，赤陶红绞花纹和流苏不变；左尾长、右尾短。",
+      "action": "同一条赤陶红围巾挂在同一木横杆上，左侧尾巴明显长一小截、右侧短一些，两端流苏一致；皮皮站在旁边微笑欣赏它松软自然的样子。",
+      "state_after": "同一条赤陶红围巾挂在同一木横杆上，左侧尾巴明显长一小截、右侧短一些，两端流苏一致；皮皮站在旁边微笑欣赏它松软自然的样子。",
+      "transition_from": "18",
+      "image_path": "images/shot_19.png",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "20",
+      "location": "卧室·窗边",
+      "time_of_day": "冬夜",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "LOC_BEDROOM_01",
+        "WIN_WINDOW_01",
+        "PROP_HOLLY_01"
+      ],
+      "state_before": "围巾留在门厅衣帽架上；皮皮从门厅走到卧室窗边，地点切换有动作交代。",
+      "action": "皮皮从同一木屋的门厅走到卧室窗边，侧身站在关闭的木框玻璃窗旁往外看；窗外院子里一株冬青枝头覆雪。用窗景建立场景转换，人物位置自然，围巾已挂在衣帽架不再佩戴。",
+      "state_after": "皮皮从同一木屋的门厅走到卧室窗边，侧身站在关闭的木框玻璃窗旁往外看；窗外院子里一株冬青枝头覆雪。用窗景建立场景转换，人物位置自然，围巾已挂在衣帽架不再佩戴。",
+      "transition_from": "19",
+      "image_path": "images/shot_20.png",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "21",
+      "location": "院子·冬青枝头",
+      "time_of_day": "冬夜",
+      "present_characters": [],
+      "asset_ids": [
+        "PROP_HOLLY_01"
+      ],
+      "state_before": "皮皮在卧室窗边观察同一株院中冬青；覆雪枝叶之间仍有空隙。",
+      "action": "近景看同一株冬青的覆雪枝条：柔软白雪落在枝干和叶片上，枝叶之间仍留着清楚透气的间隙，没有把每个空隙塞满。冷蓝冬夜、安静水彩绘本，不加兔子或文字。",
+      "state_after": "近景看同一株冬青的覆雪枝条：柔软白雪落在枝干和叶片上，枝叶之间仍留着清楚透气的间隙，没有把每个空隙塞满。冷蓝冬夜、安静水彩绘本，不加兔子或文字。",
+      "transition_from": "20",
+      "image_path": "images/shot_21.png",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "22",
+      "location": "院子·冬青树",
+      "time_of_day": "冬夜",
+      "present_characters": [],
+      "asset_ids": [
+        "PROP_HOLLY_01"
+      ],
+      "state_before": "同一株冬青仍在院中冬夜里稳稳站立，雪留在枝叶上，未压断树枝。",
+      "action": "稍远景展示同一株覆雪冬青在冬夜里稳稳站立，白雪覆盖枝头却保留枝叶间隙，细枝没有被压断；画面宁静安稳，和前一近景能辨认是同一树。",
+      "state_after": "稍远景展示同一株覆雪冬青在冬夜里稳稳站立，白雪覆盖枝头却保留枝叶间隙，细枝没有被压断；画面宁静安稳，和前一近景能辨认是同一树。",
+      "transition_from": "21",
+      "image_path": "images/shot_22.png",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "23",
+      "location": "卧室·床边",
+      "time_of_day": "冬夜",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "LOC_BEDROOM_01",
+        "PROP_BED_01",
+        "PROP_SLEEP_CAP_01"
+      ],
+      "state_before": "皮皮已洗漱，进入卧室并坐在床沿；围巾仍挂在门厅衣帽架。",
+      "action": "洗漱后的皮皮坐在同一张低木床床沿，身穿固定睡前衣着，正拿起深蓝小黄星睡帽准备戴上；赤陶红围巾留在门厅衣帽架，不在卧室或皮皮身上。",
+      "state_after": "洗漱后的皮皮坐在同一张低木床床沿，身穿固定睡前衣着，正拿起深蓝小黄星睡帽准备戴上；赤陶红围巾留在门厅衣帽架，不在卧室或皮皮身上。",
+      "transition_from": "22",
+      "image_path": "images/shot_23.png",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "24",
+      "location": "卧室·床边",
+      "time_of_day": "冬夜",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "PROP_SLEEP_CAP_01"
+      ],
+      "state_before": "皮皮已戴上同一顶深蓝黄星睡帽；两只长耳从帽口自然伸出，没有被压住。",
+      "action": "皮皮戴上同一顶深蓝黄星睡帽，帽口松松地戴在头顶与两耳之间，左右长耳朵自然伸出且没有被帽子压住；皮皮轻轻调整帽口，表情舒适。",
+      "state_after": "皮皮戴上同一顶深蓝黄星睡帽，帽口松松地戴在头顶与两耳之间，左右长耳朵自然伸出且没有被帽子压住；皮皮轻轻调整帽口，表情舒适。",
+      "transition_from": "23",
+      "image_path": "images/shot_24.png",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "25",
+      "location": "卧室·床上",
+      "time_of_day": "冬夜",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "PROP_BED_01",
+        "PROP_BLANKET_01",
+        "PROP_SLEEP_CAP_01"
+      ],
+      "state_before": "皮皮从床沿钻进同一张床的被窝，暖黄色毛毯在身旁，睡帽保持松戴。",
+      "action": "皮皮戴着松软睡帽钻进同一张低木床的被窝，双爪把固定暖黄色毛毯轻轻拉好；围巾没有出现在卧室床上，姿势自然、舒适。",
+      "state_after": "皮皮戴着松软睡帽钻进同一张低木床的被窝，双爪把固定暖黄色毛毯轻轻拉好；围巾没有出现在卧室床上，姿势自然、舒适。",
+      "transition_from": "24",
+      "image_path": "images/shot_25.png",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "26",
+      "location": "卧室·床上",
+      "time_of_day": "冬夜",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "PROP_BED_01",
+        "PROP_BLANKET_01",
+        "PROP_SLEEP_CAP_01"
+      ],
+      "state_before": "皮皮在被窝里，毛毯已拉好但肩颈旁保留松软余地，没有裹紧。",
+      "action": "皮皮盖着同一条暖黄色毛毯，但肩膀与脖子旁留有松软空隙，长耳朵从星星睡帽旁自然垂出，身体没有被裹紧；皮皮神情放松，画面强调自由舒展。",
+      "state_after": "皮皮盖着同一条暖黄色毛毯，但肩膀与脖子旁留有松软空隙，长耳朵从星星睡帽旁自然垂出，身体没有被裹紧；皮皮神情放松，画面强调自由舒展。",
+      "transition_from": "25",
+      "image_path": "images/shot_26.png",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "27",
+      "location": "卧室·床上",
+      "time_of_day": "冬夜",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "PROP_BED_01",
+        "PROP_BLANKET_01"
+      ],
+      "state_before": "皮皮继续松松盖着毛毯，身体正向柔软床垫沉下，睡帽和耳朵状态不变。",
+      "action": "皮皮在同一张低床上舒服地陷进柔软床垫，肩颈仍留出余地，毛毯松松盖着腰身；耳朵放松、身体没有僵直，脸上出现安稳的浅笑。",
+      "state_after": "皮皮在同一张低床上舒服地陷进柔软床垫，肩颈仍留出余地，毛毯松松盖着腰身；耳朵放松、身体没有僵直，脸上出现安稳的浅笑。",
+      "transition_from": "26",
+      "image_path": "images/shot_27.png",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "28",
+      "location": "卧室·床上",
+      "time_of_day": "冬夜",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "PROP_CARROT_TOY_01",
+        "PROP_SLEEP_CAP_01",
+        "PROP_BLANKET_01"
+      ],
+      "state_before": "皮皮已躺稳；橙色胡萝卜玩偶靠近臂弯，毛毯轻盖腰身，皮皮准备闭眼。",
+      "action": "同一只橙色布胡萝卜玩偶带两片绿色布叶，松松靠在皮皮的臂弯；皮皮闭上眼睛，戴着松软星星睡帽，黄毛毯不紧不松地盖着。",
+      "state_after": "同一只橙色布胡萝卜玩偶带两片绿色布叶，松松靠在皮皮的臂弯；皮皮闭上眼睛，戴着松软星星睡帽，黄毛毯不紧不松地盖着。",
+      "transition_from": "27",
+      "image_path": "images/shot_28.png",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "29",
+      "location": "卧室·床上",
+      "time_of_day": "冬夜",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "PROP_BED_01",
+        "PROP_BLANKET_01",
+        "PROP_SLEEP_CAP_01",
+        "PROP_CARROT_TOY_01"
+      ],
+      "state_before": "皮皮闭上眼睛，玩偶在臂弯，身体放松；暖黄色毛毯没有压迫肩颈。",
+      "action": "皮皮安静闭眼躺在床上，胡萝卜玩偶轻靠臂弯，松软毛毯像柔和云朵一样自然围住身体；只用柔软织物形态和暖光表达温暖，不画真正云朵、光环或文字，身体无压迫感。",
+      "state_after": "皮皮安静闭眼躺在床上，胡萝卜玩偶轻靠臂弯，松软毛毯像柔和云朵一样自然围住身体；只用柔软织物形态和暖光表达温暖，不画真正云朵、光环或文字，身体无压迫感。",
+      "transition_from": "28",
+      "image_path": "images/shot_29.png",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "30",
+      "location": "卧室·床上",
+      "time_of_day": "冬夜",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "PROP_BED_01",
+        "PROP_BLANKET_01",
+        "PROP_SLEEP_CAP_01",
+        "PROP_CARROT_TOY_01"
+      ],
+      "state_before": "皮皮在床上安静休息，睡帽与胡萝卜玩偶保持前镜位置，准备进入睡前叮咛画面。",
+      "action": "皮皮躺在同一张床上，姿势自在，肩颈和被角都松松的，胡萝卜玩偶在臂弯；画面像睡前故事轻声叮嘱小朋友，让衣服和被子舒服陪伴，不出现额外角色或文字。",
+      "state_after": "皮皮躺在同一张床上，姿势自在，肩颈和被角都松松的，胡萝卜玩偶在臂弯；画面像睡前故事轻声叮嘱小朋友，让衣服和被子舒服陪伴，不出现额外角色或文字。",
+      "transition_from": "29",
+      "image_path": "images/shot_30.png",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "31",
+      "location": "卧室·床上",
+      "time_of_day": "冬夜",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "PROP_BED_01",
+        "PROP_BLANKET_01",
+        "PROP_SLEEP_CAP_01",
+        "PROP_CARROT_TOY_01"
+      ],
+      "state_before": "皮皮肩膀放松、身体不再绷紧，黄毛毯仍松软盖着，晚安结尾即将到来。",
+      "action": "皮皮身体软软地靠进枕头和床垫，肩膀下沉、爪子松开，脸上安稳浅笑；暖黄毛毯只松松盖住身体，长耳朵自然舒展，画面表现不着急、不绷紧。",
+      "state_after": "皮皮身体软软地靠进枕头和床垫，肩膀下沉、爪子松开，脸上安稳浅笑；暖黄毛毯只松松盖住身体，长耳朵自然舒展，画面表现不着急、不绷紧。",
+      "transition_from": "30",
+      "image_path": "images/shot_31.png",
+      "image_status": "reviewed_pass"
+    },
+    {
+      "shot_id": "32",
+      "location": "卧室·床上",
+      "time_of_day": "冬夜",
+      "present_characters": [
+        "pipi"
+      ],
+      "asset_ids": [
+        "CHAR_PIPI_01",
+        "PROP_BED_01",
+        "PROP_BLANKET_01",
+        "PROP_SLEEP_CAP_01",
+        "PROP_CARROT_TOY_01"
+      ],
+      "state_before": "皮皮安稳闭眼睡着；睡帽未压耳、玩偶贴着臂弯、毛毯在肩颈留有余地。",
+      "action": "安静的收尾近景：皮皮已经舒服地睡着，松软睡帽没有压住耳朵，胡萝卜玩偶靠在臂弯，暖黄毛毯在肩颈留有余地；窗外是宁静冬夜。画面温柔稳定，不加字。",
+      "state_after": "安静的收尾近景：皮皮已经舒服地睡着，松软睡帽没有压住耳朵，胡萝卜玩偶靠在臂弯，暖黄毛毯在肩颈留有余地；窗外是宁静冬夜。画面温柔稳定，不加字。",
+      "transition_from": "31",
+      "image_path": "images/shot_32.png",
+      "image_status": "reviewed_pass"
+    }
+  ],
+  "preflight": {
+    "textual_pass_1": "pass: reviewed 33-shot narration order and locations; continuous progression porch→entry/living room→coat stand→bedroom is explicitly staged.",
+    "textual_pass_2": "pass: tracked unique scarf, scarf state changes, fixed coat stand, mail and newspaper, holly, blanket, cap and carrot toy; no unexplained object change.",
+    "image_review": "pass: all 33 final illustrations checked in contact_sheet_33shots.jpg; backpack removed from evening/home shots; scarf transitions, holly gaps, room switch, free ears and loose blanket checked.",
+    "notes": "报纸不生成可读文字。只有围巾状态按故事发生变化。p000片头画面单独生成；p001开始现实连续剧情。教师不入镜。 Contact-sheet correction removed a school backpack carried over from the costume reference; shot 10 keeps mouth and nostrils clear."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "text": "这一次，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "3c00a153d42076184dee31ccf70e2fa0c3f1726c53214e38222cdb1f3edae68e",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3077080,
+      "text": "这"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4346250,
+      "duration": 7692500,
+      "text": "一次"
+    }
+  ]
+}

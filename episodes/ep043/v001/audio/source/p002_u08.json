@@ -1,0 +1,35 @@
+{
+  "text": "一点也不舒服。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "5a579b6783cd3b56a09a7f505a0c6a9978bc10811dde8765eb561baa30721d9f",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5961660,
+      "text": "一点"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7422910,
+      "duration": 2115410,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9538330,
+      "duration": 1922910,
+      "text": "不"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11461660,
+      "duration": 9038330,
+      "text": "舒服"
+    }
+  ]
+}

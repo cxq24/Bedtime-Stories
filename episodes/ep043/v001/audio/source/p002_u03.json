@@ -1,0 +1,65 @@
+{
+  "text": "\n等他捧着报纸走进温暖的屋里，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "ae5ae9d315c47a51a2bb6d8a4553b22a90608f66403fa65534b9d9fa77198627",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2692500,
+      "text": "等"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3961660,
+      "duration": 1730830,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5884580,
+      "duration": 2884580,
+      "text": "捧"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8769160,
+      "duration": 1538330,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10500000,
+      "duration": 8653750,
+      "text": "报纸"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20692500,
+      "duration": 5577080,
+      "text": "走进"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26653750,
+      "duration": 5769160,
+      "text": "温暖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32422910,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34153750,
+      "duration": 7307500,
+      "text": "屋里"
+    }
+  ]
+}

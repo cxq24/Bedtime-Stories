@@ -1,0 +1,41 @@
+{
+  "text": "也不绷紧身体，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "b9eb0dc13310332b1a087166ec65ea97e9204330e74059e8e11c18910d77eceb",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2692500,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3961660,
+      "duration": 2307500,
+      "text": "不"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6269160,
+      "duration": 2884580,
+      "text": "绷"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9346250,
+      "duration": 2884580,
+      "text": "紧"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12230830,
+      "duration": 9422910,
+      "text": "身体"
+    }
+  ]
+}

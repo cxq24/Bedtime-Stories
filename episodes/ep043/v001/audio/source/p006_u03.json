@@ -1,0 +1,35 @@
+{
+  "text": "觉得今晚的温暖，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "d3bd8a77c5650c9098188d58b92bb59ac478785bf6aa2d79b3701a747050aee0",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4615410,
+      "text": "觉得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6269160,
+      "duration": 5769160,
+      "text": "今晚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12038330,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13577080,
+      "duration": 8461660,
+      "text": "温暖"
+    }
+  ]
+}

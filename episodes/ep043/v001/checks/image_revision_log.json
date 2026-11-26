@@ -1,0 +1,33 @@
+{
+  "revision_rounds": [
+    {
+      "round": 1,
+      "finding": "Some generated images showed the yellow backpack from the wardrobe reference in an after-dinner home story; one close scarf frame partly covered mouth/nose.",
+      "action": "Used image editing with a no-backpack Pipi wardrobe reference; scarf frame was corrected for full mouth/nose clearance.",
+      "shots": [
+        0,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        23,
+        25
+      ],
+      "result": "passed on final contact sheet"
+    }
+  ]
+}

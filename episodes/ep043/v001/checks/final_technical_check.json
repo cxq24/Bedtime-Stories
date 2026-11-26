@@ -1,0 +1,62 @@
+{
+  "episode": "ep043",
+  "checked_on": "2026-11-26",
+  "status": "pass",
+  "video_specs": {
+    "resolution": "1080x1920",
+    "fps": 25,
+    "duration_s": 292.84,
+    "frames": 7321,
+    "video_codec": "H.264",
+    "audio_codec": "AAC",
+    "audio_sample_rate_hz": 48000,
+    "audio_channels": 1
+  },
+  "files": {
+    "publish": "Outputs/2026-11-26/ep043-v001/ep043.mp4",
+    "clean": "Outputs/2026-11-26/ep043-v001/ep043_clean.mp4"
+  },
+  "full_decode": {
+    "publish": "pass",
+    "clean": "pass",
+    "command": "ffmpeg -v error -i <video> -f null -"
+  },
+  "audio": {
+    "mix_peak": 0.5408905148506165,
+    "clipping": false,
+    "source_tts_timeline_s": 284.84,
+    "configured_silent_tail_s": 8,
+    "last_spoken_word_end_s": 283.732,
+    "audio_silence_after_last_word_s": 9.108
+  },
+  "subtitles": {
+    "cues": 138,
+    "hanzi": 779,
+    "coverage": 1.0,
+    "coverage_check": "pass",
+    "final_cue": "晚安。",
+    "final_cue_end_s": 283.8,
+    "phone_preview": "checks/phone_preview_20s.jpg",
+    "full_video_samples": "checks/phone_video_samples.jpg",
+    "sample_times_s": [
+      90,
+      132,
+      170,
+      220,
+      283,
+      288
+    ],
+    "caption_cleared_in_tail": true
+  },
+  "cover": {
+    "dimensions": "1080x1920",
+    "title": "皮皮松开围巾",
+    "title_matches_three_platforms": true,
+    "thumbnail_review": "pass",
+    "phone_preview": "checks/cover_phone_360.png"
+  },
+  "image_review": "checks/image_review.json",
+  "human_full_audio_visual_review": "not_certified",
+  "user_acceptance": "pending",
+  "platform_published": false
+}

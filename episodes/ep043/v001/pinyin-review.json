@@ -1,0 +1,880 @@
+{
+  "hanzi": 779,
+  "cues": 138,
+  "pinyin_coverage": 1.0,
+  "context_review": "completed_against_episode_text",
+  "target_font_px": {
+    "hanzi": 76,
+    "pinyin": 48
+  },
+  "libass_fontsize_calibration": {
+    "hanzi": 114,
+    "pinyin": 66,
+    "reason": "match actual rasterized glyph scale to bundled-font 76px/48px reference; libass normalizes font metrics"
+  },
+  "audio_pronunciation_listen_review": "not_certified",
+  "overrides": [
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "小朋友们，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "围巾",
+      "pinyin": [
+        "wéi",
+        "jīn"
+      ],
+      "context": "今天的故事叫《围巾留一小截》。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "舒服",
+      "pinyin": [
+        "shū",
+        "fu"
+      ],
+      "context": "围巾怎样围才暖和又舒服，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "围巾",
+      "pinyin": [
+        "wéi",
+        "jīn"
+      ],
+      "context": "围巾怎样围才暖和又舒服，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "点儿",
+      "pinyin": [
+        "diǎnr",
+        "r"
+      ],
+      "context": "今天森林里的北风吹得有点儿响，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "北风",
+      "pinyin": [
+        "běi",
+        "fēng"
+      ],
+      "context": "今天森林里的北风吹得有点儿响，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮吃过晚饭后，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "围巾",
+      "pinyin": [
+        "wéi",
+        "jīn"
+      ],
+      "context": "戴着他长长的毛线小围巾，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "晚报",
+      "pinyin": [
+        "wǎn",
+        "bào"
+      ],
+      "context": "去门廊下的信箱里取回了今天的《森林晚报》。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "整整齐齐",
+      "pinyin": [
+        "zhěng",
+        "zhěng",
+        "qí",
+        "qí"
+      ],
+      "context": "同时想让自己看起来特别整整齐齐、精精神神的，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "精精神神",
+      "pinyin": [
+        "jīng",
+        "jīng",
+        "shén",
+        "shén"
+      ],
+      "context": "同时想让自己看起来特别整整齐齐、精精神神的，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮特意对着玻璃窗，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "围巾",
+      "pinyin": [
+        "wéi",
+        "jīn"
+      ],
+      "context": "把围巾在脖子上绕了好几圈，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "尾巴",
+      "pinyin": [
+        "wěi",
+        "ba"
+      ],
+      "context": "还非要把垂在胸前的两条围巾尾巴，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "围巾",
+      "pinyin": [
+        "wéi",
+        "jīn"
+      ],
+      "context": "还非要把垂在胸前的两条围巾尾巴，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "围巾尾巴",
+      "pinyin": [
+        "wéi",
+        "jīn",
+        "wěi",
+        "ba"
+      ],
+      "context": "还非要把垂在胸前的两条围巾尾巴，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "一模一样",
+      "pinyin": [
+        "yì",
+        "mú",
+        "yí",
+        "yàng"
+      ],
+      "context": "拉得一模一样齐。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "尾巴",
+      "pinyin": [
+        "wěi",
+        "ba"
+      ],
+      "context": "可是，为了把原本一长一短的围巾尾巴拉齐，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "围巾",
+      "pinyin": [
+        "wéi",
+        "jīn"
+      ],
+      "context": "可是，为了把原本一长一短的围巾尾巴拉齐，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "拉齐",
+      "pinyin": [
+        "lā",
+        "qí"
+      ],
+      "context": "可是，为了把原本一长一短的围巾尾巴拉齐，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "围巾尾巴",
+      "pinyin": [
+        "wéi",
+        "jīn",
+        "wěi",
+        "ba"
+      ],
+      "context": "可是，为了把原本一长一短的围巾尾巴拉齐，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮不知不觉把脖子上的那一圈毛线拉得太紧了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "围巾",
+      "pinyin": [
+        "wéi",
+        "jīn"
+      ],
+      "context": "却发现脖子被紧绷绷的围巾箍住了，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "紧绷绷",
+      "pinyin": [
+        "jǐn",
+        "bēng",
+        "bēng"
+      ],
+      "context": "却发现脖子被紧绷绷的围巾箍住了，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "箍住",
+      "pinyin": [
+        "gū",
+        "zhù"
+      ],
+      "context": "却发现脖子被紧绷绷的围巾箍住了，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "点儿",
+      "pinyin": [
+        "diǎnr",
+        "r"
+      ],
+      "context": "连呼吸都觉得有点儿闷闷的，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "呼吸",
+      "pinyin": [
+        "hū",
+        "xī"
+      ],
+      "context": "连呼吸都觉得有点儿闷闷的，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "闷闷",
+      "pinyin": [
+        "mēn",
+        "mēn"
+      ],
+      "context": "连呼吸都觉得有点儿闷闷的，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "舒服",
+      "pinyin": [
+        "shū",
+        "fu"
+      ],
+      "context": "一点也不舒服。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮停下了脚步。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "围巾",
+      "pinyin": [
+        "wéi",
+        "jīn"
+      ],
+      "context": "他摸了摸紧绷的围巾，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "舒服",
+      "pinyin": [
+        "shū",
+        "fu"
+      ],
+      "context": "心想：戴围巾是为了让自己暖和又舒服的，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "围巾",
+      "pinyin": [
+        "wéi",
+        "jīn"
+      ],
+      "context": "心想：戴围巾是为了让自己暖和又舒服的，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "追求",
+      "pinyin": [
+        "zhuī",
+        "qiú"
+      ],
+      "context": "如果为了追求两边绝对一样齐，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "两边",
+      "pinyin": [
+        "liǎng",
+        "biān"
+      ],
+      "context": "如果为了追求两边绝对一样齐，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绝对",
+      "pinyin": [
+        "jué",
+        "duì"
+      ],
+      "context": "如果为了追求两边绝对一样齐，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "划不来",
+      "pinyin": [
+        "huá",
+        "bú",
+        "lái"
+      ],
+      "context": "那可太划不来啦。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "爪子",
+      "pinyin": [
+        "zhuǎ",
+        "zi"
+      ],
+      "context": "皮皮伸出小爪子，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮伸出小爪子，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "往外",
+      "pinyin": [
+        "wǎng",
+        "wài"
+      ],
+      "context": "先把绕在脖子上的那一圈毛线轻轻往外松开了一大截，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "松开",
+      "pinyin": [
+        "sōng",
+        "kāi"
+      ],
+      "context": "先把绕在脖子上的那一圈毛线轻轻往外松开了一大截，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "长耳朵",
+      "pinyin": [
+        "cháng",
+        "ěr",
+        "duo"
+      ],
+      "context": "让自己的脖子和垂下来的长耳朵，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "地方",
+      "pinyin": [
+        "dì",
+        "fang"
+      ],
+      "context": "都有了宽松的地方可以轻轻活动。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "围巾",
+      "pinyin": [
+        "wéi",
+        "jīn"
+      ],
+      "context": "接着，他把围巾解下来，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "衣帽架",
+      "pinyin": [
+        "yī",
+        "mào",
+        "jià"
+      ],
+      "context": "挂在衣帽架的横杆上。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "横杆",
+      "pinyin": [
+        "héng",
+        "gān"
+      ],
+      "context": "挂在衣帽架的横杆上。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "用尺子量",
+      "pinyin": [
+        "yòng",
+        "chǐ",
+        "zi",
+        "liáng"
+      ],
+      "context": "他没有再用尺子量着去对齐两端，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "对齐",
+      "pinyin": [
+        "duì",
+        "qí"
+      ],
+      "context": "他没有再用尺子量着去对齐两端，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "围巾",
+      "pinyin": [
+        "wéi",
+        "jīn"
+      ],
+      "context": "而是让围巾自然地垂下，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "自然地垂下",
+      "pinyin": [
+        "zì",
+        "rán",
+        "de",
+        "chuí",
+        "xià"
+      ],
+      "context": "而是让围巾自然地垂下，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "尾巴",
+      "pinyin": [
+        "wěi",
+        "ba"
+      ],
+      "context": "左边留出一小截长一点的尾巴，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "左边",
+      "pinyin": [
+        "zuǒ",
+        "biān"
+      ],
+      "context": "左边留出一小截长一点的尾巴，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "右边",
+      "pinyin": [
+        "yòu",
+        "biān"
+      ],
+      "context": "右边短一点，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "\n皮皮走到卧室窗边往外看，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "往外",
+      "pinyin": [
+        "wǎng",
+        "wài"
+      ],
+      "context": "\n皮皮走到卧室窗边往外看，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "冬青",
+      "pinyin": [
+        "dōng",
+        "qīng"
+      ],
+      "context": "只见院子里的冬青树枝头上落满了白雪。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "树枝",
+      "pinyin": [
+        "shù",
+        "zhī"
+      ],
+      "context": "只见院子里的冬青树枝头上落满了白雪。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "白雪并没有把树枝的每一个空隙都填得严严实实，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "树枝",
+      "pinyin": [
+        "shù",
+        "zhī"
+      ],
+      "context": "白雪并没有把树枝的每一个空隙都填得严严实实，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "空隙",
+      "pinyin": [
+        "kòng",
+        "xì"
+      ],
+      "context": "白雪并没有把树枝的每一个空隙都填得严严实实，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "填得严严实实",
+      "pinyin": [
+        "tián",
+        "de",
+        "yán",
+        "yán",
+        "shí",
+        "shí"
+      ],
+      "context": "白雪并没有把树枝的每一个空隙都填得严严实实，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "透气",
+      "pinyin": [
+        "tòu",
+        "qì"
+      ],
+      "context": "而是留着许多透气的缝隙，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "安安稳稳",
+      "pinyin": [
+        "ān",
+        "ān",
+        "wěn",
+        "wěn"
+      ],
+      "context": "可小树照样在冬夜里站得安安稳稳的。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "洗漱",
+      "pinyin": [
+        "xǐ",
+        "shù"
+      ],
+      "context": "洗漱完坐到床沿上，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "床沿",
+      "pinyin": [
+        "chuáng",
+        "yán"
+      ],
+      "context": "洗漱完坐到床沿上，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮戴上柔软的睡帽时，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "帽口",
+      "pinyin": [
+        "mào",
+        "kǒu"
+      ],
+      "context": "把帽口放得松松的，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "长耳朵",
+      "pinyin": [
+        "cháng",
+        "ěr",
+        "duo"
+      ],
+      "context": "没有为了整齐而把两只长耳朵死死压住。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "两只长耳朵",
+      "pinyin": [
+        "liǎng",
+        "zhī",
+        "cháng",
+        "ěr",
+        "duo"
+      ],
+      "context": "没有为了整齐而把两只长耳朵死死压住。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "毛毯",
+      "pinyin": [
+        "máo",
+        "tǎn"
+      ],
+      "context": "拉好暖黄色的毛毯，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "点点",
+      "pinyin": [
+        "diǎn",
+        "diǎn"
+      ],
+      "context": "特意在肩膀和脖子旁边留出了一点点松软的余地，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "肩膀",
+      "pinyin": [
+        "jiān",
+        "bǎng"
+      ],
+      "context": "特意在肩膀和脖子旁边留出了一点点松软的余地，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "余地",
+      "pinyin": [
+        "yú",
+        "dì"
+      ],
+      "context": "特意在肩膀和脖子旁边留出了一点点松软的余地，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "动弹不得",
+      "pinyin": [
+        "dòng",
+        "tan",
+        "bù",
+        "dé"
+      ],
+      "context": "没有把自己裹成一根动弹不得的木头桩子。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "木头桩子",
+      "pinyin": [
+        "mù",
+        "tou",
+        "zhuāng",
+        "zi"
+      ],
+      "context": "没有把自己裹成一根动弹不得的木头桩子。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "整个身体就能顺顺当当地陷进柔软的床垫里了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "顺顺当当",
+      "pinyin": [
+        "shùn",
+        "shùn",
+        "dàng",
+        "dàng"
+      ],
+      "context": "整个身体就能顺顺当当地陷进柔软的床垫里了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "床垫",
+      "pinyin": [
+        "chuáng",
+        "diàn"
+      ],
+      "context": "整个身体就能顺顺当当地陷进柔软的床垫里了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "胡萝卜",
+      "pinyin": [
+        "hú",
+        "luó",
+        "bo"
+      ],
+      "context": "胡萝卜玩偶也松松地靠在臂弯里。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "臂弯",
+      "pinyin": [
+        "bì",
+        "wān"
+      ],
+      "context": "胡萝卜玩偶也松松地靠在臂弯里。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮闭上眼睛，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "点儿",
+      "pinyin": [
+        "diǎnr",
+        "r"
+      ],
+      "context": "一点儿压迫感也没有。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "压迫感",
+      "pinyin": [
+        "yā",
+        "pò",
+        "gǎn"
+      ],
+      "context": "一点儿压迫感也没有。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "\n小朋友，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "睡觉的时候",
+      "pinyin": [
+        "shuì",
+        "jiào",
+        "de",
+        "shí",
+        "hou"
+      ],
+      "context": "睡觉的时候，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "不用",
+      "pinyin": [
+        "bú",
+        "yòng"
+      ],
+      "context": "不用事事都追求严丝合缝，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "追求",
+      "pinyin": [
+        "zhuī",
+        "qiú"
+      ],
+      "context": "不用事事都追求严丝合缝，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "严丝合缝",
+      "pinyin": [
+        "yán",
+        "sī",
+        "hé",
+        "fèng"
+      ],
+      "context": "不用事事都追求严丝合缝，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "不绷紧",
+      "pinyin": [
+        "bù",
+        "bēng",
+        "jǐn"
+      ],
+      "context": "也不绷紧身体，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "舒服",
+      "pinyin": [
+        "shū",
+        "fu"
+      ],
+      "context": "舒舒服服地睡吧。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "舒舒服服",
+      "pinyin": [
+        "shū",
+        "shū",
+        "fu",
+        "fu"
+      ],
+      "context": "舒舒服服地睡吧。",
+      "review": "context_checked_not_audio_listen_certification"
+    }
+  ]
+}

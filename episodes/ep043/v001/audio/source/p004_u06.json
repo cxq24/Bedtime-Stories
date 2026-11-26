@@ -1,0 +1,59 @@
+{
+  "text": "左边留出一小截长一点的尾巴，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "a4836e6fb5cf812f622c84adbbb3f09125acc558acab1123cc557b068a8763df",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6346250,
+      "text": "左边"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7807500,
+      "duration": 4807500,
+      "text": "留出"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12807500,
+      "duration": 2115410,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14922910,
+      "duration": 2884580,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17807500,
+      "duration": 5961660,
+      "text": "截长"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23961660,
+      "duration": 4230830,
+      "text": "一点"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28192500,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29730830,
+      "duration": 6922910,
+      "text": "尾巴"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "cover_title": "皮皮松开围巾",
+  "cover_title_lines": [
+    "皮皮松开",
+    "围巾"
+  ],
+  "base_image": "cover_base.png",
+  "base_source": "images/shot_15.png (this episode original illustration)",
+  "template": "bedtime-cover-v3",
+  "prompt": "Use the episode illustration of Pipi loosening the red knitted scarf as the cover base; title is typeset later, do not generate text."
+}

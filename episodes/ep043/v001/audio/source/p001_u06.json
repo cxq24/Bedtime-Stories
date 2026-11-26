@@ -1,0 +1,35 @@
+{
+  "text": "为了让脖子暖和，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "40477f4b9b49227aa0c84e407bd08c7ecf1038f8ca0dab3bf3b9c293e8787a52",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3846250,
+      "text": "为了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5115410,
+      "duration": 2692500,
+      "text": "让"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8192500,
+      "duration": 4422910,
+      "text": "脖子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12807500,
+      "duration": 8653750,
+      "text": "暖和"
+    }
+  ]
+}

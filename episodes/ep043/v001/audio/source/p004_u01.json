@@ -1,0 +1,47 @@
+{
+  "text": "接着，他把围巾解下来，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "56aebce79c2d0c33d34fc238f11f82668b36fccf08336e4257da0c7acd433980",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 7500000,
+      "text": "接着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12422910,
+      "duration": 2115410,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14538330,
+      "duration": 1922910,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16653750,
+      "duration": 5769160,
+      "text": "围巾"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22807500,
+      "duration": 2692500,
+      "text": "解"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25500000,
+      "duration": 6730830,
+      "text": "下来"
+    }
+  ]
+}

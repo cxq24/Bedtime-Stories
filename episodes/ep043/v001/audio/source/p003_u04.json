@@ -1,0 +1,47 @@
+{
+  "text": "如果为了追求两边绝对一样齐，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "7545b99645e86bfa8b10e8a5e00015302dce6c6ca025107e31deface7e2cab0d",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4422910,
+      "text": "如果"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6077080,
+      "duration": 3461660,
+      "text": "为了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9730830,
+      "duration": 9038330,
+      "text": "追求"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20307500,
+      "duration": 5961660,
+      "text": "两边"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26653750,
+      "duration": 5577080,
+      "text": "绝对"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32422910,
+      "duration": 9807500,
+      "text": "一样齐"
+    }
+  ]
+}

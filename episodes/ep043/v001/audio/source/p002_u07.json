@@ -1,0 +1,53 @@
+{
+  "text": "连呼吸都觉得有点儿闷闷的，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "da4751b0d66176c638b170c83ce5b52674d233ca0c4ce814773b12cc9199e130",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2884580,
+      "text": "连"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4346250,
+      "duration": 6538330,
+      "text": "呼吸"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11077080,
+      "duration": 2307500,
+      "text": "都"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13384580,
+      "duration": 3461660,
+      "text": "觉得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17230830,
+      "duration": 4422910,
+      "text": "有点儿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21846250,
+      "duration": 7307500,
+      "text": "闷闷"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29153750,
+      "duration": 3077080,
+      "text": "的"
+    }
+  ]
+}

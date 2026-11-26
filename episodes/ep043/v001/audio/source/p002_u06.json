@@ -1,0 +1,41 @@
+{
+  "text": "既没法自由地低头，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "5cd64dc2c4a1e7a0c9e272148fbcad6f90d1538daf3bab993a86df135be68a7b",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2692500,
+      "text": "既"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4153750,
+      "duration": 5769160,
+      "text": "没法"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10307500,
+      "duration": 5384580,
+      "text": "自由"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15692500,
+      "duration": 1538330,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17422910,
+      "duration": 7884580,
+      "text": "低头"
+    }
+  ]
+}

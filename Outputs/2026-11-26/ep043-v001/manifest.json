@@ -1,0 +1,37 @@
+{
+  "episode": "ep043",
+  "version": "v001",
+  "delivery": "Outputs/2026-11-26/ep043-v001",
+  "files": [
+    {
+      "path": "ep043.mp4",
+      "bytes": 61372636,
+      "sha256": "5c2cad58ca9b3135f241320ab4e8529f58a6e7506b211e7fdb965d1fdd948a2d"
+    },
+    {
+      "path": "ep043_clean.mp4",
+      "bytes": 58068836,
+      "sha256": "7addd8c8d189fbf8103e3b74303d33cfb8d8c06909d899de7a5e406dac045230"
+    },
+    {
+      "path": "cover.png",
+      "bytes": 2308888,
+      "sha256": "05e784ad5c3f6acf3f80e9d267aaf14826584f4e7df9a3b66e1ef5c25c36bc68"
+    },
+    {
+      "path": "cover.svg",
+      "bytes": 621,
+      "sha256": "3b555494d03d4efadde35a539223816fa07655b3ec5a1aa595e0250dac0e61e2"
+    },
+    {
+      "path": "发布文案.md",
+      "bytes": 1708,
+      "sha256": "95b9638e953ae7c8a647914f35b2324b0b4c59af2d6c805cacd3a16fc9d1f287"
+    },
+    {
+      "path": "README.md",
+      "bytes": 676,
+      "sha256": "34d9c1586c43bb24e6e41230010a3dcfbd44a942d9297848684196eb497462f4"
+    }
+  ]
+}

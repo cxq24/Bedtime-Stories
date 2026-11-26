@@ -1,0 +1,89 @@
+{
+  "text": "白雪并没有把树枝的每一个空隙都填得严严实实，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "695fe659dac5788373ec1842cd0f3456c48e798b6de14185eb90d26c5e60c826",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6538330,
+      "text": "白雪"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8192500,
+      "duration": 2500000,
+      "text": "并"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10692500,
+      "duration": 3461660,
+      "text": "没有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14346250,
+      "duration": 2307500,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17038330,
+      "duration": 5577080,
+      "text": "树枝"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22615410,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24538330,
+      "duration": 2884580,
+      "text": "每"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27422910,
+      "duration": 2884580,
+      "text": "一个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30500000,
+      "duration": 8846250,
+      "text": "空隙"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41077080,
+      "duration": 2500000,
+      "text": "都"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43577080,
+      "duration": 3076660,
+      "text": "填"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46653750,
+      "duration": 1153750,
+      "text": "得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48192500,
+      "duration": 15000000,
+      "text": "严严实实"
+    }
+  ]
+}
