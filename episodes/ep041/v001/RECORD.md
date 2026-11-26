@@ -2,7 +2,7 @@
 
 - 执行规范：CHANNEL_MASTER v2.3、EPISODE_WORKFLOW、VIDEO_SPEC、SUBTITLE_SPEC、COVER_SPEC、PUBLISH_COPY_SPEC（2026-11-26）。
 - 集数与版本：第41集《雪花落在窗边》v001，2026-11-26（北京时间）。
-- 状态：待审；渲染及技术检查完成后记录。
+- 状态：待审；渲染与技术检查通过；人工完整听看及用户验收待审。
 - 剧本：`02_100集剧本/用户长稿v5/结构化JSON/ep041.json`，v5唯一稿源；逐字快照见`script.snapshot.json`。
 - 配音：zh-CN-XiaoxiaoNeural，rate=-35%、pitch=-2Hz、volume=0%；48kHz单声道PCM。基础口播278.24秒，末尾静音8秒，全长286.24秒。
 - 分镜：32镜；使用真实配音时间轴；单镜含转场可见时间≤13.68秒；逐镜原图和提示词见`images/`、`prompts/shot_prompts.json`。
@@ -14,3 +14,5 @@
 - 用户验收：待审。平台发布：未发布。
 - 三平台文案：`发布文案.md`；三个标题与封面一致，正文末尾含具体感受、开放问题与标签。
 - 交付：`Outputs/2026-11-26/ep041-v001/`，主视频、无字幕母版、封面、文案及README。
+- GitHub同步：按用户要求于2026-11-26推送完整工程和交付（含两版视频）至`cxq24/Bedtime-Stories`的`main`；内容提交`a611bc33cb7d9c564c91fd539ff329c590053177`，同步记录见`docs/production/维护记录/2026-11-26_第041集GitHub同步/RECORD.md`。
+- 检查结果：两版完整解码及H.264/AAC、1080×1920、25fps、286.24秒规格检查通过；音频未削波；拼音覆盖747/747；人工完整听看未认证，用户验收待审，未发布。
