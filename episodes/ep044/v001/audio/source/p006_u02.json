@@ -1,0 +1,35 @@
+{
+  "text": "大枕头软软的。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "8eaf66d57474c511c97cb8ac01e02d59f91d22b21ce9a124c5d56186d399e17f",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3269160,
+      "text": "大"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4538330,
+      "duration": 5384580,
+      "text": "枕头"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10307500,
+      "duration": 7115410,
+      "text": "软软"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17422910,
+      "duration": 3653750,
+      "text": "的"
+    }
+  ]
+}

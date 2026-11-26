@@ -1,0 +1,17 @@
+{
+  "image_tool": "built_in image_gen",
+  "shot_id": 21,
+  "image": "images/shot_21.png",
+  "prompt": "A single static vertical 9:16 watercolor storybook illustration, delicate handmade watercolor and soft paper grain, calm premium Chinese bedtime picture-book style, coherent warm wood interiors and cool winter daylight. Preserve the exact visual action and emotional expression described for this shot. Keep important faces and objects in the upper two-thirds and leave the lower quarter calm and uncluttered for later subtitles. No text, no letters, no captions, no watermark, no panels, no collage, no border. 窗外冷夜映着逐渐变透明的玻璃，桌上纸画完整安放；皮皮在远处不再守候窗前，温柔宁静的空房间构图。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。 Maintain object identities and spatial layout from the loaded scene/prop references, but create a fresh composition for this shot; never reproduce a reference image verbatim.",
+  "references_loaded": [
+    "/workspace/Bedtime-Stories/episodes/ep044/v001/references/bedroom_scene_ref.png",
+    "/workspace/Bedtime-Stories/episodes/ep044/v001/assets/prop_reference_board.png",
+    "/workspace/Bedtime-Stories/episodes/ep044/v001/images/shot_00.png"
+  ],
+  "output_source": "/workspace/generated_images/exec-6b9e3580-c8ef-4c2b-93a9-eff9bb4cf5eb.png",
+  "size_px": [
+    941,
+    1672
+  ],
+  "review_status": "passed_full_contact_sheet_and_continuity_review"
+}

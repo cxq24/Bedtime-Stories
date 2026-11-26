@@ -1,0 +1,12 @@
+{
+  "image_tool": "built_in image_gen",
+  "image": "images/shot_00.png",
+  "prompt": "Separate p000 introductory illustration: a translucent frosted window with crystalline fern branches, flower-like ice crystals, and a winding clear path at dawn; no characters, no text, lower quarter calm for subtitles.",
+  "references_loaded": [],
+  "output_source": "/workspace/generated_images/exec-43a6457f-1f75-4696-bd92-7cdd1e746f31.png",
+  "size_px": [
+    938,
+    1664
+  ],
+  "review_status": "passed_full_contact_sheet_and_continuity_review"
+}

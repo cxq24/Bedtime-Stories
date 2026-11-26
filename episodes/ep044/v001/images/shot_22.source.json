@@ -1,0 +1,19 @@
+{
+  "image_tool": "built_in image_gen",
+  "shot_id": 22,
+  "image": "images/shot_22.png",
+  "prompt": "Single static portrait 9:16 watercolor storybook illustration, soft handmade paper texture, consistent cozy winter bedroom palette, important details in upper two-thirds, lower quarter calm for subtitles. No text, no lettering, no watermark, no collage, no border. Pipi, the small warm-gray rabbit with round face, pink nose, and long naturally drooping ears, wearing the same pale sleepwear and navy star sleep cap, sits calmly at the same small light-oak table and carefully slides ONE loose white sheet into ONE open teal clothbound picture book. The sheet visibly shows the same simple silver-gray frost-garden drawing: a curved path, a few grasses, one little branch and one round ice flower. One silver-gray pencil is placed beside the book. Show the actual act of tucking the paper into the book. The book pages are otherwise blank: absolutely no snow cabin, no other scene, no extra drawing, no cup, no duplicate books. No human, no cat, no extra character. Keep Pipi's eyes alert and gentle, not sad or sleepy.",
+  "references_loaded": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep044/v001/references/pipi_sleep_wardrobe.png",
+    "/workspace/Bedtime-Stories/episodes/ep044/v001/references/bedroom_scene_ref.png",
+    "/workspace/Bedtime-Stories/episodes/ep044/v001/assets/prop_reference_board.png",
+    "/workspace/Bedtime-Stories/episodes/ep044/v001/images/shot_14.png"
+  ],
+  "output_source": "/workspace/generated_images/exec-3badc7c7-16c1-4ce5-b0d3-3254e70ef0da.png",
+  "size_px": [
+    941,
+    1672
+  ],
+  "review_status": "passed_full_contact_sheet_and_continuity_review"
+}

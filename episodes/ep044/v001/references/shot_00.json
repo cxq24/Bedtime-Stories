@@ -1,0 +1,11 @@
+{
+  "episode": "ep044",
+  "shot_id": 0,
+  "continuity_asset_ids": [
+    "LOC_OPENING_01",
+    "PROP_FROST_01"
+  ],
+  "referenced_image_paths": [],
+  "characters": [],
+  "image_source_manifest": "images/shot_00.source.json"
+}

@@ -1,0 +1,59 @@
+{
+  "text": "不再是下午那座小花园了。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "4b2465847becd0c0c36a4fc254b1b04ff9ded25f3d29311c51363031e4ed1915",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5192500,
+      "text": "不再"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6461660,
+      "duration": 1922910,
+      "text": "是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8769160,
+      "duration": 5192500,
+      "text": "下午"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14153750,
+      "duration": 1922910,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16077080,
+      "duration": 1922910,
+      "text": "座"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18384580,
+      "duration": 2884580,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21269160,
+      "duration": 7115410,
+      "text": "花园"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28384580,
+      "duration": 3269160,
+      "text": "了"
+    }
+  ]
+}

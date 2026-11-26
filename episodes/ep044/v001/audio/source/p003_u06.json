@@ -1,0 +1,71 @@
+{
+  "text": "\n画纸上的那条小路画得不怎么笔直，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "b780d2443e0c8809488614a99726b2288e48d4f2ba57651c2a2e19d11686a5cb",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6346250,
+      "text": "画纸"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7615410,
+      "duration": 2692080,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10307500,
+      "duration": 961660,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11461660,
+      "duration": 2115410,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13577080,
+      "duration": 2692500,
+      "text": "条"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16461660,
+      "duration": 8846250,
+      "text": "小路"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26846250,
+      "duration": 2884580,
+      "text": "画"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29730830,
+      "duration": 1346250,
+      "text": "得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31461660,
+      "duration": 5961660,
+      "text": "不怎么"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37615410,
+      "duration": 8461660,
+      "text": "笔直"
+    }
+  ]
+}

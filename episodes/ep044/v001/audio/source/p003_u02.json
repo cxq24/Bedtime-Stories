@@ -1,0 +1,65 @@
+{
+  "text": "因为他知道一碰冰花就会化掉。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "d7f3cb838cfba567d143c3fe88c7b7f5665ed26aabe981ba900db4940f500253",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4038330,
+      "text": "因为"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5500000,
+      "duration": 2115410,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7807500,
+      "duration": 8077080,
+      "text": "知道"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17422910,
+      "duration": 2307500,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19730830,
+      "duration": 3077080,
+      "text": "碰"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23000000,
+      "duration": 6538330,
+      "text": "冰花"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29922910,
+      "duration": 1922910,
+      "text": "就"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31846250,
+      "duration": 1730830,
+      "text": "会"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33769160,
+      "duration": 7500000,
+      "text": "化掉"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "室内外温差变了，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "bf35aa93500a5945a3ad93ac24f46ae557efff883ffb00c64ca1401860c4b2a9",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6538330,
+      "text": "室内"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8000000,
+      "duration": 5769160,
+      "text": "外温"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13961660,
+      "duration": 7884580,
+      "text": "差变"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21846250,
+      "duration": 3077080,
+      "text": "了"
+    }
+  ]
+}

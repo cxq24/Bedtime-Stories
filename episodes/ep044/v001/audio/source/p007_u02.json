@@ -1,0 +1,89 @@
+{
+  "text": "把今天看过的漂亮景色轻轻收进记忆里吧。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "4a533ec2386d93f90cffb9362394eebd5adea0470a2692a0a99d45a58439d0e0",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2307500,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3769160,
+      "duration": 5961660,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9922910,
+      "duration": 3269160,
+      "text": "看"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13192500,
+      "duration": 1538330,
+      "text": "过"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14730830,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16461660,
+      "duration": 5577080,
+      "text": "漂亮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22230830,
+      "duration": 7692500,
+      "text": "景色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31461660,
+      "duration": 5961660,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37615410,
+      "duration": 2884580,
+      "text": "收"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40500000,
+      "duration": 3269160,
+      "text": "进"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44153750,
+      "duration": 4422910,
+      "text": "记忆"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48577080,
+      "duration": 2115410,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50692500,
+      "duration": 3846250,
+      "text": "吧"
+    }
+  ]
+}

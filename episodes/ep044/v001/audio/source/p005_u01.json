@@ -1,0 +1,65 @@
+{
+  "text": "但皮皮看了看桌上的画纸，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "17e4d7b2d8850f35f31c62ee6d6931ddca1e68d5b7527caafcd76bad7f9279a5",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2884580,
+      "text": "但"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4346250,
+      "duration": 7115410,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11846250,
+      "duration": 2884580,
+      "text": "看"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14730830,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16077080,
+      "duration": 3077080,
+      "text": "看"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19538330,
+      "duration": 2307500,
+      "text": "桌"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21846250,
+      "duration": 2692080,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24538330,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25884580,
+      "duration": 8846250,
+      "text": "画纸"
+    }
+  ]
+}

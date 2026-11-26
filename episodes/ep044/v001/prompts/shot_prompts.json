@@ -1,0 +1,348 @@
+[
+  {
+    "shot_id": 0,
+    "title": "片头：窗上的冰花",
+    "prompt": "A single static vertical 9:16 watercolor storybook illustration, delicate handmade watercolor and soft paper grain, calm premium Chinese bedtime picture-book style, coherent warm wood interiors and cool winter daylight. Preserve the exact visual action and emotional expression described for this shot. Keep important faces and objects in the upper two-thirds and leave the lower quarter calm and uncluttered for later subtitles. No text, no letters, no captions, no watermark, no panels, no collage, no border. 冰窗小花园铺满高窗，晶莹分枝与花形冰晶在浅蓝晨光中显现，窗边有一线暖色室内光；无角色、无文字。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。 Maintain object identities and spatial layout from the loaded scene/prop references, but create a fresh composition for this shot; never reproduce a reference image verbatim.",
+    "references_loaded": []
+  },
+  {
+    "shot_id": 1,
+    "title": "片头：冰晶里的图案",
+    "prompt": "A single static vertical 9:16 watercolor storybook illustration, delicate handmade watercolor and soft paper grain, calm premium Chinese bedtime picture-book style, coherent warm wood interiors and cool winter daylight. Preserve the exact visual action and emotional expression described for this shot. Keep important faces and objects in the upper two-thirds and leave the lower quarter calm and uncluttered for later subtitles. No text, no letters, no captions, no watermark, no panels, no collage, no border. 更近的诗意冰晶花园视角：交错冰枝、圆花和弯曲小路藏在半透明玻璃纹理中；不是实际卧室窗户的重复构图，无角色、无文字。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。 Maintain object identities and spatial layout from the loaded scene/prop references, but create a fresh composition for this shot; never reproduce a reference image verbatim.",
+    "references_loaded": [
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/images/shot_00.png"
+    ],
+    "output_source": "/workspace/generated_images/exec-380bd9e6-a32d-44bd-83a3-eb5adb068af0.png"
+  },
+  {
+    "shot_id": 2,
+    "title": "清冷的清晨",
+    "prompt": "A single static vertical 9:16 watercolor storybook illustration, delicate handmade watercolor and soft paper grain, calm premium Chinese bedtime picture-book style, coherent warm wood interiors and cool winter daylight. Preserve the exact visual action and emotional expression described for this shot. Keep important faces and objects in the upper two-thirds and leave the lower quarter calm and uncluttered for later subtitles. No text, no letters, no captions, no watermark, no panels, no collage, no border. Pipi identity must match the official gray rabbit references: warm gray fur, round face, pink nose, naturally drooping long ears. Use the described expression, gaze, and body pose for this exact moment; do not copy the reference sheet sleepy or sad face. Keep the same beige top and blue-gray short overalls; no schoolbag in the room except where the shot explicitly places it by the door or bed. 皮皮在温暖木屋卧室里穿好米色上衣和灰蓝背带裤，蓝布鞋已穿好，小黄书包放在床边；他正准备去森林学堂，动作自然，神情清醒而平和。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。 Maintain object identities and spatial layout from the loaded scene/prop references, but create a fresh composition for this shot; never reproduce a reference image verbatim.",
+    "references_loaded": [
+      "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/pipi_day_wardrobe.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/bedroom_scene_ref.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/assets/prop_reference_board.png"
+    ],
+    "output_source": "/workspace/generated_images/exec-7660fa5c-daff-4c08-84b5-ffedf29a4f29.png"
+  },
+  {
+    "shot_id": 3,
+    "title": "发现窗角冰花",
+    "prompt": "A single static vertical 9:16 watercolor storybook illustration, delicate handmade watercolor and soft paper grain, calm premium Chinese bedtime picture-book style, coherent warm wood interiors and cool winter daylight. Preserve the exact visual action and emotional expression described for this shot. Keep important faces and objects in the upper two-thirds and leave the lower quarter calm and uncluttered for later subtitles. No text, no letters, no captions, no watermark, no panels, no collage, no border. Pipi identity must match the official gray rabbit references: warm gray fur, round face, pink nose, naturally drooping long ears. Use the described expression, gaze, and body pose for this exact moment; do not copy the reference sheet sleepy or sad face. Keep the same beige top and blue-gray short overalls; no schoolbag in the room except where the shot explicitly places it by the door or bed. 皮皮转向同一扇宽木框窗，惊喜地发现玻璃四角结着晶莹冰窗花；他睁眼微微抬眉，视线落在窗角，没有夸张张嘴。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。 Maintain object identities and spatial layout from the loaded scene/prop references, but create a fresh composition for this shot; never reproduce a reference image verbatim.",
+    "references_loaded": [
+      "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/pipi_day_wardrobe.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/bedroom_scene_ref.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/assets/prop_reference_board.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/images/shot_00.png"
+    ],
+    "output_source": "/workspace/generated_images/exec-3b8162be-0230-41a2-8d69-084394dae512.png"
+  },
+  {
+    "shot_id": 4,
+    "title": "晨光里的细纹",
+    "prompt": "A single static vertical 9:16 watercolor storybook illustration, delicate handmade watercolor and soft paper grain, calm premium Chinese bedtime picture-book style, coherent warm wood interiors and cool winter daylight. Preserve the exact visual action and emotional expression described for this shot. Keep important faces and objects in the upper two-thirds and leave the lower quarter calm and uncluttered for later subtitles. No text, no letters, no captions, no watermark, no panels, no collage, no border. 无人物近景，玻璃角落布满细细密密的分枝冰晶，银色晨光穿过透明纹路，保留木窗框和固定窗台方向。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。 Maintain object identities and spatial layout from the loaded scene/prop references, but create a fresh composition for this shot; never reproduce a reference image verbatim.",
+    "references_loaded": [
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/bedroom_scene_ref.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/assets/prop_reference_board.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/images/shot_00.png"
+    ],
+    "output_source": "/workspace/generated_images/exec-a199a167-49c8-408a-b26c-f4fd8f207f3a.png"
+  },
+  {
+    "shot_id": 5,
+    "title": "白色袖珍花园",
+    "prompt": "A single static vertical 9:16 watercolor storybook illustration, delicate handmade watercolor and soft paper grain, calm premium Chinese bedtime picture-book style, coherent warm wood interiors and cool winter daylight. Preserve the exact visual action and emotional expression described for this shot. Keep important faces and objects in the upper two-thirds and leave the lower quarter calm and uncluttered for later subtitles. No text, no letters, no captions, no watermark, no panels, no collage, no border. 同一窗角冰晶如一座袖珍白色花园：细小树枝与花叶般的霜纹层层展开，冷银光温柔清晰；不添加真实人物或拟人冬天爷爷。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。 Maintain object identities and spatial layout from the loaded scene/prop references, but create a fresh composition for this shot; never reproduce a reference image verbatim.",
+    "references_loaded": [
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/bedroom_scene_ref.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/assets/prop_reference_board.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/images/shot_00.png"
+    ],
+    "output_source": "/workspace/generated_images/exec-97c394bd-baa1-4635-9f78-64297063eb22.png"
+  },
+  {
+    "shot_id": 6,
+    "title": "放学后回到家",
+    "prompt": "A single static vertical 9:16 watercolor storybook illustration, delicate handmade watercolor and soft paper grain, calm premium Chinese bedtime picture-book style, coherent warm wood interiors and cool winter daylight. Preserve the exact visual action and emotional expression described for this shot. Keep important faces and objects in the upper two-thirds and leave the lower quarter calm and uncluttered for later subtitles. No text, no letters, no captions, no watermark, no panels, no collage, no border. Pipi identity must match the official gray rabbit references: warm gray fur, round face, pink nose, naturally drooping long ears. Use the described expression, gaze, and body pose for this exact moment; do not copy the reference sheet sleepy or sad face. Keep the same beige top and blue-gray short overalls; no schoolbag in the room except where the shot explicitly places it by the door or bed. 午后未落山的阳光照进木屋，皮皮放学回家后站到同一扇窗前；小黄书包挂在房间门边，窗角冰花开始变薄但仍完整可辨。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。 Maintain object identities and spatial layout from the loaded scene/prop references, but create a fresh composition for this shot; never reproduce a reference image verbatim.",
+    "references_loaded": [
+      "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/pipi_day_wardrobe.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/bedroom_scene_ref.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/assets/prop_reference_board.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/images/shot_00.png"
+    ],
+    "output_source": "/workspace/generated_images/exec-31191740-3319-4578-9235-5d8c9314d7e9.png"
+  },
+  {
+    "shot_id": 7,
+    "title": "搬来小桌子",
+    "prompt": "A single static vertical 9:16 watercolor storybook illustration, delicate handmade watercolor and soft paper grain, calm premium Chinese bedtime picture-book style, coherent warm wood interiors and cool winter daylight. Preserve the exact visual action and emotional expression described for this shot. Keep important faces and objects in the upper two-thirds and leave the lower quarter calm and uncluttered for later subtitles. No text, no letters, no captions, no watermark, no panels, no collage, no border. Pipi identity must match the official gray rabbit references: warm gray fur, round face, pink nose, naturally drooping long ears. Use the described expression, gaze, and body pose for this exact moment; do not copy the reference sheet sleepy or sad face. Keep the same beige top and blue-gray short overalls; no schoolbag in the room except where the shot explicitly places it by the door or bed. 皮皮双手把一张矮小浅木色小桌搬到同一扇窗前，坐下仔细欣赏窗角冰花；表情专注好奇，眼睛跟随玻璃纹路。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。 Maintain object identities and spatial layout from the loaded scene/prop references, but create a fresh composition for this shot; never reproduce a reference image verbatim.",
+    "references_loaded": [
+      "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/pipi_day_wardrobe.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/bedroom_scene_ref.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/assets/prop_reference_board.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/images/shot_00.png"
+    ],
+    "output_source": "/workspace/generated_images/exec-6732850f-8617-4c2f-b3cc-d8b6a3fcfd53.png"
+  },
+  {
+    "shot_id": 8,
+    "title": "冰晶像松树",
+    "prompt": "A single static vertical 9:16 watercolor storybook illustration, delicate handmade watercolor and soft paper grain, calm premium Chinese bedtime picture-book style, coherent warm wood interiors and cool winter daylight. Preserve the exact visual action and emotional expression described for this shot. Keep important faces and objects in the upper two-thirds and leave the lower quarter calm and uncluttered for later subtitles. No text, no letters, no captions, no watermark, no panels, no collage, no border. 同一片冰窗花的特写，一组细细分叉的冰晶像挂着冰凌的松树；木窗框边缘和室内柔和日光作为位置锚点。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。 Maintain object identities and spatial layout from the loaded scene/prop references, but create a fresh composition for this shot; never reproduce a reference image verbatim.",
+    "references_loaded": [
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/bedroom_scene_ref.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/assets/prop_reference_board.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/images/shot_00.png"
+    ],
+    "output_source": "/workspace/generated_images/exec-66bd2099-876b-439e-a0bb-77bcf3cc2750.png"
+  },
+  {
+    "shot_id": 9,
+    "title": "弯曲的细草",
+    "prompt": "Single static portrait 9:16 watercolor storybook illustration, soft handmade paper texture, consistent cozy winter bedroom palette, important details in upper two-thirds, lower quarter calm for subtitles. No text, no lettering, no watermark, no collage, no border. Extreme close-up of the same winter window pane, showing only thin curving frost filaments like a small patch of wind-bent grasses, clearly different from pine-tree branches. A few delicate arcs and wavy stems in translucent silver-white ice, cool afternoon light, subtle wood frame at one edge. No room view, no people, no rabbit, no humans, no animals, no furniture, no tree-shaped frost, no text.",
+    "references_loaded": [
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/images/shot_00.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/images/shot_08.png"
+    ],
+    "output_source": "/workspace/generated_images/exec-d06b3151-3d4e-4ecd-ace0-20b7ff7f2b36.png"
+  },
+  {
+    "shot_id": 10,
+    "title": "冰晶间的小路",
+    "prompt": "A single portrait 9:16 close-up watercolor storybook illustration of winter frost on a transparent window pane, matching the soft paper texture and silver-blue ice style of the reference. Show ONLY delicate winding frost lines that bend and loop like fine grasses blowing in the wind; a few hair-thin curls, tiny crystalline tips, subtle early afternoon glow. Keep the visible wood window frame at the far edge to confirm the same bedroom window, but make the subject almost entirely the frosted glass. Absolutely no people, no rabbits, no humans, no animals, no pets, no characters, no bed, no cat, no furniture, no objects behind the glass, no text, no lettering, no collage. Keep the lower quarter visually simple for subtitles.",
+    "references_loaded": [
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/images/shot_00.png"
+    ],
+    "output_source": "/workspace/generated_images/exec-2ad645b1-18c2-4082-b476-8eba5a409e0a.png"
+  },
+  {
+    "shot_id": 11,
+    "title": "没有碰玻璃",
+    "prompt": "A single static vertical 9:16 watercolor storybook illustration, delicate handmade watercolor and soft paper grain, calm premium Chinese bedtime picture-book style, coherent warm wood interiors and cool winter daylight. Preserve the exact visual action and emotional expression described for this shot. Keep important faces and objects in the upper two-thirds and leave the lower quarter calm and uncluttered for later subtitles. No text, no letters, no captions, no watermark, no panels, no collage, no border. Pipi identity must match the official gray rabbit references: warm gray fur, round face, pink nose, naturally drooping long ears. Use the described expression, gaze, and body pose for this exact moment; do not copy the reference sheet sleepy or sad face. Keep the same beige top and blue-gray short overalls; no schoolbag in the room except where the shot explicitly places it by the door or bed. 皮皮坐在小桌旁，暖乎乎的小爪子停在离玻璃一小段距离处，没有碰上；他想起冰花会融化，神情认真克制，视线在爪子和冰花之间。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。 Maintain object identities and spatial layout from the loaded scene/prop references, but create a fresh composition for this shot; never reproduce a reference image verbatim.",
+    "references_loaded": [
+      "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/pipi_day_wardrobe.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/bedroom_scene_ref.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/assets/prop_reference_board.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/images/shot_00.png"
+    ],
+    "output_source": "/workspace/generated_images/exec-bc773ed1-a6fb-4cb5-a83f-b428fece7591.png"
+  },
+  {
+    "shot_id": 12,
+    "title": "纸和彩铅",
+    "prompt": "A single static vertical 9:16 watercolor storybook illustration, delicate handmade watercolor and soft paper grain, calm premium Chinese bedtime picture-book style, coherent warm wood interiors and cool winter daylight. Preserve the exact visual action and emotional expression described for this shot. Keep important faces and objects in the upper two-thirds and leave the lower quarter calm and uncluttered for later subtitles. No text, no letters, no captions, no watermark, no panels, no collage, no border. Pipi identity must match the official gray rabbit references: warm gray fur, round face, pink nose, naturally drooping long ears. Use the described expression, gaze, and body pose for this exact moment; do not copy the reference sheet sleepy or sad face. Keep the same beige top and blue-gray short overalls; no schoolbag in the room except where the shot explicitly places it by the door or bed. 皮皮把一张白色画纸和一支银灰色彩铅放在同一张浅木桌上；他神情安静专注，准备照着窗花画画。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。 Maintain object identities and spatial layout from the loaded scene/prop references, but create a fresh composition for this shot; never reproduce a reference image verbatim.",
+    "references_loaded": [
+      "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/pipi_day_wardrobe.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/bedroom_scene_ref.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/assets/prop_reference_board.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/images/shot_00.png"
+    ],
+    "output_source": "/workspace/generated_images/exec-31921671-5843-47ca-9e79-cafe1ec3c065.png"
+  },
+  {
+    "shot_id": 13,
+    "title": "安静画下风景",
+    "prompt": "A single static vertical 9:16 watercolor storybook illustration, delicate handmade watercolor and soft paper grain, calm premium Chinese bedtime picture-book style, coherent warm wood interiors and cool winter daylight. Preserve the exact visual action and emotional expression described for this shot. Keep important faces and objects in the upper two-thirds and leave the lower quarter calm and uncluttered for later subtitles. No text, no letters, no captions, no watermark, no panels, no collage, no border. Pipi identity must match the official gray rabbit references: warm gray fur, round face, pink nose, naturally drooping long ears. Use the described expression, gaze, and body pose for this exact moment; do not copy the reference sheet sleepy or sad face. Keep the same beige top and blue-gray short overalls; no schoolbag in the room except where the shot explicitly places it by the door or bed. 皮皮在白纸上安静画下冰窗花里最喜欢的一小段风景，银灰彩铅轻落纸面；眼睛专注纸面，神情舒展。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。 Maintain object identities and spatial layout from the loaded scene/prop references, but create a fresh composition for this shot; never reproduce a reference image verbatim.",
+    "references_loaded": [
+      "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/pipi_day_wardrobe.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/bedroom_scene_ref.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/assets/prop_reference_board.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/images/shot_00.png"
+    ],
+    "output_source": "/workspace/generated_images/exec-0a9f6145-32f0-4670-8e53-a3dff433d581.png"
+  },
+  {
+    "shot_id": 14,
+    "title": "画纸上的弯弯小路",
+    "prompt": "A single static vertical 9:16 watercolor storybook illustration, delicate handmade watercolor and soft paper grain, calm premium Chinese bedtime picture-book style, coherent warm wood interiors and cool winter daylight. Preserve the exact visual action and emotional expression described for this shot. Keep important faces and objects in the upper two-thirds and leave the lower quarter calm and uncluttered for later subtitles. No text, no letters, no captions, no watermark, no panels, no collage, no border. 近景展示同一张白纸上的银灰铅笔画：小路并不笔直，轻巧绕开几片草叶，刚好走到一朵圆圆的冰花旁；边缘可见同一支银灰彩铅。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。 Maintain object identities and spatial layout from the loaded scene/prop references, but create a fresh composition for this shot; never reproduce a reference image verbatim.",
+    "references_loaded": [
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/bedroom_scene_ref.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/assets/prop_reference_board.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/images/shot_00.png"
+    ],
+    "output_source": "/workspace/generated_images/exec-ec30ff63-ccb4-4695-89f0-3acf25ec1f20.png"
+  },
+  {
+    "shot_id": 15,
+    "title": "夜里的暖炉",
+    "prompt": "A single static vertical 9:16 watercolor storybook illustration, delicate handmade watercolor and soft paper grain, calm premium Chinese bedtime picture-book style, coherent warm wood interiors and cool winter daylight. Preserve the exact visual action and emotional expression described for this shot. Keep important faces and objects in the upper two-thirds and leave the lower quarter calm and uncluttered for later subtitles. No text, no letters, no captions, no watermark, no panels, no collage, no border. 同一木屋卧室入夜，暖炉发出稳定柔和的橙光，玻璃窗外是深蓝夜色，室内暖、室外冷，环境安静；无角色。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。 Maintain object identities and spatial layout from the loaded scene/prop references, but create a fresh composition for this shot; never reproduce a reference image verbatim.",
+    "references_loaded": [
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/bedroom_scene_ref.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/assets/prop_reference_board.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/images/shot_00.png"
+    ],
+    "output_source": "/workspace/generated_images/exec-eb2d56fb-bf44-426b-9bc5-754b74ddbcee.png"
+  },
+  {
+    "shot_id": 16,
+    "title": "洗澡后去看窗户",
+    "prompt": "A single static vertical 9:16 watercolor storybook illustration, delicate handmade watercolor and soft paper grain, calm premium Chinese bedtime picture-book style, coherent warm wood interiors and cool winter daylight. Preserve the exact visual action and emotional expression described for this shot. Keep important faces and objects in the upper two-thirds and leave the lower quarter calm and uncluttered for later subtitles. No text, no letters, no captions, no watermark, no panels, no collage, no border. Pipi identity must match the official gray rabbit references: warm gray fur, round face, pink nose, naturally drooping long ears. Use the described expression, gaze, and body pose for this exact moment; do not copy the reference sheet sleepy or sad face. Keep the same pale sleepwear and navy star sleep cap throughout the post-bath bedtime sequence. 皮皮洗完澡换上浅色睡衣和深蓝星星睡帽，走到同一扇窗前查看；他看到窗角冰花边缘开始模糊，神情有些意外但平静。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。 Maintain object identities and spatial layout from the loaded scene/prop references, but create a fresh composition for this shot; never reproduce a reference image verbatim.",
+    "references_loaded": [
+      "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/pipi_sleep_wardrobe.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/bedroom_scene_ref.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/assets/prop_reference_board.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/images/shot_00.png"
+    ],
+    "output_source": "/workspace/generated_images/exec-6f303c23-f747-4690-87bb-06ee479697b8.png"
+  },
+  {
+    "shot_id": 17,
+    "title": "花园悄悄融化",
+    "prompt": "Single static portrait 9:16 watercolor storybook illustration, soft handmade paper texture, consistent cozy winter bedroom palette, important details in upper two-thirds, lower quarter calm for subtitles. No text, no lettering, no watermark, no collage, no border. Nighttime close-up of the exact same right-side wooden bedroom window. The earlier frost-garden is now visibly melting because the room is warm: most fern branches and flower shapes have disappeared, leaving soft translucent patchy ice and a few clear water streaks and tiny droplets on the glass. Warm amber stove reflection on the inside, deep blue winter night outside. No person, no rabbit, no animal, no full intact frost garden, no text.",
+    "references_loaded": [
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/bedroom_scene_ref.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/images/shot_00.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/images/shot_15.png"
+    ],
+    "output_source": "/workspace/generated_images/exec-3ac4b86f-8342-40d8-ba4b-fca751110c93.png"
+  },
+  {
+    "shot_id": 18,
+    "title": "想追着新图案",
+    "prompt": "A single static vertical 9:16 watercolor storybook illustration, delicate handmade watercolor and soft paper grain, calm premium Chinese bedtime picture-book style, coherent warm wood interiors and cool winter daylight. Preserve the exact visual action and emotional expression described for this shot. Keep important faces and objects in the upper two-thirds and leave the lower quarter calm and uncluttered for later subtitles. No text, no letters, no captions, no watermark, no panels, no collage, no border. Pipi identity must match the official gray rabbit references: warm gray fur, round face, pink nose, naturally drooping long ears. Use the described expression, gaze, and body pose for this exact moment; do not copy the reference sheet sleepy or sad face. Keep the same pale sleepwear and navy star sleep cap throughout the post-bath bedtime sequence. 皮皮手里拿着银灰彩铅站在窗边，稍显惋惜地望着新水痕，像想到从前会追着新纹路画下去；他没有再次落笔，神情克制。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。 Maintain object identities and spatial layout from the loaded scene/prop references, but create a fresh composition for this shot; never reproduce a reference image verbatim.",
+    "references_loaded": [
+      "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/pipi_sleep_wardrobe.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/bedroom_scene_ref.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/assets/prop_reference_board.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/images/shot_00.png"
+    ],
+    "output_source": "/workspace/generated_images/exec-deaabca8-ce02-4757-b895-756aa8b734a2.png"
+  },
+  {
+    "shot_id": 19,
+    "title": "画纸留住花园",
+    "prompt": "A single static vertical 9:16 watercolor storybook illustration, delicate handmade watercolor and soft paper grain, calm premium Chinese bedtime picture-book style, coherent warm wood interiors and cool winter daylight. Preserve the exact visual action and emotional expression described for this shot. Keep important faces and objects in the upper two-thirds and leave the lower quarter calm and uncluttered for later subtitles. No text, no letters, no captions, no watermark, no panels, no collage, no border. Pipi identity must match the official gray rabbit references: warm gray fur, round face, pink nose, naturally drooping long ears. Use the described expression, gaze, and body pose for this exact moment; do not copy the reference sheet sleepy or sad face. Keep the same pale sleepwear and navy star sleep cap throughout the post-bath bedtime sequence. 皮皮转身看向原先桌上的画纸，脸上从惋惜转为安定；纸上完整保留下午那座小花园，窗户在背景中仍是同一扇。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。 Maintain object identities and spatial layout from the loaded scene/prop references, but create a fresh composition for this shot; never reproduce a reference image verbatim.",
+    "references_loaded": [
+      "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/pipi_sleep_wardrobe.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/bedroom_scene_ref.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/assets/prop_reference_board.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/images/shot_00.png"
+    ],
+    "output_source": "/workspace/generated_images/exec-d9c21501-4359-4dae-9770-6590b92cf349.png"
+  },
+  {
+    "shot_id": 20,
+    "title": "自然有自己的变化",
+    "prompt": "Single static portrait 9:16 watercolor storybook illustration, soft handmade paper texture, consistent cozy winter bedroom palette, important details in upper two-thirds, lower quarter calm for subtitles. No text, no lettering, no watermark, no collage, no border. Quiet nighttime bedroom composition with NO PEOPLE AND NO ANIMALS. Show the same closed wooden window with the ice-garden mostly melted into a few thin water marks, and in the same frame show the small light-oak table with one white sheet of paper clearly preserving the frost-garden drawing: a curved silver-gray path, a few curved grass blades, small branching pine-like ice form, and one round flower. One slim silver-gray colored pencil rests beside the paper. This is the preserved drawing contrasted with naturally changing glass. No person, no rabbit, no human, no cat, no pet, no extra drawings, no cabin illustration, no text.",
+    "references_loaded": [
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/bedroom_scene_ref.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/assets/prop_reference_board.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/images/shot_14.png"
+    ],
+    "output_source": "/workspace/generated_images/exec-d1d34d47-4da0-4024-8b46-8246dbb77a7d.png"
+  },
+  {
+    "shot_id": 21,
+    "title": "明天会有新图案",
+    "prompt": "A single static vertical 9:16 watercolor storybook illustration, delicate handmade watercolor and soft paper grain, calm premium Chinese bedtime picture-book style, coherent warm wood interiors and cool winter daylight. Preserve the exact visual action and emotional expression described for this shot. Keep important faces and objects in the upper two-thirds and leave the lower quarter calm and uncluttered for later subtitles. No text, no letters, no captions, no watermark, no panels, no collage, no border. 窗外冷夜映着逐渐变透明的玻璃，桌上纸画完整安放；皮皮在远处不再守候窗前，温柔宁静的空房间构图。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。 Maintain object identities and spatial layout from the loaded scene/prop references, but create a fresh composition for this shot; never reproduce a reference image verbatim.",
+    "references_loaded": [
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/bedroom_scene_ref.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/assets/prop_reference_board.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/images/shot_00.png"
+    ],
+    "output_source": "/workspace/generated_images/exec-6b9e3580-c8ef-4c2b-93a9-eff9bb4cf5eb.png"
+  },
+  {
+    "shot_id": 22,
+    "title": "收好画纸和彩铅",
+    "prompt": "Single static portrait 9:16 watercolor storybook illustration, soft handmade paper texture, consistent cozy winter bedroom palette, important details in upper two-thirds, lower quarter calm for subtitles. No text, no lettering, no watermark, no collage, no border. Pipi, the small warm-gray rabbit with round face, pink nose, and long naturally drooping ears, wearing the same pale sleepwear and navy star sleep cap, sits calmly at the same small light-oak table and carefully slides ONE loose white sheet into ONE open teal clothbound picture book. The sheet visibly shows the same simple silver-gray frost-garden drawing: a curved path, a few grasses, one little branch and one round ice flower. One silver-gray pencil is placed beside the book. Show the actual act of tucking the paper into the book. The book pages are otherwise blank: absolutely no snow cabin, no other scene, no extra drawing, no cup, no duplicate books. No human, no cat, no extra character. Keep Pipi's eyes alert and gentle, not sad or sleepy.",
+    "references_loaded": [
+      "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/pipi_sleep_wardrobe.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/bedroom_scene_ref.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/assets/prop_reference_board.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/images/shot_14.png"
+    ],
+    "output_source": "/workspace/generated_images/exec-3badc7c7-16c1-4ce5-b0d3-3254e70ef0da.png"
+  },
+  {
+    "shot_id": 23,
+    "title": "暖黄毛毯与大枕头",
+    "prompt": "A single static vertical 9:16 watercolor storybook illustration, delicate handmade watercolor and soft paper grain, calm premium Chinese bedtime picture-book style, coherent warm wood interiors and cool winter daylight. Preserve the exact visual action and emotional expression described for this shot. Keep important faces and objects in the upper two-thirds and leave the lower quarter calm and uncluttered for later subtitles. No text, no letters, no captions, no watermark, no panels, no collage, no border. 低床上的暖黄色毛毯铺平，大枕头蓬松柔软，床头灯温暖；窗户仍在画面右侧作为稳定方向锚点。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。 Maintain object identities and spatial layout from the loaded scene/prop references, but create a fresh composition for this shot; never reproduce a reference image verbatim.",
+    "references_loaded": [
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/bedroom_scene_ref.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/assets/prop_reference_board.png"
+    ],
+    "output_source": "/workspace/generated_images/exec-538b006c-dc72-4deb-8a09-a4ee0e8e1dd0.png"
+  },
+  {
+    "shot_id": 24,
+    "title": "长耳朵落在枕边",
+    "prompt": "A single static vertical 9:16 watercolor storybook illustration, delicate handmade watercolor and soft paper grain, calm premium Chinese bedtime picture-book style, coherent warm wood interiors and cool winter daylight. Preserve the exact visual action and emotional expression described for this shot. Keep important faces and objects in the upper two-thirds and leave the lower quarter calm and uncluttered for later subtitles. No text, no letters, no captions, no watermark, no panels, no collage, no border. Pipi identity must match the official gray rabbit references: warm gray fur, round face, pink nose, naturally drooping long ears. Use the described expression, gaze, and body pose for this exact moment; do not copy the reference sheet sleepy or sad face. Keep the same pale sleepwear and navy star sleep cap throughout the post-bath bedtime sequence. 皮皮换着同一套睡衣和星星睡帽爬上床，躺下时两只长耳朵自然垂落在大枕头边；神情松弛，眼睛尚未闭上。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。 Maintain object identities and spatial layout from the loaded scene/prop references, but create a fresh composition for this shot; never reproduce a reference image verbatim.",
+    "references_loaded": [
+      "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/pipi_sleep_wardrobe.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/bedroom_scene_ref.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/assets/prop_reference_board.png"
+    ],
+    "output_source": "/workspace/generated_images/exec-f65d6e0a-db2f-477f-bcec-e0f3592b2abe.png"
+  },
+  {
+    "shot_id": 25,
+    "title": "冰花自由地变化",
+    "prompt": "A single static vertical 9:16 watercolor storybook illustration, delicate handmade watercolor and soft paper grain, calm premium Chinese bedtime picture-book style, coherent warm wood interiors and cool winter daylight. Preserve the exact visual action and emotional expression described for this shot. Keep important faces and objects in the upper two-thirds and leave the lower quarter calm and uncluttered for later subtitles. No text, no letters, no captions, no watermark, no panels, no collage, no border. Pipi identity must match the official gray rabbit references: warm gray fur, round face, pink nose, naturally drooping long ears. Use the described expression, gaze, and body pose for this exact moment; do not copy the reference sheet sleepy or sad face. Keep the same pale sleepwear and navy star sleep cap throughout the post-bath bedtime sequence. 皮皮在同一张床上闭上眼睛；窗外玻璃上的冰花图案在深蓝夜色中淡淡可见，室内床头灯和暖炉很柔和，画面表现接受它会生长或融化。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。 Maintain object identities and spatial layout from the loaded scene/prop references, but create a fresh composition for this shot; never reproduce a reference image verbatim.",
+    "references_loaded": [
+      "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/pipi_sleep_wardrobe.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/bedroom_scene_ref.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/assets/prop_reference_board.png"
+    ],
+    "output_source": "/workspace/generated_images/exec-6674068c-fdd6-4716-b24e-e02b5a70ceec.png"
+  },
+  {
+    "shot_id": 26,
+    "title": "安心睡去",
+    "prompt": "A single static vertical 9:16 watercolor storybook illustration, delicate handmade watercolor and soft paper grain, calm premium Chinese bedtime picture-book style, coherent warm wood interiors and cool winter daylight. Preserve the exact visual action and emotional expression described for this shot. Keep important faces and objects in the upper two-thirds and leave the lower quarter calm and uncluttered for later subtitles. No text, no letters, no captions, no watermark, no panels, no collage, no border. Pipi identity must match the official gray rabbit references: warm gray fur, round face, pink nose, naturally drooping long ears. Use the described expression, gaze, and body pose for this exact moment; do not copy the reference sheet sleepy or sad face. Keep the same pale sleepwear and navy star sleep cap throughout the post-bath bedtime sequence. 同一房间里皮皮安静睡着，窗外的冰花小园在深蓝夜色中保持静谧，皮皮不再睁眼观察；无新增人物或物件。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。 Maintain object identities and spatial layout from the loaded scene/prop references, but create a fresh composition for this shot; never reproduce a reference image verbatim.",
+    "references_loaded": [
+      "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/pipi_sleep_wardrobe.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/bedroom_scene_ref.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/assets/prop_reference_board.png"
+    ],
+    "output_source": "/workspace/generated_images/exec-6a29a67d-a878-4af1-aab0-fc0ec94c98ea.png"
+  },
+  {
+    "shot_id": 27,
+    "title": "把美景收进记忆",
+    "prompt": "A single static vertical 9:16 watercolor storybook illustration, delicate handmade watercolor and soft paper grain, calm premium Chinese bedtime picture-book style, coherent warm wood interiors and cool winter daylight. Preserve the exact visual action and emotional expression described for this shot. Keep important faces and objects in the upper two-thirds and leave the lower quarter calm and uncluttered for later subtitles. No text, no letters, no captions, no watermark, no panels, no collage, no border. Pipi identity must match the official gray rabbit references: warm gray fur, round face, pink nose, naturally drooping long ears. Use the described expression, gaze, and body pose for this exact moment; do not copy the reference sheet sleepy or sad face. Keep the same pale sleepwear and navy star sleep cap throughout the post-bath bedtime sequence. 皮皮在暖黄被子下熟睡，画纸已夹进绘本放在床边小桌；窗外世界安静变化，镜头温柔回望这一天的窗花记忆，不叠加文字或虚构魔法场景。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。 Maintain object identities and spatial layout from the loaded scene/prop references, but create a fresh composition for this shot; never reproduce a reference image verbatim.",
+    "references_loaded": [
+      "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/pipi_sleep_wardrobe.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/bedroom_scene_ref.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/assets/prop_reference_board.png"
+    ],
+    "output_source": "/workspace/generated_images/exec-9d31fad8-423d-49b0-8511-bda632a66cea.png"
+  },
+  {
+    "shot_id": 28,
+    "title": "温暖安静的睡眠",
+    "prompt": "A single static vertical 9:16 watercolor storybook illustration, delicate handmade watercolor and soft paper grain, calm premium Chinese bedtime picture-book style, coherent warm wood interiors and cool winter daylight. Preserve the exact visual action and emotional expression described for this shot. Keep important faces and objects in the upper two-thirds and leave the lower quarter calm and uncluttered for later subtitles. No text, no letters, no captions, no watermark, no panels, no collage, no border. Pipi identity must match the official gray rabbit references: warm gray fur, round face, pink nose, naturally drooping long ears. Use the described expression, gaze, and body pose for this exact moment; do not copy the reference sheet sleepy or sad face. Keep the same pale sleepwear and navy star sleep cap throughout the post-bath bedtime sequence. 卧室固定构图逐渐安静下来：皮皮睡在暖黄毛毯中，窗外深蓝，床头灯很暗，冰花纹路淡淡可见；画面留白温柔，不出现任何文字。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。 Maintain object identities and spatial layout from the loaded scene/prop references, but create a fresh composition for this shot; never reproduce a reference image verbatim.",
+    "references_loaded": [
+      "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/pipi_sleep_wardrobe.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/bedroom_scene_ref.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/assets/prop_reference_board.png"
+    ],
+    "output_source": "/workspace/generated_images/exec-d26c0b7c-20f8-4553-ab82-513e447a76ad.png"
+  },
+  {
+    "shot_id": 29,
+    "title": "晚安",
+    "prompt": "A single static vertical 9:16 watercolor storybook illustration, delicate handmade watercolor and soft paper grain, calm premium Chinese bedtime picture-book style, coherent warm wood interiors and cool winter daylight. Preserve the exact visual action and emotional expression described for this shot. Keep important faces and objects in the upper two-thirds and leave the lower quarter calm and uncluttered for later subtitles. No text, no letters, no captions, no watermark, no panels, no collage, no border. Pipi identity must match the official gray rabbit references: warm gray fur, round face, pink nose, naturally drooping long ears. Use the described expression, gaze, and body pose for this exact moment; do not copy the reference sheet sleepy or sad face. Keep the same pale sleepwear and navy star sleep cap throughout the post-bath bedtime sequence. 皮皮在同一张低床上安睡，暖黄毛毯盖到肩下，窗外深蓝，画面平静留白；不出现文字，最后4秒渐暗到深夜蓝。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。 Maintain object identities and spatial layout from the loaded scene/prop references, but create a fresh composition for this shot; never reproduce a reference image verbatim.",
+    "references_loaded": [
+      "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/pipi_sleep_wardrobe.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/references/bedroom_scene_ref.png",
+      "/workspace/Bedtime-Stories/episodes/ep044/v001/assets/prop_reference_board.png"
+    ],
+    "output_source": "/workspace/generated_images/exec-abbdbc9d-108b-4258-b4d4-69702414c6b7.png"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "episode": "ep044",
+  "characters": {
+    "pipi": {
+      "identity": "references/pipi_identity_v001.png",
+      "day_wardrobe": "references/pipi_day_wardrobe.png",
+      "sleep_wardrobe": "references/pipi_sleep_wardrobe.png"
+    }
+  },
+  "locations": {
+    "bedroom": "references/bedroom_scene_ref.png"
+  },
+  "identity_acceptance": "registry_approved_for_initial_production_use"
+}

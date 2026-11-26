@@ -1,0 +1,53 @@
+{
+  "text": "里面藏着怎样的图案呢？",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "f741f09ef8b1eb1a7c336fe2dbe969593093374cbdf3d7a71d36c292cdd1d4e8",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 8461660,
+      "text": "里面"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11269160,
+      "duration": 3461660,
+      "text": "藏"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14730830,
+      "duration": 1346250,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16461660,
+      "duration": 5576660,
+      "text": "怎样"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22038330,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23577080,
+      "duration": 5769160,
+      "text": "图案"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29346250,
+      "duration": 3653750,
+      "text": "呢"
+    }
+  ]
+}

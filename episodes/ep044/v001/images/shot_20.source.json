@@ -1,0 +1,17 @@
+{
+  "image_tool": "built_in image_gen",
+  "shot_id": 20,
+  "image": "images/shot_20.png",
+  "prompt": "Single static portrait 9:16 watercolor storybook illustration, soft handmade paper texture, consistent cozy winter bedroom palette, important details in upper two-thirds, lower quarter calm for subtitles. No text, no lettering, no watermark, no collage, no border. Quiet nighttime bedroom composition with NO PEOPLE AND NO ANIMALS. Show the same closed wooden window with the ice-garden mostly melted into a few thin water marks, and in the same frame show the small light-oak table with one white sheet of paper clearly preserving the frost-garden drawing: a curved silver-gray path, a few curved grass blades, small branching pine-like ice form, and one round flower. One slim silver-gray colored pencil rests beside the paper. This is the preserved drawing contrasted with naturally changing glass. No person, no rabbit, no human, no cat, no pet, no extra drawings, no cabin illustration, no text.",
+  "references_loaded": [
+    "/workspace/Bedtime-Stories/episodes/ep044/v001/references/bedroom_scene_ref.png",
+    "/workspace/Bedtime-Stories/episodes/ep044/v001/assets/prop_reference_board.png",
+    "/workspace/Bedtime-Stories/episodes/ep044/v001/images/shot_14.png"
+  ],
+  "output_source": "/workspace/generated_images/exec-d1d34d47-4da0-4024-8b46-8246dbb77a7d.png",
+  "size_px": [
+    941,
+    1672
+  ],
+  "review_status": "passed_full_contact_sheet_and_continuity_review"
+}

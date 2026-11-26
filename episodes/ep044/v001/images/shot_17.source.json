@@ -1,0 +1,17 @@
+{
+  "image_tool": "built_in image_gen",
+  "shot_id": 17,
+  "image": "images/shot_17.png",
+  "prompt": "Single static portrait 9:16 watercolor storybook illustration, soft handmade paper texture, consistent cozy winter bedroom palette, important details in upper two-thirds, lower quarter calm for subtitles. No text, no lettering, no watermark, no collage, no border. Nighttime close-up of the exact same right-side wooden bedroom window. The earlier frost-garden is now visibly melting because the room is warm: most fern branches and flower shapes have disappeared, leaving soft translucent patchy ice and a few clear water streaks and tiny droplets on the glass. Warm amber stove reflection on the inside, deep blue winter night outside. No person, no rabbit, no animal, no full intact frost garden, no text.",
+  "references_loaded": [
+    "/workspace/Bedtime-Stories/episodes/ep044/v001/references/bedroom_scene_ref.png",
+    "/workspace/Bedtime-Stories/episodes/ep044/v001/images/shot_00.png",
+    "/workspace/Bedtime-Stories/episodes/ep044/v001/images/shot_15.png"
+  ],
+  "output_source": "/workspace/generated_images/exec-3ac4b86f-8342-40d8-ba4b-fca751110c93.png",
+  "size_px": [
+    941,
+    1672
+  ],
+  "review_status": "passed_full_contact_sheet_and_continuity_review"
+}

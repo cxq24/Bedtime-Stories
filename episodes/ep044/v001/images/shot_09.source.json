@@ -1,0 +1,16 @@
+{
+  "image_tool": "built_in image_gen",
+  "shot_id": 9,
+  "image": "images/shot_09.png",
+  "prompt": "Single static portrait 9:16 watercolor storybook illustration, soft handmade paper texture, consistent cozy winter bedroom palette, important details in upper two-thirds, lower quarter calm for subtitles. No text, no lettering, no watermark, no collage, no border. Extreme close-up of the same winter window pane, showing only thin curving frost filaments like a small patch of wind-bent grasses, clearly different from pine-tree branches. A few delicate arcs and wavy stems in translucent silver-white ice, cool afternoon light, subtle wood frame at one edge. No room view, no people, no rabbit, no humans, no animals, no furniture, no tree-shaped frost, no text.",
+  "references_loaded": [
+    "/workspace/Bedtime-Stories/episodes/ep044/v001/images/shot_00.png",
+    "/workspace/Bedtime-Stories/episodes/ep044/v001/images/shot_08.png"
+  ],
+  "output_source": "/workspace/generated_images/exec-d06b3151-3d4e-4ecd-ace0-20b7ff7f2b36.png",
+  "size_px": [
+    941,
+    1671
+  ],
+  "review_status": "passed_full_contact_sheet_and_continuity_review"
+}

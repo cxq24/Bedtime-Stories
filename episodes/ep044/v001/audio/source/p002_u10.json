@@ -1,0 +1,59 @@
+{
+  "text": "像一丛迎风摇摆的细草；",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "24cbd733de9f8ae67b52393a8bb1d5fcf7a100f6a25466dcbb83fde21f6862d9",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3846250,
+      "text": "像"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5307500,
+      "duration": 1730830,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 2884580,
+      "text": "丛"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10307500,
+      "duration": 6153750,
+      "text": "迎风"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16653750,
+      "duration": 5577080,
+      "text": "摇摆"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22230830,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23577080,
+      "duration": 3461250,
+      "text": "细"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27038330,
+      "duration": 5769160,
+      "text": "草"
+    }
+  ]
+}

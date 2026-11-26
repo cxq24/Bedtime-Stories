@@ -1,0 +1,71 @@
+{
+  "text": "皮皮没有用热乎乎的小爪子去擦玻璃，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "5fd72b00df7845eb027290804fa8169a19e014a93f36fc6fe01b736f5aa560b5",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5384580,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 4038330,
+      "text": "没有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11077080,
+      "duration": 2692500,
+      "text": "用"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14153750,
+      "duration": 7500000,
+      "text": "热乎乎"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21653750,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23192500,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26461660,
+      "duration": 8269160,
+      "text": "爪子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36269160,
+      "duration": 2500000,
+      "text": "去"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38769160,
+      "duration": 3269160,
+      "text": "擦"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42230830,
+      "duration": 6730830,
+      "text": "玻璃"
+    }
+  ]
+}

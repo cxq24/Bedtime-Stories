@@ -1,0 +1,22 @@
+{
+  "episode": "ep044",
+  "shot_id": 29,
+  "continuity_asset_ids": [
+    "CHAR_PIPI_01",
+    "LOC_BEDROOM_01",
+    "WIN_WINDOW_01",
+    "PROP_BED_01",
+    "PROP_BLANKET_01",
+    "PROP_PILLOW_01"
+  ],
+  "referenced_image_paths": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep044/v001/references/pipi_sleep_wardrobe.png",
+    "/workspace/Bedtime-Stories/episodes/ep044/v001/references/bedroom_scene_ref.png",
+    "/workspace/Bedtime-Stories/episodes/ep044/v001/assets/prop_reference_board.png"
+  ],
+  "characters": [
+    "pipi"
+  ],
+  "image_source_manifest": "images/shot_29.source.json"
+}

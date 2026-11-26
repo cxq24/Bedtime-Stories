@@ -1,0 +1,15 @@
+{
+  "image_tool": "built_in image_gen",
+  "shot_id": 10,
+  "image": "images/shot_10.png",
+  "prompt": "A single portrait 9:16 close-up watercolor storybook illustration of winter frost on a transparent window pane, matching the soft paper texture and silver-blue ice style of the reference. Show ONLY delicate winding frost lines that bend and loop like fine grasses blowing in the wind; a few hair-thin curls, tiny crystalline tips, subtle early afternoon glow. Keep the visible wood window frame at the far edge to confirm the same bedroom window, but make the subject almost entirely the frosted glass. Absolutely no people, no rabbits, no humans, no animals, no pets, no characters, no bed, no cat, no furniture, no objects behind the glass, no text, no lettering, no collage. Keep the lower quarter visually simple for subtitles.",
+  "references_loaded": [
+    "/workspace/Bedtime-Stories/episodes/ep044/v001/images/shot_00.png"
+  ],
+  "output_source": "/workspace/generated_images/exec-2ad645b1-18c2-4082-b476-8eba5a409e0a.png",
+  "size_px": [
+    941,
+    1672
+  ],
+  "review_status": "passed_full_contact_sheet_and_continuity_review"
+}

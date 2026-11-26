@@ -1,0 +1,71 @@
+{
+  "text": "惊喜地发现卧室玻璃窗的四个角落上，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "b5fd7bccc8d919975a4b2ee7ad308bbb01d30ee745ef6b8c2ad35283ea3df9f8",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5961660,
+      "text": "惊喜"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7230830,
+      "duration": 1538330,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8961660,
+      "duration": 8653750,
+      "text": "发现"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19153750,
+      "duration": 5000000,
+      "text": "卧室"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24346250,
+      "duration": 7692080,
+      "text": "玻璃窗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32038330,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33769160,
+      "duration": 2884580,
+      "text": "四"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36653750,
+      "duration": 1346250,
+      "text": "个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38192500,
+      "duration": 6538330,
+      "text": "角落"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44730830,
+      "duration": 5000000,
+      "text": "上"
+    }
+  ]
+}

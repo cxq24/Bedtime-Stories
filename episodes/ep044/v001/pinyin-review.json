@@ -1,0 +1,567 @@
+{
+  "hanzi": 720,
+  "cues": 130,
+  "pinyin_coverage": 1.0,
+  "context_review": "completed_against_episode_text",
+  "target_font_px": {
+    "hanzi": 76,
+    "pinyin": 48
+  },
+  "libass_fontsize_calibration": {
+    "hanzi": 114,
+    "pinyin": 66,
+    "reason": "match actual rasterized glyph scale to bundled-font 76px/48px reference; libass normalizes font metrics"
+  },
+  "audio_pronunciation_listen_review": "not_certified",
+  "overrides": [
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "小朋友们，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "冰窗花",
+      "pinyin": [
+        "bīng",
+        "chuāng",
+        "huā"
+      ],
+      "context": "今天的故事叫《冰窗花的小花园》。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "小花园",
+      "pinyin": [
+        "xiǎo",
+        "huā",
+        "yuán"
+      ],
+      "context": "今天的故事叫《冰窗花的小花园》。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "小花园",
+      "pinyin": [
+        "xiǎo",
+        "huā",
+        "yuán"
+      ],
+      "context": "窗玻璃上开出了一座冰做的小花园，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮早起准备去森林学堂的时候，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "学堂",
+      "pinyin": [
+        "xué",
+        "táng"
+      ],
+      "context": "皮皮早起准备去森林学堂的时候，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "惊喜地发现卧室玻璃窗的四个角落上，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "冰窗花",
+      "pinyin": [
+        "bīng",
+        "chuāng",
+        "huā"
+      ],
+      "context": "结出了一小片晶莹剔透的冰窗花！",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "结出",
+      "pinyin": [
+        "jié",
+        "chū"
+      ],
+      "context": "结出了一小片晶莹剔透的冰窗花！",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "冰晶",
+      "pinyin": [
+        "bīng",
+        "jīng"
+      ],
+      "context": "\n那些细细密密的冰晶纹路，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "袖珍",
+      "pinyin": [
+        "xiù",
+        "zhēn"
+      ],
+      "context": "就像冬天爷爷在夜里偷偷画上去的一座白色袖珍小花园。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "小花园",
+      "pinyin": [
+        "xiǎo",
+        "huā",
+        "yuán"
+      ],
+      "context": "就像冬天爷爷在夜里偷偷画上去的一座白色袖珍小花园。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮趁着窗角的冰窗花还没完全消融，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "冰窗花",
+      "pinyin": [
+        "bīng",
+        "chuāng",
+        "huā"
+      ],
+      "context": "皮皮趁着窗角的冰窗花还没完全消融，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "消融",
+      "pinyin": [
+        "xiāo",
+        "róng"
+      ],
+      "context": "皮皮趁着窗角的冰窗花还没完全消融，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "冰花",
+      "pinyin": [
+        "bīng",
+        "huā"
+      ],
+      "context": "\n他顺着冰花的纹路慢慢看过去：",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "冰晶",
+      "pinyin": [
+        "bīng",
+        "jīng"
+      ],
+      "context": "有的冰晶分着叉，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "长满",
+      "pinyin": [
+        "zhǎng",
+        "mǎn"
+      ],
+      "context": "像一棵长满冰挂的松树；",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "冰挂",
+      "pinyin": [
+        "bīng",
+        "guà"
+      ],
+      "context": "像一棵长满冰挂的松树；",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "弯弯曲曲",
+      "pinyin": [
+        "wān",
+        "wān",
+        "qū",
+        "qū"
+      ],
+      "context": "有的弯弯曲曲，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "爪子",
+      "pinyin": [
+        "zhuǎ",
+        "zi"
+      ],
+      "context": "皮皮没有用热乎乎的小爪子去擦玻璃，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮没有用热乎乎的小爪子去擦玻璃，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "冰花",
+      "pinyin": [
+        "bīng",
+        "huā"
+      ],
+      "context": "因为他知道一碰冰花就会化掉。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "彩铅",
+      "pinyin": [
+        "cǎi",
+        "qiān"
+      ],
+      "context": "他拿来一张白色画纸和银灰色的彩铅，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "冰窗花",
+      "pinyin": [
+        "bīng",
+        "chuāng",
+        "huā"
+      ],
+      "context": "安安静静地画下了冰窗花里自己最喜欢的一小段风景。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "安安静静",
+      "pinyin": [
+        "ān",
+        "ān",
+        "jìng",
+        "jìng"
+      ],
+      "context": "安安静静地画下了冰窗花里自己最喜欢的一小段风景。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "冰花",
+      "pinyin": [
+        "bīng",
+        "huā"
+      ],
+      "context": "刚好走到了一朵圆圆的冰花旁边。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "温差",
+      "pinyin": [
+        "wēn",
+        "chā"
+      ],
+      "context": "室内外温差变了，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "等皮皮洗完澡再去看窗户时，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "窗户",
+      "pinyin": [
+        "chuāng",
+        "hù"
+      ],
+      "context": "等皮皮洗完澡再去看窗户时，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "冰窗花",
+      "pinyin": [
+        "bīng",
+        "chuāng",
+        "huā"
+      ],
+      "context": "窗角那片冰窗花的纹路，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "融化",
+      "pinyin": [
+        "róng",
+        "huà"
+      ],
+      "context": "已经悄悄地融化、变了模样，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "小花园",
+      "pinyin": [
+        "xiǎo",
+        "huā",
+        "yuán"
+      ],
+      "context": "不再是下午那座小花园了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮可能会觉得惋惜，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "惋惜",
+      "pinyin": [
+        "wǎn",
+        "xī"
+      ],
+      "context": "皮皮可能会觉得惋惜，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "冰花",
+      "pinyin": [
+        "bīng",
+        "huā"
+      ],
+      "context": "想拿着画笔再去窗边追着画下冰花新变成的样子。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "但皮皮看了看桌上的画纸，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "漂亮",
+      "pinyin": [
+        "piào",
+        "liang"
+      ],
+      "context": "下午那座漂亮的小花园，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "小花园",
+      "pinyin": [
+        "xiǎo",
+        "huā",
+        "yuán"
+      ],
+      "context": "下午那座漂亮的小花园，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "安安静静",
+      "pinyin": [
+        "ān",
+        "ān",
+        "jìng",
+        "jìng"
+      ],
+      "context": "已经安安静静地留在他的画纸上了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "冰窗花",
+      "pinyin": [
+        "bīng",
+        "chuāng",
+        "huā"
+      ],
+      "context": "大自然里的冰窗花有它自己的变化，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "融化",
+      "pinyin": [
+        "róng",
+        "huà"
+      ],
+      "context": "融化了，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "明天",
+      "pinyin": [
+        "míng",
+        "tiān"
+      ],
+      "context": "明天夜里冷的时候还会再结出新的图案，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "结出",
+      "pinyin": [
+        "jié",
+        "chū"
+      ],
+      "context": "明天夜里冷的时候还会再结出新的图案，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "\n皮皮把画纸小心地夹进自己的绘本里，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "夹进",
+      "pinyin": [
+        "jiā",
+        "jìn"
+      ],
+      "context": "\n皮皮把画纸小心地夹进自己的绘本里，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绘本",
+      "pinyin": [
+        "huì",
+        "běn"
+      ],
+      "context": "\n皮皮把画纸小心地夹进自己的绘本里，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "彩铅",
+      "pinyin": [
+        "cǎi",
+        "qiān"
+      ],
+      "context": "收好了彩铅。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "毛毯",
+      "pinyin": [
+        "máo",
+        "tǎn"
+      ],
+      "context": "床上的暖黄毛毯暖暖的，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮爬上床，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "长耳朵",
+      "pinyin": [
+        "cháng",
+        "ěr",
+        "duo"
+      ],
+      "context": "让两只长耳朵慢慢地落在枕头边。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "窗外",
+      "pinyin": [
+        "chuāng",
+        "wài"
+      ],
+      "context": "窗外玻璃上的冰花小花园，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "冰花",
+      "pinyin": [
+        "bīng",
+        "huā"
+      ],
+      "context": "窗外玻璃上的冰花小花园，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "小花园",
+      "pinyin": [
+        "xiǎo",
+        "huā",
+        "yuán"
+      ],
+      "context": "窗外玻璃上的冰花小花园，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "融化",
+      "pinyin": [
+        "róng",
+        "huà"
+      ],
+      "context": "可以在夜里继续自由地生长或融化，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "兔子",
+      "pinyin": [
+        "tù",
+        "zi"
+      ],
+      "context": "今晚的小兔子，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "不用",
+      "pinyin": [
+        "bú",
+        "yòng"
+      ],
+      "context": "不用一直睁着眼睛看着它了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "小朋友，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "漂亮",
+      "pinyin": [
+        "piào",
+        "liang"
+      ],
+      "context": "把今天看过的漂亮景色轻轻收进记忆里吧。",
+      "review": "context_checked_not_audio_listen_certification"
+    }
+  ]
+}

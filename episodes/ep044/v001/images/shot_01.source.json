@@ -1,0 +1,15 @@
+{
+  "image_tool": "built_in image_gen",
+  "shot_id": 1,
+  "image": "images/shot_01.png",
+  "prompt": "A single static vertical 9:16 watercolor storybook illustration, delicate handmade watercolor and soft paper grain, calm premium Chinese bedtime picture-book style, coherent warm wood interiors and cool winter daylight. Preserve the exact visual action and emotional expression described for this shot. Keep important faces and objects in the upper two-thirds and leave the lower quarter calm and uncluttered for later subtitles. No text, no letters, no captions, no watermark, no panels, no collage, no border. 更近的诗意冰晶花园视角：交错冰枝、圆花和弯曲小路藏在半透明玻璃纹理中；不是实际卧室窗户的重复构图，无角色、无文字。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。 Maintain object identities and spatial layout from the loaded scene/prop references, but create a fresh composition for this shot; never reproduce a reference image verbatim.",
+  "references_loaded": [
+    "/workspace/Bedtime-Stories/episodes/ep044/v001/images/shot_00.png"
+  ],
+  "output_source": "/workspace/generated_images/exec-380bd9e6-a32d-44bd-83a3-eb5adb068af0.png",
+  "size_px": [
+    941,
+    1672
+  ],
+  "review_status": "passed_full_contact_sheet_and_continuity_review"
+}

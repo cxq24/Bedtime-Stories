@@ -1,0 +1,23 @@
+{
+  "text": "有的弯弯曲曲，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "b10f23e8dc331009710655ccbd00e5cb29091bf9dc5226348bedd1742361923b",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4422910,
+      "text": "有的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5884580,
+      "duration": 14422910,
+      "text": "弯弯曲曲"
+    }
+  ]
+}

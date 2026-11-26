@@ -1,0 +1,8 @@
+{
+  "image_tool": "built_in image_gen",
+  "image": "assets/prop_reference_board.png",
+  "prompt": "Six unlabelled watercolor props: small light-oak table, blank white paper and silver-gray pencil, teal picture book, low bed with yellow blanket and off-white pillow, compact iron stove, small yellow backpack.",
+  "references_loaded": [],
+  "output_source": "/workspace/generated_images/exec-1a00fb28-43e0-4e68-b1fe-7083bb8307a5.png",
+  "review_status": "production_reference_not_a_video_shot"
+}

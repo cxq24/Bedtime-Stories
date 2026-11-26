@@ -1,0 +1,1658 @@
+{
+  "episode": "ep044",
+  "duration_s": 275.12,
+  "fps": 25,
+  "frames": 6878,
+  "preview": false,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "shot_count": 30,
+  "crossfade_s": 0.96,
+  "curve": "linear",
+  "within_shot_motion": "none",
+  "subtitles_after_picture_transitions": true,
+  "clean": "/workspace/Bedtime-Stories/Outputs/2026-11-26/ep044-v001/ep044_clean.mp4",
+  "publish": "/workspace/Bedtime-Stories/Outputs/2026-11-26/ep044-v001/ep044.mp4",
+  "delivery_directory": "/workspace/Bedtime-Stories/Outputs/2026-11-26/ep044-v001",
+  "shots": [
+    {
+      "id": 0,
+      "paragraph_id": "p000",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u01",
+          "start_char": 0,
+          "end_char": 5
+        },
+        {
+          "unit_id": "p000_u02",
+          "start_char": 0,
+          "end_char": 9
+        },
+        {
+          "unit_id": "p000_u03",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "text": "小朋友们，准备好听故事了吗？今天的故事叫《冰窗花的小花园》。",
+      "title": "片头：窗上的冰花",
+      "location": "独立片头画面",
+      "time_of_day": "冬日清晨",
+      "layer": "storybook",
+      "characters": [],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {},
+      "visual_direction": "冰窗小花园铺满高窗，晶莹分枝与花形冰晶在浅蓝晨光中显现，窗边有一线暖色室内光；无角色、无文字。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。",
+      "action": "冰窗小花园铺满高窗，晶莹分枝与花形冰晶在浅蓝晨光中显现，窗边有一线暖色室内光；无角色、无文字。",
+      "continuity_refs": [
+        "LOC_OPENING_01",
+        "PROP_FROST_01"
+      ],
+      "state_before": "片头以静谧窗花引出故事，和后续卧室剧情画面分开。",
+      "state_after": "窗花图案初现于开场画面。",
+      "transition_from": null,
+      "image_status": "planned",
+      "image_path": "images/shot_00.png",
+      "image": "images/shot_00.png",
+      "speech_start_s": 1.0,
+      "speech_end_s": 10.2316035,
+      "actual_start_s": 0.0,
+      "actual_end_s": 10.8,
+      "visible_start_s": 0.0,
+      "visible_end_s": 11.280000000000001,
+      "visible_duration_s": 11.28
+    },
+    {
+      "id": 1,
+      "paragraph_id": "p000",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u04",
+          "start_char": 0,
+          "end_char": 16
+        },
+        {
+          "unit_id": "p000_u05",
+          "start_char": 0,
+          "end_char": 11
+        }
+      ],
+      "text": "窗玻璃上开出了一座冰做的小花园，里面藏着怎样的图案呢？",
+      "title": "片头：冰晶里的图案",
+      "location": "独立片头画面",
+      "time_of_day": "冬日清晨",
+      "layer": "storybook",
+      "characters": [],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {},
+      "visual_direction": "更近的诗意冰晶花园视角：交错冰枝、圆花和弯曲小路藏在半透明玻璃纹理中；不是实际卧室窗户的重复构图，无角色、无文字。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。",
+      "action": "更近的诗意冰晶花园视角：交错冰枝、圆花和弯曲小路藏在半透明玻璃纹理中；不是实际卧室窗户的重复构图，无角色、无文字。",
+      "continuity_refs": [
+        "LOC_OPENING_01",
+        "PROP_FROST_01"
+      ],
+      "state_before": "接续片头的冰晶图案提问。",
+      "state_after": "开场想象停留在冰花细节。",
+      "transition_from": 0,
+      "image_status": "generated",
+      "image_path": "images/shot_01.png",
+      "image": "images/shot_01.png",
+      "speech_start_s": 11.358916666666667,
+      "speech_end_s": 19.486208333333337,
+      "actual_start_s": 10.8,
+      "actual_end_s": 20.04,
+      "visible_start_s": 10.32,
+      "visible_end_s": 20.52,
+      "visible_duration_s": 10.2,
+      "image_source": "images/shot_01.source.json"
+    },
+    {
+      "id": 2,
+      "paragraph_id": "p001",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u01",
+          "start_char": 0,
+          "end_char": 9
+        },
+        {
+          "unit_id": "p001_u02",
+          "start_char": 0,
+          "end_char": 15
+        }
+      ],
+      "text": "冬天的清晨特别冷，皮皮早起准备去森林学堂的时候，",
+      "title": "清冷的清晨",
+      "location": "皮皮的卧室",
+      "time_of_day": "冬日清晨",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮在温暖木屋卧室里穿好米色上衣和灰蓝背带裤，蓝布鞋已穿好，小黄书包放在床边；他正准备去森林学堂，动作自然，神情清醒而平和。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。",
+      "action": "皮皮在温暖木屋卧室里穿好米色上衣和灰蓝背带裤，蓝布鞋已穿好，小黄书包放在床边；他正准备去森林学堂，动作自然，神情清醒而平和。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_BEDROOM_01",
+        "PROP_BED_01",
+        "PROP_SCHOOLBAG_01"
+      ],
+      "state_before": "从片头切入皮皮清晨的卧室；皮皮在家中准备上学。",
+      "state_after": "窗玻璃四角有薄霜，皮皮尚未发现。",
+      "transition_from": 1,
+      "image_status": "generated",
+      "image_path": "images/shot_02.png",
+      "image": "images/shot_02.png",
+      "speech_start_s": 20.608666666666668,
+      "speech_end_s": 27.9438535,
+      "actual_start_s": 20.04,
+      "actual_end_s": 28.16,
+      "visible_start_s": 19.56,
+      "visible_end_s": 28.64,
+      "visible_duration_s": 9.08,
+      "image_source": "images/shot_02.source.json"
+    },
+    {
+      "id": 3,
+      "paragraph_id": "p001",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u03",
+          "start_char": 0,
+          "end_char": 17
+        },
+        {
+          "unit_id": "p001_u04",
+          "start_char": 0,
+          "end_char": 15
+        }
+      ],
+      "text": "惊喜地发现卧室玻璃窗的四个角落上，结出了一小片晶莹剔透的冰窗花！",
+      "title": "发现窗角冰花",
+      "location": "皮皮的卧室",
+      "time_of_day": "冬日清晨",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮转向同一扇宽木框窗，惊喜地发现玻璃四角结着晶莹冰窗花；他睁眼微微抬眉，视线落在窗角，没有夸张张嘴。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。",
+      "action": "皮皮转向同一扇宽木框窗，惊喜地发现玻璃四角结着晶莹冰窗花；他睁眼微微抬眉，视线落在窗角，没有夸张张嘴。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_BEDROOM_01",
+        "WIN_WINDOW_01",
+        "PROP_FROST_01"
+      ],
+      "state_before": "皮皮从穿衣准备转向窗口，地点仍是卧室。",
+      "state_after": "皮皮发现四角初生的冰窗花，未触碰玻璃。",
+      "transition_from": 2,
+      "image_status": "generated",
+      "image_path": "images/shot_03.png",
+      "image": "images/shot_03.png",
+      "speech_start_s": 28.396166666666666,
+      "speech_end_s": 37.5876875,
+      "actual_start_s": 28.16,
+      "actual_end_s": 38.16,
+      "visible_start_s": 27.68,
+      "visible_end_s": 38.63999999999999,
+      "visible_duration_s": 10.96,
+      "image_source": "images/shot_03.source.json"
+    },
+    {
+      "id": 4,
+      "paragraph_id": "p001",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u05",
+          "start_char": 0,
+          "end_char": 13
+        }
+      ],
+      "text": "\n那些细细密密的冰晶纹路，",
+      "title": "晨光里的细纹",
+      "location": "卧室窗边特写",
+      "time_of_day": "冬日清晨",
+      "layer": "storybook",
+      "characters": [],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {},
+      "visual_direction": "无人物近景，玻璃角落布满细细密密的分枝冰晶，银色晨光穿过透明纹路，保留木窗框和固定窗台方向。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。",
+      "action": "无人物近景，玻璃角落布满细细密密的分枝冰晶，银色晨光穿过透明纹路，保留木窗框和固定窗台方向。",
+      "continuity_refs": [
+        "LOC_BEDROOM_01",
+        "WIN_WINDOW_01",
+        "PROP_FROST_01"
+      ],
+      "state_before": "承接皮皮刚发现的同一扇卧室窗。",
+      "state_after": "冰花细纹在晨光里闪银光。",
+      "transition_from": 3,
+      "image_status": "generated",
+      "image_path": "images/shot_04.png",
+      "image": "images/shot_04.png",
+      "speech_start_s": 38.745000000000005,
+      "speech_end_s": 41.969624333333336,
+      "actual_start_s": 38.16,
+      "actual_end_s": 42.2,
+      "visible_start_s": 37.68,
+      "visible_end_s": 42.68,
+      "visible_duration_s": 5.0,
+      "image_source": "images/shot_04.source.json"
+    },
+    {
+      "id": 5,
+      "paragraph_id": "p001",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u06",
+          "start_char": 0,
+          "end_char": 9
+        },
+        {
+          "unit_id": "p001_u07",
+          "start_char": 0,
+          "end_char": 25
+        }
+      ],
+      "text": "在晨光里闪着银光，就像冬天爷爷在夜里偷偷画上去的一座白色袖珍小花园。",
+      "title": "白色袖珍花园",
+      "location": "卧室窗边特写",
+      "time_of_day": "冬日清晨",
+      "layer": "storybook",
+      "characters": [],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {},
+      "visual_direction": "同一窗角冰晶如一座袖珍白色花园：细小树枝与花叶般的霜纹层层展开，冷银光温柔清晰；不添加真实人物或拟人冬天爷爷。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。",
+      "action": "同一窗角冰晶如一座袖珍白色花园：细小树枝与花叶般的霜纹层层展开，冷银光温柔清晰；不添加真实人物或拟人冬天爷爷。",
+      "continuity_refs": [
+        "LOC_BEDROOM_01",
+        "WIN_WINDOW_01",
+        "PROP_FROST_01"
+      ],
+      "state_before": "延续同一窗角与晨光，只细看霜花。",
+      "state_after": "皮皮心中把冰晶纹路想成冬夜画出的袖珍花园。",
+      "transition_from": 4,
+      "image_status": "generated",
+      "image_path": "images/shot_05.png",
+      "image": "images/shot_05.png",
+      "speech_start_s": 42.44627083333334,
+      "speech_end_s": 52.96520766666667,
+      "actual_start_s": 42.2,
+      "actual_end_s": 53.52,
+      "visible_start_s": 41.720000000000006,
+      "visible_end_s": 54.0,
+      "visible_duration_s": 12.28,
+      "image_source": "images/shot_05.source.json"
+    },
+    {
+      "id": 6,
+      "paragraph_id": "p002",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u01",
+          "start_char": 0,
+          "end_char": 8
+        },
+        {
+          "unit_id": "p002_u02",
+          "start_char": 0,
+          "end_char": 7
+        },
+        {
+          "unit_id": "p002_u03",
+          "start_char": 0,
+          "end_char": 17
+        }
+      ],
+      "text": "下午放学回到家，太阳还没落山，皮皮趁着窗角的冰窗花还没完全消融，",
+      "title": "放学后回到家",
+      "location": "卧室窗边",
+      "time_of_day": "冬日下午",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "午后未落山的阳光照进木屋，皮皮放学回家后站到同一扇窗前；小黄书包挂在房间门边，窗角冰花开始变薄但仍完整可辨。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。",
+      "action": "午后未落山的阳光照进木屋，皮皮放学回家后站到同一扇窗前；小黄书包挂在房间门边，窗角冰花开始变薄但仍完整可辨。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_BEDROOM_01",
+        "WIN_WINDOW_01",
+        "PROP_FROST_01",
+        "PROP_SCHOOLBAG_01"
+      ],
+      "state_before": "时间转到下午；皮皮已经回到家，书包放在门边。",
+      "state_after": "冰窗花尚未完全消融，皮皮想趁日光中看看它。",
+      "transition_from": 5,
+      "image_status": "generated",
+      "image_path": "images/shot_06.png",
+      "image": "images/shot_06.png",
+      "speech_start_s": 54.10095833333334,
+      "speech_end_s": 64.55047916666668,
+      "actual_start_s": 53.52,
+      "actual_end_s": 64.8,
+      "visible_start_s": 53.040000000000006,
+      "visible_end_s": 65.28,
+      "visible_duration_s": 12.24,
+      "image_source": "images/shot_06.source.json"
+    },
+    {
+      "id": 7,
+      "paragraph_id": "p002",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u04",
+          "start_char": 0,
+          "end_char": 12
+        },
+        {
+          "unit_id": "p002_u05",
+          "start_char": 0,
+          "end_char": 8
+        }
+      ],
+      "text": "赶紧搬来小桌子坐在窗前，仔细地欣赏起来。",
+      "title": "搬来小桌子",
+      "location": "卧室窗前",
+      "time_of_day": "冬日下午",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮双手把一张矮小浅木色小桌搬到同一扇窗前，坐下仔细欣赏窗角冰花；表情专注好奇，眼睛跟随玻璃纹路。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。",
+      "action": "皮皮双手把一张矮小浅木色小桌搬到同一扇窗前，坐下仔细欣赏窗角冰花；表情专注好奇，眼睛跟随玻璃纹路。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_BEDROOM_01",
+        "WIN_WINDOW_01",
+        "PROP_FROST_01",
+        "PROP_TABLE_01"
+      ],
+      "state_before": "皮皮留在卧室窗前，搬来的小桌位于窗边。",
+      "state_after": "小桌固定在窗前，皮皮坐下观察冰花。",
+      "transition_from": 6,
+      "image_status": "generated",
+      "image_path": "images/shot_07.png",
+      "image": "images/shot_07.png",
+      "speech_start_s": 65.03806250000001,
+      "speech_end_s": 71.36337366666667,
+      "actual_start_s": 64.8,
+      "actual_end_s": 71.92,
+      "visible_start_s": 64.32,
+      "visible_end_s": 72.4,
+      "visible_duration_s": 8.08,
+      "image_source": "images/shot_07.source.json"
+    },
+    {
+      "id": 8,
+      "paragraph_id": "p002",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u06",
+          "start_char": 0,
+          "end_char": 15
+        },
+        {
+          "unit_id": "p002_u07",
+          "start_char": 0,
+          "end_char": 8
+        },
+        {
+          "unit_id": "p002_u08",
+          "start_char": 0,
+          "end_char": 11
+        }
+      ],
+      "text": "\n他顺着冰花的纹路慢慢看过去：有的冰晶分着叉，像一棵长满冰挂的松树；",
+      "title": "冰晶像松树",
+      "location": "卧室窗花细节",
+      "time_of_day": "冬日下午",
+      "layer": "storybook",
+      "characters": [],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {},
+      "visual_direction": "同一片冰窗花的特写，一组细细分叉的冰晶像挂着冰凌的松树；木窗框边缘和室内柔和日光作为位置锚点。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。",
+      "action": "同一片冰窗花的特写，一组细细分叉的冰晶像挂着冰凌的松树；木窗框边缘和室内柔和日光作为位置锚点。",
+      "continuity_refs": [
+        "LOC_BEDROOM_01",
+        "WIN_WINDOW_01",
+        "PROP_FROST_01"
+      ],
+      "state_before": "承接皮皮坐在窗前观察的视角。",
+      "state_after": "冰晶分叉像一棵挂满冰凌的松树。",
+      "transition_from": 7,
+      "image_status": "generated",
+      "image_path": "images/shot_08.png",
+      "image": "images/shot_08.png",
+      "speech_start_s": 72.50422916666668,
+      "speech_end_s": 82.7667285,
+      "actual_start_s": 71.92,
+      "actual_end_s": 83.0,
+      "visible_start_s": 71.44,
+      "visible_end_s": 83.48,
+      "visible_duration_s": 12.04,
+      "image_source": "images/shot_08.source.json"
+    },
+    {
+      "id": 9,
+      "paragraph_id": "p002",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u09",
+          "start_char": 0,
+          "end_char": 7
+        },
+        {
+          "unit_id": "p002_u10",
+          "start_char": 0,
+          "end_char": 11
+        }
+      ],
+      "text": "有的弯弯曲曲，像一丛迎风摇摆的细草；",
+      "title": "弯曲的细草",
+      "location": "卧室窗花细节",
+      "time_of_day": "冬日下午",
+      "layer": "storybook",
+      "characters": [],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {},
+      "visual_direction": "同一冰花另一段曲折如迎风细草的霜纹，纤细弧线沿玻璃展开；不改变窗格和霜花所在角落。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。",
+      "action": "同一冰花另一段曲折如迎风细草的霜纹，纤细弧线沿玻璃展开；不改变窗格和霜花所在角落。",
+      "continuity_refs": [
+        "LOC_BEDROOM_01",
+        "WIN_WINDOW_01",
+        "PROP_FROST_01"
+      ],
+      "state_before": "切到同一窗花的相邻纹路。",
+      "state_after": "皮皮看到弯弯曲曲、像迎风细草的冰晶。",
+      "transition_from": 8,
+      "image_status": "generated",
+      "image_path": "images/shot_09.png",
+      "image": "images/shot_09.png",
+      "speech_start_s": 83.20645833333333,
+      "speech_end_s": 88.69235316666666,
+      "actual_start_s": 83.0,
+      "actual_end_s": 88.92,
+      "visible_start_s": 82.52,
+      "visible_end_s": 89.4,
+      "visible_duration_s": 6.88,
+      "image_source": "images/shot_09.source.json"
+    },
+    {
+      "id": 10,
+      "paragraph_id": "p002",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u11",
+          "start_char": 0,
+          "end_char": 9
+        },
+        {
+          "unit_id": "p002_u12",
+          "start_char": 0,
+          "end_char": 15
+        }
+      ],
+      "text": "在松树和细草中间，还有一条亮晶晶的、弯弯的小路。",
+      "title": "冰晶间的小路",
+      "location": "卧室窗花细节",
+      "time_of_day": "冬日下午",
+      "layer": "storybook",
+      "characters": [],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {},
+      "visual_direction": "同一窗花的中段，一条亮晶晶弯弯的小路穿过松树形分枝与细草纹路之间，保持自然冰晶质感，不像人工画线。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。",
+      "action": "同一窗花的中段，一条亮晶晶弯弯的小路穿过松树形分枝与细草纹路之间，保持自然冰晶质感，不像人工画线。",
+      "continuity_refs": [
+        "LOC_BEDROOM_01",
+        "WIN_WINDOW_01",
+        "PROP_FROST_01"
+      ],
+      "state_before": "继续观察同一片冰花的中心纹路。",
+      "state_after": "小路连接树形冰枝和细草形冰枝。",
+      "transition_from": 9,
+      "image_status": "generated",
+      "image_path": "images/shot_10.png",
+      "image": "images/shot_10.png",
+      "speech_start_s": 89.11833333333333,
+      "speech_end_s": 96.28533233333332,
+      "actual_start_s": 88.92,
+      "actual_end_s": 96.84,
+      "visible_start_s": 88.44,
+      "visible_end_s": 97.32000000000001,
+      "visible_duration_s": 8.88,
+      "image_source": "images/shot_10.source.json"
+    },
+    {
+      "id": 11,
+      "paragraph_id": "p003",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u01",
+          "start_char": 0,
+          "end_char": 17
+        },
+        {
+          "unit_id": "p003_u02",
+          "start_char": 0,
+          "end_char": 14
+        }
+      ],
+      "text": "皮皮没有用热乎乎的小爪子去擦玻璃，因为他知道一碰冰花就会化掉。",
+      "title": "没有碰玻璃",
+      "location": "卧室窗前",
+      "time_of_day": "冬日下午",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮坐在小桌旁，暖乎乎的小爪子停在离玻璃一小段距离处，没有碰上；他想起冰花会融化，神情认真克制，视线在爪子和冰花之间。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。",
+      "action": "皮皮坐在小桌旁，暖乎乎的小爪子停在离玻璃一小段距离处，没有碰上；他想起冰花会融化，神情认真克制，视线在爪子和冰花之间。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_BEDROOM_01",
+        "WIN_WINDOW_01",
+        "PROP_FROST_01",
+        "PROP_TABLE_01"
+      ],
+      "state_before": "承接皮皮在桌边观察同一窗花。",
+      "state_after": "皮皮收住伸向玻璃的动作，冰花保持原样。",
+      "transition_from": 10,
+      "image_status": "generated",
+      "image_path": "images/shot_11.png",
+      "image": "images/shot_11.png",
+      "speech_start_s": 97.42137499999998,
+      "speech_end_s": 106.62822849999998,
+      "actual_start_s": 96.84,
+      "actual_end_s": 107.2,
+      "visible_start_s": 96.36,
+      "visible_end_s": 107.68,
+      "visible_duration_s": 11.32,
+      "image_source": "images/shot_11.source.json"
+    },
+    {
+      "id": 12,
+      "paragraph_id": "p003",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u03",
+          "start_char": 0,
+          "end_char": 17
+        },
+        {
+          "unit_id": "p003_u04",
+          "start_char": 0,
+          "end_char": 5
+        }
+      ],
+      "text": "他拿来一张白色画纸和银灰色的彩铅，放在桌上，",
+      "title": "纸和彩铅",
+      "location": "卧室窗前小桌",
+      "time_of_day": "冬日下午",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮把一张白色画纸和一支银灰色彩铅放在同一张浅木桌上；他神情安静专注，准备照着窗花画画。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。",
+      "action": "皮皮把一张白色画纸和一支银灰色彩铅放在同一张浅木桌上；他神情安静专注，准备照着窗花画画。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_BEDROOM_01",
+        "WIN_WINDOW_01",
+        "PROP_TABLE_01",
+        "PROP_PAPER_01",
+        "PROP_PENCIL_01"
+      ],
+      "state_before": "皮皮从未触摸玻璃，转而取来纸和彩铅，在原位准备绘画。",
+      "state_after": "画纸和彩铅留在桌面，皮皮准备画最喜欢的一段风景。",
+      "transition_from": 11,
+      "image_status": "generated",
+      "image_path": "images/shot_12.png",
+      "image": "images/shot_12.png",
+      "speech_start_s": 107.77785416666664,
+      "speech_end_s": 114.52922816666666,
+      "actual_start_s": 107.2,
+      "actual_end_s": 114.76,
+      "visible_start_s": 106.72,
+      "visible_end_s": 115.24000000000001,
+      "visible_duration_s": 8.52,
+      "image_source": "images/shot_12.source.json"
+    },
+    {
+      "id": 13,
+      "paragraph_id": "p003",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u05",
+          "start_char": 0,
+          "end_char": 24
+        }
+      ],
+      "text": "安安静静地画下了冰窗花里自己最喜欢的一小段风景。",
+      "title": "安静画下风景",
+      "location": "卧室窗前小桌",
+      "time_of_day": "冬日下午",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮在白纸上安静画下冰窗花里最喜欢的一小段风景，银灰彩铅轻落纸面；眼睛专注纸面，神情舒展。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。",
+      "action": "皮皮在白纸上安静画下冰窗花里最喜欢的一小段风景，银灰彩铅轻落纸面；眼睛专注纸面，神情舒展。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_BEDROOM_01",
+        "PROP_TABLE_01",
+        "PROP_PAPER_01",
+        "PROP_PENCIL_01"
+      ],
+      "state_before": "承接同一张画纸和同一支彩铅，皮皮开始落笔。",
+      "state_after": "纸上出现冰花风景的第一段草图。",
+      "transition_from": 12,
+      "image_status": "generated",
+      "image_path": "images/shot_13.png",
+      "image": "images/shot_13.png",
+      "speech_start_s": 114.98885416666666,
+      "speech_end_s": 121.69543683333332,
+      "actual_start_s": 114.76,
+      "actual_end_s": 122.28,
+      "visible_start_s": 114.28,
+      "visible_end_s": 122.76,
+      "visible_duration_s": 8.48,
+      "image_source": "images/shot_13.source.json"
+    },
+    {
+      "id": 14,
+      "paragraph_id": "p003",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u06",
+          "start_char": 0,
+          "end_char": 17
+        },
+        {
+          "unit_id": "p003_u07",
+          "start_char": 0,
+          "end_char": 14
+        },
+        {
+          "unit_id": "p003_u08",
+          "start_char": 0,
+          "end_char": 15
+        }
+      ],
+      "text": "\n画纸上的那条小路画得不怎么笔直，不过它轻巧地绕过了几片草叶，刚好走到了一朵圆圆的冰花旁边。",
+      "title": "画纸上的弯弯小路",
+      "location": "小桌画纸近景",
+      "time_of_day": "冬日下午",
+      "layer": "storybook",
+      "characters": [],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {},
+      "visual_direction": "近景展示同一张白纸上的银灰铅笔画：小路并不笔直，轻巧绕开几片草叶，刚好走到一朵圆圆的冰花旁；边缘可见同一支银灰彩铅。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。",
+      "action": "近景展示同一张白纸上的银灰铅笔画：小路并不笔直，轻巧绕开几片草叶，刚好走到一朵圆圆的冰花旁；边缘可见同一支银灰彩铅。",
+      "continuity_refs": [
+        "LOC_BEDROOM_01",
+        "PROP_TABLE_01",
+        "PROP_PAPER_01",
+        "PROP_PENCIL_01"
+      ],
+      "state_before": "承接皮皮正在画的同一张纸，桌上物件不变。",
+      "state_after": "纸上完成小路、草叶和圆冰花，冰窗花仍在窗外侧。",
+      "transition_from": 13,
+      "image_status": "generated",
+      "image_path": "images/shot_14.png",
+      "image": "images/shot_14.png",
+      "speech_start_s": 122.85791666666665,
+      "speech_end_s": 135.74997783333333,
+      "actual_start_s": 122.28,
+      "actual_end_s": 136.32,
+      "visible_start_s": 121.8,
+      "visible_end_s": 136.79999999999998,
+      "visible_duration_s": 15.0,
+      "image_source": "images/shot_14.source.json"
+    },
+    {
+      "id": 15,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u01",
+          "start_char": 0,
+          "end_char": 5
+        },
+        {
+          "unit_id": "p004_u02",
+          "start_char": 0,
+          "end_char": 11
+        },
+        {
+          "unit_id": "p004_u03",
+          "start_char": 0,
+          "end_char": 8
+        }
+      ],
+      "text": "到了晚上，屋里的暖炉烧得旺旺的，室内外温差变了，",
+      "title": "夜里的暖炉",
+      "location": "木屋卧室",
+      "time_of_day": "冬日夜晚",
+      "layer": "storybook",
+      "characters": [],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {},
+      "visual_direction": "同一木屋卧室入夜，暖炉发出稳定柔和的橙光，玻璃窗外是深蓝夜色，室内暖、室外冷，环境安静；无角色。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。",
+      "action": "同一木屋卧室入夜，暖炉发出稳定柔和的橙光，玻璃窗外是深蓝夜色，室内暖、室外冷，环境安静；无角色。",
+      "continuity_refs": [
+        "LOC_BEDROOM_01",
+        "WIN_WINDOW_01",
+        "PROP_STOVE_01",
+        "PROP_FROST_01"
+      ],
+      "state_before": "时间由下午推至夜晚；窗户仍关闭，暖炉在室内。",
+      "state_after": "室内暖炉持续升温，窗花开始受室内外温差影响。",
+      "transition_from": 14,
+      "image_status": "generated",
+      "image_path": "images/shot_15.png",
+      "image": "images/shot_15.png",
+      "speech_start_s": 136.89825,
+      "speech_end_s": 144.57710383333333,
+      "actual_start_s": 136.32,
+      "actual_end_s": 144.8,
+      "visible_start_s": 135.84,
+      "visible_end_s": 145.28,
+      "visible_duration_s": 9.44,
+      "image_source": "images/shot_15.source.json"
+    },
+    {
+      "id": 16,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u04",
+          "start_char": 0,
+          "end_char": 13
+        },
+        {
+          "unit_id": "p004_u05",
+          "start_char": 0,
+          "end_char": 11
+        }
+      ],
+      "text": "等皮皮洗完澡再去看窗户时，窗角那片冰窗花的纹路，",
+      "title": "洗澡后去看窗户",
+      "location": "卧室窗边",
+      "time_of_day": "冬日夜晚",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_sleep_wardrobe.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "皮皮洗完澡换上浅色睡衣和深蓝星星睡帽，走到同一扇窗前查看；他看到窗角冰花边缘开始模糊，神情有些意外但平静。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。",
+      "action": "皮皮洗完澡换上浅色睡衣和深蓝星星睡帽，走到同一扇窗前查看；他看到窗角冰花边缘开始模糊，神情有些意外但平静。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_BEDROOM_01",
+        "WIN_WINDOW_01",
+        "PROP_FROST_01"
+      ],
+      "state_before": "皮皮洗澡后回到卧室窗前；衣服换为睡衣。",
+      "state_after": "窗花纹路开始融化，皮皮仍未碰窗。",
+      "transition_from": 15,
+      "image_status": "generated",
+      "image_path": "images/shot_16.png",
+      "image": "images/shot_16.png",
+      "speech_start_s": 145.01114583333333,
+      "speech_end_s": 152.19991533333334,
+      "actual_start_s": 144.8,
+      "actual_end_s": 152.44,
+      "visible_start_s": 144.32000000000002,
+      "visible_end_s": 152.92,
+      "visible_duration_s": 8.6,
+      "image_source": "images/shot_16.source.json"
+    },
+    {
+      "id": 17,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u06",
+          "start_char": 0,
+          "end_char": 13
+        },
+        {
+          "unit_id": "p004_u07",
+          "start_char": 0,
+          "end_char": 12
+        }
+      ],
+      "text": "已经悄悄地融化、变了模样，不再是下午那座小花园了。",
+      "title": "花园悄悄融化",
+      "location": "卧室窗花特写",
+      "time_of_day": "冬日夜晚",
+      "layer": "storybook",
+      "characters": [],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {},
+      "visual_direction": "同一窗角冰窗花已融化变形：原先清晰的花园图案变成柔和水痕，玻璃上有薄薄水珠；木窗格方位保持不变。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。",
+      "action": "同一窗角冰窗花已融化变形：原先清晰的花园图案变成柔和水痕，玻璃上有薄薄水珠；木窗格方位保持不变。",
+      "continuity_refs": [
+        "LOC_BEDROOM_01",
+        "WIN_WINDOW_01",
+        "PROP_FROST_01",
+        "PROP_STOVE_01"
+      ],
+      "state_before": "窗花因暖炉造成的温差自然变化，房间仍是夜晚。",
+      "state_after": "原先的花园图案已不再完整，玻璃上有融水痕。",
+      "transition_from": 16,
+      "image_status": "generated",
+      "image_path": "images/shot_17.png",
+      "image": "images/shot_17.png",
+      "speech_start_s": 152.67950000000002,
+      "speech_end_s": 159.69049900000002,
+      "actual_start_s": 152.44,
+      "actual_end_s": 160.24,
+      "visible_start_s": 151.96,
+      "visible_end_s": 160.72,
+      "visible_duration_s": 8.76,
+      "image_source": "images/shot_17.source.json"
+    },
+    {
+      "id": 18,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u08",
+          "start_char": 0,
+          "end_char": 7
+        },
+        {
+          "unit_id": "p004_u09",
+          "start_char": 0,
+          "end_char": 10
+        },
+        {
+          "unit_id": "p004_u10",
+          "start_char": 0,
+          "end_char": 22
+        }
+      ],
+      "text": "\n如果是以前，皮皮可能会觉得惋惜，想拿着画笔再去窗边追着画下冰花新变成的样子。",
+      "title": "想追着新图案",
+      "location": "卧室窗边",
+      "time_of_day": "冬日夜晚",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_sleep_wardrobe.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "皮皮手里拿着银灰彩铅站在窗边，稍显惋惜地望着新水痕，像想到从前会追着新纹路画下去；他没有再次落笔，神情克制。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。",
+      "action": "皮皮手里拿着银灰彩铅站在窗边，稍显惋惜地望着新水痕，像想到从前会追着新纹路画下去；他没有再次落笔，神情克制。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_BEDROOM_01",
+        "WIN_WINDOW_01",
+        "PROP_FROST_01",
+        "PROP_PENCIL_01"
+      ],
+      "state_before": "皮皮在窗边观察融化后的玻璃；笔尚未触纸。",
+      "state_after": "出现短暂惋惜和追画念头，但没有开始新画。",
+      "transition_from": 17,
+      "image_status": "generated",
+      "image_path": "images/shot_18.png",
+      "image": "images/shot_18.png",
+      "speech_start_s": 160.81814583333335,
+      "speech_end_s": 172.5800201666667,
+      "actual_start_s": 160.24,
+      "actual_end_s": 173.16,
+      "visible_start_s": 159.76000000000002,
+      "visible_end_s": 173.64,
+      "visible_duration_s": 13.88,
+      "image_source": "images/shot_18.source.json"
+    },
+    {
+      "id": 19,
+      "paragraph_id": "p005",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u01",
+          "start_char": 0,
+          "end_char": 12
+        },
+        {
+          "unit_id": "p005_u02",
+          "start_char": 0,
+          "end_char": 11
+        },
+        {
+          "unit_id": "p005_u03",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "text": "但皮皮看了看桌上的画纸，下午那座漂亮的小花园，已经安安静静地留在他的画纸上了。",
+      "title": "画纸留住花园",
+      "location": "卧室小桌",
+      "time_of_day": "冬日夜晚",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_sleep_wardrobe.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "皮皮转身看向原先桌上的画纸，脸上从惋惜转为安定；纸上完整保留下午那座小花园，窗户在背景中仍是同一扇。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。",
+      "action": "皮皮转身看向原先桌上的画纸，脸上从惋惜转为安定；纸上完整保留下午那座小花园，窗户在背景中仍是同一扇。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_BEDROOM_01",
+        "PROP_TABLE_01",
+        "PROP_PAPER_01",
+        "PROP_PENCIL_01",
+        "WIN_WINDOW_01"
+      ],
+      "state_before": "皮皮把注意力从融化窗花移向早先画好的纸。",
+      "state_after": "纸上的小花园已经保存下来，皮皮意识到自己不必追画。",
+      "transition_from": 18,
+      "image_status": "generated",
+      "image_path": "images/shot_19.png",
+      "image": "images/shot_19.png",
+      "speech_start_s": 173.72133333333338,
+      "speech_end_s": 184.90027083333337,
+      "actual_start_s": 173.16,
+      "actual_end_s": 185.48,
+      "visible_start_s": 172.68,
+      "visible_end_s": 185.95999999999998,
+      "visible_duration_s": 13.28,
+      "image_source": "images/shot_19.source.json"
+    },
+    {
+      "id": 20,
+      "paragraph_id": "p005",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u04",
+          "start_char": 0,
+          "end_char": 16
+        },
+        {
+          "unit_id": "p005_u05",
+          "start_char": 0,
+          "end_char": 4
+        }
+      ],
+      "text": "大自然里的冰窗花有它自己的变化，融化了，",
+      "title": "自然有自己的变化",
+      "location": "窗边与画纸",
+      "time_of_day": "冬日夜晚",
+      "layer": "storybook",
+      "characters": [],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {},
+      "visual_direction": "同一窗户上的薄霜、水珠与纸上画好的花园在同一构图中并置；自然融化是柔和真实的，不出现魔法闪光；暖室内与冷窗外并存。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。",
+      "action": "同一窗户上的薄霜、水珠与纸上画好的花园在同一构图中并置；自然融化是柔和真实的，不出现魔法闪光；暖室内与冷窗外并存。",
+      "continuity_refs": [
+        "LOC_BEDROOM_01",
+        "WIN_WINDOW_01",
+        "PROP_FROST_01",
+        "PROP_PAPER_01"
+      ],
+      "state_before": "承接皮皮看向桌上保存好的图画，同时窗口仍在自然融化。",
+      "state_after": "自然冰花可以消融，纸上画作保持不变。",
+      "transition_from": 19,
+      "image_status": "generated",
+      "image_path": "images/shot_20.png",
+      "image": "images/shot_20.png",
+      "speech_start_s": 186.0289375,
+      "speech_end_s": 192.07906183333336,
+      "actual_start_s": 185.48,
+      "actual_end_s": 192.28,
+      "visible_start_s": 185.0,
+      "visible_end_s": 192.76,
+      "visible_duration_s": 7.76,
+      "image_source": "images/shot_20.source.json"
+    },
+    {
+      "id": 21,
+      "paragraph_id": "p005",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u06",
+          "start_char": 0,
+          "end_char": 18
+        },
+        {
+          "unit_id": "p005_u07",
+          "start_char": 0,
+          "end_char": 20
+        }
+      ],
+      "text": "明天夜里冷的时候还会再结出新的图案，不需要一整晚都守在窗边拿着画笔去追赶它。",
+      "title": "明天会有新图案",
+      "location": "窗边与画纸",
+      "time_of_day": "冬日深夜",
+      "layer": "storybook",
+      "characters": [],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {},
+      "visual_direction": "窗外冷夜映着逐渐变透明的玻璃，桌上纸画完整安放；皮皮在远处不再守候窗前，温柔宁静的空房间构图。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。",
+      "action": "窗外冷夜映着逐渐变透明的玻璃，桌上纸画完整安放；皮皮在远处不再守候窗前，温柔宁静的空房间构图。",
+      "continuity_refs": [
+        "LOC_BEDROOM_01",
+        "WIN_WINDOW_01",
+        "PROP_FROST_01",
+        "PROP_PAPER_01"
+      ],
+      "state_before": "时间继续到夜深，皮皮不再一直守着窗户。",
+      "state_after": "故事表达明晚寒冷时会有新纹路，今晚不必追赶。",
+      "transition_from": 20,
+      "image_status": "generated",
+      "image_path": "images/shot_21.png",
+      "image": "images/shot_21.png",
+      "speech_start_s": 192.50043683333334,
+      "speech_end_s": 203.74399966666667,
+      "actual_start_s": 192.28,
+      "actual_end_s": 204.32,
+      "visible_start_s": 191.8,
+      "visible_end_s": 204.79999999999998,
+      "visible_duration_s": 13.0,
+      "image_source": "images/shot_21.source.json"
+    },
+    {
+      "id": 22,
+      "paragraph_id": "p005",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u08",
+          "start_char": 0,
+          "end_char": 18
+        },
+        {
+          "unit_id": "p005_u09",
+          "start_char": 0,
+          "end_char": 6
+        }
+      ],
+      "text": "\n皮皮把画纸小心地夹进自己的绘本里，收好了彩铅。",
+      "title": "收好画纸和彩铅",
+      "location": "卧室小桌与绘本",
+      "time_of_day": "冬日夜晚",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_sleep_wardrobe.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "皮皮小心把那张已画好的白纸夹进一本绘本，并把同一支银灰彩铅收在桌上固定的位置；动作轻柔，表情安心。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。",
+      "action": "皮皮小心把那张已画好的白纸夹进一本绘本，并把同一支银灰彩铅收在桌上固定的位置；动作轻柔，表情安心。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_BEDROOM_01",
+        "PROP_TABLE_01",
+        "PROP_PAPER_01",
+        "PROP_PENCIL_01",
+        "PROP_BOOK_01"
+      ],
+      "state_before": "皮皮留在卧室桌边，画纸与彩铅位置由此收纳。",
+      "state_after": "画纸夹入绘本，彩铅被收好，桌面整洁。",
+      "transition_from": 21,
+      "image_status": "generated",
+      "image_path": "images/shot_22.png",
+      "image": "images/shot_22.png",
+      "speech_start_s": 204.89404166666665,
+      "speech_end_s": 211.91381216666664,
+      "actual_start_s": 204.32,
+      "actual_end_s": 212.48,
+      "visible_start_s": 203.84,
+      "visible_end_s": 212.95999999999998,
+      "visible_duration_s": 9.12,
+      "image_source": "images/shot_22.source.json"
+    },
+    {
+      "id": 23,
+      "paragraph_id": "p006",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u01",
+          "start_char": 0,
+          "end_char": 11
+        },
+        {
+          "unit_id": "p006_u02",
+          "start_char": 0,
+          "end_char": 7
+        }
+      ],
+      "text": "床上的暖黄毛毯暖暖的，大枕头软软的。",
+      "title": "暖黄毛毯与大枕头",
+      "location": "卧室床铺近景",
+      "time_of_day": "冬日夜晚",
+      "layer": "storybook",
+      "characters": [],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {},
+      "visual_direction": "低床上的暖黄色毛毯铺平，大枕头蓬松柔软，床头灯温暖；窗户仍在画面右侧作为稳定方向锚点。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。",
+      "action": "低床上的暖黄色毛毯铺平，大枕头蓬松柔软，床头灯温暖；窗户仍在画面右侧作为稳定方向锚点。",
+      "continuity_refs": [
+        "LOC_BEDROOM_01",
+        "PROP_BED_01",
+        "PROP_BLANKET_01",
+        "PROP_PILLOW_01",
+        "WIN_WINDOW_01"
+      ],
+      "state_before": "皮皮准备结束夜晚活动，卧室布局不变。",
+      "state_after": "床铺温暖整齐，枕头空着等待皮皮躺下。",
+      "transition_from": 22,
+      "image_status": "generated",
+      "image_path": "images/shot_23.png",
+      "image": "images/shot_23.png",
+      "speech_start_s": 213.04797916666666,
+      "speech_end_s": 218.81777016666666,
+      "actual_start_s": 212.48,
+      "actual_end_s": 219.36,
+      "visible_start_s": 212.0,
+      "visible_end_s": 219.84,
+      "visible_duration_s": 7.84,
+      "image_source": "images/shot_23.source.json"
+    },
+    {
+      "id": 24,
+      "paragraph_id": "p006",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u03",
+          "start_char": 0,
+          "end_char": 6
+        },
+        {
+          "unit_id": "p006_u04",
+          "start_char": 0,
+          "end_char": 15
+        }
+      ],
+      "text": "皮皮爬上床，让两只长耳朵慢慢地落在枕头边。",
+      "title": "长耳朵落在枕边",
+      "location": "卧室床铺",
+      "time_of_day": "冬日夜晚",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_sleep_wardrobe.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "皮皮换着同一套睡衣和星星睡帽爬上床，躺下时两只长耳朵自然垂落在大枕头边；神情松弛，眼睛尚未闭上。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。",
+      "action": "皮皮换着同一套睡衣和星星睡帽爬上床，躺下时两只长耳朵自然垂落在大枕头边；神情松弛，眼睛尚未闭上。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_BEDROOM_01",
+        "PROP_BED_01",
+        "PROP_BLANKET_01",
+        "PROP_PILLOW_01"
+      ],
+      "state_before": "皮皮从窗边回到床上，睡衣与睡帽保持一致。",
+      "state_after": "皮皮躺在床上，耳朵落于枕边，暖黄毛毯盖住身体。",
+      "transition_from": 23,
+      "image_status": "generated",
+      "image_path": "images/shot_24.png",
+      "image": "images/shot_24.png",
+      "speech_start_s": 219.92054166666668,
+      "speech_end_s": 226.51779100000002,
+      "actual_start_s": 219.36,
+      "actual_end_s": 227.08,
+      "visible_start_s": 218.88000000000002,
+      "visible_end_s": 227.56,
+      "visible_duration_s": 8.68,
+      "image_source": "images/shot_24.source.json"
+    },
+    {
+      "id": 25,
+      "paragraph_id": "p006",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u05",
+          "start_char": 0,
+          "end_char": 7
+        },
+        {
+          "unit_id": "p006_u06",
+          "start_char": 0,
+          "end_char": 12
+        },
+        {
+          "unit_id": "p006_u07",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "text": "\n他闭上眼睛。窗外玻璃上的冰花小花园，可以在夜里继续自由地生长或融化，",
+      "title": "冰花自由地变化",
+      "location": "卧室床与窗",
+      "time_of_day": "冬日夜晚",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_sleep_wardrobe.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "皮皮在同一张床上闭上眼睛；窗外玻璃上的冰花图案在深蓝夜色中淡淡可见，室内床头灯和暖炉很柔和，画面表现接受它会生长或融化。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。",
+      "action": "皮皮在同一张床上闭上眼睛；窗外玻璃上的冰花图案在深蓝夜色中淡淡可见，室内床头灯和暖炉很柔和，画面表现接受它会生长或融化。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_BEDROOM_01",
+        "WIN_WINDOW_01",
+        "PROP_FROST_01",
+        "PROP_BED_01",
+        "PROP_BLANKET_01",
+        "PROP_PILLOW_01",
+        "PROP_STOVE_01"
+      ],
+      "state_before": "皮皮躺在床上并闭眼，冰窗花还在窗外。",
+      "state_after": "皮皮停止守望，窗花留在窗外自由变化。",
+      "transition_from": 24,
+      "image_status": "generated",
+      "image_path": "images/shot_25.png",
+      "image": "images/shot_25.png",
+      "speech_start_s": 227.6297291666667,
+      "speech_end_s": 238.61458333333337,
+      "actual_start_s": 227.08,
+      "actual_end_s": 238.88,
+      "visible_start_s": 226.60000000000002,
+      "visible_end_s": 239.35999999999999,
+      "visible_duration_s": 12.76,
+      "image_source": "images/shot_25.source.json"
+    },
+    {
+      "id": 26,
+      "paragraph_id": "p006",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u08",
+          "start_char": 0,
+          "end_char": 7
+        },
+        {
+          "unit_id": "p006_u09",
+          "start_char": 0,
+          "end_char": 13
+        }
+      ],
+      "text": "今晚的小兔子，不用一直睁着眼睛看着它了。",
+      "title": "安心睡去",
+      "location": "卧室床与窗",
+      "time_of_day": "冬日夜晚",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_sleep_wardrobe.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "同一房间里皮皮安静睡着，窗外的冰花小园在深蓝夜色中保持静谧，皮皮不再睁眼观察；无新增人物或物件。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。",
+      "action": "同一房间里皮皮安静睡着，窗外的冰花小园在深蓝夜色中保持静谧，皮皮不再睁眼观察；无新增人物或物件。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_BEDROOM_01",
+        "WIN_WINDOW_01",
+        "PROP_FROST_01",
+        "PROP_BED_01",
+        "PROP_BLANKET_01",
+        "PROP_PILLOW_01"
+      ],
+      "state_before": "承接皮皮闭眼入睡；卧室布局和床铺状态稳定。",
+      "state_after": "皮皮沉静睡着，无需一直盯着窗花。",
+      "transition_from": 25,
+      "image_status": "generated",
+      "image_path": "images/shot_26.png",
+      "image": "images/shot_26.png",
+      "speech_start_s": 239.11131250000003,
+      "speech_end_s": 244.6563951666667,
+      "actual_start_s": 238.88,
+      "actual_end_s": 245.2,
+      "visible_start_s": 238.4,
+      "visible_end_s": 245.67999999999998,
+      "visible_duration_s": 7.28,
+      "image_source": "images/shot_26.source.json"
+    },
+    {
+      "id": 27,
+      "paragraph_id": "p007",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u01",
+          "start_char": 0,
+          "end_char": 4
+        },
+        {
+          "unit_id": "p007_u02",
+          "start_char": 0,
+          "end_char": 19
+        },
+        {
+          "unit_id": "p007_u03",
+          "start_char": 0,
+          "end_char": 13
+        }
+      ],
+      "text": "小朋友，把今天看过的漂亮景色轻轻收进记忆里吧。外面的世界会自己慢慢变化，",
+      "title": "把美景收进记忆",
+      "location": "卧室清晨夜景",
+      "time_of_day": "冬日深夜",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_sleep_wardrobe.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "皮皮在暖黄被子下熟睡，画纸已夹进绘本放在床边小桌；窗外世界安静变化，镜头温柔回望这一天的窗花记忆，不叠加文字或虚构魔法场景。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。",
+      "action": "皮皮在暖黄被子下熟睡，画纸已夹进绘本放在床边小桌；窗外世界安静变化，镜头温柔回望这一天的窗花记忆，不叠加文字或虚构魔法场景。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_BEDROOM_01",
+        "WIN_WINDOW_01",
+        "PROP_FROST_01",
+        "PROP_BED_01",
+        "PROP_BLANKET_01",
+        "PROP_BOOK_01",
+        "PROP_PAPER_01"
+      ],
+      "state_before": "进入片尾对听众的温柔寄语，皮皮已在卧室入睡。",
+      "state_after": "美景被留在画纸和记忆里，窗外自然继续变化。",
+      "transition_from": 26,
+      "image_status": "generated",
+      "image_path": "images/shot_27.png",
+      "image": "images/shot_27.png",
+      "speech_start_s": 245.7460416666667,
+      "speech_end_s": 257.575416,
+      "actual_start_s": 245.2,
+      "actual_end_s": 257.8,
+      "visible_start_s": 244.72,
+      "visible_end_s": 258.28000000000003,
+      "visible_duration_s": 13.56,
+      "image_source": "images/shot_27.source.json"
+    },
+    {
+      "id": 28,
+      "paragraph_id": "p007",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u04",
+          "start_char": 0,
+          "end_char": 3
+        },
+        {
+          "unit_id": "p007_u05",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "text": "现在，给自己一段温暖又安静的睡眠时光。",
+      "title": "温暖安静的睡眠",
+      "location": "卧室尾声",
+      "time_of_day": "冬日深夜",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_sleep_wardrobe.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "卧室固定构图逐渐安静下来：皮皮睡在暖黄毛毯中，窗外深蓝，床头灯很暗，冰花纹路淡淡可见；画面留白温柔，不出现任何文字。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。",
+      "action": "卧室固定构图逐渐安静下来：皮皮睡在暖黄毛毯中，窗外深蓝，床头灯很暗，冰花纹路淡淡可见；画面留白温柔，不出现任何文字。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_BEDROOM_01",
+        "WIN_WINDOW_01",
+        "PROP_FROST_01",
+        "PROP_BED_01",
+        "PROP_BLANKET_01",
+        "PROP_PILLOW_01"
+      ],
+      "state_before": "皮皮保持熟睡，镜头延续同一房间。",
+      "state_after": "皮皮安静睡着，故事进入片尾寄语。",
+      "transition_from": 27,
+      "image_status": "generated",
+      "image_path": "images/shot_28.png",
+      "image": "images/shot_28.png",
+      "speech_start_s": 258.05862500000006,
+      "speech_end_s": 264.07229100000006,
+      "actual_start_s": 257.8,
+      "actual_end_s": 264.64,
+      "visible_start_s": 257.32,
+      "visible_end_s": 265.12,
+      "visible_duration_s": 7.8,
+      "image_source": "images/shot_28.source.json"
+    },
+    {
+      "id": 29,
+      "paragraph_id": "p007",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u06",
+          "start_char": 0,
+          "end_char": 3
+        }
+      ],
+      "text": "晚安。",
+      "title": "晚安",
+      "location": "卧室尾声",
+      "time_of_day": "冬日深夜",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_sleep_wardrobe.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "皮皮在同一张低床上安睡，暖黄毛毯盖到肩下，窗外深蓝，画面平静留白；不出现文字，最后4秒渐暗到深夜蓝。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。",
+      "action": "皮皮在同一张低床上安睡，暖黄毛毯盖到肩下，窗外深蓝，画面平静留白；不出现文字，最后4秒渐暗到深夜蓝。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_BEDROOM_01",
+        "WIN_WINDOW_01",
+        "PROP_BED_01",
+        "PROP_BLANKET_01",
+        "PROP_PILLOW_01"
+      ],
+      "state_before": "延续前镜同一构图与熟睡状态。",
+      "state_after": "最后一声晚安后保持静谧尾声并按规范渐暗。",
+      "transition_from": 28,
+      "image_status": "generated",
+      "image_path": "images/shot_29.png",
+      "image": "images/shot_29.png",
+      "speech_start_s": 265.20854166666675,
+      "speech_end_s": 265.97483233333344,
+      "actual_start_s": 264.64,
+      "actual_end_s": 275.12,
+      "visible_start_s": 264.15999999999997,
+      "visible_end_s": 275.12,
+      "visible_duration_s": 10.96,
+      "image_source": "images/shot_29.source.json"
+    }
+  ],
+  "audio": "mix.wav",
+  "subtitles": "episode.ass",
+  "character_registry": "references/",
+  "fonts": [
+    {
+      "path": "fonts/NotoSans-Regular.ttf",
+      "sha256": "89c3c497f618fdaa0b2d1e98fef93582f28c71debd2c4a8cdf41f190ced2909d"
+    },
+    {
+      "path": "fonts/Noto-CJK-copyright.txt",
+      "sha256": "849f4ea9c214fa4ac3593b770c699f387534b11ce671264c1b10d85bdcb5997b"
+    },
+    {
+      "path": "fonts/NotoSansCJKsc-Regular.otf",
+      "sha256": "82e9bdfd176ce68c51f6ff89ca7e2abae7fdb82b4591aa7338638598ae3c91c8"
+    },
+    {
+      "path": "fonts/Noto-Sans-copyright.txt",
+      "sha256": "075f91382875da1c4b491f1facf2586f55448705133264d98ce15cab6211b125"
+    },
+    {
+      "path": "fonts/NotoSansCJKsc-Bold.otf",
+      "sha256": "85c969dbb2f927c8dbbe440d5755b7c9a714f13a7a58339459df43cfff3583b3"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "text": "在松树和细草中间，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "403f47e04a2e730730a52692b5246f550470dce1ec47b4732f26350544723302",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2884580,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4346250,
+      "duration": 6730830,
+      "text": "松树"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11461660,
+      "duration": 1730830,
+      "text": "和"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13384580,
+      "duration": 6153750,
+      "text": "细草"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19730830,
+      "duration": 8077080,
+      "text": "中间"
+    }
+  ]
+}

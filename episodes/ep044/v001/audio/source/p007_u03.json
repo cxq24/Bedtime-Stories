@@ -1,0 +1,41 @@
+{
+  "text": "外面的世界会自己慢慢变化，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "cdfb53c0adc56aef97f0c03d88d4baf9605054138beccfde5c6fbd2a3e3b7be2",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 15577080,
+      "text": "外面的世界"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18384580,
+      "duration": 2500000,
+      "text": "会"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21077080,
+      "duration": 4422910,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25884580,
+      "duration": 5769160,
+      "text": "慢慢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31846250,
+      "duration": 8269160,
+      "text": "变化"
+    }
+  ]
+}

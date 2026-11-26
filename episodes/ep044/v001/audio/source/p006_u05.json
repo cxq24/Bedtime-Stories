@@ -1,0 +1,23 @@
+{
+  "text": "\n他闭上眼睛。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "8f6e3f63e0ba03a90068e6d60808350b300db630b5423e5d0c38d8167afee8da",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2307500,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3769160,
+      "duration": 14038330,
+      "text": "闭上眼睛"
+    }
+  ]
+}

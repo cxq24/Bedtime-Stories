@@ -1,0 +1,59 @@
+{
+  "text": "像一棵长满冰挂的松树；",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "d241006b07893ed541cac214449828ddfa3409eb5fac0d1dfa57171ccec54af7",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3846250,
+      "text": "像"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5115410,
+      "duration": 1730830,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 4038330,
+      "text": "棵"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11269160,
+      "duration": 3077080,
+      "text": "长"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14346250,
+      "duration": 3077080,
+      "text": "满"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17807500,
+      "duration": 5769160,
+      "text": "冰挂"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23577080,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25115410,
+      "duration": 8653750,
+      "text": "松树"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "text": "\n那些细细密密的冰晶纹路，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "d19b0adfc54d29bf7b51ede0f69e9d8fa144a4021a70aa120feca0fa93b2391f",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5192500,
+      "text": "那些"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 5961660,
+      "text": "细细"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13000000,
+      "duration": 5769160,
+      "text": "密密"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18769160,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20692500,
+      "duration": 5577080,
+      "text": "冰晶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26461660,
+      "duration": 7307500,
+      "text": "纹路"
+    }
+  ]
+}

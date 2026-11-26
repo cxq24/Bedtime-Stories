@@ -1,0 +1,19 @@
+{
+  "image_tool": "built_in image_gen",
+  "shot_id": 3,
+  "image": "images/shot_03.png",
+  "prompt": "A single static vertical 9:16 watercolor storybook illustration, delicate handmade watercolor and soft paper grain, calm premium Chinese bedtime picture-book style, coherent warm wood interiors and cool winter daylight. Preserve the exact visual action and emotional expression described for this shot. Keep important faces and objects in the upper two-thirds and leave the lower quarter calm and uncluttered for later subtitles. No text, no letters, no captions, no watermark, no panels, no collage, no border. Pipi identity must match the official gray rabbit references: warm gray fur, round face, pink nose, naturally drooping long ears. Use the described expression, gaze, and body pose for this exact moment; do not copy the reference sheet sleepy or sad face. Keep the same beige top and blue-gray short overalls; no schoolbag in the room except where the shot explicitly places it by the door or bed. 皮皮转向同一扇宽木框窗，惊喜地发现玻璃四角结着晶莹冰窗花；他睁眼微微抬眉，视线落在窗角，没有夸张张嘴。 竖屏9:16水彩绘本，柔和纸纹，单幅无字图；重要信息位于中上部，底部留足拼音字幕安全区。 Maintain object identities and spatial layout from the loaded scene/prop references, but create a fresh composition for this shot; never reproduce a reference image verbatim.",
+  "references_loaded": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep044/v001/references/pipi_day_wardrobe.png",
+    "/workspace/Bedtime-Stories/episodes/ep044/v001/references/bedroom_scene_ref.png",
+    "/workspace/Bedtime-Stories/episodes/ep044/v001/assets/prop_reference_board.png",
+    "/workspace/Bedtime-Stories/episodes/ep044/v001/images/shot_00.png"
+  ],
+  "output_source": "/workspace/generated_images/exec-3b8162be-0230-41a2-8d69-084394dae512.png",
+  "size_px": [
+    941,
+    1672
+  ],
+  "review_status": "passed_full_contact_sheet_and_continuity_review"
+}

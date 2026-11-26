@@ -1,0 +1,16 @@
+{
+  "episode": "ep044",
+  "shot_id": 5,
+  "continuity_asset_ids": [
+    "LOC_BEDROOM_01",
+    "WIN_WINDOW_01",
+    "PROP_FROST_01"
+  ],
+  "referenced_image_paths": [
+    "/workspace/Bedtime-Stories/episodes/ep044/v001/references/bedroom_scene_ref.png",
+    "/workspace/Bedtime-Stories/episodes/ep044/v001/assets/prop_reference_board.png",
+    "/workspace/Bedtime-Stories/episodes/ep044/v001/images/shot_00.png"
+  ],
+  "characters": [],
+  "image_source_manifest": "images/shot_05.source.json"
+}

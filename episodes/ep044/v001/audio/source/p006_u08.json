@@ -1,0 +1,35 @@
+{
+  "text": "今晚的小兔子，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "274f06858a1d14152940a43537208c3857726020b513ce70d96bae96178f71b8",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6153750,
+      "text": "今晚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7422910,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8961660,
+      "duration": 3076660,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12038330,
+      "duration": 8077080,
+      "text": "兔子"
+    }
+  ]
+}

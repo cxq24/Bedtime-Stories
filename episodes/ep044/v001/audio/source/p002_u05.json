@@ -1,0 +1,35 @@
+{
+  "text": "仔细地欣赏起来。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "3a97867838aa5a2bcfd5ba3bf5acdfc26d565e4adec3894e5eb22ac793665e33",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6153750,
+      "text": "仔细"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7422910,
+      "duration": 1538330,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9346250,
+      "duration": 6922910,
+      "text": "欣赏"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16461660,
+      "duration": 5961660,
+      "text": "起来"
+    }
+  ]
+}

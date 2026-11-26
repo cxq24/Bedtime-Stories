@@ -1,0 +1,13 @@
+{
+  "episode": "ep044",
+  "shot_id": 1,
+  "continuity_asset_ids": [
+    "LOC_OPENING_01",
+    "PROP_FROST_01"
+  ],
+  "referenced_image_paths": [
+    "/workspace/Bedtime-Stories/episodes/ep044/v001/images/shot_00.png"
+  ],
+  "characters": [],
+  "image_source_manifest": "images/shot_01.source.json"
+}
