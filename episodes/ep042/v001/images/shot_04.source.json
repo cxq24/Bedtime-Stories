@@ -1,0 +1,20 @@
+{
+  "source": "built-in image_gen",
+  "source_image": "/workspace/generated_images/exec-714ceb97-cb36-4d55-865d-9a3eba1d9f20.png",
+  "sha256": "4714a82972fcd58dd7a69de61be648463b1ac32a1c8a97d4fbc2060e686cedd8",
+  "size": [
+    941,
+    1672
+  ],
+  "format": "PNG",
+  "prompt_file": "prompts/shot_04.json",
+  "references": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep042/v001/assets/prop_reference_board.png"
+  ],
+  "final_size": [
+    941,
+    1672
+  ]
+}

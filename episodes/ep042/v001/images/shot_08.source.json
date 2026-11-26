@@ -1,0 +1,21 @@
+{
+  "source": "built-in image_gen edit",
+  "source_image": "/workspace/generated_images/exec-ae060ade-af6e-41cb-ac94-131ec8ac526e.png",
+  "sha256": "c0fab83f681eaa59bd17f012d70afd3e282973119d60e817aba1fff0eb454d2b",
+  "size": [
+    941,
+    1672
+  ],
+  "format": "PNG",
+  "prompt_file": "prompts/shot_08.json",
+  "references": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep042/v001/assets/prop_reference_board.png"
+  ],
+  "iteration": "state correction: exactly one left mitten in basket; awake curious expression",
+  "final_size": [
+    941,
+    1672
+  ]
+}

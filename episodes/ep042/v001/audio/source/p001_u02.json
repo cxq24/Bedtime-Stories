@@ -1,0 +1,131 @@
+{
+  "text": "今天下午放学的时候，皮皮在院门口和小熊绒绒一起堆了一个小小的雪球。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "e358424d590cf6f764204dbc4df03e94b5a37021cf4fbf7ee9b0a3efb88e4a2d",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5384580,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 5192500,
+      "text": "下午"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12422910,
+      "duration": 5577080,
+      "text": "放学"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18000000,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19538330,
+      "duration": 7500000,
+      "text": "时候"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31269160,
+      "duration": 5192500,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36653750,
+      "duration": 2307500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39153750,
+      "duration": 2692500,
+      "text": "院"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41846250,
+      "duration": 7884580,
+      "text": "门口"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51269160,
+      "duration": 2307500,
+      "text": "和"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53769160,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57038330,
+      "duration": 5769160,
+      "text": "熊绒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 62807500,
+      "duration": 4807500,
+      "text": "绒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 69153750,
+      "duration": 5961660,
+      "text": "一起"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75307500,
+      "duration": 2692500,
+      "text": "堆"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78000000,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 79346250,
+      "duration": 3077080,
+      "text": "一个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 82807500,
+      "duration": 6538330,
+      "text": "小小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 89346250,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 90884580,
+      "duration": 8461660,
+      "text": "雪球"
+    }
+  ]
+}

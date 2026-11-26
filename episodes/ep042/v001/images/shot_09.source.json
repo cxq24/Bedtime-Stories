@@ -1,0 +1,19 @@
+{
+  "source": "built-in image_gen edit",
+  "source_image": "/workspace/generated_images/exec-d74ad2bd-83ee-4ea5-b500-c6e6a10f75c8.png",
+  "sha256": "9459ed6efeb8a7590383c52fedfc8bdc4ce1acca05597e53b067c54534405555",
+  "size": [
+    941,
+    1672
+  ],
+  "format": "PNG",
+  "prompt_file": "prompts/shot_09.json",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep042/v001/assets/prop_reference_board.png"
+  ],
+  "iteration": "correct mitten count and remove sleep props",
+  "final_size": [
+    941,
+    1672
+  ]
+}

@@ -1,0 +1,1288 @@
+{
+  "episode": "ep042",
+  "version": "v001",
+  "title": "小手套找到了伴",
+  "script_version": "v5",
+  "cover_title": "皮皮找回手套",
+  "cover_title_lines": [
+    "皮皮找回",
+    "手套"
+  ],
+  "status": "draft",
+  "actual_audio_measured": false,
+  "shots": [
+    {
+      "id": 0,
+      "title": "雪夜故事开场",
+      "text": "小朋友们，准备好听故事了吗？",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u01",
+          "paragraph_id": "p000",
+          "start_char": 0,
+          "end_char": 14
+        }
+      ],
+      "paragraph_id": "p000",
+      "characters": [],
+      "outfits": {},
+      "setting": "冬夜的窗边",
+      "action": "窗外静静落雪，室内玄关暖灯透出柔光；不出现角色和手套，作为独立片头第一幅。",
+      "visual_description": "窗外静静落雪，室内玄关暖灯透出柔光；不出现角色和手套，作为独立片头第一幅。",
+      "emotional_performance": "无人物静物，冬夜柔和宁静。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": true,
+      "image": "images/shot_00.png",
+      "prompt_file": "prompts/shot_00.json",
+      "reference_manifest": "references/shot_00.json",
+      "continuity_refs": [],
+      "state_before": "按前镜状态接续；口播范围严格对应v5。",
+      "state_after": "见continuity.json",
+      "transition_from": null,
+      "visual_constraints": "保持同一对红白条纹手套、藤篮和玄关布局；只画本镜描述的动作，不加旁白文字。"
+    },
+    {
+      "id": 1,
+      "title": "一双红白手套",
+      "text": "今天的故事叫《小手套找到了伴》。",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u02",
+          "paragraph_id": "p000",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "paragraph_id": "p000",
+      "characters": [],
+      "outfits": {},
+      "setting": "冬日木桌近景",
+      "action": "红白条纹针织小手套并排放在浅木桌上，左右手各一只，柔和雪光；片头独立意象，不出现角色。",
+      "visual_description": "红白条纹针织小手套并排放在浅木桌上，左右手各一只，柔和雪光；片头独立意象，不出现角色。",
+      "emotional_performance": "静物特写，温暖、轻巧。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": true,
+      "image": "images/shot_01.png",
+      "prompt_file": "prompts/shot_01.json",
+      "reference_manifest": "references/shot_01.json",
+      "continuity_refs": [],
+      "state_before": "按前镜状态接续；口播范围严格对应v5。",
+      "state_after": "见continuity.json",
+      "transition_from": 0,
+      "visual_constraints": "保持同一对红白条纹手套、藤篮和玄关布局；只画本镜描述的动作，不加旁白文字。"
+    },
+    {
+      "id": 2,
+      "title": "小手套的问题",
+      "text": "少了一只手套也不用着急，另一只会在哪里找到新伙伴呢？",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u03",
+          "paragraph_id": "p000",
+          "start_char": 0,
+          "end_char": 26
+        }
+      ],
+      "paragraph_id": "p000",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "冬夜玄关",
+      "action": "皮皮戴深蓝星星睡帽，蹲在藤篮旁好奇地看一只红白手套；眼睛睁开、耳朵轻轻抬起，不显困倦。",
+      "visual_description": "皮皮戴深蓝星星睡帽，蹲在藤篮旁好奇地看一只红白手套；眼睛睁开、耳朵轻轻抬起，不显困倦。",
+      "emotional_performance": "好奇而不着急，身体微微前倾。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": true,
+      "image": "images/shot_02.png",
+      "prompt_file": "prompts/shot_02.json",
+      "reference_manifest": "references/shot_02.json",
+      "continuity_refs": [],
+      "state_before": "按前镜状态接续；口播范围严格对应v5。",
+      "state_after": "见continuity.json",
+      "transition_from": 1,
+      "visual_constraints": "保持同一对红白条纹手套、藤篮和玄关布局；只画本镜描述的动作，不加旁白文字。"
+    },
+    {
+      "id": 3,
+      "title": "早晨戴上手套",
+      "text": "冬天的早晨和傍晚冷飕飕的，皮皮出门上学时，",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u01",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 21
+        }
+      ],
+      "paragraph_id": "p001",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "冬日卧室门口",
+      "action": "皮皮穿灰蓝背带裤和米色上衣，背黄色小书包，正在把红白针织手套戴好；神情专注、期待出门。",
+      "visual_description": "皮皮穿灰蓝背带裤和米色上衣，背黄色小书包，正在把红白针织手套戴好；神情专注、期待出门。",
+      "emotional_performance": "清晨出门前，双手都戴手套。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_03.png",
+      "prompt_file": "prompts/shot_03.json",
+      "reference_manifest": "references/shot_03.json",
+      "continuity_refs": [],
+      "state_before": "按前镜状态接续；口播范围严格对应v5。",
+      "state_after": "见continuity.json",
+      "transition_from": 2,
+      "visual_constraints": "保持同一对红白条纹手套、藤篮和玄关布局；只画本镜描述的动作，不加旁白文字。"
+    },
+    {
+      "id": 4,
+      "title": "走向学校",
+      "text": "总会戴上妈妈给他织的那双毛茸茸的红白条纹小手套。",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u01",
+          "paragraph_id": "p001",
+          "start_char": 21,
+          "end_char": 45
+        }
+      ],
+      "paragraph_id": "p001",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "雪后小路",
+      "action": "皮皮戴着一双红白条纹手套、背黄色书包，沿积雪小路往学校走；冷空气、脚印和稀疏树影。",
+      "visual_description": "皮皮戴着一双红白条纹手套、背黄色书包，沿积雪小路往学校走；冷空气、脚印和稀疏树影。",
+      "emotional_performance": "步伐轻快，脸颊微红，目光朝前。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_04.png",
+      "prompt_file": "prompts/shot_04.json",
+      "reference_manifest": "references/shot_04.json",
+      "continuity_refs": [],
+      "state_before": "按前镜状态接续；口播范围严格对应v5。",
+      "state_after": "见continuity.json",
+      "transition_from": 3,
+      "visual_constraints": "保持同一对红白条纹手套、藤篮和玄关布局；只画本镜描述的动作，不加旁白文字。"
+    },
+    {
+      "id": 5,
+      "title": "院门口堆雪球",
+      "text": "今天下午放学的时候，皮皮在院门口和小熊绒绒一起堆了一个小小的雪球。",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u02",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 33
+        }
+      ],
+      "paragraph_id": "p001",
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "rongrong": "default_v001"
+      },
+      "setting": "雪后的院门口",
+      "action": "皮皮与小熊绒绒在院门口一起滚一个小雪球；冬季日光柔和，雪球小而圆。",
+      "visual_description": "皮皮与小熊绒绒在院门口一起滚一个小雪球；冬季日光柔和，雪球小而圆。",
+      "emotional_performance": "两位伙伴专注又开心，动作自然克制。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_05.png",
+      "prompt_file": "prompts/shot_05.json",
+      "reference_manifest": "references/shot_05.json",
+      "continuity_refs": [],
+      "state_before": "按前镜状态接续；口播范围严格对应v5。",
+      "state_after": "见continuity.json",
+      "transition_from": 4,
+      "visual_constraints": "保持同一对红白条纹手套、藤篮和玄关布局；只画本镜描述的动作，不加旁白文字。"
+    },
+    {
+      "id": 6,
+      "title": "回家前摘手套",
+      "text": "因为觉得戴着手套拍雪球不够灵活，皮皮进屋前，就在玄关那儿把手套摘了下来。",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u03",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 36
+        }
+      ],
+      "paragraph_id": "p001",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "玄关门内",
+      "action": "雪球游戏刚结束，皮皮进门前坐在玄关矮木凳上摘下红白手套；门已关上，雪地留在窗外。",
+      "visual_description": "雪球游戏刚结束，皮皮进门前坐在玄关矮木凳上摘下红白手套；门已关上，雪地留在窗外。",
+      "emotional_performance": "皮皮觉得手套不灵活，平静地把它们摘下。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_06.png",
+      "prompt_file": "prompts/shot_06.json",
+      "reference_manifest": "references/shot_06.json",
+      "continuity_refs": [],
+      "state_before": "按前镜状态接续；口播范围严格对应v5。",
+      "state_after": "见continuity.json",
+      "transition_from": 5,
+      "visual_constraints": "保持同一对红白条纹手套、藤篮和玄关布局；只画本镜描述的动作，不加旁白文字。"
+    },
+    {
+      "id": 7,
+      "title": "睡前整理衣物",
+      "text": "到了晚上准备睡觉前，皮皮像往常一样去检查明天上学要穿戴的衣物。",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u01",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 31
+        }
+      ],
+      "paragraph_id": "p002",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚玄关",
+      "action": "皮皮穿柔软睡衣、戴星星帽，查看明天上学要穿的衣物；暖灯照着挂钩和收纳架。",
+      "visual_description": "皮皮穿柔软睡衣、戴星星帽，查看明天上学要穿的衣物；暖灯照着挂钩和收纳架。",
+      "emotional_performance": "从容地检查，目光落在衣物上。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_07.png",
+      "prompt_file": "prompts/shot_07.json",
+      "reference_manifest": "references/shot_07.json",
+      "continuity_refs": [],
+      "state_before": "按前镜状态接续；口播范围严格对应v5。",
+      "state_after": "见continuity.json",
+      "transition_from": 6,
+      "visual_constraints": "保持同一对红白条纹手套、藤篮和玄关布局；只画本镜描述的动作，不加旁白文字。"
+    },
+    {
+      "id": 8,
+      "title": "围巾放进藤篮",
+      "text": "他把叠好的小围巾放进门边的藤编收纳篮里，可低头一看，咦？",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u02",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 28
+        }
+      ],
+      "paragraph_id": "p002",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚玄关",
+      "action": "皮皮把叠好的小围巾放进门边椭圆形藤编篮，低头注意到篮中东西；镜头略俯看。",
+      "visual_description": "皮皮把叠好的小围巾放进门边椭圆形藤编篮，低头注意到篮中东西；镜头略俯看。",
+      "emotional_performance": "动作轻柔，神情从平常转为疑惑。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_08.png",
+      "prompt_file": "prompts/shot_08.json",
+      "reference_manifest": "references/shot_08.json",
+      "continuity_refs": [],
+      "state_before": "按前镜状态接续；口播范围严格对应v5。",
+      "state_after": "见continuity.json",
+      "transition_from": 7,
+      "visual_constraints": "保持同一对红白条纹手套、藤篮和玄关布局；只画本镜描述的动作，不加旁白文字。"
+    },
+    {
+      "id": 9,
+      "title": "篮里只有左手套",
+      "text": "大大的篮子里，怎么只孤零零地坐着一只左手的小手套呢？",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u03",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 26
+        }
+      ],
+      "paragraph_id": "p002",
+      "characters": [],
+      "outfits": {},
+      "setting": "藤篮俯视特写",
+      "action": "藤编篮里只有一只左手红白条纹针织手套，旁边放着叠好的小围巾；右手套缺席。",
+      "visual_description": "藤编篮里只有一只左手红白条纹针织手套，旁边放着叠好的小围巾；右手套缺席。",
+      "emotional_performance": "安静的静物特写，手套不重复。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_09.png",
+      "prompt_file": "prompts/shot_09.json",
+      "reference_manifest": "references/shot_09.json",
+      "continuity_refs": [],
+      "state_before": "按前镜状态接续；口播范围严格对应v5。",
+      "state_after": "见continuity.json",
+      "transition_from": 8,
+      "visual_constraints": "保持同一对红白条纹手套、藤篮和玄关布局；只画本镜描述的动作，不加旁白文字。"
+    },
+    {
+      "id": 10,
+      "title": "发现少了一只",
+      "text": "右手的那只小手套去哪儿了呀？",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u04",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 14
+        }
+      ],
+      "paragraph_id": "p002",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "玄关藤篮旁",
+      "action": "皮皮看着篮里那只左手套，眼睛略睁大，耳尖轻轻抬起；只表现一瞬惊讶，未伸手找。",
+      "visual_description": "皮皮看着篮里那只左手套，眼睛略睁大，耳尖轻轻抬起；只表现一瞬惊讶，未伸手找。",
+      "emotional_performance": "轻微惊讶、仍努力镇定。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_10.png",
+      "prompt_file": "prompts/shot_10.json",
+      "reference_manifest": "references/shot_10.json",
+      "continuity_refs": [],
+      "state_before": "按前镜状态接续；口播范围严格对应v5。",
+      "state_after": "见continuity.json",
+      "transition_from": 9,
+      "visual_constraints": "保持同一对红白条纹手套、藤篮和玄关布局；只画本镜描述的动作，不加旁白文字。"
+    },
+    {
+      "id": 11,
+      "title": "想起以前会着急",
+      "text": "要是放在以前，皮皮发现少了一只手套，肯定会急得",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u01",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 23
+        }
+      ],
+      "paragraph_id": "p003",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "玄关暖灯下",
+      "action": "皮皮在玄关原地转了半圈，眉眼有些焦急；用轻淡回忆感表现过去的习惯，不夸张。",
+      "visual_description": "皮皮在玄关原地转了半圈，眉眼有些焦急；用轻淡回忆感表现过去的习惯，不夸张。",
+      "emotional_performance": "回忆中的不安，温和小幅度。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_11.png",
+      "prompt_file": "prompts/shot_11.json",
+      "reference_manifest": "references/shot_11.json",
+      "continuity_refs": [],
+      "state_before": "按前镜状态接续；口播范围严格对应v5。",
+      "state_after": "见continuity.json",
+      "transition_from": 10,
+      "visual_constraints": "保持同一对红白条纹手套、藤篮和玄关布局；只画本镜描述的动作，不加旁白文字。"
+    },
+    {
+      "id": 12,
+      "title": "停在门前没有出去",
+      "text": "在屋里团团转，甚至想拿手电筒开门跑到雪地里去找。",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u01",
+          "paragraph_id": "p003",
+          "start_char": 23,
+          "end_char": 47
+        }
+      ],
+      "paragraph_id": "p003",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "玄关门边",
+      "action": "皮皮的爪子停在门把手旁，手电筒搁在鞋柜上，门保持关闭，窗外可见雪；没有跑到户外。",
+      "visual_description": "皮皮的爪子停在门把手旁，手电筒搁在鞋柜上，门保持关闭，窗外可见雪；没有跑到户外。",
+      "emotional_performance": "犹豫但克制，注意到自己尚未开门。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_12.png",
+      "prompt_file": "prompts/shot_12.json",
+      "reference_manifest": "references/shot_12.json",
+      "continuity_refs": [],
+      "state_before": "按前镜状态接续；口播范围严格对应v5。",
+      "state_after": "见continuity.json",
+      "transition_from": 11,
+      "visual_constraints": "保持同一对红白条纹手套、藤篮和玄关布局；只画本镜描述的动作，不加旁白文字。"
+    },
+    {
+      "id": 13,
+      "title": "先让自己冷静",
+      "text": "但是现在的皮皮遇到小麻烦时，已经学会先让自己冷静下来了。",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u02",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 28
+        }
+      ],
+      "paragraph_id": "p003",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "玄关暖灯下",
+      "action": "皮皮把肩膀放松，双爪轻放腹前，停下来观察眼前的篮子和入口；表情变得平静。",
+      "visual_description": "皮皮把肩膀放松，双爪轻放腹前，停下来观察眼前的篮子和入口；表情变得平静。",
+      "emotional_performance": "情緒安定，目光专注。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_13.png",
+      "prompt_file": "prompts/shot_13.json",
+      "reference_manifest": "references/shot_13.json",
+      "continuity_refs": [],
+      "state_before": "按前镜状态接续；口播范围严格对应v5。",
+      "state_after": "见continuity.json",
+      "transition_from": 12,
+      "visual_constraints": "保持同一对红白条纹手套、藤篮和玄关布局；只画本镜描述的动作，不加旁白文字。"
+    },
+    {
+      "id": 14,
+      "title": "慢慢深呼吸",
+      "text": "他站在玄关的暖灯下，深吸了一口气，没有马上开门跑出去，而是",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u03",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "paragraph_id": "p003",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "玄关门边",
+      "action": "皮皮站在暖灯下闭眼深吸一口气，门仍关着，手电筒留在鞋柜上。",
+      "visual_description": "皮皮站在暖灯下闭眼深吸一口气，门仍关着，手电筒留在鞋柜上。",
+      "emotional_performance": "身体由紧绷转松，呼吸平稳。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_14.png",
+      "prompt_file": "prompts/shot_14.json",
+      "reference_manifest": "references/shot_14.json",
+      "continuity_refs": [],
+      "state_before": "按前镜状态接续；口播范围严格对应v5。",
+      "state_after": "见continuity.json",
+      "transition_from": 13,
+      "visual_constraints": "保持同一对红白条纹手套、藤篮和玄关布局；只画本镜描述的动作，不加旁白文字。"
+    },
+    {
+      "id": 15,
+      "title": "回想进门时的动作",
+      "text": "先在脑海里像放电影一样，回忆了一下傍晚进门时的动作。",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u03",
+          "paragraph_id": "p003",
+          "start_char": 29,
+          "end_char": 55
+        }
+      ],
+      "paragraph_id": "p003",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "玄关空间",
+      "action": "皮皮睁眼后望向矮木凳，脑海中回想傍晚进门；用柔淡的回忆色处理，画面仍是同一玄关布局。",
+      "visual_description": "皮皮睁眼后望向矮木凳，脑海中回想傍晚进门；用柔淡的回忆色处理，画面仍是同一玄关布局。",
+      "emotional_performance": "思考而平静，目光落到换鞋凳。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_15.png",
+      "prompt_file": "prompts/shot_15.json",
+      "reference_manifest": "references/shot_15.json",
+      "continuity_refs": [],
+      "state_before": "按前镜状态接续；口播范围严格对应v5。",
+      "state_after": "见continuity.json",
+      "transition_from": 14,
+      "visual_constraints": "保持同一对红白条纹手套、藤篮和玄关布局；只画本镜描述的动作，不加旁白文字。"
+    },
+    {
+      "id": 16,
+      "title": "回想坐凳换鞋",
+      "text": "“我进门的时候，先坐在矮木凳上换了拖鞋……”皮皮一边小声嘟囔，",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u01",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 31
+        }
+      ],
+      "paragraph_id": "p004",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "傍晚的同一玄关",
+      "action": "回忆中的皮皮坐在矮木凳上换下蓝布鞋；红白手套曾在膝盖附近，藤篮在门边、木凳位置固定。",
+      "visual_description": "回忆中的皮皮坐在矮木凳上换下蓝布鞋；红白手套曾在膝盖附近，藤篮在门边、木凳位置固定。",
+      "emotional_performance": "专注回想当时动作，姿态自然。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_16.png",
+      "prompt_file": "prompts/shot_16.json",
+      "reference_manifest": "references/shot_16.json",
+      "continuity_refs": [],
+      "state_before": "按前镜状态接续；口播范围严格对应v5。",
+      "state_after": "见continuity.json",
+      "transition_from": 15,
+      "visual_constraints": "保持同一对红白条纹手套、藤篮和玄关布局；只画本镜描述的动作，不加旁白文字。"
+    },
+    {
+      "id": 17,
+      "title": "低头看向凳子下面",
+      "text": "一边低下头，先往门边那张换鞋的矮木凳下面看去。",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u01",
+          "paragraph_id": "p004",
+          "start_char": 31,
+          "end_char": 54
+        }
+      ],
+      "paragraph_id": "p004",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚的同一玄关",
+      "action": "回到现在，皮皮蹲下探头查看矮木凳下方；同一藤篮仍在门边，门保持关闭。",
+      "visual_description": "回到现在，皮皮蹲下探头查看矮木凳下方；同一藤篮仍在门边，门保持关闭。",
+      "emotional_performance": "眼神认真寻找，身体向前倾。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_17.png",
+      "prompt_file": "prompts/shot_17.json",
+      "reference_manifest": "references/shot_17.json",
+      "continuity_refs": [],
+      "state_before": "按前镜状态接续；口播范围严格对应v5。",
+      "state_after": "见continuity.json",
+      "transition_from": 16,
+      "visual_constraints": "保持同一对红白条纹手套、藤篮和玄关布局；只画本镜描述的动作，不加旁白文字。"
+    },
+    {
+      "id": 18,
+      "title": "看见了手套",
+      "text": "哈哈，找到了！",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u02",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 7
+        }
+      ],
+      "paragraph_id": "p004",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "矮木凳旁",
+      "action": "皮皮刚看到木凳脚边阴影中的右手红白手套，脸上露出克制的惊喜；手套仍在地面、尚未捡起。",
+      "visual_description": "皮皮刚看到木凳脚边阴影中的右手红白手套，脸上露出克制的惊喜；手套仍在地面、尚未捡起。",
+      "emotional_performance": "明亮的发现瞬间，眼睛睁开、嘴角上扬。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_18.png",
+      "prompt_file": "prompts/shot_18.json",
+      "reference_manifest": "references/shot_18.json",
+      "continuity_refs": [],
+      "state_before": "按前镜状态接续；口播范围严格对应v5。",
+      "state_after": "见continuity.json",
+      "transition_from": 17,
+      "visual_constraints": "保持同一对红白条纹手套、藤篮和玄关布局；只画本镜描述的动作，不加旁白文字。"
+    },
+    {
+      "id": 19,
+      "title": "右手套藏在凳脚旁",
+      "text": "原来右手的那只小手套，当时从膝盖上滑了下来，正安安静静地靠在",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u03",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 30
+        }
+      ],
+      "paragraph_id": "p004",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "矮木凳内侧",
+      "action": "近景：右手红白条纹手套安静靠着矮木凳的一只木脚，落在小小阴影里；皮皮的脸与前爪从上方进入视野。",
+      "visual_description": "近景：右手红白条纹手套安静靠着矮木凳的一只木脚，落在小小阴影里；皮皮的脸与前爪从上方进入视野。",
+      "emotional_performance": "手套清楚可辨，仍未被拿起。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_19.png",
+      "prompt_file": "prompts/shot_19.json",
+      "reference_manifest": "references/shot_19.json",
+      "continuity_refs": [],
+      "state_before": "按前镜状态接续；口播范围严格对应v5。",
+      "state_after": "见continuity.json",
+      "transition_from": 18,
+      "visual_constraints": "保持同一对红白条纹手套、藤篮和玄关布局；只画本镜描述的动作，不加旁白文字。"
+    },
+    {
+      "id": 20,
+      "title": "发现捉迷藏的小角落",
+      "text": "里面的木凳脚旁边，就像跟皮皮玩捉迷藏，躲进了一个很小很小的阴影角落里。",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u03",
+          "paragraph_id": "p004",
+          "start_char": 30,
+          "end_char": 65
+        }
+      ],
+      "paragraph_id": "p004",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "矮木凳内侧",
+      "action": "从皮皮视线看，右手套依然靠着同一条木凳脚；皮皮蹲在旁边高兴地确认找到，不改变物件位置。",
+      "visual_description": "从皮皮视线看，右手套依然靠着同一条木凳脚；皮皮蹲在旁边高兴地确认找到，不改变物件位置。",
+      "emotional_performance": "轻快欣喜，动作克制。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_20.png",
+      "prompt_file": "prompts/shot_20.json",
+      "reference_manifest": "references/shot_20.json",
+      "continuity_refs": [],
+      "state_before": "按前镜状态接续；口播范围严格对应v5。",
+      "state_after": "见continuity.json",
+      "transition_from": 19,
+      "visual_constraints": "保持同一对红白条纹手套、藤篮和玄关布局；只画本镜描述的动作，不加旁白文字。"
+    },
+    {
+      "id": 21,
+      "title": "弯腰捡起手套",
+      "text": "皮皮弯下腰，高高兴兴地把那只小手套捡了起来。",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u01",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 22
+        }
+      ],
+      "paragraph_id": "p005",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "矮木凳旁",
+      "action": "皮皮弯腰伸爪，将靠在凳脚旁的右手套轻轻捡起；地上不再留另一只手套。",
+      "visual_description": "皮皮弯腰伸爪，将靠在凳脚旁的右手套轻轻捡起；地上不再留另一只手套。",
+      "emotional_performance": "高兴、动作轻柔。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_21.png",
+      "prompt_file": "prompts/shot_21.json",
+      "reference_manifest": "references/shot_21.json",
+      "continuity_refs": [],
+      "state_before": "按前镜状态接续；口播范围严格对应v5。",
+      "state_after": "见continuity.json",
+      "transition_from": 20,
+      "visual_constraints": "保持同一对红白条纹手套、藤篮和玄关布局；只画本镜描述的动作，不加旁白文字。"
+    },
+    {
+      "id": 22,
+      "title": "掸去一点细灰",
+      "text": "他用小爪子轻轻掸掉手套表面沾着的一点点细灰，然后把它放进",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u02",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 28
+        }
+      ],
+      "paragraph_id": "p005",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "玄关藤篮旁",
+      "action": "皮皮用一只爪子轻轻掸掉右手套表面的一点细灰，另一只爪托住手套；藤篮仍在地面门边。",
+      "visual_description": "皮皮用一只爪子轻轻掸掉右手套表面的一点细灰，另一只爪托住手套；藤篮仍在地面门边。",
+      "emotional_performance": "专注爱惜手套，轻轻微笑。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_22.png",
+      "prompt_file": "prompts/shot_22.json",
+      "reference_manifest": "references/shot_22.json",
+      "continuity_refs": [],
+      "state_before": "按前镜状态接续；口播范围严格对应v5。",
+      "state_after": "见continuity.json",
+      "transition_from": 21,
+      "visual_constraints": "保持同一对红白条纹手套、藤篮和玄关布局；只画本镜描述的动作，不加旁白文字。"
+    },
+    {
+      "id": 23,
+      "title": "放回藤编篮",
+      "text": "藤编篮里，让两只红白条纹的小手套平平展展地躺在一起。",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u02",
+          "paragraph_id": "p005",
+          "start_char": 28,
+          "end_char": 54
+        }
+      ],
+      "paragraph_id": "p005",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "玄关藤篮俯视",
+      "action": "皮皮把右手套放进同一个藤篮，原有左手套与小围巾仍在；两只红白手套并排但尚未细致摆正。",
+      "visual_description": "皮皮把右手套放进同一个藤篮，原有左手套与小围巾仍在；两只红白手套并排但尚未细致摆正。",
+      "emotional_performance": "安心、动作稳妥。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_23.png",
+      "prompt_file": "prompts/shot_23.json",
+      "reference_manifest": "references/shot_23.json",
+      "continuity_refs": [],
+      "state_before": "按前镜状态接续；口播范围严格对应v5。",
+      "state_after": "见continuity.json",
+      "transition_from": 22,
+      "visual_constraints": "保持同一对红白条纹手套、藤篮和玄关布局；只画本镜描述的动作，不加旁白文字。"
+    },
+    {
+      "id": 24,
+      "title": "手套拇指相对",
+      "text": "一只大拇指朝左，一只大拇指朝右，掌心挨着",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u03",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 20
+        }
+      ],
+      "paragraph_id": "p005",
+      "characters": [],
+      "outfits": {},
+      "setting": "藤篮内近景",
+      "action": "篮中左手套与右手套并排，红白条纹一致；一只拇指朝左、一只朝右，掌心彼此相挨。",
+      "visual_description": "篮中左手套与右手套并排，红白条纹一致；一只拇指朝左、一只朝右，掌心彼此相挨。",
+      "emotional_performance": "温柔团聚感，不拟人化、不添加表情。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_24.png",
+      "prompt_file": "prompts/shot_24.json",
+      "reference_manifest": "references/shot_24.json",
+      "continuity_refs": [],
+      "state_before": "按前镜状态接续；口播范围严格对应v5。",
+      "state_after": "见continuity.json",
+      "transition_from": 23,
+      "visual_constraints": "保持同一对红白条纹手套、藤篮和玄关布局；只画本镜描述的动作，不加旁白文字。"
+    },
+    {
+      "id": 25,
+      "title": "两只手套靠在一起",
+      "text": "掌心，就像失散了一小会儿的好兄弟终于团聚了。",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u03",
+          "paragraph_id": "p005",
+          "start_char": 20,
+          "end_char": 42
+        }
+      ],
+      "paragraph_id": "p005",
+      "characters": [],
+      "outfits": {},
+      "setting": "藤篮内近景",
+      "action": "同一对红白针织手套的掌心挨着掌心，左右手型清楚相反；镜头稍近，篮中围巾仍在旁边。",
+      "visual_description": "同一对红白针织手套的掌心挨着掌心，左右手型清楚相反；镜头稍近，篮中围巾仍在旁边。",
+      "emotional_performance": "安稳、整齐，细节可辨。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_25.png",
+      "prompt_file": "prompts/shot_25.json",
+      "reference_manifest": "references/shot_25.json",
+      "continuity_refs": [],
+      "state_before": "按前镜状态接续；口播范围严格对应v5。",
+      "state_after": "见continuity.json",
+      "transition_from": 24,
+      "visual_constraints": "保持同一对红白条纹手套、藤篮和玄关布局；只画本镜描述的动作，不加旁白文字。"
+    },
+    {
+      "id": 26,
+      "title": "篮子里成双成对",
+      "text": "篮子里一下子变得整整齐齐、成双成对。",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u04",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 18
+        }
+      ],
+      "paragraph_id": "p005",
+      "characters": [],
+      "outfits": {},
+      "setting": "藤篮整体",
+      "action": "俯视藤篮：左、右手套完整成对地平放在叠好的围巾旁；不增加第三只手套。",
+      "visual_description": "俯视藤篮：左、右手套完整成对地平放在叠好的围巾旁；不增加第三只手套。",
+      "emotional_performance": "整齐、安顿妥当的静物。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_26.png",
+      "prompt_file": "prompts/shot_26.json",
+      "reference_manifest": "references/shot_26.json",
+      "continuity_refs": [],
+      "state_before": "按前镜状态接续；口播范围严格对应v5。",
+      "state_after": "见continuity.json",
+      "transition_from": 25,
+      "visual_constraints": "保持同一对红白条纹手套、藤篮和玄关布局；只画本镜描述的动作，不加旁白文字。"
+    },
+    {
+      "id": 27,
+      "title": "把藤篮推稳",
+      "text": "皮皮把收纳篮往架子里面推稳。",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u01",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 14
+        }
+      ],
+      "paragraph_id": "p006",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "玄关木架旁",
+      "action": "皮皮双爪把藤篮平稳推入门边木架的固定下层，篮子里的成对手套保持朝上可见。",
+      "visual_description": "皮皮双爪把藤篮平稳推入门边木架的固定下层，篮子里的成对手套保持朝上可见。",
+      "emotional_performance": "动作轻而稳，略带满意。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_27.png",
+      "prompt_file": "prompts/shot_27.json",
+      "reference_manifest": "references/shot_27.json",
+      "continuity_refs": [],
+      "state_before": "按前镜状态接续；口播范围严格对应v5。",
+      "state_after": "见continuity.json",
+      "transition_from": 26,
+      "visual_constraints": "保持同一对红白条纹手套、藤篮和玄关布局；只画本镜描述的动作，不加旁白文字。"
+    },
+    {
+      "id": 28,
+      "title": "明早不必慌张",
+      "text": "这样一来，明天早上出门上学的时候，就不用慌慌张张",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u02",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 24
+        }
+      ],
+      "paragraph_id": "p006",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "玄关木架前",
+      "action": "夜晚的皮皮看着已放稳的藤篮，想象明早只需顺手取出手套；画面仍保持夜景，不切换成真实次日。",
+      "visual_description": "夜晚的皮皮看着已放稳的藤篮，想象明早只需顺手取出手套；画面仍保持夜景，不切换成真实次日。",
+      "emotional_performance": "松一口气，神情轻松。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_28.png",
+      "prompt_file": "prompts/shot_28.json",
+      "reference_manifest": "references/shot_28.json",
+      "continuity_refs": [],
+      "state_before": "按前镜状态接续；口播范围严格对应v5。",
+      "state_after": "见continuity.json",
+      "transition_from": 27,
+      "visual_constraints": "保持同一对红白条纹手套、藤篮和玄关布局；只画本镜描述的动作，不加旁白文字。"
+    },
+    {
+      "id": 29,
+      "title": "小寻找圆满结束",
+      "text": "地到处找手套了，今天的小寻找已经圆满结束啦。",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u02",
+          "paragraph_id": "p006",
+          "start_char": 24,
+          "end_char": 46
+        }
+      ],
+      "paragraph_id": "p006",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "温暖玄关",
+      "action": "皮皮转身离开玄关，藤篮留在木架下层，成对手套没有移动。",
+      "visual_description": "皮皮转身离开玄关，藤篮留在木架下层，成对手套没有移动。",
+      "emotional_performance": "轻松地迈步回卧室，门未打开。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_29.png",
+      "prompt_file": "prompts/shot_29.json",
+      "reference_manifest": "references/shot_29.json",
+      "continuity_refs": [],
+      "state_before": "按前镜状态接续；口播范围严格对应v5。",
+      "state_after": "见continuity.json",
+      "transition_from": 28,
+      "visual_constraints": "保持同一对红白条纹手套、藤篮和玄关布局；只画本镜描述的动作，不加旁白文字。"
+    },
+    {
+      "id": 30,
+      "title": "回到卧室",
+      "text": "他迈着轻松的步子回到卧室的小床上，把自己的两只小爪子，",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u03",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 27
+        }
+      ],
+      "paragraph_id": "p006",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "卧室门口",
+      "action": "皮皮从玄关回到自己的卧室，步子放松，深蓝星星睡帽保持不变。",
+      "visual_description": "皮皮从玄关回到自己的卧室，步子放松，深蓝星星睡帽保持不变。",
+      "emotional_performance": "安心、步伐轻快。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_30.png",
+      "prompt_file": "prompts/shot_30.json",
+      "reference_manifest": "references/shot_30.json",
+      "continuity_refs": [],
+      "state_before": "按前镜状态接续；口播范围严格对应v5。",
+      "state_after": "见continuity.json",
+      "transition_from": 29,
+      "visual_constraints": "保持同一对红白条纹手套、藤篮和玄关布局；只画本镜描述的动作，不加旁白文字。"
+    },
+    {
+      "id": 31,
+      "title": "两只爪子放进被窝",
+      "text": "也像那双手套一样，成双成对地放进了暖暖和和的被窝里。",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u03",
+          "paragraph_id": "p006",
+          "start_char": 27,
+          "end_char": 53
+        }
+      ],
+      "paragraph_id": "p006",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "小床侧面",
+      "action": "皮皮在小床上把两只爪子并排放进被窝，黄色被子平整盖住身体；橙色胡萝卜玩偶靠在枕边。",
+      "visual_description": "皮皮在小床上把两只爪子并排放进被窝，黄色被子平整盖住身体；橙色胡萝卜玩偶靠在枕边。",
+      "emotional_performance": "舒服地松弛下来，眼神柔和。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_31.png",
+      "prompt_file": "prompts/shot_31.json",
+      "reference_manifest": "references/shot_31.json",
+      "continuity_refs": [],
+      "state_before": "按前镜状态接续；口播范围严格对应v5。",
+      "state_after": "见continuity.json",
+      "transition_from": 30,
+      "visual_constraints": "保持同一对红白条纹手套、藤篮和玄关布局；只画本镜描述的动作，不加旁白文字。"
+    },
+    {
+      "id": 32,
+      "title": "抱着胡萝卜玩偶",
+      "text": "胡萝卜玩偶靠着胸口，皮皮轻轻闭上眼睛。",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u01",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 19
+        }
+      ],
+      "paragraph_id": "p007",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "卧室小床",
+      "action": "皮皮把橙色胡萝卜玩偶抱在胸前，轻轻闭上眼睛；睡帽、枕头、黄色被子保持一致。",
+      "visual_description": "皮皮把橙色胡萝卜玩偶抱在胸前，轻轻闭上眼睛；睡帽、枕头、黄色被子保持一致。",
+      "emotional_performance": "平静、满足，不显担心。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_32.png",
+      "prompt_file": "prompts/shot_32.json",
+      "reference_manifest": "references/shot_32.json",
+      "continuity_refs": [],
+      "state_before": "按前镜状态接续；口播范围严格对应v5。",
+      "state_after": "见continuity.json",
+      "transition_from": 31,
+      "visual_constraints": "保持同一对红白条纹手套、藤篮和玄关布局；只画本镜描述的动作，不加旁白文字。"
+    },
+    {
+      "id": 33,
+      "title": "小伙伴都安顿好",
+      "text": "屋里所有小小的伙伴，都找到自己的伴儿，安顿好了。",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u02",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 24
+        }
+      ],
+      "paragraph_id": "p007",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "卧室与门廊的连贯空间",
+      "action": "前景皮皮安睡并抱着一只胡萝卜玩偶；背景门边藤篮里可见同一对红白手套。",
+      "visual_description": "前景皮皮安睡并抱着一只胡萝卜玩偶；背景门边藤篮里可见同一对红白手套。",
+      "emotional_performance": "安稳温暖，不复制角色或道具。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_33.png",
+      "prompt_file": "prompts/shot_33.json",
+      "reference_manifest": "references/shot_33.json",
+      "continuity_refs": [],
+      "state_before": "按前镜状态接续；口播范围严格对应v5。",
+      "state_after": "见continuity.json",
+      "transition_from": 32,
+      "visual_constraints": "保持同一对红白条纹手套、藤篮和玄关布局；只画本镜描述的动作，不加旁白文字。"
+    },
+    {
+      "id": 34,
+      "title": "慢慢找就能整理好",
+      "text": "小朋友，白天要是有小小的一点遗漏，只要不着急、慢慢找，总能整理好的。",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u03",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 34
+        }
+      ],
+      "paragraph_id": "p007",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "卧室夜灯旁",
+      "action": "皮皮安静地睡在小床上，胡萝卜玩偶靠着胸口，黄色被子平整；一盏小夜灯柔和发亮。",
+      "visual_description": "皮皮安静地睡在小床上，胡萝卜玩偶靠着胸口，黄色被子平整；一盏小夜灯柔和发亮。",
+      "emotional_performance": "安宁、安心的睡颜。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_34.png",
+      "prompt_file": "prompts/shot_34.json",
+      "reference_manifest": "references/shot_34.json",
+      "continuity_refs": [],
+      "state_before": "按前镜状态接续；口播范围严格对应v5。",
+      "state_after": "见continuity.json",
+      "transition_from": 33,
+      "visual_constraints": "保持同一对红白条纹手套、藤篮和玄关布局；只画本镜描述的动作，不加旁白文字。"
+    },
+    {
+      "id": 35,
+      "title": "把小手放进被窝",
+      "text": "现在，把你的两只小手也放进温暖的被窝里，舒服地休息吧。",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u04",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 27
+        }
+      ],
+      "paragraph_id": "p007",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "小床被窝近景",
+      "action": "两只小爪子并排收在黄色被子里，皮皮与胡萝卜玩偶在上方画面中安睡。",
+      "visual_description": "两只小爪子并排收在黄色被子里，皮皮与胡萝卜玩偶在上方画面中安睡。",
+      "emotional_performance": "柔和、放松，动作完成。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_35.png",
+      "prompt_file": "prompts/shot_35.json",
+      "reference_manifest": "references/shot_35.json",
+      "continuity_refs": [],
+      "state_before": "按前镜状态接续；口播范围严格对应v5。",
+      "state_after": "见continuity.json",
+      "transition_from": 34,
+      "visual_constraints": "保持同一对红白条纹手套、藤篮和玄关布局；只画本镜描述的动作，不加旁白文字。"
+    },
+    {
+      "id": 36,
+      "title": "晚安",
+      "text": "晚安。",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u05",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 3
+        }
+      ],
+      "paragraph_id": "p007",
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "冬夜窗边",
+      "action": "卧室暖灯渐暗，窗外安静飘雪，屋内床上皮皮已睡着；保持绘本水彩留白。",
+      "visual_description": "卧室暖灯渐暗，窗外安静飘雪，屋内床上皮皮已睡着；保持绘本水彩留白。",
+      "emotional_performance": "静谧结束画面。",
+      "reality": "story",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_36.png",
+      "prompt_file": "prompts/shot_36.json",
+      "reference_manifest": "references/shot_36.json",
+      "continuity_refs": [],
+      "state_before": "按前镜状态接续；口播范围严格对应v5。",
+      "state_after": "见continuity.json",
+      "transition_from": 35,
+      "visual_constraints": "保持同一对红白条纹手套、藤篮和玄关布局；只画本镜描述的动作，不加旁白文字。"
+    }
+  ]
+}

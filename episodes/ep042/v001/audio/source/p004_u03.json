@@ -1,0 +1,251 @@
+{
+  "text": "原来右手的那只小手套，当时从膝盖上滑了下来，正安安静静地靠在里面的木凳脚旁边，就像跟皮皮玩捉迷藏，躲进了一个很小很小的阴影角落里。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "9cc211f3650e7b46dd1136906bcbec6166e2a25f2f7e26fb6809a54b1195adc8",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4807500,
+      "text": "原来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6461660,
+      "duration": 5769160,
+      "text": "右手"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12230830,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13961660,
+      "duration": 2307500,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16269160,
+      "duration": 1922910,
+      "text": "只"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18384580,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21653750,
+      "duration": 8461660,
+      "text": "手套"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34922910,
+      "duration": 6153750,
+      "text": "当时"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41269160,
+      "duration": 3077080,
+      "text": "从"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44538330,
+      "duration": 5577080,
+      "text": "膝盖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50307500,
+      "duration": 7115410,
+      "text": "上滑"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57422910,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58961660,
+      "duration": 6922910,
+      "text": "下来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 70692500,
+      "duration": 2884580,
+      "text": "正"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 73769160,
+      "duration": 11922910,
+      "text": "安安静静"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 85692500,
+      "duration": 4038330,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 90115410,
+      "duration": 2884580,
+      "text": "靠"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 93000000,
+      "duration": 2500000,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 95692500,
+      "duration": 4807500,
+      "text": "里面"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 100500000,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 102230830,
+      "duration": 2500000,
+      "text": "木"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 104730830,
+      "duration": 5192500,
+      "text": "凳脚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 110115410,
+      "duration": 8461660,
+      "text": "旁边"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 122500000,
+      "duration": 2307500,
+      "text": "就"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 124807500,
+      "duration": 2500000,
+      "text": "像"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 127500000,
+      "duration": 2692500,
+      "text": "跟"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 130192500,
+      "duration": 5192500,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 135769160,
+      "duration": 2500000,
+      "text": "玩"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 138461660,
+      "duration": 10961660,
+      "text": "捉迷藏"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 153269160,
+      "duration": 5384580,
+      "text": "躲进"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 158653750,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 160000000,
+      "duration": 2884580,
+      "text": "一个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 163269160,
+      "duration": 3269160,
+      "text": "很"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 166538330,
+      "duration": 2884580,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 169807500,
+      "duration": 2884580,
+      "text": "很"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 172692500,
+      "duration": 2884580,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 175577080,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 177115410,
+      "duration": 4807500,
+      "text": "阴影"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 182115410,
+      "duration": 6538330,
+      "text": "角落"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 188653750,
+      "duration": 3077080,
+      "text": "里"
+    }
+  ]
+}

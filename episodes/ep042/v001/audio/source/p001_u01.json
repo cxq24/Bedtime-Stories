@@ -1,0 +1,167 @@
+{
+  "text": "冬天的早晨和傍晚冷飕飕的，皮皮出门上学时，总会戴上妈妈给他织的那双毛茸茸的红白条纹小手套。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "da7d82bf347e4aef4527491effe65171df7c9230556dd22da46f21a82d4a0c13",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5769160,
+      "text": "冬天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8577080,
+      "duration": 8653750,
+      "text": "早晨"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17615410,
+      "duration": 2115410,
+      "text": "和"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19922910,
+      "duration": 5192500,
+      "text": "傍晚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25500000,
+      "duration": 10192500,
+      "text": "冷飕飕"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35692500,
+      "duration": 3077080,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43769160,
+      "duration": 5000000,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48961660,
+      "duration": 4615410,
+      "text": "出门"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53769160,
+      "duration": 6922910,
+      "text": "上学"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60692500,
+      "duration": 5577080,
+      "text": "时"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 70192500,
+      "duration": 6346250,
+      "text": "总会"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 76730830,
+      "duration": 7500000,
+      "text": "戴上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 84615410,
+      "duration": 4807500,
+      "text": "妈妈"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 89615410,
+      "duration": 2500000,
+      "text": "给"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 92115410,
+      "duration": 2500000,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 94807500,
+      "duration": 2500000,
+      "text": "织"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 97307500,
+      "duration": 1730830,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 99422910,
+      "duration": 2500000,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 101922910,
+      "duration": 3461660,
+      "text": "双"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 105769160,
+      "duration": 8461660,
+      "text": "毛茸茸"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 114230830,
+      "duration": 2307500,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 116922910,
+      "duration": 5577080,
+      "text": "红白"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 122692500,
+      "duration": 5577080,
+      "text": "条纹"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 128461660,
+      "duration": 3076660,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 131538330,
+      "duration": 8461660,
+      "text": "手套"
+    }
+  ]
+}

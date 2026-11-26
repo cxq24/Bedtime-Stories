@@ -1,0 +1,155 @@
+{
+  "text": "一只大拇指朝左，一只大拇指朝右，掌心挨着掌心，就像失散了一小会儿的好兄弟终于团聚了。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "04af5c3f3b001531c96011eba3378ad2f5ba9609fa064ec86a9032af631b13db",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2692500,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3961660,
+      "duration": 1922910,
+      "text": "只"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6077080,
+      "duration": 7692500,
+      "text": "大拇指"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13961660,
+      "duration": 4038330,
+      "text": "朝"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18000000,
+      "duration": 4615410,
+      "text": "左"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27038330,
+      "duration": 2115410,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29153750,
+      "duration": 1922910,
+      "text": "只"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31269160,
+      "duration": 16346250,
+      "text": "大拇指朝右"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51077080,
+      "duration": 7307500,
+      "text": "掌心"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58769160,
+      "duration": 4038330,
+      "text": "挨着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63000000,
+      "duration": 8269160,
+      "text": "掌心"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75192500,
+      "duration": 2307500,
+      "text": "就"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 77500000,
+      "duration": 2500000,
+      "text": "像"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 80192500,
+      "duration": 5769160,
+      "text": "失散"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 85961660,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 87500000,
+      "duration": 2115410,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 89615410,
+      "duration": 3077080,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 92692500,
+      "duration": 2884580,
+      "text": "会儿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 95577080,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 97115410,
+      "duration": 2884580,
+      "text": "好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 100000000,
+      "duration": 8077080,
+      "text": "兄弟"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 109615410,
+      "duration": 5000000,
+      "text": "终于"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 114807500,
+      "duration": 7307500,
+      "text": "团聚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 122115410,
+      "duration": 2692500,
+      "text": "了"
+    }
+  ]
+}

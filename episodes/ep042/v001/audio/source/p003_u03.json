@@ -1,0 +1,209 @@
+{
+  "text": "他站在玄关的暖灯下，深吸了一口气，没有马上开门跑出去，而是先在脑海里像放电影一样，回忆了一下傍晚进门时的动作。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "a9c6437b8a8d9fa7945bed571f9800c6537663b42b8a7167398351e66a1ebd65",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2115410,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3384580,
+      "duration": 2884580,
+      "text": "站"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6269160,
+      "duration": 1922910,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8577080,
+      "duration": 5384580,
+      "text": "玄关"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13961660,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15500000,
+      "duration": 6153750,
+      "text": "暖灯"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21653750,
+      "duration": 4230830,
+      "text": "下"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30500000,
+      "duration": 3077080,
+      "text": "深"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33577080,
+      "duration": 2692080,
+      "text": "吸"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36269160,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37615410,
+      "duration": 10000000,
+      "text": "一口气"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52230830,
+      "duration": 3653750,
+      "text": "没有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56077080,
+      "duration": 5577080,
+      "text": "马上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61846250,
+      "duration": 4422910,
+      "text": "开门"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 66461660,
+      "duration": 3653750,
+      "text": "跑"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 70115410,
+      "duration": 6730830,
+      "text": "出去"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 80384580,
+      "duration": 4422910,
+      "text": "而是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 85000000,
+      "duration": 3077080,
+      "text": "先"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 88077080,
+      "duration": 2115410,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 90384580,
+      "duration": 7115410,
+      "text": "脑海"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 97500000,
+      "duration": 4422910,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 103269160,
+      "duration": 3077080,
+      "text": "像"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 106538330,
+      "duration": 2500000,
+      "text": "放"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 109038330,
+      "duration": 5384580,
+      "text": "电影"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 114615410,
+      "duration": 6346250,
+      "text": "一样"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 126153750,
+      "duration": 5769160,
+      "text": "回忆"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 131922910,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 133269160,
+      "duration": 4807500,
+      "text": "一下"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 138461660,
+      "duration": 5384580,
+      "text": "傍晚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 144038330,
+      "duration": 5384580,
+      "text": "进门"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 149422910,
+      "duration": 2692500,
+      "text": "时"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 152115410,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 153653750,
+      "duration": 7692500,
+      "text": "动作"
+    }
+  ]
+}

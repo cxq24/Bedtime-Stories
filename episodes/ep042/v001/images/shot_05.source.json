@@ -1,0 +1,22 @@
+{
+  "source": "built-in image_gen edit",
+  "source_image": "/workspace/generated_images/exec-89660a38-5d72-4f3e-85dc-dd6ca49835a4.png",
+  "sha256": "ef057a465af9314189c881d8833b721f89d68c8b085f8cc477b91f434b168e72",
+  "size": [
+    941,
+    1672
+  ],
+  "format": "PNG",
+  "prompt_file": "prompts/shot_05.json",
+  "references": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/rongrong_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep042/v001/assets/prop_reference_board.png"
+  ],
+  "iteration": "facial expression correction: For the snowball play with the little bear, give both friends clearly open attentive eyes, looking at the small snowball and each other, with gentle visible delight. Keep identities, clothes, single snowball, scene and composition unchanged; no sleepy or sad expressions.",
+  "final_size": [
+    941,
+    1672
+  ]
+}

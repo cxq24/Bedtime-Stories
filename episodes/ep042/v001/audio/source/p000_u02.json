@@ -1,0 +1,65 @@
+{
+  "text": "今天的故事叫《小手套找到了伴》。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "794cd4159c0a2d032b56a5e2a4d291fdaf7cc00dc5eb2a3067e72049ea105f9e",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5577080,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8192500,
+      "duration": 4615410,
+      "text": "故事"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13000000,
+      "duration": 5000000,
+      "text": "叫"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19538330,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22807500,
+      "duration": 6538330,
+      "text": "手套"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29730830,
+      "duration": 5000000,
+      "text": "找到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34730830,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36077080,
+      "duration": 3653750,
+      "text": "伴"
+    }
+  ]
+}

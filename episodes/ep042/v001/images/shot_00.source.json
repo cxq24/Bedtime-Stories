@@ -1,0 +1,16 @@
+{
+  "source": "built-in image_gen",
+  "source_image": "/workspace/generated_images/exec-e89c554d-a8cb-4bd4-a4eb-d5540bb17479.png",
+  "sha256": "cc12f33b10ac61756e283daa8ebde03dee997949cd4f554af9f1b75cb3bc351d",
+  "size": [
+    941,
+    1672
+  ],
+  "format": "PNG",
+  "prompt_file": "prompts/shot_00.json",
+  "references": [],
+  "final_size": [
+    941,
+    1672
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "text": "这样一来，明天早上出门上学的时候，就不用慌慌张张地到处找手套了，今天的小寻找已经圆满结束啦。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "ded111cdd4323ada6e66a3d37e24c8d31a18110973e40b65d5f4263e70697487",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 11730830,
+      "text": "这样一来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17615410,
+      "duration": 5192500,
+      "text": "明天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23000000,
+      "duration": 5577080,
+      "text": "早上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28961660,
+      "duration": 4230830,
+      "text": "出门"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33384580,
+      "duration": 6538330,
+      "text": "上学"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39922910,
+      "duration": 1730830,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41846250,
+      "duration": 7692500,
+      "text": "时候"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52615410,
+      "duration": 2884580,
+      "text": "就"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55500000,
+      "duration": 4422910,
+      "text": "不用"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60307500,
+      "duration": 11922910,
+      "text": "慌慌张张"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 72230830,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 73961660,
+      "duration": 4807500,
+      "text": "到处"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78961660,
+      "duration": 2692500,
+      "text": "找"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 81846250,
+      "duration": 8076660,
+      "text": "手套"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 89922910,
+      "duration": 2307500,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 95769160,
+      "duration": 5000000,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 100769160,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 102115410,
+      "duration": 2692080,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 104807500,
+      "duration": 8461660,
+      "text": "寻找"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 114807500,
+      "duration": 3846250,
+      "text": "已经"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 118846250,
+      "duration": 5961660,
+      "text": "圆满"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 125000000,
+      "duration": 6153750,
+      "text": "结束"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 131153750,
+      "duration": 3269160,
+      "text": "啦"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "source": "story shot art reused as the cover background per cover specification",
+  "source_path": "images/shot_21.png",
+  "prompt_file": "prompts/shot_21.json",
+  "base_art_without_text": true
+}

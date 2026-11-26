@@ -1,0 +1,689 @@
+{
+  "episode": "ep042",
+  "version": "v001",
+  "source_script": "script.snapshot.json",
+  "assets": {
+    "mitten_pair_red_white": {
+      "description": "同一对小号针织手套，暖红与象牙白横向宽条纹；左右手型明确相反，袖口为象牙白罗纹；质地柔软，无图案文字。",
+      "standard_reference": "assets/prop_reference_board.png",
+      "states": "双只戴在手上→玄关摘下→右手套遗落木凳脚旁、左手套在藤篮→两只重聚并放稳藤篮。"
+    },
+    "basket_wicker": {
+      "description": "浅蜂蜜色藤编椭圆收纳篮，圆润低矮、双侧小把手、编织纹理紧密。",
+      "standard_reference": "assets/prop_reference_board.png",
+      "states": "固定在玄关门边地面，随后被推入入口木架下层；不瞬移。"
+    },
+    "bench_low_wood": {
+      "description": "矮小的浅棕色实木换鞋凳，四条直木腿，简单无靠背。",
+      "standard_reference": "assets/prop_reference_board.png",
+      "states": "固定在玄关；右手套掉落并靠近靠内侧凳脚，在捡起前不移动。"
+    },
+    "scarf_small": {
+      "description": "小围巾，柔和蓝绿色纯色针织，无流苏或图案。",
+      "standard_reference": null,
+      "states": "睡前叠好后放入玄关藤篮，之后一直在篮内。"
+    },
+    "slippers_blue": {
+      "description": "皮皮室内穿的蓝布拖鞋，一双。",
+      "standard_reference": null,
+      "states": "进门换鞋时在凳边，后续收在入口处，不出现在卧室床上。"
+    },
+    "flashlight": {
+      "description": "小型圆柱手电筒，深灰蓝色，无字。",
+      "standard_reference": null,
+      "states": "仅作“以前可能去找”的回忆情境道具，停在鞋柜上；门始终关闭。"
+    },
+    "entry_shelf": {
+      "description": "玄关门边浅棕色木架，三层开放格。",
+      "standard_reference": null,
+      "states": "篮子从门边地面被推到下层，随后留在原处。"
+    },
+    "carrot_plush": {
+      "description": "一只橙色胡萝卜布偶，深绿叶冠，简洁柔软，不带脸部文字或附件。",
+      "standard_reference": "episodes/ep040/v001/assets/carrot_plush_reference.png",
+      "states": "开始靠在枕边，皮皮回床后抱在胸口，全片仅一只。"
+    },
+    "yellow_blanket": {
+      "description": "平整的暖黄色布被，柔软有细布纹。",
+      "standard_reference": "episodes/ep040/v001/assets/carrot_plush_reference.png",
+      "states": "卧室床上平整盖住皮皮身体，末尾状态不变。"
+    },
+    "pipi_identity": {
+      "description": "暖灰毛小兔、圆脸、粉鼻、自然下垂长耳；日间背书包穿灰蓝背带裤和米色上衣，夜间星星睡帽与柔软睡衣。",
+      "standard_reference": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "states": "全天身份造型一致，日间出门为日常装，夜间居家与卧室沿用夜间装。"
+    },
+    "rongrong_identity": {
+      "description": "浅棕绒毛小熊，圆耳、米色口鼻，外形按角色图库。",
+      "standard_reference": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/rongrong_identity_v001.png",
+      "states": "只在放学后院门口与皮皮一起堆雪球，之后离场。"
+    }
+  },
+  "shot_states": [
+    {
+      "shot_id": 0,
+      "transition_from": null,
+      "setting": "冬夜的窗边",
+      "characters": [],
+      "asset_refs": [],
+      "state_before": "Opening winter entryway, symbolic preview; no character movement.",
+      "action": "窗外静静落雪，室内玄关暖灯透出柔光；不出现角色和手套，作为独立片头第一幅。",
+      "state_after": "Establishes quiet winter-night setting.",
+      "emotion": "无人物静物，冬夜柔和宁静。"
+    },
+    {
+      "shot_id": 1,
+      "transition_from": 0,
+      "setting": "冬日木桌近景",
+      "characters": [],
+      "asset_refs": [
+        "mitten_pair_red_white"
+      ],
+      "state_before": "Symbolic opening only: two matching mittens on their own.",
+      "action": "红白条纹针织小手套并排放在浅木桌上，左右手各一只，柔和雪光；片头独立意象，不出现角色。",
+      "state_after": "Foreshadows the story without changing plot state.",
+      "emotion": "静物特写，温暖、轻巧。"
+    },
+    {
+      "shot_id": 2,
+      "transition_from": 1,
+      "setting": "冬夜玄关",
+      "characters": [
+        "pipi"
+      ],
+      "asset_refs": [
+        "mitten_pair_red_white",
+        "pipi_identity"
+      ],
+      "state_before": "Independent teaser image: one mitten is alone; main story has not started.",
+      "action": "皮皮戴深蓝星星睡帽，蹲在藤篮旁好奇地看一只红白手套；眼睛睁开、耳朵轻轻抬起，不显困倦。",
+      "state_after": "The question of its partner remains open.",
+      "emotion": "好奇而不着急，身体微微前倾。"
+    },
+    {
+      "shot_id": 3,
+      "transition_from": 2,
+      "setting": "冬日卧室门口",
+      "characters": [
+        "pipi"
+      ],
+      "asset_refs": [
+        "mitten_pair_red_white",
+        "pipi_identity"
+      ],
+      "state_before": "Morning: Pipi wears the left and right mitten, daytime outfit and school bag.",
+      "action": "皮皮穿灰蓝背带裤和米色上衣，背黄色小书包，正在把红白针织手套戴好；神情专注、期待出门。",
+      "state_after": "Pipi leaves toward school with both mittens.",
+      "emotion": "清晨出门前，双手都戴手套。"
+    },
+    {
+      "shot_id": 4,
+      "transition_from": 3,
+      "setting": "雪后小路",
+      "characters": [
+        "pipi"
+      ],
+      "asset_refs": [
+        "mitten_pair_red_white",
+        "pipi_identity"
+      ],
+      "state_before": "Pipi continues on the snowy path with both mittens on; no prop is lost.",
+      "action": "皮皮戴着一双红白条纹手套、背黄色书包，沿积雪小路往学校走；冷空气、脚印和稀疏树影。",
+      "state_after": "Arrives home after school still wearing the pair.",
+      "emotion": "步伐轻快，脸颊微红，目光朝前。"
+    },
+    {
+      "shot_id": 5,
+      "transition_from": 4,
+      "setting": "雪后的院门口",
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "asset_refs": [
+        "mitten_pair_red_white",
+        "pipi_identity",
+        "rongrong_identity"
+      ],
+      "state_before": "Pipi and Rongrong play at the yard gate; both mittens still on.",
+      "action": "皮皮与小熊绒绒在院门口一起滚一个小雪球；冬季日光柔和，雪球小而圆。",
+      "state_after": "Snowball play ends; Rongrong is no longer present in later scenes.",
+      "emotion": "两位伙伴专注又开心，动作自然克制。"
+    },
+    {
+      "shot_id": 6,
+      "transition_from": 5,
+      "setting": "玄关门内",
+      "characters": [
+        "pipi"
+      ],
+      "asset_refs": [
+        "mitten_pair_red_white",
+        "pipi_identity"
+      ],
+      "state_before": "At the entry, Pipi removes both mittens while changing into slippers; the right glove slips near the inner stool leg.",
+      "action": "雪球游戏刚结束，皮皮进门前坐在玄关矮木凳上摘下红白手套；门已关上，雪地留在窗外。",
+      "state_after": "At bedtime, the left glove is in the basket; the right glove remains hidden beside the stool.",
+      "emotion": "皮皮觉得手套不灵活，平静地把它们摘下。"
+    },
+    {
+      "shot_id": 7,
+      "transition_from": 6,
+      "setting": "夜晚玄关",
+      "characters": [
+        "pipi"
+      ],
+      "asset_refs": [
+        "pipi_identity"
+      ],
+      "state_before": "Night entryway; one left mitten in the basket, right mitten hidden by the stool; scarf not yet added.",
+      "action": "皮皮穿柔软睡衣、戴星星帽，查看明天上学要穿的衣物；暖灯照着挂钩和收纳架。",
+      "state_after": "Pipi begins putting away tomorrow’s clothing.",
+      "emotion": "从容地检查，目光落在衣物上。"
+    },
+    {
+      "shot_id": 8,
+      "transition_from": 7,
+      "setting": "夜晚玄关",
+      "characters": [
+        "pipi"
+      ],
+      "asset_refs": [
+        "mitten_pair_red_white",
+        "basket_wicker",
+        "scarf_small",
+        "pipi_identity"
+      ],
+      "state_before": "The same basket gains the folded teal scarf; exactly one left mitten remains inside.",
+      "action": "皮皮把叠好的小围巾放进门边椭圆形藤编篮，低头注意到篮中东西；镜头略俯看。",
+      "state_after": "The right mitten is still missing.",
+      "emotion": "动作轻柔，神情从平常转为疑惑。"
+    },
+    {
+      "shot_id": 9,
+      "transition_from": 8,
+      "setting": "藤篮俯视特写",
+      "characters": [],
+      "asset_refs": [
+        "mitten_pair_red_white",
+        "basket_wicker",
+        "scarf_small"
+      ],
+      "state_before": "Close view: one left mitten and folded scarf in basket; no right glove.",
+      "action": "藤编篮里只有一只左手红白条纹针织手套，旁边放着叠好的小围巾；右手套缺席。",
+      "state_after": "Pipi recognizes a mismatch.",
+      "emotion": "安静的静物特写，手套不重复。"
+    },
+    {
+      "shot_id": 10,
+      "transition_from": 9,
+      "setting": "玄关藤篮旁",
+      "characters": [
+        "pipi"
+      ],
+      "asset_refs": [
+        "mitten_pair_red_white",
+        "basket_wicker",
+        "pipi_identity"
+      ],
+      "state_before": "Left glove remains in basket; right glove remains unseen at stool.",
+      "action": "皮皮看着篮里那只左手套，眼睛略睁大，耳尖轻轻抬起；只表现一瞬惊讶，未伸手找。",
+      "state_after": "Pipi wonders where it went.",
+      "emotion": "轻微惊讶、仍努力镇定。"
+    },
+    {
+      "shot_id": 11,
+      "transition_from": 10,
+      "setting": "玄关暖灯下",
+      "characters": [
+        "pipi"
+      ],
+      "asset_refs": [
+        "mitten_pair_red_white",
+        "basket_wicker",
+        "pipi_identity"
+      ],
+      "state_before": "Remembered former reaction only; current right mitten still hidden, left glove still in basket.",
+      "action": "皮皮在玄关原地转了半圈，眉眼有些焦急；用轻淡回忆感表现过去的习惯，不夸张。",
+      "state_after": "Pipi pauses before taking any action.",
+      "emotion": "回忆中的不安，温和小幅度。"
+    },
+    {
+      "shot_id": 12,
+      "transition_from": 11,
+      "setting": "玄关门边",
+      "characters": [
+        "pipi"
+      ],
+      "asset_refs": [
+        "mitten_pair_red_white",
+        "flashlight",
+        "pipi_identity"
+      ],
+      "state_before": "Door remains closed; flashlight stays on the shoe cabinet; no one goes outdoors.",
+      "action": "皮皮的爪子停在门把手旁，手电筒搁在鞋柜上，门保持关闭，窗外可见雪；没有跑到户外。",
+      "state_after": "Pipi chooses not to search in the snow yet.",
+      "emotion": "犹豫但克制，注意到自己尚未开门。"
+    },
+    {
+      "shot_id": 13,
+      "transition_from": 12,
+      "setting": "玄关暖灯下",
+      "characters": [
+        "pipi"
+      ],
+      "asset_refs": [
+        "mitten_pair_red_white",
+        "basket_wicker",
+        "pipi_identity"
+      ],
+      "state_before": "Pipi relaxes his shoulders under the warm lamp; basket unchanged.",
+      "action": "皮皮把肩膀放松，双爪轻放腹前，停下来观察眼前的篮子和入口；表情变得平静。",
+      "state_after": "He starts a calm search.",
+      "emotion": "情緒安定，目光专注。"
+    },
+    {
+      "shot_id": 14,
+      "transition_from": 13,
+      "setting": "玄关门边",
+      "characters": [
+        "pipi"
+      ],
+      "asset_refs": [
+        "mitten_pair_red_white",
+        "flashlight",
+        "pipi_identity"
+      ],
+      "state_before": "Pipi takes one slow breath; door stays closed; only the left glove is visible in basket.",
+      "action": "皮皮站在暖灯下闭眼深吸一口气，门仍关着，手电筒留在鞋柜上。",
+      "state_after": "Pipi’s memory turns toward the afternoon entry.",
+      "emotion": "身体由紧绷转松，呼吸平稳。"
+    },
+    {
+      "shot_id": 15,
+      "transition_from": 14,
+      "setting": "玄关空间",
+      "characters": [
+        "pipi"
+      ],
+      "asset_refs": [
+        "mitten_pair_red_white",
+        "basket_wicker",
+        "pipi_identity"
+      ],
+      "state_before": "Night Pipi looks toward the same stool while recalling the afternoon; no thought-bubble character duplication.",
+      "action": "皮皮睁眼后望向矮木凳，脑海中回想傍晚进门；用柔淡的回忆色处理，画面仍是同一玄关布局。",
+      "state_after": "Memory shifts to the earlier shoe-changing moment.",
+      "emotion": "思考而平静，目光落到换鞋凳。"
+    },
+    {
+      "shot_id": 16,
+      "transition_from": 15,
+      "setting": "傍晚的同一玄关",
+      "characters": [
+        "pipi"
+      ],
+      "asset_refs": [
+        "mitten_pair_red_white",
+        "basket_wicker",
+        "bench_low_wood",
+        "pipi_identity"
+      ],
+      "state_before": "Flashback: daytime Pipi sits to change shoes; right glove slips from his knee toward the inner stool leg.",
+      "action": "回忆中的皮皮坐在矮木凳上换下蓝布鞋；红白手套曾在膝盖附近，藤篮在门边、木凳位置固定。",
+      "state_after": "Right glove comes to rest beside the stool; it is not picked up.",
+      "emotion": "专注回想当时动作，姿态自然。"
+    },
+    {
+      "shot_id": 17,
+      "transition_from": 16,
+      "setting": "夜晚的同一玄关",
+      "characters": [
+        "pipi"
+      ],
+      "asset_refs": [
+        "mitten_pair_red_white",
+        "basket_wicker",
+        "bench_low_wood",
+        "pipi_identity"
+      ],
+      "state_before": "Present time: Pipi bends to look under the stool; left glove and scarf stay in the basket.",
+      "action": "回到现在，皮皮蹲下探头查看矮木凳下方；同一藤篮仍在门边，门保持关闭。",
+      "state_after": "He notices the right glove.",
+      "emotion": "眼神认真寻找，身体向前倾。"
+    },
+    {
+      "shot_id": 18,
+      "transition_from": 17,
+      "setting": "矮木凳旁",
+      "characters": [
+        "pipi"
+      ],
+      "asset_refs": [
+        "mitten_pair_red_white",
+        "bench_low_wood",
+        "pipi_identity"
+      ],
+      "state_before": "Discovery: one right glove by the inner stool leg; one left glove in the basket.",
+      "action": "皮皮刚看到木凳脚边阴影中的右手红白手套，脸上露出克制的惊喜；手套仍在地面、尚未捡起。",
+      "state_after": "No prop has moved yet.",
+      "emotion": "明亮的发现瞬间，眼睛睁开、嘴角上扬。"
+    },
+    {
+      "shot_id": 19,
+      "transition_from": 18,
+      "setting": "矮木凳内侧",
+      "characters": [
+        "pipi"
+      ],
+      "asset_refs": [
+        "mitten_pair_red_white",
+        "bench_low_wood",
+        "pipi_identity"
+      ],
+      "state_before": "Close-up of the single right glove in the stool shadow; left glove remains elsewhere in basket.",
+      "action": "近景：右手红白条纹手套安静靠着矮木凳的一只木脚，落在小小阴影里；皮皮的脸与前爪从上方进入视野。",
+      "state_after": "Pipi has found the missing glove.",
+      "emotion": "手套清楚可辨，仍未被拿起。"
+    },
+    {
+      "shot_id": 20,
+      "transition_from": 19,
+      "setting": "矮木凳内侧",
+      "characters": [
+        "pipi"
+      ],
+      "asset_refs": [
+        "mitten_pair_red_white",
+        "basket_wicker",
+        "bench_low_wood",
+        "pipi_identity"
+      ],
+      "state_before": "Pipi is pleased at the find; right glove remains on floor; left glove remains in basket.",
+      "action": "从皮皮视线看，右手套依然靠着同一条木凳脚；皮皮蹲在旁边高兴地确认找到，不改变物件位置。",
+      "state_after": "He bends to retrieve it.",
+      "emotion": "轻快欣喜，动作克制。"
+    },
+    {
+      "shot_id": 21,
+      "transition_from": 20,
+      "setting": "矮木凳旁",
+      "characters": [
+        "pipi"
+      ],
+      "asset_refs": [
+        "mitten_pair_red_white",
+        "bench_low_wood",
+        "pipi_identity"
+      ],
+      "state_before": "Pipi picks up right glove; exactly one other mitten remains in the basket.",
+      "action": "皮皮弯腰伸爪，将靠在凳脚旁的右手套轻轻捡起；地上不再留另一只手套。",
+      "state_after": "The right glove is in Pipi’s paws.",
+      "emotion": "高兴、动作轻柔。"
+    },
+    {
+      "shot_id": 22,
+      "transition_from": 21,
+      "setting": "玄关藤篮旁",
+      "characters": [
+        "pipi"
+      ],
+      "asset_refs": [
+        "mitten_pair_red_white",
+        "basket_wicker",
+        "pipi_identity"
+      ],
+      "state_before": "Right glove in Pipi’s paws while he brushes off dust; left glove and scarf remain in basket.",
+      "action": "皮皮用一只爪子轻轻掸掉右手套表面的一点细灰，另一只爪托住手套；藤篮仍在地面门边。",
+      "state_after": "The recovered glove is ready to be stored.",
+      "emotion": "专注爱惜手套，轻轻微笑。"
+    },
+    {
+      "shot_id": 23,
+      "transition_from": 22,
+      "setting": "玄关藤篮俯视",
+      "characters": [
+        "pipi"
+      ],
+      "asset_refs": [
+        "mitten_pair_red_white",
+        "basket_wicker",
+        "pipi_identity"
+      ],
+      "state_before": "Right glove is returned to the same basket beside the left glove; scarf remains.",
+      "action": "皮皮把右手套放进同一个藤篮，原有左手套与小围巾仍在；两只红白手套并排但尚未细致摆正。",
+      "state_after": "Both mittens reunite in the basket.",
+      "emotion": "安心、动作稳妥。"
+    },
+    {
+      "shot_id": 24,
+      "transition_from": 23,
+      "setting": "藤篮内近景",
+      "characters": [],
+      "asset_refs": [
+        "mitten_pair_red_white",
+        "basket_wicker"
+      ],
+      "state_before": "Close view of the exact two mittens, one left and one right, thumbs oriented in opposite directions; scarf beside them.",
+      "action": "篮中左手套与右手套并排，红白条纹一致；一只拇指朝左、一只朝右，掌心彼此相挨。",
+      "state_after": "The pair lies flat and close together.",
+      "emotion": "温柔团聚感，不拟人化、不添加表情。"
+    },
+    {
+      "shot_id": 25,
+      "transition_from": 24,
+      "setting": "藤篮内近景",
+      "characters": [],
+      "asset_refs": [
+        "mitten_pair_red_white",
+        "basket_wicker"
+      ],
+      "state_before": "Same pair with palms touching, scarf still in basket.",
+      "action": "同一对红白针织手套的掌心挨着掌心，左右手型清楚相反；镜头稍近，篮中围巾仍在旁边。",
+      "state_after": "The reunion is complete.",
+      "emotion": "安稳、整齐，细节可辨。"
+    },
+    {
+      "shot_id": 26,
+      "transition_from": 25,
+      "setting": "藤篮整体",
+      "characters": [],
+      "asset_refs": [
+        "mitten_pair_red_white",
+        "basket_wicker"
+      ],
+      "state_before": "Exactly two mittens and the same scarf sit tidy in the basket.",
+      "action": "俯视藤篮：左、右手套完整成对地平放在叠好的围巾旁；不增加第三只手套。",
+      "state_after": "Basket is ready to be stored.",
+      "emotion": "整齐、安顿妥当的静物。"
+    },
+    {
+      "shot_id": 27,
+      "transition_from": 26,
+      "setting": "玄关木架旁",
+      "characters": [
+        "pipi"
+      ],
+      "asset_refs": [
+        "mitten_pair_red_white",
+        "basket_wicker",
+        "entry_shelf",
+        "pipi_identity"
+      ],
+      "state_before": "Pipi pushes the basket from the entry floor into the lower shelf; contents stay inside.",
+      "action": "皮皮双爪把藤篮平稳推入门边木架的固定下层，篮子里的成对手套保持朝上可见。",
+      "state_after": "The basket reaches the shelf.",
+      "emotion": "动作轻而稳，略带满意。"
+    },
+    {
+      "shot_id": 28,
+      "transition_from": 27,
+      "setting": "玄关木架前",
+      "characters": [
+        "pipi"
+      ],
+      "asset_refs": [
+        "mitten_pair_red_white",
+        "basket_wicker",
+        "entry_shelf",
+        "pipi_identity"
+      ],
+      "state_before": "Nighttime entryway; basket rests on the lower shelf with two mittens and folded scarf.",
+      "action": "夜晚的皮皮看着已放稳的藤篮，想象明早只需顺手取出手套；画面仍保持夜景，不切换成真实次日。",
+      "state_after": "Pipi feels tomorrow will be easier; no morning transition occurs.",
+      "emotion": "松一口气，神情轻松。"
+    },
+    {
+      "shot_id": 29,
+      "transition_from": 28,
+      "setting": "温暖玄关",
+      "characters": [
+        "pipi"
+      ],
+      "asset_refs": [
+        "mitten_pair_red_white",
+        "basket_wicker",
+        "entry_shelf",
+        "pipi_identity"
+      ],
+      "state_before": "Pipi leaves toward the bedroom; basket remains on entryway shelf.",
+      "action": "皮皮转身离开玄关，藤篮留在木架下层，成对手套没有移动。",
+      "state_after": "The glove search is over.",
+      "emotion": "轻松地迈步回卧室，门未打开。"
+    },
+    {
+      "shot_id": 30,
+      "transition_from": 29,
+      "setting": "卧室门口",
+      "characters": [
+        "pipi"
+      ],
+      "asset_refs": [
+        "carrot_plush",
+        "yellow_blanket",
+        "pipi_identity"
+      ],
+      "state_before": "Bedroom doorway: Pipi returns with empty paws; single carrot plush remains by pillow.",
+      "action": "皮皮从玄关回到自己的卧室，步子放松，深蓝星星睡帽保持不变。",
+      "state_after": "Pipi settles at bedside.",
+      "emotion": "安心、步伐轻快。"
+    },
+    {
+      "shot_id": 31,
+      "transition_from": 30,
+      "setting": "小床侧面",
+      "characters": [
+        "pipi"
+      ],
+      "asset_refs": [
+        "carrot_plush",
+        "yellow_blanket",
+        "pipi_identity"
+      ],
+      "state_before": "Pipi is in bed; both paws rest beneath the yellow blanket; carrot plush stays beside the pillow.",
+      "action": "皮皮在小床上把两只爪子并排放进被窝，黄色被子平整盖住身体；橙色胡萝卜玩偶靠在枕边。",
+      "state_after": "He relaxes into bed.",
+      "emotion": "舒服地松弛下来，眼神柔和。"
+    },
+    {
+      "shot_id": 32,
+      "transition_from": 31,
+      "setting": "卧室小床",
+      "characters": [
+        "pipi"
+      ],
+      "asset_refs": [
+        "carrot_plush",
+        "yellow_blanket",
+        "pipi_identity"
+      ],
+      "state_before": "Pipi hugs the same carrot plush at his chest; one plush total.",
+      "action": "皮皮把橙色胡萝卜玩偶抱在胸前，轻轻闭上眼睛；睡帽、枕头、黄色被子保持一致。",
+      "state_after": "His eyes close for sleep.",
+      "emotion": "平静、满足，不显担心。"
+    },
+    {
+      "shot_id": 33,
+      "transition_from": 32,
+      "setting": "卧室与门廊的连贯空间",
+      "characters": [
+        "pipi"
+      ],
+      "asset_refs": [
+        "basket_wicker",
+        "carrot_plush",
+        "yellow_blanket",
+        "pipi_identity"
+      ],
+      "state_before": "Bedroom only: Pipi sleeps with carrot plush; the entryway basket is not in the bedroom.",
+      "action": "前景皮皮安睡并抱着一只胡萝卜玩偶；背景门边藤篮里可见同一对红白手套。",
+      "state_after": "All things are settled.",
+      "emotion": "安稳温暖，不复制角色或道具。"
+    },
+    {
+      "shot_id": 34,
+      "transition_from": 33,
+      "setting": "卧室夜灯旁",
+      "characters": [
+        "pipi"
+      ],
+      "asset_refs": [
+        "carrot_plush",
+        "yellow_blanket",
+        "pipi_identity"
+      ],
+      "state_before": "Pipi remains asleep in bed with the same carrot toy and yellow blanket.",
+      "action": "皮皮安静地睡在小床上，胡萝卜玩偶靠着胸口，黄色被子平整；一盏小夜灯柔和发亮。",
+      "state_after": "The story’s reassurance continues over the sleeping scene.",
+      "emotion": "安宁、安心的睡颜。"
+    },
+    {
+      "shot_id": 35,
+      "transition_from": 34,
+      "setting": "小床被窝近景",
+      "characters": [
+        "pipi"
+      ],
+      "asset_refs": [
+        "carrot_plush",
+        "yellow_blanket",
+        "pipi_identity"
+      ],
+      "state_before": "Two paws remain tucked into the same blanket; carrot plush remains at chest.",
+      "action": "两只小爪子并排收在黄色被子里，皮皮与胡萝卜玩偶在上方画面中安睡。",
+      "state_after": "The bedtime invitation ends.",
+      "emotion": "柔和、放松，动作完成。"
+    },
+    {
+      "shot_id": 36,
+      "transition_from": 35,
+      "setting": "冬夜窗边",
+      "characters": [
+        "pipi"
+      ],
+      "asset_refs": [
+        "carrot_plush",
+        "yellow_blanket",
+        "pipi_identity"
+      ],
+      "state_before": "Final winter-night bedroom; Pipi and single plush asleep; no object changes.",
+      "action": "卧室暖灯渐暗，窗外安静飘雪，屋内床上皮皮已睡着；保持绘本水彩留白。",
+      "state_after": "Quiet end card image, followed by the planned tail.",
+      "emotion": "静谧结束画面。"
+    }
+  ],
+  "textual_review": "passed: detailed sequential review confirmed school-to-entry transition, afternoon memory, glove loss and discovery, basket contents, scarf retention and movement to the shelf, then separate bedroom with carrot plush. Door stays closed; Rongrong leaves after yard scene.",
+  "image_review": "passed_full_37_shot_contact_sheet_review_after_revisions",
+  "review_evidence": {
+    "contact_sheet": "checks/storyboard_contact.jpg",
+    "reviewed_on": "2026-11-26",
+    "checks": [
+      "no glove appears in the basket until recovered right glove is returned",
+      "exactly one left mitten remains during search; right mitten appears under stool before pickup",
+      "two mitten orientations and scarf retained after reunion",
+      "basket remains on entry shelf after Pipi leaves",
+      "carrot plush and yellow blanket only appear in bedroom",
+      "Pipi open attentive expression during searching/action shots; closed eyes only for breathing or bedtime"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "source": "built-in image_gen",
+  "source_image": "/workspace/generated_images/exec-27dc3959-71ad-4fba-af35-ef9235c30fb6.png",
+  "sha256": "7e54ed0b9115b554bb163c13625aa64cb7ebf4b67d66affadfaf4cc5ae65dad6",
+  "size": [
+    941,
+    1672
+  ],
+  "format": "PNG",
+  "prompt_file": "prompts/shot_01.json",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep042/v001/assets/prop_reference_board.png"
+  ],
+  "final_size": [
+    941,
+    1672
+  ]
+}

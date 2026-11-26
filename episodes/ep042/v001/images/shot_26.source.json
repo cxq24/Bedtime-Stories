@@ -1,0 +1,19 @@
+{
+  "source": "built-in image_gen edit",
+  "source_image": "/workspace/generated_images/exec-ceacf2fa-125c-4673-9110-91e1bdb37227.png",
+  "sha256": "3e77eaeb003b7e8b444714fc5b8608abd1bfc052f92f88e2e92b80ed66d39b6a",
+  "size": [
+    1024,
+    1536
+  ],
+  "format": "PNG",
+  "prompt_file": "prompts/shot_26.json",
+  "references": [
+    "/workspace/Bedtime-Stories/episodes/ep042/v001/assets/prop_reference_board.png"
+  ],
+  "iteration": "restored scarf continuity in basket",
+  "final_size": [
+    1024,
+    1536
+  ]
+}

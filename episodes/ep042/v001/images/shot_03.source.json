@@ -1,0 +1,21 @@
+{
+  "source": "built-in image_gen edit",
+  "source_image": "/workspace/generated_images/exec-b277e207-e6cc-4b0d-943f-ee88e6d057db.png",
+  "sha256": "c4c1a5059c844693bb976d63f9a98eb1715ebc4f4c0117b925659f139cc0b9f1",
+  "size": [
+    940,
+    1672
+  ],
+  "format": "PNG",
+  "prompt_file": "prompts/shot_03.json",
+  "references": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep042/v001/assets/prop_reference_board.png"
+  ],
+  "iteration": "facial expression correction: For the school morning preparation beat, make both eyes clearly open and focused on the red-white mittens as he gets ready. Keep exact outfit, identity, composition and all objects unchanged. Natural attentive expression, not sleepy or sad.",
+  "final_size": [
+    940,
+    1672
+  ]
+}

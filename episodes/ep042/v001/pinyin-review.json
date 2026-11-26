@@ -1,0 +1,397 @@
+{
+  "hanzi": 798,
+  "cues": 136,
+  "pinyin_coverage": 1.0,
+  "context_review": "completed_against_episode_text",
+  "target_font_px": {
+    "hanzi": 76,
+    "pinyin": 48
+  },
+  "libass_fontsize_calibration": {
+    "hanzi": 114,
+    "pinyin": 66,
+    "reason": "match actual rasterized glyph scale to bundled-font 76px/48px reference; libass normalizes font metrics"
+  },
+  "audio_pronunciation_listen_review": "not_certified",
+  "overrides": [
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "小朋友们，准备好听故事了吗？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "不用",
+      "pinyin": [
+        "bú",
+        "yòng"
+      ],
+      "context": "少了一只手套也不用着急，另一只会在哪里找到新伙伴呢？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "冬天的早晨和傍晚冷飕飕的，皮皮出门上学时，总会戴上妈妈给他织的那双毛茸茸的红白条纹小手套。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒绒",
+      "pinyin": [
+        "róng",
+        "róng"
+      ],
+      "context": "今天下午放学的时候，皮皮在院门口和小熊绒绒一起堆了一个小小的雪球。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "今天下午放学的时候，皮皮在院门口和小熊绒绒一起堆了一个小小的雪球。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "今天下午放学的时候，皮皮在院门口和小熊绒绒一起堆了一个小小的雪球。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "因为觉得戴着手套拍雪球不够灵活，皮皮进屋前，就在玄关那儿把手套摘了下来。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "那儿",
+      "pinyin": [
+        "nà",
+        "r"
+      ],
+      "context": "因为觉得戴着手套拍雪球不够灵活，皮皮进屋前，就在玄关那儿把手套摘了下来。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "到了晚上准备睡觉前，皮皮像往常一样去检查明天上学要穿戴的衣物。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "明天",
+      "pinyin": [
+        "míng",
+        "tiān"
+      ],
+      "context": "到了晚上准备睡觉前，皮皮像往常一样去检查明天上学要穿戴的衣物。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "藤编",
+      "pinyin": [
+        "téng",
+        "biān"
+      ],
+      "context": "他把叠好的小围巾放进门边的藤编收纳篮里，可低头一看，咦？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "哪儿",
+      "pinyin": [
+        "nǎ",
+        "r"
+      ],
+      "context": "右手的那只小手套去哪儿了呀？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "要是放在以前，皮皮发现少了一只手套，肯定会急得在屋里团团转，甚至想拿手电筒开门跑到雪地里去找。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "团团",
+      "pinyin": [
+        "tuán",
+        "tuán"
+      ],
+      "context": "要是放在以前，皮皮发现少了一只手套，肯定会急得在屋里团团转，甚至想拿手电筒开门跑到雪地里去找。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "团团转",
+      "pinyin": [
+        "tuán",
+        "tuán",
+        "zhuàn"
+      ],
+      "context": "要是放在以前，皮皮发现少了一只手套，肯定会急得在屋里团团转，甚至想拿手电筒开门跑到雪地里去找。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "但是现在的皮皮遇到小麻烦时，已经学会先让自己冷静下来了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "拖鞋",
+      "pinyin": [
+        "tuō",
+        "xié"
+      ],
+      "context": "“我进门的时候，先坐在矮木凳上换了拖鞋……”皮皮一边小声嘟囔，一边低下头，先往门边那张换鞋的矮木凳下面看去。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "“我进门的时候，先坐在矮木凳上换了拖鞋……”皮皮一边小声嘟囔，一边低下头，先往门边那张换鞋的矮木凳下面看去。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "嘟囔",
+      "pinyin": [
+        "dū",
+        "nang"
+      ],
+      "context": "“我进门的时候，先坐在矮木凳上换了拖鞋……”皮皮一边小声嘟囔，一边低下头，先往门边那张换鞋的矮木凳下面看去。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "矮木凳",
+      "pinyin": [
+        "ǎi",
+        "mù",
+        "dèng"
+      ],
+      "context": "“我进门的时候，先坐在矮木凳上换了拖鞋……”皮皮一边小声嘟囔，一边低下头，先往门边那张换鞋的矮木凳下面看去。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "矮木凳",
+      "pinyin": [
+        "ǎi",
+        "mù",
+        "dèng"
+      ],
+      "context": "“我进门的时候，先坐在矮木凳上换了拖鞋……”皮皮一边小声嘟囔，一边低下头，先往门边那张换鞋的矮木凳下面看去。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "原来右手的那只小手套，当时从膝盖上滑了下来，正安安静静地靠在里面的木凳脚旁边，就像跟皮皮玩捉迷藏，躲进了一个很小很小的阴影角落里。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "原来右手的那只小手套，当时从膝盖上滑了下来，正安安静静地靠在里面的木凳脚旁边，就像跟皮皮玩捉迷藏，躲进了一个很小很小的阴影角落里。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "安安静静",
+      "pinyin": [
+        "ān",
+        "ān",
+        "jìng",
+        "jìng"
+      ],
+      "context": "原来右手的那只小手套，当时从膝盖上滑了下来，正安安静静地靠在里面的木凳脚旁边，就像跟皮皮玩捉迷藏，躲进了一个很小很小的阴影角落里。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮弯下腰，高高兴兴地把那只小手套捡了起来。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "爪子",
+      "pinyin": [
+        "zhuǎ",
+        "zi"
+      ],
+      "context": "他用小爪子轻轻掸掉手套表面沾着的一点点细灰，然后把它放进藤编篮里，让两只红白条纹的小手套平平展展地躺在一起。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "点点",
+      "pinyin": [
+        "diǎn",
+        "diǎn"
+      ],
+      "context": "他用小爪子轻轻掸掉手套表面沾着的一点点细灰，然后把它放进藤编篮里，让两只红白条纹的小手套平平展展地躺在一起。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "藤编",
+      "pinyin": [
+        "téng",
+        "biān"
+      ],
+      "context": "他用小爪子轻轻掸掉手套表面沾着的一点点细灰，然后把它放进藤编篮里，让两只红白条纹的小手套平平展展地躺在一起。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "平平展展",
+      "pinyin": [
+        "píng",
+        "píng",
+        "zhǎn",
+        "zhǎn"
+      ],
+      "context": "他用小爪子轻轻掸掉手套表面沾着的一点点细灰，然后把它放进藤编篮里，让两只红白条纹的小手套平平展展地躺在一起。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "挨着",
+      "pinyin": [
+        "āi",
+        "zhe"
+      ],
+      "context": "一只大拇指朝左，一只大拇指朝右，掌心挨着掌心，就像失散了一小会儿的好兄弟终于团聚了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "一小会儿",
+      "pinyin": [
+        "yì",
+        "xiǎo",
+        "huì",
+        "r"
+      ],
+      "context": "一只大拇指朝左，一只大拇指朝右，掌心挨着掌心，就像失散了一小会儿的好兄弟终于团聚了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮把收纳篮往架子里面推稳。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "不用",
+      "pinyin": [
+        "bú",
+        "yòng"
+      ],
+      "context": "这样一来，明天早上出门上学的时候，就不用慌慌张张地到处找手套了，今天的小寻找已经圆满结束啦。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "明天",
+      "pinyin": [
+        "míng",
+        "tiān"
+      ],
+      "context": "这样一来，明天早上出门上学的时候，就不用慌慌张张地到处找手套了，今天的小寻找已经圆满结束啦。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "爪子",
+      "pinyin": [
+        "zhuǎ",
+        "zi"
+      ],
+      "context": "他迈着轻松的步子回到卧室的小床上，把自己的两只小爪子，也像那双手套一样，成双成对地放进了暖暖和和的被窝里。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "暖暖和和",
+      "pinyin": [
+        "nuǎn",
+        "nuǎn",
+        "huo",
+        "huo"
+      ],
+      "context": "他迈着轻松的步子回到卧室的小床上，把自己的两只小爪子，也像那双手套一样，成双成对地放进了暖暖和和的被窝里。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "胡萝卜",
+      "pinyin": [
+        "hú",
+        "luó",
+        "bo"
+      ],
+      "context": "胡萝卜玩偶靠着胸口，皮皮轻轻闭上眼睛。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "胡萝卜玩偶靠着胸口，皮皮轻轻闭上眼睛。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "伴儿",
+      "pinyin": [
+        "bàn",
+        "r"
+      ],
+      "context": "屋里所有小小的伙伴，都找到自己的伴儿，安顿好了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "小朋友，白天要是有小小的一点遗漏，只要不着急、慢慢找，总能整理好的。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "舒服",
+      "pinyin": [
+        "shū",
+        "fu"
+      ],
+      "context": "现在，把你的两只小手也放进温暖的被窝里，舒服地休息吧。",
+      "review": "context_checked_not_audio_listen_certification"
+    }
+  ]
+}
