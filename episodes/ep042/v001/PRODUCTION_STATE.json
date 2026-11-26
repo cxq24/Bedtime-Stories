@@ -15,5 +15,8 @@
   "human_full_listen_watch": "not_certified",
   "user_acceptance": "pending",
   "publication": "not_published",
-  "github_sync": "pending"
+  "github_sync": "synced_to_main",
+  "github_sync_date": "2026-11-26",
+  "github_sync_commit": "a1781f816ee8beb874ff37cefa371d158aa7dce2",
+  "github_sync_scope": "complete_ep042_v001_project_and_delivery_including_both_videos"
 }
