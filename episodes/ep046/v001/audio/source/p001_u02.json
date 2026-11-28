@@ -1,0 +1,59 @@
+{
+  "text": "森林里飘着零星的小雪花，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "3d53c4b994064561fe52e923ab74ca2bb8b8b6a43a8b9a81a4e768306d4649fb",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 7500000,
+      "text": "森林"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8769160,
+      "duration": 4230830,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13384580,
+      "duration": 3461660,
+      "text": "飘"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16846250,
+      "duration": 1538330,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18769160,
+      "duration": 5577080,
+      "text": "零星"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24346250,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25692500,
+      "duration": 3076660,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28769160,
+      "duration": 8077080,
+      "text": "雪花"
+    }
+  ]
+}

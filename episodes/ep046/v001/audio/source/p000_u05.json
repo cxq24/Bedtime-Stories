@@ -1,0 +1,77 @@
+{
+  "text": "怎样让两个人都留有足够的温暖呢？",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "0e3bf693dfbaa40fe468b99d2355f1060511d354ecb6dc55657e96be28b2ad3a",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5769160,
+      "text": "怎样"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7230830,
+      "duration": 2307500,
+      "text": "让"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9730830,
+      "duration": 3076660,
+      "text": "两"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12807500,
+      "duration": 1538330,
+      "text": "个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14346250,
+      "duration": 4807500,
+      "text": "人"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20692500,
+      "duration": 2307500,
+      "text": "都"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23000000,
+      "duration": 4038330,
+      "text": "留有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27422910,
+      "duration": 5769160,
+      "text": "足够"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33192500,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34730830,
+      "duration": 6538330,
+      "text": "温暖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41269160,
+      "duration": 3653750,
+      "text": "呢"
+    }
+  ]
+}

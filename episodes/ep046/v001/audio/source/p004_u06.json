@@ -1,0 +1,35 @@
+{
+  "text": "摸起来软软的，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "a6937416524f180305a97d0edf80c51d4633caa7e59da96922782749cf1b0131",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2692500,
+      "text": "摸"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3961660,
+      "duration": 4230830,
+      "text": "起来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8577080,
+      "duration": 7115410,
+      "text": "软软"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15692500,
+      "duration": 3269160,
+      "text": "的"
+    }
+  ]
+}

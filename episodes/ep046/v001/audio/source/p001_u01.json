@@ -1,0 +1,23 @@
+{
+  "text": "昨天下午，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "40a858018b0ee2504f4be3c3228b27ac2f771d1c4cbc28126201e63f393ab10d",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5577080,
+      "text": "昨天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 8653750,
+      "text": "下午"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image_tool": "built_in image_gen",
+  "shot_id": 11,
+  "image": "images/shot_11.png",
+  "prompt": "Single static vertical 9:16 watercolor storybook illustration, gentle Chinese bedtime picture-book style, hand-painted watercolor washes and soft paper grain, clean readable composition, one coherent scene only. No collage, split screen, panels, words, letters, captions, watermark or border. Keep important faces/objects in upper two thirds and leave lower quarter quiet for subtitles. Pipi must match the official warm-gray rabbit identity, round face, pink nose and naturally drooping ears; choose the precise facial expression, gaze and pose described for this moment. Use the same beige shirt, blue-gray short overalls and blue shoes as the daytime wardrobe reference. Rongrong must match the official friendly young brown-bear identity, broad rounded build, cream muzzle, round ears and small dark nose; wear the muted forest-green vest in porch scenes, warm shy expression, never aggressive. Only include props explicitly named in this shot description. Do not add a backpack, carrot plush, dish, basket, leaf, extra blanket, toys or food unless the action below explicitly includes that item. Keep the cream flannel blanket plain, solid ivory, and visually identical across its scenes. 皮皮双手把同一条折叠的米白绒毯展开，在长椅上轻轻抖开；动作轻柔，毯面展开而没有飞起，绒绒在旁看着。 References guide identity, location or only the particular prop whose crop was loaded. Do not copy a reference composition verbatim.",
+  "references_loaded": [
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/pipi_day_wardrobe.png",
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/rongrong_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/porch_scene_ref.png",
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/prop_blanket_folded.png"
+  ],
+  "output_source": "/workspace/generated_images/exec-4096b879-e52f-4f3d-914e-d29e68d2b7ea.png",
+  "size_px": [
+    941,
+    1672
+  ],
+  "review_status": "passed_full_contact_sheet_and_continuity_review"
+}

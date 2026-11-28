@@ -1,0 +1,47 @@
+{
+  "text": "一条绒毯分给朋友以后，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "6ffcd90c7e206828fa9fc9c2f75ff2c8c5cd98a84896f50ab299dd60f0a11ae0",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5000000,
+      "text": "一条"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6461660,
+      "duration": 7692500,
+      "text": "绒毯"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14538330,
+      "duration": 2500000,
+      "text": "分"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17038330,
+      "duration": 1730830,
+      "text": "给"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18961660,
+      "duration": 4807500,
+      "text": "朋友"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23961660,
+      "duration": 7307500,
+      "text": "以后"
+    }
+  ]
+}

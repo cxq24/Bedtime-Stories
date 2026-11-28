@@ -1,0 +1,35 @@
+{
+  "text": "轻轻抖了抖。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "4480b03a0b18951ff8f32d6f064642832a36c02760bcd17300481227ae0db80b",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6922910,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8384580,
+      "duration": 2692500,
+      "text": "抖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11077080,
+      "duration": 1730410,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12807500,
+      "duration": 5192500,
+      "text": "抖"
+    }
+  ]
+}

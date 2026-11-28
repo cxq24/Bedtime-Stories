@@ -1,0 +1,12 @@
+{
+  "shot_id": 9,
+  "title": "冬青叶小礼物",
+  "prompt": "Single static vertical 9:16 watercolor storybook illustration, gentle Chinese bedtime picture-book style, hand-painted watercolor washes and soft paper grain, clean readable composition, one coherent scene only. No collage, split screen, panels, words, letters, captions, watermark or border. Keep important faces/objects in upper two thirds and leave lower quarter quiet for subtitles. Rongrong must match the official friendly young brown-bear identity, broad rounded build, cream muzzle, round ears and small dark nose; wear the muted forest-green vest in porch scenes, warm shy expression, never aggressive. Only include props explicitly named in this shot description. Do not add a backpack, carrot plush, dish, basket, leaf, extra blanket, toys or food unless the action below explicitly includes that item. Keep the cream flannel blanket plain, solid ivory, and visually identical across its scenes. 同一条整齐叠放的米白绒毯最上方放着一片干净、鲜亮的绿色冬青叶；绒绒的小熊爪托着毯子，叶片清楚可辨，无额外装饰。 References guide identity, location or only the particular prop whose crop was loaded. Do not copy a reference composition verbatim.",
+  "references_loaded": [
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/rongrong_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/porch_scene_ref.png",
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/prop_blanket_folded.png",
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/prop_holly_leaf.png"
+  ],
+  "output_source": "/workspace/generated_images/exec-bd61e94a-9d2c-4520-94e2-70dc43a6f961.png"
+}

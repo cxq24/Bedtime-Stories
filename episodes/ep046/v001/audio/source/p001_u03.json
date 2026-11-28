@@ -1,0 +1,53 @@
+{
+  "text": "小熊绒绒来皮皮家做客。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "baa8364248ac3bf302690c37a005452099de9bf5644c26c366ee372742f68da9",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4038330,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5307500,
+      "duration": 5769160,
+      "text": "熊绒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11077080,
+      "duration": 4807500,
+      "text": "绒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17422910,
+      "duration": 2307500,
+      "text": "来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19922910,
+      "duration": 4807500,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24730830,
+      "duration": 2500000,
+      "text": "家"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27422910,
+      "duration": 7884580,
+      "text": "做客"
+    }
+  ]
+}

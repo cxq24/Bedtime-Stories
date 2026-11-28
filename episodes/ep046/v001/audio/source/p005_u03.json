@@ -1,0 +1,41 @@
+{
+  "text": "绒绒回自己家里，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "faf1afbae5f46f66be834ed317a740395501bb3ddad4193f57a8963f5f3ab7b9",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3653750,
+      "text": "绒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4922910,
+      "duration": 2500000,
+      "text": "绒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7807500,
+      "duration": 2307500,
+      "text": "回"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10307500,
+      "duration": 5192500,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15692500,
+      "duration": 7884580,
+      "text": "家里"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "text": "四个边角叠得方方正正的；",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "6a44445346275dc4a618c9ab41b2f6840ac0ea20f3374da3bbc9a698c6af1f08",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3846250,
+      "text": "四"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5115410,
+      "duration": 1346250,
+      "text": "个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6653750,
+      "duration": 8461660,
+      "text": "边角"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16653750,
+      "duration": 2692500,
+      "text": "叠"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19346250,
+      "duration": 1538330,
+      "text": "得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21269160,
+      "duration": 12115410,
+      "text": "方方正正"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33384580,
+      "duration": 2884580,
+      "text": "的"
+    }
+  ]
+}

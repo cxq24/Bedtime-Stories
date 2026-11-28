@@ -1,0 +1,22 @@
+{
+  "episode": "ep046",
+  "shot_id": 7,
+  "continuity_asset_ids": [
+    "LOC_PORCH_01",
+    "CHAR_PIPI_01",
+    "CHAR_RONGRONG_01",
+    "PROP_FLANNEL_BLANKET_01"
+  ],
+  "referenced_image_paths": [
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/pipi_day_wardrobe.png",
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/rongrong_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/porch_scene_ref.png",
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/prop_blanket_folded.png"
+  ],
+  "characters": [
+    "pipi",
+    "rongrong"
+  ],
+  "image_source_manifest": "images/shot_07.source.json"
+}

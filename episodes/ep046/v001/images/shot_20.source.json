@@ -1,0 +1,19 @@
+{
+  "image_tool": "built_in image_gen",
+  "shot_id": 20,
+  "image": "images/shot_20.png",
+  "prompt": "Single static vertical 9:16 watercolor storybook illustration, gentle Chinese bedtime picture-book style, hand-painted watercolor washes and soft paper grain, clean readable composition, one coherent scene only. No collage, split screen, panels, words, letters, captions, watermark or border. Keep important faces/objects in upper two thirds and leave lower quarter quiet for subtitles. Pipi must match the official warm-gray rabbit identity, round face, pink nose and naturally drooping ears; choose the precise facial expression, gaze and pose described for this moment. Use the same pale sleepwear and navy star night cap as the sleepwear reference. Only include props explicitly named in this shot description. Do not add a backpack, carrot plush, dish, basket, leaf, extra blanket, toys or food unless the action below explicitly includes that item. Keep the cream flannel blanket plain, solid ivory, and visually identical across its scenes. 只出现皮皮一位角色；绒绒已经离开并在自己的家里，不能出现在画面。皮皮独自在温暖卧室的床边满足地看向床尾藤篮，篮中可见叠好的米白绒毯。皮皮穿浅色睡衣和深蓝星星睡帽，表情安定。 References guide identity, location or only the particular prop whose crop was loaded. Do not copy a reference composition verbatim.",
+  "references_loaded": [
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/pipi_sleep_wardrobe.png",
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/bedroom_scene_ref.png",
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/prop_blanket_folded.png",
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/prop_wicker_basket.png"
+  ],
+  "output_source": "/workspace/generated_images/exec-91373dde-adca-4a97-ad01-6bf01ad99e8b.png",
+  "size_px": [
+    941,
+    1672
+  ],
+  "review_status": "passed_full_contact_sheet_and_continuity_review"
+}

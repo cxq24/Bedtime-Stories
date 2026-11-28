@@ -1,0 +1,726 @@
+{
+  "hanzi": 710,
+  "cues": 124,
+  "pinyin_coverage": 1.0,
+  "context_review": "completed_against_episode_text",
+  "target_font_px": {
+    "hanzi": 76,
+    "pinyin": 48
+  },
+  "libass_fontsize_calibration": {
+    "hanzi": 114,
+    "pinyin": 66,
+    "reason": "match actual rasterized glyph scale to bundled-font 76px/48px reference; libass normalizes font metrics"
+  },
+  "audio_pronunciation_listen_review": "not_certified",
+  "overrides": [
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "小朋友们，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒毯",
+      "pinyin": [
+        "róng",
+        "tǎn"
+      ],
+      "context": "今天的故事叫《小熊借来的绒毯》。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "一条绒毯分给朋友以后，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒毯",
+      "pinyin": [
+        "róng",
+        "tǎn"
+      ],
+      "context": "一条绒毯分给朋友以后，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "怎样让两个人都留有足够的温暖呢？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "零星",
+      "pinyin": [
+        "líng",
+        "xīng"
+      ],
+      "context": "森林里飘着零星的小雪花，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒绒",
+      "pinyin": [
+        "róng",
+        "róng"
+      ],
+      "context": "小熊绒绒来皮皮家做客。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "小熊绒绒来皮皮家做客。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒绒来",
+      "pinyin": [
+        "róng",
+        "róng",
+        "lái"
+      ],
+      "context": "小熊绒绒来皮皮家做客。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮从屋里拿出了一条厚厚的米白色法兰绒毯，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "法兰绒",
+      "pinyin": [
+        "fǎ",
+        "lán",
+        "róng"
+      ],
+      "context": "皮皮从屋里拿出了一条厚厚的米白色法兰绒毯，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒毯",
+      "pinyin": [
+        "róng",
+        "tǎn"
+      ],
+      "context": "皮皮从屋里拿出了一条厚厚的米白色法兰绒毯，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "铺在",
+      "pinyin": [
+        "pū",
+        "zài"
+      ],
+      "context": "铺在宽宽的木头长椅上，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "长椅",
+      "pinyin": [
+        "cháng",
+        "yǐ"
+      ],
+      "context": "铺在宽宽的木头长椅上，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒绒",
+      "pinyin": [
+        "róng",
+        "róng"
+      ],
+      "context": "和绒绒一人盖一半。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒绒",
+      "pinyin": [
+        "róng",
+        "róng"
+      ],
+      "context": "皮皮担心绒绒回家的路上冷，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮担心绒绒回家的路上冷，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒绒回",
+      "pinyin": [
+        "róng",
+        "róng",
+        "huí"
+      ],
+      "context": "皮皮担心绒绒回家的路上冷，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒绒",
+      "pinyin": [
+        "róng",
+        "róng"
+      ],
+      "context": "就把这条米白色的绒毯借给了绒绒，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒毯",
+      "pinyin": [
+        "róng",
+        "tǎn"
+      ],
+      "context": "就把这条米白色的绒毯借给了绒绒，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒绒",
+      "pinyin": [
+        "róng",
+        "róng"
+      ],
+      "context": "小熊绒绒准时来到了皮皮家门前。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "小熊绒绒准时来到了皮皮家门前。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒毯",
+      "pinyin": [
+        "róng",
+        "tǎn"
+      ],
+      "context": "他双手捧着那条米白绒毯，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "烘干",
+      "pinyin": [
+        "hōng",
+        "gān"
+      ],
+      "context": "已经由熊妈妈帮着洗净烘干，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "四个边角叠得方方正正的；",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "方方正正",
+      "pinyin": [
+        "fāng",
+        "fāng",
+        "zhèng",
+        "zhèng"
+      ],
+      "context": "四个边角叠得方方正正的；",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒绒",
+      "pinyin": [
+        "róng",
+        "róng"
+      ],
+      "context": "绒绒还在绒毯最上面，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒毯",
+      "pinyin": [
+        "róng",
+        "tǎn"
+      ],
+      "context": "绒绒还在绒毯最上面，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒毯最上面",
+      "pinyin": [
+        "róng",
+        "tǎn",
+        "zuì",
+        "shàng",
+        "miàn"
+      ],
+      "context": "绒绒还在绒毯最上面，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "冬青",
+      "pinyin": [
+        "dōng",
+        "qīng"
+      ],
+      "context": "放了一片干净的绿色冬青叶当作感谢的小礼物。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "冬青叶",
+      "pinyin": [
+        "dōng",
+        "qīng",
+        "yè"
+      ],
+      "context": "放了一片干净的绿色冬青叶当作感谢的小礼物。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮开心地接过绒毯，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒毯",
+      "pinyin": [
+        "róng",
+        "tǎn"
+      ],
+      "context": "皮皮开心地接过绒毯，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "冬青",
+      "pinyin": [
+        "dōng",
+        "qīng"
+      ],
+      "context": "先拿下那片绿油油的冬青叶放进小碟子里，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "冬青叶",
+      "pinyin": [
+        "dōng",
+        "qīng",
+        "yè"
+      ],
+      "context": "先拿下那片绿油油的冬青叶放进小碟子里，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "小碟子",
+      "pinyin": [
+        "xiǎo",
+        "dié",
+        "zi"
+      ],
+      "context": "先拿下那片绿油油的冬青叶放进小碟子里，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒毯",
+      "pinyin": [
+        "róng",
+        "tǎn"
+      ],
+      "context": "经过阳光和烘干的绒毯，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "烘干",
+      "pinyin": [
+        "hōng",
+        "gān"
+      ],
+      "context": "经过阳光和烘干的绒毯，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "蓬松",
+      "pinyin": [
+        "péng",
+        "sōng"
+      ],
+      "context": "一下子变得蓬松极了，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "散发",
+      "pinyin": [
+        "sàn",
+        "fā"
+      ],
+      "context": "散发着一股好闻的皂角清香。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皂角",
+      "pinyin": [
+        "zào",
+        "jiǎo"
+      ],
+      "context": "散发着一股好闻的皂角清香。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒绒",
+      "pinyin": [
+        "róng",
+        "róng"
+      ],
+      "context": "小熊绒绒伸出厚厚的大爪子，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "爪子",
+      "pinyin": [
+        "zhuǎ",
+        "zi"
+      ],
+      "context": "小熊绒绒伸出厚厚的大爪子，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒绒伸出",
+      "pinyin": [
+        "róng",
+        "róng",
+        "shēn",
+        "chū"
+      ],
+      "context": "小熊绒绒伸出厚厚的大爪子，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "憨厚",
+      "pinyin": [
+        "hān",
+        "hòu"
+      ],
+      "context": "憨厚地笑着说：",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "“皮皮，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "并排",
+      "pinyin": [
+        "bìng",
+        "pái"
+      ],
+      "context": "和昨天我们并排坐着看雪的时候一样舒服。”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "舒服",
+      "pinyin": [
+        "shū",
+        "fu"
+      ],
+      "context": "和昨天我们并排坐着看雪的时候一样舒服。”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮把绒毯重新平平整整地折好，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒毯",
+      "pinyin": [
+        "róng",
+        "tǎn"
+      ],
+      "context": "皮皮把绒毯重新平平整整地折好，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "藤编篮子",
+      "pinyin": [
+        "téng",
+        "biān",
+        "lán",
+        "zi"
+      ],
+      "context": "放进卧室床尾的藤编篮子里，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "藤编",
+      "pinyin": [
+        "téng",
+        "biān"
+      ],
+      "context": "放进卧室床尾的藤编篮子里，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "床尾",
+      "pinyin": [
+        "chuáng",
+        "wěi"
+      ],
+      "context": "放进卧室床尾的藤编篮子里，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒绒",
+      "pinyin": [
+        "róng",
+        "róng"
+      ],
+      "context": "对绒绒说：",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒绒说",
+      "pinyin": [
+        "róng",
+        "róng",
+        "shuō"
+      ],
+      "context": "对绒绒说：",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "“我就把它放在这个篮子里，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒绒",
+      "pinyin": [
+        "róng",
+        "róng"
+      ],
+      "context": "送走绒绒后，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "木屋",
+      "pinyin": [
+        "mù",
+        "wū"
+      ],
+      "context": "小木屋安静了下来。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒绒",
+      "pinyin": [
+        "róng",
+        "róng"
+      ],
+      "context": "绒绒回自己家里，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒绒回",
+      "pinyin": [
+        "róng",
+        "róng",
+        "huí"
+      ],
+      "context": "绒绒回自己家里，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "棉被",
+      "pinyin": [
+        "mián",
+        "bèi"
+      ],
+      "context": "去盖他那床厚实的大熊棉被了；",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "而皮皮也回到了自己的床边。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "两位好朋友都在各自的家里，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮爬上床，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "毛毯",
+      "pinyin": [
+        "máo",
+        "tǎn"
+      ],
+      "context": "拉好自己平时盖的暖黄色毛毯，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "胡萝卜",
+      "pinyin": [
+        "hú",
+        "luó",
+        "bo"
+      ],
+      "context": "把胡萝卜玩偶抱近胸口。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "抱近",
+      "pinyin": [
+        "bào",
+        "jìn"
+      ],
+      "context": "把胡萝卜玩偶抱近胸口。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "铺在",
+      "pinyin": [
+        "pū",
+        "zài"
+      ],
+      "context": "他没有再把那条米白绒毯拿出来重新铺在门廊上，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "绒毯",
+      "pinyin": [
+        "róng",
+        "tǎn"
+      ],
+      "context": "他没有再把那条米白绒毯拿出来重新铺在门廊上，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "因为昨天和好朋友肩并着肩坐在一起看雪的那一小段安静又温暖的时光，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "冬青",
+      "pinyin": [
+        "dōng",
+        "qīng"
+      ],
+      "context": "已经像那片冬青叶一样，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "冬青叶",
+      "pinyin": [
+        "dōng",
+        "qīng",
+        "yè"
+      ],
+      "context": "已经像那片冬青叶一样，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮闭上眼睛，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "呼吸",
+      "pinyin": [
+        "hū",
+        "xī"
+      ],
+      "context": "呼吸均匀而绵长。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "小朋友，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "和好朋友分享过的快乐时光，",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "安心睡个好觉吧。",
+      "review": "context_checked_not_audio_listen_certification"
+    }
+  ]
+}

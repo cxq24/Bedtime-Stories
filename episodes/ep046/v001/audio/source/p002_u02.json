@@ -1,0 +1,53 @@
+{
+  "text": "皮皮担心绒绒回家的路上冷，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "467cada3dd08d7b5b562e6e97e40e035515cfa08404768fc3cb619da534eeed0",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5000000,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6461660,
+      "duration": 6538330,
+      "text": "担心"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13384580,
+      "duration": 5192500,
+      "text": "绒绒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18577080,
+      "duration": 6153750,
+      "text": "回家"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24730830,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26461660,
+      "duration": 2115410,
+      "text": "路"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28577080,
+      "duration": 7884580,
+      "text": "上冷"
+    }
+  ]
+}

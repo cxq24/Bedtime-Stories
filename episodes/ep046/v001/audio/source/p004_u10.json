@@ -1,0 +1,29 @@
+{
+  "text": "对绒绒说：",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "30c24799e328a719bad3611f3de114782f5c226149e1fd4835653a514d3bccd4",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2500000,
+      "text": "对"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3961660,
+      "duration": 5384580,
+      "text": "绒绒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9346250,
+      "duration": 5577080,
+      "text": "说"
+    }
+  ]
+}

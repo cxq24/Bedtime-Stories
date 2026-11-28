@@ -1,0 +1,17 @@
+{
+  "text": "今晚，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "eff7f0adbaeedef4c5bd8f98edc1694832bfcdd236e51b74df1f2b56c81a8c31",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 8846250,
+      "text": "今晚"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "episode": "ep046",
+  "shot_id": 0,
+  "continuity_asset_ids": [
+    "LOC_OPENING_01",
+    "PROP_BENCH_01",
+    "PROP_FLANNEL_BLANKET_01"
+  ],
+  "referenced_image_paths": [
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/porch_scene_ref.png"
+  ],
+  "characters": [],
+  "image_source_manifest": "images/shot_00.source.json"
+}

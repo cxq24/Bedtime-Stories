@@ -1,0 +1,53 @@
+{
+  "text": "让他披在身上挡风雪。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "993eb3191f682a80eeb3cc0c91550032ba0d13a42055ef517dc0d031307f2d13",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2884580,
+      "text": "让"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4153750,
+      "duration": 1922910,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6269160,
+      "duration": 3077080,
+      "text": "披"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9346250,
+      "duration": 2307500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11846250,
+      "duration": 6153750,
+      "text": "身上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18384580,
+      "duration": 3269160,
+      "text": "挡"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21653750,
+      "duration": 8846250,
+      "text": "风雪"
+    }
+  ]
+}

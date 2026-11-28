@@ -1,0 +1,20 @@
+{
+  "episode": "ep046",
+  "version": "v001",
+  "title": "小熊借来的绒毯",
+  "script_version": "v5",
+  "status": "technical_passed_human_watch_pending",
+  "duration_s": 266.48,
+  "shots": 28,
+  "hanzi": 710,
+  "subtitle_cues": 124,
+  "technical_checks": "passed",
+  "continuity_preflight": "passed_two_textual_passes",
+  "continuity_image_review": "passed_full_28_shot_contact_sheet",
+  "phone_subtitle_review": "passed_10_samples_at_360px",
+  "cover_phone_review": "passed",
+  "human_full_watch": "not_certified",
+  "user_acceptance": "pending",
+  "publication": "not_published",
+  "delivery_directory": "Outputs/2026-11-28/ep046-v001"
+}

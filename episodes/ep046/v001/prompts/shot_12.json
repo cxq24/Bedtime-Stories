@@ -1,0 +1,10 @@
+{
+  "shot_id": 12,
+  "title": "阳光烘出的柔软",
+  "prompt": "Single static vertical 9:16 watercolor storybook illustration, gentle Chinese bedtime picture-book style, hand-painted watercolor washes and soft paper grain, clean readable composition, one coherent scene only. No collage, split screen, panels, words, letters, captions, watermark or border. Keep important faces/objects in upper two thirds and leave lower quarter quiet for subtitles. Only include props explicitly named in this shot description. Do not add a backpack, carrot plush, dish, basket, leaf, extra blanket, toys or food unless the action below explicitly includes that item. Keep the cream flannel blanket plain, solid ivory, and visually identical across its scenes. 米白绒毯在阳光与烘干后显得松软蓬松，柔细绒面带有轻柔的金色暖光；背景虚化为同一门廊木板，无人物或字。 References guide identity, location or only the particular prop whose crop was loaded. Do not copy a reference composition verbatim.",
+  "references_loaded": [
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/porch_scene_ref.png",
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/prop_blanket_folded.png"
+  ],
+  "output_source": "/workspace/generated_images/exec-a866d830-32f2-4bef-8aaa-98d0f21613fd.png"
+}

@@ -1,0 +1,35 @@
+{
+  "text": "小木屋安静了下来。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "ab3313c336d45918f0f5cb06181274972ba46177f5e82d31e6f8bcc1756976b1",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 8653750,
+      "text": "小木屋"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10307500,
+      "duration": 5769160,
+      "text": "安静"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16077080,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17422910,
+      "duration": 6922910,
+      "text": "下来"
+    }
+  ]
+}

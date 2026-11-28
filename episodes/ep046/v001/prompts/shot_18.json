@@ -1,0 +1,9 @@
+{
+  "shot_id": 18,
+  "title": "绒绒回家盖棉被",
+  "prompt": "Single static vertical 9:16 watercolor storybook illustration, gentle Chinese bedtime picture-book style, hand-painted watercolor washes and soft paper grain, clean readable composition, one coherent scene only. No collage, split screen, panels, words, letters, captions, watermark or border. Keep important faces/objects in upper two thirds and leave lower quarter quiet for subtitles. Rongrong must match the official friendly young brown-bear identity, broad rounded build, cream muzzle, round ears and small dark nose; wear the muted forest-green vest in porch scenes, warm shy expression, never aggressive. Only include props explicitly named in this shot description. Do not add a backpack, carrot plush, dish, basket, leaf, extra blanket, toys or food unless the action below explicitly includes that item. Keep the cream flannel blanket plain, solid ivory, and visually identical across its scenes. 绒绒回到自己的熊屋，安稳坐在床上拉起厚实深棕色大熊棉被；他的卧室是温暖木质空间，与皮皮家明显不同，绒绒面容放松。 References guide identity, location or only the particular prop whose crop was loaded. Do not copy a reference composition verbatim.",
+  "references_loaded": [
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/rongrong_identity_v001.png"
+  ],
+  "output_source": "/workspace/generated_images/exec-087f46ef-1461-4410-97f1-7540910485dd.png"
+}

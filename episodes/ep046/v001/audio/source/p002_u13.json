@@ -1,0 +1,83 @@
+{
+  "text": "放了一片干净的绿色冬青叶当作感谢的小礼物。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "b651c74b0abdcf1e2fd0766d2203db75c6eee61854dc2be5ec00c7b1b0a77a5a",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3653750,
+      "text": "放"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4922910,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6269160,
+      "duration": 6922910,
+      "text": "一片"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13577080,
+      "duration": 5384580,
+      "text": "干净"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18961660,
+      "duration": 1922910,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21269160,
+      "duration": 5384580,
+      "text": "绿色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26846250,
+      "duration": 10192500,
+      "text": "冬青叶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38769160,
+      "duration": 5384580,
+      "text": "当作"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44538330,
+      "duration": 5961660,
+      "text": "感谢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50500000,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51846250,
+      "duration": 3461250,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55307500,
+      "duration": 7115410,
+      "text": "礼物"
+    }
+  ]
+}

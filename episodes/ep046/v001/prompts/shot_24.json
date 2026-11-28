@@ -1,0 +1,13 @@
+{
+  "shot_id": 24,
+  "title": "温暖留在心里",
+  "prompt": "Single static vertical 9:16 watercolor storybook illustration, gentle Chinese bedtime picture-book style, hand-painted watercolor washes and soft paper grain, clean readable composition, one coherent scene only. No collage, split screen, panels, words, letters, captions, watermark or border. Keep important faces/objects in upper two thirds and leave lower quarter quiet for subtitles. Pipi must match the official warm-gray rabbit identity, round face, pink nose and naturally drooping ears; choose the precise facial expression, gaze and pose described for this moment. Use the same pale sleepwear and navy star night cap as the sleepwear reference. Only include props explicitly named in this shot description. Do not add a backpack, carrot plush, dish, basket, leaf, extra blanket, toys or food unless the action below explicitly includes that item. Keep the cream flannel blanket plain, solid ivory, and visually identical across its scenes. 回到当前卧室，皮皮将一只爪轻轻放在胸口，脸上浮现安心的小小微笑；胡萝卜玩偶贴在胸前，暖黄被子盖好，床尾藤篮远处安静可见。 References guide identity, location or only the particular prop whose crop was loaded. Do not copy a reference composition verbatim.",
+  "references_loaded": [
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/pipi_sleep_wardrobe.png",
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/bedroom_scene_ref.png",
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/prop_wicker_basket.png",
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/prop_carrot_plush.png"
+  ],
+  "output_source": "/workspace/generated_images/exec-a3ab467a-49c4-438c-8a12-3caf07bd6dde.png"
+}

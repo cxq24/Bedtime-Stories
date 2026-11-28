@@ -1,0 +1,59 @@
+{
+  "text": "“我就把它放在这个篮子里，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "2404c48563001467618b2b749a12f2b07768e88f8c0bd88197fa40dfd64d9887",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2115410,
+      "text": "我"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3384580,
+      "duration": 2115410,
+      "text": "就"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5692500,
+      "duration": 2115000,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7807500,
+      "duration": 2115410,
+      "text": "它"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10115410,
+      "duration": 5577080,
+      "text": "放在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16077080,
+      "duration": 3461660,
+      "text": "这个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19730830,
+      "duration": 6730830,
+      "text": "篮子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26461660,
+      "duration": 3461660,
+      "text": "里"
+    }
+  ]
+}

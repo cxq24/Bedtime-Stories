@@ -1,0 +1,29 @@
+{
+  "text": "皮皮爬上床，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "a6a34b3e098b5bd450c44e04bcd89fb2166be5073e3d8f3440a151bfbead53e1",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5769160,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7422910,
+      "duration": 5961660,
+      "text": "爬上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13384580,
+      "duration": 5961660,
+      "text": "床"
+    }
+  ]
+}

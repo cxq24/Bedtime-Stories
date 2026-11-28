@@ -1,0 +1,47 @@
+{
+  "text": "和好朋友分享过的快乐时光，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "f6e248a56c013805879985ae8c195dadaae7640ace81c1397810bfb04136ad5f",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6153750,
+      "text": "和好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7615410,
+      "duration": 6922910,
+      "text": "朋友"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14922910,
+      "duration": 6346250,
+      "text": "分享"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21269160,
+      "duration": 1730830,
+      "text": "过"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23000000,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24730830,
+      "duration": 12884580,
+      "text": "快乐时光"
+    }
+  ]
+}

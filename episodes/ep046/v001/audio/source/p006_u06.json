@@ -1,0 +1,23 @@
+{
+  "text": "皮皮闭上眼睛，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "ef27b087c2d62eac3512b227f7df01a631965755d4c0ee4417c4b8c4003fc764",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6153750,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7807500,
+      "duration": 14038330,
+      "text": "闭上眼睛"
+    }
+  ]
+}

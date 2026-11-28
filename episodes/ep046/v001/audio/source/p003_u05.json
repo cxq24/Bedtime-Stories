@@ -1,0 +1,47 @@
+{
+  "text": "经过阳光和烘干的绒毯，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "3af493ad732db56ffbc97477efdcedbd11d71601c8a6a089feeda31ff6023eee",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4615410,
+      "text": "经过"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6077080,
+      "duration": 6730830,
+      "text": "阳光"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13192500,
+      "duration": 1730830,
+      "text": "和"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15115410,
+      "duration": 5577080,
+      "text": "烘干"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20692500,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22230830,
+      "duration": 8077080,
+      "text": "绒毯"
+    }
+  ]
+}

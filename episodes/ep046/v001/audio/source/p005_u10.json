@@ -1,0 +1,65 @@
+{
+  "text": "拉好自己平时盖的暖黄色毛毯，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "9aba03386cdf3fa9c94291766aed3f63e98f75e2caae44db6f46b646c74c1a30",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3077080,
+      "text": "拉"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4346250,
+      "duration": 3269160,
+      "text": "好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7807500,
+      "duration": 5384580,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13384580,
+      "duration": 6346250,
+      "text": "平时"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19730830,
+      "duration": 2692080,
+      "text": "盖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22422910,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24153750,
+      "duration": 3077080,
+      "text": "暖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27230830,
+      "duration": 5961660,
+      "text": "黄色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33384580,
+      "duration": 8269160,
+      "text": "毛毯"
+    }
+  ]
+}

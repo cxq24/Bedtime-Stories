@@ -1,0 +1,13 @@
+{
+  "shot_id": 14,
+  "title": "和昨天一样暖和",
+  "prompt": "Single static vertical 9:16 watercolor storybook illustration, gentle Chinese bedtime picture-book style, hand-painted watercolor washes and soft paper grain, clean readable composition, one coherent scene only. No collage, split screen, panels, words, letters, captions, watermark or border. Keep important faces/objects in upper two thirds and leave lower quarter quiet for subtitles. Pipi must match the official warm-gray rabbit identity, round face, pink nose and naturally drooping ears; choose the precise facial expression, gaze and pose described for this moment. Use the same beige shirt, blue-gray short overalls and blue shoes as the daytime wardrobe reference. Rongrong must match the official friendly young brown-bear identity, broad rounded build, cream muzzle, round ears and small dark nose; wear the muted forest-green vest in porch scenes, warm shy expression, never aggressive. Only include props explicitly named in this shot description. Do not add a backpack, carrot plush, dish, basket, leaf, extra blanket, toys or food unless the action below explicitly includes that item. Keep the cream flannel blanket plain, solid ivory, and visually identical across its scenes. 绒绒仍轻摸同一条米白绒毯，面带憨厚笑意，向皮皮表达它暖和柔软、像昨天并排看雪时一样舒服；皮皮安静听着，眼神柔和。 References guide identity, location or only the particular prop whose crop was loaded. Do not copy a reference composition verbatim.",
+  "references_loaded": [
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/pipi_day_wardrobe.png",
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/rongrong_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/porch_scene_ref.png",
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/prop_blanket_folded.png"
+  ],
+  "output_source": "/workspace/generated_images/exec-89735af8-a1df-4754-91ac-9a395a63b49c.png"
+}

@@ -1,0 +1,1825 @@
+{
+  "episode": "ep046",
+  "duration_s": 266.48,
+  "fps": 25,
+  "frames": 6662,
+  "preview": false,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "shot_count": 28,
+  "crossfade_s": 0.96,
+  "curve": "linear",
+  "within_shot_motion": "none",
+  "subtitles_after_picture_transitions": true,
+  "clean": "/workspace/Bedtime-Stories/Outputs/2026-11-28/ep046-v001/ep046_clean.mp4",
+  "publish": "/workspace/Bedtime-Stories/Outputs/2026-11-28/ep046-v001/ep046.mp4",
+  "delivery_directory": "/workspace/Bedtime-Stories/Outputs/2026-11-28/ep046-v001",
+  "shots": [
+    {
+      "id": 0,
+      "paragraph_id": "p000",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u01",
+          "start_char": 0,
+          "end_char": 5
+        },
+        {
+          "unit_id": "p000_u02",
+          "start_char": 0,
+          "end_char": 9
+        },
+        {
+          "unit_id": "p000_u03",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "text": "小朋友们，准备好听故事了吗？今天的故事叫《小熊借来的绒毯》。",
+      "title": "片头：雪中的绒毯",
+      "location": "独立开场意象",
+      "time_of_day": "昨日下午的冬日",
+      "layer": "storybook",
+      "characters": [],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {},
+      "visual_direction": "宽阔门廊长椅上放着一条米白绒毯，远处零星雪花飘过；画面安静提出分享后如何都温暖的问题。不出现角色或文字。",
+      "action": "宽阔门廊长椅上放着一条米白绒毯，远处零星雪花飘过；画面安静提出分享后如何都温暖的问题。不出现角色或文字。",
+      "continuity_refs": [
+        "LOC_OPENING_01",
+        "PROP_BENCH_01",
+        "PROP_FLANNEL_BLANKET_01"
+      ],
+      "state_before": "独立p000开场图，不承接剧情人物状态。",
+      "state_after": "建立米白绒毯与冬日分享主题。",
+      "transition_from": null,
+      "image_status": "passed_contact_sheet_and_continuity_review",
+      "image_path": "images/shot_00.png",
+      "image": "images/shot_00.png",
+      "speech_start_s": 1.0,
+      "speech_end_s": 10.175603833333334,
+      "actual_start_s": 0.0,
+      "actual_end_s": 10.72,
+      "visible_start_s": 0.0,
+      "visible_end_s": 11.200000000000001,
+      "visible_duration_s": 11.2,
+      "image_prompt_manifest": "prompts/shot_00.json",
+      "image_source": "images/shot_00.source.json",
+      "reference_manifest": "references/shot_00.json",
+      "motion": "fixed"
+    },
+    {
+      "id": 1,
+      "paragraph_id": "p000",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u04",
+          "start_char": 0,
+          "end_char": 11
+        },
+        {
+          "unit_id": "p000_u05",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "text": "一条绒毯分给朋友以后，怎样让两个人都留有足够的温暖呢？",
+      "title": "片头：两份温暖",
+      "location": "独立开场细节",
+      "time_of_day": "冬日傍晚",
+      "layer": "storybook",
+      "characters": [],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {},
+      "visual_direction": "从长椅近处看米白绒毯柔软地分成两半，两个并排的位置都被照顾到，背景只有轻雪和暖色门廊光；没有角色、无字。",
+      "action": "从长椅近处看米白绒毯柔软地分成两半，两个并排的位置都被照顾到，背景只有轻雪和暖色门廊光；没有角色、无字。",
+      "continuity_refs": [
+        "LOC_OPENING_01",
+        "PROP_BENCH_01",
+        "PROP_FLANNEL_BLANKET_01"
+      ],
+      "state_before": "独立p000开场的第二张画，不复制封面或剧情图。",
+      "state_after": "把分享的核心问题落到绒毯与两个座位。",
+      "transition_from": 0,
+      "image_status": "passed_contact_sheet_and_continuity_review",
+      "image_path": "images/shot_01.png",
+      "image": "images/shot_01.png",
+      "speech_start_s": 11.298229166666665,
+      "speech_end_s": 19.094686833333334,
+      "actual_start_s": 10.72,
+      "actual_end_s": 19.68,
+      "visible_start_s": 10.24,
+      "visible_end_s": 20.16,
+      "visible_duration_s": 9.92,
+      "image_prompt_manifest": "prompts/shot_01.json",
+      "image_source": "images/shot_01.source.json",
+      "reference_manifest": "references/shot_01.json",
+      "motion": "fixed"
+    },
+    {
+      "id": 2,
+      "paragraph_id": "p001",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u01",
+          "start_char": 0,
+          "end_char": 5
+        },
+        {
+          "unit_id": "p001_u02",
+          "start_char": 0,
+          "end_char": 12
+        },
+        {
+          "unit_id": "p001_u03",
+          "start_char": 0,
+          "end_char": 11
+        }
+      ],
+      "text": "昨天下午，森林里飘着零星的小雪花，小熊绒绒来皮皮家做客。",
+      "title": "绒绒来做客",
+      "location": "皮皮家门廊",
+      "time_of_day": "昨日下午·零星小雪",
+      "layer": "storybook",
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe_nobag.png"
+        ],
+        "rongrong": [
+          "references/rongrong_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001",
+        "rongrong": "forest_green_v001"
+      },
+      "visual_direction": "皮皮家的木屋门廊外飘着细雪，皮皮微笑迎接第一次来做客的小熊绒绒；两位朋友相互看着对方，绒绒憨厚而友好，皮皮自然开心。",
+      "action": "皮皮家的木屋门廊外飘着细雪，皮皮微笑迎接第一次来做客的小熊绒绒；两位朋友相互看着对方，绒绒憨厚而友好，皮皮自然开心。",
+      "continuity_refs": [
+        "LOC_PORCH_01",
+        "CHAR_PIPI_01",
+        "CHAR_RONGRONG_01",
+        "PROP_BENCH_01"
+      ],
+      "state_before": "开场意象切入真实剧情；下午细雪，绒绒抵达皮皮家。",
+      "state_after": "两位朋友在门廊相聚，尚未拿出绒毯。",
+      "transition_from": 1,
+      "image_status": "passed_contact_sheet_and_continuity_review",
+      "image_path": "images/shot_02.png",
+      "image": "images/shot_02.png",
+      "speech_start_s": 20.23077083333333,
+      "speech_end_s": 29.52339483333333,
+      "actual_start_s": 19.68,
+      "actual_end_s": 30.08,
+      "visible_start_s": 19.2,
+      "visible_end_s": 30.56,
+      "visible_duration_s": 11.36,
+      "image_prompt_manifest": "prompts/shot_02.json",
+      "image_source": "images/shot_02.source.json",
+      "reference_manifest": "references/shot_02.json",
+      "motion": "fixed"
+    },
+    {
+      "id": 3,
+      "paragraph_id": "p001",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u04",
+          "start_char": 0,
+          "end_char": 20
+        },
+        {
+          "unit_id": "p001_u05",
+          "start_char": 0,
+          "end_char": 21
+        }
+      ],
+      "text": "为了能坐在门廊下一边看雪景、一边听故事，皮皮从屋里拿出了一条厚厚的米白色法兰绒毯，",
+      "title": "拿出米白绒毯",
+      "location": "门廊门口",
+      "time_of_day": "昨日下午·零星小雪",
+      "layer": "storybook",
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe_nobag.png"
+        ],
+        "rongrong": [
+          "references/rongrong_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001",
+        "rongrong": "forest_green_v001"
+      },
+      "visual_direction": "皮皮从敞开的木门里抱出一条厚实干净的米白法兰绒毯，神情期待地看向门廊长椅；绒绒在旁等待。",
+      "action": "皮皮从敞开的木门里抱出一条厚实干净的米白法兰绒毯，神情期待地看向门廊长椅；绒绒在旁等待。",
+      "continuity_refs": [
+        "LOC_PORCH_01",
+        "CHAR_PIPI_01",
+        "CHAR_RONGRONG_01",
+        "PROP_FLANNEL_BLANKET_01"
+      ],
+      "state_before": "承接两位朋友到达门廊，桌椅与木屋位置稳定。",
+      "state_after": "同一条米白绒毯由皮皮从屋内拿到门廊。",
+      "transition_from": 2,
+      "image_status": "passed_contact_sheet_and_continuity_review",
+      "image_path": "images/shot_03.png",
+      "image": "images/shot_03.png",
+      "speech_start_s": 30.647291666666664,
+      "speech_end_s": 42.65587433333333,
+      "actual_start_s": 30.08,
+      "actual_end_s": 42.88,
+      "visible_start_s": 29.599999999999998,
+      "visible_end_s": 43.36,
+      "visible_duration_s": 13.76,
+      "image_prompt_manifest": "prompts/shot_03.json",
+      "image_source": "images/shot_03.source.json",
+      "reference_manifest": "references/shot_03.json",
+      "motion": "fixed"
+    },
+    {
+      "id": 4,
+      "paragraph_id": "p001",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u06",
+          "start_char": 0,
+          "end_char": 11
+        },
+        {
+          "unit_id": "p001_u07",
+          "start_char": 0,
+          "end_char": 9
+        }
+      ],
+      "text": "铺在宽宽的木头长椅上，和绒绒一人盖一半。",
+      "title": "并排看雪听故事",
+      "location": "门廊长椅",
+      "time_of_day": "昨日下午·零星小雪",
+      "layer": "storybook",
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe_nobag.png"
+        ],
+        "rongrong": [
+          "references/rongrong_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001",
+        "rongrong": "forest_green_v001"
+      },
+      "visual_direction": "皮皮和绒绒并排坐在同一条宽木长椅上，米白绒毯平平盖在两人膝腿上，各自盖到一半；两人舒适地望着飘雪，皮皮讲故事，绒绒专注微笑。",
+      "action": "皮皮和绒绒并排坐在同一条宽木长椅上，米白绒毯平平盖在两人膝腿上，各自盖到一半；两人舒适地望着飘雪，皮皮讲故事，绒绒专注微笑。",
+      "continuity_refs": [
+        "LOC_PORCH_01",
+        "CHAR_PIPI_01",
+        "CHAR_RONGRONG_01",
+        "PROP_BENCH_01",
+        "PROP_FLANNEL_BLANKET_01"
+      ],
+      "state_before": "皮皮把毯子铺在固定的长椅上，两人共享一条毯子。",
+      "state_after": "形成肩并肩看雪、各盖一半的温暖记忆。",
+      "transition_from": 3,
+      "image_status": "generated",
+      "image_path": "images/shot_04.png",
+      "image": "images/shot_04.png",
+      "speech_start_s": 43.12210416666667,
+      "speech_end_s": 48.8559785,
+      "actual_start_s": 42.88,
+      "actual_end_s": 49.4,
+      "visible_start_s": 42.400000000000006,
+      "visible_end_s": 49.879999999999995,
+      "visible_duration_s": 7.48,
+      "image_prompt_manifest": "prompts/shot_04.json",
+      "image_source": "images/shot_04.source.json",
+      "reference_manifest": "references/shot_04.json",
+      "motion": "fixed"
+    },
+    {
+      "id": 5,
+      "paragraph_id": "p002",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u01",
+          "start_char": 0,
+          "end_char": 12
+        },
+        {
+          "unit_id": "p002_u02",
+          "start_char": 0,
+          "end_char": 13
+        }
+      ],
+      "text": "后来天黑的时候雪下大了，皮皮担心绒绒回家的路上冷，",
+      "title": "雪越下越大",
+      "location": "门廊长椅",
+      "time_of_day": "昨晚·大雪",
+      "layer": "storybook",
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe_nobag.png"
+        ],
+        "rongrong": [
+          "references/rongrong_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001",
+        "rongrong": "forest_green_v001"
+      },
+      "visual_direction": "傍晚转夜，雪比下午更密，皮皮担忧地望向准备回家的绒绒；他略皱眉，身体向朋友倾过去，绒绒在长椅边。",
+      "action": "傍晚转夜，雪比下午更密，皮皮担忧地望向准备回家的绒绒；他略皱眉，身体向朋友倾过去，绒绒在长椅边。",
+      "continuity_refs": [
+        "LOC_PORCH_01",
+        "CHAR_PIPI_01",
+        "CHAR_RONGRONG_01",
+        "PROP_FLANNEL_BLANKET_01"
+      ],
+      "state_before": "时间由下午进入夜晚；原先的薄雪变成大雪。",
+      "state_after": "皮皮注意到绒绒要冒雪回家，开始担心他着凉。",
+      "transition_from": 4,
+      "image_status": "passed_contact_sheet_and_continuity_review",
+      "image_path": "images/shot_05.png",
+      "image": "images/shot_05.png",
+      "speech_start_s": 49.95245833333333,
+      "speech_end_s": 57.50824933333333,
+      "actual_start_s": 49.4,
+      "actual_end_s": 57.72,
+      "visible_start_s": 48.92,
+      "visible_end_s": 58.199999999999996,
+      "visible_duration_s": 9.28,
+      "image_prompt_manifest": "prompts/shot_05.json",
+      "image_source": "images/shot_05.source.json",
+      "reference_manifest": "references/shot_05.json",
+      "motion": "fixed"
+    },
+    {
+      "id": 6,
+      "paragraph_id": "p002",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u03",
+          "start_char": 0,
+          "end_char": 16
+        },
+        {
+          "unit_id": "p002_u04",
+          "start_char": 0,
+          "end_char": 10
+        }
+      ],
+      "text": "就把这条米白色的绒毯借给了绒绒，让他披在身上挡风雪。",
+      "title": "把毯子借给绒绒",
+      "location": "门廊出口",
+      "time_of_day": "昨晚·大雪",
+      "layer": "storybook",
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe_nobag.png"
+        ],
+        "rongrong": [
+          "references/rongrong_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001",
+        "rongrong": "forest_green_v001"
+      },
+      "visual_direction": "皮皮把同一条米白绒毯轻轻披到绒绒肩上挡风雪，眼神关切；绒绒感激地看向皮皮，厚实的绒毯包住肩背但仍露出绿色背心。",
+      "action": "皮皮把同一条米白绒毯轻轻披到绒绒肩上挡风雪，眼神关切；绒绒感激地看向皮皮，厚实的绒毯包住肩背但仍露出绿色背心。",
+      "continuity_refs": [
+        "LOC_PORCH_01",
+        "CHAR_PIPI_01",
+        "CHAR_RONGRONG_01",
+        "PROP_FLANNEL_BLANKET_01"
+      ],
+      "state_before": "毯子从共同覆盖的长椅移到绒绒身上，外观相同。",
+      "state_after": "绒绒带着借来的绒毯迎雪回家，皮皮留在门口。",
+      "transition_from": 5,
+      "image_status": "passed_contact_sheet_and_continuity_review",
+      "image_path": "images/shot_06.png",
+      "image": "images/shot_06.png",
+      "speech_start_s": 57.93897916666667,
+      "speech_end_s": 65.71658333333333,
+      "actual_start_s": 57.72,
+      "actual_end_s": 66.28,
+      "visible_start_s": 57.24,
+      "visible_end_s": 66.76,
+      "visible_duration_s": 9.52,
+      "image_prompt_manifest": "prompts/shot_06.json",
+      "image_source": "images/shot_06.source.json",
+      "reference_manifest": "references/shot_06.json",
+      "motion": "fixed"
+    },
+    {
+      "id": 7,
+      "paragraph_id": "p002",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u05",
+          "start_char": 0,
+          "end_char": 5
+        },
+        {
+          "unit_id": "p002_u06",
+          "start_char": 0,
+          "end_char": 5
+        },
+        {
+          "unit_id": "p002_u07",
+          "start_char": 0,
+          "end_char": 15
+        }
+      ],
+      "text": "今天傍晚，天放晴了，小熊绒绒准时来到了皮皮家门前。",
+      "title": "晴天里再次来访",
+      "location": "皮皮家门前",
+      "time_of_day": "今天傍晚·雪后放晴",
+      "layer": "storybook",
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe_nobag.png"
+        ],
+        "rongrong": [
+          "references/rongrong_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001",
+        "rongrong": "forest_green_v001"
+      },
+      "visual_direction": "天色放晴，雪地柔亮，绒绒准时来到皮皮家门前；他双手托着一条米白绒毯，皮皮看见好友后露出高兴而轻松的表情。",
+      "action": "天色放晴，雪地柔亮，绒绒准时来到皮皮家门前；他双手托着一条米白绒毯，皮皮看见好友后露出高兴而轻松的表情。",
+      "continuity_refs": [
+        "LOC_PORCH_01",
+        "CHAR_PIPI_01",
+        "CHAR_RONGRONG_01",
+        "PROP_FLANNEL_BLANKET_01"
+      ],
+      "state_before": "新的一天傍晚；绒绒已归还同一条干净的绒毯。",
+      "state_after": "两位朋友重逢，毯子归还状态是已洗净烘干。",
+      "transition_from": 6,
+      "image_status": "passed_contact_sheet_and_continuity_review",
+      "image_path": "images/shot_07.png",
+      "image": "images/shot_07.png",
+      "speech_start_s": 66.82718750000001,
+      "speech_end_s": 75.04922816666668,
+      "actual_start_s": 66.28,
+      "actual_end_s": 75.64,
+      "visible_start_s": 65.8,
+      "visible_end_s": 76.12,
+      "visible_duration_s": 10.32,
+      "image_prompt_manifest": "prompts/shot_07.json",
+      "image_source": "images/shot_07.source.json",
+      "reference_manifest": "references/shot_07.json",
+      "motion": "fixed"
+    },
+    {
+      "id": 8,
+      "paragraph_id": "p002",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u08",
+          "start_char": 0,
+          "end_char": 12
+        },
+        {
+          "unit_id": "p002_u09",
+          "start_char": 0,
+          "end_char": 13
+        },
+        {
+          "unit_id": "p002_u10",
+          "start_char": 0,
+          "end_char": 12
+        }
+      ],
+      "text": "他双手捧着那条米白绒毯，已经由熊妈妈帮着洗净烘干，四个边角叠得方方正正的；",
+      "title": "叠得方正的绒毯",
+      "location": "门廊近景",
+      "time_of_day": "今天傍晚·雪后放晴",
+      "layer": "storybook",
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe_nobag.png"
+        ],
+        "rongrong": [
+          "references/rongrong_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001",
+        "rongrong": "forest_green_v001"
+      },
+      "visual_direction": "绒绒双手稳稳捧着洗净烘干的米白绒毯，四角叠得方方正正；画面清楚呈现柔软织物与规整折线，皮皮在背景中欣喜注视。",
+      "action": "绒绒双手稳稳捧着洗净烘干的米白绒毯，四角叠得方方正正；画面清楚呈现柔软织物与规整折线，皮皮在背景中欣喜注视。",
+      "continuity_refs": [
+        "LOC_PORCH_01",
+        "CHAR_PIPI_01",
+        "CHAR_RONGRONG_01",
+        "PROP_FLANNEL_BLANKET_01"
+      ],
+      "state_before": "归还时毯子干净、蓬松前为整齐折叠状态。",
+      "state_after": "呈现熊妈妈帮忙清洗烘干后整齐归还。",
+      "transition_from": 7,
+      "image_status": "passed_contact_sheet_and_continuity_review",
+      "image_path": "images/shot_08.png",
+      "image": "images/shot_08.png",
+      "speech_start_s": 76.19312500000001,
+      "speech_end_s": 87.77414516666667,
+      "actual_start_s": 75.64,
+      "actual_end_s": 88.36,
+      "visible_start_s": 75.16,
+      "visible_end_s": 88.84,
+      "visible_duration_s": 13.68,
+      "image_prompt_manifest": "prompts/shot_08.json",
+      "image_source": "images/shot_08.source.json",
+      "reference_manifest": "references/shot_08.json",
+      "motion": "fixed"
+    },
+    {
+      "id": 9,
+      "paragraph_id": "p002",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u11",
+          "start_char": 0,
+          "end_char": 6
+        },
+        {
+          "unit_id": "p002_u12",
+          "start_char": 0,
+          "end_char": 10
+        },
+        {
+          "unit_id": "p002_u13",
+          "start_char": 0,
+          "end_char": 21
+        }
+      ],
+      "text": "更有趣的是，绒绒还在绒毯最上面，放了一片干净的绿色冬青叶当作感谢的小礼物。",
+      "title": "冬青叶小礼物",
+      "location": "绒毯顶部特写",
+      "time_of_day": "今天傍晚·雪后放晴",
+      "layer": "storybook",
+      "characters": [
+        "rongrong"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "rongrong": [
+          "references/rongrong_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "rongrong": "forest_green_v001"
+      },
+      "visual_direction": "同一条整齐叠放的米白绒毯最上方放着一片干净、鲜亮的绿色冬青叶；绒绒的小熊爪托着毯子，叶片清楚可辨，无额外装饰。",
+      "action": "同一条整齐叠放的米白绒毯最上方放着一片干净、鲜亮的绿色冬青叶；绒绒的小熊爪托着毯子，叶片清楚可辨，无额外装饰。",
+      "continuity_refs": [
+        "LOC_PORCH_01",
+        "CHAR_RONGRONG_01",
+        "PROP_FLANNEL_BLANKET_01",
+        "PROP_HOLLY_LEAF_01"
+      ],
+      "state_before": "绒毯仍在绒绒手中，冬青叶首次出现，作为感谢小礼物。",
+      "state_after": "冬青叶随绒毯一起交到皮皮手中。",
+      "transition_from": 8,
+      "image_status": "passed_contact_sheet_and_continuity_review",
+      "image_path": "images/shot_09.png",
+      "image": "images/shot_09.png",
+      "speech_start_s": 88.9088125,
+      "speech_end_s": 100.29087433333333,
+      "actual_start_s": 88.36,
+      "actual_end_s": 100.84,
+      "visible_start_s": 87.88,
+      "visible_end_s": 101.32000000000001,
+      "visible_duration_s": 13.44,
+      "image_prompt_manifest": "prompts/shot_09.json",
+      "image_source": "images/shot_09.source.json",
+      "reference_manifest": "references/shot_09.json",
+      "motion": "fixed"
+    },
+    {
+      "id": 10,
+      "paragraph_id": "p003",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u01",
+          "start_char": 0,
+          "end_char": 10
+        },
+        {
+          "unit_id": "p003_u02",
+          "start_char": 0,
+          "end_char": 19
+        }
+      ],
+      "text": "皮皮开心地接过绒毯，先拿下那片绿油油的冬青叶放进小碟子里，",
+      "title": "收下绒毯与冬青叶",
+      "location": "门廊小桌边",
+      "time_of_day": "今天傍晚·暖光",
+      "layer": "storybook",
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe_nobag.png"
+        ],
+        "rongrong": [
+          "references/rongrong_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001",
+        "rongrong": "forest_green_v001"
+      },
+      "visual_direction": "皮皮开心地接过叠好的米白绒毯，另一只手小心取下绿色冬青叶，准备放进门廊小桌上的浅色小碟子；绒绒在旁温和微笑。",
+      "action": "皮皮开心地接过叠好的米白绒毯，另一只手小心取下绿色冬青叶，准备放进门廊小桌上的浅色小碟子；绒绒在旁温和微笑。",
+      "continuity_refs": [
+        "LOC_PORCH_01",
+        "CHAR_PIPI_01",
+        "CHAR_RONGRONG_01",
+        "PROP_FLANNEL_BLANKET_01",
+        "PROP_HOLLY_LEAF_01",
+        "PROP_DISH_01"
+      ],
+      "state_before": "手持物从绒绒转交给皮皮；冬青叶由毯面取下。",
+      "state_after": "皮皮将冬青叶放进碟子，绒毯仍折叠在手边。",
+      "transition_from": 9,
+      "image_status": "passed_contact_sheet_and_continuity_review",
+      "image_path": "images/shot_10.png",
+      "image": "images/shot_10.png",
+      "speech_start_s": 101.4045625,
+      "speech_end_s": 110.00870733333332,
+      "actual_start_s": 100.84,
+      "actual_end_s": 110.24,
+      "visible_start_s": 100.36,
+      "visible_end_s": 110.72,
+      "visible_duration_s": 10.36,
+      "image_prompt_manifest": "prompts/shot_10.json",
+      "image_source": "images/shot_10.source.json",
+      "reference_manifest": "references/shot_10.json",
+      "motion": "fixed"
+    },
+    {
+      "id": 11,
+      "paragraph_id": "p003",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u03",
+          "start_char": 0,
+          "end_char": 13
+        },
+        {
+          "unit_id": "p003_u04",
+          "start_char": 0,
+          "end_char": 6
+        }
+      ],
+      "text": "然后双手把叠好的毯子展开，轻轻抖了抖。",
+      "title": "展开轻轻抖开",
+      "location": "门廊长椅",
+      "time_of_day": "今天傍晚·暖光",
+      "layer": "storybook",
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe_nobag.png"
+        ],
+        "rongrong": [
+          "references/rongrong_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001",
+        "rongrong": "forest_green_v001"
+      },
+      "visual_direction": "皮皮双手把同一条折叠的米白绒毯展开，在长椅上轻轻抖开；动作轻柔，毯面展开而没有飞起，绒绒在旁看着。",
+      "action": "皮皮双手把同一条折叠的米白绒毯展开，在长椅上轻轻抖开；动作轻柔，毯面展开而没有飞起，绒绒在旁看着。",
+      "continuity_refs": [
+        "LOC_PORCH_01",
+        "CHAR_PIPI_01",
+        "CHAR_RONGRONG_01",
+        "PROP_BENCH_01",
+        "PROP_FLANNEL_BLANKET_01"
+      ],
+      "state_before": "冬青叶留在门廊小碟子里；毯子从折叠变为展开。",
+      "state_after": "绒毯在长椅上铺开，恢复蓬松状态。",
+      "transition_from": 10,
+      "image_status": "passed_contact_sheet_and_continuity_review",
+      "image_path": "images/shot_11.png",
+      "image": "images/shot_11.png",
+      "speech_start_s": 110.46697916666666,
+      "speech_end_s": 116.27047916666666,
+      "actual_start_s": 110.24,
+      "actual_end_s": 116.84,
+      "visible_start_s": 109.75999999999999,
+      "visible_end_s": 117.32000000000001,
+      "visible_duration_s": 7.56,
+      "image_prompt_manifest": "prompts/shot_11.json",
+      "image_source": "images/shot_11.source.json",
+      "reference_manifest": "references/shot_11.json",
+      "motion": "fixed"
+    },
+    {
+      "id": 12,
+      "paragraph_id": "p003",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u05",
+          "start_char": 0,
+          "end_char": 11
+        },
+        {
+          "unit_id": "p003_u06",
+          "start_char": 0,
+          "end_char": 10
+        },
+        {
+          "unit_id": "p003_u07",
+          "start_char": 0,
+          "end_char": 13
+        }
+      ],
+      "text": "经过阳光和烘干的绒毯，一下子变得蓬松极了，散发着一股好闻的皂角清香。",
+      "title": "阳光烘出的柔软",
+      "location": "绒毯纹理近景",
+      "time_of_day": "今天傍晚·暖光",
+      "layer": "storybook",
+      "characters": [],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {},
+      "visual_direction": "米白绒毯在阳光与烘干后显得松软蓬松，柔细绒面带有轻柔的金色暖光；背景虚化为同一门廊木板，无人物或字。",
+      "action": "米白绒毯在阳光与烘干后显得松软蓬松，柔细绒面带有轻柔的金色暖光；背景虚化为同一门廊木板，无人物或字。",
+      "continuity_refs": [
+        "LOC_PORCH_01",
+        "PROP_FLANNEL_BLANKET_01"
+      ],
+      "state_before": "保持绒毯已洗净晒干的同一物件，只表现质感变化。",
+      "state_after": "毯子蓬松柔软，散发皂角清香的感受。",
+      "transition_from": 11,
+      "image_status": "passed_contact_sheet_and_continuity_review",
+      "image_path": "images/shot_12.png",
+      "image": "images/shot_12.png",
+      "speech_start_s": 117.37483266666668,
+      "speech_end_s": 127.31766633333334,
+      "actual_start_s": 116.84,
+      "actual_end_s": 127.88,
+      "visible_start_s": 116.36,
+      "visible_end_s": 128.35999999999999,
+      "visible_duration_s": 12.0,
+      "image_prompt_manifest": "prompts/shot_12.json",
+      "image_source": "images/shot_12.source.json",
+      "reference_manifest": "references/shot_12.json",
+      "motion": "fixed"
+    },
+    {
+      "id": 13,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u01",
+          "start_char": 0,
+          "end_char": 13
+        },
+        {
+          "unit_id": "p004_u02",
+          "start_char": 0,
+          "end_char": 9
+        },
+        {
+          "unit_id": "p004_u03",
+          "start_char": 0,
+          "end_char": 7
+        }
+      ],
+      "text": "小熊绒绒伸出厚厚的大爪子，摸了摸毯子的一角，憨厚地笑着说：",
+      "title": "绒绒摸摸毯角",
+      "location": "门廊长椅",
+      "time_of_day": "今天傍晚·暖光",
+      "layer": "storybook",
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe_nobag.png"
+        ],
+        "rongrong": [
+          "references/rongrong_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001",
+        "rongrong": "forest_green_v001"
+      },
+      "visual_direction": "绒绒伸出厚厚的大爪子摸米白绒毯的一角，憨厚地笑起来；皮皮站在另一侧，目光温暖地看着他。",
+      "action": "绒绒伸出厚厚的大爪子摸米白绒毯的一角，憨厚地笑起来；皮皮站在另一侧，目光温暖地看着他。",
+      "continuity_refs": [
+        "LOC_PORCH_01",
+        "CHAR_PIPI_01",
+        "CHAR_RONGRONG_01",
+        "PROP_FLANNEL_BLANKET_01"
+      ],
+      "state_before": "毯子仍松软摊在长椅上，绒绒开始回应触感。",
+      "state_after": "绒绒开心而安心，开始称赞绒毯。",
+      "transition_from": 12,
+      "image_status": "passed_contact_sheet_and_continuity_review",
+      "image_path": "images/shot_13.png",
+      "image": "images/shot_13.png",
+      "speech_start_s": 128.46689583333333,
+      "speech_end_s": 137.56241633333332,
+      "actual_start_s": 127.88,
+      "actual_end_s": 137.8,
+      "visible_start_s": 127.39999999999999,
+      "visible_end_s": 138.28,
+      "visible_duration_s": 10.88,
+      "image_prompt_manifest": "prompts/shot_13.json",
+      "image_source": "images/shot_13.source.json",
+      "reference_manifest": "references/shot_13.json",
+      "motion": "fixed"
+    },
+    {
+      "id": 14,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u04",
+          "start_char": 0,
+          "end_char": 4
+        },
+        {
+          "unit_id": "p004_u05",
+          "start_char": 0,
+          "end_char": 8
+        },
+        {
+          "unit_id": "p004_u06",
+          "start_char": 0,
+          "end_char": 7
+        },
+        {
+          "unit_id": "p004_u07",
+          "start_char": 0,
+          "end_char": 20
+        }
+      ],
+      "text": "“皮皮，你的毯子真暖和，摸起来软软的，和昨天我们并排坐着看雪的时候一样舒服。”",
+      "title": "和昨天一样暖和",
+      "location": "长椅旁近景",
+      "time_of_day": "今天傍晚·暖光",
+      "layer": "storybook",
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe_nobag.png"
+        ],
+        "rongrong": [
+          "references/rongrong_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001",
+        "rongrong": "forest_green_v001"
+      },
+      "visual_direction": "绒绒仍轻摸同一条米白绒毯，面带憨厚笑意，向皮皮表达它暖和柔软、像昨天并排看雪时一样舒服；皮皮安静听着，眼神柔和。",
+      "action": "绒绒仍轻摸同一条米白绒毯，面带憨厚笑意，向皮皮表达它暖和柔软、像昨天并排看雪时一样舒服；皮皮安静听着，眼神柔和。",
+      "continuity_refs": [
+        "LOC_PORCH_01",
+        "CHAR_PIPI_01",
+        "CHAR_RONGRONG_01",
+        "PROP_FLANNEL_BLANKET_01"
+      ],
+      "state_before": "延续绒绒触摸绒毯，人物位置不变。",
+      "state_after": "两位朋友共同认可这条毯子带来的温暖。",
+      "transition_from": 13,
+      "image_status": "passed_contact_sheet_and_continuity_review",
+      "image_path": "images/shot_14.png",
+      "image": "images/shot_14.png",
+      "speech_start_s": 137.999125,
+      "speech_end_s": 149.81279099999998,
+      "actual_start_s": 137.8,
+      "actual_end_s": 150.36,
+      "visible_start_s": 137.32000000000002,
+      "visible_end_s": 150.84,
+      "visible_duration_s": 13.52,
+      "image_prompt_manifest": "prompts/shot_14.json",
+      "image_source": "images/shot_14.source.json",
+      "reference_manifest": "references/shot_14.json",
+      "motion": "fixed"
+    },
+    {
+      "id": 15,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u08",
+          "start_char": 0,
+          "end_char": 15
+        },
+        {
+          "unit_id": "p004_u09",
+          "start_char": 0,
+          "end_char": 13
+        },
+        {
+          "unit_id": "p004_u10",
+          "start_char": 0,
+          "end_char": 5
+        }
+      ],
+      "text": "皮皮把绒毯重新平平整整地折好，放进卧室床尾的藤编篮子里，对绒绒说：",
+      "title": "把绒毯收进藤篮",
+      "location": "卧室床尾",
+      "time_of_day": "今天傍晚·室内暖光",
+      "layer": "storybook",
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe_nobag.png"
+        ],
+        "rongrong": [
+          "references/rongrong_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001",
+        "rongrong": "forest_green_v001"
+      },
+      "visual_direction": "皮皮将同一条米白绒毯重新叠整齐，轻轻放进卧室床尾的藤编篮子；绒绒站在一旁，跟进卧室。篮内没有其他毯子。",
+      "action": "皮皮将同一条米白绒毯重新叠整齐，轻轻放进卧室床尾的藤编篮子；绒绒站在一旁，跟进卧室。篮内没有其他毯子。",
+      "continuity_refs": [
+        "LOC_PIPI_BEDROOM_01",
+        "CHAR_PIPI_01",
+        "CHAR_RONGRONG_01",
+        "PROP_FLANNEL_BLANKET_01",
+        "PROP_WICKER_BASKET_01"
+      ],
+      "state_before": "场景由门廊转入卧室；毯子从展开变为平整折叠并入藤篮。",
+      "state_after": "绒毯固定存放于床尾藤篮，冬青叶仍留在门廊碟子。",
+      "transition_from": 14,
+      "image_status": "passed_contact_sheet_and_continuity_review",
+      "image_path": "images/shot_15.png",
+      "image": "images/shot_15.png",
+      "speech_start_s": 150.9017708333333,
+      "speech_end_s": 161.22537466666662,
+      "actual_start_s": 150.36,
+      "actual_end_s": 161.44,
+      "visible_start_s": 149.88000000000002,
+      "visible_end_s": 161.92,
+      "visible_duration_s": 12.04,
+      "image_prompt_manifest": "prompts/shot_15.json",
+      "image_source": "images/shot_15.source.json",
+      "reference_manifest": "references/shot_15.json",
+      "motion": "fixed"
+    },
+    {
+      "id": 16,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u11",
+          "start_char": 0,
+          "end_char": 13
+        },
+        {
+          "unit_id": "p004_u12",
+          "start_char": 0,
+          "end_char": 10
+        },
+        {
+          "unit_id": "p004_u13",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "text": "“我就把它放在这个篮子里，等下回再下雪的时候，我们还可以一起拿出来盖着看雪！”",
+      "title": "下回一起看雪",
+      "location": "卧室床尾",
+      "time_of_day": "今天傍晚·室内暖光",
+      "layer": "storybook",
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe_nobag.png"
+        ],
+        "rongrong": [
+          "references/rongrong_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001",
+        "rongrong": "forest_green_v001"
+      },
+      "visual_direction": "皮皮手指身旁床尾的藤编篮子，笑着邀请绒绒下次再下雪时一起拿毯子看雪；绒绒露出温暖感激的笑容，篮里的折叠米白绒毯可见。",
+      "action": "皮皮手指身旁床尾的藤编篮子，笑着邀请绒绒下次再下雪时一起拿毯子看雪；绒绒露出温暖感激的笑容，篮里的折叠米白绒毯可见。",
+      "continuity_refs": [
+        "LOC_PIPI_BEDROOM_01",
+        "CHAR_PIPI_01",
+        "CHAR_RONGRONG_01",
+        "PROP_WICKER_BASKET_01",
+        "PROP_FLANNEL_BLANKET_01"
+      ],
+      "state_before": "承接绒毯收进同一个藤编篮子的状态。",
+      "state_after": "绒绒知道下次仍可以一起分享；毯子安全留在藤篮。",
+      "transition_from": 15,
+      "image_status": "passed_contact_sheet_and_continuity_review",
+      "image_path": "images/shot_16.png",
+      "image": "images/shot_16.png",
+      "speech_start_s": 161.68277083333328,
+      "speech_end_s": 172.00964516666662,
+      "actual_start_s": 161.44,
+      "actual_end_s": 172.56,
+      "visible_start_s": 160.96,
+      "visible_end_s": 173.04,
+      "visible_duration_s": 12.08,
+      "image_prompt_manifest": "prompts/shot_16.json",
+      "image_source": "images/shot_16.source.json",
+      "reference_manifest": "references/shot_16.json",
+      "motion": "fixed"
+    },
+    {
+      "id": 17,
+      "paragraph_id": "p005",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u01",
+          "start_char": 0,
+          "end_char": 6
+        },
+        {
+          "unit_id": "p005_u02",
+          "start_char": 0,
+          "end_char": 9
+        }
+      ],
+      "text": "送走绒绒后，小木屋安静了下来。",
+      "title": "送别后的安静",
+      "location": "门廊与木屋门口",
+      "time_of_day": "今天傍晚·雪后",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe_nobag.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮站在门廊木门边目送绒绒走远后轻轻合上门；雪已停，小木屋安静下来，皮皮神情平静满足。",
+      "action": "皮皮站在门廊木门边目送绒绒走远后轻轻合上门；雪已停，小木屋安静下来，皮皮神情平静满足。",
+      "continuity_refs": [
+        "LOC_PORCH_01",
+        "CHAR_PIPI_01"
+      ],
+      "state_before": "绒绒离开皮皮家，皮皮留在自家门口。",
+      "state_after": "门廊不再有绒绒，皮皮准备回卧室。",
+      "transition_from": 16,
+      "image_status": "passed_contact_sheet_and_continuity_review",
+      "image_path": "images/shot_17.png",
+      "image": "images/shot_17.png",
+      "speech_start_s": 173.1377708333333,
+      "speech_end_s": 177.6389153333333,
+      "actual_start_s": 172.56,
+      "actual_end_s": 178.2,
+      "visible_start_s": 172.08,
+      "visible_end_s": 178.67999999999998,
+      "visible_duration_s": 6.6,
+      "image_prompt_manifest": "prompts/shot_17.json",
+      "image_source": "images/shot_17.source.json",
+      "reference_manifest": "references/shot_17.json",
+      "motion": "fixed"
+    },
+    {
+      "id": 18,
+      "paragraph_id": "p005",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u03",
+          "start_char": 0,
+          "end_char": 8
+        },
+        {
+          "unit_id": "p005_u04",
+          "start_char": 0,
+          "end_char": 14
+        }
+      ],
+      "text": "绒绒回自己家里，去盖他那床厚实的大熊棉被了；",
+      "title": "绒绒回家盖棉被",
+      "location": "绒绒的熊屋卧室",
+      "time_of_day": "今天夜晚·暖光",
+      "layer": "storybook",
+      "characters": [
+        "rongrong"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "rongrong": [
+          "references/rongrong_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "rongrong": "forest_green_v001"
+      },
+      "visual_direction": "绒绒回到自己的熊屋，安稳坐在床上拉起厚实深棕色大熊棉被；他的卧室是温暖木质空间，与皮皮家明显不同，绒绒面容放松。",
+      "action": "绒绒回到自己的熊屋，安稳坐在床上拉起厚实深棕色大熊棉被；他的卧室是温暖木质空间，与皮皮家明显不同，绒绒面容放松。",
+      "continuity_refs": [
+        "LOC_RONGRONG_HOME_01",
+        "CHAR_RONGRONG_01",
+        "PROP_BEAR_QUILT_01"
+      ],
+      "state_before": "切换到绒绒自己的家；绒绒使用自己的棉被，不带走借来的绒毯。",
+      "state_after": "绒绒在自己家中有厚实棉被，已经暖和安顿。",
+      "transition_from": 17,
+      "image_status": "passed_contact_sheet_and_continuity_review",
+      "image_path": "images/shot_18.png",
+      "image": "images/shot_18.png",
+      "speech_start_s": 178.78206249999997,
+      "speech_end_s": 185.18918716666664,
+      "actual_start_s": 178.2,
+      "actual_end_s": 185.76,
+      "visible_start_s": 177.72,
+      "visible_end_s": 186.23999999999998,
+      "visible_duration_s": 8.52,
+      "image_prompt_manifest": "prompts/shot_18.json",
+      "image_source": "images/shot_18.source.json",
+      "reference_manifest": "references/shot_18.json",
+      "motion": "fixed"
+    },
+    {
+      "id": 19,
+      "paragraph_id": "p005",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u05",
+          "start_char": 0,
+          "end_char": 13
+        }
+      ],
+      "text": "而皮皮也回到了自己的床边。",
+      "title": "回到自己的床边",
+      "location": "皮皮卧室",
+      "time_of_day": "今天夜晚·暖光",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_sleep_wardrobe.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "皮皮回到自己的床边，神情放松，视线落向熟悉的床铺与床尾收好的藤篮。",
+      "action": "皮皮回到自己的床边，神情放松，视线落向熟悉的床铺与床尾收好的藤篮。",
+      "continuity_refs": [
+        "LOC_PIPI_BEDROOM_01",
+        "CHAR_PIPI_01",
+        "PROP_WICKER_BASKET_01",
+        "PROP_FLANNEL_BLANKET_01"
+      ],
+      "state_before": "绒绒已离开，皮皮回到自家卧室。",
+      "state_after": "皮皮回到自己的床边，绒毯仍收在藤篮内。",
+      "transition_from": 18,
+      "image_status": "passed_contact_sheet_and_continuity_review",
+      "image_path": "images/shot_19.png",
+      "image": "images/shot_19.png",
+      "speech_start_s": 186.29199999999997,
+      "speech_end_s": 190.11322849999996,
+      "actual_start_s": 185.76,
+      "actual_end_s": 190.68,
+      "visible_start_s": 185.28,
+      "visible_end_s": 191.16,
+      "visible_duration_s": 5.88,
+      "image_prompt_manifest": "prompts/shot_19.json",
+      "image_source": "images/shot_19.source.json",
+      "reference_manifest": "references/shot_19.json",
+      "motion": "fixed"
+    },
+    {
+      "id": 20,
+      "paragraph_id": "p005",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u06",
+          "start_char": 0,
+          "end_char": 3
+        },
+        {
+          "unit_id": "p005_u07",
+          "start_char": 0,
+          "end_char": 13
+        },
+        {
+          "unit_id": "p005_u08",
+          "start_char": 0,
+          "end_char": 11
+        }
+      ],
+      "text": "今晚，两位好朋友都在各自的家里，拥有着满满当当的温暖。",
+      "title": "各自在家都温暖",
+      "location": "皮皮卧室",
+      "time_of_day": "今天夜晚·暖光",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_sleep_wardrobe.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "只出现皮皮一位角色；绒绒已经离开并在自己的家里，不能出现在画面。皮皮独自在温暖卧室的床边满足地看向床尾藤篮，篮中可见叠好的米白绒毯。皮皮穿浅色睡衣和深蓝星星睡帽，表情安定。",
+      "action": "只出现皮皮一位角色；绒绒已经离开并在自己的家里，不能出现在画面。皮皮独自在温暖卧室的床边满足地看向床尾藤篮，篮中可见叠好的米白绒毯。皮皮穿浅色睡衣和深蓝星星睡帽，表情安定。",
+      "continuity_refs": [
+        "LOC_PIPI_BEDROOM_01",
+        "CHAR_PIPI_01",
+        "PROP_WICKER_BASKET_01",
+        "PROP_FLANNEL_BLANKET_01",
+        "PROP_BED_01"
+      ],
+      "state_before": "承接皮皮回到床边；绒毯仍在藤篮。",
+      "state_after": "两位朋友各在自己的家中安顿好，皮皮准备上床。",
+      "transition_from": 19,
+      "image_status": "passed_contact_sheet_and_continuity_review",
+      "image_path": "images/shot_20.png",
+      "image": "images/shot_20.png",
+      "speech_start_s": 191.2137708333333,
+      "speech_end_s": 199.57268749999997,
+      "actual_start_s": 190.68,
+      "actual_end_s": 200.16,
+      "visible_start_s": 190.20000000000002,
+      "visible_end_s": 200.64,
+      "visible_duration_s": 10.44,
+      "image_prompt_manifest": "prompts/shot_20.json",
+      "image_source": "images/shot_20.source.json",
+      "reference_manifest": "references/shot_20.json",
+      "motion": "fixed"
+    },
+    {
+      "id": 21,
+      "paragraph_id": "p005",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u09",
+          "start_char": 0,
+          "end_char": 6
+        },
+        {
+          "unit_id": "p005_u10",
+          "start_char": 0,
+          "end_char": 14
+        },
+        {
+          "unit_id": "p005_u11",
+          "start_char": 0,
+          "end_char": 11
+        }
+      ],
+      "text": "皮皮爬上床，拉好自己平时盖的暖黄色毛毯，把胡萝卜玩偶抱近胸口。",
+      "title": "萝卜玩偶在怀里",
+      "location": "皮皮床上",
+      "time_of_day": "今天夜晚·暖光",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_sleep_wardrobe.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "皮皮爬上自己熟悉的低木床，拉好暖黄色毛毯，把橙色胡萝卜玩偶抱近胸口；他神情松弛，长耳自然垂在枕边。",
+      "action": "皮皮爬上自己熟悉的低木床，拉好暖黄色毛毯，把橙色胡萝卜玩偶抱近胸口；他神情松弛，长耳自然垂在枕边。",
+      "continuity_refs": [
+        "LOC_PIPI_BEDROOM_01",
+        "CHAR_PIPI_01",
+        "PROP_BED_01",
+        "PROP_YELLOW_BLANKET_01",
+        "PROP_CARROT_PLUSH_01"
+      ],
+      "state_before": "皮皮已在卧室床上，使用自己的黄色毯子和胡萝卜玩偶。",
+      "state_after": "皮皮被熟悉的床铺与玩偶温暖包围。",
+      "transition_from": 20,
+      "image_status": "passed_contact_sheet_and_continuity_review",
+      "image_path": "images/shot_21.png",
+      "image": "images/shot_21.png",
+      "speech_start_s": 200.7076875,
+      "speech_end_s": 210.462166,
+      "actual_start_s": 200.16,
+      "actual_end_s": 211.0,
+      "visible_start_s": 199.68,
+      "visible_end_s": 211.48,
+      "visible_duration_s": 11.8,
+      "image_prompt_manifest": "prompts/shot_21.json",
+      "image_source": "images/shot_21.source.json",
+      "reference_manifest": "references/shot_21.json",
+      "motion": "fixed"
+    },
+    {
+      "id": 22,
+      "paragraph_id": "p006",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u01",
+          "start_char": 0,
+          "end_char": 22
+        },
+        {
+          "unit_id": "p006_u02",
+          "start_char": 0,
+          "end_char": 11
+        }
+      ],
+      "text": "他没有再把那条米白绒毯拿出来重新铺在门廊上，把昨天的雪景再演一遍；",
+      "title": "不必重演昨天",
+      "location": "皮皮卧室床边",
+      "time_of_day": "今天夜晚·柔和暖光",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_sleep_wardrobe.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "皮皮已经躺在床上，视线温和落向床尾藤篮中折叠的米白绒毯，神情释然；没有把它再次拿到门廊，也没有雪景重演。",
+      "action": "皮皮已经躺在床上，视线温和落向床尾藤篮中折叠的米白绒毯，神情释然；没有把它再次拿到门廊，也没有雪景重演。",
+      "continuity_refs": [
+        "LOC_PIPI_BEDROOM_01",
+        "CHAR_PIPI_01",
+        "PROP_WICKER_BASKET_01",
+        "PROP_FLANNEL_BLANKET_01",
+        "PROP_BED_01",
+        "PROP_YELLOW_BLANKET_01"
+      ],
+      "state_before": "米白绒毯继续收在篮里；皮皮已回到自己的床。",
+      "state_after": "皮皮愿意珍藏昨天经历，而不需要重新安排同一场景。",
+      "transition_from": 21,
+      "image_status": "passed_contact_sheet_and_continuity_review",
+      "image_path": "images/shot_22.png",
+      "image": "images/shot_22.png",
+      "speech_start_s": 211.54941666666667,
+      "speech_end_s": 220.98339516666667,
+      "actual_start_s": 211.0,
+      "actual_end_s": 221.52,
+      "visible_start_s": 210.52,
+      "visible_end_s": 222.0,
+      "visible_duration_s": 11.48,
+      "image_prompt_manifest": "prompts/shot_22.json",
+      "image_source": "images/shot_22.source.json",
+      "reference_manifest": "references/shot_22.json",
+      "motion": "fixed"
+    },
+    {
+      "id": 23,
+      "paragraph_id": "p006",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u03",
+          "start_char": 0,
+          "end_char": 32
+        }
+      ],
+      "text": "因为昨天和好朋友肩并着肩坐在一起看雪的那一小段安静又温暖的时光，",
+      "title": "一段肩并肩的时光",
+      "location": "记忆中的门廊",
+      "time_of_day": "昨日下午·记忆",
+      "layer": "storybook",
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe_nobag.png"
+        ],
+        "rongrong": [
+          "references/rongrong_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001",
+        "rongrong": "forest_green_v001"
+      },
+      "visual_direction": "呈现昨天的同一门廊回忆：皮皮和绒绒在长椅上肩并肩看雪，原来那条米白绒毯仍平铺各盖一半；构图柔和安静，但保留真实水彩场景，不做拼贴或魔法光圈。",
+      "action": "呈现昨天的同一门廊回忆：皮皮和绒绒在长椅上肩并肩看雪，原来那条米白绒毯仍平铺各盖一半；构图柔和安静，但保留真实水彩场景，不做拼贴或魔法光圈。",
+      "continuity_refs": [
+        "LOC_PORCH_01",
+        "CHAR_PIPI_01",
+        "CHAR_RONGRONG_01",
+        "PROP_BENCH_01",
+        "PROP_FLANNEL_BLANKET_01"
+      ],
+      "state_before": "这是皮皮心中的昨天回忆，时间明确回到昨日下午；重现此前共享毯子的正确状态。",
+      "state_after": "最温暖的相伴时光留在记忆中，不改变当晚收纳状态。",
+      "transition_from": 22,
+      "image_status": "passed_contact_sheet_and_continuity_review",
+      "image_path": "images/shot_23.png",
+      "image": "images/shot_23.png",
+      "speech_start_s": 222.0904375,
+      "speech_end_s": 231.529833,
+      "actual_start_s": 221.52,
+      "actual_end_s": 231.76,
+      "visible_start_s": 221.04000000000002,
+      "visible_end_s": 232.23999999999998,
+      "visible_duration_s": 11.2,
+      "image_prompt_manifest": "prompts/shot_23.json",
+      "image_source": "images/shot_23.source.json",
+      "reference_manifest": "references/shot_23.json",
+      "motion": "fixed"
+    },
+    {
+      "id": 24,
+      "paragraph_id": "p006",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u04",
+          "start_char": 0,
+          "end_char": 11
+        },
+        {
+          "unit_id": "p006_u05",
+          "start_char": 0,
+          "end_char": 11
+        }
+      ],
+      "text": "已经像那片冬青叶一样，稳稳地留在他的心里了。",
+      "title": "温暖留在心里",
+      "location": "皮皮卧室床上",
+      "time_of_day": "今天夜晚·柔和暖光",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_sleep_wardrobe.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "回到当前卧室，皮皮将一只爪轻轻放在胸口，脸上浮现安心的小小微笑；胡萝卜玩偶贴在胸前，暖黄被子盖好，床尾藤篮远处安静可见。",
+      "action": "回到当前卧室，皮皮将一只爪轻轻放在胸口，脸上浮现安心的小小微笑；胡萝卜玩偶贴在胸前，暖黄被子盖好，床尾藤篮远处安静可见。",
+      "continuity_refs": [
+        "LOC_PIPI_BEDROOM_01",
+        "CHAR_PIPI_01",
+        "PROP_BED_01",
+        "PROP_CARROT_PLUSH_01",
+        "PROP_YELLOW_BLANKET_01",
+        "PROP_WICKER_BASKET_01"
+      ],
+      "state_before": "从昨日回忆明确回到当前卧室；所有物件回到当前夜间位置。",
+      "state_after": "皮皮感到那段温暖已经留在心里。",
+      "transition_from": 23,
+      "image_status": "passed_contact_sheet_and_continuity_review",
+      "image_path": "images/shot_24.png",
+      "image": "images/shot_24.png",
+      "speech_start_s": 232.025375,
+      "speech_end_s": 238.03452049999999,
+      "actual_start_s": 231.76,
+      "actual_end_s": 238.6,
+      "visible_start_s": 231.28,
+      "visible_end_s": 239.07999999999998,
+      "visible_duration_s": 7.8,
+      "image_prompt_manifest": "prompts/shot_24.json",
+      "image_source": "images/shot_24.source.json",
+      "reference_manifest": "references/shot_24.json",
+      "motion": "fixed"
+    },
+    {
+      "id": 25,
+      "paragraph_id": "p006",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u06",
+          "start_char": 0,
+          "end_char": 7
+        },
+        {
+          "unit_id": "p006_u07",
+          "start_char": 0,
+          "end_char": 8
+        }
+      ],
+      "text": "皮皮闭上眼睛，呼吸均匀而绵长。",
+      "title": "呼吸慢慢均匀",
+      "location": "皮皮卧室床上",
+      "time_of_day": "今天夜晚·柔和暖光",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_sleep_wardrobe.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "皮皮闭上眼睛，安静地躺在枕边，长耳自然放松；黄毯与胡萝卜玩偶位置稳定，暖灯渐柔，呼吸绵长。",
+      "action": "皮皮闭上眼睛，安静地躺在枕边，长耳自然放松；黄毯与胡萝卜玩偶位置稳定，暖灯渐柔，呼吸绵长。",
+      "continuity_refs": [
+        "LOC_PIPI_BEDROOM_01",
+        "CHAR_PIPI_01",
+        "PROP_BED_01",
+        "PROP_YELLOW_BLANKET_01",
+        "PROP_CARROT_PLUSH_01"
+      ],
+      "state_before": "皮皮由睁眼的释然转入闭眼休息。",
+      "state_after": "皮皮安稳入睡，室内仍温暖宁静。",
+      "transition_from": 24,
+      "image_status": "passed_contact_sheet_and_continuity_review",
+      "image_path": "images/shot_25.png",
+      "image": "images/shot_25.png",
+      "speech_start_s": 239.14793749999998,
+      "speech_end_s": 244.10764516666666,
+      "actual_start_s": 238.6,
+      "actual_end_s": 244.68,
+      "visible_start_s": 238.12,
+      "visible_end_s": 245.16,
+      "visible_duration_s": 7.04,
+      "image_prompt_manifest": "prompts/shot_25.json",
+      "image_source": "images/shot_25.source.json",
+      "reference_manifest": "references/shot_25.json",
+      "motion": "fixed"
+    },
+    {
+      "id": 26,
+      "paragraph_id": "p007",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u01",
+          "start_char": 0,
+          "end_char": 4
+        },
+        {
+          "unit_id": "p007_u02",
+          "start_char": 0,
+          "end_char": 13
+        },
+        {
+          "unit_id": "p007_u03",
+          "start_char": 0,
+          "end_char": 14
+        }
+      ],
+      "text": "小朋友，和好朋友分享过的快乐时光，会一直留在记忆里温暖着我们。",
+      "title": "朋友分享的快乐",
+      "location": "记忆中的门廊",
+      "time_of_day": "昨日下午·温暖回忆",
+      "layer": "storybook",
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe_nobag.png"
+        ],
+        "rongrong": [
+          "references/rongrong_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001",
+        "rongrong": "forest_green_v001"
+      },
+      "visual_direction": "再次呈现同一段快乐记忆：皮皮和绒绒肩并肩坐在雪后门廊长椅上，米白毯仍各盖一半，神情平静开心；时间是过去的回忆，不与当晚的入睡状态混淆。",
+      "action": "再次呈现同一段快乐记忆：皮皮和绒绒肩并肩坐在雪后门廊长椅上，米白毯仍各盖一半，神情平静开心；时间是过去的回忆，不与当晚的入睡状态混淆。",
+      "continuity_refs": [
+        "LOC_PORCH_01",
+        "CHAR_PIPI_01",
+        "CHAR_RONGRONG_01",
+        "PROP_BENCH_01",
+        "PROP_FLANNEL_BLANKET_01"
+      ],
+      "state_before": "片尾寄语提到分享的时光，短暂回望昨天的共享画面。",
+      "state_after": "以安静共享的温暖画面承接对听众的晚安祝愿。",
+      "transition_from": 25,
+      "image_status": "passed_contact_sheet_and_continuity_review",
+      "image_path": "images/shot_26.png",
+      "image": "images/shot_26.png",
+      "speech_start_s": 245.25245833333332,
+      "speech_end_s": 254.72718683333332,
+      "actual_start_s": 244.68,
+      "actual_end_s": 255.32,
+      "visible_start_s": 244.20000000000002,
+      "visible_end_s": 255.79999999999998,
+      "visible_duration_s": 11.6,
+      "image_prompt_manifest": "prompts/shot_26.json",
+      "image_source": "images/shot_26.source.json",
+      "reference_manifest": "references/shot_26.json",
+      "motion": "fixed"
+    },
+    {
+      "id": 27,
+      "paragraph_id": "p007",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u04",
+          "start_char": 0,
+          "end_char": 3
+        },
+        {
+          "unit_id": "p007_u05",
+          "start_char": 0,
+          "end_char": 14
+        },
+        {
+          "unit_id": "p007_u06",
+          "start_char": 0,
+          "end_char": 8
+        },
+        {
+          "unit_id": "p007_u07",
+          "start_char": 0,
+          "end_char": 3
+        }
+      ],
+      "text": "现在，回到属于你自己的温暖被窝里，安心睡个好觉吧。晚安。",
+      "title": "回到自己的暖被窝",
+      "location": "皮皮卧室床上",
+      "time_of_day": "今天夜晚·深蓝夜色",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_sleep_wardrobe.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "回到皮皮自己的床上，皮皮在暖黄毛毯下安心熟睡，胡萝卜玩偶抱在胸前，床尾藤篮和折叠米白绒毯远处可辨；窗外深蓝安静，最后留白渐暗。",
+      "action": "回到皮皮自己的床上，皮皮在暖黄毛毯下安心熟睡，胡萝卜玩偶抱在胸前，床尾藤篮和折叠米白绒毯远处可辨；窗外深蓝安静，最后留白渐暗。",
+      "continuity_refs": [
+        "LOC_PIPI_BEDROOM_01",
+        "CHAR_PIPI_01",
+        "PROP_BED_01",
+        "PROP_YELLOW_BLANKET_01",
+        "PROP_CARROT_PLUSH_01",
+        "PROP_WICKER_BASKET_01",
+        "PROP_FLANNEL_BLANKET_01"
+      ],
+      "state_before": "当前时间回到夜晚；皮皮睡在自己的床和黄毯下，绒毯仍收好。",
+      "state_after": "皮皮进入安睡尾声，最后4秒由渲染渐暗。",
+      "transition_from": 26,
+      "image_status": "passed_contact_sheet_and_continuity_review",
+      "image_path": "images/shot_27.png",
+      "image": "images/shot_27.png",
+      "speech_start_s": 255.87643749999998,
+      "speech_end_s": 265.3420823333333,
+      "actual_start_s": 255.32,
+      "actual_end_s": 266.48,
+      "visible_start_s": 254.84,
+      "visible_end_s": 266.48,
+      "visible_duration_s": 11.64,
+      "image_prompt_manifest": "prompts/shot_27.json",
+      "image_source": "images/shot_27.source.json",
+      "reference_manifest": "references/shot_27.json",
+      "motion": "fixed"
+    }
+  ],
+  "audio": "mix.wav",
+  "subtitles": "episode.ass",
+  "character_registry": "references/",
+  "fonts": [
+    {
+      "path": "fonts/NotoSans-Regular.ttf",
+      "sha256": "89c3c497f618fdaa0b2d1e98fef93582f28c71debd2c4a8cdf41f190ced2909d"
+    },
+    {
+      "path": "fonts/Noto-CJK-copyright.txt",
+      "sha256": "849f4ea9c214fa4ac3593b770c699f387534b11ce671264c1b10d85bdcb5997b"
+    },
+    {
+      "path": "fonts/NotoSansCJKsc-Regular.otf",
+      "sha256": "82e9bdfd176ce68c51f6ff89ca7e2abae7fdb82b4591aa7338638598ae3c91c8"
+    },
+    {
+      "path": "fonts/Noto-Sans-copyright.txt",
+      "sha256": "075f91382875da1c4b491f1facf2586f55448705133264d98ce15cab6211b125"
+    },
+    {
+      "path": "fonts/NotoSansCJKsc-Bold.otf",
+      "sha256": "85c969dbb2f927c8dbbe440d5755b7c9a714f13a7a58339459df43cfff3583b3"
+    }
+  ]
+}

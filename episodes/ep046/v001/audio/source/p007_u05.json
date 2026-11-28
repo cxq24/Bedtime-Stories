@@ -1,0 +1,59 @@
+{
+  "text": "回到属于你自己的温暖被窝里，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "f668646e5c75fcb77959c97326d48d7585e66100b58d481a1438091689ae77c3",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5384580,
+      "text": "回到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 5000000,
+      "text": "属于"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12230830,
+      "duration": 2307500,
+      "text": "你"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14730830,
+      "duration": 4422910,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19153750,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21077080,
+      "duration": 5577080,
+      "text": "温暖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26846250,
+      "duration": 6922910,
+      "text": "被窝"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33769160,
+      "duration": 3846250,
+      "text": "里"
+    }
+  ]
+}

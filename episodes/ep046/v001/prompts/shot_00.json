@@ -1,0 +1,9 @@
+{
+  "shot_id": 0,
+  "title": "片头：雪中的绒毯",
+  "prompt": "Single static vertical 9:16 watercolor storybook illustration, soft hand-painted washes and delicate paper grain, children's bedtime picture book, simple uncluttered composition, no panels/collage/border/letters/captions/watermark. Keep important objects in upper two-thirds, lower quarter quiet for subtitles. Wide quiet winter porch with one wide wooden bench and one plain folded cream flannel blanket, only these objects. Gentle sparse snow in background and warm golden doorway glow. Do not show people or animals. No holly, no leaves, no carrot, no dish, no basket, no toys, no extra furniture, no text. Leave lower quarter calm for subtitles.",
+  "references_loaded": [
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/porch_scene_ref.png"
+  ],
+  "output_source": "/workspace/generated_images/exec-0f641089-6094-496f-8302-866f8b7f0353.png"
+}

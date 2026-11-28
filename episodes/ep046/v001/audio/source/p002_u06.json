@@ -1,0 +1,29 @@
+{
+  "text": "天放晴了，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "0a2cb705c8a89e0c5a67a9694c456cd54b32d0dc6df72cee0639b52c17977813",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3846250,
+      "text": "天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5115410,
+      "duration": 7115410,
+      "text": "放晴"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12230830,
+      "duration": 3461660,
+      "text": "了"
+    }
+  ]
+}

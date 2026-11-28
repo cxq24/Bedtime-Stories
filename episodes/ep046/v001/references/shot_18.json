@@ -1,0 +1,16 @@
+{
+  "episode": "ep046",
+  "shot_id": 18,
+  "continuity_asset_ids": [
+    "LOC_RONGRONG_HOME_01",
+    "CHAR_RONGRONG_01",
+    "PROP_BEAR_QUILT_01"
+  ],
+  "referenced_image_paths": [
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/rongrong_identity_v001.png"
+  ],
+  "characters": [
+    "rongrong"
+  ],
+  "image_source_manifest": "images/shot_18.source.json"
+}

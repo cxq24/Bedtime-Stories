@@ -1,0 +1,9 @@
+{
+  "shot_id": 1,
+  "title": "片头：两份温暖",
+  "prompt": "Single static vertical 9:16 watercolor storybook illustration, soft hand-painted washes and delicate paper grain, children's bedtime picture book, simple uncluttered composition, no panels/collage/border/letters/captions/watermark. Keep important objects in upper two-thirds, lower quarter quiet for subtitles. Close quiet composition of a single plain cream flannel blanket spread evenly across the center of one wide wooden bench, showing two empty neighboring places. Sparse falling snow beyond the porch rail, soft warm evening light. No people or animals. No holly, no leaves, no carrot, no dish, no basket, no toys, no extra furniture, no text.",
+  "references_loaded": [
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/porch_scene_ref.png"
+  ],
+  "output_source": "/workspace/generated_images/exec-9352dbe4-2083-4a29-b5f0-2af66010547f.png"
+}

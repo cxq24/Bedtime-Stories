@@ -1,0 +1,19 @@
+{
+  "image_tool": "built_in image_gen",
+  "shot_id": 4,
+  "image": "images/shot_04.png",
+  "prompt": "Single static vertical 9:16 hand-painted watercolor bedtime storybook illustration, soft paper grain, warm gentle lighting. Outdoors on the wooden cabin front porch during light snowfall in late afternoon. A wide wooden bench against the cabin wall, snowy forest clearly visible beyond the porch. Pipi, small warm-gray rabbit girl in beige shirt, blue-gray short overalls and blue shoes, sits upright on one side. Rongrong, broad friendly young brown bear in muted forest-green vest, sits beside her. They look at the falling snow; Pipi tells a story while Rongrong listens with a happy smile. One plain solid ivory cream flannel blanket lies flat across both friends’ laps, covering each equally with a clear half-and-half division. They are outdoors, upright on the porch bench, not indoors and not lying down or wrapped together. No bed, bedroom, fireplace, quilt, comforter or other blanket. Show the full figures and keep composition in upper two thirds with quiet snow foreground in lower quarter for subtitles. No words, letters, logos, collage, panels, border, backpack, basket, dish, leaf, toys, carrot or food.",
+  "references_loaded": [
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/pipi_day_wardrobe.png",
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/rongrong_identity_v001.png",
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/porch_scene_ref.png",
+    "/workspace/Bedtime-Stories/episodes/ep046/v001/references/prop_blanket_folded.png"
+  ],
+  "output_source": "/workspace/generated_images/exec-b020b5fa-38db-4605-8515-427b6b8dd1cc.png",
+  "size_px": [
+    941,
+    1672
+  ],
+  "review_status": "passed_full_contact_sheet_and_continuity_review"
+}

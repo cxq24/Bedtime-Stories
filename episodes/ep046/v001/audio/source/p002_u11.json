@@ -1,0 +1,35 @@
+{
+  "text": "更有趣的是，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "8c80e0adf9c33745ec4b80f9918b28f802677dcd86b64545b4165af865b6e043",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3077080,
+      "text": "更"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4538330,
+      "duration": 6153750,
+      "text": "有趣"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10692500,
+      "duration": 1730410,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12422910,
+      "duration": 5384580,
+      "text": "是"
+    }
+  ]
+}
