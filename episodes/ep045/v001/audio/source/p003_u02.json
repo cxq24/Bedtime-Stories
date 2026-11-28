@@ -1,0 +1,167 @@
+{
+  "text": "他先帮皮皮把最粗、最平的几根长木柴垫在箱子最底下，铺成稳稳的一层地基；\n",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "59f0307e65f6895f34242e12fe6c33c06003b2d2cb590bce314473b545574799",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2500000,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3769160,
+      "duration": 3077080,
+      "text": "先"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 2692500,
+      "text": "帮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9730830,
+      "duration": 8077080,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19346250,
+      "duration": 2500000,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22038330,
+      "duration": 3653750,
+      "text": "最"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25692500,
+      "duration": 4807500,
+      "text": "粗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33577080,
+      "duration": 3461250,
+      "text": "最"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37038330,
+      "duration": 3077080,
+      "text": "平"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40115410,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41846250,
+      "duration": 2307500,
+      "text": "几"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44153750,
+      "duration": 2500000,
+      "text": "根"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47038330,
+      "duration": 5000000,
+      "text": "长木"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52230830,
+      "duration": 8269160,
+      "text": "柴垫"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 62038330,
+      "duration": 2500000,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64730830,
+      "duration": 5000000,
+      "text": "箱子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 69922910,
+      "duration": 3269160,
+      "text": "最"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 73192500,
+      "duration": 7500000,
+      "text": "底下"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 85500000,
+      "duration": 2500000,
+      "text": "铺"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 88000000,
+      "duration": 2884580,
+      "text": "成"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 91269160,
+      "duration": 2692500,
+      "text": "稳"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 93961660,
+      "duration": 3076660,
+      "text": "稳"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 97038330,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 98384580,
+      "duration": 2115410,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 100500000,
+      "duration": 2884580,
+      "text": "层"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 103577080,
+      "duration": 7307500,
+      "text": "地基"
+    }
+  ]
+}

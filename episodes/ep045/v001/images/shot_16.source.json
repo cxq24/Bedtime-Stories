@@ -1,0 +1,14 @@
+{
+  "image_tool": "built-in image_gen",
+  "shot_id": 16,
+  "image": "images/shot_16.png",
+  "prompt": "Single vertical 9:16 hand-painted watercolor storybook illustration, same cozy wooden winter porch. The same low rectangular wooden box is fully and neatly filled with pale birch logs, ends aligned within the box, stable and level. The porch floor in front is freshly swept and completely clean. Warm window light, quiet winter dusk. Absolutely no people, children, rabbits, bears, animals, broom, basket, tools or extra objects. No text.",
+  "references_loaded": [
+    "/tmp/ep045-full/episodes/ep045/v001/assets/reference_snapshots/woodbox_full_source.png"
+  ],
+  "size_px": [
+    941,
+    1672
+  ],
+  "review_status": "generated_pending_contact_sheet_and_continuity_review"
+}

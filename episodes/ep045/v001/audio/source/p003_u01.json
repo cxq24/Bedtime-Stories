@@ -1,0 +1,89 @@
+{
+  "text": "小熊绒绒平时经常帮熊爸爸整理木工坊，很有经验。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "b1c64bc47925b8b1bc2f1f7580e767d957160569eadf8a606369150481bf1120",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3846250,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5115410,
+      "duration": 10577080,
+      "text": "熊绒绒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17230830,
+      "duration": 6922910,
+      "text": "平时"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24538330,
+      "duration": 5961660,
+      "text": "经常"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30692500,
+      "duration": 2692500,
+      "text": "帮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33769160,
+      "duration": 3077080,
+      "text": "熊"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36846250,
+      "duration": 5000000,
+      "text": "爸爸"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42230830,
+      "duration": 4230830,
+      "text": "整理"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46653750,
+      "duration": 5384580,
+      "text": "木工"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52038330,
+      "duration": 3846250,
+      "text": "坊"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59730830,
+      "duration": 2692080,
+      "text": "很"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 62422910,
+      "duration": 2500000,
+      "text": "有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 65115410,
+      "duration": 6922910,
+      "text": "经验"
+    }
+  ]
+}

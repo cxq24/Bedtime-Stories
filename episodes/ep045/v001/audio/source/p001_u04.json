@@ -1,0 +1,77 @@
+{
+  "text": "陪皮皮一起把木柴摆进矮矮的长方形木箱里。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "daf481cff24ea21932800e951d855d5acb36b1ae208b9532177cc41d68bc4a66",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3269160,
+      "text": "陪"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4538330,
+      "duration": 8077080,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13000000,
+      "duration": 6730830,
+      "text": "一起"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19922910,
+      "duration": 2307500,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22422910,
+      "duration": 5192500,
+      "text": "木柴"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27615410,
+      "duration": 6346250,
+      "text": "摆进"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34346250,
+      "duration": 4807500,
+      "text": "矮矮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39153750,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40884580,
+      "duration": 9038330,
+      "text": "长方形"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50115410,
+      "duration": 6538330,
+      "text": "木箱"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56653750,
+      "duration": 3653750,
+      "text": "里"
+    }
+  ]
+}

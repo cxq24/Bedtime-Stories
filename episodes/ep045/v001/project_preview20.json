@@ -1,0 +1,181 @@
+{
+  "episode": "ep045",
+  "duration_s": 20.0,
+  "fps": 25,
+  "frames": 500,
+  "preview": true,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "shot_count": 27,
+  "crossfade_s": 0.96,
+  "curve": "linear",
+  "within_shot_motion": "none",
+  "subtitles_after_picture_transitions": true,
+  "clean": "/tmp/ep045-full/episodes/ep045/v001/ep045_preview20_clean.mp4",
+  "publish": "/tmp/ep045-full/episodes/ep045/v001/ep045_preview20.mp4",
+  "delivery_directory": "/tmp/ep045-full/episodes/ep045/v001",
+  "shots": [
+    {
+      "id": 0,
+      "paragraph_id": "p000",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u01",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "text": "小朋友们，准备好听故事了吗？今天的故事叫《木柴整整齐齐》。",
+      "title": "片头：木柴整齐叠好",
+      "location": "独立片头画面",
+      "time_of_day": "冬日傍晚",
+      "layer": "storybook",
+      "characters": [],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {},
+      "visual_direction": "静物开场：一只矮矮的长方形木箱里，桦木柴整齐而稳当地码放；木柴有长短差异与天然树结，门廊外透进蓝色冬日天光；不出现角色或文字。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。",
+      "action": "静物开场：一只矮矮的长方形木箱里，桦木柴整齐而稳当地码放；木柴有长短差异与天然树结，门廊外透进蓝色冬日天光；不出现角色或文字。",
+      "continuity_refs": [
+        "PROP_FIREWOOD_01",
+        "PROP_WOODBOX_01"
+      ],
+      "state_before": "独立片头，用木柴整齐收纳引出主题。",
+      "state_after": "一箱木柴已码放整齐，静静留在门廊。",
+      "transition_from": null,
+      "image_status": "generated",
+      "image_path": "images/shot_00.png",
+      "image": "images/shot_00.png",
+      "speech_start_s": 1.0,
+      "speech_end_s": 9.5704785,
+      "actual_start_s": 0.0,
+      "actual_end_s": 9.88,
+      "visible_start_s": 0.0,
+      "visible_end_s": 10.360000000000001,
+      "visible_duration_s": 10.36,
+      "image_source": "images/shot_00.source.json"
+    },
+    {
+      "id": 1,
+      "paragraph_id": "p000",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u02",
+          "start_char": 0,
+          "end_char": 26
+        }
+      ],
+      "text": "木柴已经搬好了，皮皮和绒绒怎样稳稳地为今天收个尾呢？",
+      "title": "片头：皮皮和绒绒准备收尾",
+      "location": "独立片头画面",
+      "time_of_day": "冬日傍晚",
+      "layer": "storybook",
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe.png"
+        ],
+        "rongrong": [
+          "references/rongrong_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001",
+        "rongrong": "vest_green_v001"
+      },
+      "visual_direction": "皮皮小灰兔与小熊绒绒站在门廊木箱两侧，友好地看着木柴，准备把今天的整理工作稳稳收尾；表情平和专注，冬日傍晚柔光；无字。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。",
+      "action": "皮皮小灰兔与小熊绒绒站在门廊木箱两侧，友好地看着木柴，准备把今天的整理工作稳稳收尾；表情平和专注，冬日傍晚柔光；无字。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "CHAR_RONGRONG_01",
+        "PROP_WOODBOX_01"
+      ],
+      "state_before": "承接片头主题，呈现两位朋友和整理好的木箱。",
+      "state_after": "皮皮与绒绒共同站在门廊木箱旁。",
+      "transition_from": 0,
+      "image_status": "generated",
+      "image_path": "images/shot_01.png",
+      "image": "images/shot_01.png",
+      "speech_start_s": 10.174541666666666,
+      "speech_end_s": 17.501374666666667,
+      "actual_start_s": 9.88,
+      "actual_end_s": 17.8,
+      "visible_start_s": 9.4,
+      "visible_end_s": 18.28,
+      "visible_duration_s": 8.88,
+      "image_source": "images/shot_01.source.json"
+    },
+    {
+      "id": 2,
+      "paragraph_id": "p001",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u01",
+          "start_char": 0,
+          "end_char": 36
+        }
+      ],
+      "text": "冬天的森林里需要生壁炉和暖炉，每家每户的屋檐下都会准备一些干燥的木柴。\n",
+      "title": "冬天家家备木柴",
+      "location": "森林小屋外景",
+      "time_of_day": "冬日白天",
+      "layer": "storybook",
+      "characters": [],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {},
+      "visual_direction": "冬日森林里几间木屋的屋檐下整齐存着干燥木柴，浅雪覆地，烟囱安静升起淡烟；无人物，氛围安全温暖。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。",
+      "action": "冬日森林里几间木屋的屋檐下整齐存着干燥木柴，浅雪覆地，烟囱安静升起淡烟；无人物，氛围安全温暖。",
+      "continuity_refs": [
+        "LOC_VILLAGE_01",
+        "PROP_FIREWOOD_01"
+      ],
+      "state_before": "片头转入故事背景，建立冬日森林木屋环境。",
+      "state_after": "家家屋檐下都备有干燥木柴。",
+      "transition_from": 1,
+      "image_status": "generated",
+      "image_path": "images/shot_02.png",
+      "image": "images/shot_02.png",
+      "speech_start_s": 18.1123125,
+      "speech_end_s": 28.336832666666666,
+      "actual_start_s": 17.8,
+      "actual_end_s": 28.64,
+      "visible_start_s": 17.32,
+      "visible_end_s": 29.12,
+      "visible_duration_s": 11.8,
+      "image_source": "images/shot_02.source.json"
+    }
+  ],
+  "audio": "mix.wav",
+  "subtitles": "episode.ass",
+  "character_registry": "references/",
+  "fonts": [
+    {
+      "path": "fonts/NotoSansCJKsc-Bold.otf",
+      "sha256": "85c969dbb2f927c8dbbe440d5755b7c9a714f13a7a58339459df43cfff3583b3"
+    },
+    {
+      "path": "fonts/Noto-Sans-copyright.txt",
+      "sha256": "075f91382875da1c4b491f1facf2586f55448705133264d98ce15cab6211b125"
+    },
+    {
+      "path": "fonts/NotoSans-Regular.ttf",
+      "sha256": "89c3c497f618fdaa0b2d1e98fef93582f28c71debd2c4a8cdf41f190ced2909d"
+    },
+    {
+      "path": "fonts/NotoSansCJKsc-Regular.otf",
+      "sha256": "82e9bdfd176ce68c51f6ff89ca7e2abae7fdb82b4591aa7338638598ae3c91c8"
+    },
+    {
+      "path": "fonts/Noto-CJK-copyright.txt",
+      "sha256": "849f4ea9c214fa4ac3593b770c699f387534b11ce671264c1b10d85bdcb5997b"
+    }
+  ]
+}

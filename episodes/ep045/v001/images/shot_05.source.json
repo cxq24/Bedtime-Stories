@@ -1,0 +1,17 @@
+{
+  "image_tool": "built-in image_gen",
+  "shot_id": 5,
+  "image": "images/shot_05.png",
+  "prompt": "A single vertical 9:16 watercolor storybook illustration, Pipi and Rongrong begin loading birch logs into the empty rectangular porch box. Pipi is the exact warm-gray droopy-eared rabbit in beige shirt and muted blue overalls; Rongrong is the small brown bear in an olive vest. Each carries one pale birch log toward the empty box; a loose pile remains beside it. Calm winter dusk, warm cabin window, clean blue snow outside, faces/box in upper two-thirds, lower quarter clear. No schoolbag, no other characters, no text, no watermark, no collage.",
+  "references_loaded": [
+    "/tmp/ep045-full/episodes/ep045/v001/references/pipi_identity_v001.png",
+    "/tmp/ep045-full/episodes/ep045/v001/references/pipi_day_wardrobe.png",
+    "/tmp/ep045-full/episodes/ep045/v001/references/rongrong_identity_v001.png",
+    "/tmp/ep045-full/episodes/ep045/v001/assets/woodbox_empty_ref.png"
+  ],
+  "size_px": [
+    941,
+    1672
+  ],
+  "review_status": "generated_pending_contact_sheet_and_continuity_review"
+}

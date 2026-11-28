@@ -1,0 +1,12 @@
+{
+  "image_tool": "built-in image_gen",
+  "shot_id": 6,
+  "image": "images/shot_06.png",
+  "prompt": "A single static vertical 9:16 watercolor picture-book illustration for a gentle Chinese bedtime story, delicate hand-painted watercolor with soft paper grain, warm wood textures and quiet winter blue dusk. Preserve exact scene and identity from the listed character and continuity references. Keep faces and story objects in the upper two-thirds with a calm, uncluttered lower quarter for later subtitles. No text, no letters, no captions, no watermark, no collage, no border, no multiple panels. 几根干燥浅色桦木柴并排近景，长短不同，表面有天然树结和纹理；远处虚化可见同一木箱，不改变柴的种类。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。 Maintain the low rectangular wooden box, pale birch logs and porch layout from the loaded continuity image where provided, while creating a fresh composition for this shot. Close-up only of varied dry birch logs and their natural knot surfaces. Absolutely no characters, no animals, no rabbits, no bears, no paws, no people.",
+  "references_loaded": [],
+  "size_px": [
+    941,
+    1672
+  ],
+  "review_status": "generated_pending_contact_sheet_and_continuity_review"
+}

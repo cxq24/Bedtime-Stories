@@ -1,0 +1,16 @@
+{
+  "image_tool": "built-in image_gen",
+  "shot_id": 26,
+  "image": "images/shot_26.png",
+  "prompt": "A single static vertical 9:16 watercolor storybook illustration for a Chinese bedtime story. The same small warm-gray rabbit Pipi, with pink nose and naturally drooping long ears, lies asleep in soft pale sleepwear and a navy star cap, a small orange carrot doll beside him. Quiet cozy cabin bedroom at deep winter night, warm bedside lamp and cool blue window, gentle restful expression, lower quarter uncluttered for subtitles. No wood box or firewood in the bedroom, no other characters, no text, no watermark, no collage.",
+  "references_loaded": [
+    "episodes/ep045/v001/references/pipi_identity_v001.png",
+    "episodes/ep045/v001/references/pipi_sleep_wardrobe.png",
+    "episodes/ep045/v001/references/bedroom_scene_ref.png"
+  ],
+  "size_px": [
+    941,
+    1672
+  ],
+  "review_status": "generated_pending_contact_sheet_and_continuity_review"
+}

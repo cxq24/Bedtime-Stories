@@ -128,6 +128,20 @@ FIX = {
 }
 
 
+FIX.update({
+    '桦木柴': ['huà', 'mù', 'chái'],
+    '桦木': ['huà', 'mù'],
+    '木柴': ['mù', 'chái'],
+    '木屑': ['mù', 'xiè'],
+    '地基': ['dì', 'jī'],
+    '木工坊': ['mù', 'gōng', 'fāng'],
+    '壁炉': ['bì', 'lú'],
+    '暖炉': ['nuǎn', 'lú'],
+    '整整齐齐': ['zhěng', 'zhěng', 'qí', 'qí'],
+    '小熊绒绒': ['xiǎo', 'xióng', 'róng', 'róng'],
+})
+
+
 def is_hanzi(ch):
     return bool(re.fullmatch(r'[\u3400-\u9fff]', ch))
 

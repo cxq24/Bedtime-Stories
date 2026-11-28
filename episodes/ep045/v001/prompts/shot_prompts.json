@@ -1,0 +1,303 @@
+[
+  {
+    "shot_id": 0,
+    "title": "片头：木柴整齐叠好",
+    "prompt": "A single static vertical 9:16 watercolor picture-book illustration for a gentle Chinese bedtime story, delicate hand-painted watercolor with soft paper grain, warm wood textures and quiet winter blue dusk. Preserve exact scene and identity from the listed character and continuity references. Keep faces and story objects in the upper two-thirds with a calm, uncluttered lower quarter for later subtitles. No text, no letters, no captions, no watermark, no collage, no border, no multiple panels. 静物开场：一只矮矮的长方形木箱里，桦木柴整齐而稳当地码放；木柴有长短差异与天然树结，门廊外透进蓝色冬日天光；不出现角色或文字。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。 Maintain the low rectangular wooden box, pale birch logs and porch layout from the loaded continuity image where provided, while creating a fresh composition for this shot.",
+    "references_loaded": [],
+    "output_source": "images/shot_00.source.json"
+  },
+  {
+    "shot_id": 1,
+    "title": "片头：皮皮和绒绒准备收尾",
+    "prompt": "A single static vertical 9:16 watercolor picture-book illustration for a gentle Chinese bedtime story, delicate hand-painted watercolor with soft paper grain, warm wood textures and quiet winter blue dusk. Preserve exact scene and identity from the listed character and continuity references. Keep faces and story objects in the upper two-thirds with a calm, uncluttered lower quarter for later subtitles. No text, no letters, no captions, no watermark, no collage, no border, no multiple panels. Pipi is the exact small warm-gray rabbit from the identity reference, round face, pink nose and long naturally drooping ears. Use the described moment-specific gaze and expression, not the sleepy reference expression. He wears the same beige top and muted blue short overalls. No schoolbag in the home. Rongrong is the same small round brown bear with cream muzzle and chest, wearing the olive-green vest from his reference. Keep his design smaller than the house adult bears, no human hands. 皮皮小灰兔与小熊绒绒站在门廊木箱两侧，友好地看着木柴，准备把今天的整理工作稳稳收尾；表情平和专注，冬日傍晚柔光；无字。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。 Maintain the low rectangular wooden box, pale birch logs and porch layout from the loaded continuity image where provided, while creating a fresh composition for this shot.",
+    "references_loaded": [
+      "references/pipi_identity_v001.png",
+      "references/pipi_day_wardrobe.png",
+      "references/rongrong_identity_v001.png",
+      "images/shot_00.png"
+    ],
+    "output_source": "images/shot_01.source.json"
+  },
+  {
+    "shot_id": 2,
+    "title": "冬天家家备木柴",
+    "prompt": "A single static vertical 9:16 watercolor picture-book illustration for a gentle Chinese bedtime story, delicate hand-painted watercolor with soft paper grain, warm wood textures and quiet winter blue dusk. Preserve exact scene and identity from the listed character and continuity references. Keep faces and story objects in the upper two-thirds with a calm, uncluttered lower quarter for later subtitles. No text, no letters, no captions, no watermark, no collage, no border, no multiple panels. 冬日森林里几间木屋的屋檐下整齐存着干燥木柴，浅雪覆地，烟囱安静升起淡烟；无人物，氛围安全温暖。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。 Maintain the low rectangular wooden box, pale birch logs and porch layout from the loaded continuity image where provided, while creating a fresh composition for this shot. No storage box in this village establishing image; only dry firewood under cabin eaves.",
+    "references_loaded": [],
+    "output_source": "images/shot_02.source.json"
+  },
+  {
+    "shot_id": 3,
+    "title": "绒绒来家里玩",
+    "prompt": "A single static vertical 9:16 watercolor picture-book illustration for a gentle Chinese bedtime story, delicate hand-painted watercolor with soft paper grain, warm wood textures and quiet winter blue dusk. Preserve exact scene and identity from the listed character and continuity references. Keep faces and story objects in the upper two-thirds with a calm, uncluttered lower quarter for later subtitles. No text, no letters, no captions, no watermark, no collage, no border, no multiple panels. Pipi is the exact small warm-gray rabbit from the identity reference, round face, pink nose and long naturally drooping ears. Use the described moment-specific gaze and expression, not the sleepy reference expression. He wears the same beige top and muted blue short overalls. No schoolbag in the home. Rongrong is the same small round brown bear with cream muzzle and chest, wearing the olive-green vest from his reference. Keep his design smaller than the house adult bears, no human hands. 皮皮家木屋门廊，皮皮穿米色上衣、灰蓝背带裤，迎接来访的小熊绒绒；两人自然微笑问候，干净无雪门廊。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。 Maintain the low rectangular wooden box, pale birch logs and porch layout from the loaded continuity image where provided, while creating a fresh composition for this shot. The reference woodbox is EMPTY at this story moment. Keep it empty while the friend arrives or the first unstable attempt begins; show the loose wood pile beside it, never show a neatly filled box.",
+    "references_loaded": [
+      "references/pipi_identity_v001.png",
+      "references/pipi_day_wardrobe.png",
+      "references/rongrong_identity_v001.png",
+      "assets/woodbox_empty_ref.png"
+    ],
+    "output_source": "images/shot_03.source.json"
+  },
+  {
+    "shot_id": 4,
+    "title": "木柴送到收纳角",
+    "prompt": "A single static vertical 9:16 watercolor picture-book illustration for a gentle Chinese bedtime story, delicate hand-painted watercolor with soft paper grain, warm wood textures and quiet winter blue dusk. Preserve exact scene and identity from the listed character and continuity references. Keep faces and story objects in the upper two-thirds with a calm, uncluttered lower quarter for later subtitles. No text, no letters, no captions, no watermark, no collage, no border, no multiple panels. Pipi is the exact small warm-gray rabbit from the identity reference, round face, pink nose and long naturally drooping ears. Use the described moment-specific gaze and expression, not the sleepy reference expression. He wears the same beige top and muted blue short overalls. No schoolbag in the home. Rongrong is the same small round brown bear with cream muzzle and chest, wearing the olive-green vest from his reference. Keep his design smaller than the house adult bears, no human hands. 门廊收纳角堆着刚送来的干桦木柴，旁边已有矮矮长方形木箱；绒绒热心地挽起袖口表示留下帮忙，皮皮在旁点头。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。 Maintain the low rectangular wooden box, pale birch logs and porch layout from the loaded continuity image where provided, while creating a fresh composition for this shot. The reference woodbox is EMPTY at this story moment. Keep it empty while the friend arrives or the first unstable attempt begins; show the loose wood pile beside it, never show a neatly filled box.",
+    "references_loaded": [
+      "references/pipi_identity_v001.png",
+      "references/pipi_day_wardrobe.png",
+      "references/rongrong_identity_v001.png",
+      "assets/woodbox_empty_ref.png"
+    ],
+    "output_source": "images/shot_04.source.json"
+  },
+  {
+    "shot_id": 5,
+    "title": "两人开始把木柴放进箱子",
+    "prompt": "A single vertical 9:16 watercolor storybook illustration, Pipi and Rongrong begin loading birch logs into the empty rectangular porch box. Pipi is the exact warm-gray droopy-eared rabbit in beige shirt and muted blue overalls; Rongrong is the small brown bear in an olive vest. Each carries one pale birch log toward the empty box; a loose pile remains beside it. Calm winter dusk, warm cabin window, clean blue snow outside, faces/box in upper two-thirds, lower quarter clear. No schoolbag, no other characters, no text, no watermark, no collage.",
+    "references_loaded": [
+      "/tmp/ep045-full/episodes/ep045/v001/references/pipi_identity_v001.png",
+      "/tmp/ep045-full/episodes/ep045/v001/references/pipi_day_wardrobe.png",
+      "/tmp/ep045-full/episodes/ep045/v001/references/rongrong_identity_v001.png",
+      "/tmp/ep045-full/episodes/ep045/v001/assets/woodbox_empty_ref.png"
+    ],
+    "output_source": "images/shot_05.source.json"
+  },
+  {
+    "shot_id": 6,
+    "title": "长短不同的木柴",
+    "prompt": "A single static vertical 9:16 watercolor picture-book illustration for a gentle Chinese bedtime story, delicate hand-painted watercolor with soft paper grain, warm wood textures and quiet winter blue dusk. Preserve exact scene and identity from the listed character and continuity references. Keep faces and story objects in the upper two-thirds with a calm, uncluttered lower quarter for later subtitles. No text, no letters, no captions, no watermark, no collage, no border, no multiple panels. 几根干燥浅色桦木柴并排近景，长短不同，表面有天然树结和纹理；远处虚化可见同一木箱，不改变柴的种类。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。 Maintain the low rectangular wooden box, pale birch logs and porch layout from the loaded continuity image where provided, while creating a fresh composition for this shot. Close-up only of varied dry birch logs and their natural knot surfaces. Absolutely no characters, no animals, no rabbits, no bears, no paws, no people.",
+    "references_loaded": [],
+    "output_source": "images/shot_06.source.json"
+  },
+  {
+    "shot_id": 7,
+    "title": "皮皮想横着摆一排",
+    "prompt": "A single static vertical 9:16 watercolor picture-book illustration for a gentle Chinese bedtime story, delicate hand-painted watercolor with soft paper grain, warm wood textures and quiet winter blue dusk. Preserve exact scene and identity from the listed character and continuity references. Keep faces and story objects in the upper two-thirds with a calm, uncluttered lower quarter for later subtitles. No text, no letters, no captions, no watermark, no collage, no border, no multiple panels. Pipi is the exact small warm-gray rabbit from the identity reference, round face, pink nose and long naturally drooping ears. Use the described moment-specific gaze and expression, not the sleepy reference expression. He wears the same beige top and muted blue short overalls. No schoolbag in the home. Rongrong is the same small round brown bear with cream muzzle and chest, wearing the olive-green vest from his reference. Keep his design smaller than the house adult bears, no human hands. 皮皮在矮木箱前尝试把长短木柴都横向摆成一排；绒绒在旁观察，摆放尚未稳定，表情专注而不焦虑。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。 Maintain the low rectangular wooden box, pale birch logs and porch layout from the loaded continuity image where provided, while creating a fresh composition for this shot. The reference woodbox is EMPTY at this story moment. Keep it empty while the friend arrives or the first unstable attempt begins; show the loose wood pile beside it, never show a neatly filled box. Show Pipi actively laying the first horizontal logs inside the empty box, one long log visibly sticks out past the box side; Rongrong observes. Only 2 or 3 logs inside, visibly an unsuccessful first arrangement.",
+    "references_loaded": [
+      "references/pipi_identity_v001.png",
+      "references/pipi_day_wardrobe.png",
+      "references/rongrong_identity_v001.png",
+      "assets/woodbox_empty_ref.png"
+    ],
+    "output_source": "images/shot_07.source.json"
+  },
+  {
+    "shot_id": 8,
+    "title": "木柴露出箱外",
+    "prompt": "A single static vertical 9:16 watercolor picture-book illustration for a gentle Chinese bedtime story, delicate hand-painted watercolor with soft paper grain, warm wood textures and quiet winter blue dusk. Preserve exact scene and identity from the listed character and continuity references. Keep faces and story objects in the upper two-thirds with a calm, uncluttered lower quarter for later subtitles. No text, no letters, no captions, no watermark, no collage, no border, no multiple panels. Pipi is the exact small warm-gray rabbit from the identity reference, round face, pink nose and long naturally drooping ears. Use the described moment-specific gaze and expression, not the sleepy reference expression. He wears the same beige top and muted blue short overalls. No schoolbag in the home. Rongrong is the same small round brown bear with cream muzzle and chest, wearing the olive-green vest from his reference. Keep his design smaller than the house adult bears, no human hands. 一两根较长木柴从矮木箱侧边伸出一截，上层木柴微微倾斜摇晃；皮皮看向突出端，绒绒留在箱子另一侧，画面安全不危险。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。 Maintain the low rectangular wooden box, pale birch logs and porch layout from the loaded continuity image where provided, while creating a fresh composition for this shot. The reference woodbox is EMPTY at this story moment. Keep it empty while the friend arrives or the first unstable attempt begins; show the loose wood pile beside it, never show a neatly filled box. Show several long logs placed horizontally inside the box, one or two ends protruding beyond the short side and the uppermost pieces visibly tilted and unstable, not yet a stable base. Both characters look at the wobble.",
+    "references_loaded": [
+      "references/pipi_identity_v001.png",
+      "references/pipi_day_wardrobe.png",
+      "references/rongrong_identity_v001.png",
+      "assets/woodbox_empty_ref.png"
+    ],
+    "output_source": "images/shot_08.source.json"
+  },
+  {
+    "shot_id": 9,
+    "title": "绒绒想起木工坊",
+    "prompt": "A single static vertical 9:16 watercolor picture-book illustration for a gentle Chinese bedtime story, delicate hand-painted watercolor with soft paper grain, warm wood textures and quiet winter blue dusk. Preserve exact scene and identity from the listed character and continuity references. Keep faces and story objects in the upper two-thirds with a calm, uncluttered lower quarter for later subtitles. No text, no letters, no captions, no watermark, no collage, no border, no multiple panels. Pipi is the exact small warm-gray rabbit from the identity reference, round face, pink nose and long naturally drooping ears. Use the described moment-specific gaze and expression, not the sleepy reference expression. He wears the same beige top and muted blue short overalls. No schoolbag in the home. Rongrong is the same small round brown bear with cream muzzle and chest, wearing the olive-green vest from his reference. Keep his design smaller than the house adult bears, no human hands. 绒绒沉着地观察摇晃的木柴，抬爪示意可以先打好底层；皮皮认真看向绒绒，彼此姿势自然，门廊布局一致。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。 Maintain the low rectangular wooden box, pale birch logs and porch layout from the loaded continuity image where provided, while creating a fresh composition for this shot. The reference woodbox is EMPTY at this story moment. Keep it empty while the friend arrives or the first unstable attempt begins; show the loose wood pile beside it, never show a neatly filled box.",
+    "references_loaded": [
+      "references/pipi_identity_v001.png",
+      "references/pipi_day_wardrobe.png",
+      "references/rongrong_identity_v001.png",
+      "assets/woodbox_empty_ref.png"
+    ],
+    "output_source": "images/shot_09.source.json"
+  },
+  {
+    "shot_id": 10,
+    "title": "粗长木柴铺成地基",
+    "prompt": "A single static vertical 9:16 watercolor picture-book illustration for a gentle Chinese bedtime story, delicate hand-painted watercolor with soft paper grain, warm wood textures and quiet winter blue dusk. Preserve exact scene and identity from the listed character and continuity references. Keep faces and story objects in the upper two-thirds with a calm, uncluttered lower quarter for later subtitles. No text, no letters, no captions, no watermark, no collage, no border, no multiple panels. Pipi is the exact small warm-gray rabbit from the identity reference, round face, pink nose and long naturally drooping ears. Use the described moment-specific gaze and expression, not the sleepy reference expression. He wears the same beige top and muted blue short overalls. No schoolbag in the home. Rongrong is the same small round brown bear with cream muzzle and chest, wearing the olive-green vest from his reference. Keep his design smaller than the house adult bears, no human hands. 绒绒把最粗最平的几根长桦木平稳并排放在木箱底部，形成平直地基；皮皮扶住木箱边缘，木柴不外露。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。 Maintain the low rectangular wooden box, pale birch logs and porch layout from the loaded continuity image where provided, while creating a fresh composition for this shot. The box is still mostly empty; this is the beginning of the solution, only the thick flat longest logs are being laid as the bottom foundation.",
+    "references_loaded": [
+      "references/pipi_identity_v001.png",
+      "references/pipi_day_wardrobe.png",
+      "references/rongrong_identity_v001.png",
+      "assets/woodbox_empty_ref.png"
+    ],
+    "output_source": "images/shot_10.source.json"
+  },
+  {
+    "shot_id": 11,
+    "title": "皮皮找到空位",
+    "prompt": "A single static vertical 9:16 watercolor picture-book illustration for a gentle Chinese bedtime story, delicate hand-painted watercolor with soft paper grain, warm wood textures and quiet winter blue dusk. Preserve exact scene and identity from the listed character and continuity references. Keep faces and story objects in the upper two-thirds with a calm, uncluttered lower quarter for later subtitles. No text, no letters, no captions, no watermark, no collage, no border, no multiple panels. Pipi is the exact small warm-gray rabbit from the identity reference, round face, pink nose and long naturally drooping ears. Use the described moment-specific gaze and expression, not the sleepy reference expression. He wears the same beige top and muted blue short overalls. No schoolbag in the home. Rongrong is the same small round brown bear with cream muzzle and chest, wearing the olive-green vest from his reference. Keep his design smaller than the house adult bears, no human hands. 皮皮认真看着长木柴之间留下的小空位，手里拿起一根短木柴，眼神灵活专注；绒绒在旁鼓励。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。 Maintain the low rectangular wooden box, pale birch logs and porch layout from the loaded continuity image where provided, while creating a fresh composition for this shot. Only a stable bottom layer of a few long logs is in the box; there is still ample empty space, no top layers yet.",
+    "references_loaded": [
+      "references/pipi_identity_v001.png",
+      "references/pipi_day_wardrobe.png",
+      "references/rongrong_identity_v001.png",
+      "assets/woodbox_empty_ref.png"
+    ],
+    "output_source": "images/shot_11.source.json"
+  },
+  {
+    "shot_id": 12,
+    "title": "短木柴像拼积木",
+    "prompt": "A single static vertical 9:16 watercolor picture-book illustration for a gentle Chinese bedtime story, delicate hand-painted watercolor with soft paper grain, warm wood textures and quiet winter blue dusk. Preserve exact scene and identity from the listed character and continuity references. Keep faces and story objects in the upper two-thirds with a calm, uncluttered lower quarter for later subtitles. No text, no letters, no captions, no watermark, no collage, no border, no multiple panels. Pipi is the exact small warm-gray rabbit from the identity reference, round face, pink nose and long naturally drooping ears. Use the described moment-specific gaze and expression, not the sleepy reference expression. He wears the same beige top and muted blue short overalls. No schoolbag in the home. Rongrong is the same small round brown bear with cream muzzle and chest, wearing the olive-green vest from his reference. Keep his design smaller than the house adult bears, no human hands. 皮皮把短小的桦木柴刚好横放进长木柴旁的空位，形成彼此支撑的层次；绒绒看着并轻轻点头。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。 Maintain the low rectangular wooden box, pale birch logs and porch layout from the loaded continuity image where provided, while creating a fresh composition for this shot. The box has only a partly built bottom and several short pieces filling side gaps; most of the box remains empty. Do not make it look finished or full.",
+    "references_loaded": [
+      "references/pipi_identity_v001.png",
+      "references/pipi_day_wardrobe.png",
+      "references/rongrong_identity_v001.png",
+      "assets/woodbox_empty_ref.png"
+    ],
+    "output_source": "images/shot_12.source.json"
+  },
+  {
+    "shot_id": 13,
+    "title": "笃笃的木头声",
+    "prompt": "A single static vertical 9:16 watercolor picture-book illustration for a gentle Chinese bedtime story, delicate hand-painted watercolor with soft paper grain, warm wood textures and quiet winter blue dusk. Preserve exact scene and identity from the listed character and continuity references. Keep faces and story objects in the upper two-thirds with a calm, uncluttered lower quarter for later subtitles. No text, no letters, no captions, no watermark, no collage, no border, no multiple panels. Pipi is the exact small warm-gray rabbit from the identity reference, round face, pink nose and long naturally drooping ears. Use the described moment-specific gaze and expression, not the sleepy reference expression. He wears the same beige top and muted blue short overalls. No schoolbag in the home. Rongrong is the same small round brown bear with cream muzzle and chest, wearing the olive-green vest from his reference. Keep his design smaller than the house adult bears, no human hands. 皮皮和绒绒一根接一根轻放木柴，木头相触的瞬间有细小木屑与柔和动态感，但画面静止；暖色傍晚门廊。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。 Maintain the low rectangular wooden box, pale birch logs and porch layout from the loaded continuity image where provided, while creating a fresh composition for this shot. The box has only a partly built bottom and several short pieces filling side gaps; most of the box remains empty. Do not make it look finished or full.",
+    "references_loaded": [
+      "references/pipi_identity_v001.png",
+      "references/pipi_day_wardrobe.png",
+      "references/rongrong_identity_v001.png",
+      "assets/woodbox_empty_ref.png"
+    ],
+    "output_source": "images/shot_13.source.json"
+  },
+  {
+    "shot_id": 14,
+    "title": "互相让位补空缺",
+    "prompt": "A single static vertical 9:16 watercolor picture-book illustration for a gentle Chinese bedtime story, delicate hand-painted watercolor with soft paper grain, warm wood textures and quiet winter blue dusk. Preserve exact scene and identity from the listed character and continuity references. Keep faces and story objects in the upper two-thirds with a calm, uncluttered lower quarter for later subtitles. No text, no letters, no captions, no watermark, no collage, no border, no multiple panels. Pipi is the exact small warm-gray rabbit from the identity reference, round face, pink nose and long naturally drooping ears. Use the described moment-specific gaze and expression, not the sleepy reference expression. He wears the same beige top and muted blue short overalls. No schoolbag in the home. Rongrong is the same small round brown bear with cream muzzle and chest, wearing the olive-green vest from his reference. Keep his design smaller than the house adult bears, no human hands. 俯侧视角显示不同长度的木柴交错靠在一起，空隙被合适短柴补好；皮皮和绒绒的爪子在箱沿附近，不出现尺子或多余道具。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。 Maintain the low rectangular wooden box, pale birch logs and porch layout from the loaded continuity image where provided, while creating a fresh composition for this shot. The box is still mid-process, with several logs being gently placed one by one; not yet perfectly level or complete.",
+    "references_loaded": [
+      "references/pipi_identity_v001.png",
+      "references/pipi_day_wardrobe.png",
+      "references/rongrong_identity_v001.png",
+      "assets/woodbox_empty_ref.png"
+    ],
+    "output_source": "images/shot_14.source.json"
+  },
+  {
+    "shot_id": 15,
+    "title": "木箱稳稳平整",
+    "prompt": "A single static vertical 9:16 watercolor picture-book illustration for a gentle Chinese bedtime story, delicate hand-painted watercolor with soft paper grain, warm wood textures and quiet winter blue dusk. Preserve exact scene and identity from the listed character and continuity references. Keep faces and story objects in the upper two-thirds with a calm, uncluttered lower quarter for later subtitles. No text, no letters, no captions, no watermark, no collage, no border, no multiple panels. Pipi is the exact small warm-gray rabbit from the identity reference, round face, pink nose and long naturally drooping ears. Use the described moment-specific gaze and expression, not the sleepy reference expression. He wears the same beige top and muted blue short overalls. No schoolbag in the home. Rongrong is the same small round brown bear with cream muzzle and chest, wearing the olive-green vest from his reference. Keep his design smaller than the house adult bears, no human hands. 矮木箱装得平平整整，柴端齐整收在箱沿之内；皮皮轻轻用爪子试着确认不摇晃，绒绒安稳站在旁边。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。 Maintain the low rectangular wooden box, pale birch logs and porch layout from the loaded continuity image where provided, while creating a fresh composition for this shot. The box is now nearly full, but show this as the realization moment immediately after the partial arrangement in the continuity reference; keep the same log identities and porch layout.",
+    "references_loaded": [
+      "references/pipi_identity_v001.png",
+      "references/pipi_day_wardrobe.png",
+      "references/rongrong_identity_v001.png",
+      "assets/reference_snapshots/woodbox_midstage_source.png"
+    ],
+    "output_source": "images/shot_15.source.json"
+  },
+  {
+    "shot_id": 16,
+    "title": "门廊地面清爽",
+    "prompt": "Single vertical 9:16 hand-painted watercolor storybook illustration, same cozy wooden winter porch. The same low rectangular wooden box is fully and neatly filled with pale birch logs, ends aligned within the box, stable and level. The porch floor in front is freshly swept and completely clean. Warm window light, quiet winter dusk. Absolutely no people, children, rabbits, bears, animals, broom, basket, tools or extra objects. No text.",
+    "references_loaded": [
+      "/tmp/ep045-full/episodes/ep045/v001/assets/reference_snapshots/woodbox_full_source.png"
+    ],
+    "output_source": "images/shot_16.source.json"
+  },
+  {
+    "shot_id": 17,
+    "title": "拍掉爪上木屑坐下歇息",
+    "prompt": "A single static vertical 9:16 watercolor picture-book illustration for a gentle Chinese bedtime story, delicate hand-painted watercolor with soft paper grain, warm wood textures and quiet winter blue dusk. Preserve exact scene and identity from the listed character and continuity references. Keep faces and story objects in the upper two-thirds with a calm, uncluttered lower quarter for later subtitles. No text, no letters, no captions, no watermark, no collage, no border, no multiple panels. Pipi is the exact small warm-gray rabbit from the identity reference, round face, pink nose and long naturally drooping ears. Use the described moment-specific gaze and expression, not the sleepy reference expression. He wears the same beige top and muted blue short overalls. No schoolbag in the home. Rongrong is the same small round brown bear with cream muzzle and chest, wearing the olive-green vest from his reference. Keep his design smaller than the house adult bears, no human hands. 皮皮和绒绒互相轻拍爪上的少许木屑，然后并排坐上门廊台阶休息；背景中已整齐的木箱在收纳角，动作放松。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。 Maintain the low rectangular wooden box, pale birch logs and porch layout from the loaded continuity image where provided, while creating a fresh composition for this shot.",
+    "references_loaded": [
+      "references/pipi_identity_v001.png",
+      "references/pipi_day_wardrobe.png",
+      "references/rongrong_identity_v001.png",
+      "images/shot_00.png"
+    ],
+    "output_source": "images/shot_17.source.json"
+  },
+  {
+    "shot_id": 18,
+    "title": "天空从浅蓝走向夜蓝",
+    "prompt": "A single static vertical 9:16 watercolor picture-book illustration for a gentle Chinese bedtime story, delicate hand-painted watercolor with soft paper grain, warm wood textures and quiet winter blue dusk. Preserve exact scene and identity from the listed character and continuity references. Keep faces and story objects in the upper two-thirds with a calm, uncluttered lower quarter for later subtitles. No text, no letters, no captions, no watermark, no collage, no border, no multiple panels. Pipi is the exact small warm-gray rabbit from the identity reference, round face, pink nose and long naturally drooping ears. Use the described moment-specific gaze and expression, not the sleepy reference expression. He wears the same beige top and muted blue short overalls. No schoolbag in the home. Rongrong is the same small round brown bear with cream muzzle and chest, wearing the olive-green vest from his reference. Keep his design smaller than the house adult bears, no human hands. 皮皮和绒绒的背影安静坐在门廊台阶上，远处天空从浅蓝渐染成深邃夜空蓝；收纳木箱的轮廓留在门廊边。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。 Maintain the low rectangular wooden box, pale birch logs and porch layout from the loaded continuity image where provided, while creating a fresh composition for this shot.",
+    "references_loaded": [
+      "references/pipi_identity_v001.png",
+      "references/pipi_day_wardrobe.png",
+      "references/rongrong_identity_v001.png",
+      "images/shot_00.png"
+    ],
+    "output_source": "images/shot_18.source.json"
+  },
+  {
+    "shot_id": 19,
+    "title": "绒绒挥手回家",
+    "prompt": "A single static vertical 9:16 watercolor picture-book illustration for a gentle Chinese bedtime story, delicate hand-painted watercolor with soft paper grain, warm wood textures and quiet winter blue dusk. Preserve exact scene and identity from the listed character and continuity references. Keep faces and story objects in the upper two-thirds with a calm, uncluttered lower quarter for later subtitles. No text, no letters, no captions, no watermark, no collage, no border, no multiple panels. Pipi is the exact small warm-gray rabbit from the identity reference, round face, pink nose and long naturally drooping ears. Use the described moment-specific gaze and expression, not the sleepy reference expression. He wears the same beige top and muted blue short overalls. No schoolbag in the home. Rongrong is the same small round brown bear with cream muzzle and chest, wearing the olive-green vest from his reference. Keep his design smaller than the house adult bears, no human hands. 绒绒站在门廊出口挥手告别，皮皮站在门边回挥；小熊向冬日森林小路走去，门廊木箱仍在收纳角。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。 Maintain the low rectangular wooden box, pale birch logs and porch layout from the loaded continuity image where provided, while creating a fresh composition for this shot.",
+    "references_loaded": [
+      "references/pipi_identity_v001.png",
+      "references/pipi_day_wardrobe.png",
+      "references/rongrong_identity_v001.png",
+      "images/shot_00.png"
+    ],
+    "output_source": "images/shot_19.source.json"
+  },
+  {
+    "shot_id": 20,
+    "title": "回头看一眼收好的木箱",
+    "prompt": "A single static vertical 9:16 watercolor picture-book illustration for a gentle Chinese bedtime story, delicate hand-painted watercolor with soft paper grain, warm wood textures and quiet winter blue dusk. Preserve exact scene and identity from the listed character and continuity references. Keep faces and story objects in the upper two-thirds with a calm, uncluttered lower quarter for later subtitles. No text, no letters, no captions, no watermark, no collage, no border, no multiple panels. Pipi is the exact small warm-gray rabbit from the identity reference, round face, pink nose and long naturally drooping ears. Use the described moment-specific gaze and expression, not the sleepy reference expression. He wears the same beige top and muted blue short overalls. No schoolbag in the home. 皮皮进屋前回头望向同一只已收好的木箱，神情安定满足；屋内暖光在身后，木柴依旧整整齐齐。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。 Maintain the low rectangular wooden box, pale birch logs and porch layout from the loaded continuity image where provided, while creating a fresh composition for this shot.",
+    "references_loaded": [
+      "references/pipi_identity_v001.png",
+      "references/pipi_day_wardrobe.png",
+      "images/shot_00.png"
+    ],
+    "output_source": "images/shot_20.source.json"
+  },
+  {
+    "shot_id": 21,
+    "title": "温水洗净小爪子",
+    "prompt": "A single static vertical 9:16 watercolor picture-book illustration for a gentle Chinese bedtime story, delicate hand-painted watercolor with soft paper grain, warm wood textures and quiet winter blue dusk. Preserve exact scene and identity from the listed character and continuity references. Keep faces and story objects in the upper two-thirds with a calm, uncluttered lower quarter for later subtitles. No text, no letters, no captions, no watermark, no collage, no border, no multiple panels. Pipi is the exact small warm-gray rabbit from the identity reference, round face, pink nose and long naturally drooping ears. Use the described moment-specific gaze and expression, not the sleepy reference expression. He wears the same beige top and muted blue short overalls. No schoolbag in the home. 皮皮在温暖的木屋洗手间用温水洗干净小爪子，水龙头水流柔缓，浅色毛巾挂在旁边；表情放松。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。 Maintain the low rectangular wooden box, pale birch logs and porch layout from the loaded continuity image where provided, while creating a fresh composition for this shot.",
+    "references_loaded": [
+      "references/pipi_identity_v001.png",
+      "references/pipi_day_wardrobe.png",
+      "images/shot_00.png"
+    ],
+    "output_source": "images/shot_21.source.json"
+  },
+  {
+    "shot_id": 22,
+    "title": "回到床上抱住胡萝卜玩偶",
+    "prompt": "A single static vertical 9:16 watercolor picture-book illustration for a gentle Chinese bedtime story, delicate hand-painted watercolor with soft paper grain, warm wood textures and quiet winter blue dusk. Preserve exact scene and identity from the listed character and continuity references. Keep faces and story objects in the upper two-thirds with a calm, uncluttered lower quarter for later subtitles. No text, no letters, no captions, no watermark, no collage, no border, no multiple panels. Pipi is the exact small warm-gray rabbit from the identity reference, round face, pink nose and long naturally drooping ears. Use the described moment-specific gaze and expression, not the sleepy reference expression. He wears the same soft pale sleepwear and navy star cap; blanket stays below his face. 皮皮换上柔软浅色睡衣和深蓝星星睡帽，回到卧室床边，把橘色胡萝卜玩偶轻轻抱在身侧；卧室布局温暖安静。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。 Maintain the low rectangular wooden box, pale birch logs and porch layout from the loaded continuity image where provided, while creating a fresh composition for this shot.",
+    "references_loaded": [
+      "references/pipi_identity_v001.png",
+      "references/pipi_sleep_wardrobe.png",
+      "references/bedroom_scene_ref.png"
+    ],
+    "output_source": "images/shot_22.source.json"
+  },
+  {
+    "shot_id": 23,
+    "title": "长耳朵放下眼睛闭好",
+    "prompt": "A single static vertical 9:16 watercolor picture-book illustration for a gentle Chinese bedtime story, delicate hand-painted watercolor with soft paper grain, warm wood textures and quiet winter blue dusk. Preserve exact scene and identity from the listed character and continuity references. Keep faces and story objects in the upper two-thirds with a calm, uncluttered lower quarter for later subtitles. No text, no letters, no captions, no watermark, no collage, no border, no multiple panels. Pipi is the exact small warm-gray rabbit from the identity reference, round face, pink nose and long naturally drooping ears. Use the described moment-specific gaze and expression, not the sleepy reference expression. He wears the same soft pale sleepwear and navy star cap; blanket stays below his face. 皮皮躺在小床上，长耳朵自然落在枕边，双眼安稳闭好；胡萝卜玩偶轻轻靠在身旁，毛毯盖到肩下，不遮口鼻。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。 Maintain the low rectangular wooden box, pale birch logs and porch layout from the loaded continuity image where provided, while creating a fresh composition for this shot.",
+    "references_loaded": [
+      "references/pipi_identity_v001.png",
+      "references/pipi_sleep_wardrobe.png",
+      "references/bedroom_scene_ref.png"
+    ],
+    "output_source": "images/shot_23.source.json"
+  },
+  {
+    "shot_id": 24,
+    "title": "力气在暖被窝里歇下",
+    "prompt": "A single static vertical 9:16 watercolor picture-book illustration for a gentle Chinese bedtime story, delicate hand-painted watercolor with soft paper grain, warm wood textures and quiet winter blue dusk. Preserve exact scene and identity from the listed character and continuity references. Keep faces and story objects in the upper two-thirds with a calm, uncluttered lower quarter for later subtitles. No text, no letters, no captions, no watermark, no collage, no border, no multiple panels. Pipi is the exact small warm-gray rabbit from the identity reference, round face, pink nose and long naturally drooping ears. Use the described moment-specific gaze and expression, not the sleepy reference expression. He wears the same soft pale sleepwear and navy star cap; blanket stays below his face. 安静卧室里，皮皮盖着柔软被子熟睡，手边木工活动已告一段落；窗外夜色清冷，床头灯暖黄柔和，画面表达踏实放松。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。 Maintain the low rectangular wooden box, pale birch logs and porch layout from the loaded continuity image where provided, while creating a fresh composition for this shot.",
+    "references_loaded": [
+      "references/pipi_identity_v001.png",
+      "references/pipi_sleep_wardrobe.png",
+      "references/bedroom_scene_ref.png",
+      "assets/reference_snapshots/bedtime_scene_source.png"
+    ],
+    "output_source": "images/shot_24.source.json"
+  },
+  {
+    "shot_id": 25,
+    "title": "轮到你舒舒服服休息",
+    "prompt": "A single static vertical 9:16 watercolor picture-book illustration for a gentle Chinese bedtime story, delicate hand-painted watercolor with soft paper grain, warm wood textures and quiet winter blue dusk. Preserve exact scene and identity from the listed character and continuity references. Keep faces and story objects in the upper two-thirds with a calm, uncluttered lower quarter for later subtitles. No text, no letters, no captions, no watermark, no collage, no border, no multiple panels. Pipi is the exact small warm-gray rabbit from the identity reference, round face, pink nose and long naturally drooping ears. Use the described moment-specific gaze and expression, not the sleepy reference expression. He wears the same soft pale sleepwear and navy star cap; blanket stays below his face. 皮皮在温暖被窝里熟睡，画面远处门廊方向留有温柔木色意象，窗外深蓝宁静；不出现文字或新增角色。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。 Maintain the low rectangular wooden box, pale birch logs and porch layout from the loaded continuity image where provided, while creating a fresh composition for this shot.",
+    "references_loaded": [
+      "references/pipi_identity_v001.png",
+      "references/pipi_sleep_wardrobe.png",
+      "references/bedroom_scene_ref.png",
+      "assets/reference_snapshots/bedtime_scene_source.png"
+    ],
+    "output_source": "images/shot_25.source.json"
+  },
+  {
+    "shot_id": 26,
+    "title": "轻轻说晚安",
+    "prompt": "A single static vertical 9:16 watercolor storybook illustration for a Chinese bedtime story. The same small warm-gray rabbit Pipi, with pink nose and naturally drooping long ears, lies asleep in soft pale sleepwear and a navy star cap, a small orange carrot doll beside him. Quiet cozy cabin bedroom at deep winter night, warm bedside lamp and cool blue window, gentle restful expression, lower quarter uncluttered for subtitles. No wood box or firewood in the bedroom, no other characters, no text, no watermark, no collage.",
+    "references_loaded": [
+      "/tmp/ep045-full/episodes/ep045/v001/references/pipi_identity_v001.png",
+      "/tmp/ep045-full/episodes/ep045/v001/references/pipi_sleep_wardrobe.png",
+      "/tmp/ep045-full/episodes/ep045/v001/references/bedroom_scene_ref.png"
+    ],
+    "output_source": "images/shot_26.source.json"
+  }
+]

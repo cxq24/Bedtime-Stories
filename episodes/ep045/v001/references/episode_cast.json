@@ -1,0 +1,18 @@
+{
+  "episode": "ep045",
+  "characters": {
+    "pipi": {
+      "identity": "references/pipi_identity_v001.png",
+      "day_wardrobe": "references/pipi_day_wardrobe.png",
+      "sleep_wardrobe": "references/pipi_sleep_wardrobe.png"
+    },
+    "rongrong": {
+      "identity": "references/rongrong_identity_v001.png",
+      "wardrobe": "橄榄绿马甲（见身份参考）"
+    }
+  },
+  "locations": {
+    "bedroom": "references/bedroom_scene_ref.png"
+  },
+  "identity_acceptance": "registry_approved_for_initial_production_use"
+}

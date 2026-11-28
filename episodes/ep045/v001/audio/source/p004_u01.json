@@ -1,0 +1,125 @@
+{
+  "text": "一根接一根，“笃、笃、笃”，清脆的木头碰撞声在傍晚的门廊下响起。\n",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "149768de6492e0d80fa225f270ade8dbe4b08f6d7c628625cf7533aa97e6c8b3",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2500000,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3769160,
+      "duration": 2500000,
+      "text": "根"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6653750,
+      "duration": 2307500,
+      "text": "接"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9153750,
+      "duration": 2115410,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11269160,
+      "duration": 4230830,
+      "text": "根"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19153750,
+      "duration": 4422910,
+      "text": "笃"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26653750,
+      "duration": 4422910,
+      "text": "笃"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34153750,
+      "duration": 4038330,
+      "text": "笃"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43192500,
+      "duration": 5961250,
+      "text": "清脆"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 49153750,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50692500,
+      "duration": 7692500,
+      "text": "木头"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59922910,
+      "duration": 6153750,
+      "text": "碰撞"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 66077080,
+      "duration": 4615410,
+      "text": "声"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 72038330,
+      "duration": 2692500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 74922910,
+      "duration": 5577080,
+      "text": "傍晚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 80500000,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 82038330,
+      "duration": 5000000,
+      "text": "门廊"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 87038330,
+      "duration": 2692500,
+      "text": "下"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 89922910,
+      "duration": 8653750,
+      "text": "响起"
+    }
+  ]
+}

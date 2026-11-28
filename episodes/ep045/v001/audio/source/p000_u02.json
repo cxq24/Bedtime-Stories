@@ -1,0 +1,107 @@
+{
+  "text": "木柴已经搬好了，皮皮和绒绒怎样稳稳地为今天收个尾呢？",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "796bfe151ddb7c05a71f421f804a3d2f21d3d3255285f62b683e1e4eb1d86b7a",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5577080,
+      "text": "木柴"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7230830,
+      "duration": 3653750,
+      "text": "已经"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11077080,
+      "duration": 6730410,
+      "text": "搬好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17807500,
+      "duration": 3269160,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26269160,
+      "duration": 5000000,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31653750,
+      "duration": 2115410,
+      "text": "和"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33961660,
+      "duration": 8077080,
+      "text": "绒绒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43384580,
+      "duration": 5769160,
+      "text": "怎样"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 49346250,
+      "duration": 4615410,
+      "text": "稳稳"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53961660,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55692500,
+      "duration": 2500000,
+      "text": "为"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58384580,
+      "duration": 4422910,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63192500,
+      "duration": 2307500,
+      "text": "收"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 65500000,
+      "duration": 1538330,
+      "text": "个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 67230830,
+      "duration": 3653750,
+      "text": "尾"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 70884580,
+      "duration": 3846250,
+      "text": "呢"
+    }
+  ]
+}

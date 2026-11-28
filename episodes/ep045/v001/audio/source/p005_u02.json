@@ -1,0 +1,89 @@
+{
+  "text": "看着远处的天空从浅蓝色慢慢变成深邃的夜空蓝。\n",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "5bf85cc1488b0b97b3b7e51c428ae59177821d392c02aea8c094df1ec1aeec93",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3269160,
+      "text": "看"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4538330,
+      "duration": 1346250,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6269160,
+      "duration": 5384580,
+      "text": "远处"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11653750,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13192500,
+      "duration": 9038330,
+      "text": "天空"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23769160,
+      "duration": 3269160,
+      "text": "从"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27230830,
+      "duration": 3269160,
+      "text": "浅"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30500000,
+      "duration": 8653750,
+      "text": "蓝色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40692500,
+      "duration": 5384580,
+      "text": "慢慢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46269160,
+      "duration": 5384580,
+      "text": "变成"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52038330,
+      "duration": 6153750,
+      "text": "深邃"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58192500,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59538330,
+      "duration": 10384580,
+      "text": "夜空蓝"
+    }
+  ]
+}

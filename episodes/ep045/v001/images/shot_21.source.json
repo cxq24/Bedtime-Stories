@@ -1,0 +1,16 @@
+{
+  "image_tool": "built-in image_gen",
+  "shot_id": 21,
+  "image": "images/shot_21.png",
+  "prompt": "A single static vertical 9:16 watercolor picture-book illustration for a gentle Chinese bedtime story, delicate hand-painted watercolor with soft paper grain, warm wood textures and quiet winter blue dusk. Preserve exact scene and identity from the listed character and continuity references. Keep faces and story objects in the upper two-thirds with a calm, uncluttered lower quarter for later subtitles. No text, no letters, no captions, no watermark, no collage, no border, no multiple panels. Pipi is the exact small warm-gray rabbit from the identity reference, round face, pink nose and long naturally drooping ears. Use the described moment-specific gaze and expression, not the sleepy reference expression. He wears the same beige top and muted blue short overalls. No schoolbag in the home. 皮皮在温暖的木屋洗手间用温水洗干净小爪子，水龙头水流柔缓，浅色毛巾挂在旁边；表情放松。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。 Maintain the low rectangular wooden box, pale birch logs and porch layout from the loaded continuity image where provided, while creating a fresh composition for this shot.",
+  "references_loaded": [
+    "references/pipi_identity_v001.png",
+    "references/pipi_day_wardrobe.png",
+    "images/shot_00.png"
+  ],
+  "size_px": [
+    941,
+    1672
+  ],
+  "review_status": "generated_pending_contact_sheet_and_continuity_review"
+}

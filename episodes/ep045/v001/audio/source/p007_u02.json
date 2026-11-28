@@ -1,0 +1,77 @@
+{
+  "text": "现在，轮到劳累了一天的你，舒舒服服地休息啦。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "d5ab0d57ee9b339b5433a4a2a5497ac91d9503a703e4a626eb506645fb95ecd0",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 8461660,
+      "text": "现在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13961660,
+      "duration": 4230830,
+      "text": "轮到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18384580,
+      "duration": 5384580,
+      "text": "劳累"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23769160,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25115410,
+      "duration": 5384580,
+      "text": "一天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30500000,
+      "duration": 1730830,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32230830,
+      "duration": 4038330,
+      "text": "你"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40307500,
+      "duration": 11730830,
+      "text": "舒舒服服"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52038330,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53577080,
+      "duration": 6153750,
+      "text": "休息"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59730830,
+      "duration": 3077080,
+      "text": "啦"
+    }
+  ]
+}

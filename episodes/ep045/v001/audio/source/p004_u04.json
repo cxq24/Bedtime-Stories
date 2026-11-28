@@ -1,0 +1,59 @@
+{
+  "text": "门廊的地面也变得清爽极了。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "0d5e8bc74c295f7d4ce298029c768c7c35e7635ead039d4102dea3b7866e17db",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5769160,
+      "text": "门廊"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8769160,
+      "duration": 8077080,
+      "text": "地面"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18384580,
+      "duration": 2307500,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20692500,
+      "duration": 4038330,
+      "text": "变得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25115410,
+      "duration": 6538330,
+      "text": "清爽"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31846250,
+      "duration": 4038330,
+      "text": "极"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35884580,
+      "duration": 3269160,
+      "text": "了"
+    }
+  ]
+}

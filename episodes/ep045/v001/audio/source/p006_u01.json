@@ -1,0 +1,119 @@
+{
+  "text": "皮皮走进洗手间，用温水把小爪子洗得干干净净，然后回到柔软的小床上，",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "78aa6b7b7344267cd9f84f463baa772d0dd3b9ec2b1ed2dbf6f8047bedac34c2",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5577080,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7230830,
+      "duration": 2500000,
+      "text": "走"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9730830,
+      "duration": 5192500,
+      "text": "进洗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15115410,
+      "duration": 8653750,
+      "text": "手间"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28384580,
+      "duration": 2500000,
+      "text": "用"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30884580,
+      "duration": 9807500,
+      "text": "温水"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41077080,
+      "duration": 2692080,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43769160,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47038330,
+      "duration": 5192500,
+      "text": "爪子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52615410,
+      "duration": 2692080,
+      "text": "洗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55307500,
+      "duration": 1346250,
+      "text": "得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56846250,
+      "duration": 12500000,
+      "text": "干干净净"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 73769160,
+      "duration": 4807500,
+      "text": "然后"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78769160,
+      "duration": 5000000,
+      "text": "回到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 84153750,
+      "duration": 5769160,
+      "text": "柔软"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 89922910,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 91269160,
+      "duration": 7307500,
+      "text": "小床"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 98577080,
+      "duration": 4422910,
+      "text": "上"
+    }
+  ]
+}

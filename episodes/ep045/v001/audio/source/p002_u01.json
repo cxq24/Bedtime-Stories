@@ -1,0 +1,161 @@
+{
+  "text": "这些干木柴是从不同的树枝上截下来的，有的长一点，有的短一点，还有的带着一个小树结。\n",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "a1c16d2b5fae56c31ac8ec9432db9c190296cc671ad8861d3af51e646522a3fb",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5384580,
+      "text": "这些"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 4422910,
+      "text": "干木"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11269160,
+      "duration": 5961660,
+      "text": "柴"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18769160,
+      "duration": 2500000,
+      "text": "是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21269160,
+      "duration": 3077080,
+      "text": "从"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24730830,
+      "duration": 5000000,
+      "text": "不同"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29730830,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31269160,
+      "duration": 4807500,
+      "text": "树枝"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36077080,
+      "duration": 3461660,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39922910,
+      "duration": 2884580,
+      "text": "截"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42807500,
+      "duration": 5769160,
+      "text": "下来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48577080,
+      "duration": 3077080,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56653750,
+      "duration": 3461660,
+      "text": "有的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60307500,
+      "duration": 3846250,
+      "text": "长"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64346250,
+      "duration": 6730830,
+      "text": "一点"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 74730830,
+      "duration": 4230830,
+      "text": "有的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78961660,
+      "duration": 3461660,
+      "text": "短"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 82615410,
+      "duration": 6346250,
+      "text": "一点"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 92692500,
+      "duration": 3461250,
+      "text": "还"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 96153750,
+      "duration": 4422910,
+      "text": "有的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 100961660,
+      "duration": 2692080,
+      "text": "带"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 103653750,
+      "duration": 1346250,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 105192500,
+      "duration": 2884580,
+      "text": "一个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 108461660,
+      "duration": 6538330,
+      "text": "小树"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 115000000,
+      "duration": 5192500,
+      "text": "结"
+    }
+  ]
+}

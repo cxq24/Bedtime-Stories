@@ -1,0 +1,1437 @@
+{
+  "episode": "ep045",
+  "title": "木柴整整齐齐",
+  "cover_title": "皮皮摆好木柴",
+  "cover_title_lines": [
+    "皮皮摆好",
+    "木柴"
+  ],
+  "theme": "把做完的事情稳稳收尾",
+  "version": "v001",
+  "status": "draft_preflight_passed_two_textual_passes",
+  "shots": [
+    {
+      "id": 0,
+      "paragraph_id": "p000",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u01",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "text": "小朋友们，准备好听故事了吗？今天的故事叫《木柴整整齐齐》。",
+      "title": "片头：木柴整齐叠好",
+      "location": "独立片头画面",
+      "time_of_day": "冬日傍晚",
+      "layer": "storybook",
+      "characters": [],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {},
+      "visual_direction": "静物开场：一只矮矮的长方形木箱里，桦木柴整齐而稳当地码放；木柴有长短差异与天然树结，门廊外透进蓝色冬日天光；不出现角色或文字。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。",
+      "action": "静物开场：一只矮矮的长方形木箱里，桦木柴整齐而稳当地码放；木柴有长短差异与天然树结，门廊外透进蓝色冬日天光；不出现角色或文字。",
+      "continuity_refs": [
+        "PROP_FIREWOOD_01",
+        "PROP_WOODBOX_01"
+      ],
+      "state_before": "独立片头，用木柴整齐收纳引出主题。",
+      "state_after": "一箱木柴已码放整齐，静静留在门廊。",
+      "transition_from": null,
+      "image_status": "generated",
+      "image_path": "images/shot_00.png",
+      "image": "images/shot_00.png",
+      "speech_start_s": 1.0,
+      "speech_end_s": 9.5704785,
+      "actual_start_s": 0.0,
+      "actual_end_s": 9.88,
+      "visible_start_s": 0.0,
+      "visible_end_s": 10.360000000000001,
+      "visible_duration_s": 10.36,
+      "image_source": "images/shot_00.source.json"
+    },
+    {
+      "id": 1,
+      "paragraph_id": "p000",
+      "source_ranges": [
+        {
+          "unit_id": "p000_u02",
+          "start_char": 0,
+          "end_char": 26
+        }
+      ],
+      "text": "木柴已经搬好了，皮皮和绒绒怎样稳稳地为今天收个尾呢？",
+      "title": "片头：皮皮和绒绒准备收尾",
+      "location": "独立片头画面",
+      "time_of_day": "冬日傍晚",
+      "layer": "storybook",
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe.png"
+        ],
+        "rongrong": [
+          "references/rongrong_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001",
+        "rongrong": "vest_green_v001"
+      },
+      "visual_direction": "皮皮小灰兔与小熊绒绒站在门廊木箱两侧，友好地看着木柴，准备把今天的整理工作稳稳收尾；表情平和专注，冬日傍晚柔光；无字。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。",
+      "action": "皮皮小灰兔与小熊绒绒站在门廊木箱两侧，友好地看着木柴，准备把今天的整理工作稳稳收尾；表情平和专注，冬日傍晚柔光；无字。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "CHAR_RONGRONG_01",
+        "PROP_WOODBOX_01"
+      ],
+      "state_before": "承接片头主题，呈现两位朋友和整理好的木箱。",
+      "state_after": "皮皮与绒绒共同站在门廊木箱旁。",
+      "transition_from": 0,
+      "image_status": "generated",
+      "image_path": "images/shot_01.png",
+      "image": "images/shot_01.png",
+      "speech_start_s": 10.174541666666666,
+      "speech_end_s": 17.501374666666667,
+      "actual_start_s": 9.88,
+      "actual_end_s": 17.8,
+      "visible_start_s": 9.4,
+      "visible_end_s": 18.28,
+      "visible_duration_s": 8.88,
+      "image_source": "images/shot_01.source.json"
+    },
+    {
+      "id": 2,
+      "paragraph_id": "p001",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u01",
+          "start_char": 0,
+          "end_char": 36
+        }
+      ],
+      "text": "冬天的森林里需要生壁炉和暖炉，每家每户的屋檐下都会准备一些干燥的木柴。\n",
+      "title": "冬天家家备木柴",
+      "location": "森林小屋外景",
+      "time_of_day": "冬日白天",
+      "layer": "storybook",
+      "characters": [],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {},
+      "visual_direction": "冬日森林里几间木屋的屋檐下整齐存着干燥木柴，浅雪覆地，烟囱安静升起淡烟；无人物，氛围安全温暖。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。",
+      "action": "冬日森林里几间木屋的屋檐下整齐存着干燥木柴，浅雪覆地，烟囱安静升起淡烟；无人物，氛围安全温暖。",
+      "continuity_refs": [
+        "LOC_VILLAGE_01",
+        "PROP_FIREWOOD_01"
+      ],
+      "state_before": "片头转入故事背景，建立冬日森林木屋环境。",
+      "state_after": "家家屋檐下都备有干燥木柴。",
+      "transition_from": 1,
+      "image_status": "generated",
+      "image_path": "images/shot_02.png",
+      "image": "images/shot_02.png",
+      "speech_start_s": 18.1123125,
+      "speech_end_s": 28.336832666666666,
+      "actual_start_s": 17.8,
+      "actual_end_s": 28.64,
+      "visible_start_s": 17.32,
+      "visible_end_s": 29.12,
+      "visible_duration_s": 11.8,
+      "image_source": "images/shot_02.source.json"
+    },
+    {
+      "id": 3,
+      "paragraph_id": "p001",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u02",
+          "start_char": 0,
+          "end_char": 20
+        }
+      ],
+      "text": "今天下午，皮皮的好朋友小熊绒绒来家里玩。",
+      "title": "绒绒来家里玩",
+      "location": "皮皮家门廊",
+      "time_of_day": "冬日下午",
+      "layer": "storybook",
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe.png"
+        ],
+        "rongrong": [
+          "references/rongrong_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001",
+        "rongrong": "vest_green_v001"
+      },
+      "visual_direction": "皮皮家木屋门廊，皮皮穿米色上衣、灰蓝背带裤，迎接来访的小熊绒绒；两人自然微笑问候，干净无雪门廊。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。",
+      "action": "皮皮家木屋门廊，皮皮穿米色上衣、灰蓝背带裤，迎接来访的小熊绒绒；两人自然微笑问候，干净无雪门廊。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "CHAR_RONGRONG_01",
+        "LOC_PORCH_01"
+      ],
+      "state_before": "由森林背景转到同一木屋门廊，朋友到访。",
+      "state_after": "皮皮和绒绒在门廊相见，开始下午整理。",
+      "transition_from": 2,
+      "image_status": "generated",
+      "image_path": "images/shot_03.png",
+      "image": "images/shot_03.png",
+      "speech_start_s": 28.95554166666667,
+      "speech_end_s": 35.181977833333335,
+      "actual_start_s": 28.64,
+      "actual_end_s": 35.48,
+      "visible_start_s": 28.16,
+      "visible_end_s": 35.959999999999994,
+      "visible_duration_s": 7.8,
+      "image_source": "images/shot_03.source.json"
+    },
+    {
+      "id": 4,
+      "paragraph_id": "p001",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u03",
+          "start_char": 0,
+          "end_char": 37
+        }
+      ],
+      "text": "看到皮皮家门廊收纳角里堆着一摞刚送来的干桦木柴，热心肠的绒绒便主动留下来，",
+      "title": "木柴送到收纳角",
+      "location": "门廊收纳角",
+      "time_of_day": "冬日下午",
+      "layer": "storybook",
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe.png"
+        ],
+        "rongrong": [
+          "references/rongrong_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001",
+        "rongrong": "vest_green_v001"
+      },
+      "visual_direction": "门廊收纳角堆着刚送来的干桦木柴，旁边已有矮矮长方形木箱；绒绒热心地挽起袖口表示留下帮忙，皮皮在旁点头。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。",
+      "action": "门廊收纳角堆着刚送来的干桦木柴，旁边已有矮矮长方形木箱；绒绒热心地挽起袖口表示留下帮忙，皮皮在旁点头。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "CHAR_RONGRONG_01",
+        "LOC_PORCH_01",
+        "PROP_FIREWOOD_01",
+        "PROP_WOODBOX_01"
+      ],
+      "state_before": "同一门廊，原木柴堆与木箱固定相邻。",
+      "state_after": "绒绒留下来帮皮皮，把柴放进木箱。",
+      "transition_from": 3,
+      "image_status": "generated",
+      "image_path": "images/shot_04.png",
+      "image": "images/shot_04.png",
+      "speech_start_s": 35.810208333333335,
+      "speech_end_s": 47.15370766666667,
+      "actual_start_s": 35.48,
+      "actual_end_s": 47.36,
+      "visible_start_s": 35.0,
+      "visible_end_s": 47.839999999999996,
+      "visible_duration_s": 12.84,
+      "image_source": "images/shot_04.source.json"
+    },
+    {
+      "id": 5,
+      "paragraph_id": "p001",
+      "source_ranges": [
+        {
+          "unit_id": "p001_u04",
+          "start_char": 0,
+          "end_char": 20
+        }
+      ],
+      "text": "陪皮皮一起把木柴摆进矮矮的长方形木箱里。",
+      "title": "两人开始把木柴放进箱子",
+      "location": "门廊收纳角",
+      "time_of_day": "冬日下午",
+      "layer": "storybook",
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe.png"
+        ],
+        "rongrong": [
+          "references/rongrong_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001",
+        "rongrong": "vest_green_v001"
+      },
+      "visual_direction": "皮皮和绒绒各拿一根桦木柴，开始把柴放进身旁的空木箱；箱内暂时只有一两根，地面旁仍有柴堆。竖屏9:16水彩绘本，人物和木箱置于上方，底部留字幕安全区。",
+      "action": "皮皮和绒绒各拿一根桦木柴，开始把柴放进身旁的空木箱；箱内暂时只有一两根，地面旁仍有柴堆。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "CHAR_RONGRONG_01",
+        "LOC_PORCH_01",
+        "PROP_FIREWOOD_01",
+        "PROP_WOODBOX_01"
+      ],
+      "state_before": "绒绒留下帮助，柴堆在空木箱旁。",
+      "state_after": "两人开始把桦木柴放入空箱，整理刚刚开始。",
+      "transition_from": 4,
+      "image_status": "generated",
+      "image_path": "images/shot_05.png",
+      "image": "images/shot_05.png",
+      "speech_start_s": 35.810208333333335,
+      "speech_end_s": 47.15370766666667,
+      "actual_start_s": 35.48,
+      "actual_end_s": 47.36,
+      "visible_start_s": 35.0,
+      "visible_end_s": 47.839999999999996,
+      "visible_duration_s": 12.84,
+      "image_source": "images/shot_05.source.json"
+    },
+    {
+      "id": 6,
+      "paragraph_id": "p002",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u01",
+          "start_char": 0,
+          "end_char": 42
+        }
+      ],
+      "text": "这些干木柴是从不同的树枝上截下来的，有的长一点，有的短一点，还有的带着一个小树结。\n",
+      "title": "长短不同的木柴",
+      "location": "木柴堆近景",
+      "time_of_day": "冬日下午",
+      "layer": "storybook",
+      "characters": [],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {},
+      "visual_direction": "几根干燥浅色桦木柴并排近景，长短不同，表面有天然树结和纹理；远处虚化可见同一木箱，不改变柴的种类。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。",
+      "action": "几根干燥浅色桦木柴并排近景，长短不同，表面有天然树结和纹理；远处虚化可见同一木箱，不改变柴的种类。",
+      "continuity_refs": [
+        "PROP_FIREWOOD_01",
+        "PROP_WOODBOX_01"
+      ],
+      "state_before": "承接门廊木柴堆与木箱。",
+      "state_after": "木柴确有不同长度与天然树结。",
+      "transition_from": 5,
+      "image_status": "generated",
+      "image_path": "images/shot_06.png",
+      "image": "images/shot_06.png",
+      "speech_start_s": 47.544645833333334,
+      "speech_end_s": 53.41764583333333,
+      "actual_start_s": 47.36,
+      "actual_end_s": 53.68,
+      "visible_start_s": 46.88,
+      "visible_end_s": 54.16,
+      "visible_duration_s": 7.28,
+      "image_source": "images/shot_06.source.json"
+    },
+    {
+      "id": 7,
+      "paragraph_id": "p002",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u02",
+          "start_char": 0,
+          "end_char": 34
+        }
+      ],
+      "text": "刚开始摆的时候，皮皮想把所有木柴都横着放成一排，可总有一两根长木柴，",
+      "title": "皮皮想横着摆一排",
+      "location": "门廊木箱前",
+      "time_of_day": "冬日下午",
+      "layer": "storybook",
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe.png"
+        ],
+        "rongrong": [
+          "references/rongrong_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001",
+        "rongrong": "vest_green_v001"
+      },
+      "visual_direction": "皮皮在矮木箱前尝试把长短木柴都横向摆成一排；绒绒在旁观察，摆放尚未稳定，表情专注而不焦虑。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。",
+      "action": "皮皮在矮木箱前尝试把长短木柴都横向摆成一排；绒绒在旁观察，摆放尚未稳定，表情专注而不焦虑。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "CHAR_RONGRONG_01",
+        "LOC_PORCH_01",
+        "PROP_FIREWOOD_01",
+        "PROP_WOODBOX_01"
+      ],
+      "state_before": "两人仍在同一门廊木箱前开始摆柴。",
+      "state_after": "初次尝试所有木柴横放。",
+      "transition_from": 6,
+      "image_status": "generated",
+      "image_path": "images/shot_07.png",
+      "image": "images/shot_07.png",
+      "speech_start_s": 53.96489583333334,
+      "speech_end_s": 65.81429166666666,
+      "actual_start_s": 53.68,
+      "actual_end_s": 66.08,
+      "visible_start_s": 53.2,
+      "visible_end_s": 66.56,
+      "visible_duration_s": 13.36,
+      "image_source": "images/shot_07.source.json"
+    },
+    {
+      "id": 8,
+      "paragraph_id": "p002",
+      "source_ranges": [
+        {
+          "unit_id": "p002_u03",
+          "start_char": 0,
+          "end_char": 34
+        }
+      ],
+      "text": "调皮地从箱子旁边露出一截头，弄得上面的木柴怎么也放不平，摇摇晃晃的。",
+      "title": "木柴露出箱外",
+      "location": "门廊木箱侧面",
+      "time_of_day": "冬日下午",
+      "layer": "storybook",
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe.png"
+        ],
+        "rongrong": [
+          "references/rongrong_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001",
+        "rongrong": "vest_green_v001"
+      },
+      "visual_direction": "一两根较长木柴从矮木箱侧边伸出一截，上层木柴微微倾斜摇晃；皮皮看向突出端，绒绒留在箱子另一侧，画面安全不危险。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。",
+      "action": "一两根较长木柴从矮木箱侧边伸出一截，上层木柴微微倾斜摇晃；皮皮看向突出端，绒绒留在箱子另一侧，画面安全不危险。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "CHAR_RONGRONG_01",
+        "LOC_PORCH_01",
+        "PROP_FIREWOOD_01",
+        "PROP_WOODBOX_01"
+      ],
+      "state_before": "木柴由横向排列导致长柴外露；不出现倒塌。",
+      "state_after": "箱中上层不平，有轻微摇晃。",
+      "transition_from": 7,
+      "image_status": "generated",
+      "image_path": "images/shot_08.png",
+      "image": "images/shot_08.png",
+      "speech_start_s": 66.37022916666668,
+      "speech_end_s": 76.363791,
+      "actual_start_s": 66.08,
+      "actual_end_s": 76.6,
+      "visible_start_s": 65.6,
+      "visible_end_s": 77.08,
+      "visible_duration_s": 11.48,
+      "image_source": "images/shot_08.source.json"
+    },
+    {
+      "id": 9,
+      "paragraph_id": "p003",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u01",
+          "start_char": 0,
+          "end_char": 23
+        }
+      ],
+      "text": "小熊绒绒平时经常帮熊爸爸整理木工坊，很有经验。",
+      "title": "绒绒想起木工坊",
+      "location": "门廊木箱旁",
+      "time_of_day": "冬日下午",
+      "layer": "storybook",
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe.png"
+        ],
+        "rongrong": [
+          "references/rongrong_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001",
+        "rongrong": "vest_green_v001"
+      },
+      "visual_direction": "绒绒沉着地观察摇晃的木柴，抬爪示意可以先打好底层；皮皮认真看向绒绒，彼此姿势自然，门廊布局一致。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。",
+      "action": "绒绒沉着地观察摇晃的木柴，抬爪示意可以先打好底层；皮皮认真看向绒绒，彼此姿势自然，门廊布局一致。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "CHAR_RONGRONG_01",
+        "LOC_PORCH_01",
+        "PROP_WOODBOX_01"
+      ],
+      "state_before": "承接摇晃状态，绒绒凭整理木工坊的经验提出办法。",
+      "state_after": "两人决定从粗而平的长柴开始搭底。",
+      "transition_from": 8,
+      "image_status": "generated",
+      "image_path": "images/shot_09.png",
+      "image": "images/shot_09.png",
+      "speech_start_s": 76.80525,
+      "speech_end_s": 86.76191633333333,
+      "actual_start_s": 76.6,
+      "actual_end_s": 87.04,
+      "visible_start_s": 76.11999999999999,
+      "visible_end_s": 87.52000000000001,
+      "visible_duration_s": 11.4,
+      "image_source": "images/shot_09.source.json"
+    },
+    {
+      "id": 10,
+      "paragraph_id": "p003",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u02",
+          "start_char": 0,
+          "end_char": 36
+        }
+      ],
+      "text": "他先帮皮皮把最粗、最平的几根长木柴垫在箱子最底下，铺成稳稳的一层地基；\n",
+      "title": "粗长木柴铺成地基",
+      "location": "木箱内近景",
+      "time_of_day": "冬日下午",
+      "layer": "storybook",
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe.png"
+        ],
+        "rongrong": [
+          "references/rongrong_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001",
+        "rongrong": "vest_green_v001"
+      },
+      "visual_direction": "绒绒把最粗最平的几根长桦木平稳并排放在木箱底部，形成平直地基；皮皮扶住木箱边缘，木柴不外露。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。",
+      "action": "绒绒把最粗最平的几根长桦木平稳并排放在木箱底部，形成平直地基；皮皮扶住木箱边缘，木柴不外露。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "CHAR_RONGRONG_01",
+        "LOC_PORCH_01",
+        "PROP_FIREWOOD_01",
+        "PROP_WOODBOX_01"
+      ],
+      "state_before": "长柴从箱底开始铺放，物件状态开始改善。",
+      "state_after": "木箱底层被粗平长柴铺稳。",
+      "transition_from": 9,
+      "image_status": "generated",
+      "image_path": "images/shot_10.png",
+      "image": "images/shot_10.png",
+      "speech_start_s": 87.34043750000001,
+      "speech_end_s": 94.398707,
+      "actual_start_s": 87.04,
+      "actual_end_s": 94.72,
+      "visible_start_s": 86.56,
+      "visible_end_s": 95.2,
+      "visible_duration_s": 8.64,
+      "image_source": "images/shot_10.source.json"
+    },
+    {
+      "id": 11,
+      "paragraph_id": "p003",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u03",
+          "start_char": 0,
+          "end_char": 27
+        }
+      ],
+      "text": "接着，皮皮开动脑筋，把那些短短的小木柴，像拼积木一样，",
+      "title": "皮皮找到空位",
+      "location": "木箱内近景",
+      "time_of_day": "冬日下午",
+      "layer": "storybook",
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe.png"
+        ],
+        "rongrong": [
+          "references/rongrong_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001",
+        "rongrong": "vest_green_v001"
+      },
+      "visual_direction": "皮皮认真看着长木柴之间留下的小空位，手里拿起一根短木柴，眼神灵活专注；绒绒在旁鼓励。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。",
+      "action": "皮皮认真看着长木柴之间留下的小空位，手里拿起一根短木柴，眼神灵活专注；绒绒在旁鼓励。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "CHAR_RONGRONG_01",
+        "LOC_PORCH_01",
+        "PROP_FIREWOOD_01",
+        "PROP_WOODBOX_01"
+      ],
+      "state_before": "承接已铺好的木柴地基，同一木箱。",
+      "state_after": "皮皮准备以短柴填补边上的空位。",
+      "transition_from": 10,
+      "image_status": "generated",
+      "image_path": "images/shot_11.png",
+      "image": "images/shot_11.png",
+      "speech_start_s": 95.01693750000001,
+      "speech_end_s": 105.94099966666668,
+      "actual_start_s": 94.72,
+      "actual_end_s": 106.24,
+      "visible_start_s": 94.24,
+      "visible_end_s": 106.72,
+      "visible_duration_s": 12.48,
+      "image_source": "images/shot_11.source.json"
+    },
+    {
+      "id": 12,
+      "paragraph_id": "p003",
+      "source_ranges": [
+        {
+          "unit_id": "p003_u04",
+          "start_char": 0,
+          "end_char": 18
+        }
+      ],
+      "text": "刚好填进长木柴旁边空出来的小位置里。",
+      "title": "短木柴像拼积木",
+      "location": "木箱内近景",
+      "time_of_day": "冬日下午",
+      "layer": "storybook",
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe.png"
+        ],
+        "rongrong": [
+          "references/rongrong_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001",
+        "rongrong": "vest_green_v001"
+      },
+      "visual_direction": "皮皮把短小的桦木柴刚好横放进长木柴旁的空位，形成彼此支撑的层次；绒绒看着并轻轻点头。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。",
+      "action": "皮皮把短小的桦木柴刚好横放进长木柴旁的空位，形成彼此支撑的层次；绒绒看着并轻轻点头。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "CHAR_RONGRONG_01",
+        "LOC_PORCH_01",
+        "PROP_FIREWOOD_01",
+        "PROP_WOODBOX_01"
+      ],
+      "state_before": "皮皮接着在长柴旁填入短柴。",
+      "state_after": "短柴补入空缺，木柴彼此靠稳。",
+      "transition_from": 11,
+      "image_status": "generated",
+      "image_path": "images/shot_12.png",
+      "image": "images/shot_12.png",
+      "speech_start_s": 106.54797916666668,
+      "speech_end_s": 114.43960416666668,
+      "actual_start_s": 106.24,
+      "actual_end_s": 114.64,
+      "visible_start_s": 105.75999999999999,
+      "visible_end_s": 115.12,
+      "visible_duration_s": 9.36,
+      "image_source": "images/shot_12.source.json"
+    },
+    {
+      "id": 13,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u01",
+          "start_char": 0,
+          "end_char": 33
+        }
+      ],
+      "text": "一根接一根，“笃、笃、笃”，清脆的木头碰撞声在傍晚的门廊下响起。\n",
+      "title": "笃笃的木头声",
+      "location": "门廊木箱",
+      "time_of_day": "傍晚",
+      "layer": "storybook",
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe.png"
+        ],
+        "rongrong": [
+          "references/rongrong_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001",
+        "rongrong": "vest_green_v001"
+      },
+      "visual_direction": "皮皮和绒绒一根接一根轻放木柴，木头相触的瞬间有细小木屑与柔和动态感，但画面静止；暖色傍晚门廊。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。",
+      "action": "皮皮和绒绒一根接一根轻放木柴，木头相触的瞬间有细小木屑与柔和动态感，但画面静止；暖色傍晚门廊。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "CHAR_RONGRONG_01",
+        "LOC_PORCH_01",
+        "PROP_FIREWOOD_01",
+        "PROP_WOODBOX_01"
+      ],
+      "state_before": "收尾动作持续发生，日光逐渐变成傍晚。",
+      "state_after": "木柴逐根放入箱中，轻碰声响起。",
+      "transition_from": 12,
+      "image_status": "generated",
+      "image_path": "images/shot_13.png",
+      "image": "images/shot_13.png",
+      "speech_start_s": 114.85606250000001,
+      "speech_end_s": 120.01945733333334,
+      "actual_start_s": 114.64,
+      "actual_end_s": 120.32,
+      "visible_start_s": 114.16,
+      "visible_end_s": 120.8,
+      "visible_duration_s": 6.64,
+      "image_source": "images/shot_13.source.json"
+    },
+    {
+      "id": 14,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u02",
+          "start_char": 0,
+          "end_char": 39
+        }
+      ],
+      "text": "很快，他们就发现：原来木柴根本不用长得一模一样长，只要互相让一让、补一补空缺，",
+      "title": "互相让位补空缺",
+      "location": "木箱俯侧角度",
+      "time_of_day": "冬日傍晚",
+      "layer": "storybook",
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe.png"
+        ],
+        "rongrong": [
+          "references/rongrong_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001",
+        "rongrong": "vest_green_v001"
+      },
+      "visual_direction": "俯侧视角显示不同长度的木柴交错靠在一起，空隙被合适短柴补好；皮皮和绒绒的爪子在箱沿附近，不出现尺子或多余道具。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。",
+      "action": "俯侧视角显示不同长度的木柴交错靠在一起，空隙被合适短柴补好；皮皮和绒绒的爪子在箱沿附近，不出现尺子或多余道具。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "CHAR_RONGRONG_01",
+        "LOC_PORCH_01",
+        "PROP_FIREWOOD_01",
+        "PROP_WOODBOX_01"
+      ],
+      "state_before": "承接逐根摆放后的逐渐完成状态。",
+      "state_after": "长短木柴互相让出空间并补齐空位。",
+      "transition_from": 13,
+      "image_status": "generated",
+      "image_path": "images/shot_14.png",
+      "image": "images/shot_14.png",
+      "speech_start_s": 120.59333333333333,
+      "speech_end_s": 130.29610350000002,
+      "actual_start_s": 120.32,
+      "actual_end_s": 130.6,
+      "visible_start_s": 119.83999999999999,
+      "visible_end_s": 131.07999999999998,
+      "visible_duration_s": 11.24,
+      "image_source": "images/shot_14.source.json"
+    },
+    {
+      "id": 15,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u03",
+          "start_char": 0,
+          "end_char": 33
+        }
+      ],
+      "text": "就能稳稳当当地靠在一起！整只木箱装得平平整整，一点儿也不再摇晃了，",
+      "title": "木箱稳稳平整",
+      "location": "门廊木箱",
+      "time_of_day": "冬日傍晚",
+      "layer": "storybook",
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe.png"
+        ],
+        "rongrong": [
+          "references/rongrong_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001",
+        "rongrong": "vest_green_v001"
+      },
+      "visual_direction": "矮木箱装得平平整整，柴端齐整收在箱沿之内；皮皮轻轻用爪子试着确认不摇晃，绒绒安稳站在旁边。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。",
+      "action": "矮木箱装得平平整整，柴端齐整收在箱沿之内；皮皮轻轻用爪子试着确认不摇晃，绒绒安稳站在旁边。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "CHAR_RONGRONG_01",
+        "LOC_PORCH_01",
+        "PROP_FIREWOOD_01",
+        "PROP_WOODBOX_01"
+      ],
+      "state_before": "相同木箱完成码放，突出稳定结果。",
+      "state_after": "木箱平整、稳定，不再摇晃。",
+      "transition_from": 14,
+      "image_status": "generated",
+      "image_path": "images/shot_15.png",
+      "image": "images/shot_15.png",
+      "speech_start_s": 130.900375,
+      "speech_end_s": 142.64435416666666,
+      "actual_start_s": 130.6,
+      "actual_end_s": 142.84,
+      "visible_start_s": 130.12,
+      "visible_end_s": 143.32,
+      "visible_duration_s": 13.2,
+      "image_source": "images/shot_15.source.json"
+    },
+    {
+      "id": 16,
+      "paragraph_id": "p004",
+      "source_ranges": [
+        {
+          "unit_id": "p004_u04",
+          "start_char": 0,
+          "end_char": 13
+        }
+      ],
+      "text": "门廊的地面也变得清爽极了。",
+      "title": "门廊地面清爽",
+      "location": "门廊地面",
+      "time_of_day": "冬日傍晚",
+      "layer": "storybook",
+      "characters": [],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {},
+      "wardrobe_ids": {},
+      "visual_direction": "同一门廊地面已清理干净，木屑扫到一只小木屑盘中，装满木柴的木箱仍在收纳角；环境整洁清爽。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。",
+      "action": "同一门廊地面已清理干净，木屑扫到一只小木屑盘中，装满木柴的木箱仍在收纳角；环境整洁清爽。",
+      "continuity_refs": [
+        "LOC_PORCH_01",
+        "PROP_WOODBOX_01",
+        "PROP_SAWDUST_01"
+      ],
+      "state_before": "劳动完成后地面收拾干净，木箱位置不变。",
+      "state_after": "门廊地面清爽，木箱收纳完成。",
+      "transition_from": 15,
+      "image_status": "generated",
+      "image_path": "images/shot_16.png",
+      "image": "images/shot_16.png",
+      "speech_start_s": 143.07041666666666,
+      "speech_end_s": 152.60387466666666,
+      "actual_start_s": 142.84,
+      "actual_end_s": 152.8,
+      "visible_start_s": 142.36,
+      "visible_end_s": 153.28,
+      "visible_duration_s": 10.92,
+      "image_source": "images/shot_16.source.json"
+    },
+    {
+      "id": 17,
+      "paragraph_id": "p005",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u01",
+          "start_char": 0,
+          "end_char": 39
+        }
+      ],
+      "text": "干完活儿，皮皮和绒绒互相拍了拍小爪子上的木屑，并排坐在门廊的台阶上歇了一会儿，",
+      "title": "拍掉爪上木屑坐下歇息",
+      "location": "门廊台阶",
+      "time_of_day": "冬日傍晚",
+      "layer": "storybook",
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe.png"
+        ],
+        "rongrong": [
+          "references/rongrong_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001",
+        "rongrong": "vest_green_v001"
+      },
+      "visual_direction": "皮皮和绒绒互相轻拍爪上的少许木屑，然后并排坐上门廊台阶休息；背景中已整齐的木箱在收纳角，动作放松。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。",
+      "action": "皮皮和绒绒互相轻拍爪上的少许木屑，然后并排坐上门廊台阶休息；背景中已整齐的木箱在收纳角，动作放松。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "CHAR_RONGRONG_01",
+        "LOC_PORCH_01",
+        "PROP_WOODBOX_01",
+        "PROP_SAWDUST_01"
+      ],
+      "state_before": "两人结束整理，离开木箱旁转到门廊台阶坐下。",
+      "state_after": "皮皮和绒绒并排休息，工作已完成。",
+      "transition_from": 16,
+      "image_status": "generated",
+      "image_path": "images/shot_17.png",
+      "image": "images/shot_17.png",
+      "speech_start_s": 152.99145833333333,
+      "speech_end_s": 156.760249,
+      "actual_start_s": 152.8,
+      "actual_end_s": 157.04,
+      "visible_start_s": 152.32000000000002,
+      "visible_end_s": 157.51999999999998,
+      "visible_duration_s": 5.2,
+      "image_source": "images/shot_17.source.json"
+    },
+    {
+      "id": 18,
+      "paragraph_id": "p005",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u02",
+          "start_char": 0,
+          "end_char": 23
+        }
+      ],
+      "text": "看着远处的天空从浅蓝色慢慢变成深邃的夜空蓝。\n",
+      "title": "天空从浅蓝走向夜蓝",
+      "location": "门廊台阶远景",
+      "time_of_day": "冬日傍晚",
+      "layer": "storybook",
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe.png"
+        ],
+        "rongrong": [
+          "references/rongrong_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001",
+        "rongrong": "vest_green_v001"
+      },
+      "visual_direction": "皮皮和绒绒的背影安静坐在门廊台阶上，远处天空从浅蓝渐染成深邃夜空蓝；收纳木箱的轮廓留在门廊边。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。",
+      "action": "皮皮和绒绒的背影安静坐在门廊台阶上，远处天空从浅蓝渐染成深邃夜空蓝；收纳木箱的轮廓留在门廊边。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "CHAR_RONGRONG_01",
+        "LOC_PORCH_01",
+        "PROP_WOODBOX_01"
+      ],
+      "state_before": "延续两人坐着休息，时间自然变晚。",
+      "state_after": "天空转暗，门廊工作仍留在原处。",
+      "transition_from": 17,
+      "image_status": "generated",
+      "image_path": "images/shot_18.png",
+      "image": "images/shot_18.png",
+      "speech_start_s": 157.33527083333334,
+      "speech_end_s": 168.53210383333334,
+      "actual_start_s": 157.04,
+      "actual_end_s": 168.72,
+      "visible_start_s": 156.56,
+      "visible_end_s": 169.2,
+      "visible_duration_s": 12.64,
+      "image_source": "images/shot_18.source.json"
+    },
+    {
+      "id": 19,
+      "paragraph_id": "p005",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u03",
+          "start_char": 0,
+          "end_char": 24
+        }
+      ],
+      "text": "等绒绒挥手回家后，皮皮进屋前又看了一眼那只木箱。",
+      "title": "绒绒挥手回家",
+      "location": "门廊外",
+      "time_of_day": "冬日黄昏",
+      "layer": "storybook",
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe.png"
+        ],
+        "rongrong": [
+          "references/rongrong_identity_v001.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001",
+        "rongrong": "vest_green_v001"
+      },
+      "visual_direction": "绒绒站在门廊出口挥手告别，皮皮站在门边回挥；小熊向冬日森林小路走去，门廊木箱仍在收纳角。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。",
+      "action": "绒绒站在门廊出口挥手告别，皮皮站在门边回挥；小熊向冬日森林小路走去，门廊木箱仍在收纳角。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "CHAR_RONGRONG_01",
+        "LOC_PORCH_01",
+        "PROP_WOODBOX_01"
+      ],
+      "state_before": "绒绒从台阶起身离开，皮皮留在门廊。",
+      "state_after": "绒绒回家，皮皮独自准备进屋。",
+      "transition_from": 18,
+      "image_status": "generated",
+      "image_path": "images/shot_19.png",
+      "image": "images/shot_19.png",
+      "speech_start_s": 168.94395833333334,
+      "speech_end_s": 175.78331183333333,
+      "actual_start_s": 168.72,
+      "actual_end_s": 176.08,
+      "visible_start_s": 168.24,
+      "visible_end_s": 176.56,
+      "visible_duration_s": 8.32,
+      "image_source": "images/shot_19.source.json"
+    },
+    {
+      "id": 20,
+      "paragraph_id": "p005",
+      "source_ranges": [
+        {
+          "unit_id": "p005_u04",
+          "start_char": 0,
+          "end_char": 39
+        }
+      ],
+      "text": "木柴已经稳稳地收好了，今晚不需要再搬出来重新摆一次给谁看，工作已经圆满结束啦。",
+      "title": "回头看一眼收好的木箱",
+      "location": "门廊收纳角",
+      "time_of_day": "冬日黄昏",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮进屋前回头望向同一只已收好的木箱，神情安定满足；屋内暖光在身后，木柴依旧整整齐齐。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。",
+      "action": "皮皮进屋前回头望向同一只已收好的木箱，神情安定满足；屋内暖光在身后，木柴依旧整整齐齐。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_PORCH_01",
+        "PROP_WOODBOX_01",
+        "PROP_FIREWOOD_01"
+      ],
+      "state_before": "绒绒已离开，皮皮在同一门廊独自查看成果。",
+      "state_after": "皮皮确认木柴稳稳收好。",
+      "transition_from": 19,
+      "image_status": "generated",
+      "image_path": "images/shot_20.png",
+      "image": "images/shot_20.png",
+      "speech_start_s": 176.40064583333333,
+      "speech_end_s": 183.33235383333334,
+      "actual_start_s": 176.08,
+      "actual_end_s": 183.64,
+      "visible_start_s": 175.60000000000002,
+      "visible_end_s": 184.11999999999998,
+      "visible_duration_s": 8.52,
+      "image_source": "images/shot_20.source.json"
+    },
+    {
+      "id": 21,
+      "paragraph_id": "p006",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u01",
+          "start_char": 0,
+          "end_char": 33
+        }
+      ],
+      "text": "皮皮走进洗手间，用温水把小爪子洗得干干净净，然后回到柔软的小床上，",
+      "title": "温水洗净小爪子",
+      "location": "木屋洗手间",
+      "time_of_day": "冬日夜晚",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_day_wardrobe.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "day_v001"
+      },
+      "visual_direction": "皮皮在温暖的木屋洗手间用温水洗干净小爪子，水龙头水流柔缓，浅色毛巾挂在旁边；表情放松。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。",
+      "action": "皮皮在温暖的木屋洗手间用温水洗干净小爪子，水龙头水流柔缓，浅色毛巾挂在旁边；表情放松。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_BATHROOM_01"
+      ],
+      "state_before": "从门廊转入洗手间，夜晚室内灯光温暖。",
+      "state_after": "皮皮洗净爪子，准备睡觉。",
+      "transition_from": 20,
+      "image_status": "generated",
+      "image_path": "images/shot_21.png",
+      "image": "images/shot_21.png",
+      "speech_start_s": 183.9563125,
+      "speech_end_s": 195.13133233333332,
+      "actual_start_s": 183.64,
+      "actual_end_s": 195.44,
+      "visible_start_s": 183.16,
+      "visible_end_s": 195.92,
+      "visible_duration_s": 12.76,
+      "image_source": "images/shot_21.source.json"
+    },
+    {
+      "id": 22,
+      "paragraph_id": "p006",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u02",
+          "start_char": 0,
+          "end_char": 28
+        }
+      ],
+      "text": "把胡萝卜玩偶轻轻揽在身边。\n长耳朵放下了，眼睛也闭好了。",
+      "title": "回到床上抱住胡萝卜玩偶",
+      "location": "皮皮卧室床边",
+      "time_of_day": "冬日夜晚",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_sleep_wardrobe.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "皮皮换上柔软浅色睡衣和深蓝星星睡帽，回到卧室床边，把橘色胡萝卜玩偶轻轻抱在身侧；卧室布局温暖安静。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。",
+      "action": "皮皮换上柔软浅色睡衣和深蓝星星睡帽，回到卧室床边，把橘色胡萝卜玩偶轻轻抱在身侧；卧室布局温暖安静。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_BEDROOM_01",
+        "PROP_BED_01",
+        "PROP_CARROT_DOLL_01"
+      ],
+      "state_before": "皮皮洗手后回卧室，衣着切换为睡衣。",
+      "state_after": "皮皮躺到小床上，胡萝卜玩偶陪在身旁。",
+      "transition_from": 21,
+      "image_status": "generated",
+      "image_path": "images/shot_22.png",
+      "image": "images/shot_22.png",
+      "speech_start_s": 195.72975,
+      "speech_end_s": 205.876124,
+      "actual_start_s": 195.44,
+      "actual_end_s": 206.08,
+      "visible_start_s": 194.96,
+      "visible_end_s": 206.56,
+      "visible_duration_s": 11.6,
+      "image_source": "images/shot_22.source.json"
+    },
+    {
+      "id": 23,
+      "paragraph_id": "p006",
+      "source_ranges": [
+        {
+          "unit_id": "p006_u03",
+          "start_char": 0,
+          "end_char": 41
+        }
+      ],
+      "text": "白天搬木柴用过的那些小力气，在温暖的被窝里变成了一种踏实的放松感，慢慢地歇了下来。",
+      "title": "长耳朵放下眼睛闭好",
+      "location": "皮皮卧室床铺",
+      "time_of_day": "冬日夜晚",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_sleep_wardrobe.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "皮皮躺在小床上，长耳朵自然落在枕边，双眼安稳闭好；胡萝卜玩偶轻轻靠在身旁，毛毯盖到肩下，不遮口鼻。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。",
+      "action": "皮皮躺在小床上，长耳朵自然落在枕边，双眼安稳闭好；胡萝卜玩偶轻轻靠在身旁，毛毯盖到肩下，不遮口鼻。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_BEDROOM_01",
+        "PROP_BED_01",
+        "PROP_CARROT_DOLL_01",
+        "PROP_BLANKET_01"
+      ],
+      "state_before": "承接皮皮躺下和胡萝卜玩偶在侧。",
+      "state_after": "皮皮闭眼休息，姿态放松。",
+      "transition_from": 22,
+      "image_status": "generated",
+      "image_path": "images/shot_23.png",
+      "image": "images/shot_23.png",
+      "speech_start_s": 206.2608125,
+      "speech_end_s": 214.85079066666665,
+      "actual_start_s": 206.08,
+      "actual_end_s": 215.12,
+      "visible_start_s": 205.60000000000002,
+      "visible_end_s": 215.6,
+      "visible_duration_s": 10.0,
+      "image_source": "images/shot_23.source.json"
+    },
+    {
+      "id": 24,
+      "paragraph_id": "p007",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u01",
+          "start_char": 0,
+          "end_char": 36
+        }
+      ],
+      "text": "小朋友，今天你认真做完的事情，就已经做得很好了，让它们稳稳地留在原处吧。",
+      "title": "力气在暖被窝里歇下",
+      "location": "皮皮卧室床铺",
+      "time_of_day": "冬日夜晚",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_sleep_wardrobe.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "安静卧室里，皮皮盖着柔软被子熟睡，手边木工活动已告一段落；窗外夜色清冷，床头灯暖黄柔和，画面表达踏实放松。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。",
+      "action": "安静卧室里，皮皮盖着柔软被子熟睡，手边木工活动已告一段落；窗外夜色清冷，床头灯暖黄柔和，画面表达踏实放松。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_BEDROOM_01",
+        "PROP_BED_01",
+        "PROP_CARROT_DOLL_01",
+        "PROP_BLANKET_01"
+      ],
+      "state_before": "皮皮由闭眼转入安静休息，卧室布局保持固定。",
+      "state_after": "白天用过的力气慢慢歇下，皮皮安稳睡着。",
+      "transition_from": 23,
+      "image_status": "generated",
+      "image_path": "images/shot_24.png",
+      "image": "images/shot_24.png",
+      "speech_start_s": 215.408875,
+      "speech_end_s": 227.574791,
+      "actual_start_s": 215.12,
+      "actual_end_s": 227.88,
+      "visible_start_s": 214.64000000000001,
+      "visible_end_s": 228.35999999999999,
+      "visible_duration_s": 13.72,
+      "image_source": "images/shot_24.source.json"
+    },
+    {
+      "id": 25,
+      "paragraph_id": "p007",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u02",
+          "start_char": 0,
+          "end_char": 22
+        }
+      ],
+      "text": "现在，轮到劳累了一天的你，舒舒服服地休息啦。",
+      "title": "轮到你舒舒服服休息",
+      "location": "卧室尾声",
+      "time_of_day": "冬日深夜",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_sleep_wardrobe.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "皮皮在温暖被窝里熟睡，画面远处门廊方向留有温柔木色意象，窗外深蓝宁静；不出现文字或新增角色。 竖屏9:16水彩绘本，柔和纸纹，单幅静止无字图；角色和重要木箱位于中上部，底部留出拼音字幕安全区。",
+      "action": "皮皮在暖黄毛毯下安静睡着，耳朵自然垂落，窗外深蓝宁静，画面留白温柔。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_BEDROOM_01",
+        "PROP_BED_01",
+        "PROP_BLANKET_01"
+      ],
+      "state_before": "回应听众完成的事情，皮皮已经安睡。",
+      "state_after": "已完成的事情留在原处，不再返工。",
+      "transition_from": 24,
+      "image_status": "generated",
+      "image_path": "images/shot_25.png",
+      "image": "images/shot_25.png",
+      "speech_start_s": 228.16429166666666,
+      "speech_end_s": 238.19127083333333,
+      "actual_start_s": 227.88,
+      "actual_end_s": 238.48,
+      "visible_start_s": 227.4,
+      "visible_end_s": 238.95999999999998,
+      "visible_duration_s": 11.56,
+      "image_source": "images/shot_25.source.json"
+    },
+    {
+      "id": 26,
+      "paragraph_id": "p007",
+      "source_ranges": [
+        {
+          "unit_id": "p007_u03",
+          "start_char": 0,
+          "end_char": 3
+        }
+      ],
+      "text": "晚安。",
+      "title": "轻轻说晚安",
+      "location": "卧室尾声",
+      "time_of_day": "冬日深夜",
+      "layer": "storybook",
+      "characters": [
+        "pipi"
+      ],
+      "character_reference_manifest": "references/episode_cast.json",
+      "character_references": {
+        "pipi": [
+          "references/pipi_identity_v001.png",
+          "references/pipi_sleep_wardrobe.png"
+        ]
+      },
+      "wardrobe_ids": {
+        "pipi": "sleep_v001"
+      },
+      "visual_direction": "皮皮睡在温暖小床上，长耳朵自然垂在枕边，胡萝卜玩偶在身旁，深蓝夜色与床头灯柔光；留出底部字幕安全区。无文字。",
+      "action": "皮皮安稳睡着，最后轻轻说晚安。",
+      "continuity_refs": [
+        "CHAR_PIPI_01",
+        "LOC_BEDROOM_01",
+        "PROP_BED_01",
+        "PROP_BLANKET_01"
+      ],
+      "state_before": "皮皮已在暖被窝里放松休息。",
+      "state_after": "皮皮继续安睡，保留8秒安静尾声。",
+      "transition_from": 25,
+      "image_status": "planned",
+      "image_path": "images/shot_26.png",
+      "image": "images/shot_26.png",
+      "speech_start_s": 228.16429166666666,
+      "speech_end_s": 238.19127083333333,
+      "actual_start_s": 227.88,
+      "actual_end_s": 238.48,
+      "visible_start_s": 227.4,
+      "visible_end_s": 238.95999999999998,
+      "visible_duration_s": 11.56,
+      "image_source": "images/shot_25.source.json"
+    }
+  ]
+}

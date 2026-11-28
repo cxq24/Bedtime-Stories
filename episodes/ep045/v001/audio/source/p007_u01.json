@@ -1,0 +1,143 @@
+{
+  "text": "小朋友，今天你认真做完的事情，就已经做得很好了，让它们稳稳地留在原处吧。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "b7a4d3102afc44ac33f8dbb5dd17d9e2a0391fb6212a570d850391c1a7073685",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 10577080,
+      "text": "小朋友"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16461660,
+      "duration": 5192080,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21653750,
+      "duration": 1538330,
+      "text": "你"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23577080,
+      "duration": 5000000,
+      "text": "认真"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28769160,
+      "duration": 5192500,
+      "text": "做完"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33961660,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35500000,
+      "duration": 7884580,
+      "text": "事情"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46077080,
+      "duration": 2500000,
+      "text": "就"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48577080,
+      "duration": 4230830,
+      "text": "已经"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53192500,
+      "duration": 2307500,
+      "text": "做"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55500000,
+      "duration": 1346250,
+      "text": "得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57038330,
+      "duration": 3461660,
+      "text": "很"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60500000,
+      "duration": 4230830,
+      "text": "好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64730830,
+      "duration": 2884580,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 72422910,
+      "duration": 2307500,
+      "text": "让"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 74922910,
+      "duration": 3846250,
+      "text": "它们"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 79153750,
+      "duration": 5769160,
+      "text": "稳稳"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 84922910,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 86653750,
+      "duration": 2115410,
+      "text": "留"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 88769160,
+      "duration": 2307500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 91269160,
+      "duration": 6730830,
+      "text": "原处"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 98000000,
+      "duration": 3653750,
+      "text": "吧"
+    }
+  ]
+}
